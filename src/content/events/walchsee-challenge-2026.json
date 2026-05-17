@@ -1,21 +1,24 @@
 {
   "id": "walchsee-challenge-2026",
-  "name": "Walchsee Challenge",
+  "name": "Challenge Kaiserwinkl-Walchsee",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz", "Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
-    "start": "2026-06-06",
-    "end": "2026-06-06",
-    "confirmed": false
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "confirmed": true
   },
   "location": {
-    "name": "Walchsee",
+    "name": "Walchsee, Kaiserwinkl",
     "lat": 47.6543,
     "lng": 12.3308,
     "region": "Tirol"
   },
-  "websiteUrl": "https://www.walchseechallenge.at",
-  "description": "Idyllischer Tiroler Triathlon mit Schwimmen im glasklaren Walchsee, anspruchsvoller Radstrecke durch das Kaiserwinkl und Lauf entlang des Sees. Mitteldistanz mit ~1.500 hm am Rad.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "websiteUrl": "https://challenge-walchsee.com/",
+  "description": "Challenge-Rennen im idyllischen Kaiserwinkl in Tirol mit 1,9 km Schwimmen im glasklaren Walchsee, 90 km Rad durch die Tiroler Bergwelt und 21,9 km Lauf in vier Runden um den See. Hauptbewerb am 28. Juni 2026 um 08:30 Uhr, dazu Aquabike und Staffelbewerb.",
   "distanceKm": 113,
   "elevationGainM": 1500
 }

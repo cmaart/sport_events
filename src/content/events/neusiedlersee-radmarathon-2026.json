@@ -2,7 +2,10 @@
   "id": "neusiedlersee-radmarathon-2026",
   "name": "Neusiedlersee Radmarathon",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-04-18",
     "end": "2026-04-19",

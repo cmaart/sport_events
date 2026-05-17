@@ -1,20 +1,22 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-50: #f5faff;
-  --color-brand-100: #e3f1ff;
-  --color-brand-500: #2c80ff;
-  --color-brand-600: #1c66dd;
-  --color-brand-700: #144fb0;
-  --color-accent-500: #ff7a3d;
-  --color-accent-600: #e9621f;
-  --color-ink-900: #0e1726;
-  --color-ink-700: #2a3650;
-  --color-ink-500: #5b6781;
-  --color-ink-300: #b6bdce;
-  --color-ink-100: #eef1f7;
+  /* Endure brand: orange primary, pink/purple accents */
+  --color-brand-50: #fff6f1;
+  --color-brand-100: #ffe2d4;
+  --color-brand-500: #F05D23;
+  --color-brand-600: #e04c12;
+  --color-brand-700: #b83a08;
+  --color-accent-500: #d63c6b;
+  --color-accent-600: #b9305c;
+  --color-accent-purple: #6b4c9a;
+  --color-ink-900: #0f172a;
+  --color-ink-700: #334155;
+  --color-ink-500: #64748b;
+  --color-ink-300: #cbd5e1;
+  --color-ink-100: #e2e8f0;
   --color-surface: #ffffff;
-  --color-surface-muted: #f7f9fc;
+  --color-surface-muted: #f8fafc;
   --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
@@ -27,6 +29,55 @@ html {
 
 body {
   min-height: 100vh;
+}
+
+/* Endure-style utilities */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-accent-500) 0%, var(--color-accent-purple) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.75rem;
+  background: var(--color-brand-500);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  box-shadow: 0 6px 18px rgba(240, 93, 35, 0.25);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+.btn-primary:hover {
+  background: var(--color-brand-600);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px rgba(240, 93, 35, 0.35);
+}
+
+.card-surface {
+  background: var(--color-surface);
+  border: 1px solid var(--color-ink-100);
+  border-radius: 1rem;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+}
+
+.glow-orange {
+  box-shadow: 0 0 60px rgba(240, 93, 35, 0.2);
+}
+.glow-pink {
+  box-shadow: 0 0 60px rgba(214, 60, 107, 0.2);
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+.animate-float {
+  animation: float 4s ease-in-out infinite;
 }
 
 /* Leaflet container needs explicit height */
@@ -48,7 +99,7 @@ body {
   align-items: center;
   justify-content: center;
   font-weight: 600;
-  box-shadow: 0 4px 10px rgba(28, 102, 221, 0.35);
+  box-shadow: 0 4px 10px rgba(240, 93, 35, 0.35);
   border: 3px solid white;
 }
 

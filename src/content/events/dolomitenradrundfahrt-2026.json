@@ -2,7 +2,11 @@
   "id": "dolomitenradrundfahrt-2026",
   "name": "Dolomitenradrundfahrt & SuperGiroDolomiti",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Berg"],
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-14",
     "end": "2026-06-14",

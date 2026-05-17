@@ -2,7 +2,11 @@
   "id": "mondsee-5-seen-radmarathon-2026",
   "name": "Mondsee 5-Seen-Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Gran Fondo"],
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-20",
     "end": "2026-06-21",

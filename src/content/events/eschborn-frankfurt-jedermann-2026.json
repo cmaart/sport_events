@@ -1,0 +1,22 @@
+{
+  "id": "eschborn-frankfurt-jedermann-2026",
+  "name": "Eschborn–Frankfurt Jedermannrennen",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-01",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Eschborn",
+    "lat": 50.1428,
+    "lng": 8.5713
+  },
+  "websiteUrl": "https://www.eschborn-frankfurt.de",
+  "description": "Traditioneller 1. Mai im Rhein-Main-Gebiet: Jedermannrennen im Rahmen des UCI WorldTour-Klassikers Eschborn–Frankfurt. Distanzen von 30 bis 103 km mit dem berüchtigten Mammolshainer Stich. Zieleinlauf an der Alten Oper.",
+  "distanceKm": 103,
+  "elevationGainM": 1400
+}

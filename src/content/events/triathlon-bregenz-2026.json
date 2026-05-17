@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-bregenz-2026",
+  "name": "Triathlon Bregenz",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bregenz",
+    "lat": 47.5055,
+    "lng": 9.7484,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.triathlon-bregenz.at",
+  "registrationUrl": "https://www.triathlon-bregenz.at/anmeldung",
+  "description": "Spektakulärer Olympischer Triathlon am Bodensee vor der Bregenzer Festspielbühne: 1,5 km Schwimmen im Bodensee, 44 km Radstrecke über Lochau und Eichenberg mit Grenzübertritt nach Deutschland (964 Hm), 10 km Lauf auf der Seepromenade.\n\nMaximal 450 Einzelstarter. Anmeldeschluss 14. Juni 2026.",
+  "distanceKm": 55,
+  "elevationGainM": 964
+}

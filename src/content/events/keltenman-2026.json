@@ -1,0 +1,24 @@
+{
+  "id": "keltenman-2026",
+  "name": "Keltenman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Badesee Mitterkirchen im Machland",
+    "lat": 48.201,
+    "lng": 14.663,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.keltenman.at",
+  "description": "4. Keltenman am Badesee Mitterkirchen in der Machland-Region (OÖ): 750 m Schwimmen, 20 km Rad auf einer schnellen Rundstrecke, 5 km Laufen. Sprintdistanz, Start 09:00 Uhr. Ergänzt durch einen Kids-Aquathlon.",
+  "distanceKm": 26,
+  "elevationGainM": 150
+}

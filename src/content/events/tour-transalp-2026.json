@@ -2,7 +2,11 @@
   "id": "tour-transalp-2026",
   "name": "TOUR Transalp",
   "sport": "cycling",
-  "categories": ["Etappenrennen", "Berg"],
+  "categories": [
+    "Etappenrennen",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-21",
     "end": "2026-06-27",

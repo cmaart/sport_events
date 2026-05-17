@@ -2,6 +2,7 @@ import { useMemo, useState } from 'preact/hooks';
 import type { EventData } from '../../lib/filters';
 import { sortEvents } from '../../lib/filters';
 import { formatDateRange, t } from '../../lib/i18n';
+import { COUNTRY_LABELS } from '../../lib/types';
 
 interface Props {
   events: EventData[];
@@ -52,7 +53,8 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
           const isSelected = selectedId === e.slug;
           const sportColor = e.sport === 'cycling'
             ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]'
-            : 'bg-orange-100 text-orange-700';
+            : 'bg-pink-100 text-pink-700';
+          const countryFlag = COUNTRY_LABELS[e.country].flag;
           return (
             <li
               key={e.slug}
@@ -62,10 +64,9 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
                   ? 'border-[var(--color-brand-500)] shadow-md ring-2 ring-[var(--color-brand-500)]/20'
                   : 'border-[var(--color-ink-100)] hover:border-[var(--color-brand-500)] hover:shadow-sm'
               }`}
-              onMouseEnter={() => onSelect(e.slug)}
               onClick={() => onSelect(e.slug)}
             >
-              <a href={`${baseUrl}/events/${e.slug}/`} class="block p-4">
+              <div class="block p-4">
                 <div class="flex items-start justify-between gap-3 mb-2">
                   <span class={`inline-flex items-center text-[10px] uppercase tracking-wide font-medium px-2 py-0.5 rounded-full ${sportColor}`}>
                     {e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon')}
@@ -73,17 +74,28 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
                   <span class="text-xs text-[var(--color-ink-500)] text-right shrink-0">{dateLabel}</span>
                 </div>
                 <h3 class="font-semibold leading-snug mb-1">{e.name}</h3>
-                <p class="text-xs text-[var(--color-ink-500)] mb-2">{e.location.name} · {e.location.region}</p>
+                <p class="text-xs text-[var(--color-ink-500)] mb-2">
+                  <span aria-hidden="true">{countryFlag}</span> {e.location.name}{e.location.region ? ` · ${e.location.region}` : ''}
+                </p>
                 <div class="flex flex-wrap gap-1 mb-2">
                   {e.categories.map((c) => (
                     <span key={c} class="text-[10px] px-1.5 py-0.5 rounded bg-[var(--color-ink-100)] text-[var(--color-ink-700)]">{c}</span>
                   ))}
                 </div>
-                <div class="flex gap-3 text-xs text-[var(--color-ink-500)]">
-                  {e.distanceKm && <span><strong class="text-[var(--color-ink-900)]">{e.distanceKm}</strong> {t('event.distance.unit')}</span>}
-                  {e.elevationGainM && <span><strong class="text-[var(--color-ink-900)]">{e.elevationGainM}</strong> {t('event.elevation.unit')}</span>}
+                <div class="flex items-center justify-between gap-3">
+                  <div class="flex gap-3 text-xs text-[var(--color-ink-500)]">
+                    {e.distanceKm && <span><strong class="text-[var(--color-ink-900)]">{e.distanceKm}</strong> {t('event.distance.unit')}</span>}
+                    {e.elevationGainM && <span><strong class="text-[var(--color-ink-900)]">{e.elevationGainM}</strong> {t('event.elevation.unit')}</span>}
+                  </div>
+                  <a
+                    href={`${baseUrl}/events/${e.slug}/`}
+                    onClick={(ev) => ev.stopPropagation()}
+                    class="text-xs font-medium text-[var(--color-brand-700)] hover:text-[var(--color-brand-500)] shrink-0"
+                  >
+                    {t('event.details')} →
+                  </a>
                 </div>
-              </a>
+              </div>
             </li>
           );
         })}

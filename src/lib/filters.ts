@@ -1,4 +1,4 @@
-import type { Category, Region, Sport } from './types';
+import type { Category, Country, Region, Sport } from './types';
 
 export interface EventData {
   slug: string;
@@ -6,8 +6,9 @@ export interface EventData {
   name: string;
   sport: Sport;
   categories: Category[];
+  country: Country;
   dates: { start: string; end?: string; confirmed: boolean };
-  location: { name: string; lat: number; lng: number; region: Region };
+  location: { name: string; lat: number; lng: number; region?: Region };
   websiteUrl?: string;
   registrationUrl?: string;
   description: string;
@@ -18,7 +19,7 @@ export interface EventData {
 export interface Filters {
   sport: Sport | 'all';
   categories: Category[];
-  regions: Region[];
+  countries: Country[];
   dateFrom: string | null;
   dateTo: string | null;
   query: string;
@@ -28,7 +29,7 @@ export interface Filters {
 export const defaultFilters: Filters = {
   sport: 'all',
   categories: [],
-  regions: [],
+  countries: [],
   dateFrom: null,
   dateTo: null,
   query: '',
@@ -45,7 +46,7 @@ export function applyFilters(events: EventData[], filters: Filters, searchMatche
   return events.filter((e) => {
     if (filters.sport !== 'all' && e.sport !== filters.sport) return false;
     if (filters.categories.length > 0 && !filters.categories.some((c) => e.categories.includes(c))) return false;
-    if (filters.regions.length > 0 && !filters.regions.includes(e.location.region)) return false;
+    if (filters.countries.length > 0 && !filters.countries.includes(e.country)) return false;
     const start = new Date(e.dates.start);
     const end = e.dates.end ? new Date(e.dates.end) : start;
     if (filters.upcomingOnly && end < today) return false;
@@ -60,7 +61,7 @@ export function countActive(filters: Filters): number {
   let n = 0;
   if (filters.sport !== 'all') n++;
   if (filters.categories.length > 0) n++;
-  if (filters.regions.length > 0) n++;
+  if (filters.countries.length > 0) n++;
   if (filters.dateFrom) n++;
   if (filters.dateTo) n++;
   if (filters.query.trim()) n++;

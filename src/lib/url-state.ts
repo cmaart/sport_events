@@ -1,9 +1,9 @@
-import { CATEGORIES, REGIONS, SPORTS, type Category, type Region, type Sport } from './types';
+import { CATEGORIES, COUNTRIES, SPORTS, type Category, type Country, type Sport } from './types';
 import { defaultFilters, type Filters } from './filters';
 
 const SPORT_SET = new Set<string>(SPORTS);
 const CATEGORY_SET = new Set<string>(CATEGORIES);
-const REGION_SET = new Set<string>(REGIONS);
+const COUNTRY_SET = new Set<string>(COUNTRIES);
 
 export function filtersFromSearch(search: string): Filters {
   const p = new URLSearchParams(search);
@@ -11,7 +11,7 @@ export function filtersFromSearch(search: string): Filters {
   return {
     sport: sport && SPORT_SET.has(sport) ? (sport as Sport) : defaultFilters.sport,
     categories: (p.get('kat')?.split(',') ?? []).filter((c) => CATEGORY_SET.has(c)) as Category[],
-    regions: (p.get('region')?.split(',') ?? []).filter((r) => REGION_SET.has(r)) as Region[],
+    countries: (p.get('country')?.split(',') ?? []).filter((c) => COUNTRY_SET.has(c)) as Country[],
     dateFrom: p.get('from'),
     dateTo: p.get('to'),
     query: p.get('q') ?? '',
@@ -23,7 +23,7 @@ export function filtersToSearch(f: Filters): string {
   const p = new URLSearchParams();
   if (f.sport !== 'all') p.set('sport', f.sport);
   if (f.categories.length) p.set('kat', f.categories.join(','));
-  if (f.regions.length) p.set('region', f.regions.join(','));
+  if (f.countries.length) p.set('country', f.countries.join(','));
   if (f.dateFrom) p.set('from', f.dateFrom);
   if (f.dateTo) p.set('to', f.dateTo);
   if (f.query.trim()) p.set('q', f.query.trim());

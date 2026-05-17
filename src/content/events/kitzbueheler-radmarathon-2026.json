@@ -2,7 +2,11 @@
   "id": "kitzbueheler-radmarathon-2026",
   "name": "Kitzbüheler Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Berg"],
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-06",
     "end": "2026-09-06",

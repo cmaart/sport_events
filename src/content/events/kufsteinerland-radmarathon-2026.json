@@ -1,0 +1,24 @@
+{
+  "id": "kufsteinerland-radmarathon-2026",
+  "name": "Kufsteinerland Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kufstein",
+    "lat": 47.5812,
+    "lng": 12.1664,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.kufsteinerland-radmarathon.at",
+  "description": "Tiroler Jedermann-Radmarathon, der 2026 sein zehnjähriges Jubiläum feiert und erstmals Teil des Tiroler Rennrad Cups ist. Der Massenstart am Oberen Stadtplatz Kufstein führt auf dem 120-km-Kurs durch das Thierseetal und Brandenberger Tal; dazu Seenrunde (95 km) und Panoramarunde (48 km).",
+  "distanceKm": 120,
+  "elevationGainM": 1800
+}

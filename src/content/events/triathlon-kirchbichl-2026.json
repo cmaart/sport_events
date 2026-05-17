@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-kirchbichl-2026",
+  "name": "VENTO TRANS Triathlon Kirchbichl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Strandbad Kirchbichl",
+    "lat": 47.518,
+    "lng": 12.096,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.triathlon-kirchbichl.at",
+  "description": "40. Ausgabe des traditionsreichsten Triathlons in Tirol, organisiert von den Greenhorns Bichlwang. Sprint (750 m/20 km/5,2 km) und olympische Distanz (1,5 km/40 km/10 km) am Hechtsee und Inn-Radweg. Start 12:30 Uhr.",
+  "distanceKm": 26,
+  "elevationGainM": 200
+}

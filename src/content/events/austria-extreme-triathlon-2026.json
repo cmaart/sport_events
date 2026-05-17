@@ -1,0 +1,25 @@
+{
+  "id": "austria-extreme-triathlon-2026",
+  "name": "Austria eXtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feldkirchen bei Graz (Start) → Dachstein (Ziel)",
+    "lat": 46.983,
+    "lng": 15.483,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.autxtri.com",
+  "description": "11. Ausgabe des härtesten Triathlons der Steiermark: 3,8 km Schwimmen, 186,6 km Rad und 44 km Laufen mit 5.800 Höhenmetern auf alpinem Terrain von Feldkirchen bei Graz bis zum Dachsteinmassiv. Start 04:30 Uhr. Jede:r Einzelstarter:in wird von einer Supportperson durchgehend begleitet.",
+  "distanceKm": 234,
+  "elevationGainM": 5800
+}

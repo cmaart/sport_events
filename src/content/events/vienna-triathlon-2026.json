@@ -2,7 +2,11 @@
   "id": "vienna-triathlon-2026",
   "name": "Vienna Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-12",
     "end": "2026-09-13",

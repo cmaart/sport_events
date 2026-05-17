@@ -1,12 +1,18 @@
 {
   "id": "podersdorf-triathlon-2026",
-  "name": "Apollon Triathlon Podersdorf",
+  "name": "Austria Triathlon Podersdorf",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz", "Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
-    "start": "2026-09-05",
+    "start": "2026-09-04",
     "end": "2026-09-06",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Podersdorf am See",
@@ -14,8 +20,8 @@
     "lng": 16.8382,
     "region": "Burgenland"
   },
-  "websiteUrl": "https://www.apollontriathlon.at",
-  "description": "Saisonabschluss am Neusiedlersee mit windgeschützter Schwimmstrecke, flacher Radrunde und Lauf am Seedamm. Verschiedene Distanzen inklusive Mitteldistanz und Staffeln.\n\nHinweis: Termin 2026 noch zu bestätigen.",
-  "distanceKm": 113,
+  "websiteUrl": "https://www.austria-triathlon.at/",
+  "description": "Traditionsreichster Triathlon Österreichs in der 39. Auflage am Neusiedlersee. Vier Distanzen von Sprint bis Langdistanz plus Aquabike und Aquathlon; flache, windige Bedingungen und einzigartige Seeatmosphäre am 4. bis 6. September 2026.",
+  "distanceKm": 226,
   "elevationGainM": 100
 }

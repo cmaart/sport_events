@@ -17,7 +17,7 @@ export function buildIndex(events: EventData[]): MiniSearch<EventData> {
         case 'locationName':
           return doc.location.name;
         case 'region':
-          return doc.location.region;
+          return doc.location.region ?? '';
         case 'categoriesText':
           return doc.categories.join(' ');
         default:

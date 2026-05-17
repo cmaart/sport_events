@@ -2,7 +2,10 @@
   "id": "salzburger-firmen-triathlon-2026",
   "name": "Salzburger Firmen-Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz"],
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-05-29",
     "end": "2026-05-29",

@@ -1,0 +1,24 @@
+{
+  "id": "granitmarathon-kleinzell-2026",
+  "name": "Raiffeisen MTB Granitmarathon Kleinzell",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kleinzell im Mühlkreis",
+    "lat": 48.484,
+    "lng": 14.082,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.granitmarathon.at",
+  "description": "MTB-Marathon im Mühlviertel mit vier Streckenvarianten durch die hügelige Granitsteinlandschaft: Xtreme 90 km/3.100 hm, Classic 60 km/2.000 hm, Small 49 km/1.500 hm und Granitland Light 26 km/700 hm. Teil der KTM Mountainbike Challenge Austria. Rund 700 Teilnehmer:innen.",
+  "distanceKm": 90,
+  "elevationGainM": 3100
+}
