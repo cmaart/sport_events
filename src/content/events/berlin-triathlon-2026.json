@@ -1,0 +1,25 @@
+{
+  "id": "berlin-triathlon-2026",
+  "name": "Berlin Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Berlin",
+    "lat": 52.5200,
+    "lng": 13.4050
+  },
+  "websiteUrl": "https://berlin-triathlon.de",
+  "description": "Grosstadttriathlon in Berlin mit mehreren Distanzen an zwei Tagen: Sprint und Fitness am Samstag, Olympische Distanz und Mitteldistanz (1,9 km Schwimmen / 88 km Rad / 19 km Laufen) am Sonntag. Urbanste Triathlonstrecke Deutschlands mit Schwimmen im Berliner Gewaesser, Rad- und Laufkurs durch die Hauptstadt.",
+  "distanceKm": 109,
+  "elevationGainM": 300
+}

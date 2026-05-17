@@ -1,0 +1,24 @@
+{
+  "id": "waidhofner-radmarathon-ybbs-2026",
+  "name": "Waidhofner Raiffeisen Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waidhofen an der Ybbs",
+    "lat": 47.9622,
+    "lng": 14.7751,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.waidhofner-radmarathon.at",
+  "description": "Gran Fondo im niederösterreichischen Mostviertel rund um Waidhofen an der Ybbs durch das Ybbs- und Eisenstrasse-Tal. Mehrere Streckenvarianten fuer Hobbyfahrer und ambitionierte Radmarathonistes durch das Voralpenland Niederoesterreichs. Gesellschaftliches Radevent mit starker Vereinstradition im Ybbstal.",
+  "distanceKm": 140,
+  "elevationGainM": 1800
+}

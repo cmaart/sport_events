@@ -1,0 +1,24 @@
+{
+  "id": "woerthsee-triathlon-2026",
+  "name": "Wörthsee-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wörthsee",
+    "lat": 48.0698,
+    "lng": 11.1708
+  },
+  "websiteUrl": "https://woerthseetriathlon.de",
+  "description": "Einer der traditionsreichsten Triathlons Bayerns am idyllischen Wörthsee westlich von Muenchen, seit uber 40 Jahren Pflichttermin im bayerischen Triathlonkalender. Olympische Distanz (1,5 km / 44 km / 10 km) und Volksdistanz (600 m / 20 km / 6 km). Typischerweise sehr schnell ausgebucht; Wartelliste verfuegbar.",
+  "distanceKm": 56,
+  "elevationGainM": 350
+}

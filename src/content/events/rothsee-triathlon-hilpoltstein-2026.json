@@ -1,0 +1,24 @@
+{
+  "id": "rothsee-triathlon-hilpoltstein-2026",
+  "name": "Rothsee Triathlon Hilpoltstein – DM Kurzdistanz",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hilpoltstein",
+    "lat": 49.1866,
+    "lng": 11.1822
+  },
+  "websiteUrl": "https://rothsee-triathlon.de",
+  "description": "Deutsche Meisterschaft Kurzdistanz (Elite & Altersklassen) am Rothsee bei Hilpoltstein in Mittelfranken. 1,5 km Schwimmen im Rothsee, 40 km Radstrecke, 10 km Laufen. Zweitages-Veranstaltung mit Jugend- und Studentenrennen am Samstag sowie dem Titelkampf auf der olympischen Distanz am Sonntag. Prestigetraechtigste Kurzdistanz-Meisterschaft Deutschlands.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}

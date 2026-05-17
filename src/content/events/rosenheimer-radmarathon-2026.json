@@ -1,0 +1,23 @@
+{
+  "id": "rosenheimer-radmarathon-2026",
+  "name": "Rosenheimer Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rosenheim",
+    "lat": 47.8574,
+    "lng": 12.1266
+  },
+  "websiteUrl": "https://rosenheimer-radmarathon.de",
+  "description": "Radmarathon in Suedostbayern rund um Rosenheim am Alpenrand mit fuenf Streckenvarianten von 67 bis 231 km. Touren fuehren durch Chiemgau, Inn- und Salzachtal sowie Inntal mit landschaftlich reizvoller Route im Voralpenland. Familienfreundliche Kurzstrecken bis hin zur Langdistanz fuer erfahrene Radmarathonistes.",
+  "distanceKm": 231,
+  "elevationGainM": 2800
+}
