@@ -1,0 +1,22 @@
+{
+  "id": "kinzigtal-triathlon-gelnhausen-2026",
+  "name": "Kinzigtal-Triathlon Gelnhausen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gelnhausen",
+    "lat": 50.2,
+    "lng": 9.19
+  },
+  "websiteUrl": "https://kinzigtal-triathlon.de/",
+  "description": "23. Kinzigtal-Triathlon im Barbarossa-Freibad Gelnhausen am Fuss der Stauferburg. Jedermann-Sprintdistanz (0,5/18/5 km) fuer alle Altersklassen, Swim & Run 4 Kids als Nachwuchsformat. Veranstalter SV Gelnhausen im Main-Kinzig-Kreis.",
+  "distanceKm": 23
+}

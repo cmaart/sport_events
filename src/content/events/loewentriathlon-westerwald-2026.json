@@ -1,0 +1,24 @@
+{
+  "id": "loewentriathlon-westerwald-2026",
+  "name": "Löwentriathlon Westerwald",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freilingen",
+    "lat": 50.59,
+    "lng": 7.89
+  },
+  "websiteUrl": "https://www.loewentriathlon.de/",
+  "description": "Triathlon am Wiesensee im Westerwald auf dem Campingparadies Freilingen (Rheinland-Pfalz) mit drei Distanzen bis zur Mitteldistanz (2/80/20 km). Fuer 2026 bereits ausgebucht. Sprint und Olympisch am Samstag, Mitteldistanz am Sonntag in hugeliger Mittelgebirgslandschaft.",
+  "distanceKm": 102
+}

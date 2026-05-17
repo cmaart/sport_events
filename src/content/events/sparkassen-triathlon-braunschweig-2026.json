@@ -1,0 +1,22 @@
+{
+  "id": "sparkassen-triathlon-braunschweig-2026",
+  "name": "Sparkassen Triathlon Braunschweig",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Braunschweig",
+    "lat": 52.24,
+    "lng": 10.56
+  },
+  "websiteUrl": "https://triathlon-team-bs.de/",
+  "description": "21. Sparkassen Triathlon Braunschweig am Raffteichbad nach Rueckkehr aus der Zwangspause 2025. Volkstriathlon ueber Sprintdistanz (0,75/18/5 km) fuer rund 600 Teilnehmer auf kompakter innerstadtischer Strecke im Sueden Braunschweigs. Organisiert vom Triathlon Team Braunschweig e.V.",
+  "distanceKm": 24
+}

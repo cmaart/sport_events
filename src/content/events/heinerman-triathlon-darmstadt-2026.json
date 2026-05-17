@@ -1,0 +1,23 @@
+{
+  "id": "heinerman-triathlon-darmstadt-2026",
+  "name": "ENTEGA Heinerman Triathlon Darmstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Darmstadt",
+    "lat": 49.8747,
+    "lng": 8.6477
+  },
+  "websiteUrl": "https://www.heinerman.de/",
+  "description": "20. ENTEGA Heinerman Triathlon am malerischen Darmstaedter Woog, einem innerstadtischen Natursee in Hessen. Olympische Distanz ueber den Oberfeld zum Oberwaldhaus; Start, Wechselzone und Ziel kompakt am Woog-Gelaende. Fuer 2026 ausgebucht, traditionell eine Woche vor dem Darmstaedter Heinerfest.",
+  "distanceKm": 52
+}

@@ -1,0 +1,23 @@
+{
+  "id": "enni-triathlon-moers-2026",
+  "name": "Enni-Triathlon Moers",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Moers",
+    "lat": 51.45,
+    "lng": 6.62
+  },
+  "websiteUrl": "https://www.enni-triathlon.de/",
+  "description": "Triathlon am Bettenkamper See im Freizeitpark Moers mit Schwimmen im idyllischen See, Radstrecke durch die Rhein-Niederrhein-Landschaft und Lauf durch den Schlosspark Moers. Fuer 2026 mit 600 Startern bereits ausverkauft. Einzel und Staffel in drei Distanzkategorien.",
+  "distanceKm": 48
+}

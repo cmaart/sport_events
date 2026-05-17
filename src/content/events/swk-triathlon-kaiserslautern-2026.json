@@ -1,0 +1,22 @@
+{
+  "id": "swk-triathlon-kaiserslautern-2026",
+  "name": "SWK Triathlon 1. FC Kaiserslautern",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kaiserslautern",
+    "lat": 49.44,
+    "lng": 7.77
+  },
+  "websiteUrl": "https://fck-triathlon.alzura.shop/swk-triathlon",
+  "description": "Stadttriathlon des 1. FC Kaiserslautern-Triathlon mit Sprint- und Super-Sprintdistanz sowie Jugendkategorien in der Pfalz. Die Triathlonsparte der Roten Teufel veranstaltet das zugaengliche Breitensportevent bereits seit Jahren. Anmeldeschluss 12. August 2026.",
+  "distanceKm": 25
+}

@@ -1,0 +1,22 @@
+{
+  "id": "guestrow-triathlon-2026",
+  "name": "Güstrow Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Güstrow",
+    "lat": 53.79,
+    "lng": 12.18
+  },
+  "websiteUrl": "https://triathlon-mv.de/event-directory/",
+  "description": "Triathlon in Guestrow im Eliminator-Format an der Seenlandschaft der Mecklenburgischen Schweiz, veranstaltet von Trifun Guestrow. Mehrere Laeufe mit Ausscheidungsprinzip machen das kompakte Format zu einem temporeichen Spektakel fuer Zuschauer.",
+  "distanceKm": 10
+}
