@@ -1,0 +1,24 @@
+{
+  "id": "sparkassen-triathlon-dortmund-2026",
+  "name": "Sparkassen Triathlon Dortmund",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dortmund",
+    "lat": 51.5136,
+    "lng": 7.4653
+  },
+  "websiteUrl": "https://sparkassen-triathlon-dortmund.de",
+  "description": "Triathlonevent in der Ruhrgebiet-Metropole Dortmund, praesentiert von Sparkasse. Sprint und Olympische Distanz mit Schwimmen in einem Dortmunder Badesee, Radstrecke durch das Ruhrgebiet und Laufkurs. Groesster Triathlon im Ruhrgebiet mit starker Vereinstradition in der Revierstadt.",
+  "distanceKm": 52,
+  "elevationGainM": 250
+}

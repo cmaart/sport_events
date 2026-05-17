@@ -1,0 +1,24 @@
+{
+  "id": "ammersee-triathlon-diessen-2026",
+  "name": "Ammersee Triathlon Dießen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dießen am Ammersee",
+    "lat": 47.9503,
+    "lng": 11.1013
+  },
+  "websiteUrl": "https://running.life/event/ammersee-triathlon",
+  "description": "26. Ammersee Triathlon in Diessen am Ammersee, einem der bekanntesten Triathlons Oberbayerns. Sprint, Volkstriathlon und Staffel-Formate mit Schwimmen im Ammersee vor der Kulisse der bayerischen Voralpen. Familiaeres Vereinsevent mit langer Tradition am drittgroessten bayerischen See.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}

@@ -1,0 +1,25 @@
+{
+  "id": "wolfgangsee-challenge-strobl-2026",
+  "name": "Wolfgangsee Challenge Strobl",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-03",
+    "end": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Strobl",
+    "lat": 47.7283,
+    "lng": 13.4823,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://laufgemeinschaft.at",
+  "description": "Triathlonfestival am Wolfgangsee im Salzkammergut mit zwei Veranstaltungstagen: Samstag Cross-Triathlon und Sonntag klassischer Triathlon. Schwimmen im kristallklaren Wolfgangsee, Off-Road-Radstrecke bzw. Bergstrecke und Laufkurs durch die Salzkammergut-Landschaft. St. Wolfgang als bekanntes Touristenziel in der Naehe.",
+  "distanceKm": 52,
+  "elevationGainM": 600
+}

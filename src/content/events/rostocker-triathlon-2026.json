@@ -1,0 +1,22 @@
+{
+  "id": "rostocker-triathlon-2026",
+  "name": "Neue Rostocker WG Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rostock",
+    "lat": 54.0887,
+    "lng": 12.1402
+  },
+  "websiteUrl": "https://finishers.com/event/neue-rostocker-wg-triathlon",
+  "description": "Triathlonevent in der Hansestadt Rostock an der Ostsee. Sprintdistanz (750 m Schwimmen / 20 km Rad / 5 km Laufen) und XS-Distanz. Praesentiert von Neue Rostocker WG in der groessten Stadt Mecklenburgs. Anmeldeschluss: 8. Juli 2026.",
+  "distanceKm": 26
+}
