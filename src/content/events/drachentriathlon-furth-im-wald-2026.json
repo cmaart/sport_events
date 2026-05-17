@@ -1,0 +1,24 @@
+{
+  "id": "drachentriathlon-furth-im-wald-2026",
+  "name": "Drachentriathlon Furth im Wald",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Furth im Wald",
+    "lat": 49.3072,
+    "lng": 12.8444
+  },
+  "websiteUrl": "https://www.drachentriathlon.de",
+  "description": "Triathlon am malerischen Drachensee in der Drachenstadt Furth im Wald, direkt an der bayerisch-tschechischen Grenze im Bayerischen Wald. Sprint (500 m / 20 km / 5 km) und Olympische Distanz (1,5 km / 40 km / 10 km), veranstaltet vom TV 1881 Fürth im Wald e.V.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

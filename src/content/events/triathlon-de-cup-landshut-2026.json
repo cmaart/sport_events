@@ -1,0 +1,26 @@
+{
+  "id": "triathlon-de-cup-landshut-2026",
+  "name": "triathlon.de CUP Landshut",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Landshut",
+    "lat": 48.5378,
+    "lng": 12.1518
+  },
+  "websiteUrl": "https://triathlon.de/pages/triathlon-de-cup-landshut",
+  "registrationUrl": "https://triathlon.de/collections/anmeldung-triathlon-de-cup-landshut",
+  "description": "3. triathlon.de CUP Landshut an der Isar mit Austragung der Bayerischen Meisterschaft über die Mitteldistanz. Schwimmen im Naherholungsgebiet Gretlmühle, Radkurs und Laufen entlang der Isar. Vier Distanzen: Mitteldistanz (1,9 km / 80 km / 20,6 km), Olympisch, Volksdistanz und Schnuppertriathlon.",
+  "distanceKm": 103,
+  "elevationGainM": 500
+}
