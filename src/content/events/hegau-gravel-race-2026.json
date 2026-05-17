@@ -1,0 +1,23 @@
+{
+  "id": "hegau-gravel-race-2026",
+  "name": "Hegau Gravel Race – UCI Gravel World Series",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Singen (Hohentwiel)",
+    "lat": 47.7592,
+    "lng": 8.8413
+  },
+  "websiteUrl": "https://hegaugravel.de",
+  "description": "UCI Gravel World Series Rennen in der malerischen Hegau-Landschaft am Bodensee. Strecke von 108 km oder 54 km über den legendären Kurs der MTB-Weltmeisterschaft 2017. Qualifikationsrennen für die UCI Gravel Weltmeisterschaften. International hochkarätig besetztes Starterfeld.",
+  "distanceKm": 108,
+  "elevationGainM": 2200
+}

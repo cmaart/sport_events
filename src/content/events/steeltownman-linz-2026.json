@@ -1,0 +1,25 @@
+{
+  "id": "steeltownman-linz-2026",
+  "name": "ASVÖ Steeltownman Linz",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pichlinger See, Linz",
+    "lat": 48.2580,
+    "lng": 14.3830,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://steeltownman.com",
+  "description": "Beliebter Stadtrandsee-Triathlon am Pichlinger See östlich von Linz. Sprint-, olympische Distanz und Staffelwertung. Der Spitzname Steeltownman verweist auf Linz Stahlindustriegeschichte. Angenehme Wassertemperaturen im Juni, flache Radstrecke im Machland.",
+  "distanceKm": 51,
+  "elevationGainM": 200
+}

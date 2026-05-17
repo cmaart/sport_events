@@ -1,0 +1,23 @@
+{
+  "id": "muensterland-giro-jedermann-2026",
+  "name": "Sparkassen Münsterland Giro – Jedermann",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-03",
+    "end": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Borken",
+    "lat": 51.8436,
+    "lng": 6.8578
+  },
+  "websiteUrl": "https://muensterland-giro.de",
+  "description": "20. Jubiläumsausgabe des Sparkassen Münsterland Giro parallel zum gleichnamigen UCI-Profirennen. 2026 erstmals mit Start in Borken, dem Jubiläums-Stadtfest zum 800-jährigen Stadtjubiläum. Drei Jedermann-Strecken durch das flache Münsterland. Traditionell am Tag der Deutschen Einheit.",
+  "distanceKm": 100,
+  "elevationGainM": 500
+}

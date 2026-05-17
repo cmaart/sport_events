@@ -1,0 +1,25 @@
+{
+  "id": "aloha-tri-traun-2026",
+  "name": "ALOHA TRI Traun",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Traun",
+    "lat": 48.2219,
+    "lng": 14.2379,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://alohatri.at",
+  "description": "Triathlon im oberösterreichischen Traun, Teil der beliebten ALOHA TRI-Serie. Sprint- und olympische Distanz mit Schwimmen im Trauner Badesee, Radstrecke durch das flache Linzer Umland und Lauf entlang des Sees. Familienfreundliche Atmosphäre mit Kids-Bewerb.",
+  "distanceKm": 51,
+  "elevationGainM": 150
+}

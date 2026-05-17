@@ -1,0 +1,23 @@
+{
+  "id": "amstetten-stadttriathlon-2026",
+  "name": "Volksbank Stadttriathlon Amstetten",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Amstetten",
+    "lat": 48.1225,
+    "lng": 14.8716,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.triateamnoewest.at",
+  "description": "Einsteiger-freundlicher Stadttriathlon mitten in Amstetten, organisiert vom Tria Team NÖ West. Kurze Distanzen für Newcomer und Hobbyathleten: 0,3 km Schwimmen, 9,1 km Radfahren, 3 km Laufen. ÖTRV-lizenzierter Wettkampf mit Staffelwertung.",
+  "distanceKm": 12
+}

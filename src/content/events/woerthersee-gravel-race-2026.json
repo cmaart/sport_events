@@ -1,0 +1,25 @@
+{
+  "id": "woerthersee-gravel-race-2026",
+  "name": "Wörthersee Gravel Race",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-04-12",
+    "end": "2026-04-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Velden am Wörthersee",
+    "lat": 46.6135,
+    "lng": 14.0352,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.woerthersee-gravel.com",
+  "description": "Österreichs größtes Gravel-Event und Teil der UCI Gravel World Series – 3. Ausgabe. 2.000 Teilnehmer aus über 40 Nationen, rund 8.000 Zuschauer. Qualifikationsrennen für die UCI Gravel Weltmeisterschaften. Strecke rund um den Wörthersee und durch die Kärntner Hügellandschaft. Start und Ziel in Velden.",
+  "distanceKm": 120,
+  "elevationGainM": 2000
+}

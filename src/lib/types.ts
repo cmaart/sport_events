@@ -5,6 +5,7 @@ export const CYCLING_CATEGORIES = [
   'Kriterium',
   'Gran Fondo',
   'Radmarathon',
+  'Gravel',
   'Rundstreckenrennen',
   'Etappenrennen',
   'Berg',

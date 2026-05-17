@@ -1,0 +1,24 @@
+{
+  "id": "world-triathlon-hamburg-2026",
+  "name": "SUZUKI World Triathlon Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  "websiteUrl": "https://hamburg.triathlon.org",
+  "description": "World Triathlon Championship Series Rennen in Hamburg mit Elite-Rennen und Open Races für Breitensportler. Sprint (0,5 km/20 km/5 km) und Olympische Distanz (1,5 km/40 km/10 km). Schwimmen in Binnen- und Außenalster, Rad und Lauf durch Hamburgs Innenstadt, Zieleinlauf am Rathausmarkt.",
+  "distanceKm": 51,
+  "elevationGainM": 300
+}

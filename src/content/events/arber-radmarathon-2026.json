@@ -1,0 +1,23 @@
+{
+  "id": "arber-radmarathon-2026",
+  "name": "Arber Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Regensburg",
+    "lat": 49.0134,
+    "lng": 12.1016
+  },
+  "websiteUrl": "https://www.arberradmarathon.de",
+  "description": "42. Ausgabe des Arber Radmarathons durch den vorderen Bayerischen Wald mit dem Arbergebiet als Kulisse. Acht Streckenvarianten von 45 bis 250 km, alle vom Dultplatz Regensburg startend. Nachmeldungen bis 22.07. möglich. Organisiert vom Veloclub Ratisbona.",
+  "distanceKm": 250,
+  "elevationGainM": 4500
+}

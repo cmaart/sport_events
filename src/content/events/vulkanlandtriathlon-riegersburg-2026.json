@@ -1,0 +1,24 @@
+{
+  "id": "vulkanlandtriathlon-riegersburg-2026",
+  "name": "Vulkanlandtriathlon Riegersburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegersburg",
+    "lat": 46.9673,
+    "lng": 15.9360,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.vulkanlandtriathlon.at",
+  "description": "Traditioneller Sprint-Triathlon im oststeirischen Vulkanland, ausgerichtet vom HSV Feldbach. Schwimmen im Badesee, Radstrecke durch das sanfte Hügelland der Vulkanlandschaft, Laufrunde am See. Staffelwertung und Kinderbewerb inklusive. 0,75 km Schwimmen, 20 km Rad, 5 km Laufen.",
+  "distanceKm": 26,
+  "elevationGainM": 200
+}

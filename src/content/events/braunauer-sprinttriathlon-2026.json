@@ -1,0 +1,25 @@
+{
+  "id": "braunauer-sprinttriathlon-2026",
+  "name": "Braunauer Sprinttriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Braunau am Inn",
+    "lat": 48.2562,
+    "lng": 13.0337,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "http://www.tribraunau.at",
+  "registrationUrl": "https://time2win.at/event/916",
+  "description": "Traditioneller Saisoneröffnungs-Triathlon des ATSV Braunau am Stadtrand von Braunau am Inn. Sprintdistanz: 0,6 km Schwimmen, 23 km Radfahren, 6 km Laufen. Einer der ältesten Triathlons in Oberösterreich mit großem und starkem Teilnehmerfeld.",
+  "distanceKm": 30,
+  "elevationGainM": 150
+}

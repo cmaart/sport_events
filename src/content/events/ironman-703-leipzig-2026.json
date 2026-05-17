@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-leipzig-2026",
+  "name": "IRONMAN 70.3 Leipzig",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.3397,
+    "lng": 12.3731
+  },
+  "websiteUrl": "https://www.ironman.com/im703-leipzig",
+  "description": "Premiere des neuen IRONMAN 70.3 Leipzig im Leipziger Neuseenland: 1,9 km Schwimmen im nördlichen Cospudener See, 90 km Radfahren durch den Landkreis Leipzig, 21,1 km Lauf mit Zieleinlauf am Sportforum. Durchschnittstemperaturen von rund 24 °C. General Registration ab Oktober 2025.",
+  "distanceKm": 113,
+  "elevationGainM": 600
+}

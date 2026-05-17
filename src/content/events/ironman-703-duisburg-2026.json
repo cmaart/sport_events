@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-duisburg-2026",
+  "name": "IRONMAN 70.3 Duisburg",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-16",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Duisburg",
+    "lat": 51.4344,
+    "lng": 6.7623
+  },
+  "websiteUrl": "https://www.ironman.com/im703-duisburg",
+  "description": "IRONMAN 70.3 im Herzen des Ruhrgebiets: 1,9 km Schwimmen im Duisburger Innenhafen, 88 km Radstrecke in zwei Schleifen durchs Ruhrgebiet, 21,1 km Lauf in vier Runden mit Zieleinlauf vor dem Rathaus. Start 07:30 Uhr.",
+  "distanceKm": 113,
+  "elevationGainM": 700
+}

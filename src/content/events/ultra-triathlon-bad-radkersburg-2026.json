@@ -1,0 +1,24 @@
+{
+  "id": "ultra-triathlon-bad-radkersburg-2026",
+  "name": "Ultra Triathlon Bad Radkersburg",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-28",
+    "end": "2026-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Radkersburg",
+    "lat": 46.6798,
+    "lng": 15.9856,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.triathlon-austria.at",
+  "description": "Ultra-Langdistanz-Triathlon im südoststeirischen Kurort Bad Radkersburg an der slowenischen Grenze. Spektakuläre Strecke durch die Weinbauregion Südsteiermark. Volle Langdistanz (3,8 km/180 km/42,2 km) mit Ziel im Thermalbad-Ortszentrum. Anspruchsvoller Hügelkurs für erfahrene Ausdauersportler.",
+  "distanceKm": 226,
+  "elevationGainM": 2500
+}

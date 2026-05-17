@@ -1,0 +1,24 @@
+{
+  "id": "jannersee-triathlon-2026",
+  "name": "Skinfit Jannersee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jannersee, Lauterach",
+    "lat": 47.4769,
+    "lng": 9.7358,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://jannersee-triathlon.at",
+  "description": "Abendtriathlon (Startzeit 17:30 Uhr) am idyllischen Jannersee in Lauterach, Vorarlberg. Sprintdistanz: 0,4 km Schwimmen, 16 km Radfahren, 4 km Laufen. Familiäre Atmosphäre, ideal für Einsteiger. Ausgerichtet von der Triathlon-Community rund um den Skinfit-Partner.",
+  "distanceKm": 20,
+  "elevationGainM": 100
+}
