@@ -60,6 +60,7 @@ const sportName = e.sport === 'cycling' ? 'Cycling' : 'Triathlon';
 const sportsEventLd: Record<string, unknown> = {
   '@context': 'https://schema.org',
   '@type': 'SportsEvent',
+  '@id': pageUrl,
   name: e.name,
   description: e.description,
   startDate: start.toISOString().slice(0, 10),

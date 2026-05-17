@@ -1,0 +1,25 @@
+{
+  "id": "vienna-donauinsel-triathlon-2026",
+  "name": "Vienna Triathlon – Donauinsel",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wien",
+    "lat": 48.2308,
+    "lng": 16.3800,
+    "region": "Wien"
+  },
+  "websiteUrl": "https://vienna-triathlon.at",
+  "description": "10. Ausgabe des Vienna Triathlons auf der Donauinsel in Wien. Sprint- und Olympische Distanz mit Schwimmen in der Alten Donau, Radstrecke durch Wien und Laufkurs auf der Donauinsel. Groesster Stadtrand-Triathlon Wiens mit einzigartiger Grossstadtkulisse und internationaler Teilnehmerschaft.",
+  "distanceKm": 52,
+  "elevationGainM": 200
+}

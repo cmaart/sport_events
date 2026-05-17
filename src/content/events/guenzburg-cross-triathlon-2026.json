@@ -1,0 +1,22 @@
+{
+  "id": "guenzburg-cross-triathlon-2026",
+  "name": "Günzburger Alkoholfrei Cross Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Günzburg",
+    "lat": 48.4518,
+    "lng": 10.2805
+  },
+  "websiteUrl": "https://tri-gz.de",
+  "description": "Cross-Triathlon in Guentzburg an der Donau in Suedwestbayern nahe Ulm. Off-Road-Variante mit Schwimmen, Mountainbike-Etappe und Gelaendelauf. Praesentiert von Alkoholfrei-Sponsor, Start um 12 Uhr mittags. Familiaere Vereinsveranstaltung des Triathlon Guentzburg e.V. im Fruehjahr.",
+  "distanceKm": 26
+}
