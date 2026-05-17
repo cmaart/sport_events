@@ -1,0 +1,22 @@
+{
+  "id": "wachau-radmarathon-2026",
+  "name": "Wachau Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Gran Fondo"],
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mautern an der Donau",
+    "lat": 48.3919,
+    "lng": 15.5739,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.wachau-radmarathon.at",
+  "registrationUrl": "https://entry.racetime.pro/",
+  "description": "Radmarathon entlang der Donau im UNESCO-Welterbe Wachau. Drei Streckenoptionen: 50, 100 und 200 km. Start 09:00 Uhr in Mautern/Krems.",
+  "distanceKm": 200,
+  "elevationGainM": 2200
+}

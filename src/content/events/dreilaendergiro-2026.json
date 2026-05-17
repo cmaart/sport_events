@@ -4,9 +4,9 @@
   "sport": "cycling",
   "categories": ["Radmarathon", "Berg"],
   "dates": {
-    "start": "2026-06-21",
-    "end": "2026-06-21",
-    "confirmed": false
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
   },
   "location": {
     "name": "Nauders am Reschenpass",
@@ -15,7 +15,7 @@
     "region": "Tirol"
   },
   "websiteUrl": "https://www.dreilaendergiro.at",
-  "description": "Klassischer Alpenmarathon über drei Länder (Österreich, Schweiz, Italien). Königsstrecke 169 km mit 3.300 hm inkl. Stilfserjoch (2.757 m) – einer der höchsten Pässe Europas. Kürzere Varianten verfügbar.\n\nHinweis: Termin 2026 noch zu bestätigen.",
-  "distanceKm": 169,
-  "elevationGainM": 3300
+  "description": "Legendärer Alpen-Giro durch Österreich, Italien und die Schweiz. Zwei Strecken: Stelvio Vinschgau (120 km, 3.000 hm) und Stelvio Engadin (168 km, 3.600 hm) inkl. Stilfserjoch (2.757 m). Beide Bewerbe 2026 ausverkauft – Warteliste über Veranstalter.",
+  "distanceKm": 168,
+  "elevationGainM": 3600
 }

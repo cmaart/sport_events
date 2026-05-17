@@ -4,9 +4,9 @@
   "sport": "cycling",
   "categories": ["Etappenrennen"],
   "dates": {
-    "start": "2026-08-12",
+    "start": "2026-08-10",
     "end": "2026-08-16",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "St. Georgen im Attergau",
@@ -15,7 +15,8 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://www.racearoundaustria.at",
-  "description": "Ultra-Radrennen einmal um Österreich. Solo-Distanz 2.200 km / 30.000 hm, dazu Teamvarianten und Challenge-Distanzen (560 km, 1.000 km). Eines der härtesten Ultracycling-Rennen Europas.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "registrationUrl": "https://www.racearoundaustria.at/registrierung",
+  "description": "Ultra-Cycling-Weltmeisterschaft 2026: einmal entlang der österreichischen Grenze. Solo-Distanz 2.200 km mit rund 30.000 Höhenmetern, dazu Team-Varianten (2/4/8 Personen) und kürzere Challenge-Distanzen (560 km, 1.000 km). Non-Stop-Format.",
   "distanceKm": 2200,
   "elevationGainM": 30000
 }

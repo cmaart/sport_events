@@ -1,0 +1,21 @@
+{
+  "id": "tour-transalp-2026",
+  "name": "TOUR Transalp",
+  "sport": "cycling",
+  "categories": ["Etappenrennen", "Berg"],
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lienz (Start)",
+    "lat": 46.8285,
+    "lng": 12.7686,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.tour-transalp.de",
+  "description": "22. Ausgabe des klassischen 7-Etappen-Rennens über die Alpen, Start in Lienz (Osttirol), Ziel in Riva del Garda. Über 750 km und 17.000 Höhenmeter. Teams zu zwei Personen oder Einzelstarter:innen, auch 3- und 4-Tage-Varianten möglich.",
+  "distanceKm": 750,
+  "elevationGainM": 17000
+}

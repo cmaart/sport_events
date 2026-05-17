@@ -4,9 +4,9 @@
   "sport": "cycling",
   "categories": ["Rundstreckenrennen"],
   "dates": {
-    "start": "2026-08-29",
-    "end": "2026-08-29",
-    "confirmed": false
+    "start": "2026-09-26",
+    "end": "2026-09-26",
+    "confirmed": true
   },
   "location": {
     "name": "Attersee",
@@ -14,8 +14,9 @@
     "lng": 13.5466,
     "region": "Oberösterreich"
   },
-  "websiteUrl": "https://www.kingofthelake.eu",
-  "description": "Einzelzeitfahren rund um den Attersee – 47,2 km flache Strecke, ideal für persönliche Bestzeiten. Einer der größten Amateur-Zeitfahrwettbewerbe Europas mit Einzel- und Teamwertungen.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "websiteUrl": "https://www.kotl.at",
+  "registrationUrl": "https://computerauswertung.at/veranstaltung.php?V_ID=260926&lang=de",
+  "description": "Europas größtes Jedermann-Einzelzeitfahren: 47,2 km flach rund um den Attersee, ideal für persönliche Bestzeiten. Einzel- und Team-Wertungen. Startplatzvergabe per Lotterie (Anmeldung 10.–26. April 2026).",
   "distanceKm": 47,
   "elevationGainM": 200
 }

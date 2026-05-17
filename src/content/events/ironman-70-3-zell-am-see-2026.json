@@ -6,7 +6,7 @@
   "dates": {
     "start": "2026-08-30",
     "end": "2026-08-30",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Zell am See",
@@ -15,7 +15,7 @@
     "region": "Salzburg"
   },
   "websiteUrl": "https://www.ironman.com/im703-zell-am-see",
-  "description": "Hochalpine Halbdistanz mit Schwimmen im Zeller See, anspruchsvoller Radstrecke durch das Pinzgau und flachem Lauf entlang des Sees. Wegen seiner Kulisse einer der schönsten 70.3-Bewerbe Europas.\n\nHinweis: Datum 2026 noch zu bestätigen.",
+  "description": "Hochalpine Halbdistanz: 1,9 km Schwimmen im Zeller See, 90 km Rad durch das Pinzgau mit Blick auf die Hohen Tauern, 21,1 km Laufen am Seeufer. Einer der landschaftlich schönsten 70.3-Bewerbe Europas.",
   "distanceKm": 113,
   "elevationGainM": 1100
 }

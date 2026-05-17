@@ -1,12 +1,12 @@
 {
   "id": "ironman-austria-kaernten-2026",
-  "name": "Ironman Austria-Kärnten",
+  "name": "Ironman Kärnten-Klagenfurt",
   "sport": "triathlon",
   "categories": ["Langdistanz"],
   "dates": {
-    "start": "2026-07-05",
-    "end": "2026-07-05",
-    "confirmed": false
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
   },
   "location": {
     "name": "Klagenfurt am Wörthersee",
@@ -15,8 +15,7 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.ironman.com/im-austria",
-  "registrationUrl": "https://www.ironman.com/im-austria-register",
-  "description": "Klassischer Ironman mit Schwimmstart im Wörthersee, schneller Radrunde durch das Drautal mit Rupertiberg und Faakersee-Schleife, sowie flachem Marathon am Lendkanal. 3,8 km Schwimmen + 180 km Rad + 42,2 km Laufen.\n\nHinweis: Konkretes Datum 2026 bitte auf der Veranstalterseite prüfen.",
+  "description": "Klassischer Ironman mit Schwimmstart im Wörthersee, schneller Radstrecke durch das Drautal mit Rupertiberg und Faakersee-Schleife sowie flachem Marathon am Lendkanal. 3,8 km Schwimmen + 180 km Rad + 42,2 km Laufen.",
   "distanceKm": 226,
   "elevationGainM": 1500
 }

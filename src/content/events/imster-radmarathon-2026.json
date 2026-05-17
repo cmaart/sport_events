@@ -1,0 +1,22 @@
+{
+  "id": "imster-radmarathon-2026",
+  "name": "Imster Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Berg"],
+  "dates": {
+    "start": "2026-05-17",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Imst",
+    "lat": 47.2402,
+    "lng": 10.7332,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.imster-radmarathon.at",
+  "registrationUrl": "https://my.raceresult.com/343203/",
+  "description": "Jubiläumsausgabe (10. Auflage) mit drei Strecken durch das Ötztal und die umliegenden Bergpässe: Panorama (70 km, 1.100 hm), Standard (90 km, 1.700 hm) und Challenge (110 km, 2.300 hm). 2026 ausverkauft mit 1.500 Teilnehmer:innen.",
+  "distanceKm": 110,
+  "elevationGainM": 2300
+}

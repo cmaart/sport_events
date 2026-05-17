@@ -1,0 +1,21 @@
+{
+  "id": "vienna-triathlon-2026",
+  "name": "Vienna Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Donauinsel, Wien",
+    "lat": 48.2351,
+    "lng": 16.4147,
+    "region": "Wien"
+  },
+  "websiteUrl": "https://www.vienna-triathlon.at",
+  "description": "10. Ausgabe des größten Wiener Stadttriathlons direkt an der Donauinsel. Sprint (Sa, 12.9.) und Olympische Distanz (So, 13.9.), dazu Aquabike, Bike+Run, Ladys-Bewerb und Kids-Aquathlon.",
+  "distanceKm": 52,
+  "elevationGainM": 100
+}

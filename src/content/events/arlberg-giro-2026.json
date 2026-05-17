@@ -4,18 +4,19 @@
   "sport": "cycling",
   "categories": ["Gran Fondo", "Berg"],
   "dates": {
-    "start": "2026-07-05",
-    "end": "2026-07-05",
-    "confirmed": false
+    "start": "2026-08-02",
+    "end": "2026-08-02",
+    "confirmed": true
   },
   "location": {
-    "name": "Lech am Arlberg",
-    "lat": 47.2076,
-    "lng": 10.1348,
-    "region": "Vorarlberg"
+    "name": "St. Anton am Arlberg",
+    "lat": 47.1287,
+    "lng": 10.2683,
+    "region": "Tirol"
   },
   "websiteUrl": "https://www.arlberg-giro.com",
-  "description": "Klassische Gran-Fondo-Strecke über die Pässe Flexen, Hochtannberg, Faschina, Furka und Arlberg. Rund 150 km und 2.400 Höhenmeter durch die Vorarlberger und Tiroler Bergwelt. Start und Ziel in Lech.\n\nHinweis: Konkretes Datum 2026 bitte auf der Veranstalterseite prüfen.",
+  "registrationUrl": "https://www.arlberg-giro.com/en/registration",
+  "description": "Klassischer Alpen-Granfondo über Arlberg, Hochtannberg, Faschina, Furka und Flexen. Start/Ziel in St. Anton. Edition 2026 bereits ausverkauft – Warteliste über die Veranstalter-Webseite. Als Alternative bietet sich der St. Anton Night Sprint am Vorabend (31. Juli 2026) an.",
   "distanceKm": 152,
   "elevationGainM": 2400
 }

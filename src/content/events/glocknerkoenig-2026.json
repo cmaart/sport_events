@@ -1,0 +1,22 @@
+{
+  "id": "glocknerkoenig-2026",
+  "name": "Glocknerkönig",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bruck an der Großglocknerstraße",
+    "lat": 47.2895,
+    "lng": 12.8254,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.glocknerkoenig.com",
+  "registrationUrl": "https://onreg.datasport.com/en/glocknerkoenig-2026",
+  "description": "Bergzeitfahren auf der autofrei freigegebenen Großglockner Hochalpenstraße. Zwei Varianten: Classic (27,3 km, 1.672 hm) und Ultra (28,9 km, 1.815 hm bis zur Edelweißspitze). Ultra-Kategorie 2026 ausverkauft; Classic-Plätze verfügbar.",
+  "distanceKm": 27,
+  "elevationGainM": 1672
+}

@@ -4,9 +4,9 @@
   "sport": "cycling",
   "categories": ["Gran Fondo"],
   "dates": {
-    "start": "2026-04-25",
-    "end": "2026-04-25",
-    "confirmed": false
+    "start": "2026-04-18",
+    "end": "2026-04-19",
+    "confirmed": true
   },
   "location": {
     "name": "Mörbisch am See",
@@ -14,8 +14,8 @@
     "lng": 16.6822,
     "region": "Burgenland"
   },
-  "websiteUrl": "https://www.neusiedlersee-radmarathon.at",
-  "description": "Flacher Saisoneinstieg rund um den Neusiedlersee. 125 km im Pulk, traditionell als eines der ersten großen Amateurrennen der Saison. Ideal für schnelle Zeiten.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "websiteUrl": "https://www.neusiedlersee-radmarathon.com",
+  "description": "Saisoneröffnungsklassiker rund um den Neusiedlersee, Auftaktrennen der Austria Top Tour 2026. Zeitfahren am Samstag, Hauptrennen am Sonntag. 125 km flach mit teils anspruchsvollen Windverhältnissen, alternativ 63-km-Mini-Tour.",
   "distanceKm": 125,
-  "elevationGainM": 250
+  "elevationGainM": 600
 }

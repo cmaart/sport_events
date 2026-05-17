@@ -6,7 +6,7 @@
   "dates": {
     "start": "2026-08-30",
     "end": "2026-08-30",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Sölden",
@@ -15,7 +15,7 @@
     "region": "Tirol"
   },
   "websiteUrl": "https://www.oetztaler-radmarathon.com",
-  "description": "Der wohl härteste Radmarathon im deutschsprachigen Raum: 227 km mit rund 5.500 Höhenmetern über vier Alpenpässe (Kühtai, Brenner, Jaufenpass, Timmelsjoch). Startplätze werden traditionell verlost. Findet meist am letzten Sonntag im August statt.\n\nHinweis: Termin 2026 zum Zeitpunkt der Erstellung noch nicht endgültig bestätigt.",
+  "description": "Der wohl härteste Radmarathon im deutschsprachigen Raum: 227 km mit rund 5.500 Höhenmetern über vier Alpenpässe (Kühtai, Brenner, Jaufenpass, Timmelsjoch). Rund 4.000 Teilnehmer:innen aus 41 Nationen. Startplätze werden im Januar 2026 per Lotterie verlost. Start 06:30 Uhr.",
   "distanceKm": 227,
   "elevationGainM": 5500
 }

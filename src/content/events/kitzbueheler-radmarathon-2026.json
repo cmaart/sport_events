@@ -4,9 +4,9 @@
   "sport": "cycling",
   "categories": ["Radmarathon", "Berg"],
   "dates": {
-    "start": "2026-06-21",
-    "end": "2026-06-21",
-    "confirmed": false
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
   },
   "location": {
     "name": "Kitzbühel",
@@ -14,8 +14,9 @@
     "lng": 12.3912,
     "region": "Tirol"
   },
-  "websiteUrl": "https://www.kitzbueheler-radmarathon.at",
-  "description": "Bergmarathon mit drei Streckenvarianten (75 / 122 / 205 km) rund um die Kitzbüheler Alpen mit Pass Thurn und Gerlospass. Königsstrecke mit über 4.000 Höhenmetern.\n\nHinweis: Termin 2026 noch zu bestätigen.",
-  "distanceKm": 205,
-  "elevationGainM": 4000
+  "websiteUrl": "https://kitzbueheler-radmarathon.at",
+  "registrationUrl": "https://events.racetime.pro/de/event/1400",
+  "description": "Herbst-Radmarathon mit ikonischem Zielaufstieg auf das Kitzbüheler Horn. Zwei Streckenvarianten: Klassik (216 km, 4.600 hm) und Kitz-Variante (209 km, 3.400 hm). Highlight: die steilen Rampen am Horn zum Abschluss.",
+  "distanceKm": 216,
+  "elevationGainM": 4600
 }

@@ -1,0 +1,21 @@
+{
+  "id": "kaernten-radmarathon-2026",
+  "name": "ARBÖ Kärnten Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Berg"],
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Kleinkirchheim",
+    "lat": 46.8147,
+    "lng": 13.7975,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.kaernten-radmarathon.at",
+  "description": "Traditionsreicher Radmarathon durch den Biosphärenpark Nockberge: 106 km, 2.140 Höhenmeter zwischen Bergen und Seen. Wertungszeiten nur auf drei ausgewählten Bergpassagen – ideal für Genuss- und Bergfahrer:innen gleichermaßen.",
+  "distanceKm": 106,
+  "elevationGainM": 2140
+}

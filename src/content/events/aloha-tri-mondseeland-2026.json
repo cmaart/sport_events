@@ -1,0 +1,22 @@
+{
+  "id": "aloha-tri-mondseeland-2026",
+  "name": "ALOHA TRI Mondseeland",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz", "Olympische Distanz", "Mitteldistanz"],
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mondsee",
+    "lat": 47.8542,
+    "lng": 13.3475,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://triathlon-mondsee.at",
+  "registrationUrl": "https://time2win.at/event/895",
+  "description": "Einer der landschaftlich schönsten Triathlons Österreichs mit Schwimmstrecke im Mondsee und Radrunde durchs Salzkammergut zum Attersee. Sprint, Kurz und Mitteldistanz (110 km), zusätzlich Aquabike und Bike+Run.",
+  "distanceKm": 110,
+  "elevationGainM": 800
+}
