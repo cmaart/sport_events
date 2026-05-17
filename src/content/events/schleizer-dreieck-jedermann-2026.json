@@ -1,0 +1,23 @@
+{
+  "id": "schleizer-dreieck-jedermann-2026",
+  "name": "Schleizer Dreieck Jedermann",
+  "sport": "cycling",
+  "categories": [
+    "Rundstreckenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schleiz",
+    "lat": 50.5757,
+    "lng": 11.8162
+  },
+  "websiteUrl": "https://radsport-events.de",
+  "description": "Jedermann-Rennradveranstaltung auf dem historischen Schleizer Dreieck, einer der aeltesten Motorradrennstrecken Deutschlands in Thueringen. Streckenvarianten von 35 km, 70 km und 112 km auf dem traditionellen Dreieck-Kurs. Einzigartiger Motorsport-Geschichte-Hintergrund kombiniert mit modernem Radsport.",
+  "distanceKm": 112,
+  "elevationGainM": 1500
+}

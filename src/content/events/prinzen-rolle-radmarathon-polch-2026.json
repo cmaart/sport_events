@@ -1,0 +1,23 @@
+{
+  "id": "prinzen-rolle-radmarathon-polch-2026",
+  "name": "Prinzen Rolle Rad-Marathon Polch",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Polch",
+    "lat": 50.3000,
+    "lng": 7.3167
+  },
+  "websiteUrl": "https://radsport-events.de",
+  "description": "Radmarathon rund um Polch in der Maifeld-Region in Rheinland-Pfalz zwischen Koblenz und Cochem. Streckenvarianten von 43 bis 212 km durch das Moselhochland und die Eifel-Vorzeige-Landschaft. Herbstliches Radmarathon-Event mit typischen Weinbergs- und Hunsruecklandschaften.",
+  "distanceKm": 212,
+  "elevationGainM": 2800
+}
