@@ -1,0 +1,24 @@
+{
+  "id": "roemermann-ladenburg-2026",
+  "name": "RömerMan Ladenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ladenburg",
+    "lat": 49.4673,
+    "lng": 8.6087
+  },
+  "websiteUrl": "https://roemermann.de",
+  "description": "30. Jubilaeum des RoemerMans in der roemischen Altstadt Ladenburg am Neckar bei Heidelberg. Standarddistanz (1.800 m / 42 km / 10 km) und Fitness-Triathlon (500 m / 23 km) sowie Kinder- und Familienstarter. Stimmungsvolles historisches Ambiente in der ehemaligen roemischen Siedlung Lopodunum.",
+  "distanceKm": 54,
+  "elevationGainM": 400
+}

@@ -1,0 +1,23 @@
+{
+  "id": "harzer-radmarathon-2026",
+  "name": "Harzer Radmarathon (Harzumrundung)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Halberstadt",
+    "lat": 51.8976,
+    "lng": 11.0427
+  },
+  "websiteUrl": "https://harz-radmarathon.de",
+  "description": "Komplette Harzumrundung per Rad von Halberstadt mit Streckenoptionen von 22 bis 303 km. Die grosse Harzumrundung (303 km / 3.000 m Hoehengewinn) zaehlt zu den anspruchsvollsten deutschen Radmarathons. Startend in der historischen Kaiserstadt Halberstadt fuehren die Strecken durch das Mittelgebirge des Harzes.",
+  "distanceKm": 303,
+  "elevationGainM": 3000
+}

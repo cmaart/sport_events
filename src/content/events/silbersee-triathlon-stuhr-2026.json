@@ -1,0 +1,24 @@
+{
+  "id": "silbersee-triathlon-stuhr-2026",
+  "name": "swb Silbersee-Triathlon Stuhr",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stuhr",
+    "lat": 53.0167,
+    "lng": 8.7667
+  },
+  "websiteUrl": "https://silbersee-triathlon.com",
+  "description": "31. Auflage des swb Silbersee-Triathlons in Stuhr suedwestlich von Bremen. Olympische Distanz (1.500 m / 40 km / 10 km), Sprint (750 m / 23 km / 5 km) und Volksdistanz (500 m / 23 km / 5 km) mit Schwimmen im Silbersee. Beliebtes Familientriathlon-Event in der Bremer Region.",
+  "distanceKm": 54,
+  "elevationGainM": 150
+}

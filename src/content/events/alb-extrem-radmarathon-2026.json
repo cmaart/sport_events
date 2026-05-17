@@ -1,0 +1,23 @@
+{
+  "id": "alb-extrem-radmarathon-2026",
+  "name": "ALB EXTREM Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ottenbach",
+    "lat": 48.5522,
+    "lng": 9.7278
+  },
+  "websiteUrl": "https://albextrem.de",
+  "description": "Radmarathon auf der Schwabischen Alb in Baden-Wuerttemberg mit fuenf Streckenvarianten von 105 bis 305 km. Die laengste Strecke quert die gesamte Schwabische Alb mit erheblichen Steigungsanteilen und ist eine echte Herausforderung fuer erfahrene Radmarathonistes. Start und Ziel im Albvorland bei Ottenbach.",
+  "distanceKm": 305,
+  "elevationGainM": 5000
+}

@@ -1,0 +1,23 @@
+{
+  "id": "black-forest-ultra-gravel-2026",
+  "name": "Black Forest Ultra Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kirchzarten",
+    "lat": 47.9611,
+    "lng": 7.9541
+  },
+  "websiteUrl": "https://ultra-bike.de",
+  "description": "Gravel-Marathon im suedlichen Schwarzwald startend in Kirchzarten bei Freiburg, Teil des Veranstaltungsrahmens des Black Forest Ultra Bike Marathons. Schotterrouten durch dichten Schwarzwald-Tannenwald, Flusstal-Schotterwege und Forstwege mit erheblichem Hoehengewinn. Anspruchsvolles Gravelrennen im traditionsreichsten Schwarzwald-Bikeevent.",
+  "distanceKm": 120,
+  "elevationGainM": 3500
+}

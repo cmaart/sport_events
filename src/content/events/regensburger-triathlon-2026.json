@@ -1,0 +1,24 @@
+{
+  "id": "regensburger-triathlon-2026",
+  "name": "Regensburger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Regensburg",
+    "lat": 49.0169,
+    "lng": 12.0958
+  },
+  "websiteUrl": "https://tristar-regensburg.de",
+  "description": "35. Ausgabe des Regensburger Triathlons in der Domstadt an der Donau. Sprint (500 m / 22 km / 5 km) und Olympische Distanz (1,5 km / 44 km / 10 km) mit Schwimmen im Baggersee bei Regensburg. Einer der laengsten laufenden Triathlons Bayerns mit stabiler Vereinsveranstaltungsstruktur.",
+  "distanceKm": 56,
+  "elevationGainM": 300
+}
