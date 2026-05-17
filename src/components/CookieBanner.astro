@@ -44,8 +44,6 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
 </div>
 
 <script>
-  const ADSENSE_CLIENT = 'ca-pub-6061843247884777';
-
   function signalConsentGranted() {
     // Google Consent Mode v2: tell Google's ad stack that consent has been
     // collected externally so Funding Choices (Google's CMP) stays hidden.
@@ -60,14 +58,22 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
     }
   }
 
-  function loadGoogleAdSense() {
-    if (document.getElementById('adsense-script')) return;
-    const s = document.createElement('script');
-    s.id = 'adsense-script';
-    s.async = true;
-    s.crossOrigin = 'anonymous';
-    s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`;
-    document.head.appendChild(s);
+  function activateConsentScripts(consentType: string) {
+    // Swap the static <script type="text/plain" data-consent="..."> placeholder
+    // with an executable copy so the browser actually fetches and runs it.
+    const placeholders = document.querySelectorAll(
+      `script[type="text/plain"][data-consent="${consentType}"]`
+    );
+    placeholders.forEach((oldScript) => {
+      const newScript = document.createElement('script');
+      Array.from(oldScript.attributes).forEach((attr) => {
+        if (attr.name !== 'type' && attr.name !== 'data-consent') {
+          newScript.setAttribute(attr.name, attr.value);
+        }
+      });
+      if (oldScript.textContent) newScript.textContent = oldScript.textContent;
+      oldScript.parentNode?.replaceChild(newScript, oldScript);
+    });
   }
 
   document.addEventListener('DOMContentLoaded', () => {
@@ -79,7 +85,7 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
 
     if (consent === 'true') {
       signalConsentGranted();
-      loadGoogleAdSense();
+      activateConsentScripts('adsense');
     } else if (consent === null) {
       if (banner) {
         banner.style.display = 'block';
@@ -102,7 +108,7 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
       acceptBtn.addEventListener('click', () => {
         localStorage.setItem('cookie-consent', 'true');
         signalConsentGranted();
-        loadGoogleAdSense();
+        activateConsentScripts('adsense');
         hideBanner();
       });
     }
