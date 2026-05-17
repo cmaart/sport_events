@@ -1,0 +1,22 @@
+{
+  "id": "nordhorner-triathlon-2026",
+  "name": "Nordhorner Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nordhorn",
+    "lat": 52.4307,
+    "lng": 7.0693
+  },
+  "websiteUrl": "https://www.nordhorner-triathlon.de",
+  "description": "8. Nordhorner Triathlon am Vechtesee in Nordhorn in der Grafschaft Bentheim. Sprintdistanz: 500 m Schwimmen / 20 km Rad / 6 km Laufen. Sehr begrenzte Startplätze (150 Einzelstarter, 49 Teams) — frühzeitig anmelden! Anmeldebeginn: 1. März 2026. Staffelwertung mit neuen Kategorien.",
+  "distanceKm": 27
+}
