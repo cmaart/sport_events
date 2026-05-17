@@ -1,0 +1,22 @@
+{
+  "id": "kratschmayer-triathlon-waldenburg-2026",
+  "name": "Kratschmayer Triathlon Waldenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waldenburg",
+    "lat": 49.1855,
+    "lng": 9.6350
+  },
+  "websiteUrl": "https://tsg-waldenburg.de/triathlon",
+  "description": "35. Kratschmayer Triathlon in Waldenburg im Hohenlohekreis, ausgetragen im Rahmen des Waldenburger Bergfests. Sprintdistanz: 500 m Schwimmen im Neumühlsee / 20 km Rad / 5 km Lauf. Alljährliches Highlight im dritten Juli-Wochenende mit besonderer Festivalatmosphäre am Burgberg.",
+  "distanceKm": 26
+}
