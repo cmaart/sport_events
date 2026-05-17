@@ -10,13 +10,10 @@ const count = events.length;
 
 <header class="sticky top-0 z-40 backdrop-blur-xl bg-white/75 border-b border-[var(--color-ink-100)]/80">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
-    <a href={base} class="flex items-center gap-2.5 group">
-      <span class="relative inline-flex w-9 h-9 items-center justify-center rounded-xl bg-gradient-to-br from-[var(--color-brand-500)] to-[var(--color-brand-700)] text-white shadow-md shadow-[var(--color-brand-500)]/25 transition group-hover:scale-105 group-hover:shadow-lg">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><circle cx="6" cy="15" r="4"/><circle cx="18" cy="15" r="4"/><path d="m6 15 4-8h4l4 8"/><path d="M10 7h4"/></svg>
-      </span>
-      <span class="flex flex-col leading-none">
-        <span class="font-semibold tracking-tight text-[15px] text-[var(--color-ink-900)]">{t('site.title')}</span>
-        <span class="text-[11px] text-[var(--color-ink-500)] mt-0.5 tracking-wide uppercase">{t('site.tagline.short')}</span>
+    <a href={base} class="flex items-center gap-3 group" aria-label="ENDURE Events">
+      <img src={lockup} alt="ENDURE" class="h-7 w-auto transition group-hover:opacity-80" loading="eager" />
+      <span class="inline-flex items-center px-2 py-0.5 rounded-md bg-[var(--color-brand-50)] text-[var(--color-brand-700)] text-[10px] font-semibold uppercase tracking-[0.14em]">
+        Events
       </span>
     </a>
 
@@ -28,13 +25,6 @@ const count = events.length;
         </span>
         {t('header.events', { count })}
       </span>
-
-      <a href="https://endure-cycling.com" target="_blank" rel="noreferrer"
-        class="hidden md:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[var(--color-brand-50)] border border-[var(--color-brand-100)] hover:bg-[var(--color-brand-100)] transition"
-        aria-label="Presented by Endure Cycling">
-        <span class="text-[10px] uppercase tracking-wider font-semibold text-[var(--color-brand-700)]">{t('presentedBy.label')}</span>
-        <img src={lockup} alt="ENDURE" class="h-4 w-auto" loading="lazy" />
-      </a>
 
       <a href="https://github.com/cmaart/sport_events#event-hinzufügen" target="_blank" rel="noreferrer"
         class="hidden sm:inline-flex px-3.5 py-1.5 rounded-full text-xs font-medium text-[var(--color-ink-700)] hover:text-[var(--color-brand-700)] hover:bg-[var(--color-brand-100)] transition">

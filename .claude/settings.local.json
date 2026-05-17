@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\dev\\\\privat\\\\endure-website\" -Depth 2)",
+      "Bash(Select-Object FullName)",
+      "Bash(ls -la \"C:\\\\dev\\\\privat\\\\endure-website\" | head -20)",
+      "Read(//c/dev/privat/endure-website/**)",
+      "Bash(npm run *)",
+      "mcp__kapture__list_tabs",
+      "mcp__kapture__new_tab"
+    ]
+  }
+}

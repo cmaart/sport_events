@@ -32,9 +32,61 @@ const lockup = `${base}/assets/endure-lockup.png`;
 const total = events.length;
 const cyclingCount = events.filter((e) => e.sport === 'cycling').length;
 const triathlonCount = events.filter((e) => e.sport === 'triathlon').length;
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const orgId = `${siteUrl}/#organization`;
+const websiteId = `${siteUrl}/#website`;
+
+const organizationLd = {
+  '@type': 'Organization',
+  '@id': orgId,
+  name: t('site.title'),
+  url: `${siteUrl}/`,
+  logo: `${siteUrl}/assets/endure-mark-black.png`,
+  sameAs: ['https://endure-cycling.com'],
+};
+
+const websiteLd = {
+  '@type': 'WebSite',
+  '@id': websiteId,
+  url: `${siteUrl}/`,
+  name: t('site.title'),
+  description: t('site.description'),
+  inLanguage: 'de-DE',
+  publisher: { '@id': orgId },
+};
+
+const upcoming = events
+  .filter((e) => e.dates.confirmed)
+  .map((e) => ({ ...e, _start: new Date(e.dates.start) }))
+  .filter((e) => e._start >= new Date())
+  .sort((a, b) => a._start.getTime() - b._start.getTime())
+  .slice(0, 25);
+
+const itemListLd = {
+  '@type': 'ItemList',
+  name: `${t('site.title')} – ${t('site.tagline')}`,
+  numberOfItems: upcoming.length,
+  itemListElement: upcoming.map((e, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: `${siteUrl}/events/${e.slug}`,
+    name: e.name,
+  })),
+};
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [organizationLd, websiteLd, itemListLd],
+};
 ---
 
 <BaseLayout>
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify(jsonLd)}
+  />
   <section class="relative overflow-hidden border-b border-[var(--color-ink-100)] bg-[var(--color-surface)]">
     {/* Background: layered mesh-style gradient + dotted grid + topographic curves */}
     <div class="absolute inset-0 -z-10 pointer-events-none">
@@ -68,6 +120,12 @@ const triathlonCount = events.filter((e) => e.sport === 'triathlon').length;
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 lg:pt-10 pb-6 sm:pb-8 lg:pb-10">
       <div class="grid lg:grid-cols-[1fr_auto] gap-6 lg:gap-12 items-center">
         <div class="max-w-3xl">
+          <a href="https://endure-cycling.com" target="_blank" rel="noreferrer"
+            class="inline-block mb-5 transition hover:opacity-80"
+            aria-label="ENDURE">
+            <img src={lockup} alt="ENDURE" class="h-14 sm:h-16 lg:h-20 w-auto" loading="eager" />
+          </a>
+
           <div class="flex flex-wrap items-center gap-2 mb-3">
             <div class="inline-flex items-center gap-2 px-2.5 py-1 rounded-full bg-white/80 backdrop-blur border border-[var(--color-ink-100)] text-[10px] uppercase tracking-[0.14em] font-semibold text-[var(--color-brand-700)] shadow-sm">
               <span class="relative flex w-1.5 h-1.5">
@@ -76,16 +134,11 @@ const triathlonCount = events.filter((e) => e.sport === 'triathlon').length;
               </span>
               {t('hero.eyebrow')}
             </div>
-            <a href="https://endure-cycling.com" target="_blank" rel="noreferrer"
-              class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/80 backdrop-blur border border-[var(--color-brand-100)] shadow-sm hover:border-[var(--color-brand-500)] transition">
-              <span class="text-[10px] uppercase tracking-[0.14em] font-semibold text-[var(--color-brand-700)]">{t('presentedBy.label')}</span>
-              <img src={lockup} alt="ENDURE" class="h-3.5 w-auto" loading="lazy" />
-            </a>
           </div>
 
           <h1 class="text-[clamp(1.75rem,4vw,2.75rem)] font-bold tracking-[-0.03em] leading-[1.15] text-[var(--color-ink-900)]">
             {t('hero.title.line1')}
-            <span class="bg-gradient-to-r from-[var(--color-brand-600)] via-[var(--color-brand-500)] to-[var(--color-accent-500)] bg-clip-text text-transparent">
+            <span class="gradient-text">
               {t('hero.title.line2')}
             </span>
           </h1>
