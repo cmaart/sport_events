@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import EventDetailMap from '../../components/islands/EventDetailMap';
 import { formatDateRange, t } from '../../lib/i18n';
 
 export async function getStaticPaths() {
@@ -86,10 +87,21 @@ const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[va
       )}
     </div>
 
+    <section class="mb-6">
+      <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-2">{t('event.location')}</p>
+      <EventDetailMap
+        client:only="preact"
+        lat={e.location.lat}
+        lng={e.location.lng}
+        name={e.name}
+        sport={e.sport}
+        locationName={e.location.name}
+      />
+    </section>
+
     <div class="rounded-2xl bg-white border border-[var(--color-ink-100)] p-5">
-      <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.location')}</p>
       <p class="font-semibold mb-1">{e.location.name}</p>
-      <p class="text-sm text-[var(--color-ink-500)] mb-3">{e.location.lat.toFixed(4)}, {e.location.lng.toFixed(4)}</p>
+      <p class="text-sm text-[var(--color-ink-500)] mb-3">{e.location.region} · {e.location.lat.toFixed(4)}, {e.location.lng.toFixed(4)}</p>
       <a href={osmUrl} target="_blank" rel="noreferrer" class="text-sm text-[var(--color-brand-600)] hover:underline">
         {t('event.openMap')} →
       </a>
