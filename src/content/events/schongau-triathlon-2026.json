@@ -1,0 +1,23 @@
+{
+  "id": "schongau-triathlon-2026",
+  "name": "Schongau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schongau",
+    "lat": 47.8121,
+    "lng": 10.9038
+  },
+  "websiteUrl": "https://www.schongau-triathlon.de",
+  "description": "14. Schongau Triathlon am Lech in Schongau in der bayerischen Alpenregion. Olympische Distanz (1,5 km / 43 km / 10 km) und Volksdistanz (0,5 km / 20 km / 5 km). Schwimmen im Schongauer See, Radkurs durch die Voralpenlandschaft zwischen Ammersee und Zugspitze.",
+  "distanceKm": 55
+}
