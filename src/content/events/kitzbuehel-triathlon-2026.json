@@ -1,0 +1,25 @@
+{
+  "id": "kitzbuehel-triathlon-2026",
+  "name": "Kitzbühel Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-19",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schwarzsee, Kitzbühel",
+    "lat": 47.4472,
+    "lng": 12.3648,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.triathlon-kitzbuehel.com",
+  "description": "Internationaler Triathlon am idyllischen Schwarzsee in Kitzbühel mit Europe Triathlon Cup für Elitesportler und Hobbybewerb in der Sprintdistanz. Die Radstrecke führt über einen Rundkurs mit Anstieg zum Seebichl, der Laufkurs entlang des Seeufers.",
+  "distanceKm": 24,
+  "elevationGainM": 200
+}

@@ -7,18 +7,18 @@
   ],
   "country": "AT",
   "dates": {
-    "start": "2026-06-04",
-    "end": "2026-06-07",
-    "confirmed": false
+    "start": "2026-05-15",
+    "end": "2026-05-16",
+    "confirmed": true
   },
   "location": {
-    "name": "St. Pölten",
-    "lat": 48.2065,
-    "lng": 15.6232,
+    "name": "Weitra",
+    "lat": 48.8006,
+    "lng": 14.8989,
     "region": "Niederösterreich"
   },
-  "websiteUrl": "https://www.race-around.at",
-  "description": "Ultracycling-Event quer durch Niederösterreich. Solo- und Team-Varianten zwischen 220 und 1.200 km, Non-Stop-Format mit 24/7-Zeitnehmung.\n\nHinweis: Termin 2026 bitte vor Anmeldung auf der Veranstalterseite verifizieren.",
+  "websiteUrl": "https://www.ran-bike.at/",
+  "description": "Ultracycling-Event quer durch Niederösterreich mit Start am 15. Mai um 16:00 Uhr am Rathausplatz Weitra. Die 600-km-Rundstrecke durch das Waldviertel kann Solo oder im Team gefahren werden; Non-Stop-Format mit 24/7-Zeitnehmung.",
   "distanceKm": 600,
   "elevationGainM": 7500
 }

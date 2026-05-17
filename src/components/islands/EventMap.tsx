@@ -16,6 +16,7 @@ interface Props {
 
 const DACH_CENTER: L.LatLngTuple = [49.5, 11.5];
 const DACH_BOUNDS = L.latLngBounds([46.3, 5.8], [55.1, 17.2]);
+const INITIAL_ZOOM = 6;
 
 const makeIcon = (sport: 'cycling' | 'triathlon', selected: boolean) => {
   const color = sport === 'cycling' ? '#F05D23' : '#d63c6b';
@@ -37,12 +38,12 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, {
-      center: DACH_CENTER,
-      zoom: 6,
+      maxBounds: DACH_BOUNDS.pad(0.3),
       minZoom: 5,
-      maxBounds: DACH_BOUNDS.pad(0.5),
+      maxBoundsViscosity: 0.8,
       scrollWheelZoom: true,
     });
+    map.setView(DACH_CENTER, INITIAL_ZOOM);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
       attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -66,7 +67,19 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
     mapRef.current = map;
     clusterRef.current = cluster;
 
+    // Re-sync size after the container has been laid out
+    const raf = requestAnimationFrame(() => {
+      map.invalidateSize();
+      map.setView(DACH_CENTER, INITIAL_ZOOM, { animate: false });
+    });
+
+    // Keep the map's internal size in sync with container resizes
+    const ro = new ResizeObserver(() => map.invalidateSize());
+    ro.observe(containerRef.current);
+
     return () => {
+      cancelAnimationFrame(raf);
+      ro.disconnect();
       map.remove();
       mapRef.current = null;
       clusterRef.current = null;
@@ -105,11 +118,23 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
     });
 
     if (events.length > 0 && mapRef.current) {
+      const map = mapRef.current;
       const group = L.featureGroup(events.map((e) => L.marker([e.location.lat, e.location.lng])));
       const bounds = group.getBounds();
       if (bounds.isValid()) {
-        mapRef.current.fitBounds(bounds.pad(0.15), { maxZoom: 11, animate: true });
+        // Defer so container size is accurate when bounds are calculated
+        requestAnimationFrame(() => {
+          map.invalidateSize();
+          map.fitBounds(bounds.pad(0.15), { maxZoom: 11, animate: true });
+        });
       }
+    } else if (mapRef.current) {
+      // No events match — show DACH overview
+      const map = mapRef.current;
+      requestAnimationFrame(() => {
+        map.invalidateSize();
+        map.fitBounds(DACH_BOUNDS, { animate: true });
+      });
     }
   }, [events, baseUrl]);
 

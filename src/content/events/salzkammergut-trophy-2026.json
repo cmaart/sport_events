@@ -1,0 +1,24 @@
+{
+  "id": "salzkammergut-trophy-2026",
+  "name": "Salzkammergut Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-17",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Goisern am Hallstättersee",
+    "lat": 47.6381,
+    "lng": 13.6254,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.salzkammergut-trophy.at/",
+  "description": "Österreichs größter MTB-Marathon im UNESCO-Welterbegebiet Hallstatt–Dachstein mit über 3.500 internationalen Teilnehmern. Sieben Strecken zwischen 22 und 209 km sowie drei Gravel-Routen; die Route A bietet 209 km und rund 9.000 Höhenmeter durch das alpine Salzkammergut.",
+  "distanceKm": 209,
+  "elevationGainM": 9000
+}

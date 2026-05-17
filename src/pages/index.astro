@@ -28,31 +28,104 @@ const events: EventData[] = entries.map((entry) => ({
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const lockup = `${base}/assets/endure-lockup.png`;
+
+const total = events.length;
+const cyclingCount = events.filter((e) => e.sport === 'cycling').length;
+const triathlonCount = events.filter((e) => e.sport === 'triathlon').length;
 ---
 
 <BaseLayout>
-  <section class="relative overflow-hidden bg-gradient-to-b from-white to-[var(--color-surface-muted)] border-b border-[var(--color-ink-100)]">
-    <div class="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-[var(--color-brand-500)]/10 blur-3xl pointer-events-none" aria-hidden="true"></div>
-    <div class="absolute -bottom-24 -left-24 w-96 h-96 rounded-full bg-[var(--color-accent-500)]/10 blur-3xl pointer-events-none" aria-hidden="true"></div>
+  <section class="relative overflow-hidden border-b border-[var(--color-ink-100)] bg-[var(--color-surface)]">
+    {/* Background: layered mesh-style gradient + dotted grid + topographic curves */}
+    <div class="absolute inset-0 -z-10 pointer-events-none">
+      <div class="absolute inset-0 bg-gradient-to-b from-white via-[#fff6f1] to-[var(--color-surface-muted)]"></div>
+      <div class="absolute -top-32 -right-20 w-[520px] h-[520px] rounded-full bg-gradient-to-br from-[var(--color-brand-500)]/15 via-[var(--color-brand-500)]/5 to-transparent blur-3xl"></div>
+      <div class="absolute -bottom-40 -left-32 w-[480px] h-[480px] rounded-full bg-gradient-to-tr from-[var(--color-accent-500)]/10 via-[var(--color-accent-500)]/5 to-transparent blur-3xl"></div>
 
-    <div class="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12 lg:py-20">
-      <a
-        href="https://endure-cycling.com"
-        target="_blank"
-        rel="noreferrer"
-        class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white border border-[var(--color-brand-100)] shadow-sm hover:border-[var(--color-brand-500)] transition mb-5"
-      >
-        <span class="text-[11px] uppercase tracking-wider font-semibold text-[var(--color-brand-700)]">{t('presentedBy.label')}</span>
-        <img src={lockup} alt="ENDURE" class="h-4 w-auto" loading="lazy" />
-      </a>
+      {/* Dotted grid overlay */}
+      <svg class="absolute inset-0 w-full h-full opacity-[0.04]" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <pattern id="dotgrid" width="28" height="28" patternUnits="userSpaceOnUse">
+            <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" />
+          </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#dotgrid)" />
+      </svg>
 
-      <p class="text-sm font-medium uppercase tracking-wider text-[var(--color-brand-600)] mb-2">{t('site.tagline')}</p>
-      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight max-w-3xl">
-        {t('hero.title')} <span class="gradient-text">{t('hero.title.highlight')}</span>
-      </h1>
-      <p class="mt-4 text-base sm:text-lg text-[var(--color-ink-500)] max-w-2xl">{t('hero.subtitle')}</p>
+      {/* Topographic decoration on the right (alpine reference) */}
+      <svg class="absolute right-0 top-0 h-full w-1/2 hidden lg:block text-[var(--color-brand-500)]/15"
+        viewBox="0 0 600 600" fill="none" stroke="currentColor" stroke-width="1" preserveAspectRatio="xMaxYMid slice">
+        <path d="M-50 480 C 90 460, 160 380, 270 420 S 460 360, 620 400" />
+        <path d="M-50 440 C 100 420, 170 340, 280 380 S 470 320, 620 360" />
+        <path d="M-50 400 C 110 380, 180 300, 290 340 S 480 280, 620 320" />
+        <path d="M-50 360 C 120 340, 190 260, 300 300 S 490 240, 620 280" />
+        <path d="M-50 320 C 130 300, 200 220, 310 260 S 500 200, 620 240" />
+        <path d="M-50 280 C 140 260, 210 180, 320 220 S 510 160, 620 200" />
+        <path d="M-50 240 C 150 220, 220 140, 330 180 S 520 120, 620 160" />
+      </svg>
+    </div>
+
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 lg:pt-10 pb-6 sm:pb-8 lg:pb-10">
+      <div class="grid lg:grid-cols-[1fr_auto] gap-6 lg:gap-12 items-center">
+        <div class="max-w-3xl">
+          <div class="flex flex-wrap items-center gap-2 mb-3">
+            <div class="inline-flex items-center gap-2 px-2.5 py-1 rounded-full bg-white/80 backdrop-blur border border-[var(--color-ink-100)] text-[10px] uppercase tracking-[0.14em] font-semibold text-[var(--color-brand-700)] shadow-sm">
+              <span class="relative flex w-1.5 h-1.5">
+                <span class="absolute inline-flex w-full h-full rounded-full bg-[var(--color-brand-500)] opacity-70 animate-ping"></span>
+                <span class="relative inline-flex w-1.5 h-1.5 rounded-full bg-[var(--color-brand-500)]"></span>
+              </span>
+              {t('hero.eyebrow')}
+            </div>
+            <a href="https://endure-cycling.com" target="_blank" rel="noreferrer"
+              class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/80 backdrop-blur border border-[var(--color-brand-100)] shadow-sm hover:border-[var(--color-brand-500)] transition">
+              <span class="text-[10px] uppercase tracking-[0.14em] font-semibold text-[var(--color-brand-700)]">{t('presentedBy.label')}</span>
+              <img src={lockup} alt="ENDURE" class="h-3.5 w-auto" loading="lazy" />
+            </a>
+          </div>
+
+          <h1 class="text-[clamp(1.75rem,4vw,2.75rem)] font-bold tracking-[-0.03em] leading-[1.15] text-[var(--color-ink-900)]">
+            {t('hero.title.line1')}
+            <span class="bg-gradient-to-r from-[var(--color-brand-600)] via-[var(--color-brand-500)] to-[var(--color-accent-500)] bg-clip-text text-transparent">
+              {t('hero.title.line2')}
+            </span>
+          </h1>
+
+          <p class="mt-2 text-sm sm:text-base text-[var(--color-ink-500)] max-w-2xl leading-relaxed">
+            {t('hero.subtitle')}
+          </p>
+
+          <div class="mt-4 flex flex-wrap gap-2">
+            <a href="#explore"
+              class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--color-ink-900)] hover:bg-[var(--color-brand-700)] text-white font-medium text-sm shadow-lg shadow-[var(--color-ink-900)]/10 transition">
+              {t('hero.cta.explore')}
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-4 h-4"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
+            </a>
+            <a href="https://github.com/cmaart/sport_events#event-hinzufügen" target="_blank" rel="noreferrer"
+              class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white hover:bg-[var(--color-ink-100)] border border-[var(--color-ink-300)] text-[var(--color-ink-900)] font-medium text-sm transition">
+              {t('hero.cta.contribute')}
+            </a>
+          </div>
+        </div>
+
+        {/* Stat strip on the right (desktop) / below (mobile) */}
+        <dl class="grid grid-cols-3 gap-2 lg:gap-3 lg:min-w-[260px]">
+          <div class="rounded-xl bg-white/80 backdrop-blur border border-[var(--color-ink-100)] px-3 py-2 shadow-sm">
+            <dt class="text-[9px] uppercase tracking-wider font-semibold text-[var(--color-ink-500)]">{t('hero.stat.events')}</dt>
+            <dd class="text-xl lg:text-2xl font-bold tracking-tight text-[var(--color-ink-900)] tabular-nums">{total}</dd>
+          </div>
+          <div class="rounded-xl bg-white/80 backdrop-blur border border-[var(--color-ink-100)] px-3 py-2 shadow-sm">
+            <dt class="text-[9px] uppercase tracking-wider font-semibold text-[var(--color-brand-700)]">{t('hero.stat.cycling')}</dt>
+            <dd class="text-xl lg:text-2xl font-bold tracking-tight text-[var(--color-ink-900)] tabular-nums">{cyclingCount}</dd>
+          </div>
+          <div class="rounded-xl bg-white/80 backdrop-blur border border-[var(--color-ink-100)] px-3 py-2 shadow-sm">
+            <dt class="text-[9px] uppercase tracking-wider font-semibold text-[var(--color-accent-600)]">{t('hero.stat.triathlon')}</dt>
+            <dd class="text-xl lg:text-2xl font-bold tracking-tight text-[var(--color-ink-900)] tabular-nums">{triathlonCount}</dd>
+          </div>
+        </dl>
+      </div>
     </div>
   </section>
 
+  <div id="explore"></div>
   <EventsExplorer client:load events={events} baseUrl={base} />
 </BaseLayout>
