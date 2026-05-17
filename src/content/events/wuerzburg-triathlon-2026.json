@@ -1,0 +1,24 @@
+{
+  "id": "wuerzburg-triathlon-2026",
+  "name": "Würzburg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Würzburg",
+    "lat": 49.7990,
+    "lng": 9.9330
+  },
+  "websiteUrl": "https://finishers.com",
+  "description": "17. Wuerzburg Triathlon in der Weinstadt am Main in Unterfranken. Schwimmen im Baggersee nahe Erlabrunn, Radstrecke durch die Wuerzburger Weinberge des Mainkais und Laufkurs. Olympische und Sprint-Distanz in der Mozartstadt Wuerzburg mit der Residenz und Marienfestung als Kulisse.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}
