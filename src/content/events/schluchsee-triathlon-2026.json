@@ -1,0 +1,23 @@
+{
+  "id": "schluchsee-triathlon-2026",
+  "name": "Schluchsee Triathlon – Internationaler Schwarzwald-Cup",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schluchsee",
+    "lat": 47.8173,
+    "lng": 8.1838
+  },
+  "websiteUrl": "https://www.triathlon-schluchsee.de",
+  "description": "Internationaler Schwarzwald-Cup und Triathlonliga-Finale am Schluchsee im Hochschwarzwald. Rund 500 Athletinnen und Athleten auf Olympischer Distanz: 1,5 km Schwimmen im klaren Bergsee, 36 km Rad durch den Hochschwarzwald, 9,6 km Lauf. Atemberaubende Naturkulisse auf 930 m Seehöhe.",
+  "distanceKm": 47,
+  "elevationGainM": 600
+}

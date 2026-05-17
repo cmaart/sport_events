@@ -1,0 +1,24 @@
+{
+  "id": "freiburg-triathlon-2026",
+  "name": "LEXWARE Freiburg-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freiburg im Breisgau",
+    "lat": 47.9990,
+    "lng": 7.8421
+  },
+  "websiteUrl": "https://www.triteamfreiburg.de",
+  "description": "29. Freiburger Triathlon im Seepark Freiburg: Schwimmen im Flueckigersee, Radstrecke durch das Breisgau und Lauf rund um den Seepark. Sprint- und Olympische Distanz. Traditionsveranstaltung des Tri-Team Freiburg, umgeben von Schwarzwaldpanorama.",
+  "distanceKm": 51,
+  "elevationGainM": 400
+}

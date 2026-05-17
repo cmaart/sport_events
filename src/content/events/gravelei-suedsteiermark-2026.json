@@ -1,0 +1,24 @@
+{
+  "id": "gravelei-suedsteiermark-2026",
+  "name": "Gravelei Südsteiermark",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-29",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gamlitz",
+    "lat": 46.7000,
+    "lng": 15.5500,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.gravelei.com",
+  "description": "Dreitaegiges Gravel-Festival in den Weinbergen der Suedsteiermark rund um Gamlitz. Drei Strecken: Die Gmiatliche (35-45 km), Die Wuede (75-90 km) und Die Gstörte (120 km). Freitagabend: Einrollen mit Fuehrung und Suedsteirischer Abend auf Schloss Gamlitz. Startgebuehr inkl. Catering.",
+  "distanceKm": 120,
+  "elevationGainM": 1800
+}

@@ -1,0 +1,23 @@
+{
+  "id": "luschnouar-ironmaennli-2026",
+  "name": "Skinfit Luschnouar Ironmännli Lustenau",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lustenau",
+    "lat": 47.4248,
+    "lng": 9.6563,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.triathlon-vorarlberg.at",
+  "description": "Volkstriathlon im Parkbad Lustenau mit familiärer Atmosphäre: 500 m Schwimmen im Freibad, 18 km Radstrecke durch die Rheinebene, 4,8 km Laufen. Ideal als Einstiegsrennen fuer Newcomer und Schulkinder. Abendrennen mit festlichem Rahmenprogramm im Vorarlberger Rheintal.",
+  "distanceKm": 23
+}

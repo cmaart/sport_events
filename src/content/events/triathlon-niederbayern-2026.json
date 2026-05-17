@@ -1,0 +1,24 @@
+{
+  "id": "triathlon-niederbayern-2026",
+  "name": "Sparkasse Passau Triathlon Niederbayern",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pocking",
+    "lat": 48.4027,
+    "lng": 13.3156
+  },
+  "websiteUrl": "https://spoferan.com/series/triathlon-niederbayern",
+  "description": "Bayerische Meisterschaft ueber die Mitteldistanz in Pocking bei Passau: Schwimmen im Pockinger Badesee, Radstrecke durch Niederbayern, Lauf am See. Olympische und Mitteldistanz fuer alle Leistungsklassen. Beliebte Veranstaltung in grenznaher Region nahe Oesterreich.",
+  "distanceKm": 113,
+  "elevationGainM": 700
+}
