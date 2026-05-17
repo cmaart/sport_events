@@ -30,7 +30,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const total = events.length;
 const cyclingCount = events.filter((e) => e.sport === 'cycling').length;
 const triathlonCount = events.filter((e) => e.sport === 'triathlon').length;
-const regionCount = new Set(events.map((e) => e.location.region)).size;
 ---
 
 <BaseLayout>
@@ -100,7 +99,7 @@ const regionCount = new Set(events.map((e) => e.location.region)).size;
         </div>
 
         {/* Stat strip on the right (desktop) / below (mobile) */}
-        <dl class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-1 lg:grid-rows-4 gap-3 lg:gap-4 lg:min-w-[180px]">
+        <dl class="grid grid-cols-3 lg:grid-cols-1 lg:grid-rows-3 gap-3 lg:gap-4 lg:min-w-[200px]">
           <div class="rounded-2xl bg-white/80 backdrop-blur border border-[var(--color-ink-100)] px-4 py-3 shadow-sm">
             <dt class="text-[10px] uppercase tracking-wider font-semibold text-[var(--color-ink-500)]">{t('hero.stat.events')}</dt>
             <dd class="text-2xl lg:text-3xl font-bold tracking-tight text-[var(--color-ink-900)] mt-0.5 tabular-nums">{total}</dd>
@@ -112,10 +111,6 @@ const regionCount = new Set(events.map((e) => e.location.region)).size;
           <div class="rounded-2xl bg-white/80 backdrop-blur border border-[var(--color-ink-100)] px-4 py-3 shadow-sm">
             <dt class="text-[10px] uppercase tracking-wider font-semibold text-[var(--color-accent-600)]">{t('hero.stat.triathlon')}</dt>
             <dd class="text-2xl lg:text-3xl font-bold tracking-tight text-[var(--color-ink-900)] mt-0.5 tabular-nums">{triathlonCount}</dd>
-          </div>
-          <div class="rounded-2xl bg-white/80 backdrop-blur border border-[var(--color-ink-100)] px-4 py-3 shadow-sm">
-            <dt class="text-[10px] uppercase tracking-wider font-semibold text-[var(--color-ink-500)]">{t('hero.stat.regions')}</dt>
-            <dd class="text-2xl lg:text-3xl font-bold tracking-tight text-[var(--color-ink-900)] mt-0.5 tabular-nums">{regionCount}</dd>
           </div>
         </dl>
       </div>

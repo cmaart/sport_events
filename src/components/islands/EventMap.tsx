@@ -14,7 +14,6 @@ interface Props {
   baseUrl: string;
 }
 
-const AUSTRIA_CENTER: L.LatLngTuple = [47.6, 13.7];
 const AUSTRIA_BOUNDS = L.latLngBounds([46.3, 9.4], [49.1, 17.2]);
 
 const makeIcon = (sport: 'cycling' | 'triathlon', selected: boolean) => {
@@ -37,11 +36,10 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, {
-      center: AUSTRIA_CENTER,
-      zoom: 7,
       maxBounds: AUSTRIA_BOUNDS.pad(0.5),
       scrollWheelZoom: true,
     });
+    map.fitBounds(AUSTRIA_BOUNDS, { animate: false });
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
       attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -65,7 +63,19 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
     mapRef.current = map;
     clusterRef.current = cluster;
 
+    // Re-sync size + view after the container has been laid out
+    const raf = requestAnimationFrame(() => {
+      map.invalidateSize();
+      map.fitBounds(AUSTRIA_BOUNDS, { animate: false });
+    });
+
+    // Keep the map's internal size in sync with container resizes
+    const ro = new ResizeObserver(() => map.invalidateSize());
+    ro.observe(containerRef.current);
+
     return () => {
+      cancelAnimationFrame(raf);
+      ro.disconnect();
       map.remove();
       mapRef.current = null;
       clusterRef.current = null;
@@ -103,11 +113,23 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
     });
 
     if (events.length > 0 && mapRef.current) {
+      const map = mapRef.current;
       const group = L.featureGroup(events.map((e) => L.marker([e.location.lat, e.location.lng])));
       const bounds = group.getBounds();
       if (bounds.isValid()) {
-        mapRef.current.fitBounds(bounds.pad(0.15), { maxZoom: 11, animate: true });
+        // Defer so container size is accurate when bounds are calculated
+        requestAnimationFrame(() => {
+          map.invalidateSize();
+          map.fitBounds(bounds.pad(0.15), { maxZoom: 11, animate: true });
+        });
       }
+    } else if (mapRef.current) {
+      // No events match — show whole of Austria
+      const map = mapRef.current;
+      requestAnimationFrame(() => {
+        map.invalidateSize();
+        map.fitBounds(AUSTRIA_BOUNDS, { animate: true });
+      });
     }
   }, [events, baseUrl]);
 
