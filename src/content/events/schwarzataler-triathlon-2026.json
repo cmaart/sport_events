@@ -1,0 +1,21 @@
+{
+  "id": "schwarzataler-triathlon-2026",
+  "name": "Schwarzataler Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "dates": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ternitz",
+    "lat": 47.7197,
+    "lng": 15.9972,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.tri-ternitz.at",
+  "description": "Der Schwarzataler Triathlon im südlichen Niederösterreich bietet Sprint- und Olympische Distanz im idyllischen Schwarzatal. Schwimmen im Stausee, Radstrecke durch das hügelige Schwarzatal, Laufkurs entlang der Schwarza.\n\nOrganisiert vom ATSV Tri Ternitz – Anmeldung 2026 offen.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}

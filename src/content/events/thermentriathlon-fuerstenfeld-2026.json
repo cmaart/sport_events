@@ -1,0 +1,21 @@
+{
+  "id": "thermentriathlon-fuerstenfeld-2026",
+  "name": "Thermentriathlon Fürstenfeld",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fürstenfeld",
+    "lat": 47.0497,
+    "lng": 16.0843,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://wp.thermentriathlon.at",
+  "description": "Der Thermentriathlon im oststeirischen Thermen- und Vulkanland bietet zwei Distanzen am Freibad Fürstenfeld: Hobby-Sprint (700 m/18 km/5 km) und Olympische Distanz (1.500 m/38 km/10 km). Maximale Teilnehmerzahl 400 Starter.\n\nOrganisiert von dertriathlon.com. Anmeldeschluss: 1. Juli 2026.",
+  "distanceKm": 50,
+  "elevationGainM": 300
+}

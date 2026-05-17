@@ -1,0 +1,21 @@
+{
+  "id": "waidhofner-thayatal-triathlon-2026",
+  "name": "Waidhofner Thayatal-Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waidhofen an der Thaya",
+    "lat": 48.8153,
+    "lng": 15.2838,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.noetrv.at/aktuelles-infos/veranstaltungen/5-waidhofner-thayatal-triathlon",
+  "description": "Der 5. Waidhofner Thayatal-Triathlon führt durch die sanfte Waldviertler Landschaft im nördlichen Niederösterreich. Sprintdistanz: 225 m Schwimmen in der Thaya, 20 km Radfahren durch das Thayatal, 5 km Lauf. Einzel- und Staffelwertung möglich.\n\nOrganisiert vom LTU Waidhofen an der Thaya.",
+  "distanceKm": 25,
+  "elevationGainM": 120
+}

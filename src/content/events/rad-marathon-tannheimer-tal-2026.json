@@ -1,0 +1,21 @@
+{
+  "id": "rad-marathon-tannheimer-tal-2026",
+  "name": "Rad-Marathon Tannheimer Tal",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Gran Fondo"],
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tannheim",
+    "lat": 47.5030,
+    "lng": 10.5151,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.rad-marathon.at",
+  "description": "Klassischer Alpenradmarathon im hochalpinen Tannheimer Tal mit vier Streckenvarianten: 66 km/600 Hm, 103 km/760 Hm, 138 km/870 Hm und die Königsdistanz 214 km/3.500 Hm über Riedbergpass, Bregenzerwald und Hochtannberg. Traditionell stark frequentiert – Anmeldeplätze 2026 restlos ausgebucht.",
+  "distanceKm": 214,
+  "elevationGainM": 3500
+}
