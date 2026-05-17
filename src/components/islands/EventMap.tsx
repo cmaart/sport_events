@@ -11,6 +11,7 @@ interface Props {
   events: EventData[];
   selectedId: string | null;
   onSelect: (id: string | null) => void;
+  onShowInList?: (id: string) => void;
   baseUrl: string;
 }
 
@@ -29,11 +30,13 @@ const makeIcon = (sport: 'cycling' | 'triathlon', selected: boolean) => {
   });
 };
 
-export default function EventMap({ events, selectedId, onSelect, baseUrl }: Props) {
+export default function EventMap({ events, selectedId, onSelect, onShowInList, baseUrl }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<L.Map | null>(null);
   const clusterRef = useRef<L.MarkerClusterGroup | null>(null);
   const markersRef = useRef<Map<string, L.Marker>>(new Map());
+  const onShowInListRef = useRef(onShowInList);
+  onShowInListRef.current = onShowInList;
 
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
@@ -109,10 +112,23 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
           <div style="font-weight:600;margin-bottom:2px;">${e.name}</div>
           <div style="font-size:12px;color:#64748b;margin-bottom:6px;">${placeLine}</div>
           <div style="font-size:12px;margin-bottom:8px;">${dateLabel}</div>
-          <a href="${baseUrl}/events/${e.slug}/" style="color:#F05D23;font-size:13px;text-decoration:none;font-weight:500;">${t('event.details')} →</a>
+          <div style="display:flex;flex-direction:column;gap:6px;">
+            <a href="${baseUrl}/events/${e.slug}/" style="color:#F05D23;font-size:13px;text-decoration:none;font-weight:500;">${t('event.details')} →</a>
+            <button type="button" data-show-in-list="${e.slug}" style="align-self:flex-start;background:none;border:none;padding:0;color:#475569;font-size:12px;text-decoration:underline;cursor:pointer;font-family:inherit;">${t('event.showInList')}</button>
+          </div>
         </div>
       `);
       marker.on('click', () => onSelect(e.slug));
+      marker.on('popupopen', (ev) => {
+        const root = (ev as L.PopupEvent).popup.getElement();
+        const btn = root?.querySelector<HTMLButtonElement>('button[data-show-in-list]');
+        if (btn) {
+          btn.onclick = () => {
+            const slug = btn.getAttribute('data-show-in-list');
+            if (slug) onShowInListRef.current?.(slug);
+          };
+        }
+      });
       cluster.addLayer(marker);
       markersRef.current.set(e.slug, marker);
     });

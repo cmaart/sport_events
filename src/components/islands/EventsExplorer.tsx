@@ -44,13 +44,15 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
 
   const handleSelect = (id: string | null) => {
     setSelectedId(id);
-    if (id && view === 'list') {
-      // No-op, list-only view, just keep selection
-    }
-    if (id) {
+  };
+
+  const handleShowInList = (id: string) => {
+    setSelectedId(id);
+    if (view === 'map') setView('list');
+    requestAnimationFrame(() => {
       const el = document.getElementById(`event-${id}`);
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-    }
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
   };
 
   return (
@@ -110,7 +112,7 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
               <div class={`${view === 'both' ? 'xl:order-2 xl:sticky xl:top-20 xl:self-start xl:h-[calc(100vh-7rem)]' : 'h-[60vh]'}`}>
                 {isClient ? (
                   <Suspense fallback={<div class="rounded-2xl bg-[var(--color-ink-100)] animate-pulse w-full h-full" />}>
-                    <EventMap events={filtered} selectedId={selectedId} onSelect={handleSelect} baseUrl={baseUrl} />
+                    <EventMap events={filtered} selectedId={selectedId} onSelect={handleSelect} onShowInList={handleShowInList} baseUrl={baseUrl} />
                   </Suspense>
                 ) : (
                   <div class="rounded-2xl bg-[var(--color-ink-100)] w-full h-full" />
