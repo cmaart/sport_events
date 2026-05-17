@@ -54,7 +54,7 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
   };
 
   return (
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
+    <div class="w-full px-4 sm:px-6 lg:px-8 py-6">
       {/* Mobile: filter toggle + view tabs */}
       <div class="lg:hidden flex gap-2 mb-4">
         <button

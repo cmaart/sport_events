@@ -62,10 +62,9 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
                   ? 'border-[var(--color-brand-500)] shadow-md ring-2 ring-[var(--color-brand-500)]/20'
                   : 'border-[var(--color-ink-100)] hover:border-[var(--color-brand-500)] hover:shadow-sm'
               }`}
-              onMouseEnter={() => onSelect(e.slug)}
               onClick={() => onSelect(e.slug)}
             >
-              <a href={`${baseUrl}/events/${e.slug}/`} class="block p-4">
+              <div class="block p-4">
                 <div class="flex items-start justify-between gap-3 mb-2">
                   <span class={`inline-flex items-center text-[10px] uppercase tracking-wide font-medium px-2 py-0.5 rounded-full ${sportColor}`}>
                     {e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon')}
@@ -79,11 +78,20 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
                     <span key={c} class="text-[10px] px-1.5 py-0.5 rounded bg-[var(--color-ink-100)] text-[var(--color-ink-700)]">{c}</span>
                   ))}
                 </div>
-                <div class="flex gap-3 text-xs text-[var(--color-ink-500)]">
-                  {e.distanceKm && <span><strong class="text-[var(--color-ink-900)]">{e.distanceKm}</strong> {t('event.distance.unit')}</span>}
-                  {e.elevationGainM && <span><strong class="text-[var(--color-ink-900)]">{e.elevationGainM}</strong> {t('event.elevation.unit')}</span>}
+                <div class="flex items-center justify-between gap-3">
+                  <div class="flex gap-3 text-xs text-[var(--color-ink-500)]">
+                    {e.distanceKm && <span><strong class="text-[var(--color-ink-900)]">{e.distanceKm}</strong> {t('event.distance.unit')}</span>}
+                    {e.elevationGainM && <span><strong class="text-[var(--color-ink-900)]">{e.elevationGainM}</strong> {t('event.elevation.unit')}</span>}
+                  </div>
+                  <a
+                    href={`${baseUrl}/events/${e.slug}/`}
+                    onClick={(ev) => ev.stopPropagation()}
+                    class="text-xs font-medium text-[var(--color-brand-700)] hover:text-[var(--color-brand-500)] shrink-0"
+                  >
+                    {t('event.details')} →
+                  </a>
                 </div>
-              </a>
+              </div>
             </li>
           );
         })}
