@@ -14,6 +14,7 @@ interface Props {
   baseUrl: string;
 }
 
+const AUSTRIA_CENTER: L.LatLngTuple = [47.55, 13.7];
 const AUSTRIA_BOUNDS = L.latLngBounds([46.3, 9.4], [49.1, 17.2]);
 
 const makeIcon = (sport: 'cycling' | 'triathlon', selected: boolean) => {
@@ -36,10 +37,12 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, {
-      maxBounds: AUSTRIA_BOUNDS.pad(0.5),
+      maxBounds: AUSTRIA_BOUNDS.pad(0.3),
+      minZoom: 7,
+      maxBoundsViscosity: 0.8,
       scrollWheelZoom: true,
     });
-    map.fitBounds(AUSTRIA_BOUNDS, { animate: false });
+    map.setView(AUSTRIA_CENTER, 7);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
       attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -63,10 +66,10 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
     mapRef.current = map;
     clusterRef.current = cluster;
 
-    // Re-sync size + view after the container has been laid out
+    // Re-sync size after the container has been laid out
     const raf = requestAnimationFrame(() => {
       map.invalidateSize();
-      map.fitBounds(AUSTRIA_BOUNDS, { animate: false });
+      map.setView(AUSTRIA_CENTER, 7, { animate: false });
     });
 
     // Keep the map's internal size in sync with container resizes
