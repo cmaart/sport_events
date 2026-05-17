@@ -1,0 +1,24 @@
+{
+  "id": "paradiestriathlon-jena-2026",
+  "name": "Paradiestriathlon Jena",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jena",
+    "lat": 50.9272,
+    "lng": 11.5899
+  },
+  "websiteUrl": "https://triathlon.de",
+  "description": "Triathlonevent in der Saalestadt Jena mit Schwimmen im Paradies-Bad, Radstrecke durch das Saaletal und Laufkurs entlang der Saale. Olympische und Sprint-Distanz in der Universitaetsstadt Jena im thueringischen Saaletal. Traditionelles Veranstaltungsformat mit Vereinsstruktur.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}

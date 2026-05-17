@@ -1,0 +1,24 @@
+{
+  "id": "highlander-radmarathon-hohenems-2026",
+  "name": "Highlander Radmarathon Hohenems",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-02",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hohenems",
+    "lat": 47.3628,
+    "lng": 9.6921,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://highlander-radmarathon.at",
+  "description": "Radmarathon in Vorarlberg startend in Hohenems mit 160-187 km Streckenlänge und 4.040 m Hoehengewinn durch anspruchsvolle Vorarlberger Alpenpässe. Strecke durch den Bregenzerwald, Allgaeuer Voralpen und das Rheintal. Hochalpin gepraegter Sommerradmarathon mit aussergewoehnlichem Panorama.",
+  "distanceKm": 187,
+  "elevationGainM": 4040
+}

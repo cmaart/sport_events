@@ -1,0 +1,23 @@
+{
+  "id": "3rides-gran-fondo-aachen-2026",
+  "name": "3Rides Gran Fondo Aachen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-17",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aachen",
+    "lat": 50.7753,
+    "lng": 6.0839
+  },
+  "websiteUrl": "https://3rides.de/aachen",
+  "description": "UCI Gran Fondo World Series Qualifying Event in der Kaiserstadt Aachen im Dreilaendereck Deutschland-Belgien-Niederlande. Gran Fondo mit qualifizierter UCI-Strecke durch die Eifel, das Ardennenmassiv und die Vennlandschaft. Als UCI-Qualifier berechtigt zur Teilnahme an der UCI Gran Fondo Weltmeisterschaft.",
+  "distanceKm": 120,
+  "elevationGainM": 1500
+}

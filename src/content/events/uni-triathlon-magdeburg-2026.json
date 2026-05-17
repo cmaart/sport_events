@@ -1,0 +1,22 @@
+{
+  "id": "uni-triathlon-magdeburg-2026",
+  "name": "Sparkassen Uni-Triathlon Magdeburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-10",
+    "end": "2026-06-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Magdeburg",
+    "lat": 52.1205,
+    "lng": 11.6276
+  },
+  "websiteUrl": "https://finishers.com/event/magdeburger-teamtriathlon",
+  "description": "36. Sparkassen Uni-Triathlon in Magdeburg an der Elbe: 800 m Schwimmen, 20 km Radstrecke, 5 km Laufen. Traditionsveranstaltung der Universitaetsstadt Magdeburg mit langjaehrigem Vereinscharakter. Ergaenzt durch Teamtriathlon-Event im September (Sep 13) fuer Staffeln.",
+  "distanceKm": 26
+}

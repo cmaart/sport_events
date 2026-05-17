@@ -1,0 +1,24 @@
+{
+  "id": "arbo-kaernten-radmarathon-2026",
+  "name": "ARBÖ Kärnten Radmarathon Bad Kleinkirchheim",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Kleinkirchheim",
+    "lat": 46.8250,
+    "lng": 13.7850,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://kaernten-radmarathon.at",
+  "description": "ARBÖ Radmarathon in den Nockbergen in Kaernten, startend in Bad Kleinkirchheim. 106 km mit 2.150 m Hoehengewinn durch die sanften Huegelruecken der Gurktaler Alpen und Nockberge. Fruehlingsmarathon durch eine der schoensten Gebirgslandschaften Kaerntens mit wenig Verkehr und unberuehrter Natur.",
+  "distanceKm": 106,
+  "elevationGainM": 2150
+}
