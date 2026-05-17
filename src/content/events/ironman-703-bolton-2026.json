@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-bolton-2026",
+  "name": "IRONMAN 70.3 Bolton",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bolton",
+    "lat": 53.5789,
+    "lng": -2.4330
+  },
+  "websiteUrl": "https://www.ironman.com/im703-bolton",
+  "description": "IRONMAN 70.3 Bolton – Auftakt zur IRONMAN England-Saison 2026: 1,9 km Schwimmen im Pennington Flash-See bei Leigh, 90 km Rad durch Wigan und Bolton, 21,1 km Halbmarathon durch die Straßen von Bolton. Größtes Triathlon-Event im Nordwesten Englands mit leidenschaftlichem britischen Publikum.",
+  "distanceKm": 113
+}

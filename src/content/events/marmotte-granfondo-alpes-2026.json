@@ -1,0 +1,20 @@
+{
+  "id": "marmotte-granfondo-alpes-2026",
+  "name": "Marmotte Granfondo Alpes",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bourg-d'Oisans",
+    "lat": 45.0556,
+    "lng": 6.0336
+  },
+  "websiteUrl": "https://marmottegranfondoalpes.com/en/",
+  "description": "La Marmotte – eines der berühmtesten und schwersten Granfondos Europas: 174 km mit 5.000 Hm über vier Alpenpässe. Start in Bourg-d'Oisans, Col du Glandon, Col du Télégraphe, Col du Galibier (2.642 m), Zieleinlauf auf dem Alpe d'Huez. Rund 7.500 Starter:innen, schnell ausgebucht. UCI-Qualifikationsrennen für Gran Fondo-WM.",
+  "distanceKm": 174,
+  "elevationGainM": 5000
+}

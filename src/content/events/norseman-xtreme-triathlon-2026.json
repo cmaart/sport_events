@@ -1,0 +1,20 @@
+{
+  "id": "norseman-xtreme-triathlon-2026",
+  "name": "Norseman Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "NO",
+  "dates": {
+    "start": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eidfjord",
+    "lat": 60.4726,
+    "lng": 7.0588
+  },
+  "websiteUrl": "https://www.nxtri.com",
+  "description": "Einer der härtesten Triathlons weltweit: Start mit einem Sprung von der Fähre ins eiskalte Hardangerfjord (3,8 km), 180 km Rad durch norwegische Fjord- und Hochgebirgslandschaft, 42,2 km Lauf mit über 5.000 Hm – der Zieleinlauf liegt auf dem Gipfel des Gaustatoppen (1.880 m). Nur 250 Startplätze, vergabe per Lotterie.",
+  "distanceKm": 226,
+  "elevationGainM": 5000
+}

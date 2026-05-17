@@ -1,0 +1,20 @@
+{
+  "id": "dragon-ride-wales-2026",
+  "name": "Dragon Ride",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Port Talbot",
+    "lat": 51.5940,
+    "lng": -3.7728
+  },
+  "websiteUrl": "https://www.dragonride.co.uk/",
+  "description": "Dragon Ride – 22. Ausgabe von Wales' größtem Granfondo im Margam Park: Dragon Devil 303 km (4.500+ Hm), Gran Fondo 215 km, Medio Fondo 157 km, Cymru Classic 100 km. Durch die Brecon Beacons und den Südwalisischen Nationalpark auf teilweise gesperrten Straßen. Spektakuläre Berglandschaft, leidenschaftliche walisische Unterstützung.",
+  "distanceKm": 215,
+  "elevationGainM": 4000
+}

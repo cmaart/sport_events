@@ -1,0 +1,20 @@
+{
+  "id": "uci-istria-granfondo-2026",
+  "name": "UCI Istria Gran Fondo",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "HR",
+  "dates": {
+    "start": "2026-04-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Umag",
+    "lat": 45.4320,
+    "lng": 13.5240
+  },
+  "websiteUrl": "https://www.istriadiscovery.hr/",
+  "description": "UCI Istria Gran Fondo – 12. Ausgabe des UCI-Qualifikationsrennens in Istriens Küstenregion: Granfondo 105 km (1.745 Hm) oder Mediofondo 80 km (1.254 Hm). Start am Stella Maris Resort in Umag, Schlüsselanstieg Oprtalj mit Blick auf das Adriatische Meer. Typisch frühlingshaftes Mittelmeerklima im April.",
+  "distanceKm": 105,
+  "elevationGainM": 1745
+}

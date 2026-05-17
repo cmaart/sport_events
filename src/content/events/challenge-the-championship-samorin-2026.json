@@ -1,0 +1,19 @@
+{
+  "id": "challenge-the-championship-samorin-2026",
+  "name": "The Championship – Challenge Šamorín",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "SK",
+  "dates": {
+    "start": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Šamorín",
+    "lat": 48.0124,
+    "lng": 17.3121
+  },
+  "websiteUrl": "https://thechampionship.de/",
+  "description": "The Championship – das Weltmeisterschaftsrennen der Challenge Family: Mitteldistanz (1,9 km / 90 km / 21,1 km) auf dem blitzschnellen Flachkurs am x-bionic sphere in Šamorín, 25 Minuten von Bratislava entfernt. Sprint, Olympic und Half-Distanz an einem Wochenende. Weltklasse-Profis auf der gleichen Strecke wie Altersklassen-Starter.",
+  "distanceKm": 113
+}

@@ -1,0 +1,20 @@
+{
+  "id": "granfondo-il-lombardia-2026",
+  "name": "Gran Fondo Il Lombardia",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-10-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bergamo",
+    "lat": 45.6953,
+    "lng": 9.6772
+  },
+  "websiteUrl": "https://gfilombardia.it/en/",
+  "description": "Gran Fondo Il Lombardia – UCI-Qualifikation zum Monument \"Classica delle Foglie Morte\": Erstmals 2026 Start in Bergamo (statt Como), ca. 135 km mit 3.000 Hm über Civiglio, San Fermo della Battaglia und Madonna del Ghisallo, Ziel in Como. Tags drauf fährt die Profi-Elite die gleiche Strecke. 60. Jubiläum von Gimondi.",
+  "distanceKm": 135,
+  "elevationGainM": 3000
+}

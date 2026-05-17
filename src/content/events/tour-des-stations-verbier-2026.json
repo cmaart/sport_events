@@ -1,0 +1,20 @@
+{
+  "id": "tour-des-stations-verbier-2026",
+  "name": "Tour des Stations",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Verbier",
+    "lat": 46.1113,
+    "lng": 7.2292
+  },
+  "websiteUrl": "https://tourdesstations.ch/en/",
+  "description": "Tour des Stations im Wallis – verbindet Schweizer Skigebiete: Ultrafondo 242 km (8.848 Hm!), Superfondo 185 km (6.800 Hm), Marmotte Granfondo Valais 133 km (4.700 Hm) oder Mediofondo 74 km. Start in Le Châble, Ziel in Verbier. Col de la Croix-de-Cœur (2.175 m) als Schlüsselanstieg. Für die Ultrafondo 8.848 Hm symbolisch wie Everest.",
+  "distanceKm": 133,
+  "elevationGainM": 4700
+}

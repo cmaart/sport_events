@@ -1,0 +1,20 @@
+{
+  "id": "ironman-italy-emilia-romagna-2026",
+  "name": "IRONMAN Italy Emilia-Romagna",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cervia",
+    "lat": 44.2597,
+    "lng": 12.3478
+  },
+  "websiteUrl": "https://www.ironman.com/im-italy-emilia-romagna",
+  "description": "IRONMAN Italy in Cervia an der Adria: 3,8 km Schwimmen im flachen Adriatischen Meer, 180 km flaches Radfahren durch die Romagna-Landschaft in zwei Schleifen, 42,2 km Laufen durch die Strandpromenade von Cervia und Milano Marittima in vier Runden. Idealer Kurs für schnelle Zeiten. Am gleichen Wochenende auch IRONMAN 70.3 Italy.",
+  "distanceKm": 226,
+  "elevationGainM": 200
+}

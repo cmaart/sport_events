@@ -1,0 +1,20 @@
+{
+  "id": "ironman-wales-2026",
+  "name": "IRONMAN Wales",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tenby",
+    "lat": 51.6750,
+    "lng": -4.7041
+  },
+  "websiteUrl": "https://www.ironman.com/im-wales",
+  "description": "IRONMAN Wales in der malerischen Küstenstadt Tenby in Pembrokeshire: 3,8 km Schwimmen im Pembrokeshire-Küstenmeer, 180 km welligem Rad durch die walisischen Hügel, anspruchsvoller Marathon mit über 600 Hm. Als einer der schwersten IRONMAN-Kurse Europas für spektakuläre Landschaft und leidenschaftliche Unterstützung bekannt.",
+  "distanceKm": 226,
+  "elevationGainM": 2200
+}

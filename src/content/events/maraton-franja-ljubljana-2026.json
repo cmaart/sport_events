@@ -1,0 +1,20 @@
+{
+  "id": "maraton-franja-ljubljana-2026",
+  "name": "Maraton Franja BTC City",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "SI",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ljubljana",
+    "lat": 46.0569,
+    "lng": 14.5058
+  },
+  "websiteUrl": "https://franja.org/en/",
+  "description": "Maraton Franja BTC City – einer der ältesten Granfondos Europas (seit 1982): Granfondo 158 km (2.500 Hm) oder Mediofondo 100 km durch die Karawanken und Julischen Alpen rings um Ljubljana. UCI Gran Fondo World Series-Qualifikation. 10.000+ Zuschauer bei Zeitfahren (12. Juni) und Hauptrennen (14. Juni).",
+  "distanceKm": 158,
+  "elevationGainM": 2500
+}

@@ -1,0 +1,20 @@
+{
+  "id": "etape-du-tour-2026",
+  "name": "L'Étape du Tour de France 2026",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bourg-d'Oisans",
+    "lat": 45.0556,
+    "lng": 6.0336
+  },
+  "websiteUrl": "https://www.letapedutourdefrance.com/en",
+  "description": "Das weltgrößte Amateur-Radrennen: 16.000 Hobbyradsportler fahren die legendäre Etappe 20 der Tour de France 2026. Start in Bourg-d'Oisans, 170 km mit 5.400 Höhenmetern über Col de la Croix de Fer (2.067 m), Col du Télégraphe, Col du Galibier (2.642 m), Col de Sarenne und Zieleinlauf auf dem Alpe d'Huez (21 Kehren). Gilt als härteste Étape du Tour der letzten Jahre.",
+  "distanceKm": 170,
+  "elevationGainM": 5400
+}

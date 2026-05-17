@@ -1,0 +1,20 @@
+{
+  "id": "ironman-kalmar-2026",
+  "name": "IRONMAN Kalmar",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "SE",
+  "dates": {
+    "start": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kalmar",
+    "lat": 56.6616,
+    "lng": 16.3566
+  },
+  "websiteUrl": "https://www.ironman.com/im-kalmar",
+  "description": "IRONMAN Kalmar an der schwedischen Ostküste: Schwimmen in der Ostsee im Kalmarsund, flache und schnelle Radstrecke durch Smålands Schärenlandschaft, Laufen durch die historische Innenstadt der Schlossstadt Kalmar. Traditionell einer der beliebtesten nordeuropäischen IRONMAN-Austragungsorte mit begeistertem schwedischen Publikum.",
+  "distanceKm": 226,
+  "elevationGainM": 500
+}

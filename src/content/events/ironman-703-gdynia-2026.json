@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-gdynia-2026",
+  "name": "IRONMAN 70.3 Gdynia",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "PL",
+  "dates": {
+    "start": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gdynia",
+    "lat": 54.5175,
+    "lng": 18.5436
+  },
+  "websiteUrl": "https://ironmangdynia.pl/en/",
+  "description": "Rückkehr des IRONMAN 70.3 nach Gdynia im Rahmen der Centenariumsfeierlichkeiten der Stadt: 1,9 km Schwimmen in der Ostsee am Stadtstand (Plaża Miejska), 90 km Rad durch die Kaschubische Seenplatte, 21,1 km Laufen durch die Hafenstadt Gdynia. Bis zu 1.500 Halbdistanz-Starter, 500 olympische Distanz.",
+  "distanceKm": 113
+}

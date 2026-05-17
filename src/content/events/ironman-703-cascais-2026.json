@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-cascais-2026",
+  "name": "IRONMAN 70.3 Portugal-Cascais",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "PT",
+  "dates": {
+    "start": "2026-10-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cascais",
+    "lat": 38.6979,
+    "lng": -9.4215
+  },
+  "websiteUrl": "https://www.ironman.com/im703-portugal",
+  "description": "IRONMAN 70.3 Portugal-Cascais in der Festungsstadt westlich von Lissabon: 1,9 km Schwimmen im Atlantik vor der Festung Cascais, 90 km Rad entlang der Avenida Marginal, 21,1 km Laufen auf der Paredão-Promenade zwischen Cascais, Estoril und São Pedro. Bereits ausverkauft – 50 World Championship-Slots. Am selben Wochenende auch Full Distance.",
+  "distanceKm": 113
+}

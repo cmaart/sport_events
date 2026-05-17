@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-hradec-kralove-2026",
+  "name": "IRONMAN 70.3 Hradec Králové",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hradec Králové",
+    "lat": 50.2092,
+    "lng": 15.8329
+  },
+  "websiteUrl": "https://ironmanczech.com/en/",
+  "description": "3. IRONMAN 70.3 Tschechien in Hradec Králové: 1,9 km Schwimmen in der Elbe (Labe) im Stadtzentrum, 90 km Rad durch Ostböhmen, 21,1 km Laufen am Zusammenfluss von Elbe und Adler. Qualifikationsrennen für den IRONMAN 70.3 World Championship 2026 in Nizza. Rekordteilnahme mit 2.800 Athleten.",
+  "distanceKm": 113
+}

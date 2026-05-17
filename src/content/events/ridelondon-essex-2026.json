@@ -1,0 +1,20 @@
+{
+  "id": "ridelondon-essex-2026",
+  "name": "Ford RideLondon-Essex 100",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "London",
+    "lat": 51.5030,
+    "lng": -0.1190
+  },
+  "websiteUrl": "https://www.londonmarathonevents.co.uk/ridelondon/",
+  "description": "Ford RideLondon-Essex 100 – Großbritanniens größtes Jedermann-Radrennen mit über 20.000 Teilnehmern: 100 Meilen (161 km) durch London und Essex auf vollständig gesperrten Straßen. Auch 60 und 30 Meilen-Varianten verfügbar. Start im Zentrum Londons, spektakuläre Kulisse durch Essex bis zurück in die Hauptstadt.",
+  "distanceKm": 161,
+  "elevationGainM": 900
+}

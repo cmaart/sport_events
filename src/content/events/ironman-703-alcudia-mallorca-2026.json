@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-alcudia-mallorca-2026",
+  "name": "Zafiro IRONMAN 70.3 Alcúdia-Mallorca",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alcúdia",
+    "lat": 39.8500,
+    "lng": 3.1200
+  },
+  "websiteUrl": "https://www.ironman.com/im703-mallorca",
+  "description": "IRONMAN 70.3 auf Mallorca in Alcúdia: 1,9 km Schwimmen im Meer der Bucht von Pollença, 90 km Rad durch die Tramuntana-Hügellandschaft und Nordmallorcas Olivenhaine, 21,1 km Laufen in Alcúdia. Beliebter Frühjahrs-Triathlon im Warmtrainingslager Mallorca für viele europäische Athleten.",
+  "distanceKm": 113
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ironman-vitoria-gasteiz-2026",
+  "name": "IRONMAN Vitoria-Gasteiz",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vitoria-Gasteiz",
+    "lat": 42.8467,
+    "lng": -2.6726
+  },
+  "websiteUrl": "https://www.ironman.com/im-vitoria",
+  "description": "Neues IRONMAN Full Distance-Rennen im Baskenland: Schwimmen im See Embalse de Ullibarri-Gamboa, welliges Radprofil durch das grüne Hügelland rund um Vitoria-Gasteiz, schneller Stadlauf. Gleichzeitig findet der IRONMAN 70.3 Vitoria-Gasteiz statt. Die Stadt gilt als Europas grünste Hauptstadt und bietet als Kulisse für beide Distanzen ein begeistertes Publikum.",
+  "distanceKm": 226,
+  "elevationGainM": 1200
+}

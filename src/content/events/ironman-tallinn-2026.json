@@ -1,0 +1,20 @@
+{
+  "id": "ironman-tallinn-2026",
+  "name": "IRONMAN Tallinn",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "EE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tallinn",
+    "lat": 59.4370,
+    "lng": 24.7536
+  },
+  "websiteUrl": "https://www.ironman.com/im-tallinn",
+  "description": "IRONMAN Tallinn in Estlands mittelalterlicher Hauptstadt: Schwimmen in der Tallinner Bucht der Ostsee, 180 km Rad durch estländische Wälder und Dörfer, Marathon durch die malerische Altstadt Tallinns. Am gleichen Wochenende findet auch der IRONMAN 70.3 Tallinn als Europameisterschaft statt.",
+  "distanceKm": 226,
+  "elevationGainM": 700
+}

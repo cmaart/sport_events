@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-weymouth-2026",
+  "name": "IRONMAN 70.3 Weymouth",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weymouth",
+    "lat": 50.6102,
+    "lng": -2.4564
+  },
+  "websiteUrl": "https://www.ironman.com/im703-weymouth",
+  "description": "IRONMAN 70.3 Weymouth im Lodmoor Country Park an Dorsets Jurassic Coast: 1,9 km Schwimmen in der Weymouth Bay, 90 km anspruchsvoller Rad durch Dorsets Hügellandschaft, 21,1 km flacher Lauf auf der Weymouth-Strandpromenade. Veranstaltungsort mit olympischer Geschichte – 2012 olympisches Segelrevier. Rund 2.800 Starter:innen.",
+  "distanceKm": 113
+}

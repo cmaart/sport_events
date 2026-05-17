@@ -1,0 +1,20 @@
+{
+  "id": "amstel-gold-race-sportive-2026",
+  "name": "Amstel Gold Race Sportive",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "NL",
+  "dates": {
+    "start": "2026-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Valkenburg",
+    "lat": 50.8650,
+    "lng": 5.8260
+  },
+  "websiteUrl": "https://www.amstelgoldrace.nl/en/",
+  "description": "Amstel Gold Race Sportive im hügeligen Süd-Limburg: Sechs Streckenvarianten von 60 bis 240 km durch die einzige echte Hügellandschaft der Niederlande. Köffelsberg, Cauberg und weitere klassische Anstiege. Einen Tag vor dem Profi-Monument Amstel Gold Race (19. April). Größtes Jedermann-Radrennen der Niederlande.",
+  "distanceKm": 240,
+  "elevationGainM": 2200
+}

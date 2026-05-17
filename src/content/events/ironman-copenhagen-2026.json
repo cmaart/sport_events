@@ -1,0 +1,20 @@
+{
+  "id": "ironman-copenhagen-2026",
+  "name": "IRONMAN Copenhagen",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "DK",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kopenhagen",
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
+  "websiteUrl": "https://www.ironman.com/im-copenhagen",
+  "description": "IRONMAN Copenhagen: 3,8 km Schwimmen in der künstlichen Lagune am Amager Strand, flache 180 km Rad durch das Kopenhagener Stadtzentrum und Seelands Landschaft, 42,2 km dreifacher Lauf an der Waterfront. Idealer Flachkurs mit begeistert jubelnden Dänen entlang der gesamten Strecke.",
+  "distanceKm": 226,
+  "elevationGainM": 400
+}

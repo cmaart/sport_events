@@ -1,0 +1,20 @@
+{
+  "id": "marcialonga-cycling-craft-2026",
+  "name": "Marcialonga Cycling Craft",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Predazzo",
+    "lat": 46.3128,
+    "lng": 11.6010
+  },
+  "websiteUrl": "https://marcialonga.it/marcialonga_cycling/",
+  "description": "Marcialonga Cycling Craft im Val di Fiemme (Trentino): Granfondo 135 km (3.900 Hm) oder Mediofondo 80 km (2.488 Hm). Ikonische Dolomiten-Pässe: Passo Lavazè (1.808 m), Passo San Pellegrino (1.919 m) und Passo delle Valles. Start und Ziel in Predazzo, Teil des Alé Challenge Circuits. Atemberaubende Landschaft in den östlichen Dolomiten.",
+  "distanceKm": 135,
+  "elevationGainM": 3900
+}

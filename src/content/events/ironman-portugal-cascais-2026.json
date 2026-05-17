@@ -1,0 +1,20 @@
+{
+  "id": "ironman-portugal-cascais-2026",
+  "name": "IRONMAN Portugal-Cascais",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "PT",
+  "dates": {
+    "start": "2026-10-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cascais",
+    "lat": 38.6979,
+    "lng": -9.4215
+  },
+  "websiteUrl": "https://www.ironman.com/im-portugal",
+  "description": "IRONMAN Portugal in Cascais an der Atlantikküste westlich von Lissabon: 3,8 km Schwimmen vor der Festung Cascais im Atlantik, 180 km Rad entlang der Avenida Marginal, 42,2 km Laufen auf der Strandpromenade zwischen Cascais, Estoril und São Pedro. Anmeldung bereits ausverkauft – Event hat 50 World Championship-Slots.",
+  "distanceKm": 226,
+  "elevationGainM": 900
+}

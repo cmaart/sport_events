@@ -1,0 +1,21 @@
+{
+  "id": "haute-route-alps-2026",
+  "name": "Haute Route Alps 2026",
+  "sport": "cycling",
+  "categories": ["Etappenrennen"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nizza",
+    "lat": 43.7102,
+    "lng": 7.2620
+  },
+  "websiteUrl": "https://www.hauteroute.org/",
+  "description": "15. Ausgabe des Haute Route Alps: 7 Etappen, 808 km, 19.255 Höhenmeter von Nizza nach Thonon-les-Bains durch Frankreich, die Schweiz und Italien. Ikonische Pässe: Alpe d'Huez (Premierenaufnahme), Izoard, Agnel, Lombarde, Glandon, Joux Plane. Ausgebucht – einer der härtesten und prestigeträchtigsten Amateurradsport-Events Europas.",
+  "distanceKm": 808,
+  "elevationGainM": 19255
+}

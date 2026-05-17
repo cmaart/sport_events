@@ -1,0 +1,21 @@
+{
+  "id": "leroica-toscana-2026",
+  "name": "L'Eroica",
+  "sport": "cycling",
+  "categories": ["Gran Fondo", "Gravel"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-10-03",
+    "end": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gaiole in Chianti",
+    "lat": 43.4576,
+    "lng": 11.4390
+  },
+  "websiteUrl": "https://www.eroica.it/en/",
+  "description": "L'Eroica – das legendäre Vintage-Radrennen auf Toskanas Strade Bianche: 46 / 81 / 135 / 209 km auf weißen Schotterstraßen. Pflicht: historisches Fahrrad (vor 1987, Stahlrahmen, Zugschaltung) und Vintage-Kleidung. Start und Ziel in Gaiole in Chianti. Rund 9.000 Teilnehmer aus 70 Ländern. Kulturell einzigartiges Radsporterlebnis.",
+  "distanceKm": 135,
+  "elevationGainM": 3000
+}

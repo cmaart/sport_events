@@ -1,0 +1,19 @@
+{
+  "id": "challenge-sandefjord-2026",
+  "name": "Challenge Sandefjord",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "NO",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sandefjord",
+    "lat": 59.1296,
+    "lng": 10.2182
+  },
+  "websiteUrl": "https://challenge-sandefjord.com/",
+  "description": "Challenge Sandefjord – Mitteldistanz-Triathlon im norwegischen Fjordland: 1,9 km Schwimmen im Sandefjordfjord, 90 km Rad durch Vestfolds Hügellandschaft, 21,1 km Laufen durch Sandefjords Innenstadt. Sommernächte ermöglichen norweigische Triathlons im langen Abendsonnenlicht.",
+  "distanceKm": 113
+}

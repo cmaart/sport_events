@@ -1,0 +1,20 @@
+{
+  "id": "ironman-leeds-2026",
+  "name": "IRONMAN Leeds",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leeds",
+    "lat": 53.8175,
+    "lng": -1.5324
+  },
+  "websiteUrl": "https://www.ironman.com/im-leeds",
+  "description": "IRONMAN Leeds im Roundhay Park: Schwimmen im Roundhay Lake, Radfahren durch die Yorkshire Dales und die Ausläufer der Pennines, Laufen durch den großen innerstädtischen Roundhay Park. Rückkehr der IRONMAN Langdistanz nach Yorkshire im Sommer 2026 mit dem ikonischen Parkfinale.",
+  "distanceKm": 226,
+  "elevationGainM": 1600
+}

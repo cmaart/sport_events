@@ -1,0 +1,20 @@
+{
+  "id": "challenge-vieux-boucau-2026",
+  "name": "Challenge Vieux-Boucau",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-10-10",
+    "end": "2026-10-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vieux-Boucau-les-Bains",
+    "lat": 43.7938,
+    "lng": -1.3978
+  },
+  "websiteUrl": "https://challengefamily.com/races/challenge-vieux-boucau/",
+  "description": "Challenge Mitteldistanz in Vieux-Boucau an der atlantischen Küste der Landes: 1,9 km Schwimmen im Lac Marin, 90 km Rad durch Gascognes Pinienwälder, 21,1 km Laufen. Familiäre Atmosphäre im charmanten Badeort Vieux-Boucau an der wilden Atlantikküste zwischen Bayonne und Bordeaux.",
+  "distanceKm": 113
+}

@@ -1,0 +1,20 @@
+{
+  "id": "we-ride-flanders-2026",
+  "name": "We Ride Flanders – Tour des Flandres Cyclosportive",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "BE",
+  "dates": {
+    "start": "2026-04-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oudenaarde",
+    "lat": 50.8452,
+    "lng": 3.6028
+  },
+  "websiteUrl": "https://www.werideflanders.com/",
+  "description": "We Ride Flanders – 34. Ausgabe der offiziellen Tour des Flandres-Cyclosportive: 247 km (Antwerpen-Start) / 163 km / 133 km / 79 km, alle mit Finale auf den ikonischen Kopfsteinpflaster-Anstiegen (Kwaremont, Paterberg, Koppenberg). 15.000 Teilnehmer, einen Tag vor dem Profi-Monument. Größtes Amateur-Radrennen Belgiens.",
+  "distanceKm": 247,
+  "elevationGainM": 2500
+}

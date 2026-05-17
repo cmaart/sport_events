@@ -1,0 +1,19 @@
+{
+  "id": "challenge-salou-2026",
+  "name": "Challenge Salou Costa Daurada",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-05-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salou",
+    "lat": 41.0713,
+    "lng": 1.1304
+  },
+  "websiteUrl": "https://challenge-salou.com/en/",
+  "description": "Challenge Mitteldistanz in Salou an Kataloniens Costa Daurada: 1,9 km Schwimmen im Mittelmeer, 90 km Rad durch Tarragona und ins Hinterland, 21,1 km Laufen an der Küstenpromenade von Salou. Sonniges Frühlingsklima, internationale Beteiligung und ein feierlicher Zieleinlauf im Badeort.",
+  "distanceKm": 113
+}

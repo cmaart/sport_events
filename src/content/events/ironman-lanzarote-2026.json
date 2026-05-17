@@ -1,0 +1,20 @@
+{
+  "id": "ironman-lanzarote-2026",
+  "name": "Club La Santa IRONMAN Lanzarote",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Puerto del Carmen",
+    "lat": 28.9178,
+    "lng": -13.6654
+  },
+  "websiteUrl": "https://www.clublasanta.com/events/ironman-lanzarote",
+  "description": "Gilt als härtestes IRONMAN-Rennen weltweit: 3,8 km Atlantik-Schwimmen in Puerto del Carmen, 180 km Rad über erkaltete Lavafelder mit ca. 2.500 Hm bei 25–30 °C und Passat-Winden bis 50 km/h, 42,2 km Lauf in drei Schleifen. 34. Ausgabe, 100 Kona-Slots für den IRONMAN World Championship.",
+  "distanceKm": 226,
+  "elevationGainM": 2500
+}

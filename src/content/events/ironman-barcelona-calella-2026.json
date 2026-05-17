@@ -1,0 +1,20 @@
+{
+  "id": "ironman-barcelona-calella-2026",
+  "name": "IRONMAN Calella-Barcelona",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Calella",
+    "lat": 41.6130,
+    "lng": 2.6580
+  },
+  "websiteUrl": "https://www.ironman.com/im-barcelona",
+  "description": "IRONMAN Barcelona an der Costa del Maresme: 3,8 km Schwimmen im ruhigen Mittelmeer, 180 km flache Radstrecke auf gesperrten Küstenstraßen im Out-and-Back-Format, 42,2 km Laufen auf der Strandpromenade. Einer der schnellsten IRONMAN-Kurse Europas, ideal für Bestzeiten. Regelmäßig ausverkauft – frühzeitig anmelden.",
+  "distanceKm": 226,
+  "elevationGainM": 600
+}

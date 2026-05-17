@@ -1,0 +1,20 @@
+{
+  "id": "challenge-barcelona-2026",
+  "name": "Challenge Barcelona Triatló",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz", "Olympische Distanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-24",
+    "end": "2026-10-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Barcelona",
+    "lat": 41.3851,
+    "lng": 2.1734
+  },
+  "websiteUrl": "https://www.triathlon.barcelona/en/",
+  "description": "Challenge Barcelona Triatló 2026 – Mitteldistanz und Olympische Distanz am Forum-Strand: 1,9 km Schwimmen im Mittelmeer, 88 km Rad entlang der katalanischen Küste, 21 km Laufen durch Barcelona. Samstag Aquathlon und Open Water, Sonntag die Hauptrennen. Rückkehr der Olympischen Distanz 2026. Anmeldung über triathlon.barcelona.",
+  "distanceKm": 113
+}

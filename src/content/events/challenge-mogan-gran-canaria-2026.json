@@ -1,0 +1,19 @@
+{
+  "id": "challenge-mogan-gran-canaria-2026",
+  "name": "Anfi Challenge Mogán Gran Canaria",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mogán",
+    "lat": 27.8804,
+    "lng": -15.7214
+  },
+  "websiteUrl": "https://challengefamily.com/races/anfi-challenge-mogan-gran-canaria/",
+  "description": "Challenge Mitteldistanz auf Gran Canaria im Süden der Insel: 1,9 km Schwimmen in der ruhigen Bucht von Puerto de Mogán, 90 km Rad durch die raue Vulkanlandschaft Gran Canarias mit beträchtlichem Höhenprofil, 21,1 km Laufen. Frühjahrsklima mit ca. 22 °C im April ideal für Saisonvorbereitung.",
+  "distanceKm": 113
+}

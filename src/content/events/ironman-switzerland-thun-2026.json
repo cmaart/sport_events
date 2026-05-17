@@ -1,0 +1,20 @@
+{
+  "id": "ironman-switzerland-thun-2026",
+  "name": "IRONMAN Switzerland Thun",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Thun",
+    "lat": 46.7580,
+    "lng": 7.6280
+  },
+  "websiteUrl": "https://www.ironman.com/im-switzerland",
+  "description": "Der IRONMAN Switzerland kehrt nach Thun zurück: 3,86 km Schwimmen im kristallklaren Thunersee mit Blick auf das Berner Oberland, 180 km Rad in zwei Runden durch das Berner Voralpenland, 42,2 km Lauf in drei Schleifen durch die Innenstadt. Rund 2.000 internationale Starter:innen, ca. 50.000 Zuschauer:innen. Kona-Qualifikations-Slots inklusive.",
+  "distanceKm": 226,
+  "elevationGainM": 1800
+}

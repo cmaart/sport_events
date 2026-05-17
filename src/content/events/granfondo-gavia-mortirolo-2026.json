@@ -1,0 +1,20 @@
+{
+  "id": "granfondo-gavia-mortirolo-2026",
+  "name": "Granfondo Internazionale Gavia e Mortirolo",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ponte di Legno",
+    "lat": 46.2560,
+    "lng": 10.5073
+  },
+  "websiteUrl": "https://www.granfondogaviaemortirolo.it/en/",
+  "description": "Granfondo Gavia e Mortirolo in der Lombardei: 141 km (lang), 111 km (mittel) oder 46 km (kurz) auf gesperrten Straßen. Der Passo Gavia (2.621 m) und Passo Mortirolo – zwei legendäre Giro-d'Italia-Anstiege – als Highlights. Teil einer Woche Radsportfestival (30. Juni–5. Juli) rund um Ponte di Legno.",
+  "distanceKm": 141,
+  "elevationGainM": 4200
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-luxembourg-2026",
+  "name": "IRONMAN 70.3 Luxembourg",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "LU",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Remich",
+    "lat": 49.5451,
+    "lng": 6.3658
+  },
+  "websiteUrl": "https://www.ironman.com/im703-luxembourg",
+  "description": "IRONMAN 70.3 Luxembourg in Remich an der Mosel: 1,9 km Schwimmen in der Mosel, 90 km Rad durch Luxemburgs Weinberge und Ardennen-Ausläufer, 21,1 km Laufen entlang der Moselpromende. Eines der wenigen Triathlons im Großherzogtum Luxemburg mit internationalem Flair.",
+  "distanceKm": 113
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-malaga-2026",
+  "name": "IRONMAN 70.3 Málaga",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Málaga",
+    "lat": 36.7213,
+    "lng": -4.4214
+  },
+  "websiteUrl": "https://www.ironman.com/im703-malaga",
+  "description": "Neuer IRONMAN 70.3 Málaga 2026 (Nachfolger von IRONMAN 70.3 Marbella): 1,9 km Schwimmen im Mittelmeer, 90 km Rad entlang der Costa del Sol durch Andalusiens Küstenlandschaft, 21,1 km Laufen durch das lebendige Zentrum von Málaga. Herbstklima mit ca. 22 °C macht Málaga zum idealen Saisonabschluss.",
+  "distanceKm": 113
+}

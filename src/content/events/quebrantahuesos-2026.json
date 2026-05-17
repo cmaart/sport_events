@@ -1,0 +1,20 @@
+{
+  "id": "quebrantahuesos-2026",
+  "name": "Marcha Cicloturista Quebrantahuesos",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sabiñánigo",
+    "lat": 42.5190,
+    "lng": -0.3648
+  },
+  "websiteUrl": "https://www.quebrantahuesos.com/en/",
+  "description": "Quebrantahuesos – 35. Ausgabe des bedeutendsten Granfondos Spaniens in den Pyrenäen: 200 km (3.500 Hm) über Somport, Marie Blanque, Portalet und Hoz de Jaca oder 85 km Treparriscos. Start in Sabiñánigo (Huesca, Aragón). Einzug per Lotterie, internationale Beteiligung. Zieleinlauf nach 7:15 Uhr-Start im Herzen der Aragonesischen Pyrenäen.",
+  "distanceKm": 200,
+  "elevationGainM": 3500
+}
