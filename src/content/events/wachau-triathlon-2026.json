@@ -2,7 +2,11 @@
   "id": "wachau-triathlon-2026",
   "name": "Wachau Triathlon",
   "sport": "triathlon",
-  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-13",
     "end": "2026-09-13",
@@ -10,7 +14,7 @@
   },
   "location": {
     "name": "Spitz an der Donau",
-    "lat": 48.3670,
+    "lat": 48.367,
     "lng": 15.4128,
     "region": "Niederösterreich"
   },

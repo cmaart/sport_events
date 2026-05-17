@@ -2,7 +2,10 @@
   "id": "ironman-austria-kaernten-2026",
   "name": "Ironman Kärnten-Klagenfurt",
   "sport": "triathlon",
-  "categories": ["Langdistanz"],
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-14",
     "end": "2026-06-14",

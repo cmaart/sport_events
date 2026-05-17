@@ -2,7 +2,10 @@
   "id": "king-of-the-lake-2026",
   "name": "King of the Lake",
   "sport": "cycling",
-  "categories": ["Rundstreckenrennen"],
+  "categories": [
+    "Rundstreckenrennen"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-26",
     "end": "2026-09-26",

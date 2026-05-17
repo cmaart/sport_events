@@ -2,7 +2,12 @@
   "id": "aloha-tri-mondseeland-2026",
   "name": "ALOHA TRI Mondseeland",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz", "Mitteldistanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-06",
     "end": "2026-09-06",

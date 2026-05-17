@@ -2,7 +2,11 @@
   "id": "dreilaendergiro-2026",
   "name": "Dreiländergiro",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Berg"],
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-28",
     "end": "2026-06-28",

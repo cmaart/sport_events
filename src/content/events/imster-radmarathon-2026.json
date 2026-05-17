@@ -2,7 +2,11 @@
   "id": "imster-radmarathon-2026",
   "name": "Imster Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Berg"],
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-05-17",
     "end": "2026-05-17",

@@ -2,7 +2,12 @@
   "id": "podersdorf-triathlon-2026",
   "name": "Apollon Triathlon Podersdorf",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz", "Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-05",
     "end": "2026-09-06",

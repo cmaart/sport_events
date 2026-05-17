@@ -4,8 +4,7 @@ import preact from '@astrojs/preact';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://cmaart.github.io',
-  base: '/sport_events',
+  site: 'https://events.endure-cycling.com',
   output: 'static',
   trailingSlash: 'ignore',
   integrations: [preact()],

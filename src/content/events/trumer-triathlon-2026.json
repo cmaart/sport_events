@@ -2,7 +2,12 @@
   "id": "trumer-triathlon-2026",
   "name": "Trumer Triathlon",
   "sport": "triathlon",
-  "categories": ["Olympische Distanz", "Sprintdistanz", "Mitteldistanz"],
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-05-30",
     "end": "2026-05-31",

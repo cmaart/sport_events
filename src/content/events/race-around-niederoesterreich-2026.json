@@ -2,7 +2,10 @@
   "id": "race-around-niederoesterreich-2026",
   "name": "Race Around Niederösterreich",
   "sport": "cycling",
-  "categories": ["Etappenrennen"],
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-04",
     "end": "2026-06-07",

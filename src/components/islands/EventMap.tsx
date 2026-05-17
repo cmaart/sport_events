@@ -14,11 +14,11 @@ interface Props {
   baseUrl: string;
 }
 
-const AUSTRIA_CENTER: L.LatLngTuple = [47.6, 13.7];
-const AUSTRIA_BOUNDS = L.latLngBounds([46.3, 9.4], [49.1, 17.2]);
+const DACH_CENTER: L.LatLngTuple = [49.5, 11.5];
+const DACH_BOUNDS = L.latLngBounds([46.3, 5.8], [55.1, 17.2]);
 
 const makeIcon = (sport: 'cycling' | 'triathlon', selected: boolean) => {
-  const color = sport === 'cycling' ? '#1c66dd' : '#e9621f';
+  const color = sport === 'cycling' ? '#F05D23' : '#d63c6b';
   const size = selected ? 36 : 28;
   return L.divIcon({
     className: '',
@@ -37,9 +37,10 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, {
-      center: AUSTRIA_CENTER,
-      zoom: 7,
-      maxBounds: AUSTRIA_BOUNDS.pad(0.5),
+      center: DACH_CENTER,
+      zoom: 6,
+      minZoom: 5,
+      maxBounds: DACH_BOUNDS.pad(0.5),
       scrollWheelZoom: true,
     });
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -88,13 +89,14 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
       const end = e.dates.end ? new Date(e.dates.end) : undefined;
       const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
       const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+      const placeLine = e.location.region ? `${e.location.name} · ${e.location.region}` : e.location.name;
       marker.bindPopup(`
         <div style="min-width:200px">
-          <div style="font-size:11px;text-transform:uppercase;color:#5b6781;letter-spacing:.05em;margin-bottom:4px;">${sportLabel}</div>
+          <div style="font-size:11px;text-transform:uppercase;color:#64748b;letter-spacing:.05em;margin-bottom:4px;">${sportLabel}</div>
           <div style="font-weight:600;margin-bottom:2px;">${e.name}</div>
-          <div style="font-size:12px;color:#5b6781;margin-bottom:6px;">${e.location.name} · ${e.location.region}</div>
+          <div style="font-size:12px;color:#64748b;margin-bottom:6px;">${placeLine}</div>
           <div style="font-size:12px;margin-bottom:8px;">${dateLabel}</div>
-          <a href="${baseUrl}/events/${e.slug}/" style="color:#1c66dd;font-size:13px;text-decoration:none;font-weight:500;">${t('event.details')} →</a>
+          <a href="${baseUrl}/events/${e.slug}/" style="color:#F05D23;font-size:13px;text-decoration:none;font-weight:500;">${t('event.details')} →</a>
         </div>
       `);
       marker.on('click', () => onSelect(e.slug));
@@ -137,7 +139,7 @@ export default function EventMap({ events, selectedId, onSelect, baseUrl }: Prop
     <div
       ref={containerRef}
       class="w-full h-full min-h-[400px] rounded-2xl overflow-hidden border border-[var(--color-ink-100)] shadow-sm"
-      aria-label="Karte mit Sportevents"
+      aria-label="Karte mit Sportevents in Österreich und Deutschland"
     />
   );
 }

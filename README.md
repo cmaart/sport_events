@@ -1,6 +1,6 @@
-# Amateur-Sportevents Österreich
+# Amateur-Sportevents · AT & DE
 
-Statische Website mit einer kuratierten Übersicht aller Amateur-Radrennen und Triathlons in Österreich (Saison 2026) — interaktive Karte, mächtige Filter, mobil-freundlich. Gehostet auf GitHub Pages unter **https://cmaart.github.io/sport_events/**.
+Statische Website mit einer kuratierten Übersicht aller Amateur-Radrennen und Triathlons in **Österreich und Deutschland** (Saison 2026) — interaktive Karte, mächtige Filter, mobil-freundlich. Präsentiert von [Endure Cycling](https://endure-cycling.com). Gehostet auf GitHub Pages unter **https://events.endure-cycling.com**.
 
 ## Tech-Stack
 
@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-Site läuft dann auf <http://localhost:4321/sport_events/>.
+Site läuft dann auf <http://localhost:4321/>.
 
 ```bash
 npm run build      # Produktions-Build nach ./dist
@@ -47,6 +47,7 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
   "name": "Eventname",
   "sport": "cycling | triathlon",
   "categories": ["Gran Fondo", "Radmarathon"],
+  "country": "AT",
   "dates": {
     "start": "2026-06-15",
     "end": "2026-06-15",
@@ -71,7 +72,8 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 - **`sport`**: `cycling`, `triathlon`
 - **`categories`** (Radrennen): `Kriterium`, `Gran Fondo`, `Radmarathon`, `Rundstreckenrennen`, `Etappenrennen`, `Berg`
 - **`categories`** (Triathlon): `Sprintdistanz`, `Olympische Distanz`, `Mitteldistanz`, `Langdistanz`, `Cross-Triathlon`
-- **`location.region`** (Bundesland): `Wien`, `Niederösterreich`, `Oberösterreich`, `Salzburg`, `Steiermark`, `Kärnten`, `Tirol`, `Vorarlberg`, `Burgenland`
+- **`country`**: `AT` oder `DE` (Pflichtfeld)
+- **`location.region`** (optional, nur für AT-Bundesländer): `Wien`, `Niederösterreich`, `Oberösterreich`, `Salzburg`, `Steiermark`, `Kärnten`, `Tirol`, `Vorarlberg`, `Burgenland`. Für DE-Events weglassen.
 - **`dates.confirmed`**: `false` setzen, wenn der genaue Termin 2026 noch nicht offiziell bestätigt ist. Die Karte/Liste zeigt dann „Datum noch offen“ statt des Datums.
 
 ## Datenqualität
@@ -116,7 +118,7 @@ src/
     └── events/[slug].astro     # Detailseite pro Event
 ```
 
-Filterzustand wird in der URL gespiegelt (z. B. `?sport=cycling&region=Tirol&kat=Radmarathon`), so dass Links teilbar sind.
+Filterzustand wird in der URL gespiegelt (z. B. `?sport=cycling&country=DE&kat=Radmarathon`), so dass Links teilbar sind.
 
 ## Lizenz
 

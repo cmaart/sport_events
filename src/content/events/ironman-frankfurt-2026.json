@@ -1,0 +1,22 @@
+{
+  "id": "ironman-frankfurt-2026",
+  "name": "DATEV Challenge Roth – Ironman European Championship Frankfurt",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Frankfurt am Main",
+    "lat": 50.1109,
+    "lng": 8.6821
+  },
+  "websiteUrl": "https://www.ironman.com/im-frankfurt",
+  "description": "Europameisterschaft auf der Ironman-Langdistanz: 3,8 km Schwimmen im Langener Waldsee, 180 km Rad über den Taunus, 42,2 km Lauf entlang des Mains mit Zieleinlauf am Römerberg. Größte Ironman-Veranstaltung Europas.",
+  "distanceKm": 226,
+  "elevationGainM": 1500
+}

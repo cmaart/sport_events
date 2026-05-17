@@ -2,7 +2,11 @@
   "id": "kaernten-radmarathon-2026",
   "name": "ARBÖ Kärnten Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Berg"],
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-07",
     "end": "2026-06-07",

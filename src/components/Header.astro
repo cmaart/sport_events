@@ -1,17 +1,29 @@
 ---
 import { t } from '../lib/i18n';
 const base = import.meta.env.BASE_URL;
+const lockup = `${base}assets/endure-lockup.png`.replace(/\/+/g, '/');
 ---
 
 <header class="sticky top-0 z-40 backdrop-blur bg-white/85 border-b border-[var(--color-ink-100)]">
-  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
     <a href={base} class="flex items-center gap-2 font-semibold text-lg tracking-tight">
       <span class="inline-flex w-9 h-9 items-center justify-center rounded-xl bg-[var(--color-brand-500)] text-white">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><circle cx="6" cy="15" r="4"/><circle cx="18" cy="15" r="4"/><path d="m6 15 4-8h4l4 8"/><path d="M10 7h4"/></svg>
       </span>
-      <span class="hidden sm:inline">{t('site.title')}</span>
-      <span class="sm:hidden">Sportevents AT</span>
+      <span>{t('site.title')}</span>
     </a>
+
+    <a
+      href="https://endure-cycling.com"
+      target="_blank"
+      rel="noreferrer"
+      class="hidden md:inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-brand-50)] border border-[var(--color-brand-100)] hover:bg-[var(--color-brand-100)] transition"
+      aria-label="Presented by Endure Cycling"
+    >
+      <span class="text-[10px] uppercase tracking-wider font-semibold text-[var(--color-brand-700)]">{t('presentedBy.label')}</span>
+      <img src={lockup} alt="ENDURE" class="h-4 w-auto" loading="lazy" />
+    </a>
+
     <nav class="flex items-center gap-1 sm:gap-3 text-sm">
       <a href={base} class="px-3 py-2 rounded-lg hover:bg-[var(--color-ink-100)] transition">{t('nav.events')}</a>
       <a href="https://github.com/cmaart/sport_events" target="_blank" rel="noreferrer" class="px-3 py-2 rounded-lg hover:bg-[var(--color-ink-100)] transition inline-flex items-center gap-1.5">

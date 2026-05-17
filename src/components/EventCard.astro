@@ -1,6 +1,7 @@
 ---
 import type { EventData } from '../lib/filters';
 import { formatDateRange, t } from '../lib/i18n';
+import { COUNTRY_LABELS } from '../lib/types';
 
 interface Props {
   event: EventData;
@@ -13,8 +14,9 @@ const href = `${base}/events/${event.slug}/`;
 const start = new Date(event.dates.start);
 const end = event.dates.end ? new Date(event.dates.end) : undefined;
 const dateLabel = event.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
-const sportColor = event.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-orange-100 text-orange-700';
+const sportColor = event.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-pink-100 text-pink-700';
 const sportLabel = event.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+const countryFlag = COUNTRY_LABELS[event.country].flag;
 ---
 
 <article class="group rounded-2xl bg-white border border-[var(--color-ink-100)] hover:border-[var(--color-brand-500)] hover:shadow-md transition overflow-hidden">
@@ -30,7 +32,9 @@ const sportLabel = event.sport === 'cycling' ? t('filter.sport.cycling') : t('fi
       <span class="text-xs text-[var(--color-ink-500)] text-right">{dateLabel}</span>
     </div>
     <h3 class="text-lg font-semibold leading-tight group-hover:text-[var(--color-brand-600)] mb-1">{event.name}</h3>
-    <p class="text-sm text-[var(--color-ink-500)] mb-3">{event.location.name} · {event.location.region}</p>
+    <p class="text-sm text-[var(--color-ink-500)] mb-3">
+      <span aria-hidden="true">{countryFlag}</span> {event.location.name}{event.location.region ? ` · ${event.location.region}` : ''}
+    </p>
     {!compact && (
       <div class="flex flex-wrap gap-1.5 mb-3">
         {event.categories.map((c) => (

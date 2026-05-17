@@ -1,10 +1,11 @@
 import { useMemo } from 'preact/hooks';
 import {
+  COUNTRIES,
+  COUNTRY_LABELS,
   CYCLING_CATEGORIES,
-  REGIONS,
   TRIATHLON_CATEGORIES,
   type Category,
-  type Region,
+  type Country,
   type Sport,
 } from '../../lib/types';
 import { defaultFilters, type Filters } from '../../lib/filters';
@@ -33,11 +34,11 @@ export default function FilterBar({ filters, onChange, totalCount, filteredCount
     update({ categories: next });
   };
 
-  const toggleRegion = (r: Region) => {
-    const next = filters.regions.includes(r)
-      ? filters.regions.filter((x) => x !== r)
-      : [...filters.regions, r];
-    update({ regions: next });
+  const toggleCountry = (c: Country) => {
+    const next = filters.countries.includes(c)
+      ? filters.countries.filter((x) => x !== c)
+      : [...filters.countries, c];
+    update({ countries: next });
   };
 
   const setSport = (s: Sport | 'all') => {
@@ -124,23 +125,25 @@ export default function FilterBar({ filters, onChange, totalCount, filteredCount
 
       <div>
         <label class="text-xs font-medium uppercase tracking-wide text-[var(--color-ink-500)] mb-2 block">
-          {t('filter.region.label')}
+          {t('filter.country.label')}
         </label>
-        <div class="flex flex-wrap gap-1.5">
-          {REGIONS.map((r) => {
-            const active = filters.regions.includes(r);
+        <div class="grid grid-cols-2 gap-1.5 p-1 bg-[var(--color-ink-100)] rounded-lg">
+          {COUNTRIES.map((c) => {
+            const active = filters.countries.includes(c);
             return (
               <button
-                key={r}
+                key={c}
                 type="button"
-                onClick={() => toggleRegion(r)}
-                class={`text-xs px-2.5 py-1.5 rounded-full border transition ${
+                onClick={() => toggleCountry(c)}
+                class={`text-sm py-1.5 px-3 rounded-md transition inline-flex items-center justify-center gap-1.5 ${
                   active
-                    ? 'bg-[var(--color-ink-900)] border-[var(--color-ink-900)] text-white'
-                    : 'bg-white border-[var(--color-ink-300)] text-[var(--color-ink-700)] hover:border-[var(--color-ink-900)]'
+                    ? 'bg-white shadow-sm font-medium text-[var(--color-ink-900)]'
+                    : 'text-[var(--color-ink-500)] hover:text-[var(--color-ink-900)]'
                 }`}
+                aria-pressed={active}
               >
-                {r}
+                <span aria-hidden="true">{COUNTRY_LABELS[c].flag}</span>
+                {COUNTRY_LABELS[c].name}
               </button>
             );
           })}

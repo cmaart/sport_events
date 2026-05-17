@@ -12,6 +12,7 @@ const events: EventData[] = entries.map((entry) => ({
   name: entry.data.name,
   sport: entry.data.sport,
   categories: entry.data.categories,
+  country: entry.data.country,
   dates: {
     start: entry.data.dates.start.toISOString(),
     end: entry.data.dates.end?.toISOString(),
@@ -26,13 +27,29 @@ const events: EventData[] = entries.map((entry) => ({
 }));
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const lockup = `${base}/assets/endure-lockup.png`;
 ---
 
 <BaseLayout>
-  <section class="bg-gradient-to-b from-white to-[var(--color-surface-muted)] border-b border-[var(--color-ink-100)]">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 lg:py-14">
+  <section class="relative overflow-hidden bg-gradient-to-b from-white to-[var(--color-surface-muted)] border-b border-[var(--color-ink-100)]">
+    <div class="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-[var(--color-brand-500)]/10 blur-3xl pointer-events-none" aria-hidden="true"></div>
+    <div class="absolute -bottom-24 -left-24 w-96 h-96 rounded-full bg-[var(--color-accent-500)]/10 blur-3xl pointer-events-none" aria-hidden="true"></div>
+
+    <div class="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12 lg:py-20">
+      <a
+        href="https://endure-cycling.com"
+        target="_blank"
+        rel="noreferrer"
+        class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white border border-[var(--color-brand-100)] shadow-sm hover:border-[var(--color-brand-500)] transition mb-5"
+      >
+        <span class="text-[11px] uppercase tracking-wider font-semibold text-[var(--color-brand-700)]">{t('presentedBy.label')}</span>
+        <img src={lockup} alt="ENDURE" class="h-4 w-auto" loading="lazy" />
+      </a>
+
       <p class="text-sm font-medium uppercase tracking-wider text-[var(--color-brand-600)] mb-2">{t('site.tagline')}</p>
-      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight max-w-3xl">{t('hero.title')}</h1>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight max-w-3xl">
+        {t('hero.title')} <span class="gradient-text">{t('hero.title.highlight')}</span>
+      </h1>
       <p class="mt-4 text-base sm:text-lg text-[var(--color-ink-500)] max-w-2xl">{t('hero.subtitle')}</p>
     </div>
   </section>
