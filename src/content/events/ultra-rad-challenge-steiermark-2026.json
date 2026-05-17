@@ -1,0 +1,24 @@
+{
+  "id": "ultra-rad-challenge-steiermark-2026",
+  "name": "Ultra Rad Challenge Oststeiermark",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-24",
+    "end": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kaindorf",
+    "lat": 47.0867,
+    "lng": 15.7578,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://ultraradchallenge.com",
+  "description": "Ultra-Rad-Zeitfahren in der Oststeiermark bei Kaindorf mit Distanzen im 3-, 6-, 12- und 24-Stunden-Format. Rund 1.400 erwartete Teilnehmer auf flachen bis huegeligen Rundkursen durch die steirische Weinbaulandschaft. Einzigartiges Ultradistanz-Radsportformat kombiniert mit Zeitfahrwettbewerb.",
+  "distanceKm": 600,
+  "elevationGainM": 4000
+}

@@ -1,0 +1,24 @@
+{
+  "id": "in-velo-veritas-korneuburg-2026",
+  "name": "In Velo Veritas – Korneuburg",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Korneuburg",
+    "lat": 48.3518,
+    "lng": 16.3319,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.inveloveritas.at",
+  "description": "Laengstes Klassik-Rennrad-Event Europas in Korneuburg im Weinviertel. Nur Stahl-Rennraeder Baujahr 1987 oder aelter zugelassen. Drei Distanzen (70, 140, 210 km) durch das Weinviertel und Marchfeld mit nostalgischem Flair der goldenen Radsportaera. Einzigartiges Event fuer Liebhaber historischer Rennraeder.",
+  "distanceKm": 210,
+  "elevationGainM": 1500
+}

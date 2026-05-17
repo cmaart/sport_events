@@ -1,0 +1,23 @@
+{
+  "id": "harema-odenwald-radmarathon-2026",
+  "name": "HAREMA Odenwald Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-14",
+    "end": "2026-05-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rodgau",
+    "lat": 50.0319,
+    "lng": 8.8853
+  },
+  "websiteUrl": "https://radsport-events.de",
+  "description": "Radmarathon durch den Odenwald startend in Rodgau suedoestlich von Frankfurt. Strecken fuehren durch das Naherholungsgebiet des Odenwaldgebirges zwischen Rhein und Neckar, Spessart und Bergstrasse. Fruehjahrsevent im Gruenen Guertels der Rhein-Main-Region.",
+  "distanceKm": 160,
+  "elevationGainM": 2200
+}

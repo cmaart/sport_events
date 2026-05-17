@@ -1,0 +1,23 @@
+{
+  "id": "prenzlauer-huegelmarathon-2026",
+  "name": "Prenzlauer Hügelmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-03",
+    "end": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Prenzlau",
+    "lat": 53.3151,
+    "lng": 13.8641
+  },
+  "websiteUrl": "https://radsport-events.de",
+  "description": "Radmarathon in der Uckermark um Prenzlau in Brandenburg mit vier Strecken von 28 bis 216 km. Die laengte Route fuehrt durch die glazial gepraegten Huegel der Uckermark mit zahlreichen Seen und Waeldern. Herbstevent am Tag der Deutschen Einheit mit urspruenglicher Nordostdeutscher Landschaft.",
+  "distanceKm": 216,
+  "elevationGainM": 1500
+}
