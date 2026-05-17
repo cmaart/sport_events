@@ -25,19 +25,11 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
 
   useEffect(() => {
     setIsClient(true);
-    if (window.location.search) {
-      setFilters(filtersFromSearch(window.location.search));
-    } else {
-      const stored = loadFiltersFromStorage();
-      if (stored) setFilters(stored);
-    }
+    setFilters(filtersFromSearch(window.location.search));
   }, []);
 
   useEffect(() => {
-    if (isClient) {
-      syncUrl(filters);
-      saveFiltersToStorage(filters);
-    }
+    if (isClient) syncUrl(filters);
   }, [filters, isClient]);
 
   const index = useMemo(() => buildIndex(events), [events]);

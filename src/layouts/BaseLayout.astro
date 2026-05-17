@@ -111,6 +111,24 @@ const faviconSvg = `${base}favicon.svg`.replace(/\/+/g, '/');
       crossorigin="anonymous"
     ></script>
 
+    <!--
+      Google Analytics (gtag.js). Deferred behind consent like AdSense:
+      CookieBanner promotes these placeholders to real <script> elements on
+      user accept. gtag() and dataLayer are initialized in the consent block
+      above, so the config call works once the loader runs.
+    -->
+    <script
+      is:inline
+      type="text/plain"
+      data-consent="analytics"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-2DBTKVDS9N"
+    ></script>
+    <script is:inline type="text/plain" data-consent="analytics">
+      gtag('js', new Date());
+      gtag('config', 'G-2DBTKVDS9N');
+    </script>
+
     <slot name="head" />
   </head>
   <body class="bg-[var(--color-surface-muted)] text-[var(--color-ink-900)] antialiased">

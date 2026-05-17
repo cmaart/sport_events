@@ -86,6 +86,7 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
     if (consent === 'true') {
       signalConsentGranted();
       activateConsentScripts('adsense');
+      activateConsentScripts('analytics');
     } else if (consent === null) {
       if (banner) {
         banner.style.display = 'block';
