@@ -87,7 +87,7 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
 
         {/* Mobile filter drawer */}
         {mobileFilterOpen && (
-          <div class="lg:hidden fixed inset-0 z-50 flex items-end" role="dialog" aria-modal="true">
+          <div class="lg:hidden fixed inset-0 z-[1100] flex items-end" role="dialog" aria-modal="true">
             <div class="absolute inset-0 bg-black/40" onClick={() => setMobileFilterOpen(false)} />
             <div class="relative w-full max-h-[85vh] overflow-y-auto bg-white rounded-t-2xl p-4 pb-8">
               <div class="flex justify-end mb-2">
