@@ -1,0 +1,23 @@
+{
+  "id": "kallmuenzer-triathlon-2026",
+  "name": "Kallmünzer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kallmünz",
+    "lat": 49.1620,
+    "lng": 11.9490
+  },
+  "websiteUrl": "https://www.atsv-kallmuenz.de/triathlon",
+  "description": "Kallmünzer Triathlon in Kallmünz an der Naab bei Regensburg in der Oberpfalz, organisiert vom ATSV Kallmünz. Sprintdistanz (600 m Schwimmen) und Olympische Distanz (1.500 m Schwimmen) am Schmidwöhr. Schwimmen im Naabstausee unterhalb der malerischen Burgruine Kallmünz.",
+  "distanceKm": 52
+}

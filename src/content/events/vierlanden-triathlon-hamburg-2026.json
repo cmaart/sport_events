@@ -1,0 +1,23 @@
+{
+  "id": "vierlanden-triathlon-hamburg-2026",
+  "name": "Vierlanden-Triathlon Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg-Bergedorf",
+    "lat": 53.4690,
+    "lng": 10.2420
+  },
+  "websiteUrl": "https://www.vierlanden-triathlon.de",
+  "description": "29. Vierlanden-Triathlon im Hamburger Vierland nahe Bergedorf, veranstaltet von Tri-Bandits/TSG Bergedorf. Eines der größten Triathlons im norddeutschen Raum mit ca. 1.300 Einzelstartern und 40 Staffeln aus über 10 Nationen. Schwimmen im Overwerder See, Rad- und Laufkurs durch die Marschenlandschaft.",
+  "distanceKm": 51
+}

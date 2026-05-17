@@ -1,0 +1,23 @@
+{
+  "id": "ifa-nonstop-triathlon-bamberg-2026",
+  "name": "IfA Nonstop Triathlon Bamberg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bamberg",
+    "lat": 49.8971,
+    "lng": 10.8913
+  },
+  "websiteUrl": "https://www.ifa-nonstop-bamberg.de",
+  "description": "32. IfA Nonstop Bamberg an den Jahn-Wehranlagen in Bamberg an der Regnitz. Olympische Distanz (1,5 km / 40 km / 10 km) sowie Sprint und Staffelformate. Schwimmen in der Regnitz, Radkurs durch die fränkische Kulturlandschaft. Traditionsreicher Stadtttriathlon in der UNESCO-Weltkulturerbestadt.",
+  "distanceKm": 52
+}

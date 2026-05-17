@@ -1,0 +1,22 @@
+{
+  "id": "lipperlandtriathlon-lage-2026",
+  "name": "Lipperlandtriathlon Lage",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lage",
+    "lat": 51.9994,
+    "lng": 8.7931
+  },
+  "websiteUrl": "https://tglage.de/triathlon.html",
+  "description": "41. Lipperlandtriathlon in Lage im ostwestfälischen Lipperland nahe Detmold, veranstaltet von der TG Lage Tri-Team. Volkstriathlon mit Sprint- und Volksformat sowie Staffeln, Firmenstaffeln und Kinderrennen. Start 10:40 Uhr, Stimmungsvolle Atmosphäre im Teutoburger Wald-Vorland.",
+  "distanceKm": 26
+}
