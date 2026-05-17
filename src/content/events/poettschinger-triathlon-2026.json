@@ -1,0 +1,21 @@
+{
+  "id": "poettschinger-triathlon-2026",
+  "name": "Pöttschinger Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pöttsching",
+    "lat": 47.7706,
+    "lng": 16.3667,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.triathlon-poettsching.at",
+  "description": "Der 35. Pöttschinger Triathlon im nördlichen Burgenland bietet Sprint-Triathlon (800 m/34 km/7,6 km) sowie einen Fun-Einstieg für Anfänger (300 m/18 km/3,9 km). Einzel- und Staffelwertung.\n\nOrganisiert vom Tri Team Pöttsching.",
+  "distanceKm": 43,
+  "elevationGainM": 250
+}

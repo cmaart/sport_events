@@ -1,0 +1,21 @@
+{
+  "id": "neufeld-triathlon-2026",
+  "name": "Neufeld Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neufeld an der Leitha",
+    "lat": 47.8461,
+    "lng": 16.3659,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.neufeld-triathlon.at",
+  "description": "Der 39. Neufeld Triathlon am Neufeldersee im nördlichen Burgenland zählt zu den traditionsreichsten Triathlons Österreichs. Freitag: Sprint (750 m/20 km/5,3 km). Samstag: Olympische Distanz (1.500 m/40 km/10,6 km). Malerische Kulisse am Neufeldersee nahe der niederösterreichischen Grenze.\n\nOrganisiert von der P3 Event Agentur.",
+  "distanceKm": 52,
+  "elevationGainM": 200
+}
