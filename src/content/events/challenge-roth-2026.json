@@ -8,7 +8,7 @@
   "country": "DE",
   "dates": {
     "start": "2026-07-05",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Roth",

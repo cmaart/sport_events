@@ -1,6 +1,6 @@
 {
   "id": "ironman-frankfurt-2026",
-  "name": "DATEV Challenge Roth – Ironman European Championship Frankfurt",
+  "name": "Mainova IRONMAN European Championship Frankfurt",
   "sport": "triathlon",
   "categories": [
     "Langdistanz"
@@ -8,7 +8,7 @@
   "country": "DE",
   "dates": {
     "start": "2026-06-28",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Frankfurt am Main",

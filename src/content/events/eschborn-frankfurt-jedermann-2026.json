@@ -8,7 +8,7 @@
   "country": "DE",
   "dates": {
     "start": "2026-05-01",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Eschborn",

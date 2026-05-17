@@ -1,0 +1,25 @@
+{
+  "id": "zugspitz-arena-gravel-triathlon-2026",
+  "name": "Zugspitz Arena Gravel Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heiterwanger See",
+    "lat": 47.4889,
+    "lng": 10.8222,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://zugspitz-triathlon.at",
+  "description": "Österreichs erster offizieller Gravel-Triathlon – und damit Premiere in der gesamten DACH-Region. Schwimmen im kristallklaren Heiterwanger See auf 994 m Seehöhe, Radkurs auf Schotter- und Naturwegen durch die Tiroler Zugspitz Arena, Lauf rund um den See. Sprint- und Kurzdistanz. Veranstalter: ALOHA SPORT.",
+  "distanceKm": 30,
+  "elevationGainM": 400
+}

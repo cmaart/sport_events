@@ -1,0 +1,25 @@
+{
+  "id": "thiersee-triathlon-2026",
+  "name": "Internationaler Thiersee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-16",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Thiersee",
+    "lat": 47.5912,
+    "lng": 12.1047,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.thiersee-triathlon.at",
+  "description": "Internationaler Triathlon am türkisblauen Thiersee im Kufsteiner Land. Olympische Distanz (1,5 + 40 + 10 km) und Sprint (0,75 + 20 + 5 km) sowie Staffeln und Kinder-Triathlon. Radstrecke mit Anstieg zum Seebichl durch Bergpanorama.",
+  "distanceKm": 52,
+  "elevationGainM": 500
+}
