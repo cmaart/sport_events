@@ -19,7 +19,7 @@ const start = new Date(e.dates.start);
 const end = e.dates.end ? new Date(e.dates.end) : undefined;
 const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const osmUrl = `https://www.openstreetmap.org/?mlat=${e.location.lat}&mlon=${e.location.lng}#map=13/${e.location.lat}/${e.location.lng}`;
+const mapUrl = `https://www.google.com/maps/search/?api=1&query=${e.location.lat},${e.location.lng}`;
 const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
 const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-pink-100 text-pink-700';
 const country = COUNTRY_LABELS[e.country];
@@ -257,7 +257,7 @@ const breadcrumbsLd = {
       <div class="rounded-2xl bg-white border border-[var(--color-ink-100)] p-5 mt-4">
         <p class="font-semibold mb-1">{e.location.name}</p>
         <p class="text-sm text-[var(--color-ink-500)] mb-3">{e.location.region ? `${e.location.region} · ` : ''}{e.location.lat.toFixed(4)}, {e.location.lng.toFixed(4)}</p>
-        <a href={osmUrl} target="_blank" rel="noreferrer" class="text-sm text-[var(--color-brand-600)] hover:underline">
+        <a href={mapUrl} target="_blank" rel="noreferrer" class="text-sm text-[var(--color-brand-600)] hover:underline">
           {t('event.openMap')} →
         </a>
       </div>
