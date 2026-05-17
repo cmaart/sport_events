@@ -1,0 +1,23 @@
+{
+  "id": "sauerlandrundfahrt-jedermann-2026",
+  "name": "Sauerlandrundfahrt Jedermann",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arnsberg",
+    "lat": 51.3940,
+    "lng": 8.0630
+  },
+  "websiteUrl": "https://www.sauerlandrundfahrt.de",
+  "description": "Jedermann-Rennen als Rahmenprogramm der Sauerlandrundfahrt (3.–6. September 2026) in Arnsberg im Hochsauerland. Radfahren auf den Profi-Strecken des UCI-Etappenrennens durch die mittelgebirgige Sauerländer Kulturlandschaft. Verschiedene Distanzen für ambitionierte Hobbyfahrer, Start und Ziel im Herzen Arnsbergs.",
+  "distanceKm": 80,
+  "elevationGainM": 1200
+}

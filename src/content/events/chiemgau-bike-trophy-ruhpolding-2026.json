@@ -1,0 +1,24 @@
+{
+  "id": "chiemgau-bike-trophy-ruhpolding-2026",
+  "name": "Chiemgau Bike Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ruhpolding",
+    "lat": 47.7580,
+    "lng": 12.6470
+  },
+  "websiteUrl": "https://www.chiemgaubiketrophy.de",
+  "description": "Chiemgau Bike Trophy in Ruhpolding in den Chiemgauer Alpen. Vier Strecken: De Griabige (50 km), De Wuide (65 km), De Zache (85 km) auf MTB/Rennrad sowie De Fetzige (78 km Gravel, neu 2026). Die Touren führen durch Ruhpolding, Inzell, Siegsdorf und Bergen. Nicht-kompetitives Event mit Alpen-Panorama und Kurpark-Start.",
+  "distanceKm": 85,
+  "elevationGainM": 1500
+}

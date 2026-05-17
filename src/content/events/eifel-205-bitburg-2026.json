@@ -1,0 +1,23 @@
+{
+  "id": "eifel-205-bitburg-2026",
+  "name": "Eifel 205",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bitburg",
+    "lat": 50.0680,
+    "lng": 6.5230
+  },
+  "websiteUrl": "https://milestoneseries.cc/en/event/eifel-205",
+  "description": "Eifel 205 Gran Fondo in der Eifel als Teil der internationalen Milestone Series (neben Mallorca 312 und Båstad 198). Drei Strecken: 205 km / 2.390 hm, 166 km und 98 km, alle Start/Ziel in Prüm/Bitburg. Fahrt durch mittelalterliche Eifeldörfer (Bitburg, Waxweiler, Forsthaus Bleialf). Limitiert auf ca. 10.000 Teilnehmer.",
+  "distanceKm": 205,
+  "elevationGainM": 2390
+}

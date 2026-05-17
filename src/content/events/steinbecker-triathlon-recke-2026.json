@@ -1,0 +1,25 @@
+{
+  "id": "steinbecker-triathlon-recke-2026",
+  "name": "Steinbecker Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Recke",
+    "lat": 52.3680,
+    "lng": 7.7290
+  },
+  "websiteUrl": "https://www.steinbeck-triathlon.de",
+  "description": "33. Steinbecker Triathlon in Recke im Teutoburger Wald nahe Osnabrück. Drei Distanzen: Sprint (0,5 km / 27 km / 5 km), Olympisch (1,5 km / 42 km / 10 km) und SteelMan/SteelWoman Mitteldistanz (1,9 km / 82 km / 21 km). Olympische Distanz und Mitteldistanz bereits ausgebucht – frühzeitig anmelden.",
+  "distanceKm": 105,
+  "elevationGainM": 600
+}
