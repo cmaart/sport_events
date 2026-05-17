@@ -11,9 +11,18 @@ export default defineConfig({
   integrations: [
     preact(),
     sitemap({
-      changefreq: 'weekly',
-      priority: 0.7,
       lastmod: new Date(),
+      // @ts-expect-error changefreq string literals cause a union-type mismatch in @astrojs/sitemap typings
+      serialize(item) {
+        const url = item.url;
+        if (url.endsWith('/') || url === 'https://events.endure-cycling.com') {
+          return { ...item, changefreq: 'daily', priority: 0.9 };
+        }
+        if (url.includes('/events/')) {
+          return { ...item, changefreq: 'monthly', priority: 0.7 };
+        }
+        return { ...item, changefreq: 'weekly', priority: 0.8 };
+      },
     }),
   ],
   vite: {
