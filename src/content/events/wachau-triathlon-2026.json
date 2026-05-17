@@ -1,0 +1,21 @@
+{
+  "id": "wachau-triathlon-2026",
+  "name": "Wachau Triathlon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Spitz an der Donau",
+    "lat": 48.3670,
+    "lng": 15.4128,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.wachau-triathlon.at",
+  "description": "Spätsommer-Triathlon mitten im UNESCO-Welterbe Wachau. Schwimmen in der Donau, Radstrecke durch die Weinberge, Lauf am Donauufer. Sprint- und Olympische Distanz, Staffeln.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

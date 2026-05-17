@@ -1,0 +1,21 @@
+{
+  "id": "neusiedlersee-radmarathon-2026",
+  "name": "Neusiedlersee Radmarathon",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "dates": {
+    "start": "2026-04-25",
+    "end": "2026-04-25",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Mörbisch am See",
+    "lat": 47.7319,
+    "lng": 16.6822,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.neusiedlersee-radmarathon.at",
+  "description": "Flacher Saisoneinstieg rund um den Neusiedlersee. 125 km im Pulk, traditionell als eines der ersten großen Amateurrennen der Saison. Ideal für schnelle Zeiten.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 125,
+  "elevationGainM": 250
+}

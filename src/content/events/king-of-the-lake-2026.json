@@ -1,0 +1,21 @@
+{
+  "id": "king-of-the-lake-2026",
+  "name": "King of the Lake",
+  "sport": "cycling",
+  "categories": ["Rundstreckenrennen"],
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-29",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Attersee",
+    "lat": 47.8756,
+    "lng": 13.5466,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.kingofthelake.eu",
+  "description": "Einzelzeitfahren rund um den Attersee – 47,2 km flache Strecke, ideal für persönliche Bestzeiten. Einer der größten Amateur-Zeitfahrwettbewerbe Europas mit Einzel- und Teamwertungen.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 47,
+  "elevationGainM": 200
+}

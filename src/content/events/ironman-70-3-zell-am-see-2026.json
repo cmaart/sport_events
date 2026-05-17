@@ -1,0 +1,21 @@
+{
+  "id": "ironman-70-3-zell-am-see-2026",
+  "name": "Ironman 70.3 Zell am See-Kaprun",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Zell am See",
+    "lat": 47.3236,
+    "lng": 12.7984,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.ironman.com/im703-zell-am-see",
+  "description": "Hochalpine Halbdistanz mit Schwimmen im Zeller See, anspruchsvoller Radstrecke durch das Pinzgau und flachem Lauf entlang des Sees. Wegen seiner Kulisse einer der schönsten 70.3-Bewerbe Europas.\n\nHinweis: Datum 2026 noch zu bestätigen.",
+  "distanceKm": 113,
+  "elevationGainM": 1100
+}

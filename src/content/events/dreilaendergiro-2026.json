@@ -1,0 +1,21 @@
+{
+  "id": "dreilaendergiro-2026",
+  "name": "Dreiländergiro",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Berg"],
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Nauders am Reschenpass",
+    "lat": 46.8867,
+    "lng": 10.5025,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.dreilaendergiro.at",
+  "description": "Klassischer Alpenmarathon über drei Länder (Österreich, Schweiz, Italien). Königsstrecke 169 km mit 3.300 hm inkl. Stilfserjoch (2.757 m) – einer der höchsten Pässe Europas. Kürzere Varianten verfügbar.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 169,
+  "elevationGainM": 3300
+}

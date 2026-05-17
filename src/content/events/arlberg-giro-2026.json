@@ -1,0 +1,21 @@
+{
+  "id": "arlberg-giro-2026",
+  "name": "Arlberg Giro",
+  "sport": "cycling",
+  "categories": ["Gran Fondo", "Berg"],
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Lech am Arlberg",
+    "lat": 47.2076,
+    "lng": 10.1348,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.arlberg-giro.com",
+  "description": "Klassische Gran-Fondo-Strecke über die Pässe Flexen, Hochtannberg, Faschina, Furka und Arlberg. Rund 150 km und 2.400 Höhenmeter durch die Vorarlberger und Tiroler Bergwelt. Start und Ziel in Lech.\n\nHinweis: Konkretes Datum 2026 bitte auf der Veranstalterseite prüfen.",
+  "distanceKm": 152,
+  "elevationGainM": 2400
+}

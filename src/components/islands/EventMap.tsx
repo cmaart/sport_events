@@ -1,0 +1,143 @@
+import { useEffect, useRef } from 'preact/hooks';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
+import 'leaflet.markercluster';
+import 'leaflet.markercluster/dist/MarkerCluster.css';
+import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
+import type { EventData } from '../../lib/filters';
+import { formatDateRange, t } from '../../lib/i18n';
+
+interface Props {
+  events: EventData[];
+  selectedId: string | null;
+  onSelect: (id: string | null) => void;
+  baseUrl: string;
+}
+
+const AUSTRIA_CENTER: L.LatLngTuple = [47.6, 13.7];
+const AUSTRIA_BOUNDS = L.latLngBounds([46.3, 9.4], [49.1, 17.2]);
+
+const makeIcon = (sport: 'cycling' | 'triathlon', selected: boolean) => {
+  const color = sport === 'cycling' ? '#1c66dd' : '#e9621f';
+  const size = selected ? 36 : 28;
+  return L.divIcon({
+    className: '',
+    html: `<div style="width:${size}px;height:${size}px;border-radius:50%;background:${color};border:3px solid white;box-shadow:0 4px 10px rgba(0,0,0,.25);display:flex;align-items:center;justify-content:center;color:white;font-size:14px;font-weight:700;${selected ? 'transform:scale(1.15);' : ''}">${sport === 'cycling' ? '🚴' : '🏊'}</div>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+  });
+};
+
+export default function EventMap({ events, selectedId, onSelect, baseUrl }: Props) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const mapRef = useRef<L.Map | null>(null);
+  const clusterRef = useRef<L.MarkerClusterGroup | null>(null);
+  const markersRef = useRef<Map<string, L.Marker>>(new Map());
+
+  useEffect(() => {
+    if (!containerRef.current || mapRef.current) return;
+    const map = L.map(containerRef.current, {
+      center: AUSTRIA_CENTER,
+      zoom: 7,
+      maxBounds: AUSTRIA_BOUNDS.pad(0.5),
+      scrollWheelZoom: true,
+    });
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    }).addTo(map);
+
+    const cluster = L.markerClusterGroup({
+      showCoverageOnHover: false,
+      spiderfyOnMaxZoom: true,
+      maxClusterRadius: 45,
+      iconCreateFunction: (c) => {
+        const n = c.getChildCount();
+        const size = n < 10 ? 32 : n < 30 ? 40 : 48;
+        return L.divIcon({
+          html: `<div class="cluster-icon" style="width:${size}px;height:${size}px;font-size:${size > 40 ? 16 : 14}px;">${n}</div>`,
+          className: '',
+          iconSize: [size, size],
+        });
+      },
+    });
+    map.addLayer(cluster);
+    mapRef.current = map;
+    clusterRef.current = cluster;
+
+    return () => {
+      map.remove();
+      mapRef.current = null;
+      clusterRef.current = null;
+      markersRef.current.clear();
+    };
+  }, []);
+
+  // Update markers when events change
+  useEffect(() => {
+    const cluster = clusterRef.current;
+    if (!cluster) return;
+    cluster.clearLayers();
+    markersRef.current.clear();
+
+    events.forEach((e) => {
+      const marker = L.marker([e.location.lat, e.location.lng], {
+        icon: makeIcon(e.sport, e.slug === selectedId),
+      });
+      const start = new Date(e.dates.start);
+      const end = e.dates.end ? new Date(e.dates.end) : undefined;
+      const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
+      const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+      marker.bindPopup(`
+        <div style="min-width:200px">
+          <div style="font-size:11px;text-transform:uppercase;color:#5b6781;letter-spacing:.05em;margin-bottom:4px;">${sportLabel}</div>
+          <div style="font-weight:600;margin-bottom:2px;">${e.name}</div>
+          <div style="font-size:12px;color:#5b6781;margin-bottom:6px;">${e.location.name} · ${e.location.region}</div>
+          <div style="font-size:12px;margin-bottom:8px;">${dateLabel}</div>
+          <a href="${baseUrl}/events/${e.slug}/" style="color:#1c66dd;font-size:13px;text-decoration:none;font-weight:500;">${t('event.details')} →</a>
+        </div>
+      `);
+      marker.on('click', () => onSelect(e.slug));
+      cluster.addLayer(marker);
+      markersRef.current.set(e.slug, marker);
+    });
+
+    if (events.length > 0 && mapRef.current) {
+      const group = L.featureGroup(events.map((e) => L.marker([e.location.lat, e.location.lng])));
+      const bounds = group.getBounds();
+      if (bounds.isValid()) {
+        mapRef.current.fitBounds(bounds.pad(0.15), { maxZoom: 11, animate: true });
+      }
+    }
+  }, [events, baseUrl]);
+
+  // Update selected marker icon + open popup
+  useEffect(() => {
+    markersRef.current.forEach((marker, slug) => {
+      const event = events.find((e) => e.slug === slug);
+      if (event) {
+        marker.setIcon(makeIcon(event.sport, slug === selectedId));
+      }
+    });
+    if (selectedId) {
+      const marker = markersRef.current.get(selectedId);
+      const map = mapRef.current;
+      if (marker && map) {
+        const cluster = clusterRef.current;
+        if (cluster) {
+          cluster.zoomToShowLayer(marker, () => {
+            marker.openPopup();
+          });
+        }
+      }
+    }
+  }, [selectedId, events]);
+
+  return (
+    <div
+      ref={containerRef}
+      class="w-full h-full min-h-[400px] rounded-2xl overflow-hidden border border-[var(--color-ink-100)] shadow-sm"
+      aria-label="Karte mit Sportevents"
+    />
+  );
+}

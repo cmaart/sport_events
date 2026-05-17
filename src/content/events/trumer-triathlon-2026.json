@@ -1,0 +1,21 @@
+{
+  "id": "trumer-triathlon-2026",
+  "name": "Trumer Triathlon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz", "Mitteldistanz"],
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-31",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Obertrum am See",
+    "lat": 47.9389,
+    "lng": 13.0833,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.trumer-triathlon.at",
+  "description": "Traditionsreicher Mehrtagesbewerb am Trumer See bei Salzburg. Distanzen vom Schnuppertriathlon bis zur Mitteldistanz, gilt als einer der schönsten Tris im deutschsprachigen Raum.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 113,
+  "elevationGainM": 600
+}

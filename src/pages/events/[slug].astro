@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatDateRange, t } from '../../lib/i18n';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('events');
+  return entries.map((entry) => ({
+    params: { slug: entry.id.replace(/\.json$/, '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const e = entry.data;
+const start = new Date(e.dates.start);
+const end = e.dates.end ? new Date(e.dates.end) : undefined;
+const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const osmUrl = `https://www.openstreetmap.org/?mlat=${e.location.lat}&mlon=${e.location.lng}#map=13/${e.location.lat}/${e.location.lng}`;
+const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-orange-100 text-orange-700';
+---
+
+<BaseLayout title={e.name} description={e.description.slice(0, 160)}>
+  <article class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8">
+    <a href={`${base}/`} class="inline-flex items-center gap-1.5 text-sm text-[var(--color-brand-600)] hover:underline mb-6">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4"><path d="m15 18-6-6 6-6"/></svg>
+      {t('event.back')}
+    </a>
+
+    <div class="flex flex-wrap items-center gap-2 mb-3">
+      <span class={`inline-flex items-center text-xs uppercase tracking-wide font-medium px-2.5 py-1 rounded-full ${sportColor}`}>
+        {sportLabel}
+      </span>
+      {e.categories.map((c: string) => (
+        <span class="text-xs px-2 py-0.5 rounded bg-[var(--color-ink-100)] text-[var(--color-ink-700)]">{c}</span>
+      ))}
+    </div>
+
+    <h1 class="text-3xl sm:text-4xl font-bold tracking-tight mb-3">{e.name}</h1>
+    <p class="text-lg text-[var(--color-ink-500)] mb-6">{e.location.name} · {e.location.region}</p>
+
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-8">
+      <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+        <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.date')}</p>
+        <p class="font-semibold text-sm">{dateLabel}</p>
+      </div>
+      <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+        <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.region')}</p>
+        <p class="font-semibold text-sm">{e.location.region}</p>
+      </div>
+      {e.distanceKm && (
+        <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+          <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.distance')}</p>
+          <p class="font-semibold text-sm">{e.distanceKm} {t('event.distance.unit')}</p>
+        </div>
+      )}
+      {e.elevationGainM && (
+        <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+          <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.elevation')}</p>
+          <p class="font-semibold text-sm">{e.elevationGainM} {t('event.elevation.unit')}</p>
+        </div>
+      )}
+    </div>
+
+    <section class="prose prose-slate max-w-none mb-8">
+      <h2 class="text-xl font-semibold mb-2">{t('event.description')}</h2>
+      <p class="text-[var(--color-ink-700)] whitespace-pre-line leading-relaxed">{e.description}</p>
+    </section>
+
+    <div class="flex flex-wrap gap-3 mb-8">
+      {e.registrationUrl && (
+        <a href={e.registrationUrl} target="_blank" rel="noreferrer"
+          class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-[var(--color-brand-500)] hover:bg-[var(--color-brand-600)] text-white font-medium text-sm transition">
+          {t('event.registration')}
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg>
+        </a>
+      )}
+      {e.websiteUrl && (
+        <a href={e.websiteUrl} target="_blank" rel="noreferrer"
+          class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white border border-[var(--color-ink-300)] hover:border-[var(--color-brand-500)] font-medium text-sm transition">
+          {t('event.website')}
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4"><path d="M7 17 17 7"/><path d="M7 7h10v10"/></svg>
+        </a>
+      )}
+    </div>
+
+    <div class="rounded-2xl bg-white border border-[var(--color-ink-100)] p-5">
+      <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.location')}</p>
+      <p class="font-semibold mb-1">{e.location.name}</p>
+      <p class="text-sm text-[var(--color-ink-500)] mb-3">{e.location.lat.toFixed(4)}, {e.location.lng.toFixed(4)}</p>
+      <a href={osmUrl} target="_blank" rel="noreferrer" class="text-sm text-[var(--color-brand-600)] hover:underline">
+        {t('event.openMap')} →
+      </a>
+    </div>
+  </article>
+</BaseLayout>

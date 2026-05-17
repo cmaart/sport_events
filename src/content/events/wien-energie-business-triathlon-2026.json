@@ -1,0 +1,21 @@
+{
+  "id": "wien-energie-business-triathlon-2026",
+  "name": "Wien Energie Business Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-12",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Wien – Alte Donau",
+    "lat": 48.2351,
+    "lng": 16.4147,
+    "region": "Wien"
+  },
+  "websiteUrl": "https://www.wien-energie-business-run.at",
+  "description": "Stadttriathlon an der Alten Donau in Wien. Sprintdistanz (750 m / 20 km / 5 km), Team- und Einzelwertungen, beliebt bei Firmen-Teams.\n\nHinweis: Termin und Bewerbsdetails 2026 bitte beim Veranstalter prüfen.",
+  "distanceKm": 26,
+  "elevationGainM": 80
+}

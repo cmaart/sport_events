@@ -1,0 +1,20 @@
+{
+  "id": "grazer-bike-opening-2026",
+  "name": "Grazer Bike Opening",
+  "sport": "cycling",
+  "categories": ["Kriterium", "Rundstreckenrennen"],
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Graz",
+    "lat": 47.0707,
+    "lng": 15.4395,
+    "region": "Steiermark"
+  },
+  "description": "Saisoneröffnungskriterium im Grazer Stadtgebiet. Schnelle Rundstrecke, Klassenwertungen für Lizenz- und Jedermannfahrer.\n\nHinweis: Veranstaltung wird vom Steirischen Radsportverband ausgerichtet; bitte den genauen Termin 2026 prüfen.",
+  "distanceKm": 60,
+  "elevationGainM": 200
+}

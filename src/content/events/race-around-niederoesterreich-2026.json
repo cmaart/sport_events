@@ -1,0 +1,21 @@
+{
+  "id": "race-around-niederoesterreich-2026",
+  "name": "Race Around Niederösterreich",
+  "sport": "cycling",
+  "categories": ["Etappenrennen"],
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-07",
+    "confirmed": false
+  },
+  "location": {
+    "name": "St. Pölten",
+    "lat": 48.2065,
+    "lng": 15.6232,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.race-around.at",
+  "description": "Ultracycling-Event durch ganz Niederösterreich. Solo- und Teamvarianten mit Distanzen zwischen 220 und 1.200 km. Non-Stop-Format, Zeitnehmung 24/7.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 600,
+  "elevationGainM": 7500
+}

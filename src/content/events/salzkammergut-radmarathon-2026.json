@@ -1,0 +1,21 @@
+{
+  "id": "salzkammergut-radmarathon-2026",
+  "name": "Salzkammergut Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Bad Goisern am Hallstättersee",
+    "lat": 47.6406,
+    "lng": 13.6173,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.salzkammergut-radmarathon.at",
+  "description": "Einer der größten Jedermann-Radmarathons Österreichs durch das Salzkammergut. Strecken zwischen 65 und 210 km mit bis zu 3.200 Höhenmetern. Highlight: Pötschenpass und Auffahrt zum Pass Gschütt.\n\nHinweis: Datum 2026 noch zu bestätigen.",
+  "distanceKm": 210,
+  "elevationGainM": 3200
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kitzbueheler-radmarathon-2026",
+  "name": "Kitzbüheler Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Berg"],
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Kitzbühel",
+    "lat": 47.4488,
+    "lng": 12.3912,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.kitzbueheler-radmarathon.at",
+  "description": "Bergmarathon mit drei Streckenvarianten (75 / 122 / 205 km) rund um die Kitzbüheler Alpen mit Pass Thurn und Gerlospass. Königsstrecke mit über 4.000 Höhenmetern.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 205,
+  "elevationGainM": 4000
+}

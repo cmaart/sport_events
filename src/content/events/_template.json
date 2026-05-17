@@ -1,0 +1,22 @@
+{
+  "id": "kebab-case-eindeutige-id-2026",
+  "name": "Voller Eventname",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "dates": {
+    "start": "2026-06-15",
+    "end": "2026-06-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ortsname",
+    "lat": 47.5,
+    "lng": 13.5,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://example.com",
+  "registrationUrl": "https://example.com/anmeldung",
+  "description": "Mehrzeilige Beschreibung des Events.\n\nDistanz, Höhenmeter, Strecke, Besonderheiten.",
+  "distanceKm": 120,
+  "elevationGainM": 1800
+}

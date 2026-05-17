@@ -1,0 +1,21 @@
+{
+  "id": "linz-triathlon-2026",
+  "name": "Linz Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Pleschinger See, Linz",
+    "lat": 48.3266,
+    "lng": 14.3472,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.linz-triathlon.at",
+  "description": "Beliebter Stadttriathlon mit Schwimmen im Pleschinger See, schneller Radstrecke durch das Linzer Umland und Lauf am Donauradweg. Sprint- und Olympische Distanz, Schüler- und Jugendbewerbe.\n\nHinweis: Termin 2026 noch zu bestätigen.",
+  "distanceKm": 52,
+  "elevationGainM": 200
+}
