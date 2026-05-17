@@ -1,0 +1,24 @@
+{
+  "id": "covestro-triathlon-krefeld-2026",
+  "name": "Covestro Triathlon Krefeld",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Krefeld",
+    "lat": 51.3388,
+    "lng": 6.5853
+  },
+  "websiteUrl": "https://krefeld05.de",
+  "description": "Triathlonevent in Krefeld am Niederrhein im Erholungsgebiet Elfrather See. Olympische (1,5 km / 38,5 km / 10 km), Sprint und SuperSprint-Distanz auf flachem, gesperrtem Radkurs. Praesentiert von Covestro, einem der groessten deutschen Chemiekonzerne. Anmeldeschluss: 31. Mai 2026.",
+  "distanceKm": 50,
+  "elevationGainM": 150
+}

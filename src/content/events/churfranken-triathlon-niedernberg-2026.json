@@ -1,0 +1,24 @@
+{
+  "id": "churfranken-triathlon-niedernberg-2026",
+  "name": "Hensel Recycling Churfranken Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Niedernberg",
+    "lat": 49.8547,
+    "lng": 9.1167
+  },
+  "websiteUrl": "https://hensel-recycling.com",
+  "description": "16. Hensel Recycling Churfranken Triathlon in Niedernberg am Main im Bayerischen Spessart nahe Aschaffenburg. Sprint und Olympische Distanz mit Schwimmen im Naturbadegewaesser, Radstrecke durch das Maintal und Laufkurs. Bereits Sprint und Olympisch ausgebucht ab Januar 2026.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}

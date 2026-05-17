@@ -1,0 +1,24 @@
+{
+  "id": "triathlon-festival-rheinhessen-2026",
+  "name": "Triathlon Festival Rheinhessen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-16",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wörrstadt",
+    "lat": 49.8369,
+    "lng": 8.1000
+  },
+  "websiteUrl": "https://triathlon-festival-rheinhessen.com",
+  "description": "Triathlonfestival in der Weinregion Rheinhessen nahe Mainz mit SuperSprint, Sprint, Olympischer Distanz und Staffel-Wettbewerben sowie Kindertriathlon. Idyllische Weinberg-Kulisse zwischen Alzey und Bad Kreuznach. Familienaeres Sommerevent im Herzen des groessten Weinanbaugebiets Deutschlands.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}
