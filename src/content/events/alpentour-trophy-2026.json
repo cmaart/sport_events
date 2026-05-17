@@ -1,0 +1,25 @@
+{
+  "id": "alpentour-trophy-2026",
+  "name": "Alpentour Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-18",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schladming",
+    "lat": 47.392,
+    "lng": 13.687,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://alpen-tour.at",
+  "description": "UCI-S1-klassifiziertes 4-Etappen-MTB-Rennen in der Schladming-Dachstein-Region: 4 Tage, rund 200 km und 8.570 Höhenmeter auf den Hausberg-Arenen Hauser Kaibling, Ramsau, Reiteralm und Planai. Solo- und Duo-Wertung. Gilt als eines der härtesten und schönsten MTB-Etappenrennen Europas.",
+  "distanceKm": 200,
+  "elevationGainM": 8570
+}

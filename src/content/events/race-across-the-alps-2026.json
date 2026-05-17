@@ -1,0 +1,25 @@
+{
+  "id": "race-across-the-alps-2026",
+  "name": "Race Across The Alps",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-26",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nauders",
+    "lat": 46.898,
+    "lng": 10.507,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://raceacrossthealps.com",
+  "description": "Ultralang-Radrennen durch drei Länder (Österreich, Schweiz, Italien) mit Start und Ziel in Nauders: 525 km und 14.500 Höhenmeter, Zeitlimit 32 Stunden. Offizielles Qualifying-Rennen für den Race Across America (RAAM). Gilt als eines der härtesten Eintages-Radrennen der Welt.",
+  "distanceKm": 525,
+  "elevationGainM": 14500
+}
