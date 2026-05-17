@@ -38,3 +38,25 @@ export function syncUrl(f: Filters) {
   const url = `${window.location.pathname}${search}${window.location.hash}`;
   window.history.replaceState({}, '', url);
 }
+
+const STORAGE_KEY = 'sport_events.filters.v1';
+
+export function saveFiltersToStorage(f: Filters) {
+  if (typeof window === 'undefined') return;
+  try {
+    window.localStorage.setItem(STORAGE_KEY, filtersToSearch(f));
+  } catch {
+    /* ignore quota/security errors */
+  }
+}
+
+export function loadFiltersFromStorage(): Filters | null {
+  if (typeof window === 'undefined') return null;
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (raw === null) return null;
+    return filtersFromSearch(raw);
+  } catch {
+    return null;
+  }
+}

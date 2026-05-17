@@ -3,7 +3,7 @@ import { lazy, Suspense } from 'preact/compat';
 import FilterBar from './FilterBar';
 import EventList from './EventList';
 import { applyFilters, defaultFilters, type EventData, type Filters } from '../../lib/filters';
-import { filtersFromSearch, syncUrl } from '../../lib/url-state';
+import { filtersFromSearch, syncUrl, loadFiltersFromStorage, saveFiltersToStorage } from '../../lib/url-state';
 import { buildIndex, searchMatches } from '../../lib/search';
 import { t } from '../../lib/i18n';
 
@@ -25,11 +25,19 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
 
   useEffect(() => {
     setIsClient(true);
-    setFilters(filtersFromSearch(window.location.search));
+    if (window.location.search) {
+      setFilters(filtersFromSearch(window.location.search));
+    } else {
+      const stored = loadFiltersFromStorage();
+      if (stored) setFilters(stored);
+    }
   }, []);
 
   useEffect(() => {
-    if (isClient) syncUrl(filters);
+    if (isClient) {
+      syncUrl(filters);
+      saveFiltersToStorage(filters);
+    }
   }, [filters, isClient]);
 
   const index = useMemo(() => buildIndex(events), [events]);
