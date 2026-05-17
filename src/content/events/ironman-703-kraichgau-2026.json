@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-kraichgau-2026",
+  "name": "IRONMAN 70.3 Kraichgau",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-31",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Schönborn",
+    "lat": 49.2106,
+    "lng": 8.6521
+  },
+  "websiteUrl": "https://www.ironman.com/im703-kraichgau",
+  "description": "Ausverkaufter IRONMAN 70.3 im badischen Kraichgau: 1,9 km Schwimmen im Hardtsee in Ubstadt-Weiher, 90 km Radstrecke mit 1.000 Hm durch das hügelige Kraichgau, 21,1 km Lauf mit Zieleinlauf in Bad Schönborn. Rund 2.400 Athletinnen und Athleten aus aller Welt.",
+  "distanceKm": 113,
+  "elevationGainM": 1000
+}

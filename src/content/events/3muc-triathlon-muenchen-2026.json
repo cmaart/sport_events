@@ -1,0 +1,24 @@
+{
+  "id": "3muc-triathlon-muenchen-2026",
+  "name": "3MUC Triathlon München",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oberschleißheim",
+    "lat": 48.2478,
+    "lng": 11.5579
+  },
+  "websiteUrl": "https://www.3muc.com",
+  "description": "Zweitages-Triathlonanlas an der historischen Olympia-Regattastrecke in Oberschleißheim (Olympia 1972). Samstag: Sprint-Distanz (400 m/20 km/5 km). Sonntag: Olympische Distanz (1,5 km/40 km/10 km). Einer der beliebtesten Stadtrand-Triathlons in Bayern.",
+  "distanceKm": 51,
+  "elevationGainM": 200
+}

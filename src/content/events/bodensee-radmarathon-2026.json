@@ -1,0 +1,24 @@
+{
+  "id": "bodensee-radmarathon-2026",
+  "name": "Bodensee Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bregenz",
+    "lat": 47.5031,
+    "lng": 9.7471,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://bodensee-radmarathon.ch",
+  "description": "53. Ausgabe des internationalen Radmarathons rund um den Bodensee durch Deutschland, Österreich und die Schweiz. Vier Strecken von 5 verschiedenen Startorten. Der Kurs umrundet den gesamten Bodensee durch drei Länder - eines der traditionsreichsten Radevents am Bodensee.",
+  "distanceKm": 260,
+  "elevationGainM": 1500
+}

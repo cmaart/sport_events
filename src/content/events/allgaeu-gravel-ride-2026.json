@@ -1,0 +1,23 @@
+{
+  "id": "allgaeu-gravel-ride-2026",
+  "name": "Allgäu Gravel Ride",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Isny im Allgäu",
+    "lat": 47.6889,
+    "lng": 10.0382
+  },
+  "websiteUrl": "https://www.vecnum.com/de/allgaeu-gravel-ride",
+  "description": "4. Allgäu Gravel Ride by Vecnum in Isny im Allgäu. Drei Strecken: Allgäu Power (~55 km, 700 Hm), Allgäuer Allerlei (~110 km, 1.900 Hm) und Allgäu ohne Ende (~150 km, 2.900 Hm). Gemeinschaftlicher, nicht-kompetitiver Gravel-Ride durch sattes Almgrün mit Genuss-Fokus.",
+  "distanceKm": 150,
+  "elevationGainM": 2900
+}

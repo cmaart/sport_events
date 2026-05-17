@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-de-cup-muenchen-2026",
+  "name": "triathlon.de CUP München",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-15",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oberschleißheim",
+    "lat": 48.2478,
+    "lng": 11.5579
+  },
+  "websiteUrl": "https://triathlon.de/pages/triathlon-de-cup-muenchen-2026",
+  "description": "12. Ausgabe des triathlon.de CUP München auf der Olympia-Regattastrecke Oberschleißheim: dreitaegiges Familientriathlon-Wochenende mit Schnupper-, Volks-, Olympischer und Mitteldistanz. Ideal fuer Einsteigerinnen und erfahrene Athleten. Anmeldeschluss April 2026.",
+  "distanceKm": 113,
+  "elevationGainM": 500
+}
