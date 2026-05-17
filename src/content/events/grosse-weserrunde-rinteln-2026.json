@@ -1,0 +1,23 @@
+{
+  "id": "grosse-weserrunde-rinteln-2026",
+  "name": "Große Weserrunde",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rinteln",
+    "lat": 52.18,
+    "lng": 9.084
+  },
+  "websiteUrl": "https://www.weserrunde.de/",
+  "description": "Langstrecken-Radmarathon entlang der Weser mit Distanzen von 80 bis 350 km durch Weserbergland, Solling und Teutoburger Wald. Die 350-km-Ultradistanz mit ca. 5.800 Hm gilt als eine der anspruchsvollsten Radmarathonstrecken Deutschlands. Start sehr frueh um 5:00 Uhr, Pasta-Party am Vorabend.",
+  "distanceKm": 350,
+  "elevationGainM": 5800
+}

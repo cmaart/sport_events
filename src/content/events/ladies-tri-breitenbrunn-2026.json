@@ -1,0 +1,23 @@
+{
+  "id": "ladies-tri-breitenbrunn-2026",
+  "name": "LadiesTri Breitenbrunn",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Breitenbrunn",
+    "lat": 47.9295,
+    "lng": 16.7325,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.ladies-triathlon.at",
+  "description": "Frauen-Triathlon am Naturstrand Breitenbrunn am Neusiedler See im noerdlichen Burgenland, einer der wenigen Ladies-only Triathlons Oesterreichs. Sprintdistanz (0,5/20/4 km) auf flacher, schneller Strecke in der pannonischen Tiefebene.",
+  "distanceKm": 24
+}

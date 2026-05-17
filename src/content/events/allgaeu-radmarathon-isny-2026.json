@@ -1,0 +1,24 @@
+{
+  "id": "allgaeu-radmarathon-isny-2026",
+  "name": "designOn Allgäu Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-16",
+    "end": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Isny im Allgäu",
+    "lat": 47.6886,
+    "lng": 10.0376
+  },
+  "websiteUrl": "https://allgaeu-radmarathon.de/",
+  "description": "Rennrad- und Gravelmarathon mit Start auf dem historischen Marktplatz von Isny im Allgaeu auf ruhigen Nebenstrassen durch das Allgaeuer Alpenvorland bis nach Vorarlberg. Drei Streckenlaengen: 80 km / 1.200 Hm, 120 km / 2.000 Hm und 200 km / 3.000 Hm sowie Gravel-Strecken. Ergaenzt durch Kinder-MTB-Cup auf dem Marktplatz.",
+  "distanceKm": 200,
+  "elevationGainM": 3000
+}

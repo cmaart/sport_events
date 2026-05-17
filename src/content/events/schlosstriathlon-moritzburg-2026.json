@@ -1,0 +1,25 @@
+{
+  "id": "schlosstriathlon-moritzburg-2026",
+  "name": "Schloss-Triathlon Moritzburg",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Moritzburg",
+    "lat": 51.159,
+    "lng": 13.682
+  },
+  "websiteUrl": "https://schlosstriathlon.de/",
+  "description": "Einer der traditionsreichsten Triathlons Deutschlands rund um das Barockschloss Moritzburg bei Dresden, 24. Auflage. Schwimmen in den Moritzburger Teichen, Radstrecke durch saechsische Landschaft. Samstag: Lang- (3,8/185/42 km) und Mitteldistanz; Sonntag: Sprint und Olympisch.",
+  "distanceKm": 113
+}

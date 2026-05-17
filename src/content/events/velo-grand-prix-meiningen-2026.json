@@ -1,0 +1,22 @@
+{
+  "id": "velo-grand-prix-meiningen-2026",
+  "name": "Velo Grand Prix Meiningen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Meiningen",
+    "lat": 50.57,
+    "lng": 10.41
+  },
+  "websiteUrl": "https://gutelaunesport.de/",
+  "description": "Groesstes Jedermann-Radrennen Thueringens auf einem 33,9-km-Rundkurs mit Start und Ziel vor dem Meininger Staatstheater auf gesperrten Strassen. Ein, zwei oder drei Runden moeglich (34/68/102 km), professionelle Kommentierung und Siegerehrung. DJ, Festivitaet und Livetiming machen das Urban-Race-Format zum Saisonevent.",
+  "distanceKm": 102
+}

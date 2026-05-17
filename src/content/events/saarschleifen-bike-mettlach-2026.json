@@ -1,0 +1,23 @@
+{
+  "id": "saarschleifen-bike-mettlach-2026",
+  "name": "Saarschleifen.Bike",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mettlach",
+    "lat": 49.4978,
+    "lng": 6.5951
+  },
+  "websiteUrl": "https://www.saarschleifen.bike/",
+  "description": "Saarlands groesster Radmarathon durch die spektakulaere Saarschleife auf gesperrten Wald- und Schotterwegen. Strecken 35/50/100 km (Ultra-Marathon 1.400 Hm), E-Bike-Klassen fuer die kuerzeren Distanzen. Ursapharm Firmenwertung fuer Unternehmensmannschaften.",
+  "distanceKm": 100,
+  "elevationGainM": 1400
+}

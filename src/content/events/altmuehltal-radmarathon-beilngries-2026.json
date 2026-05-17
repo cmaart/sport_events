@@ -1,0 +1,24 @@
+{
+  "id": "altmuehltal-radmarathon-beilngries-2026",
+  "name": "Altmühltal Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-16",
+    "end": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Beilngries",
+    "lat": 49.0367,
+    "lng": 11.4741
+  },
+  "websiteUrl": "https://altmuehltal-radmarathon.de/",
+  "description": "Einer der schoensten Radmarathons Bayerns durch die Kalksteintaeler und Juradoerfer des Altmuehltals im Naturpark. Rennradstrecken 120 bis 200 km / 2.300 Hm sowie reine Gravelstrecken 60 bis 120 km. Ohne Zeitnahme und Wettkampfdruck.",
+  "distanceKm": 200,
+  "elevationGainM": 2300
+}

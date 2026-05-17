@@ -1,0 +1,22 @@
+{
+  "id": "poggensee-triathlon-bad-oldesloe-2026",
+  "name": "Poggensee Triathlon Bad Oldesloe",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Oldesloe",
+    "lat": 53.8121,
+    "lng": 10.3703
+  },
+  "websiteUrl": "https://spiridon-oldesloe.de/poggensee-triathlon.html",
+  "description": "32. Poggensee Triathlon am Freibad Bad Oldesloe, drei Runden Rad um den Poggensee, zwei Laufrunden a 2,5 km. Maximal 130 Einzelstarter, Meldeschluss 21. Juni 2026. Organisiert vom Spiridon-Club Bad Oldesloe.",
+  "distanceKm": 26
+}

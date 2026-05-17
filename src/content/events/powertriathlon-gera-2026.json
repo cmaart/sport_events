@@ -1,0 +1,23 @@
+{
+  "id": "powertriathlon-gera-2026",
+  "name": "Powertriathlon Gera",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gera",
+    "lat": 50.881,
+    "lng": 12.0786
+  },
+  "websiteUrl": "https://powertriathlon.de/home",
+  "description": "30. Jubilaeumsauflage des Powertriathlons im Hofwiesenpark Gera, Schwimmen im Hofwiesenparksee. Erstmals 2026 mit Mixed-Relay-Wertung als Saisonstart-Highlight fuer den Thueringer Triathlon-Verband. Olympische Distanz (1,5/40/10 km) und Sprint am Wochenende.",
+  "distanceKm": 52
+}

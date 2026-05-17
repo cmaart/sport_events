@@ -1,0 +1,23 @@
+{
+  "id": "bochum-triathlon-2026",
+  "name": "Stadtwerke Bochum-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bochum",
+    "lat": 51.4818,
+    "lng": 7.2162
+  },
+  "websiteUrl": "https://bochum-triathlon.de/",
+  "description": "5. Familien-Triathlon im Herzen des Ruhrgebiets, Schwimmen im beheizten 50-m-Freibad Bochum. Radkurs auf gesperrten Strassen ueber Koeningsallee, Laufstrecke im Wiesental Park. Sprint, Olympisch, Schnupperdistanz und Familien-Triathlon organisiert vom SV Blau-Weiss Bochum 1896.",
+  "distanceKm": 52
+}

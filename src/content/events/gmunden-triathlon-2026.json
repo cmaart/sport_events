@@ -1,0 +1,23 @@
+{
+  "id": "gmunden-triathlon-2026",
+  "name": "Gmunden Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-01",
+    "end": "2026-07-01",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Gmunden",
+    "lat": 47.9189,
+    "lng": 13.7996,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.florosportevents.at",
+  "description": "Triathlon am Traunsee im oberoesterreichischen Salzkammergut, Schwimmen in einem der klarsten Seen Oesterreichs mit Blick auf Schloss Ort. Sprint- und Staffel-Format, ausgerichtet von florosportevents.at. Datum fuer 2026 noch nicht offiziell bestaetigt.",
+  "distanceKm": 25
+}

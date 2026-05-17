@@ -1,0 +1,23 @@
+{
+  "id": "buechener-triathlon-2026",
+  "name": "Büchener Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-31",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Büchen",
+    "lat": 53.512,
+    "lng": 10.965
+  },
+  "websiteUrl": "https://www.esv-buechen.de/",
+  "description": "40. Jubilaeumsauflage des traditionsreichen Buechener Triathlons am Waldschwimmbad Buechen in der Region Lauenburg/Elbe, bereits fuer 2026 ausgebucht. Sprint (500/21/5 km) und Olympische Distanz, veranstaltet vom ESV Buechen e.V.",
+  "distanceKm": 26
+}

@@ -1,0 +1,22 @@
+{
+  "id": "biosphaeren-triathlon-gersheim-2026",
+  "name": "Hager Papprint Biosphären Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gersheim",
+    "lat": 49.105,
+    "lng": 7.16
+  },
+  "websiteUrl": "https://www.biosphaeren-triathlon.de/",
+  "description": "Naturnaher Triathlon in der UNESCO-Biosphaere Bliesgau im Saarland nahe der franzoesischen Grenze. Teil der Saarlaendischen Landesmeisterschaft 2026 im neuen Cup-Format. Start ab 07:00 Uhr, Sprintdistanz durch die huegeliges Bliesstal.",
+  "distanceKm": 25
+}

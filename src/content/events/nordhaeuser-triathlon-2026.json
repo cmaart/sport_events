@@ -1,0 +1,23 @@
+{
+  "id": "nordhaeuser-triathlon-2026",
+  "name": "Nordhäuser Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nordhausen",
+    "lat": 51.5,
+    "lng": 10.79
+  },
+  "websiteUrl": "https://triathlon-nordhausen.de/",
+  "description": "24. Nordhaeuser Triathlon am Sundhaeuser See mit Firmentriathlon am Samstag und olympischem Hauptwettkampf am Sonntag. Schwimmen im Sundhaeuser See, Rad- und Laufkurs in der Goldenen Aue suedlich des Harzes. Meldeschluss 17. Juni 2026.",
+  "distanceKm": 52
+}

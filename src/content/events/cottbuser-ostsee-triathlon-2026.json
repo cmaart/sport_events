@@ -1,0 +1,22 @@
+{
+  "id": "cottbuser-ostsee-triathlon-2026",
+  "name": "Cottbuser Ostsee-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cottbus",
+    "lat": 51.7563,
+    "lng": 14.3329
+  },
+  "websiteUrl": "https://tsv-cottbus.de/",
+  "description": "Triathlon am neu entstehenden Cottbuser Ostsee, dem groessten vom Menschen geschaffenen See Deutschlands im Rekultivierungsgebiet des ehemaligen Braunkohletagebaus Cottbus-Nord. Sprintdistanz (750/21/5 km), organisiert vom TSV Cottbus.",
+  "distanceKm": 27
+}

@@ -1,0 +1,22 @@
+{
+  "id": "waiblinger-triathlon-2026",
+  "name": "Waiblinger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-10",
+    "end": "2026-05-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waiblingen",
+    "lat": 48.8304,
+    "lng": 9.3186
+  },
+  "websiteUrl": "https://www.triathlon-vfl-waiblingen.de/",
+  "description": "32. Waiblinger Triathlon im Remstal oestlich von Stuttgart, Schwimmen im Waiblinger Freibad, Radstrecke auf gesperrten Strassen. Wertungsrennen im RegioCup Stuttgart 2026. Anmeldeschluss 3. Mai, keine Tagesmeldungen moeglich.",
+  "distanceKm": 26
+}

@@ -1,0 +1,24 @@
+{
+  "id": "myeifelride-mayen-2026",
+  "name": "MyEifelRide",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mayen",
+    "lat": 50.329,
+    "lng": 7.2259
+  },
+  "websiteUrl": "https://www.myeifelride.de/",
+  "description": "Zweitagesklassiker des RSC Eifelland Mayen mit Rennrad- und Gravelstrecken durch die Vulkaneifel und entlang der Mosel mit ihren Weinbergen. Samstag: Brevets und Socialrides, Sonntag: Hauptprogramm mit Strecken von 62 bis 242 km / 3.500 Hm. Teil des German Cycling Radmarathon-Cups 2026.",
+  "distanceKm": 209,
+  "elevationGainM": 2700
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kaunertaler-radtag-2026",
+  "name": "Kaunertaler Radtag",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Kaunertal",
+    "lat": 47.0,
+    "lng": 10.7333,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.kaunertal.com",
+  "description": "Jaehrlicher Radtag auf der Kaunertaler Gletscherstrasse, einer der spektakulaersten Hochalpenstrassen Tirols. Bergzeitfahren von Prutz bis nahe dem Gletscher auf ueber 2.750 m Seehoehe, ca. 26 km und 1.500 Hm. Kategorien fuer Rennrad, MTB und E-Bike mit Testbike-Rahmenprogramm.",
+  "distanceKm": 26,
+  "elevationGainM": 1500
+}

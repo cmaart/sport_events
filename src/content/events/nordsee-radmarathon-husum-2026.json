@@ -1,0 +1,22 @@
+{
+  "id": "nordsee-radmarathon-husum-2026",
+  "name": "Nordsee-Radmarathon Husum",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-17",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Husum",
+    "lat": 54.4755,
+    "lng": 9.0529
+  },
+  "websiteUrl": "https://www.nordcup-radmarathon.de/",
+  "description": "Nordsee-Radmarathon als dritter Lauf der NordCup-Radmarathon-Serie an der Westkueste Schleswig-Holsteins. Die 203-km-Marathonstrecke fuehrt ueber Nordstrand, Eiderstedt und den Westerhever Leuchtturm durch die flachen Nordseemarschen mit typischem Kuestencharme. Verpflegung mit Fischbrötchen und regionalen Produkten.",
+  "distanceKm": 203
+}

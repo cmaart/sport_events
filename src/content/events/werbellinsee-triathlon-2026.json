@@ -1,0 +1,23 @@
+{
+  "id": "werbellinsee-triathlon-2026",
+  "name": "Werbellinsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-04",
+    "end": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schorfheide",
+    "lat": 52.89,
+    "lng": 13.735
+  },
+  "websiteUrl": "https://werbellinseetriathlon.de/",
+  "description": "30. Jubilaeumsauflage am glasklaren Werbellinsee in der UNESCO-Biosphaere Schorfheide, Start und Ziel am Seezeit-Resort. Radstrecke durch waldreiches Huegelland, Laufkurs mit naturbelassenen Wegen. Olympische Distanz und Sprint.",
+  "distanceKm": 50
+}

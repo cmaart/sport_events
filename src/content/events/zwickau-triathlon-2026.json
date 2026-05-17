@@ -1,0 +1,24 @@
+{
+  "id": "zwickau-triathlon-2026",
+  "name": "Zwickau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zwickau",
+    "lat": 50.7189,
+    "lng": 12.4955
+  },
+  "websiteUrl": "https://zwickau-triathlon.de/",
+  "description": "Multidistanz-Triathlon in der saechsischen Industriestadt Zwickau, Schwimmen in der Gluck-Auf-Schwimmhalle. 2026 erstmals mit Mitteldistanz als Erweiterung des Formats. Ausserdem Jugend-, Junior- und Paratriathlon-Kategorien.",
+  "distanceKm": 52
+}

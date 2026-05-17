@@ -1,0 +1,23 @@
+{
+  "id": "erfurt-triathlon-2026",
+  "name": "Erfurt Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erfurt",
+    "lat": 51.0504,
+    "lng": 11.021
+  },
+  "websiteUrl": "https://erfurt-triathlon.de/",
+  "description": "Triathlon am Strandbad Stotternheim nordoestlich von Erfurt, Schwimmen als Rundkurs im Stotternheimer See, Radstrecke auf asphaltierten Strassen mit welligem Profil. Waldlaufkurs mit natuerlichen Wegen fuer Sprint und Olympische Distanz (1,5/40/10 km).",
+  "distanceKm": 52
+}

@@ -1,0 +1,23 @@
+{
+  "id": "erzgebirgstour-crottendorf-2026",
+  "name": "Erzgebirgstour",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Crottendorf",
+    "lat": 50.485,
+    "lng": 13.017
+  },
+  "websiteUrl": "https://www.erzgebirgstour.de/",
+  "description": "Jedermann-Rennen mit vollgesperrter Rennstrecke im Westerzgebirge, 90 km / 2.200 Hm. Erste Edition einer neuen Dreijahrens-Rennserie Dreierlei im Gebirg mit professioneller Zeitnahme und Streckenfotografie. Startgeld ab 69 Euro, Meldeoeffnung 11. April 2026.",
+  "distanceKm": 90,
+  "elevationGainM": 2200
+}

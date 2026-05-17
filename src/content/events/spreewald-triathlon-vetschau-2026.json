@@ -1,0 +1,24 @@
+{
+  "id": "spreewald-triathlon-vetschau-2026",
+  "name": "Spreewald Triathlon Vetschau",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vetschau/Spreewald",
+    "lat": 51.783,
+    "lng": 14.075
+  },
+  "websiteUrl": "https://spreewald-triathlon.de/",
+  "description": "Brandenburgische Landesmeisterschaft im Triathlon am Briesensee bei Vetschau, Schwimmen im natuerlichen See, flache Radstrecke durch die Spreewaelder Niederung. Mitteldistanz (2,2/84/18 km), Olympisch und Sprint organisiert von Triathlon Spreewald e.V.",
+  "distanceKm": 52
+}

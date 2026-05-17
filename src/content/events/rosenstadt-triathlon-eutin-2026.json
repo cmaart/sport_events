@@ -1,0 +1,22 @@
+{
+  "id": "rosenstadt-triathlon-eutin-2026",
+  "name": "Rosenstadt-Triathlon Eutin",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eutin",
+    "lat": 54.1381,
+    "lng": 10.6219
+  },
+  "websiteUrl": "https://rosenstadt-triathlon.de/",
+  "description": "29. Familien- und Inklusionstriathlons in der Rosenstadt Eutin mitten in der Holsteinischen Schweiz, Schwimmen in der Stadtbucht mit Zieleinlauf vor dem Barockschloss Eutin. Gleichzeitig Schleswig-Holstein-Landesmeisterschaft Jugend und Schueler. Sprint und Volksdistanz.",
+  "distanceKm": 25
+}

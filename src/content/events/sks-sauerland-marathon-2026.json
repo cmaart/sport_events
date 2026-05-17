@@ -1,0 +1,23 @@
+{
+  "id": "sks-sauerland-marathon-2026",
+  "name": "SKS Sauerland Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schmallenberg",
+    "lat": 51.1867,
+    "lng": 8.2958
+  },
+  "websiteUrl": "https://www.mega-sports.de/",
+  "description": "MTB- und Gravel-Marathon im Rothaargebirge, Teil des Nutrixxion Marathon Trophy-Circuits. Strecken von 44 bis 117 km (Ultra Rothaarsteig mit 3.863 Hm), Start in Schmallenberg-Grafschaft auf Wald- und Schotterwegen des Naturparks Sauerland-Rothaargebirge.",
+  "distanceKm": 117,
+  "elevationGainM": 3863
+}

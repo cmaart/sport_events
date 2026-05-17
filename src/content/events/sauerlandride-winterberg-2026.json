@@ -1,0 +1,23 @@
+{
+  "id": "sauerlandride-winterberg-2026",
+  "name": "SauerlandRIDE",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-29",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Winterberg",
+    "lat": 51.1974,
+    "lng": 8.5229
+  },
+  "websiteUrl": "https://sauerlandride.de/",
+  "description": "Dreitaegiges Rennrad-Community-Weekend rund um Winterberg ohne Zeitnahme und Wettkampfcharakter. Samstagsetappe 170 km / 2.420 Hm ueber Hennesee und Kahlen Asten, Gesamtpaket 310 km / 4.500 Hm fuer das Wochenende. Drei Tempogruppen, GPX-Tracks vorab bereitgestellt.",
+  "distanceKm": 170,
+  "elevationGainM": 2420
+}

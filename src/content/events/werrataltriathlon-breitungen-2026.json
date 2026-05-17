@@ -1,0 +1,22 @@
+{
+  "id": "werrataltriathlon-breitungen-2026",
+  "name": "Werrataltriathlon Breitungen",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Breitungen/Werra",
+    "lat": 50.6856,
+    "lng": 10.3297
+  },
+  "websiteUrl": "https://www.triathlonverein-werratal.de/werrataltriathlon/",
+  "description": "Thueringens aeltester Triathlon findet 2026 ausschliesslich im Cross-Format am Strandbad Breitungen an der Werra statt. Gleichzeitig Thueringische Landesmeisterschaft im Cross-Triathlon. 38. Auflage des traditionsreichen Wettkampfs.",
+  "distanceKm": 25
+}

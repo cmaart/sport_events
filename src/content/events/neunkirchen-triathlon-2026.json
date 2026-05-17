@@ -1,0 +1,22 @@
+{
+  "id": "neunkirchen-triathlon-2026",
+  "name": "Neunkirchner Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neunkirchen",
+    "lat": 49.346,
+    "lng": 7.179
+  },
+  "websiteUrl": "http://neunkirchen-triathlon.de/",
+  "description": "Saarland-Cup-Rennen in der Kreisstadt Neunkirchen mit parallelem Kinder- und Jugendtriathlon. Teil der Saarlaendischen Landesmeisterschaft im Cup-Format 2026, organisiert von der Saarlaendischen Triathlon Union.",
+  "distanceKm": 25
+}

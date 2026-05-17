@@ -1,0 +1,22 @@
+{
+  "id": "city-tri-paderborn-2026",
+  "name": "City Tri Paderborn",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-31",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Paderborn",
+    "lat": 51.7189,
+    "lng": 8.7575
+  },
+  "websiteUrl": "http://www.city-tri.de/",
+  "description": "Stadttriathlon im Herzen Paderborns, Schwimmen in der 50-m-Halle der Schwimmoper am Maspernplatz, Rad- und Laufkurs auf gesperrten Strecken durch die Innenstadt Ostwestfalens. Organisiert von TRICITY 2001 e.V. mit Sprint- und Volksdistanz.",
+  "distanceKm": 25
+}

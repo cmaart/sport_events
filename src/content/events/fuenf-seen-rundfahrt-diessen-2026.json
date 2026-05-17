@@ -1,0 +1,22 @@
+{
+  "id": "fuenf-seen-rundfahrt-diessen-2026",
+  "name": "Fünf-Seen-Rundfahrt Dießen",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dießen am Ammersee",
+    "lat": 47.9534,
+    "lng": 11.1009
+  },
+  "websiteUrl": "https://radsport-events.de/",
+  "description": "Radtourenfahrt im Fuenfseeenland suedwestlich von Muenchen rund um Ammersee, Starnberger See und weitere bayerische Seen mit Ausblicken auf die Zugspitzregion. Strecken 70/100/150 km durch das Alpenvorland. Genussorientiertes Format ohne Zeitdruck.",
+  "distanceKm": 150
+}

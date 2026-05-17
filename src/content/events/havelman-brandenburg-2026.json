@@ -1,0 +1,23 @@
+{
+  "id": "havelman-brandenburg-2026",
+  "name": "HavelMan Brandenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Brandenburg an der Havel",
+    "lat": 52.408,
+    "lng": 12.5318
+  },
+  "websiteUrl": "https://www.havelman-brandenburg.de/",
+  "description": "Premiere-Triathlon 2026 an der international bekannten Regattastrecke in Brandenburg an der Havel, organisiert vom Havelsport Brandenburg e.V. Olympische Distanz (1.500/40/10 km), Sprint und Einsteigerdistanz. Start ab 10:00 Uhr, Meldeschluss 16. Mai 2026.",
+  "distanceKm": 52
+}
