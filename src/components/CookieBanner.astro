@@ -46,6 +46,20 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
 <script>
   const ADSENSE_CLIENT = 'ca-pub-6061843247884777';
 
+  function signalConsentGranted() {
+    // Google Consent Mode v2: tell Google's ad stack that consent has been
+    // collected externally so Funding Choices (Google's CMP) stays hidden.
+    const w = window as any;
+    if (typeof w.gtag === 'function') {
+      w.gtag('consent', 'update', {
+        ad_storage: 'granted',
+        ad_user_data: 'granted',
+        ad_personalization: 'granted',
+        analytics_storage: 'granted',
+      });
+    }
+  }
+
   function loadGoogleAdSense() {
     if (document.getElementById('adsense-script')) return;
     const s = document.createElement('script');
@@ -64,6 +78,7 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
     const consent = localStorage.getItem('cookie-consent');
 
     if (consent === 'true') {
+      signalConsentGranted();
       loadGoogleAdSense();
     } else if (consent === null) {
       if (banner) {
@@ -86,6 +101,7 @@ const privacyUrl = 'https://endure-cycling.com/privacy';
     if (acceptBtn) {
       acceptBtn.addEventListener('click', () => {
         localStorage.setItem('cookie-consent', 'true');
+        signalConsentGranted();
         loadGoogleAdSense();
         hideBanner();
       });
