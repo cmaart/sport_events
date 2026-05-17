@@ -1,0 +1,21 @@
+{
+  "id": "xterra-austria-2026",
+  "name": "XTERRA Austria",
+  "sport": "triathlon",
+  "categories": ["Cross-Triathlon"],
+  "dates": {
+    "start": "2026-08-28",
+    "end": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Altaussee",
+    "lat": 47.6508,
+    "lng": 13.7685,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-austria",
+  "description": "Teil der XTERRA World Tour im UNESCO-Welterbe Salzkammergut. Schwimmen im Altausseer See, anspruchsvolle Mountainbike- und Laufstrecken durch alpines Gelände zwischen Loser und Trisselwand. Drei Distanzen vom Super-Sprint bis zur Vollendistanz an zwei Wettkampftagen.",
+  "distanceKm": 37,
+  "elevationGainM": 1200
+}

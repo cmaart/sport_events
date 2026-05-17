@@ -1,0 +1,21 @@
+{
+  "id": "grazer-altstadtkriterium-2026",
+  "name": "Grazer Altstadtkriterium",
+  "sport": "cycling",
+  "categories": ["Kriterium"],
+  "dates": {
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Graz, Stadtpark",
+    "lat": 47.0708,
+    "lng": 15.4386,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.altstadtkriterium-graz.at",
+  "description": "Legendäres Radrennen im Herzen der Grazer Altstadt, zwei Tage nach der Tour de France. Der 980-Meter-Rundkurs um die Grazer Altstadt bildet die Bühne für die Road Cycling League Austria mit Profi- und Jedermann-Bewerben.",
+  "distanceKm": 59,
+  "elevationGainM": 900
+}

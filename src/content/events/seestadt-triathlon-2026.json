@@ -1,0 +1,21 @@
+{
+  "id": "seestadt-triathlon-2026",
+  "name": "Seestadt Triathlon Vienna",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "dates": {
+    "start": "2026-06-03",
+    "end": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seestadt Aspern, Wien",
+    "lat": 48.2213,
+    "lng": 16.5073,
+    "region": "Wien"
+  },
+  "websiteUrl": "https://seestadt-triathlon.at",
+  "description": "Stadtnaher Triathlon in der modernen Seestadt Aspern im 22. Wiener Bezirk. Sprint-Triathlon sowie Kinder- und Jugendbewerbe, Aquabike und Staffeln, 2026 auch Austragungsort der Wiener Triathlon-Meisterschaften.",
+  "distanceKm": 24,
+  "elevationGainM": 50
+}

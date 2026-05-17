@@ -1,0 +1,21 @@
+{
+  "id": "gravel-around-salzkammergut-2026",
+  "name": "Gravel Around Salzkammergut",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Georgen im Attergau",
+    "lat": 47.9278,
+    "lng": 13.5025,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.gravelaroundsalzkammergut.at/",
+  "description": "Neues Gravel-Premiumevent im Rahmen des Race Around Austria, limitiert auf rund 300 Teilnehmer. Strecke über Grünberg, Almtal, Bad Ischl, Ausseerland, Hallstätter See, Wolfgangsee und Mondsee durch das UNESCO-Welterbe Salzkammergut. Vollrunde 238 km oder Kurzvariante 180 km.",
+  "distanceKm": 238,
+  "elevationGainM": 4500
+}

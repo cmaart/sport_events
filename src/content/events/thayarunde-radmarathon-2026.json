@@ -1,0 +1,21 @@
+{
+  "id": "thayarunde-radmarathon-2026",
+  "name": "Thayarunde Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waidhofen an der Thaya",
+    "lat": 48.8133,
+    "lng": 15.2839,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.thayarunde.eu/radmarathon/",
+  "description": "Radmarathon im nördlichen Waldviertel und Teil der Austria Top Tour. Hauptrennen über 100 km durch das sanftwellige Thayaland mit 1.200 Höhenmetern am Sonntag um 08:30 Uhr; optional Zeitfahren am Samstag. Start und Ziel am Hauptplatz Waidhofen an der Thaya.",
+  "distanceKm": 100,
+  "elevationGainM": 1200
+}
