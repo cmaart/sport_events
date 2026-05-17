@@ -1,0 +1,24 @@
+{
+  "id": "lew-kuhsee-triathlon-augsburg-2026",
+  "name": "LEW Kuhsee Triathlon Augsburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Augsburg",
+    "lat": 48.3667,
+    "lng": 10.9333
+  },
+  "websiteUrl": "https://lew-kuhseetriathlon.de",
+  "description": "Triathlonevent am Kuhsee in Augsburg, praesentiert von Lechwerke LEW. Sprint und Olympische Distanz mit Schwimmen im Kuhsee, Radstrecke durch den Augsburger Raum und Laufen. Zweitagesveranstaltung in der Fuggerstadt Augsburg mit hohem Zuschauerambiente am belebten Badesee.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}
