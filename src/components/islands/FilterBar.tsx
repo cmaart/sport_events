@@ -1,4 +1,4 @@
-import { useMemo } from 'preact/hooks';
+import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
 import {
   COUNTRIES,
   COUNTRY_LABELS,
@@ -10,6 +10,8 @@ import {
 } from '../../lib/types';
 import { defaultFilters, type Filters } from '../../lib/filters';
 import { t } from '../../lib/i18n';
+
+const COUNTRY_SEARCH_THRESHOLD = 8;
 
 interface Props {
   filters: Filters;
@@ -127,27 +129,11 @@ export default function FilterBar({ filters, onChange, totalCount, filteredCount
         <label class="text-xs font-medium uppercase tracking-wide text-[var(--color-ink-500)] mb-2 block">
           {t('filter.country.label')}
         </label>
-        <div class="grid grid-cols-2 gap-1.5 p-1 bg-[var(--color-ink-100)] rounded-lg">
-          {COUNTRIES.map((c) => {
-            const active = filters.countries.includes(c);
-            return (
-              <button
-                key={c}
-                type="button"
-                onClick={() => toggleCountry(c)}
-                class={`text-sm py-1.5 px-3 rounded-md transition inline-flex items-center justify-center gap-1.5 ${
-                  active
-                    ? 'bg-white shadow-sm font-medium text-[var(--color-ink-900)]'
-                    : 'text-[var(--color-ink-500)] hover:text-[var(--color-ink-900)]'
-                }`}
-                aria-pressed={active}
-              >
-                <span aria-hidden="true">{COUNTRY_LABELS[c].flag}</span>
-                {COUNTRY_LABELS[c].name}
-              </button>
-            );
-          })}
-        </div>
+        <CountryMultiSelect
+          selected={filters.countries}
+          onToggle={toggleCountry}
+          onClear={() => update({ countries: [] })}
+        />
       </div>
 
       <div class="grid grid-cols-2 gap-3">
@@ -189,6 +175,140 @@ export default function FilterBar({ filters, onChange, totalCount, filteredCount
         <span class="font-semibold text-[var(--color-ink-900)]">{filteredCount}</span> / {totalCount}{' '}
         {t('nav.events')}
       </div>
+    </div>
+  );
+}
+
+interface CountryMultiSelectProps {
+  selected: Country[];
+  onToggle: (c: Country) => void;
+  onClear: () => void;
+}
+
+function CountryMultiSelect({ selected, onToggle, onClear }: CountryMultiSelectProps) {
+  const [open, setOpen] = useState(false);
+  const [query, setQuery] = useState('');
+  const containerRef = useRef<HTMLDivElement>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
+  const showSearch = COUNTRIES.length >= COUNTRY_SEARCH_THRESHOLD;
+
+  useEffect(() => {
+    if (!open) return;
+    const onDocMouseDown = (e: MouseEvent) => {
+      if (!containerRef.current?.contains(e.target as Node)) setOpen(false);
+    };
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setOpen(false);
+    };
+    document.addEventListener('mousedown', onDocMouseDown);
+    document.addEventListener('keydown', onKey);
+    if (showSearch) searchInputRef.current?.focus();
+    return () => {
+      document.removeEventListener('mousedown', onDocMouseDown);
+      document.removeEventListener('keydown', onKey);
+    };
+  }, [open, showSearch]);
+
+  useEffect(() => {
+    if (!open) setQuery('');
+  }, [open]);
+
+  const filteredCountries = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    if (!q) return COUNTRIES;
+    return COUNTRIES.filter((c) => COUNTRY_LABELS[c].name.toLowerCase().includes(q));
+  }, [query]);
+
+  const summary =
+    selected.length === 0
+      ? t('filter.country.placeholder')
+      : selected.length === 1
+        ? `${COUNTRY_LABELS[selected[0]].flag} ${COUNTRY_LABELS[selected[0]].name}`
+        : t('filter.country.count', { count: selected.length });
+
+  return (
+    <div class="relative" ref={containerRef}>
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        aria-haspopup="listbox"
+        aria-expanded={open}
+        class="w-full flex items-center justify-between gap-2 px-3 py-2 rounded-lg border border-[var(--color-ink-300)] bg-white text-sm text-left hover:border-[var(--color-brand-500)] focus:border-[var(--color-brand-500)] focus:ring-2 focus:ring-[var(--color-brand-500)]/20 outline-none"
+      >
+        <span class={selected.length === 0 ? 'text-[var(--color-ink-500)]' : 'text-[var(--color-ink-900)]'}>
+          {summary}
+        </span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          class={`w-4 h-4 text-[var(--color-ink-500)] transition-transform ${open ? 'rotate-180' : ''}`}
+          aria-hidden="true"
+        >
+          <path d="M6 9l6 6 6-6" />
+        </svg>
+      </button>
+
+      {open && (
+        <div
+          class="absolute z-20 left-0 right-0 mt-1 rounded-lg border border-[var(--color-ink-200)] bg-white shadow-lg overflow-hidden"
+          role="listbox"
+          aria-multiselectable="true"
+        >
+          {showSearch && (
+            <div class="p-2 border-b border-[var(--color-ink-100)]">
+              <input
+                ref={searchInputRef}
+                type="search"
+                value={query}
+                onInput={(e) => setQuery((e.target as HTMLInputElement).value)}
+                placeholder={t('filter.country.search')}
+                class="w-full px-2.5 py-1.5 rounded-md border border-[var(--color-ink-300)] focus:border-[var(--color-brand-500)] outline-none text-sm"
+              />
+            </div>
+          )}
+          <ul class="max-h-64 overflow-y-auto py-1">
+            {filteredCountries.length === 0 ? (
+              <li class="px-3 py-2 text-sm text-[var(--color-ink-500)]">{t('filter.country.empty')}</li>
+            ) : (
+              filteredCountries.map((c) => {
+                const active = selected.includes(c);
+                return (
+                  <li key={c}>
+                    <label
+                      class="flex items-center gap-2 px-3 py-2 text-sm cursor-pointer hover:bg-[var(--color-ink-100)]"
+                      role="option"
+                      aria-selected={active}
+                    >
+                      <input
+                        type="checkbox"
+                        checked={active}
+                        onChange={() => onToggle(c)}
+                        class="w-4 h-4 rounded border-[var(--color-ink-300)] text-[var(--color-brand-500)]"
+                      />
+                      <span aria-hidden="true">{COUNTRY_LABELS[c].flag}</span>
+                      <span class="text-[var(--color-ink-900)]">{COUNTRY_LABELS[c].name}</span>
+                    </label>
+                  </li>
+                );
+              })
+            )}
+          </ul>
+          {selected.length > 0 && (
+            <div class="p-2 border-t border-[var(--color-ink-100)] flex justify-end">
+              <button
+                type="button"
+                onClick={onClear}
+                class="text-xs text-[var(--color-brand-600)] hover:underline"
+              >
+                {t('filter.country.clear')}
+              </button>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }
