@@ -2,7 +2,11 @@
   "id": "rad-marathon-tannheimer-tal-2026",
   "name": "Rad-Marathon Tannheimer Tal",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Gran Fondo"],
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-05",
     "end": "2026-07-05",
@@ -10,7 +14,7 @@
   },
   "location": {
     "name": "Tannheim",
-    "lat": 47.5030,
+    "lat": 47.503,
     "lng": 10.5151,
     "region": "Tirol"
   },

@@ -2,7 +2,11 @@
   "id": "wachau-radmarathon-2026",
   "name": "Wachau Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Gran Fondo"],
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-12",
     "end": "2026-07-12",

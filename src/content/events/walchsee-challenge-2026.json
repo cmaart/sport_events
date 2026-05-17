@@ -2,7 +2,10 @@
   "id": "walchsee-challenge-2026",
   "name": "Challenge Kaiserwinkl-Walchsee",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-27",
     "end": "2026-06-28",

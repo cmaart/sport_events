@@ -2,7 +2,11 @@
   "id": "schwarzataler-triathlon-2026",
   "name": "Schwarzataler Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-05-24",
     "end": "2026-05-24",

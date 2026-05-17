@@ -2,7 +2,11 @@
   "id": "trumer-triathlon-2026",
   "name": "Trumer Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Mitteldistanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-24",
     "end": "2026-07-26",

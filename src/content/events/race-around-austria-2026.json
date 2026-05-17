@@ -2,7 +2,10 @@
   "id": "race-around-austria-2026",
   "name": "Race Around Austria",
   "sport": "cycling",
-  "categories": ["Etappenrennen"],
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-10",
     "end": "2026-08-16",

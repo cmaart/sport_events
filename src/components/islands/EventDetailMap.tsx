@@ -27,7 +27,7 @@ export default function EventDetailMap({ lat, lng, name, sport, locationName }: 
       attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(map);
 
-    const color = sport === 'cycling' ? '#1c66dd' : '#e9621f';
+    const color = sport === 'cycling' ? '#F05D23' : '#d63c6b';
     const icon = L.divIcon({
       className: '',
       html: `<div style="width:36px;height:36px;border-radius:50%;background:${color};border:3px solid white;box-shadow:0 4px 10px rgba(0,0,0,.25);display:flex;align-items:center;justify-content:center;color:white;font-size:16px;font-weight:700;">${sport === 'cycling' ? '🚴' : '🏊'}</div>`,
@@ -36,7 +36,7 @@ export default function EventDetailMap({ lat, lng, name, sport, locationName }: 
     });
     L.marker([lat, lng], { icon })
       .addTo(map)
-      .bindPopup(`<div style="font-weight:600;margin-bottom:2px;">${name}</div><div style="font-size:12px;color:#5b6781;">${locationName}</div>`)
+      .bindPopup(`<div style="font-weight:600;margin-bottom:2px;">${name}</div><div style="font-size:12px;color:#64748b;">${locationName}</div>`)
       .openPopup();
 
     mapRef.current = map;

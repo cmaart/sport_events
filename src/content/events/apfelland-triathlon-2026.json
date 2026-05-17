@@ -2,7 +2,12 @@
   "id": "apfelland-triathlon-2026",
   "name": "OMNi-BiOTiC Apfelland Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz", "Mitteldistanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-05-15",
     "end": "2026-05-17",

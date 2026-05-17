@@ -2,7 +2,10 @@
   "id": "salzkammergut-trophy-2026",
   "name": "Salzkammergut Trophy",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-17",
     "end": "2026-07-19",

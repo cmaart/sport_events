@@ -2,7 +2,11 @@
   "id": "carinthia200-2026",
   "name": "Carinthia200",
   "sport": "cycling",
-  "categories": ["Gran Fondo", "Radmarathon"],
+  "categories": [
+    "Gran Fondo",
+    "Radmarathon"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-09-20",
     "end": "2026-09-20",

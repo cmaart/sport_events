@@ -2,7 +2,10 @@
   "id": "gravel-around-salzkammergut-2026",
   "name": "Gravel Around Salzkammergut",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-15",
     "end": "2026-08-15",

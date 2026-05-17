@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import EventDetailMap from '../../components/islands/EventDetailMap';
 import { formatDateRange, t } from '../../lib/i18n';
+import { COUNTRY_LABELS } from '../../lib/types';
 
 export async function getStaticPaths() {
   const entries = await getCollection('events');
@@ -20,7 +21,8 @@ const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.dat
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const osmUrl = `https://www.openstreetmap.org/?mlat=${e.location.lat}&mlon=${e.location.lng}#map=13/${e.location.lat}/${e.location.lng}`;
 const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
-const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-orange-100 text-orange-700';
+const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-pink-100 text-pink-700';
+const country = COUNTRY_LABELS[e.country];
 ---
 
 <BaseLayout title={e.name} description={e.description.slice(0, 160)}>
@@ -40,7 +42,9 @@ const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[va
     </div>
 
     <h1 class="text-3xl sm:text-4xl font-bold tracking-tight mb-3">{e.name}</h1>
-    <p class="text-lg text-[var(--color-ink-500)] mb-6">{e.location.name} · {e.location.region}</p>
+    <p class="text-lg text-[var(--color-ink-500)] mb-6">
+      <span aria-hidden="true">{country.flag}</span> {e.location.name}{e.location.region ? ` · ${e.location.region}` : ''}
+    </p>
 
     <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-8">
       <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
@@ -48,8 +52,9 @@ const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[va
         <p class="font-semibold text-sm">{dateLabel}</p>
       </div>
       <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
-        <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.region')}</p>
-        <p class="font-semibold text-sm">{e.location.region}</p>
+        <p class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.country')}</p>
+        <p class="font-semibold text-sm"><span aria-hidden="true">{country.flag}</span> {country.name}</p>
+        {e.location.region && <p class="text-xs text-[var(--color-ink-500)] mt-0.5">{e.location.region}</p>}
       </div>
       {e.distanceKm && (
         <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">

@@ -2,7 +2,11 @@
   "id": "arlberg-giro-2026",
   "name": "Arlberg Giro",
   "sport": "cycling",
-  "categories": ["Gran Fondo", "Berg"],
+  "categories": [
+    "Gran Fondo",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-02",
     "end": "2026-08-02",

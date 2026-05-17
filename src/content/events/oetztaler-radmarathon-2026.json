@@ -2,7 +2,11 @@
   "id": "oetztaler-radmarathon-2026",
   "name": "Ötztaler Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Berg"],
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-30",
     "end": "2026-08-30",

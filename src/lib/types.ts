@@ -33,3 +33,11 @@ export const REGIONS = [
   'Burgenland',
 ] as const;
 export type Region = (typeof REGIONS)[number];
+
+export const COUNTRIES = ['AT', 'DE'] as const;
+export type Country = (typeof COUNTRIES)[number];
+
+export const COUNTRY_LABELS: Record<Country, { name: string; flag: string }> = {
+  AT: { name: 'Österreich', flag: '🇦🇹' },
+  DE: { name: 'Deutschland', flag: '🇩🇪' },
+};

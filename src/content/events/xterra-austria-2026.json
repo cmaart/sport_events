@@ -2,7 +2,10 @@
   "id": "xterra-austria-2026",
   "name": "XTERRA Austria",
   "sport": "triathlon",
-  "categories": ["Cross-Triathlon"],
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-28",
     "end": "2026-08-29",

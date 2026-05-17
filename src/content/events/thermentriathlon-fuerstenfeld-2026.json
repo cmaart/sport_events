@@ -2,7 +2,11 @@
   "id": "thermentriathlon-fuerstenfeld-2026",
   "name": "Thermentriathlon Fürstenfeld",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-05",
     "end": "2026-07-05",

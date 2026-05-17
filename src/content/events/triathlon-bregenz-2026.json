@@ -2,7 +2,10 @@
   "id": "triathlon-bregenz-2026",
   "name": "Triathlon Bregenz",
   "sport": "triathlon",
-  "categories": ["Olympische Distanz"],
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-21",
     "end": "2026-06-21",

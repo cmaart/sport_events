@@ -2,7 +2,10 @@
   "id": "challenge-st-poelten-2026",
   "name": "Challenge St. Pölten",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-05-31",
     "end": "2026-05-31",

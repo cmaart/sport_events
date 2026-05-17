@@ -1,0 +1,22 @@
+{
+  "id": "challenge-roth-2026",
+  "name": "DATEV Challenge Roth",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Roth",
+    "lat": 49.2456,
+    "lng": 11.0902
+  },
+  "websiteUrl": "https://www.challenge-roth.com",
+  "description": "Kultige Langdistanz mit über 5.000 Einzelstartern: 3,8 km Schwimmen im Main-Donau-Kanal, 180 km Rad durch das Fränkische Seenland (zwei Runden über den Solarer Berg), 42,2 km Lauf mit Zieleinlauf im Triathlon-Stadion vor 250.000 Zuschauern.",
+  "distanceKm": 226,
+  "elevationGainM": 1200
+}

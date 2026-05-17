@@ -2,7 +2,10 @@
   "id": "kufsteinerland-radmarathon-2026",
   "name": "Kufsteinerland Radmarathon",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-23",
     "end": "2026-08-23",

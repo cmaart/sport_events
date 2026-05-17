@@ -2,7 +2,10 @@
   "id": "waidhofner-thayatal-triathlon-2026",
   "name": "Waidhofner Thayatal-Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz"],
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-04",
     "end": "2026-06-04",

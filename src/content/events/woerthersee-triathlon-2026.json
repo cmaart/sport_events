@@ -2,7 +2,11 @@
   "id": "woerthersee-triathlon-2026",
   "name": "Wörthersee Triathlon",
   "sport": "triathlon",
-  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-14",
     "end": "2026-06-14",

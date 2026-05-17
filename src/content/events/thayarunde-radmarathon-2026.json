@@ -2,7 +2,10 @@
   "id": "thayarunde-radmarathon-2026",
   "name": "Thayarunde Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-25",
     "end": "2026-07-26",

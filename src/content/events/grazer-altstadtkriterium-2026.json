@@ -2,7 +2,10 @@
   "id": "grazer-altstadtkriterium-2026",
   "name": "Grazer Altstadtkriterium",
   "sport": "cycling",
-  "categories": ["Kriterium"],
+  "categories": [
+    "Kriterium"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-28",
     "end": "2026-07-28",

@@ -2,7 +2,11 @@
   "id": "muerzer-oberland-triathlon-2026",
   "name": "Mürzer Oberland Naturpark Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-27",
     "end": "2026-06-27",

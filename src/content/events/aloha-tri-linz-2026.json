@@ -2,7 +2,10 @@
   "id": "aloha-tri-linz-2026",
   "name": "ALOHA Tri Linz",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz"],
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-05",
     "end": "2026-07-05",

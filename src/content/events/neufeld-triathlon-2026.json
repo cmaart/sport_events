@@ -2,7 +2,11 @@
   "id": "neufeld-triathlon-2026",
   "name": "Neufeld Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-06-20",
     "end": "2026-06-21",

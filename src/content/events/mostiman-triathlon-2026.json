@@ -2,7 +2,11 @@
   "id": "mostiman-triathlon-2026",
   "name": "Mostiman Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz", "Olympische Distanz"],
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-07-11",
     "end": "2026-07-11",

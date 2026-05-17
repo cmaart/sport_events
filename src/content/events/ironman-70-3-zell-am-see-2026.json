@@ -2,7 +2,10 @@
   "id": "ironman-70-3-zell-am-see-2026",
   "name": "Ironman 70.3 Zell am See-Kaprun",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
   "dates": {
     "start": "2026-08-30",
     "end": "2026-08-30",

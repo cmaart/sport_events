@@ -1,0 +1,22 @@
+{
+  "id": "cyclassics-hamburg-2026",
+  "name": "EuroEyes Cyclassics Hamburg",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  "websiteUrl": "https://www.cyclassics-hamburg.de",
+  "description": "Deutschlands größtes Jedermann-Radrennen mit über 20.000 Teilnehmer:innen. Drei Distanzen (60, 100, 160 km) führen durch die Hamburger City und das umliegende Norddeutschland. Zieleinlauf an der Binnenalster. Termin 2026 noch nicht offiziell bestätigt – traditionell am letzten August-Sonntag.",
+  "distanceKm": 160,
+  "elevationGainM": 600
+}
