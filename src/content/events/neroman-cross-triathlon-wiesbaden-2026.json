@@ -1,0 +1,22 @@
+{
+  "id": "neroman-cross-triathlon-wiesbaden-2026",
+  "name": "Neroman Cross-Triathlon Wiesbaden",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wiesbaden",
+    "lat": 50.0910,
+    "lng": 8.2376
+  },
+  "websiteUrl": "https://www.lcolympia.de",
+  "description": "28. Auflage des Neroman Cross-Triathlons am Neroberg in Wiesbaden: 500 m Schwimmen im Nerobergbad, 20 km Mountainbike-Strecke ueber den bewaldeten Neroberg, 5 km Gelandelauf. Rund 220 Teilnehmer in entspannter Vereinsatmosphaere vom LC Olympia Wiesbaden. Einzigartiger Cross-Triathlon in der hessischen Landeshauptstadt.",
+  "distanceKm": 26
+}

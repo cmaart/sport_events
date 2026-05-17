@@ -1,0 +1,24 @@
+{
+  "id": "bergkaiser-radmarathon-kematen-2026",
+  "name": "Bergkaiser Radmarathon Kematen",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kematen in Tirol",
+    "lat": 47.2571,
+    "lng": 11.2295,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.bergkaiser.at",
+  "description": "Radmarathon im Inntal bei Innsbruck mit Start in Kematen in Tirol und anspruchsvollen Bergwertungen durch die Tiroler Voralpen. Mehrere Streckenvarianten durch das Inntal und die umliegenden Bergtaeler. Typisches Hochsommerrennen mit Alpenkulisse und den Nordketten-Bergen als Hintergrund.",
+  "distanceKm": 155,
+  "elevationGainM": 3000
+}
