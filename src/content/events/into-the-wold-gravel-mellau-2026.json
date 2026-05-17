@@ -1,0 +1,24 @@
+{
+  "id": "into-the-wold-gravel-mellau-2026",
+  "name": "into the wold Gravel Festival Mellau",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-02",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mellau",
+    "lat": 47.3581,
+    "lng": 9.8828,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://bregenzerwald.at/gravel",
+  "description": "Gravel-Festival im Bregenzerwald in Vorarlberg mit Streckenvarianten bis hin zu einer neuen Ultra-Distanz (300 km). Schotterrouten durch das alpine Bregenzerwald-Tal mit malerischen Alpen-Panorama. Mehrtaegige Veranstaltung mit Gravel-Community-Feeling inmitten der Vorarlberger Bergwelt.",
+  "distanceKm": 300,
+  "elevationGainM": 6000
+}

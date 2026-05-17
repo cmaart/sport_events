@@ -1,0 +1,24 @@
+{
+  "id": "bonn-triathlon-2026",
+  "name": "RYZON Bonn Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bonn",
+    "lat": 50.7374,
+    "lng": 7.0982
+  },
+  "websiteUrl": "https://bonn-triathlon.de",
+  "description": "Stadtrand-Triathlon in der ehemaligen Bundeshauptstadt Bonn am Rhein mit Schwimmen im Rhein bzw. Auensee, Radstrecke durch das Bonner Umland und Laufkurs entlang des Rheinufers. Praesentiert von RYZON, mehrere Distanzoptionen fuer alle Niveaus. Attraktive Rheinkulisse im Herzen der Stadt.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

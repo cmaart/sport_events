@@ -1,0 +1,24 @@
+{
+  "id": "dresdner-otterspiele-triathlon-2026",
+  "name": "Dresdner Otterspiele Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dresden",
+    "lat": 51.0504,
+    "lng": 13.7373
+  },
+  "websiteUrl": "https://triathlon-dresden.de",
+  "description": "Triathlonevent in der Saechsischen Landeshauptstadt Dresden mit Schwimmen in einem Dresdner Naturbadegewaesser, Radstrecke durch das Elbtal und Laufkurs. Olympische und Sprint-Distanz mit der Silhouette der Dresdner Altstadt als malerischer Hintergrund. Populaeres Sommerevent in der Barock-Residenzstadt.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hannover-triathlon-maschsee-2026",
+  "name": "Hannover Triathlon am Maschsee",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hannover",
+    "lat": 52.3587,
+    "lng": 9.7367
+  },
+  "websiteUrl": "https://triathlon-hannover.de",
+  "description": "Stadtrand-Triathlon in der niedersaechsischen Landeshauptstadt am Maschsee, dem kuenstlichen Freizeitsee im Herzen Hannovers. Olympische und Sprint-Distanz mit Schwimmen im Maschsee, Radkurs durch Hannover und Laufstrecke am Seeufer. Attraktives Stadttriathlon-Event mit grosser Zuschauerkulisse.",
+  "distanceKm": 52,
+  "elevationGainM": 200
+}

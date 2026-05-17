@@ -1,0 +1,23 @@
+{
+  "id": "bonnet-radmarathon-wenigumstadt-2026",
+  "name": "Bonnet Radmarathon Wenigumstadt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-31",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wenigumstadt",
+    "lat": 49.8567,
+    "lng": 9.0822
+  },
+  "websiteUrl": "https://rsv-wenigumstadt.de",
+  "description": "Radmarathon im Odenwald nahe Aschaffenburg mit 214 km Laenge und 2.490 m Hoehengewinn. Strecke fuehrt durch die bewaldeten Huegel des Odenwalds und das Maintal in Nordbayern/Hessen. Traditionsveranstaltung des RSV Wenigumstadt mit langjaehrigem Vereinscharakter.",
+  "distanceKm": 214,
+  "elevationGainM": 2490
+}

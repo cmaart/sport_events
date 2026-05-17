@@ -1,0 +1,24 @@
+{
+  "id": "bielefelder-triathlon-2026",
+  "name": "Bielefelder Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bielefeld",
+    "lat": 52.0302,
+    "lng": 8.5325
+  },
+  "websiteUrl": "https://triathlon-bielefeld.de",
+  "description": "30. Bielefelder Triathlon mit Schwimmen im 50-m-Freibad Senner Waldbad, Radstrecke durch das Bielefelder Umland und Laufkurs. Jubilaeum der Nordrhein-Westfaelischen Vereinsveranstaltung in der Ostwestfalen-Lippe-Region. Traditionsevent mit langjaehriger Geschichte.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

@@ -1,0 +1,23 @@
+{
+  "id": "heidelberg-triathlon-2026",
+  "name": "Heidelberg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heidelberg",
+    "lat": 49.3988,
+    "lng": 8.6724
+  },
+  "websiteUrl": "https://heidelberg-triathlon.de",
+  "description": "Triathlonevent in der Universitaetsstadt Heidelberg am Neckar mit 1,6 km Schwimmen, 36 km Radstrecke und 10 km Laufen. Einer der schoensten Stadttriathlons suedwestdeutschlands mit Schloss und Altstadt-Kulisse. Attraktiver Naturkurs durch die Heidelberger Umgebung.",
+  "distanceKm": 48,
+  "elevationGainM": 400
+}

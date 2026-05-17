@@ -1,0 +1,24 @@
+{
+  "id": "datagroup-triathlon-nuernberg-2026",
+  "name": "DATAGROUP Triathlon Nürnberg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-09",
+    "end": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nürnberg",
+    "lat": 49.4521,
+    "lng": 11.0767
+  },
+  "websiteUrl": "https://finishers.com/event/datagroup-triathlon-nurnberg",
+  "description": "Triathlon in der Frankenmetropole Nuernberg mit Sprint- und Olympischer Distanz sowie Para-Cup und Staffelwettbewerben. Praesentiert von DATAGROUP, Schwimmen in einem der Nuernberger Badeseen. Stadtnaher Triathlon mit grossem Zuschauerambiente und gutem Anreiseangebot per OEPNV.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

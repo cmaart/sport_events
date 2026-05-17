@@ -1,0 +1,24 @@
+{
+  "id": "leipziger-triathlon-2026",
+  "name": "Leipziger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.3397,
+    "lng": 12.3730
+  },
+  "websiteUrl": "https://leipziger-triathlon.de",
+  "description": "43. Ausgabe des Leipziger Triathlons, einer der laengsten laufenden Triathlon-Veranstaltungen Mitteldeutschlands. Olympische Distanz (1.500 m / 40 km / 10 km) und Fitness-Triathlon in Leipzig mit Schwimmen in einem Baggersee. Familienaeres Vereinsevent in der Musikstadt Leipzig.",
+  "distanceKm": 52,
+  "elevationGainM": 200
+}

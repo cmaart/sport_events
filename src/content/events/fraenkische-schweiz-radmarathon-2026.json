@@ -1,0 +1,23 @@
+{
+  "id": "fraenkische-schweiz-radmarathon-2026",
+  "name": "Fränkische Schweiz Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-01",
+    "end": "2026-06-01",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Ebermannstadt",
+    "lat": 49.7774,
+    "lng": 11.1761
+  },
+  "websiteUrl": "https://www.radsport-news.com/kalender/kalender_5412.htm",
+  "description": "Radmarathon durch die landschaftlich reizvolle Fraenkische Schweiz nahe Erlangen/Nuernberg mit drei Streckenvarianten: 30 km, 93 km und 163 km. Typische Kalksteinfelsen, Hoehlen und Flusslandschaften der Fraenkischen Schweiz praesentiert auf abwechslungsreichen Radrouten. Bitte Veranstalterdatum 2026 pruefen.",
+  "distanceKm": 163,
+  "elevationGainM": 2500
+}

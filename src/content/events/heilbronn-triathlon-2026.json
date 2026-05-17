@@ -1,0 +1,25 @@
+{
+  "id": "heilbronn-triathlon-2026",
+  "name": "VR Bank Triathlon Heilbronn",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heilbronn",
+    "lat": 49.1427,
+    "lng": 9.2109
+  },
+  "websiteUrl": "https://finishers.com/event/vr-bank-triathlon-heilbronn",
+  "description": "Grosstadttriathlon in Heilbronn am Neckar (fruehers Challenge Heilbronn) mit Sprint-, Kurz- und Mitteldistanz. Praesentiert von VR Bank, Schwimmen im Neckarsee oder Heilbronner Badesee, Radstrecke durch die Weinberge des Unterlands und Laufkurs entlang des Neckars. Attraktiver Weinregion-Triathlon in Nordbaden.",
+  "distanceKm": 113,
+  "elevationGainM": 600
+}

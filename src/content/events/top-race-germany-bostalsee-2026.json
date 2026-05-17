@@ -1,0 +1,24 @@
+{
+  "id": "top-race-germany-bostalsee-2026",
+  "name": "Top Race Germany – Bostalsee",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nohfelden",
+    "lat": 49.5894,
+    "lng": 7.1493
+  },
+  "websiteUrl": "https://topracegermany.de",
+  "description": "Triathlonevent am Bostalsee im Saarland, einem der groessten Freizeitseen Suedwestdeutschlands. Olympische Distanz (1,5 km / 36,4 km / 10 km) und Jedermann (300 m / 14,4 km / 5 km) mit rund 600 Teilnehmenden. Idyllische Seenlandschaft im Saarpfaelzischen Bergland als Kulisse.",
+  "distanceKm": 48,
+  "elevationGainM": 400
+}

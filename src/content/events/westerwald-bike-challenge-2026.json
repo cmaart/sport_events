@@ -1,0 +1,23 @@
+{
+  "id": "westerwald-bike-challenge-2026",
+  "name": "Westerwald Bike Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Buchholz",
+    "lat": 50.6311,
+    "lng": 7.6128
+  },
+  "websiteUrl": "https://radsport-events.de",
+  "description": "Radmarathon im Westerwald in Rheinland-Pfalz mit Streckenvarianten von 52 bis 203 km durch das gruene Mittelgebirge des Westerwaldes. Typische Westerwaelder Kuppe-und-Tal-Landschaft auf anspruchsvollen Routen zwischen Rhein und Sieg. Vereinsveranstaltung mit familiaerer Atmosphaere.",
+  "distanceKm": 203,
+  "elevationGainM": 3500
+}

@@ -1,0 +1,24 @@
+{
+  "id": "silvretta-classic-radmarathon-2026",
+  "name": "Silvretta Classic Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schruns",
+    "lat": 47.0769,
+    "lng": 9.9136,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://silvretta-bielerhoehe.at/silvretta-classic",
+  "description": "Radmarathon im Montafon in Vorarlberg rund um das Silvretta-Massiv mit Start in Schruns. Strecke ueber die Silvretta-Hochalpenstrasse (Bielerhöhe, 2.037 m) und weitere Alpenpässe durch das Dreilaendereck Vorarlberg-Tirol-Schweiz. Einer der hochalpinsten Radmarathons Oesterreichs mit mehrtaegiger Etappenvariante.",
+  "distanceKm": 160,
+  "elevationGainM": 4500
+}
