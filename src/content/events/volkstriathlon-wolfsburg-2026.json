@@ -1,0 +1,22 @@
+{
+  "id": "volkstriathlon-wolfsburg-2026",
+  "name": "Volkstriathlon Wolfsburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-16",
+    "end": "2026-08-16",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Wolfsburg",
+    "lat": 52.4281,
+    "lng": 10.7800
+  },
+  "websiteUrl": "https://vfl-wob.de/sports/ausdauersport/triathlon",
+  "description": "Volkstriathlon Wolfsburg im Allerpark, einer der traditionsreichsten Triathlons in Niedersachsen. Sprintdistanz: 600 m Schwimmen im Allersee, 21 km Radfahren, 5,5 km Laufen. Veranstaltet vom VfL Wolfsburg e.V., Datum für 2026 noch nicht offiziell bestätigt.",
+  "distanceKm": 27
+}

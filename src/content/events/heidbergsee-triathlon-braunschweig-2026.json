@@ -1,0 +1,22 @@
+{
+  "id": "heidbergsee-triathlon-braunschweig-2026",
+  "name": "Heidbergsee Triathlon Braunschweig",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Braunschweig",
+    "lat": 52.2535,
+    "lng": 10.5511
+  },
+  "websiteUrl": "https://triathlon-team-bs.de/heidbergsee-triathlon/",
+  "description": "Sprint-Triathlon des Triathlon Team Braunschweig am Heidbergsee / Raffteichbad im Süden Braunschweigs. Familiäre Atmosphäre mit Sprint-Distanz (600 m Schwimmen / 20 km Radfahren / 5 km Laufen) in Niedersachsen. Anmeldung über die Vereinshomepage.",
+  "distanceKm": 26
+}

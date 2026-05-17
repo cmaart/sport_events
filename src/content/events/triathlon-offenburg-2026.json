@@ -1,0 +1,23 @@
+{
+  "id": "triathlon-offenburg-2026",
+  "name": "Triathlon Offenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-16",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Offenburg",
+    "lat": 48.4735,
+    "lng": 7.9402
+  },
+  "websiteUrl": "https://triathlon-offenburg.de",
+  "description": "Zweitägiger Triathlon am Gifizsee Offenburg im Ortenaukreis, einem naturnahen See am Stadtrand. Olympische Distanz und Sprintdistanz mit Kinder- und Jugendkategorien am Wochenende. Die Radstrecke führt durch die Rheinebene und das Vorland des Schwarzwaldes.",
+  "distanceKm": 52
+}

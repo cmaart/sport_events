@@ -1,0 +1,23 @@
+{
+  "id": "rvc-across-valleys-koblenz-2026",
+  "name": "RVC Across Valleys",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Koblenz",
+    "lat": 50.3569,
+    "lng": 7.5890
+  },
+  "websiteUrl": "https://shop.raceveloclub.cc/pages/rvc-across-valleys",
+  "description": "Gran-Fondo-Ausfahrt des Race Velo Club mit Start am Canyon-Hauptquartier in Koblenz durch die schönsten Täler und Hügel rund um Koblenz und das Mittelrheintal. Drei Routen: 60 km / 500 Hm, 90 km / 1.200 Hm und 120 km / 2.000 Hm. Begleitend Canyon Showroom-Öffnung und Radmarken-Expo.",
+  "distanceKm": 120,
+  "elevationGainM": 2000
+}

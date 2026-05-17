@@ -1,0 +1,25 @@
+{
+  "id": "wipfel-trophy-knittelfeld-2026",
+  "name": "Wipfel Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Knittelfeld",
+    "lat": 47.2183,
+    "lng": 14.8283,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_event.php?id=503",
+  "description": "Saisonauftakt der Top Six Mountainbike Trophy in der steirischen Murtal-Region rund um Rachau und St. Margarethen bei Knittelfeld. Drei Strecken: 23 km / 1.017 Hm, 47 km / 2.034 Hm und 71 km / 3.051 Hm durch alpine Wälder und Almgebiete der Steiermark.",
+  "distanceKm": 71,
+  "elevationGainM": 3051
+}

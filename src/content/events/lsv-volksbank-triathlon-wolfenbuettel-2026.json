@@ -1,0 +1,24 @@
+{
+  "id": "lsv-volksbank-triathlon-wolfenbuettel-2026",
+  "name": "LSV-Volksbank Triathlon Wolfenbüttel",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wolfenbüttel",
+    "lat": 52.1639,
+    "lng": 10.5381
+  },
+  "websiteUrl": "https://lsv-triathlon.de",
+  "description": "28. LSV-Volksbank Triathlon in Wolfenbüttel, Niedersachsen. Sprint- und Olympische Distanz in der Fachwerkstadt zwischen Harz und Heide. Start 11:00 Uhr, Wettkampf bis ca. 15:30 Uhr, veranstaltet vom Lindener Sportverein von 1921 e.V. Klassiker im Triathlon-Verband Niedersachsen.",
+  "distanceKm": 52,
+  "elevationGainM": 200
+}

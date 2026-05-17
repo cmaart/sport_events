@@ -1,0 +1,23 @@
+{
+  "id": "hansbergland-cross-triathlon-2026",
+  "name": "Hansbergland Cross",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sankt Veit im Mühlkreis",
+    "lat": 48.3697,
+    "lng": 13.9661,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://seefest.info/cross/",
+  "description": "9. Hansbergland Cross Triathlon im Mühlviertel (Oberösterreich) in idyllischer Seenlandschaft. Cross-Triathlon mit Schwimmen im Naturgewässer, Mountainbike-Strecke und Trailrunning. Zusätzlich Bike & Run und Grisu-Kinderlauf für den Nachwuchs.",
+  "distanceKm": 30
+}
