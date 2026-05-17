@@ -1,23 +1,44 @@
 ---
 import { t } from '../lib/i18n';
+import { getCollection } from 'astro:content';
+
 const base = import.meta.env.BASE_URL;
+const events = await getCollection('events');
+const count = events.length;
 ---
 
-<header class="sticky top-0 z-40 backdrop-blur bg-white/85 border-b border-[var(--color-ink-100)]">
-  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-    <a href={base} class="flex items-center gap-2 font-semibold text-lg tracking-tight">
-      <span class="inline-flex w-9 h-9 items-center justify-center rounded-xl bg-[var(--color-brand-500)] text-white">
+<header class="sticky top-0 z-40 backdrop-blur-xl bg-white/75 border-b border-[var(--color-ink-100)]/80">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
+    <a href={base} class="flex items-center gap-2.5 group">
+      <span class="relative inline-flex w-9 h-9 items-center justify-center rounded-xl bg-gradient-to-br from-[var(--color-brand-500)] to-[var(--color-brand-700)] text-white shadow-md shadow-[var(--color-brand-500)]/25 transition group-hover:scale-105 group-hover:shadow-lg">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><circle cx="6" cy="15" r="4"/><circle cx="18" cy="15" r="4"/><path d="m6 15 4-8h4l4 8"/><path d="M10 7h4"/></svg>
       </span>
-      <span class="hidden sm:inline">{t('site.title')}</span>
-      <span class="sm:hidden">Sportevents AT</span>
+      <span class="flex flex-col leading-none">
+        <span class="font-semibold tracking-tight text-[15px] text-[var(--color-ink-900)]">Sportevents <span class="text-[var(--color-brand-600)]">AT</span></span>
+        <span class="text-[11px] text-[var(--color-ink-500)] mt-0.5 tracking-wide uppercase">Saison 2026</span>
+      </span>
     </a>
-    <nav class="flex items-center gap-1 sm:gap-3 text-sm">
-      <a href={base} class="px-3 py-2 rounded-lg hover:bg-[var(--color-ink-100)] transition">{t('nav.events')}</a>
-      <a href="https://github.com/cmaart/sport_events" target="_blank" rel="noreferrer" class="px-3 py-2 rounded-lg hover:bg-[var(--color-ink-100)] transition inline-flex items-center gap-1.5">
+
+    <nav class="flex items-center gap-1.5 sm:gap-3 text-sm">
+      <span class="hidden md:inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-ink-100)] text-[var(--color-ink-700)] font-medium text-xs">
+        <span class="relative flex w-1.5 h-1.5">
+          <span class="absolute inline-flex w-full h-full rounded-full bg-[var(--color-brand-500)] opacity-60 animate-ping"></span>
+          <span class="relative inline-flex w-1.5 h-1.5 rounded-full bg-[var(--color-brand-500)]"></span>
+        </span>
+        {t('header.events', { count })}
+      </span>
+
+      <a href="https://github.com/cmaart/sport_events#event-hinzufügen" target="_blank" rel="noreferrer"
+        class="hidden sm:inline-flex px-3.5 py-1.5 rounded-full text-xs font-medium text-[var(--color-ink-700)] hover:text-[var(--color-brand-700)] hover:bg-[var(--color-brand-100)] transition">
+        {t('header.cta')}
+      </a>
+
+      <a href="https://github.com/cmaart/sport_events" target="_blank" rel="noreferrer"
+        class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full hover:bg-[var(--color-ink-100)] text-[var(--color-ink-700)] transition"
+        aria-label="GitHub">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4"><path d="M12 .5C5.7.5.5 5.7.5 12.1c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.7 1.3 3.4 1 .1-.7.4-1.3.7-1.6-2.5-.3-5.2-1.3-5.2-5.7 0-1.3.4-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.3 1.2.9-.3 2-.4 3-.4 1 0 2.1.1 3 .4 2.3-1.6 3.3-1.2 3.3-1.2.7 1.6.2 2.9.1 3.1.7.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.6-1.5 7.9-5.8 7.9-10.9C23.5 5.7 18.3.5 12 .5z"/></svg>
-        <span class="hidden sm:inline">GitHub</span>
       </a>
     </nav>
   </div>
+  <div class="h-px bg-gradient-to-r from-transparent via-[var(--color-brand-500)]/20 to-transparent"></div>
 </header>
