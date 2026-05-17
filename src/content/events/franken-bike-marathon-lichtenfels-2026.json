@@ -1,0 +1,23 @@
+{
+  "id": "franken-bike-marathon-lichtenfels-2026",
+  "name": "Franken-Bike-Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lichtenfels",
+    "lat": 50.1439,
+    "lng": 11.1373
+  },
+  "websiteUrl": "https://www.frankenbikemarathon.de",
+  "description": "Laut Bike-Magazin einer der 10 schoensten MTB-Marathons Europas in Oberfranken. Langstrecke 90 km / 2.350 Hm kombiniert technisches Gelaende mit Flow-Sektionen durch die Fraenkische Schweiz. Kurzstrecke 20 km / 400 Hm und Mittelstrecke 50 km / 1.400 Hm mit E-Bike-Wertung.",
+  "distanceKm": 90,
+  "elevationGainM": 2350
+}

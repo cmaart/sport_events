@@ -1,0 +1,22 @@
+{
+  "id": "rostocker-jedermann-radrennen-2026",
+  "name": "Rostocker Jedermann-Radrennen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-04-19",
+    "end": "2026-04-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rostock",
+    "lat": 54.1087,
+    "lng": 12.2044
+  },
+  "websiteUrl": "https://www.jedermann-radrennen.de/rostock",
+  "description": "Jedermann-Radrennen am Ostseepark Lambrechtshagen bei Rostock auf geschuetzten Regionalstrassen durch das mecklenburgische Flachland. Bis zu 500 Teilnehmer auf 45 und 70 km, Streckenabsicherung durch Feuerwehr und Polizei. Fruehjahrssaisonstart im April.",
+  "distanceKm": 70
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rhoen300-schondra-2026",
+  "name": "RHOEN 300",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schondra",
+    "lat": 50.2633,
+    "lng": 9.8747
+  },
+  "websiteUrl": "https://www.rhoen300.de",
+  "description": "10. Jubilaeumsauflage des RHOEN 300 durch das Land der offenen Fernen - Strecken queren die hessische, bayerische und thueringische Rhoen. Erstmals zwei Gravel-Routen (70 und 100 km mit ca. 2.000 Hm) neben den Rennradstrecken 100-300 km. Start ab 6 Uhr in Schondra an der Rhoen-Grenze.",
+  "distanceKm": 300
+}

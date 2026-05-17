@@ -1,0 +1,24 @@
+{
+  "id": "marathon-ibbenbueren-2026",
+  "name": "Marathon Ibbenbüren",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ibbenbüren",
+    "lat": 52.2736,
+    "lng": 7.7239
+  },
+  "websiteUrl": "https://www.marathon-ibbenbueren.de",
+  "description": "Radmarathon durch die Tecklenburger Hoehenlagen und das suedliche Muensterland: Langstrecke 203 km / 2.050 Hm sowie kuerzere Varianten 43-153 km. Erstmals mit Gravelgrinder-Varianten auf unbefestigten Strecken (44-114 km). Ohne Vereinszugehoerigkeit startbar.",
+  "distanceKm": 203,
+  "elevationGainM": 2050
+}
