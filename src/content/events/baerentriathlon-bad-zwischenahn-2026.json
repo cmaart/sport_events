@@ -1,0 +1,23 @@
+{
+  "id": "baerentriathlon-bad-zwischenahn-2026",
+  "name": "Oldenburger Bärentriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Zwischenahn",
+    "lat": 53.19,
+    "lng": 8.0
+  },
+  "websiteUrl": "https://die-baeren.org/",
+  "description": "33. Baerentriathlon am Zwischenahner Meer im Freiluftbad Bad Zwischenahn, Schwimmen im klaren Moorsee und Radstrecke durch das Ammerland im Nordwesten Niedersachsens. Kinder-Swim & Run am Samstag, Triathlon am Sonntag. Organisiert vom 1. TC Oldenburg Die Baeren.",
+  "distanceKm": 52
+}

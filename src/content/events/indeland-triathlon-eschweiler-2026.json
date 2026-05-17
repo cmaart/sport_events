@@ -1,0 +1,24 @@
+{
+  "id": "indeland-triathlon-eschweiler-2026",
+  "name": "indeland-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eschweiler",
+    "lat": 50.82,
+    "lng": 6.32
+  },
+  "websiteUrl": "https://www.indeland-triathlon.de/",
+  "description": "19. indeland-Triathlon vom Blausteinsee in Eschweiler durch die Tagebaulandschaft der Region Aachen-Duerenin bis zum Roemerpark Aldenhoven. Radstrecke fuehrt einzigartig durch den aktiven Tagebau Inden. Mitteldistanz (1,9/88/20 km), Olympische und Volksdistanz.",
+  "distanceKm": 110
+}

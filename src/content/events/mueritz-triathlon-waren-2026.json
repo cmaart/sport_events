@@ -1,0 +1,23 @@
+{
+  "id": "mueritz-triathlon-waren-2026",
+  "name": "Müritz-Triathlon Waren",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waren (Müritz)",
+    "lat": 53.52,
+    "lng": 12.68
+  },
+  "websiteUrl": "https://mueritzsportclub.de/mueritz-triathlon/",
+  "description": "40. Jubilaeumsauflage des Mueritz-Triathlons, einer der aeltesten Triathlonveranstaltungen Mecklenburg-Vorpommerns. Schwimmen im kristallklaren Binnensee der Mueritz, Radstrecke durch den Mueritz-Nationalpark. Mitteldistanz (2/80/20 km) als Norddeutsche Meisterschaft 2026.",
+  "distanceKm": 102
+}

@@ -1,0 +1,22 @@
+{
+  "id": "schweriner-jedermann-2026",
+  "name": "Schweriner Jedermann-Radrennen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schwerin",
+    "lat": 53.6357,
+    "lng": 11.415
+  },
+  "websiteUrl": "https://www.jedermann-radrennen.de/schwerin",
+  "description": "11. Schweriner Jedermann-Renntag vom historischen Marstall durch die Lewitz und am Aussenssee entlang. Zwei Renndistanzen: AOK-Fitnessrunde (50 km) und Sparkassenrennen (90 km) mit Flugstart auf der Crivitzer Chaussee. Zieldurchfahrt ueber den Paulsdamm mit Schlosssicht.",
+  "distanceKm": 90
+}

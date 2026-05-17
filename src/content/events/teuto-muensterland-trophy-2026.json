@@ -1,0 +1,22 @@
+{
+  "id": "teuto-muensterland-trophy-2026",
+  "name": "Teuto Münsterland Trophy Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ibbenbüren",
+    "lat": 52.2736,
+    "lng": 7.7239
+  },
+  "websiteUrl": "https://eveeno.com/178057381",
+  "description": "Neues Radmarathon-Format, das Ibbenbuerenin im Tecklenburger Land mit Warendorf im Muensterland verbindet: 150 km und 240 km mit sechs Verpflegungsstationen auf der Langdistanz. Gleichzeitiger Start von beiden Orten, Teilnehmerzahl auf 500 begrenzt.",
+  "distanceKm": 240
+}

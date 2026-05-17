@@ -1,0 +1,23 @@
+{
+  "id": "ruegen-rund-tour-2026",
+  "name": "Rügen Rund Tour",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sellin",
+    "lat": 54.3697,
+    "lng": 13.6828
+  },
+  "websiteUrl": "https://ketterechts.eu",
+  "description": "Touristischer Radmarathon um die Ostseeinsel Ruegen, 4. Auflage: 86 km / 540 Hm fuer Einsteiger oder 244 km / 1.050 Hm fuer die vollstaendige Inselumrundung. Start und Ziel am Boddenhafen in Sellin, Finishermedaille fuer alle, die die 244-km-Runde bis 22 Uhr schaffen. Start der Langstrecke um 6:30 Uhr.",
+  "distanceKm": 244,
+  "elevationGainM": 1050
+}

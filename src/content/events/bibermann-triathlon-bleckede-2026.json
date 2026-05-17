@@ -1,0 +1,23 @@
+{
+  "id": "bibermann-triathlon-bleckede-2026",
+  "name": "Sparkassen-Bibermann-Triathlon Bleckede",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bleckede",
+    "lat": 53.3,
+    "lng": 10.73
+  },
+  "websiteUrl": "https://www.rsc-lueneburg.de/bibermann-triathlon/",
+  "description": "14. Bibermann-Triathlon des RSC Lueneburg an der Elbe in Bleckede (Landkreis Lueneburg), Schwimmen im Elbwasser, Radstrecke durch die flache Elbmarsch. Nordeutsches Kultrennen am ersten Septembersonntag mit familiaerer Atmosphaere. Olympisch (1,5/38/10 km) und Sprint.",
+  "distanceKm": 50
+}

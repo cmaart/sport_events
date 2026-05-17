@@ -1,0 +1,23 @@
+{
+  "id": "burgwald-triathlon-bottendorf-2026",
+  "name": "Burgwald-Triathlon Bottendorf",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bottendorf",
+    "lat": 51.01,
+    "lng": 8.88
+  },
+  "websiteUrl": "http://www.burgwald-triathlon.de/",
+  "description": "17. Burgwald-Triathlon am Bottendorfer See inmitten des hessischen Burgwalds, einem der groessten zusammenhaengenden Mischwaeldler Deutschlands. Olympische und Sprintdistanz am Nemphestadion, fester Bestandteil des TVH-Ligakalenders. Organisiert vom TSV 09 Bottendorf.",
+  "distanceKm": 52
+}

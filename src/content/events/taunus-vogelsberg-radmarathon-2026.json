@@ -1,0 +1,23 @@
+{
+  "id": "taunus-vogelsberg-radmarathon-2026",
+  "name": "Taunus-Vogelsberg Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-25",
+    "end": "2026-05-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oppershofen",
+    "lat": 50.4003,
+    "lng": 8.8267
+  },
+  "websiteUrl": "http://www.rsv-oppershofen.de",
+  "description": "Hessischer Eintagesklassiker seit 1999: Die Koenigsstrecke (220 km / 3.000+ Hm) ueberwindet den Feldberg im Taunus und den Hoherodskopf im Vogelsberg. Kuerzere RTF-Strecken 42-140 km laden auch Freizeitfahrer ein. Start im Wetteraukreis am Pfingstmontag.",
+  "distanceKm": 220,
+  "elevationGainM": 3000
+}

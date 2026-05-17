@@ -1,0 +1,22 @@
+{
+  "id": "abraxas-triathlon-aachen-2026",
+  "name": "ABRAXAS-Triathlon Aachen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aachen",
+    "lat": 50.73,
+    "lng": 6.18
+  },
+  "websiteUrl": "https://brander-sv.de/triathlon/abraxas-triathlon/",
+  "description": "Traditionsreicher Breitensport-Triathlon des Brander Schwimmvereins in Aachen-Brand mit Sprint- und Super-Sprintdistanz sowie umfangreichen Jugend- und Kinderkategorien. DTU-anerkannte Veranstaltung in familienfreundlicher Atmosphaere.",
+  "distanceKm": 27
+}

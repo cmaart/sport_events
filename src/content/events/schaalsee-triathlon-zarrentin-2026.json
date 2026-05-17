@@ -1,0 +1,23 @@
+{
+  "id": "schaalsee-triathlon-zarrentin-2026",
+  "name": "Schaalsee-Triathlon Zarrentin",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zarrentin am Schaalsee",
+    "lat": 53.54,
+    "lng": 10.9
+  },
+  "websiteUrl": "https://triathlon-mv.de/events/empor-triathlon-zarrentin-schaalsee/",
+  "description": "Triathlon am UNESCO-Biosphaerensreservat Schaalsee, einem der saubersten Binnenseen Deutschlands. Olympische Distanz 2026 als Mecklenburg-Vorpommern Landesmeisterschaft; Sprint und Supersprint als weitere Kategorien. Sommer-Event in idyllischer Seenlandschaft nahe Hamburg.",
+  "distanceKm": 52
+}
