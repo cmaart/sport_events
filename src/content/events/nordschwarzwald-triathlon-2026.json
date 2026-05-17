@@ -1,0 +1,24 @@
+{
+  "id": "nordschwarzwald-triathlon-2026",
+  "name": "Nordschwarzwald Triathlon Nagold – DM Langdistanz",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nagold",
+    "lat": 48.5529,
+    "lng": 8.7261
+  },
+  "websiteUrl": "https://nordschwarzwald-triathlon.de",
+  "description": "Deutsche Meisterschaft Langdistanz (Elite & Altersklassen) in Nagold im noerdlichen Schwarzwald: 3,8 km Schwimmen im Nagoldsee, 180 km Radstrecke durch den Schwarzwald, 42,2 km Laufen. Zweitages-Event mit Mittel- und Langdistanz. Nationaler Titelkampf in atemberaubender Schwarzwaldkulisse.",
+  "distanceKm": 226,
+  "elevationGainM": 3500
+}

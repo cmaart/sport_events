@@ -1,0 +1,23 @@
+{
+  "id": "viking-triathlon-schleswig-2026",
+  "name": "Viking Triathlon Schleswig – Deutsche Meisterschaft Mitteldistanz",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schleswig",
+    "lat": 54.5144,
+    "lng": 9.5703
+  },
+  "websiteUrl": "https://viking-triathlon.de",
+  "description": "Deutsche Meisterschaft Mitteldistanz (Elite & Altersklassen) im Rahmen des Viking Triathlons in Schleswig: 1,9 km Schwimmen in der Schlei, 90 km Radstrecke durch Schleswig-Holstein, 21,1 km Laufen. Rund 850 Teilnehmende. Prestigetraechtigstes Mitteldistanz-Rennen Deutschlands.",
+  "distanceKm": 113,
+  "elevationGainM": 600
+}
