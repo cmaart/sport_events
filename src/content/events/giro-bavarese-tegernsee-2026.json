@@ -1,0 +1,23 @@
+{
+  "id": "giro-bavarese-tegernsee-2026",
+  "name": "Giro Bavarese",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tegernsee",
+    "lat": 47.7100,
+    "lng": 11.7550
+  },
+  "websiteUrl": "https://www.giro-bavarese.de",
+  "description": "Granfondo auf historischen Rennrädern rund um den Tegernsee im bayerischen Voralpenland. Drei Strecken über 45 km, 65 km und 100 km führen durch die Alpenkulisse zwischen Tegernsee, Schliersee und Leitzachtal. Dresscode: Vintage-Rennrad und klassische Radkleidung. Zweitägige Veranstaltung mit Zeitfahren am Samstag und Granfondo am Sonntag.",
+  "distanceKm": 100,
+  "elevationGainM": 1800
+}

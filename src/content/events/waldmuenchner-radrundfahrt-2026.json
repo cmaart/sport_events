@@ -1,0 +1,24 @@
+{
+  "id": "waldmuenchner-radrundfahrt-2026",
+  "name": "Waldmünchner Radrundfahrt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waldmünchen",
+    "lat": 49.3833,
+    "lng": 12.7182
+  },
+  "websiteUrl": "https://waldmuenchner-radrundfahrt.de",
+  "description": "16. Waldmünchner Radrundfahrt im Oberpfälzer Wald, Bayerischer Wald. Neun Strecken für Rennrad, Gravel und MTB von 40 bis 206 km (Trenck-Radmarathon) mit bis zu 2.950 Hm. Start 07:00 Uhr am Marktplatz Waldmünchen, Strecken führen durch den Oberpfälzer Wald bis an die tschechische Grenze.",
+  "distanceKm": 206,
+  "elevationGainM": 2950
+}

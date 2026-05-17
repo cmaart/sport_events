@@ -1,0 +1,24 @@
+{
+  "id": "ostalb-giro-aalen-2026",
+  "name": "Ostalb Giro",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aalen",
+    "lat": 48.8380,
+    "lng": 10.0934
+  },
+  "websiteUrl": "https://www.ostalb-giro.de",
+  "description": "Radmarathon durch den Ostalbkreis auf der Schwäbischen Alb, Start und Ziel in Aalen. Fünf Strecken von 30 km (Family Tour) bis 235 km (Gran Fondo) mit neuen Strecken und höheren Höhenmetern 2026. Die Routen führen durch Ellwangen, Lauchheim und Neresheim mit Panoramablicken auf die Schwäbische Alb.",
+  "distanceKm": 235,
+  "elevationGainM": 2800
+}

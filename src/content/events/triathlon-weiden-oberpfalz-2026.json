@@ -1,0 +1,23 @@
+{
+  "id": "triathlon-weiden-oberpfalz-2026",
+  "name": "Triathlon Weiden",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weiden in der Oberpfalz",
+    "lat": 49.6771,
+    "lng": 12.1627
+  },
+  "websiteUrl": "https://www.ausdauerakademie.de/events/triathlon-weiden",
+  "description": "Klassiker in der Oberpfalz am Schätzlerbad Weiden, der die Ligasaison des Bayerischen Triathlon-Verbandes eröffnet. Drei Kategorien: Supersprint (200 m / 9 km / 2,3 km), Sprint (500 m / 18 km / 4,5 km) und Olympische Distanz (1,5 km / 36 km / 9 km). Start um ca. 12:00 Uhr.",
+  "distanceKm": 47
+}

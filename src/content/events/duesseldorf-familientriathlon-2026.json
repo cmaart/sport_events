@@ -1,0 +1,22 @@
+{
+  "id": "duesseldorf-familientriathlon-2026",
+  "name": "Stadtwerke Düsseldorf Familientriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Düsseldorf",
+    "lat": 51.2328,
+    "lng": 6.7346
+  },
+  "websiteUrl": "https://swd-familientriathlon.de",
+  "description": "14. Stadtwerke Düsseldorf Familientriathlon am Strandbad Lörick im Rheinpark. Familientriathlon, Kinder- und Jugendtriathlon sowie Aquathlon auf der Veranstaltung für alle Generationen. Schwimmen im Rhein, Start ab 10:00 Uhr am Niederkasseler Deich, Anmeldeschluss 3. Juli 2026.",
+  "distanceKm": 30
+}

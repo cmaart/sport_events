@@ -1,0 +1,24 @@
+{
+  "id": "beast-of-bramsche-2026",
+  "name": "Beast of Bramsche",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bramsche",
+    "lat": 52.4057,
+    "lng": 7.9704
+  },
+  "websiteUrl": "https://beastofbramsche.de",
+  "description": "Epischer Radmarathon im Brevet-Modus durch den Landkreis Osnabrück in Niedersachsen. Das Beast: 240 km mit 2.400 Hm über 24 anspruchsvolle Anstiege von Bramsche in den Südkreis und zurück. Das Little Beast: 120 km / 1.200 Hm. Klassiker-Potenzial mit stimmungsvollem Start in Bramsche.",
+  "distanceKm": 240,
+  "elevationGainM": 2400
+}

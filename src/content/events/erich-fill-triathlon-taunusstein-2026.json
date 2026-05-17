@@ -1,0 +1,23 @@
+{
+  "id": "erich-fill-triathlon-taunusstein-2026",
+  "name": "Erich-Fill-Triathlon Taunusstein",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Taunusstein",
+    "lat": 50.1418,
+    "lng": 8.1583
+  },
+  "websiteUrl": "https://erich-fill-triathlon.de",
+  "description": "38. Erich-Fill-Triathlon in Taunusstein im Taunus, veranstaltet von der TSG Limbach. Zwei Distanzen: Sprint (0,5 km / 20 km / 5 km) und Olympisch (1 km / 40 km / 10 km). Schwimmen im 50-m-Freibad Taunusstein. Meldeschluss 31. Mai 2026, Anmeldung ausschließlich online über Baer-Service.",
+  "distanceKm": 51
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mussbach-triathlon-neustadt-weinstrasse-2026",
+  "name": "Mußbach-Triathlon Neustadt an der Weinstraße",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neustadt an der Weinstraße",
+    "lat": 49.3558,
+    "lng": 8.1736
+  },
+  "websiteUrl": "https://www.triafreunde.com/triathlon/deutschland/rheinland-pfalz",
+  "description": "Sprint-Triathlon im Weingebiet der Deutschen Weinstraße im Ortsteil Mußbach der Stadt Neustadt an der Weinstraße. Die Radstrecke führt durch die malerischen Weinberge der Pfalz. Lokales Event mit familiärem Charakter in der Rheinpfalz.",
+  "distanceKm": 26
+}

@@ -1,0 +1,23 @@
+{
+  "id": "maincitytriathlon-schweinfurt-2026",
+  "name": "Deutsche Dienstrad MainCityTriathlon Schweinfurt",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-17",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schweinfurt",
+    "lat": 50.0489,
+    "lng": 10.2338
+  },
+  "websiteUrl": "https://laufen-triathlon.de/maincitytriathlon/",
+  "description": "Stadttriathlon in Schweinfurt am Baggersee mit Schwimmen im Natursee, Radkurs durch die Mainmetropole und Laufen entlang des Mains. Sprint- und Olympische Distanz, veranstaltet von der TG 48 Schweinfurt. Teil des MainCity-Weekends mit AOK-MainCityRun am Samstag.",
+  "distanceKm": 52
+}

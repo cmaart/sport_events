@@ -1,0 +1,24 @@
+{
+  "id": "heidemarathon-isernhagen-2026",
+  "name": "Heidemarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Isernhagen",
+    "lat": 52.4727,
+    "lng": 9.8715
+  },
+  "websiteUrl": "https://radsportverband-niedersachsen.de",
+  "description": "31. Heidemarathon in Isernhagen, Niedersachsen, durch die Lüneburger Heide nördlich von Hannover. Fünf Strecken von 52 bis 214 km durch Heide und Moorlandschaften der Region Hannover. Veranstaltet vom Radsportverband Niedersachsen, DTU-Breitensport-Veranstaltung.",
+  "distanceKm": 214,
+  "elevationGainM": 800
+}

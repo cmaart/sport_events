@@ -1,0 +1,25 @@
+{
+  "id": "niederrhein-triathlon-kalkar-2026",
+  "name": "Herbrand Niederrhein Triathlon N3T",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kalkar",
+    "lat": 51.7408,
+    "lng": 6.3071
+  },
+  "websiteUrl": "https://www.niederrhein-triathlon.de",
+  "description": "8. Herbrand Niederrhein Triathlon N3T am Wisseler See in Kalkar am Niederrhein. Neue N3T-Distanz (1,5 km / 76 km / 10 km), Olympische und Sprintdistanz. Schwimmen im Wisseler See, Radkurs durch die flache niederrheinische Landschaft, veranstaltet vom TriFUN Kleve e.V. Anmeldeschluss 21. Juni 2026.",
+  "distanceKm": 88,
+  "elevationGainM": 200
+}

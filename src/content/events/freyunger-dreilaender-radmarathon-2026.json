@@ -1,0 +1,24 @@
+{
+  "id": "freyunger-dreilaender-radmarathon-2026",
+  "name": "Freyunger Dreiländer Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freyung",
+    "lat": 48.8051,
+    "lng": 13.5433
+  },
+  "websiteUrl": "https://www.rc-freyung.de",
+  "description": "Radmarathon durch drei Länder: Deutschland, Tschechien und Österreich im Bayerischen Wald. Fünf Strecken von 40 bis 205 km mit Start und Ziel am Schulzentrum Freyung. Der Dreiländermarathon (205 km) berührt spektakuläre Waldlandschaften im niederbayerischen Grenzgebiet. Veranstaltet vom Radsportclub Freyung e.V.",
+  "distanceKm": 205,
+  "elevationGainM": 2800
+}

@@ -1,0 +1,26 @@
+{
+  "id": "steinfurter-volksbank-triathlon-2026",
+  "name": "Steinfurter Volksbank Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Steinfurt",
+    "lat": 52.1495,
+    "lng": 7.3356
+  },
+  "websiteUrl": "https://triteam-steinfurt.de/triathlon/",
+  "registrationUrl": "https://portal.run-timing.de/922/registration",
+  "description": "15. Steinfurter Volksbank Triathlon am Freibad Burgsteinfurt im Münsterland, NRW. Vier Distanzen: Volksdistanz (500 m / 20 km / 5 km), Olympische Distanz (1 km / 40 km / 10 km), Mitteldistanz (2 km / 80 km / 20 km) und Staffel. DTU-Wettkampf im Münsterland, veranstaltet vom Tri-Team Steinfurt.",
+  "distanceKm": 131,
+  "elevationGainM": 500
+}
