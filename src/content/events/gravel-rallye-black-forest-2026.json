@@ -1,0 +1,23 @@
+{
+  "id": "gravel-rallye-black-forest-2026",
+  "name": "Gravel Rallye Black Forest",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-17",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feldberg",
+    "lat": 47.8733,
+    "lng": 8.0186
+  },
+  "websiteUrl": "https://gravel-rallye.com/black-forest",
+  "description": "Dreitagiges Gravel-Rallye-Event rund um den Feldberg im suedlichen Schwarzwald mit Base-Camp in Altglashueetten. Freitag-Abenteuer-Overnight-Route sowie Samstag Qualifier-Rallye durch die typischen Schwarzwaldlandschaften auf Forstwegen und Schotterpisten. Verbindung aus Wettkampf und Bikepacking-Erlebnis.",
+  "distanceKm": 180,
+  "elevationGainM": 5000
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hungerburg-classic-innsbruck-2026",
+  "name": "Hungerburg Classic Bergrennen",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-04-18",
+    "end": "2026-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Innsbruck",
+    "lat": 47.2692,
+    "lng": 11.4041,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.innsbrucker-schwalben.at/hungerburg-classic",
+  "description": "Eines der aeltesten Bergrennen Oesterreichs seit 1931, organisiert vom Radsportverein Innsbrucker Schwalben. Bergzeitfahren zur Hungerburg (Innsbrucker Bergbahn-Station) mit 3,5 km Streckenlänge und 250 m Hoehengewinn. Historisches Radrennen mit Tradition als Saisonoeffner im Tiroler Radsportkalender.",
+  "distanceKm": 4,
+  "elevationGainM": 250
+}

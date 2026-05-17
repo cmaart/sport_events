@@ -1,0 +1,22 @@
+{
+  "id": "ostsee-triathlon-dierhagen-2026",
+  "name": "Ostsee Triathlon Dierhagen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dierhagen",
+    "lat": 54.2716,
+    "lng": 12.5153
+  },
+  "websiteUrl": "https://finishers.com/event/ostsee-triathlon-dierhagen",
+  "description": "Abendtriathlon an der mecklenburgischen Ostseekueste im Ostseebad Dierhagen mit Startschuss um 18 Uhr. Sprintdistanz: 750 m Schwimmen in der Ostsee, 20 km Radstrecke, 5 km Laufen. Atmosphaerisches Kuesten-Event mit Nordseekulisse und besonderer Stimmung beim Abendrennformat.",
+  "distanceKm": 26
+}

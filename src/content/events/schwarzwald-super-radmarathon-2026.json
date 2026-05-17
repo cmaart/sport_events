@@ -1,0 +1,23 @@
+{
+  "id": "schwarzwald-super-radmarathon-2026",
+  "name": "Schwarzwald Super! Rennradmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-09",
+    "end": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Münstertal",
+    "lat": 47.9164,
+    "lng": 7.7829
+  },
+  "websiteUrl": "https://schwarzwald-super.de",
+  "description": "Rennradmarathon im suedlichen Schwarzwald startend in Muenstertal mit anspruchsvollen Paessen durch das Hochschwarzwald-Massiv. Strecken fuehren ueber bekannte Schwarzwaldpaesse mit erheblichen Hoehenprofilen. Beeindruckende Landschaft zwischen Freiburg und dem Dreilaendereck Deutschland-Frankreich-Schweiz.",
+  "distanceKm": 160,
+  "elevationGainM": 4000
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cyclodome-salzburg-2026",
+  "name": "Cyclodome Salzburg",
+  "sport": "cycling",
+  "categories": [
+    "Kriterium"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-10",
+    "end": "2026-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salzburg",
+    "lat": 47.8002,
+    "lng": 13.0449,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.cyclodome.at",
+  "description": "Radrennen-Criterium im Herzen der Salzburger Altstadt (UNESCO-Weltkulturerbe) ueber einen Innenstadtkurs. Elite-Rennen fuer Damen und Herren sowie Jedermann-Rennen. Einzigartiger Stadtkurs durch die Barockarchitektur Salzburgs mit der Festung Hohensalzburg als Kulisse.",
+  "distanceKm": 70
+}

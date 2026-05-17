@@ -1,0 +1,24 @@
+{
+  "id": "pama-energie-gravel-2026",
+  "name": "Pama Energie Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-31",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pama",
+    "lat": 47.9817,
+    "lng": 17.0333,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.computerauswertung.at/veranstaltung.php?V_ID=260531",
+  "description": "Gravel-Event im noerdlichen Burgenland rund um den Nationalpark Neusiedlersee mit flachen Schotterrouten durch Weinberge und Auenlandschaften. Zwei Streckenvarianten (44 km und 88 km) sowie eine E-Bike-Variante. Ideales Fruehjahrs-Gravelrennen in der pannonischen Tiefebene mit einzigartiger Schilflandschaft.",
+  "distanceKm": 88,
+  "elevationGainM": 400
+}

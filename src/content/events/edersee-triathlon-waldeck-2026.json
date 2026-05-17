@@ -1,0 +1,24 @@
+{
+  "id": "edersee-triathlon-waldeck-2026",
+  "name": "Waldecker Edersee-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waldeck",
+    "lat": 51.1982,
+    "lng": 9.0641
+  },
+  "websiteUrl": "https://edersee-triathlon.de",
+  "description": "41. Ausgabe des Waldecker Edersee-Triathlons am malerischen Edersee in Nordhessen. Sprint- und Olympische Distanz mit Schwimmen im Edersee, Radstrecke mit 307 m Hoehenunterschied durch den Nordhessischen Wald und Laufkurs. Einer der aeltesten und beliebtesten Triathlons in Hessen mit familiaerem Charakter.",
+  "distanceKm": 52,
+  "elevationGainM": 500
+}

@@ -1,0 +1,23 @@
+{
+  "id": "schwarzwald-ultra-radmarathon-2026",
+  "name": "Schwarzwald Ultra Radmarathon (SURM)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-20",
+    "end": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alpirsbach",
+    "lat": 48.3454,
+    "lng": 8.4135
+  },
+  "websiteUrl": "https://www.surm.de",
+  "description": "Radmarathon im mittleren Schwarzwald startend in Alpirsbach mit drei Streckenvarianten: 82 km, 147 km und 230 km. Die langen Strecken ueberqueren die Kammhoehen des Schwarzwaldes mit erheblichem Hoehengewinn. Herbstliches Foliage und frische Temperaturen praegen dieses anspruchsvolle Radmarathon-Event.",
+  "distanceKm": 230,
+  "elevationGainM": 4500
+}

@@ -1,0 +1,23 @@
+{
+  "id": "allgaeu-gravel-rallye-pfronten-2026",
+  "name": "Allgäu Gravel Rallye Pfronten",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pfronten",
+    "lat": 47.5764,
+    "lng": 10.5453
+  },
+  "websiteUrl": "https://www.cycloworld.cc/gran-fondo/germany/allgau-gravel-rallye-pfronten",
+  "description": "Gravel-Event im bayerisch-allgaeuer Alpenvorland rund um das Walsertal-Gebiet bei Pfronten im Ostallgaeu. Unbefestigte Waldwege und Schotterpisten durch die suedlichsten Alpenauslaeufern Bayerns nahe der oesterreichischen Grenze. Spektakulaere Bergkulisse mit Zugspitzmassiv und den Ammergauer Alpen als Kulisse.",
+  "distanceKm": 80,
+  "elevationGainM": 1800
+}
