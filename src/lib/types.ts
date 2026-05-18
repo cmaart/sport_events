@@ -9,6 +9,7 @@ export const CYCLING_CATEGORIES = [
   'Rundstreckenrennen',
   'Etappenrennen',
   'Berg',
+  'Zeitfahren',
 ] as const;
 
 export const TRIATHLON_CATEGORIES = [

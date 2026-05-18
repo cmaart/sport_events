@@ -1,0 +1,20 @@
+{
+  "id": "schleck-gran-fondo-luxembourg-2026",
+  "name": "Schleck Gran Fondo Luxembourg",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "LU",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mondorf-les-Bains",
+    "lat": 49.5054,
+    "lng": 6.2786
+  },
+  "websiteUrl": "https://ucigranfondoworldseries.com/en/",
+  "description": "Schleck Gran Fondo Luxembourg – UCI Gran Fondo World Series Qualifikationsrennen in Luxemburg, benannt nach den luxemburgischen Radprofis Frank und Andy Schleck: Anspruchsvolle Strecke durch die Ardennen und das Luxemburger Weinland rund um Mondorf-les-Bains, dem einzigen luxemburgischen Badeort.",
+  "distanceKm": 130,
+  "elevationGainM": 2000
+}

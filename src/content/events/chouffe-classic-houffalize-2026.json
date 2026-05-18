@@ -1,0 +1,20 @@
+{
+  "id": "chouffe-classic-houffalize-2026",
+  "name": "La Chouffe Classic",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "BE",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Houffalize",
+    "lat": 50.1303,
+    "lng": 5.7886
+  },
+  "websiteUrl": "https://www.lachouffe.be/",
+  "description": "La Chouffe Classic – beliebte belgische Granfondo in den Ardennen rund um Houffalize, benannt nach dem berühmten belgischen Bier: Drei Strecken 153 km, 115 km und 94 km durch das hügelige Ardennenland mit anspruchsvollen Anstiegen. Start und Ziel in Houffalize (Provinz Luxemburg, Wallonie).",
+  "distanceKm": 153,
+  "elevationGainM": 2800
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ironman-703-aix-en-provence-2026",
+  "name": "IRONMAN 70.3 Aix-en-Provence",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aix-en-Provence",
+    "lat": 43.5297,
+    "lng": 5.4474
+  },
+  "websiteUrl": "https://www.ironman.com/im703-aix-en-provence",
+  "description": "IRONMAN 70.3 Aix-en-Provence – 15. Ausgabe als Stop der IRONMAN Pro Series (Preispool 50.000 USD): 1,9 km Schwimmen im Lac de Peyrolles (20 km nördlich von Aix), 90 km Rad durch die technischen Straßen des Mont Sainte-Victoire mit provenzalischem Landschaftspanorama, 21,1 km Lauf in drei Runden durch die Altstadt von Aix-en-Provence mit Zieleinlauf auf dem Cours Mirabeau.",
+  "distanceKm": 113,
+  "elevationGainM": 1200
+}

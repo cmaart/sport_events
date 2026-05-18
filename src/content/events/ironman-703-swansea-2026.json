@@ -1,0 +1,20 @@
+{
+  "id": "ironman-703-swansea-2026",
+  "name": "IRONMAN 70.3 Swansea",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Swansea",
+    "lat": 51.6214,
+    "lng": -3.9436
+  },
+  "websiteUrl": "https://www.ironman.com/im703-swansea",
+  "description": "IRONMAN 70.3 Swansea – IRONMAN Pro Series Stop in Südwales: 1,9 km Schwimmen im Prince of Wales Dock, 90 km Radkurs in einer Runde durch die walisische Landschaft, 21,1 km Zweischleifenlauf durch die Küstenstadt Swansea. Erster IRONMAN Pro Series Stop im Vereinigten Königreich.",
+  "distanceKm": 113,
+  "elevationGainM": 900
+}

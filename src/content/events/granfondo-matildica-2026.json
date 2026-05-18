@@ -1,0 +1,20 @@
+{
+  "id": "granfondo-matildica-2026",
+  "name": "Granfondo Matildica",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Reggio Emilia",
+    "lat": 44.6985,
+    "lng": 10.6294
+  },
+  "websiteUrl": "https://www.granfondomatildica.it/",
+  "description": "Granfondo Matildica – 54. Ausgabe des traditionsreichen Granfondos in der Emilia-Romagna, benannt nach der Gräfin Mathilde von Tuszien. UCI Gran Fondo World Series Qualifikationsrennen für die WM 2027. Strecke durch die sanften Hügel und Weinberge rund um Reggio Emilia, bekannt für ihre Parmigiano Reggiano und Lambrusco-Produktion.",
+  "distanceKm": 140,
+  "elevationGainM": 2200
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mallorca-312-2026",
+  "name": "Mallorca 312 OK Mobility Gran Fondo",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Playa de Muro",
+    "lat": 39.8041,
+    "lng": 3.1233
+  },
+  "websiteUrl": "https://www.mallorca312.com",
+  "description": "Mallorca 312 – eines der beliebtesten Granfondos Europas auf gesperrten Straßen durch die Tramuntana-Berge (UNESCO-Welterbe): Hauptstrecke 312 km (4.200 Hm), Alternativstrecken 225 km und 167 km. Start und Ziel in Playa de Muro. 8.500 Startplätze werden per Online-Vergabe vergeben und sind jährlich in Minuten ausgebucht. Ausgezeichnete Verpflegungsstationen.",
+  "distanceKm": 312,
+  "elevationGainM": 4200
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gfny-bremen-2026",
+  "name": "GFNY Bremen",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bremen",
+    "lat": 53.0793,
+    "lng": 8.8017
+  },
+  "websiteUrl": "https://bremen.gfny.com/",
+  "description": "GFNY Bremen – Erster GFNY Gran Fondo in Norddeutschland: Start und Ziel im Tabakquartier in der Hansestadt Bremen. Zwei Strecken: 110 km mit Altersklassenranking oder 60 km Genussvariante durch das ruhige ländliche Umland Bremens. Teil der weltweiten GFNY-Serie.",
+  "distanceKm": 110,
+  "elevationGainM": 400
+}
