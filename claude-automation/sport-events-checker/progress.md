@@ -1,50 +1,79 @@
 # Sport Events Checker – Session Progress
 
-## Session date: 2026-05-18 (Session 2)
+## Session date: 2026-05-18 (Session 3)
 
 ## Current state (after this session – FINAL):
-- **Total events: 482** (453 base + 29 net new this session)
-- Triathlon: ~265, Cycling: ~217
+- **Total events: 510** (482 base + 30 net new this session)
+- Triathlon: ~270, Cycling: ~240
 - Countries: DE, AT, IT, FR, ES, GB, BE, CH, PL, NO, SE, NL, HR, DK, CZ, EE, LU, SK, PT, GR, FI, BG, SI, RS, HU
-- Build: 483 pages (482 events + 1 index) — sitemap auto-generated
+- Build: 511 pages (510 events + 1 index) — sitemap auto-generated
 
-## Changes made this session (Session 2):
+## Changes made this session (Session 3):
 
-### Updated events (5):
-- challenge-almere-amsterdam: end date corrected to 2026-09-13
-- salzkammergut-trophy: date corrected to 2026-07-18 (single day per official website)
-- t100-triathlon-french-riviera: end date 2026-09-20 added
-- neuseenman-ferropolis: description fixed (curly quote issue)
+### Removed events (2):
+- velo-grand-prix-meiningen-2026: date unverifiable (not listed on organizer site gutelaunesport.de)
+- uci-granfondo-suisse-2026: duplicate of the-majestics-villars-2026 (same event in Villars-sur-Ollon)
 
-### New events added (9):
+### New events added (32 gross → 30 net after 2 removals):
 
 #### Triathlon:
-- neuseenman-ferropolis-2026 (DE, May 29-31, Sprint/OD/MD at Ferropolis)
-- berlin-wo-man-2026 (DE, Sep 5-6, Mitteldistanz at Wannsee)
-- t100-triathlon-london-2026 (GB, Jul 25-26, T100/OD/Sprint)
-- islandman-norderney-2026 (DE, Sep 5, OD/Sprint at Nordsee island)
+- ironman-703-wm-nice-2026 (FR, Sep 12-13, Mitteldistanz WM, Nice)
+- knappenman-triathlon-lohsa-2026 (DE, Aug 29-30, Lang/Mittel/OD/Sprint, Lohsa)
+- wtcs-alghero-2026 (IT, Jun 5-6, Olympische Distanz, Alghero/Sardinien)
+- wtcs-quiberon-2026 (FR, Jun 19-21, Olympische Distanz, Quiberon/Bretagne)
+- wtcs-karlovy-vary-2026 (CZ, Sep 13, Olympische Distanz, Karlovy Vary)
+- wtcf-pontevedra-2026 (ES, Sep 23-27, Sprint+OD WM-Finals, Pontevedra)
 
-#### Cycling:
-- tour-de-mur-lungau-2026 (AT, Jun 4-6, Radmarathon/Etappenrennen, 334km, Lungau)
-- granfondo-nordeifel-euskirchen-2026 (DE, May 30, Gran Fondo, 210km)
-- tecklenburger-hoehen-ibbenbueren-2026 (DE, May 30, Radmarathon, 203km)
-- nibelungen-dirty-palatinate-worms-2026 (DE, May 30, Gravel, 200km)
-- durch-davert-und-venne-herbern-2026 (DE, Jun 4, Radmarathon, 210km)
+#### Cycling (AT):
+- moerbischer-zeitfahren-2026 (Apr 18, Zeitfahren, Mörbisch)
+- hochkar-bergrennen-lassing-2026 (May 25, Berg, Lassing/Hochkar)
+- leithaberg-radmarathon-purbach-2026 (Jun 7, Radmarathon, Purbach)
+- kapfensteiner-benefiz-radmarathon-2026 (Jun 21, Radmarathon, Kapfenstein)
+- nassfeld-rad-classic-bergrennen-2026 (Jul 4, Berg, Nassfeld/Kärnten)
+- sauwaldgiro-st-roman-2026 (Aug 30, Radmarathon, St. Roman)
+- kaerntner-rad-bergkoenig-kraig-2026 (Sep 5, Berg, Kraig/Kärnten)
+- city-hill-climb-salzburg-2026 (Sep 12, Berg 900m/120Hm, Salzburg-Festung)
+- kindberger-bergrennen-2026 (May 16, ÖM-Berg 9.3km, Kindberg/Steiermark)
+- rad-am-salzburgring-2026 (Aug 2, Zeitfahren+Radmarathon, Salzburgring)
+- zillertaler-bergmeisterschaft-2026 (May 30, Berg ~6km, Zell am Ziller/Tirol)
+- arboe-bergpreis-afritz-verditz-2026 (Aug 30, Berg ~10km, Afritz am See/Kärnten)
+- scheibbser-bergwertung-blassenstein-2026 (May 23, Berg 4.7km/500Hm, Scheibbs/NÖ)
+
+#### Cycling (DE):
+- neuseen-classics-radmarathon-leipzig-2026 (Jun 7, Radmarathon+Gravel, Leipzig)
+- odenwald-epic-heidelberg-2026 (Jun 13, Radmarathon, Heidelberg)
+- tour-de-barock-bad-schussenried-2026 (Jul 12, Radmarathon, Bad Schussenried)
+- flugfeld-giro-boeblingen-2026 (Jul 12, Gran Fondo, Böblingen)
+- eroica-germania-eltville-2026 (Aug 20-22, Gran Fondo, Eltville/Rheingau)
+- weser-elbe-radmarathon-buxtehude-2026 (Sep 12, Radmarathon, Buxtehude)
+- rennsteig-gravel-oberhof-2026 (Sep 12, Gravel, Oberhof/Thüringen)
+- regensburger-welt-kult-tour-2026 (Sep 13, Radmarathon, Regensburg)
+- jonastaler-challenge-arnstadt-2026 (Jun 6, Zeitfahren 26.4km, Arnstadt/Thüringen)
+- lausitz-marathon-zeitfahren-klettwitz-2026 (May 16, Zeitfahren 17.4km, Lausitzring)
+- altmark-zeitfahren-seehausen-2026 (Apr 26, Zeitfahren 52km, Seehausen/Sachsen-Anhalt)
 
 ## Coverage status:
 - Ironman 70.3 Europe: comprehensive (30+ events)
 - Ironman full distance Europe: comprehensive (15+ events)
-- Challenge Family Europe: comprehensive (15+ events)
+- Challenge Family Europe: comprehensive (all 17 European races)
 - T100 World Tour Europe: complete (Pamplona, London, French Riviera)
+- WTCS (World Triathlon Championship Series): complete (Alghero, Quiberon, Karlovy Vary, Pontevedra Finals)
 - XTERRA Europe: comprehensive (9 events)
 - German triathlon: very comprehensive (100+ events)
 - Austrian triathlon: very comprehensive (30+ events)
-- German cycling: comprehensive (100+ events)
-- Austrian cycling: comprehensive (30+ events)
+- German cycling: comprehensive (100+ events, incl. Zeitfahren from Baranski calendar)
+- Austrian cycling: comprehensive (35+ events, incl. Berg/Zeitfahren)
 - European cycling (IT, FR, ES, BE, CH, etc.): good coverage
+- Swiss cycling: Gran Fondo events covered (The Majestics / Alpenbrevet)
+
+## SEO check:
+- index.astro: JSON-LD dynamically computed from collection (no hardcoded counts) ✓
+- [slug].astro: SportsEvent + BreadcrumbList structured data, all dynamic ✓
+- Sitemap: auto-generated by @astrojs/sitemap ✓
+- Duplicate removed: uci-granfondo-suisse = the-majestics-villars (same event)
 
 ## Source reliability reminder:
 - DO NOT use prommer.net
-- Trusted: official race sites, DTU, ÖTRV, BDR, UCI, ITU/World Triathlon, ironman.com, challenge-family.com, t100triathlon.com
+- Trusted: official race sites, DTU, ÖTRV, BDR, UCI, ITU/World Triathlon, ironman.com, challenge-family.com, t100triathlon.com, events.triathlon.org, cyclingaustria.at, derbaranski.de
 - CycloWorld calendar (cycloworld.cc) used for cycling events as secondary source
 - Triathlon Austria (triathlon-austria.at) used for Austrian triathlon events
