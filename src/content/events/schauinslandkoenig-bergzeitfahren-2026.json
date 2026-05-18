@@ -1,0 +1,23 @@
+{
+  "id": "schauinslandkoenig-bergzeitfahren-2026",
+  "name": "Schauinslandkönig Bergzeitfahren",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freiburg im Breisgau",
+    "lat": 47.9410,
+    "lng": 7.8313
+  },
+  "websiteUrl": "https://www.schauinslandkoenig.de",
+  "description": "Deutschlands größtes Bergzeitfahren auf den Freiburger Hausberg Schauinsland. Einzelstarts alle 12 Sekunden auf komplett gesperrter Strecke.\n\nStart an der L 124 Schauinslandstraße bei Bohrer/Horben, Ziel an der Bergstation der Schauinslandbahn. 11,5 km mit 770 Höhenmetern.",
+  "distanceKm": 11.5,
+  "elevationGainM": 770
+}
