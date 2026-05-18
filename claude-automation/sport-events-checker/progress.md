@@ -2,10 +2,13 @@
 
 ## Session date: 2026-05-18
 
-## Current state (after commits through 95a8b3b):
-- **Total events: 439** (392 base + 47 new this session)
-- Triathlon: 248, Cycling: 191
-- Countries: AT:85, DE:232, IT:26, FR:21, ES:18, GB:7, BE:7, NO:5, CH:5, SE:4, NL:4, DK:3, CZ:3, PL:3, EE:3, LU:2, SK:2, PT:2, HR:2, HU:1, FI:1, BG:1, SI:1, RS:1
+## Current state (after commit 806506c – FINAL):
+- **Total events: 453** (392 base + 61 net new this session)
+- Triathlon: 258, Cycling: 195
+- Countries added: RS (Serbia), GR (Greece)
+- Category added: Zeitfahren
+- DE:232, AT:85, IT:26, FR:21, ES:20, GB:11, BE:7, CH:7, PL:7, NO:5, SE:4, NL:4, HR:3, DK:3, CZ:3, EE:3, LU:2, SK:2, PT:2, GR:1, FI:1, BG:1, SI:1, RS:1, HU:1
+- Build: 454 pages (453 events + 1 index) — sitemap auto-generated
 
 ## Changes made this session:
 
