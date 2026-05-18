@@ -1,0 +1,24 @@
+{
+  "id": "granfondo-nordeifel-euskirchen-2026",
+  "name": "Gran Fondo Nordeifel",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Euskirchen",
+    "lat": 50.6598,
+    "lng": 6.7878
+  },
+  "websiteUrl": "https://granfondo-nordeifel.de",
+  "description": "Jedermann-Radmarathon in der Nordeifel rund um Euskirchen mit sechs Streckenvarianten: von 56 km/400 m bis zum Hauptmarathon mit 210 km und 2.880 Höhenmetern durch die hügelige Eifellandschaft. Gewertet im BDR-Radmarathon-Cup. Start und Ziel in Euskirchen, Einzel- und Staffelwertung.",
+  "distanceKm": 210,
+  "elevationGainM": 2880
+}
