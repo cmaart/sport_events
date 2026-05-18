@@ -1,0 +1,19 @@
+{
+  "id": "xterra-belgium-namur-2026",
+  "name": "XTERRA Belgium",
+  "sport": "triathlon",
+  "categories": ["Cross-Triathlon"],
+  "country": "BE",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Namur",
+    "lat": 50.4669,
+    "lng": 4.8673
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-belgium",
+  "description": "XTERRA Belgium in der Wallonischen Hauptstadt Namur: Schwimmen in der Maas, Mountainbike durch die bewaldeten Hügel der Ardennenvorstufe und Geländelauf auf den Hängen rund um die Zitadelle von Namur. Einer der traditionsreichsten XTERRA-Wettkämpfe Nordeuropas.",
+  "distanceKm": 42
+}

@@ -1,0 +1,19 @@
+{
+  "id": "t100-triathlon-pamplona-2026",
+  "name": "T100 Triathlon Pamplona",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pamplona",
+    "lat": 42.8125,
+    "lng": -1.6458
+  },
+  "websiteUrl": "https://t100triathlon.com/events/pamplona/",
+  "description": "T100 Triathlon Pamplona – PTO-Profiserie mit Altersklassenstart in Navarra: 2 km Schwimmen, 80 km Rad und 18 km Laufen (100 km gesamt) auf einer Kurzstrecke mit sehr schnellem Kurs. Die T100 World Tour verbindet Profi-Rennen mit offenem Altersklassenwettbewerb auf derselben Strecke.",
+  "distanceKm": 100
+}
