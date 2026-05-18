@@ -1,0 +1,20 @@
+{
+  "id": "ironman-703-wm-nice-2026",
+  "name": "IRONMAN 70.3 Weltmeisterschaft Nice",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nice",
+    "lat": 43.7102,
+    "lng": 7.2620
+  },
+  "websiteUrl": "https://www.ironman.com/im703-world-championship-2026",
+  "description": "IRONMAN 70.3 Weltmeisterschaft 2026 in Nizza: Der prestigeträchtigste Bewerb der Mitteldistanz wird am 12. und 13. September in Nizza ausgetragen. 1,9 km Schwimmen im Mittelmeer, 90 km Radfahren in die Alpen-Maritimes, 21,1 km Laufen auf der Promenade des Anglais. Nizza richtet die WC auch 2028 aus.",
+  "distanceKm": 113
+}

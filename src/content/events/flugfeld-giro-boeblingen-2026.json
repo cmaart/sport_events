@@ -1,0 +1,19 @@
+{
+  "id": "flugfeld-giro-boeblingen-2026",
+  "name": "Flugfeld Giro Böblingen",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Böblingen – Flugfeld",
+    "lat": 48.687,
+    "lng": 9.012
+  },
+  "websiteUrl": "https://flugfeld-giro.de",
+  "description": "Premiere des Flugfeld Giro 2026 in Böblingen/Sindelfingen: 6 Strecken von 15 bis 208 km mit 4 Startorten rund um das historische Flugfeld. Neue Gran-Fondo-Veranstaltung im Großraum Stuttgart mit Distanzen 20/40/87/132/161/208 km. Veranstalter: Eventservice Stahl.",
+  "distanceKm": 208
+}

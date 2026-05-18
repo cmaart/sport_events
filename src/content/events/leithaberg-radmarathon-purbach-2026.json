@@ -1,0 +1,21 @@
+{
+  "id": "leithaberg-radmarathon-purbach-2026",
+  "name": "Leitha.Berg Radmarathon Purbach",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Purbach am Neusiedler See",
+    "lat": 47.908,
+    "lng": 16.703,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.leithaberg-radmarathon.at",
+  "description": "Leitha.Berg Radmarathon in Purbach am Neusiedler See: Jedermann-Radmarathon durch das hügelige Leithagebirge mit Blick auf den Neusiedler See. Distanzen von 40, 80 und 120 km; Teil des UCI Gran Fondo World Series.",
+  "distanceKm": 120,
+  "elevationGainM": 1600
+}

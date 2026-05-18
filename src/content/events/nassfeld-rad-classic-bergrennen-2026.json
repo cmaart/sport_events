@@ -1,0 +1,21 @@
+{
+  "id": "nassfeld-rad-classic-bergrennen-2026",
+  "name": "Nassfeld Rad Classic Bergrennen",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hermagor – Nassfeld",
+    "lat": 46.602,
+    "lng": 13.213,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://bikepeak.nassfeld.at/de/Roadbike-hillclimb",
+  "description": "Nassfeld Rad Classic Bergrennen für Jedermann: Bergzeitfahren von der Tröpolach-Talstation hinauf zum Nassfeld-Grenzpass (Nassfeldpass / Passo di Pramollo) in Kärnten. Teil des Kärnten Sport Jedermannradcup. Offen für Rennräder, Mountainbikes und E-Bikes.",
+  "distanceKm": 12,
+  "elevationGainM": 840
+}

@@ -1,0 +1,20 @@
+{
+  "id": "odenwald-epic-heidelberg-2026",
+  "name": "Odenwald Epic Heidelberg",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heidelberg",
+    "lat": 49.398,
+    "lng": 8.672
+  },
+  "websiteUrl": "https://rsv-heidelberg.de/rtf/rtf-ausschreibung/",
+  "description": "Odenwald Epic in Heidelberg: Anspruchsvoller Jedermann-Radmarathon durch den Odenwald mit Distanzen von 100 km (2.000 Hm) und 140 km (3.000 Hm). Start in Heidelberg, vorbei an den Ausläufern des Odenwalds und zurück durch die Kurpfalz.",
+  "distanceKm": 140,
+  "elevationGainM": 3000
+}

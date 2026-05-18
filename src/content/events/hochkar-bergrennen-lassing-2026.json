@@ -1,0 +1,21 @@
+{
+  "id": "hochkar-bergrennen-lassing-2026",
+  "name": "Hochkar Bergrennen Lassing",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lassing – Hochkar",
+    "lat": 47.891,
+    "lng": 15.207,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://cyclingaustria.at/kalender",
+  "description": "Hochkar Bergzeitfahren Lassing – Bergrennen auf Österreichs steilsten Radsportberg (Hochkar, NÖ). Ausgetragen auch als Österreichische Meisterschaft Berg für Amateure und Masters. Streckenlänge ca. 26 km mit markanter Steigung hinauf zum Hochkar-Plateau.",
+  "distanceKm": 26,
+  "elevationGainM": 1400
+}

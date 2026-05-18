@@ -1,0 +1,21 @@
+{
+  "id": "kapfensteiner-benefiz-radmarathon-2026",
+  "name": "Kapfensteiner Benefiz-Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kapfenstein",
+    "lat": 46.924,
+    "lng": 15.985,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.radmarathon-kapfenstein.at",
+  "description": "20. Kapfensteiner Benefiz-Radmarathon im Steirischen Vulkanland: Die gesamte Teilnahmegebühr wird an die Onkologie Graz gespendet. Drei Distanzen (110, 65 und 35 km) durch die Hügellandschaft des südoststeierischen Vulkanlandes rund um den Kapfensteiner Hausberg.",
+  "distanceKm": 110,
+  "elevationGainM": 1800
+}

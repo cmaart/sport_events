@@ -1,0 +1,20 @@
+{
+  "id": "moerbischer-zeitfahren-2026",
+  "name": "Mörbisches Einzel- und Paarzeitfahren",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mörbisch am See",
+    "lat": 47.7712,
+    "lng": 16.6851,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.neusiedlersee-radmarathon.com/einzel-paarzeitfahren.html",
+  "description": "15. Mörbisches Einzel- und Paarzeitfahren als Auftaktbewerb der Austria Top Tour 2026: 26-km-Kurs rund um den Neusiedler See, von Mörbisch entlang der ungarischen Grenze nach Siegendorf und St. Margarethen, mit steilem 2-km-Anstieg zu Beginn. Erstmals in der Wertung der Austria Top Tour.",
+  "distanceKm": 26
+}

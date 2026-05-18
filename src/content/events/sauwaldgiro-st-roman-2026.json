@@ -1,0 +1,21 @@
+{
+  "id": "sauwaldgiro-st-roman-2026",
+  "name": "SauwaldGiro",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sankt Roman",
+    "lat": 48.450,
+    "lng": 13.583,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.sauwaldgiro.at",
+  "description": "SauwaldGiro in Sankt Roman bei Schärding im Innviertel: Radmarathon durch die hügelige Sauwald-Landschaft Oberösterreichs. Zwei Distanzen: 105 km (1.600 Hm, Start 08:45) und 61 km (900 Hm, Start 09:00). Veranstaltet vom RMSV St. Roman.",
+  "distanceKm": 105,
+  "elevationGainM": 1600
+}

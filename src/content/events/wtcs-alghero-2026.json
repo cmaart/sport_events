@@ -1,0 +1,20 @@
+{
+  "id": "wtcs-alghero-2026",
+  "name": "World Triathlon Championship Series Alghero",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-05",
+    "end": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alghero",
+    "lat": 40.5595,
+    "lng": 8.3190
+  },
+  "websiteUrl": "https://www.triathlon.org/events/event/2026_world_triathlon_championship_series_alghero",
+  "description": "World Triathlon Championship Series 2026 in Alghero, Sardinien: Elite-Rennen auf olympischer Distanz (1,5 km Schwimmen, 40 km Radfahren, 10 km Laufen) sowie Mixed Relay. Teil der jährlichen World Triathlon Championship Series mit Elitefeldern aus aller Welt.",
+  "distanceKm": 52
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rennsteig-gravel-oberhof-2026",
+  "name": "Rennsteig Gravel Oberhof",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oberhof – Biathlonzentrum",
+    "lat": 50.699,
+    "lng": 10.736
+  },
+  "websiteUrl": "https://gravelmania.cc/events/rennsteig-gravel",
+  "description": "Rennsteig Gravel in Oberhof – Gravel-Race auf dem Rennsteig im Thüringer Wald: Start und Ziel an der WM-Arena Oberhof. Drei Distanzen (102,5 / 61,5 / 41 km) durch die Waldlandschaft des Thüringer Waldes. Teil der German Gravel League (Stop #5).",
+  "distanceKm": 103
+}

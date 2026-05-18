@@ -1,0 +1,20 @@
+{
+  "id": "eroica-germania-eltville-2026",
+  "name": "Eroica Germania",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-20",
+    "end": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eltville – Rheingau",
+    "lat": 50.027,
+    "lng": 8.118
+  },
+  "websiteUrl": "https://eroica.cc/de/eroica-germania/",
+  "description": "Eroica Germania im Rheingau: Vintage-Radsportfest auf historischen Rädern (Baujahr vor 1987) durch die berühmten Weinlagen des Rheingaus. Drei Distanzen (125/80/43 km), internationaler Eleganzwettbewerb für Oldtimer-Räder, Riesling-Wein und regionale Spezialitäten. Festival 20.–22. August.",
+  "distanceKm": 125
+}

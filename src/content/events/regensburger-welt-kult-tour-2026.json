@@ -1,0 +1,20 @@
+{
+  "id": "regensburger-welt-kult-tour-2026",
+  "name": "Regensburger Welt-Kult-Tour",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Regensburg",
+    "lat": 49.013,
+    "lng": 12.101
+  },
+  "websiteUrl": "https://www.weltkulttour.de",
+  "description": "19. Regensburger Welt-Kult-Tour: Jedermann-Radmarathon durch das UNESCO-Weltkulturerbe Regensburg und das Bayerische Hügelland. Fünf Distanzen: Marathon 205 km (2.500 Hm), 175 km, 125 km, 95 km und Fitness-Tour 60 km.",
+  "distanceKm": 205,
+  "elevationGainM": 2500
+}

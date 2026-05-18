@@ -1,0 +1,21 @@
+{
+  "id": "kaerntner-rad-bergkoenig-kraig-2026",
+  "name": "Kärntner Rad Bergkönig",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kraig",
+    "lat": 46.780,
+    "lng": 14.470,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_event.php?id=366",
+  "description": "Kärntner Rad Bergkönig in Kraig (Bezirk Sankt Veit an der Glan): Bergzeitfahren über 6 km mit 440 Hm, Teil des Kärnten Sport Jedermannradcup. Seit 2010 eines der bekanntesten Bergrennen Kärntens für Jedermann und lizenzierte Fahrer.",
+  "distanceKm": 6,
+  "elevationGainM": 440
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tour-de-barock-bad-schussenried-2026",
+  "name": "Tour de Barock Bad Schussenried",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Schussenried",
+    "lat": 47.980,
+    "lng": 9.660
+  },
+  "websiteUrl": "https://tourdebarock.de",
+  "description": "31. SCHUSSENRIEDER Tour de Barock in Bad Schussenried: Jedermann-Radmarathon durch Oberschwaben im Rahmen des Parkfests. Start und Ziel am historischen Klosterareal. Familienfreundliche Distanzen von 60/30 km durch die sanfte Allgäu-Vorland-Landschaft.",
+  "distanceKm": 190,
+  "elevationGainM": 1600
+}

@@ -1,0 +1,19 @@
+{
+  "id": "weser-elbe-radmarathon-buxtehude-2026",
+  "name": "Weser-Elbe-Radmarathon Buxtehude",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Buxtehude",
+    "lat": 53.476,
+    "lng": 9.700
+  },
+  "websiteUrl": "https://www.weser-elbe-radmarathon.de",
+  "description": "9. Weser-Elbe-Radmarathon in Buxtehude: 210 km entlang der Weser und Elbe durch die norddeutsche Tiefebene. Frühbucherrabatt bei Anmeldung bis ca. Mai 2026. Kostenlose Stornierung bis 9. September möglich.",
+  "distanceKm": 210
+}

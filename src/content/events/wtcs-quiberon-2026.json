@@ -1,0 +1,20 @@
+{
+  "id": "wtcs-quiberon-2026",
+  "name": "World Triathlon Championship Series Quiberon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-19",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Quiberon",
+    "lat": 47.4836,
+    "lng": -3.1196
+  },
+  "websiteUrl": "https://www.triathlon.org/events/event/2026_world_triathlon_championship_series_quiberon",
+  "description": "World Triathlon Championship Series 2026 in Quiberon, Bretagne: Elite-Rennen auf olympischer Distanz sowie Amateurrennen. Quiberon liegt auf einer schmalen Halbinsel in der Atlantikküste der Bretagne und bietet eine spektakuläre Kulisse für Triathlon.",
+  "distanceKm": 52
+}
