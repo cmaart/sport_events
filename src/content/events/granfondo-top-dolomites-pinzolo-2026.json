@@ -1,0 +1,20 @@
+{
+  "id": "granfondo-top-dolomites-pinzolo-2026",
+  "name": "Granfondo Top Dolomites",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pinzolo",
+    "lat": 46.1529,
+    "lng": 10.7735
+  },
+  "websiteUrl": "https://www.topdolomites.it/en/granfondo/",
+  "description": "Granfondo Top Dolomites in Pinzolo im Herzen der Brenta-Dolomiten (Trentino): Granfondo 111 km (2.780 Hm) oder Mediofondo 77 km (1.930 Hm) durch die UNESCO-Welterbe-Landschaft der westlichen Dolomiten. Das Rennenfeeling reicht von Seenlandschaften bis zu hochalpinen Pässen mit Blick auf den Adamello-Gletscher.",
+  "distanceKm": 111,
+  "elevationGainM": 2780
+}

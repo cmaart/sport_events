@@ -1,0 +1,20 @@
+{
+  "id": "xterra-czech-republic-prachatice-2026",
+  "name": "XTERRA Czech Republic",
+  "sport": "triathlon",
+  "categories": ["Cross-Triathlon"],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-08-07",
+    "end": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Prachatice",
+    "lat": 49.0125,
+    "lng": 14.0003
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-czech-republic",
+  "description": "XTERRA Czech Republic in Prachatice in Südböhmen: Full Distance Sonntag (1,5 km Schwimmen / 33 km Mountainbike / 10,5 km Geländelauf) sowie Sprint (500/15/4 km) und Super-Sprint am Wochenende. Teil der XTERRA World Tour mit Startort im historischen Böhmerwald-Städtchen nahe Šumava-Nationalpark.",
+  "distanceKm": 45
+}
