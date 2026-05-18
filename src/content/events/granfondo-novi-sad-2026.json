@@ -1,0 +1,20 @@
+{
+  "id": "granfondo-novi-sad-2026",
+  "name": "Granfondo Novi Sad",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "RS",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Novi Sad",
+    "lat": 45.2671,
+    "lng": 19.8335
+  },
+  "websiteUrl": "https://granfondons.com/",
+  "description": "Granfondo Novi Sad – UCI Gran Fondo World Series-Qualifikation in der Vojvodina: Hauptstrecke 100 km (1.500 Hm) oder kürzere 77 km (1.200 Hm) durch den Naturpark Fruška gora und entlang der Donau. Start und Ziel im historischen Zentrum von Novi Sad.",
+  "distanceKm": 100,
+  "elevationGainM": 1500
+}

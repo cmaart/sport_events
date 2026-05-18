@@ -1,0 +1,20 @@
+{
+  "id": "ironman-703-versailles-2026",
+  "name": "IRONMAN 70.3 Versailles",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Versailles",
+    "lat": 48.8049,
+    "lng": 2.1204
+  },
+  "websiteUrl": "https://www.ironman.com/im703-versailles",
+  "description": "IRONMAN 70.3 Versailles – Brandneues Rennen 2026 im Herzen der Île-de-France: Schwimmen in der Pièce d'Eau des Suisses im Schlosspark, Radstrecke durch die Wälder der Île-de-France und Ziellinie mit Blick auf das Schloss Versailles. Das Rennen war innerhalb von Stunden ausgebucht.",
+  "distanceKm": 113,
+  "elevationGainM": 800
+}
