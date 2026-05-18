@@ -1,0 +1,19 @@
+{
+  "id": "triathlon-wroclaw-2026",
+  "name": "Triathlon Wrocław",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "PL",
+  "dates": {
+    "start": "2026-07-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wrocław",
+    "lat": 51.1079,
+    "lng": 17.0385
+  },
+  "websiteUrl": "https://www.wroclawtriathlon.pl/",
+  "description": "Triathlon Wrocław – Städtischer Triathlon mit Schwimmen in der Oder, Radstrecke durch das historische Zentrum von Breslau und Lauf mit Blick auf die Kathedralinsel Ostrów Tumski. Das Rennen zieht Sportler aus ganz Polen und dem benachbarten Ausland an; Ziel in der Breslauer Altstadt.",
+  "distanceKm": 51
+}
