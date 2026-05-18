@@ -1,0 +1,19 @@
+{
+  "id": "wtcs-karlovy-vary-2026",
+  "name": "World Triathlon Championship Series Karlovy Vary",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karlovy Vary",
+    "lat": 50.230,
+    "lng": 12.870
+  },
+  "websiteUrl": "https://events.triathlon.org/2026-wtcs-karlovy-vary",
+  "description": "World Triathlon Championship Series 2026 in Karlovy Vary, Tschechien: Elite-Rennen auf olympischer Distanz (1,5 km / 40 km / 10 km) im Stadtzentrum am Leisure Area Rolava und Theatre Square. Parallel dazu City-Triathlon für Altersklassen-Athleten sowie Baby-Duathlon. Teil der offiziellen WTCS-Saison 2026.",
+  "distanceKm": 52
+}

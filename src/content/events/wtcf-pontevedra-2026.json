@@ -1,0 +1,20 @@
+{
+  "id": "wtcf-pontevedra-2026",
+  "name": "World Triathlon Championship Finals Pontevedra",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-23",
+    "end": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pontevedra",
+    "lat": 42.430,
+    "lng": -8.640
+  },
+  "websiteUrl": "https://events.triathlon.org/2026-wtcf-pontevedra",
+  "description": "World Triathlon Championship Finals 2026 in Pontevedra, Spanien: Weltmeisterschaften im Triathlon über Sprint- und Olympische Distanz für Eliteathletinnen und -athleten sowie Altersklassen. Fünftägiges Championshipfestival (23.–27. Sep.) mit Elite-Sprint, Standard- und Mixed-Relay-WM, Altersklassen-Rennen, Para-Triathlon und U23/Junior-WM.",
+  "distanceKm": 52
+}
