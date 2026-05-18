@@ -1,0 +1,19 @@
+{
+  "id": "ironman-703-krakow-2026",
+  "name": "IRONMAN 70.3 Kraków",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz"],
+  "country": "PL",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kraków",
+    "lat": 50.0647,
+    "lng": 19.9450
+  },
+  "websiteUrl": "https://ironmankrakow.pl/",
+  "description": "IRONMAN 70.3 Kraków – Halbdistanz mit spektakulärem Zieleinlauf am Hauptmarkt (Rynek Główny) von Krakau: Schwimmen im Zakrzówek-See, Radstrecke durch die historische Region Kleinpolens und Ziellauf durch die UNESCO-Altstadt. WM-Qualifikation; rasch ausgebucht.",
+  "distanceKm": 113
+}

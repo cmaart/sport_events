@@ -1,0 +1,20 @@
+{
+  "id": "3-peaks-cyclocross-yorkshire-2026",
+  "name": "3 Peaks Cyclo-Cross",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Horton-in-Ribblesdale, Yorkshire Dales",
+    "lat": 54.1605,
+    "lng": -2.3010
+  },
+  "websiteUrl": "https://3peakscyclocross.org.uk/",
+  "description": "3 Peaks Cyclo-Cross – Britischer Kultklassiker in den Yorkshire Dales (62. Auflage): 38 Meilen (ca. 61 km) und 1.524 m Höhenunterschied über drei Gipfel – Pen-y-ghent, Whernside und Ingleborough – auf rauem Gelände mit Bike-Carrying-Passagen. Gilt als härtestes Cyclocross-Rennen der Welt; Anmeldung ab Juni.",
+  "distanceKm": 61,
+  "elevationGainM": 1524
+}

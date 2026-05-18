@@ -1,0 +1,20 @@
+{
+  "id": "gran-triatlon-madrid-2026",
+  "name": "Gran Triatlón Madrid",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Madrid (Casa de Campo)",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  "websiteUrl": "https://grantriatlonmadrid.com/en/",
+  "description": "Gran Triatlón Madrid – Triathlon in Spaniens Hauptstadt im Parque de la Casa de Campo: Olympische Distanz, Sprint und Super-Sprint in städtischer Atmosphäre mit Schwimmen im Parksee und Laufstrecke durch den größten Stadtpark Europas. Über 1.500 Anmeldungen; offizielle RFET-Veranstaltung.",
+  "distanceKm": 51
+}
