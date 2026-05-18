@@ -1,0 +1,20 @@
+{
+  "id": "les-3-ballons-granfondo-ronchamp-2026",
+  "name": "Les 3 Ballons Gran Fondo",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ronchamp",
+    "lat": 47.700,
+    "lng": 6.633
+  },
+  "websiteUrl": "https://les3ballons.com/en/granfondo/",
+  "description": "Die Les 3 Ballons Gran Fondo startet in Ronchamp im Grenzgebiet zwischen Elsass und Franche-Comté und führt auf 181 Kilometern über die bekanntesten Vogesenpassagen. Die Strecke überwindet 4.020 Höhenmeter und bezwingt fünf klassische Tour-de-France-Anstiege: Ballon de Servance, Col d'Oderen, Le Markstein, Grand Ballon (1.424 m) und das legendäre Finale auf der Planche des Belles Filles.",
+  "distanceKm": 181,
+  "elevationGainM": 4020
+}

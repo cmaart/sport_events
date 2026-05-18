@@ -1,0 +1,21 @@
+{
+  "id": "bundes-radsport-treffen-luenen-2026",
+  "name": "Bundes-Radsport-Treffen 2026 – Ride & Rock Lünen",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-09",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lünen",
+    "lat": 51.606,
+    "lng": 7.524
+  },
+  "websiteUrl": "https://www.brt26.de/",
+  "description": "Das Bundes-Radsport-Treffen 2026 ist Deutschlands größtes Breitensport-Radsportereignis und findet vom 9. bis 12. Juli in Lünen statt. Der BDR-Radmarathon-Cup-Wertungslauf am Samstag (11.7.) führt über 208 Kilometer mit 660 Höhenmetern durch das nördliche Ruhrgebiet, das Münsterland und den Naturpark Hohe Mark. Neben dem Radmarathon (60–208 km) umfasst das Programm täglich wechselnde Touren, Gravel-Fahrten und ein Radsport-Festival in der Stadtmitte.",
+  "distanceKm": 208,
+  "elevationGainM": 660
+}

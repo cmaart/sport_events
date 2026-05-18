@@ -1,0 +1,20 @@
+{
+  "id": "goettinger-dreilaendermarathon-2026",
+  "name": "Göttinger Dreiländermarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Göttingen",
+    "lat": 51.545,
+    "lng": 9.906
+  },
+  "websiteUrl": "https://www.rsc-goettingen.de/rtf/rtf-start.html",
+  "description": "Der Göttinger Dreiländermarathon führt vom Vereinszentrum Geismar aus durch die Mittelgebirgslandschaft an den Grenzen von Niedersachsen, Hessen und Thüringen. Die Marathonstrecke umfasst rund 222 Kilometer mit 2.800 Höhenmetern und gilt als bergiges Highlight im deutschen Radmarathon-Kalender. Fünf Streckenvarianten zwischen 45 und 222 Kilometern ermöglichen die Teilnahme auf allen Leistungsstufen.",
+  "distanceKm": 222,
+  "elevationGainM": 2800
+}

@@ -1,0 +1,19 @@
+{
+  "id": "marathon-to-hell-hamburg-2026",
+  "name": "Marathon to Hell",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Barsbüttel (Hamburg)",
+    "lat": 53.569,
+    "lng": 10.170
+  },
+  "websiteUrl": "https://fcstpauli-radsport.de/",
+  "description": "Der Marathon to Hell des FC St. Pauli Radsport startet in Barsbüttel südöstlich von Hamburg und führt auf 219 Kilometern durch Schleswig-Holstein. Die Veranstaltung zählt zu den bekanntesten Radmarathons Norddeutschlands und verbindet das Kiezflair des FC St. Pauli mit einer langen Ausfahrt ins Umland. Begleitend zum Radmarathon werden eine Kaperfahrt-RTF sowie eine Gravel-Variante angeboten.",
+  "distanceKm": 219
+}
