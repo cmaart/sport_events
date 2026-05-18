@@ -1,0 +1,22 @@
+{
+  "id": "arheilger-muehlchen-triathlon-darmstadt-2026",
+  "name": "34. Arheilger Mühlchen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Darmstadt-Arheilgen",
+    "lat": 49.9081,
+    "lng": 8.6489
+  },
+  "websiteUrl": "https://www.sg-arheilgen.de/de/sportangebot/sportangebote-und-abteilungen/triathlon/muehlchen-triathlon/",
+  "description": "Mühlchen-Triathlon der SG Arheilgen in Darmstadt-Arheilgen mit Schwimmstart im Mühlchen-Bad. Klassik-Distanz über 0,4 km Schwimmen, 17,7 km Rad und 4,3 km Lauf, dazu Schüler- und Jugendwettkämpfe sowie ein Swim & Bike. Traditionsveranstaltung seit 1991, Anmeldung ab Jahresanfang.",
+  "distanceKm": 22
+}

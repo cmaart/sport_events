@@ -1,0 +1,22 @@
+{
+  "id": "kinzigman-langenselbold-2026",
+  "name": "14. Kinzigman",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-17",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Langenselbold",
+    "lat": 50.1646,
+    "lng": 9.0312
+  },
+  "websiteUrl": "https://kinzigman.wordpress.com/",
+  "description": "Kinzigman-Triathlon am Strandbad Kinzigsee in Langenselbold im Main-Kinzig-Kreis. Sprintdistanz mit 500 m Schwimmen im Kinzigsee, 20 km Radstrecke nach Gründau und zurück sowie 5 km Lauf rund um den Freizeitpark. Veranstalter ist der ADAC Triathlonclub Main-Kinzig.",
+  "distanceKm": 26
+}

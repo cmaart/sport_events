@@ -1,0 +1,22 @@
+{
+  "id": "niedensteiner-volkstriathlon-2026",
+  "name": "3. Niedensteiner Volkstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Niedenstein",
+    "lat": 51.2381,
+    "lng": 9.2842
+  },
+  "websiteUrl": "https://sg1898chattengau.de/3-niedensteiner-volkstriathlon-2/",
+  "description": "Niedensteiner Volkstriathlon der SG 1898 Chattengau im nordhessischen Niedenstein. Hauptwettkampf über 0,4 km Schwimmen, 17 km Rad und 5 km Lauf, dazu Schüler- und Jugendformate (0,16/2,5/1 km). Junge Veranstaltung in der Chattengau-Region, die Distanzen folgen der Ausschreibung 2025; das offizielle 2026-Programm wird kurzfristig nachgereicht.",
+  "distanceKm": 22
+}

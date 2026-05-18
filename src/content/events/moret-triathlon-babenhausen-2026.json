@@ -1,0 +1,24 @@
+{
+  "id": "moret-triathlon-babenhausen-2026",
+  "name": "42. Moret Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Babenhausen-Sickenhofen",
+    "lat": 49.9758,
+    "lng": 8.9711
+  },
+  "websiteUrl": "https://www.vfl-muenster.de/morettriathlon/",
+  "description": "Moret Triathlon am Sickenhöfer See bei Babenhausen, organisiert vom VfL Münster. Drei Hauptdistanzen: Klassische Mitteldistanz (2/84/21,1 km), Olympische Distanz (1,5/40/10 km) und Sprintdistanz (0,75/20/5 km). Dazu Jugend- und Juniorenrennen sowie das Finale der Regionalliga Mitte und ein Rennen der 3. Mixed Liga.",
+  "distanceKm": 107
+}

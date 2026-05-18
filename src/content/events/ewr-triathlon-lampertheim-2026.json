@@ -1,0 +1,22 @@
+{
+  "id": "ewr-triathlon-lampertheim-2026",
+  "name": "28. EWR-Triathlon Lampertheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lampertheim",
+    "lat": 49.6033,
+    "lng": 8.4570
+  },
+  "websiteUrl": "https://lampertheim.dlrg.de/ewr-triathlon-2025/",
+  "description": "EWR-Triathlon der DLRG Lampertheim mit Schwimmstart im Badesee Lampertheim. Sprint- und Jedermanndistanz über rund 0,4–0,5 km Schwimmen, 20 km Rad und 5 km Lauf entlang der Natostraße in Richtung Rhein. Auch als Staffelwettkampf ausgeschrieben, ein Klassiker in der südhessischen Triathlonszene.",
+  "distanceKm": 26
+}

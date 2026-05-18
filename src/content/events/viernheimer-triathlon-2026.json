@@ -1,0 +1,23 @@
+{
+  "id": "viernheimer-triathlon-2026",
+  "name": "42. Viernheimer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Viernheim",
+    "lat": 49.5402,
+    "lng": 8.5783
+  },
+  "websiteUrl": "https://triathlonviernheim.de/viernheimer-triathlon/",
+  "description": "Viernheimer V-Card Triathlon mit Schwimmen im Hemsbacher Wiesensee, Radstrecke durch den Odenwald und Laufabschluss im Viernheimer Waldstadion. Hauptrennen auf der Olympischen Distanz, dazu Super-Sprint-Schnuppertriathlon, Nachwuchsrennen von Schüler C bis Junioren, DM Para-Triathlon und Finale der 2. Triathlon-Bundesliga Süd.",
+  "distanceKm": 51
+}

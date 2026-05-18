@@ -1,0 +1,22 @@
+{
+  "id": "cherryman-witzenhausen-2026",
+  "name": "CherryMan",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Witzenhausen",
+    "lat": 51.3414,
+    "lng": 9.8585
+  },
+  "websiteUrl": "https://www.cherry-man.de/",
+  "description": "CherryMan in Witzenhausen, der nordhessischen Kirschstadt am Werra-Knie. Sprint-Triathlon über 0,4 km Schwimmen, 22,5 km Rad und 5 km Lauf, organisiert von den Stadtwerken Witzenhausen. Erwartet werden rund 350 Starterinnen und Starter inmitten der Streuobstlandschaft.",
+  "distanceKm": 28
+}
