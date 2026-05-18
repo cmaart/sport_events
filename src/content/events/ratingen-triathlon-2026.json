@@ -1,0 +1,24 @@
+{
+  "id": "ratingen-triathlon-2026",
+  "name": "Stadtwerke Ratingen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ratingen",
+    "lat": 51.2972,
+    "lng": 6.8492
+  },
+  "websiteUrl": "https://stadtwerke-ratingen-triathlon.de",
+  "description": "Stadtwerke Ratingen Triathlon mit breitem Distanzangebot von Volks- und Sprintdistanz über Kurztriathlon (1 – 40 – 10 km) bis zur Mitteldistanz. Traditionsveranstaltung im Westen Deutschlands mit Schwimmstart im Freibad.\n\nZusätzliche Kategorien für Jugend, Schüler und Staffeln.",
+  "distanceKm": 76
+}
