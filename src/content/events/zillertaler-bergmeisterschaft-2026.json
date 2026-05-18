@@ -1,0 +1,20 @@
+{
+  "id": "zillertaler-bergmeisterschaft-2026",
+  "name": "Zillertaler Bergmeisterschaft",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zell am Ziller",
+    "lat": 47.231,
+    "lng": 11.889,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.rt-zillertal.com",
+  "description": "Zillertaler Bergmeisterschaft in Zell am Ziller (Tirol): Bergrennen über rund 6 km durch das Zillertal. Rennen für Jedermann- und Lizenzklassen im Rahmen des Tiroler Radsport-Terminkalenders.",
+  "distanceKm": 6
+}

@@ -1,0 +1,20 @@
+{
+  "id": "arboe-bergpreis-afritz-verditz-2026",
+  "name": "ARBÖ Bergpreis Afritz–Verditz",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Afritz am See",
+    "lat": 46.733,
+    "lng": 13.838,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.rc-feldamsee.at",
+  "description": "ARBÖ Bergpreis Afritz–Verditz in Afritz am See (Kärnten): Bergrennen von Afritz am See auf die Verditz, rund 10 km mit markanter Höhendifferenz. Lizenziertes Rennen des ARBÖ Feldkirchen/Kärnten für Jedermann- und Lizenzklassen.",
+  "distanceKm": 10
+}

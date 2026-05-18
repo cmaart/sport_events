@@ -1,0 +1,19 @@
+{
+  "id": "altmark-zeitfahren-seehausen-2026",
+  "name": "Altmark-Zeitfahren Seehausen",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-04-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seehausen (Altmark)",
+    "lat": 52.888,
+    "lng": 11.742
+  },
+  "websiteUrl": "https://kersten-friedrich-events.com/altmark-zeitfahren-seehausen/",
+  "description": "3. Altmark-Zeitfahren Seehausen in der Altmark (Sachsen-Anhalt): Streckenzeitfahren auf gesperrten Straßen in drei Distanzen – 11 km, 26 km und 52 km. Point-to-Point-Kurs durch die flache Altmark-Landschaft für Jedermann und lizenzierte Fahrer.",
+  "distanceKm": 52
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rad-am-salzburgring-2026",
+  "name": "Rad am Salzburgring",
+  "sport": "cycling",
+  "categories": ["Zeitfahren", "Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Plainfeld – Salzburgring",
+    "lat": 47.837,
+    "lng": 13.158,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.radteamsalzburg.at/rad-am-salzburgring",
+  "description": "Rad am Salzburgring in Plainfeld: Zeitfahren und Radmarathon auf dem Salzburgring-Motorsportkurs bei Salzburg. Distanzen 13 km, 43 km und 65 km (Vielfaches der Rundkurslänge). Für Jedermann sowie lizenzierte Fahrer; einzigartiges Erlebnis auf der bekannten Motorsportstrecke.",
+  "distanceKm": 65
+}

@@ -1,0 +1,21 @@
+{
+  "id": "city-hill-climb-salzburg-2026",
+  "name": "City Hill Climb Salzburg",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salzburg – Kapitelplatz",
+    "lat": 47.7950,
+    "lng": 13.0470,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://cityhillclimb.com/en/",
+  "description": "City Hill Climb Salzburg: Spektakuläres Bergzeitfahren durch die Altstadt Salzburgs vom Kapitelplatz hinauf zur Festung Hohensalzburg – nur 900 m Strecke, 120 Hm und bis zu 32 % Steigung. Einzigartiges Stadtrennen im UNESCO-Weltkulturerbe Salzburg für Jedermann und lizenzierte Fahrer.",
+  "distanceKm": 1,
+  "elevationGainM": 120
+}

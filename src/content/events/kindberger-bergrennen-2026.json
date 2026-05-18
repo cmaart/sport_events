@@ -1,0 +1,21 @@
+{
+  "id": "kindberger-bergrennen-2026",
+  "name": "Kindberger Bergrennen",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kindberg",
+    "lat": 47.499,
+    "lng": 15.449,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.rc-arboe-kindberg.at",
+  "description": "Kindberger Bergrennen in Kindberg (Steiermark): Österreichische Meisterschaft im Bergrennen (ÖM-Berg) über 9,3 km mit rund 500 Hm. Rennen für lizenzierte Fahrer sowie Jedermann-Klassen. Eines der wichtigsten österreichischen Bergrennen des Jahres.",
+  "distanceKm": 9,
+  "elevationGainM": 500
+}

@@ -1,0 +1,19 @@
+{
+  "id": "lausitz-marathon-zeitfahren-klettwitz-2026",
+  "name": "Lausitz-Marathon Zeitfahren am Lausitzring",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Klettwitz – DEKRA Lausitzring",
+    "lat": 51.495,
+    "lng": 13.909
+  },
+  "websiteUrl": "https://lausitz-marathon.de",
+  "description": "Lausitz-Marathon Zeitfahren am DEKRA Lausitzring in Klettwitz (Brandenburg): Einzelzeitfahren auf dem Motorsport-Rundkurs über 17,4 km (Erwachsene) und 5,8 km (Jugend). Einzigartiges Zeitfahren auf einer der bekanntesten deutschen Motorsportstrecken.",
+  "distanceKm": 17
+}

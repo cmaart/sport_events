@@ -1,0 +1,19 @@
+{
+  "id": "jonastaler-challenge-arnstadt-2026",
+  "name": "Jonastaler Challenge",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arnstadt",
+    "lat": 50.832,
+    "lng": 10.946
+  },
+  "websiteUrl": "https://jonastaler-challenge.de",
+  "description": "Jonastaler Challenge in Arnstadt (Thüringen): Einzelzeitfahren über 26,4 km durch das Jonastal, zugleich Thüringer Landesmeisterschaft im Zeitfahren. Bekannt durch die Unterstützung von Marcel Kittel, einer der bekanntesten deutschen Zeitfahr-Volksrennen.",
+  "distanceKm": 26
+}

@@ -1,0 +1,21 @@
+{
+  "id": "scheibbser-bergwertung-blassenstein-2026",
+  "name": "Scheibbser Radbergwertung auf den Blassenstein",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Scheibbs",
+    "lat": 47.906,
+    "lng": 15.166,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_event.php?id=740",
+  "description": "Scheibbser Radbergwertung auf den Blassenstein in Scheibbs (Niederösterreich): Bergzeitfahren über 4,7 km mit 500 Hm hinauf zum Blassenstein. Cycling Austria–lizenziertes Bergrennen in der Eisenwurzen für Jedermann- und Lizenzklassen.",
+  "distanceKm": 5,
+  "elevationGainM": 500
+}
