@@ -1,0 +1,20 @@
+{
+  "id": "spreewaldmarathon-lubbenau-2026",
+  "name": "Spreewaldmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lübbenau (Spreewald)",
+    "lat": 51.8647,
+    "lng": 13.9619
+  },
+  "websiteUrl": "https://spreewaldmarathon.de/",
+  "description": "Der Spreewaldmarathon in Lübbenau ist der Saisonauftakt des BDR-Radmarathon-Cups und führt auf drei Streckenvarianten (70/110/200 km) durch den Biosphärenreservat Spreewald. Die flachen Strecken schlängeln sich durch das charakteristische Fließ- und Kanalsystem der Lausitz. Als erster BDR-Cup-Wertungslauf des Jahres zieht das Rennen Radmarathonfahrer aus dem gesamten Bundesgebiet an.",
+  "distanceKm": 200,
+  "elevationGainM": 400
+}

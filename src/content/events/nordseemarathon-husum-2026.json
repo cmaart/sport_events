@@ -1,0 +1,20 @@
+{
+  "id": "nordseemarathon-husum-2026",
+  "name": "Nordseemarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Husum",
+    "lat": 54.4832,
+    "lng": 9.0521
+  },
+  "websiteUrl": "https://www.rsv-husum.de/",
+  "description": "Der Nordseemarathon des RSV Husum führt von der schleswig-holsteinischen Küstenstadt Husum durch die flache Marschenlandschaft Nordfrieslands. Drei Streckenvarianten (62/102/203 km) verlaufen auf ruhigen Landstraßen zwischen Wattenmeerkante und Geest. BDR-Radmarathon-Cup-Wertungslauf und Teil des regionalen NordCups.",
+  "distanceKm": 203,
+  "elevationGainM": 350
+}

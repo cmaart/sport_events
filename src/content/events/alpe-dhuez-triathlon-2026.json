@@ -1,0 +1,21 @@
+{
+  "id": "alpe-dhuez-triathlon-2026",
+  "name": "Alpe d'Huez Triathlon",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-08-02",
+    "end": "2026-08-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alpe d'Huez",
+    "lat": 45.0909,
+    "lng": 6.0716
+  },
+  "websiteUrl": "https://www.alpetriathlon.com/",
+  "description": "Der Alpe d'Huez Triathlon gilt als einer der ikonischsten und schwersten Triathlons der Welt: 3,9 km Schwimmen im Lac du Verney, 177 km Rad mit dem legendären Aufstieg nach Alpe d'Huez (21 Kehren, 1.120 m Höhenunterschied) und 40 km Geländelauf in den Belledonne-Alpen. Die Vollendistanz übertrifft mit rund 5.000 Höhenmetern jeden regulären Ironman.",
+  "distanceKm": 221,
+  "elevationGainM": 5000
+}
