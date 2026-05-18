@@ -1,0 +1,20 @@
+{
+  "id": "haervejslobet-viborg-2026",
+  "name": "Hærvejsløbet – L'Étape Denmark",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DK",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Viborg",
+    "lat": 56.4534,
+    "lng": 9.4026
+  },
+  "websiteUrl": "https://denmark.letapeseries.com/",
+  "description": "Hærvejsløbet / L'Étape Denmark – Offizielles L'Étape-Series-Rennen in Jütland mit Ziel in Viborg: Fünf Streckenvarianten von 50 bis 300 km (kürzeste ab Funder, längste von Flensburg/DE) mit 400 bis 2.500 Hm entlang des historischen Hærvejen-Pilgerwegs durch die jütländische Heide- und Hügellandschaft.",
+  "distanceKm": 300,
+  "elevationGainM": 2500
+}

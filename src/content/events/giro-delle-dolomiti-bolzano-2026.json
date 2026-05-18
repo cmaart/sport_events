@@ -1,0 +1,21 @@
+{
+  "id": "giro-delle-dolomiti-bolzano-2026",
+  "name": "Giro delle Dolomiti",
+  "sport": "cycling",
+  "categories": ["Etappenrennen"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-07-13",
+    "end": "2026-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bolzano",
+    "lat": 46.4983,
+    "lng": 11.3548
+  },
+  "websiteUrl": "https://www.girodolomiti.com/",
+  "description": "Giro delle Dolomiti – Fünftägiges Amateur-Etappenrennen mit Basis in Bozen durch das UNESCO-Welterbe der Dolomiten: Strecken von 20 bis 107 km täglich mit bis zu 3.100 Hm auf Etappen wie der Sellaronda (107 km/3.102 Hm) oder dem Passo Rolle. Mindestalter 18 Jahre; UCI-Lizenz oder Radsportverbandsmitgliedschaft erforderlich.",
+  "distanceKm": 107,
+  "elevationGainM": 3100
+}
