@@ -41,10 +41,8 @@ export default function EventMap({ events, selectedId, onSelect, onShowInList, b
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return;
     const map = L.map(containerRef.current, {
-      maxBounds: DACH_BOUNDS.pad(0.3),
-      minZoom: 5,
-      maxBoundsViscosity: 0.8,
       scrollWheelZoom: true,
+      worldCopyJump: true,
     });
     map.setView(DACH_CENTER, INITIAL_ZOOM);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
