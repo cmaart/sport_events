@@ -1,147 +1,77 @@
-# Sport Events Research Progress
+# Sport Events Checker – Session Progress
 
-## Session: 2026-05-17 (abgeschlossen)
+## Session date: 2026-05-18
 
-### Sources Used
-- triathlon-austria.at/de/service-termine (ÖTRV Kalender)
-- hannes-hawaii-tours.de (AT Triathlon Kalender)
-- running.life/triathlon-calendar/austria + /germany
-- finishers.com (DE/AT events)
-- triathlonszene.de
-- dtu.de (Deutsche Triathlon Union) / triathlondeutschland.de
-- radsport-events.de
-- radmarathon.at
-- battistrada.com
-- cycloworld.cc
-- triathlon.de
-- 3rides.de (UCI Gran Fondo World Series)
-- schlosstriathlon.de, spreewald-triathlon.de, werbellinseetriathlon.de
-- bochum-triathlon.de, rosenstadt-triathlon.de
-- powertriathlon.de, koberbachtal-triathlon.de, zwickau-triathlon.de
-- allgaeu-radmarathon.de, myeifelride.de, sauerlandride.de
-- artour-rtf.de, erzgebirgstour.de, saarschleifen.bike
-- nordcup-radmarathon.de, altmuehltal-radmarathon.de
-- ironman.com (europäischer Kalender)
-- challenge-family.com (europäischer Kalender)
-- granfondo-guide.com, granfondoguide.com
-- cyclingclassics.eu, monument-sportives.com
+## Current state (after commits through 949eae9):
+- **Total events: ~408** (392 base + 16 new this session)
+- Triathlon: ~239, Cycling: ~169
+- Countries: AT, DE, IT, ES, FR, GB, CH, BE, NL, PL, LU, NO, SE, FI, DK, CZ, HR, HU, SI, EE, BG, RS (new)
 
-### Abgeschlossene Erweiterungen (Session Mai 2026)
+## Changes made this session:
 
-#### Länder-Erweiterung
-- `src/lib/types.ts`: COUNTRIES von 2 auf 24 europäische Länder erweitert
-- COUNTRY_LABELS für alle 24 Länder (AT, DE, CH, FR, IT, ES, PT, NL, BE, LU, GB, IE, DK, NO, SE, FI, CZ, SK, PL, HU, SI, HR, EE, BG)
-- `src/i18n/de.json`: Texte auf europäischen Scope aktualisiert
+### Removed (4 events):
+- fraenkische-schweiz-radmarathon-2026 – discontinued ~2010
+- kaunertaler-radtag-2026 – unverifiable date
+- muerzer-oberland-triathlon-2026 – ABGESAGT per ÖTRV 2026
+- volkstriathlon-wolfsburg-2026 – cancelled since 2024
 
-#### Neue Events (ca. 82 neue JSON-Dateien)
+### Updated (5 events):
+- king-of-the-lake-2026: category Berg → Zeitfahren
+- gaisberg-vertical-salzburg-2026: category Berg → Zeitfahren
+- schauinslandkoenig-bergzeitfahren-2026: category Berg → Zeitfahren
+- ironman-703-tallinn-2026: date corrected to 2026-08-23
+- velo-grand-prix-meiningen-2026: date updated to 2026-06-07
 
-**IRONMAN Langdistanz Europa:**
-- ironman-vichy-2026 (FR)
-- ironman-france-nice-2026 (FR)
-- ironman-tours-loire-valley-2026 (FR)
-- ironman-switzerland-thun-2026 (CH)
-- ironman-italy-emilia-romagna-2026 (IT)
-- ironman-lanzarote-2026 (ES)
-- ironman-vitoria-gasteiz-2026 (ES)
-- ironman-barcelona-calella-2026 (ES)
-- ironman-portugal-cascais-2026 (PT)
-- ironman-wales-2026 (GB)
-- ironman-leeds-2026 (GB)
-- ironman-copenhagen-2026 (DK)
-- ironman-kalmar-2026 (SE)
-- ironman-tallinn-2026 (EE)
+### Added categories:
+- 'Zeitfahren' added to CYCLING_CATEGORIES in types.ts
+- 'RS' (Serbia) added to COUNTRIES in types.ts
 
-**IRONMAN 70.3 Europa:**
-- ironman-703-vichy-2026 (FR)
-- ironman-703-les-sables-vendee-2026 (FR)
-- ironman-703-aix-en-provence-2026 (FR)
-- ironman-703-nice-2026 (FR)
-- ironman-703-luxembourg-2026 (LU)
-- ironman-703-switzerland-rapperswil-2026 (CH)
-- ironman-703-italy-emilia-romagna-2026 (IT)
-- ironman-703-venice-jesolo-2026 (IT)
-- ironman-703-alcudia-mallorca-2026 (ES)
-- ironman-703-malaga-2026 (ES)
-- ironman-703-vitoria-gasteiz-2026 (ES)
-- ironman-703-valencia-2026 (ES)
-- ironman-703-cascais-2026 (PT)
-- ironman-703-westfriesland-2026 (NL)
-- ironman-703-knokke-heist-2026 (BE)
-- ironman-703-bolton-2026 (GB)
-- ironman-703-weymouth-2026 (GB)
-- ironman-703-elsinore-2026 (DK)
-- ironman-703-jonkoping-2026 (SE)
-- ironman-703-tallinn-2026 (EE)
-- ironman-703-gdynia-2026 (PL)
-- ironman-703-poznan-2026 (PL)
-- ironman-703-hradec-kralove-2026 (CZ)
-- ironman-703-porec-2026 (HR)
+### New events added (31 total):
 
-**Challenge Family Europa:**
-- challenge-the-championship-samorin-2026 (SK)
-- challenge-salou-2026 (ES)
-- challenge-peguera-mallorca-2026 (ES)
-- challenge-mogan-gran-canaria-2026 (ES)
-- challenge-barcelona-2026 (ES)
-- challenge-sanremo-2026 (IT)
-- challenge-cesenatico-2026 (IT)
-- challenge-forte-village-sardinia-2026 (IT)
-- challenge-almere-amsterdam-2026 (NL)
-- challenge-gdansk-2026 (PL)
-- challenge-sandefjord-2026 (NO)
-- challenge-turku-2026 (FI)
-- challenge-vieux-boucau-2026 (FR)
+#### Triathlon:
+- ironman-703-aix-en-provence-2026 (FR, May 17)
+- ironman-703-alghero-2026 (IT, Jun 7)
+- ironman-703-swansea-2026 (GB, Jul 12)
+- ironman-703-versailles-2026 (FR, Jul 12) ← NEW brand new race
+- o-see-challenge-zittau-2026 (DE, Aug 14-16) ← DM Crosstriathlon
 
-**Gran Fondo / Cycling Europa:**
-- lbl-challenge-2026 (BE) - LBL Sportive
-- amstel-gold-race-sportive-2026 (NL)
-- we-ride-flanders-2026 (BE)
-- ridelondon-essex-2026 (GB)
-- dragon-ride-wales-2026 (GB)
-- etape-caledonia-2026 (GB)
-- etape-du-tour-2026 (FR)
-- colnago-granfondo-mont-ventoux-2026 (FR)
-- granfondo-bgy-bergamo-2026 (IT)
-- granfondo-fausto-coppi-cuneo-2026 (IT)
-- granfondo-il-lombardia-2026 (IT)
-- granfondo-strade-bianche-2026 (IT)
-- granfondo-stelvio-santini-2026 (IT)
-- granfondo-gavia-mortirolo-2026 (IT)
-- leroica-toscana-2026 (IT)
-- maratona-dles-dolomites-2026 (IT)
-- sportful-dolomiti-race-2026 (IT)
-- marcialonga-cycling-craft-2026 (IT)
-- maraton-franja-ljubljana-2026 (SI)
-- uci-istria-granfondo-2026 (HR)
-- mallorca-312-2026 (ES)
-- quebrantahuesos-2026 (ES)
-- uci-granfondo-la-nucia-2026 (ES)
-- uci-granfondo-suisse-2026 (CH)
-- tour-des-stations-verbier-2026 (CH)
-- haute-route-alps-2026 (FR/IT/CH)
-- marmotte-granfondo-alpes-2026 (FR)
-- norseman-xtreme-triathlon-2026 (NO)
-- sudety-tour-2026 (PL)
-- tour-de-matra-2026 (HU)
-- granfondo-bulgarie-velingrad-2026 (BG)
+#### Cycling:
+- mallorca-312-2026 (ES, Apr 25) ← 312km Tramuntana
+- gran-fondo-vosges-la-bresse-2026 (FR, May 17) ← UCI GFWS
+- granfondo-nove-colli-2026 (IT, May 24) ← UCI GFWS
+- chouffe-classic-houffalize-2026 (BE, May 23)
+- schleck-gran-fondo-luxembourg-2026 (LU, May 30) ← UCI GFWS
+- les-3-ballons-granfondo-ronchamp-2026 (FR, Jun 6) ← 4020m Vosges
+- etape-caledonia-2026 (GB, May 10)
+- granfondo-bulgarie-velingrad-2026 (BG, Jun 21) ← UCI GFWS
+- granfondo-matildica-2026 (IT, Sep 13) ← UCI GFWS
+- tartu-rattaralli-2026 (EE, Jun 7) ← UCI GFWS
+- granfondo-novi-sad-2026 (RS, Jun 7) ← UCI GFWS, first Serbian event
+- uec-granfondo-varese-2026 (IT, Oct 3-4) ← UEC European Championships
+- the-majestics-villars-2026 (CH, Jul 10-11) ← UCI GFWS last qualifier
+- velorace-dresden-2026 (DE, Aug 9) ← 103km closed roads
+- gfny-bremen-2026 (DE, Aug 30) ← first GFNY N-Germany
+- erztaler-marathon-tharandt-2026 (DE, Jun 6) ← BDR Cup, 230km/3300m
+- bike-challenge-mittelholstein-nortorf-2026 (DE, Jun 21) ← BDR Cup
+- lausitzer-seenland-100-grossraeschen-2026 (DE, Jul 4) ← BDR Cup
+- bundes-radsport-treffen-luenen-2026 (DE, Jul 9-12) ← BDR Cup
+- goettinger-dreilaendermarathon-2026 (DE, Aug 1) ← BDR Cup, 222km/2800m
+- ostseenroller-radmarathon-schwerin-2026 (DE, Aug 2) ← BDR Cup
+- pirker-grenzerfahrung-2026 (DE, Aug 9) ← BDR Cup, 205km/3150m
+- holsteiner-wellenritt-kaltenkirchen-2026 (DE, Aug 9) ← BDR Cup
+- talsperren-rundfahrt-gevelsberg-2026 (DE, Aug 29) ← BDR Cup, 203km/3100m
+- marathon-to-hell-hamburg-2026 (DE, Sep 6) ← BDR Cup
+- radmarathon-rund-um-berlin-2026 (DE, Sep 13) ← BDR Cup finale
 
-#### Fixes
-- leithaberg-radmarathon-2026: confirmed: false → true
-- velo-grand-prix-meiningen-2026: Datum korrigiert auf 2026-05-30
-- fraenkische-schweiz-radmarathon-2026: Beschreibung aktualisiert (Event eingestellt ~2010)
-- volkstriathlon-wolfsburg-2026: Beschreibung aktualisiert (Event pausiert)
+## Still investigating:
+- Alpe d'Huez Triathlon 2026
+- Heidenheim Triathlon 2026
+- Rad am Ring 2026 Nürburgring
+- More IRONMAN 70.3 European races 2026
+- T100 / PTO events 2026 Europe
+- XTERRA European major events
+- More Austrian cycling events
 
-### Finaler Build
-- 395 Seiten generiert (394 Events + 1 Index)
-- Build erfolgreich, keine Fehler
-
-### SEO Status
-- JSON-LD SportsEvent mit @id auf allen Event-Seiten ✅
-- BreadcrumbList auf Event-Seiten ✅
-- Organization+WebSite+ItemList JSON-LD auf Homepage ✅
-- Sitemap: differenzierte Prioritäten (index 0.9/daily, events 0.7/monthly) ✅
-- robots.txt → Sitemap ✅
-- og:, twitter: Meta-Tags ✅
-
-### Deployed
-- Commit + Push auf master → GitHub Actions Deployment getriggert ✅
+## Source reliability reminder:
+- DO NOT use prommer.net
+- Trusted: official race sites, DTU, ÖTRV, BDR, UCI, ITU/World Triathlon, ironman.com, challenge-family.com
