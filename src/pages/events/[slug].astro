@@ -41,9 +41,10 @@ const startIso = start.toISOString().slice(0, 10);
 const locationParts = [e.location.name, e.location.region].filter(Boolean) as string[];
 const locationLine = Array.from(new Set(locationParts)).join(', ');
 const seoTitle = `${e.name}${e.dates.confirmed ? ` · ${dateLabel}` : ''} · ${locationLine}`;
+const catLabel = e.categories[0];
 const descPrefix = e.dates.confirmed
-  ? `${sportLabel} am ${dateLabel} in ${locationLine}. `
-  : `${sportLabel} 2026 in ${locationLine}. `;
+  ? `${sportLabel} · ${catLabel} am ${dateLabel} in ${locationLine}. `
+  : `${sportLabel} · ${catLabel} 2026 in ${locationLine}. `;
 const truncate = (s: string, max: number) => {
   if (s.length <= max) return s;
   const cut = s.slice(0, max);
