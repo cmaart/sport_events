@@ -1,0 +1,23 @@
+{
+  "id": "pfaender-bergzeitfahren-2026",
+  "name": "Pfänder Bergzeitfahren",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lochau",
+    "lat": 47.5367,
+    "lng": 9.7428,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://gemeinde.lochau.at/veranstaltungskalender/pfander-radrennen.html",
+  "description": "Bergzeitfahren auf den Pfänder (1.064 m), den Hausberg von Bregenz am Bodensee. Streckenlänge 6,0 km mit 590 Höhenmetern im Einzelstart (20-Sekunden-Intervalle). Spektakuläre Panoramasicht auf Bodensee, Rheintal und Allgäuer Alpen. Für Rennrad und Mountainbike, alle Altersklassen.",
+  "distanceKm": 6,
+  "elevationGainM": 590
+}

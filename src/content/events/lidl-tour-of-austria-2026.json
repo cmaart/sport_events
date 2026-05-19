@@ -1,0 +1,24 @@
+{
+  "id": "lidl-tour-of-austria-2026",
+  "name": "Lidl Tour of Austria",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-08",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Graz",
+    "lat": 47.0707,
+    "lng": 15.4395,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://tourofaustria.com/",
+  "description": "75. Austragung der Tour of Austria (UCI 2.1): 5 Etappen über 845 km mit Start in Graz und Ziel in Wien. Etappenorte: Graz–Gamlitz, Bad Kleinkirchheim–Großglockner/Franz-Josefs-Höhe, Lienz–St. Johann, Steyr–Steyr, Langenlois–Wien. Die härteste Etappe führt über den Großglockner (3.798 m), Österreichs höchsten Berg.",
+  "distanceKm": 845,
+  "elevationGainM": 11000
+}

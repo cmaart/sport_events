@@ -1,0 +1,22 @@
+{
+  "id": "radklassiker-chur-arosa-2026",
+  "name": "Radklassiker Chur-Arosa",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Chur",
+    "lat": 46.8499,
+    "lng": 9.5329
+  },
+  "websiteUrl": "https://chur-arosa.com/",
+  "description": "44. Nationaler Radklassiker Chur-Arosa (Schweizer Bergmeisterschaft): 29,3 km Bergzeitfahren vom Bahnhofplatz Chur (585 m) nach Arosa (1.800 m) mit 1.215 Höhenmetern. Eines der härtesten Bergrennen der Schweiz für Lizenz- und Open-Fahrer. Start: 11:00 Uhr, erste Ankünfte in Arosa ab 12:03 Uhr.",
+  "distanceKm": 29,
+  "elevationGainM": 1215
+}

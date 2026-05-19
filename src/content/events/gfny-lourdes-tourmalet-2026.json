@@ -1,0 +1,22 @@
+{
+  "id": "gfny-lourdes-tourmalet-2026",
+  "name": "GFNY Lourdes Tourmalet",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lourdes",
+    "lat": 43.0956,
+    "lng": -0.0451
+  },
+  "websiteUrl": "https://lourdes.gfny.com/",
+  "description": "GFNY Lourdes Tourmalet in den Pyrenäen: Lange Strecke 157 km/4.000 Hm über Col d'Aspin (1.489 m) und Col du Tourmalet (2.115 m, 17,1 km Auffahrt). Médio 99 km über den Tourmalet. Start in Lourdes, dem berühmten Wallfahrtsort am Fuß der Pyrenäen.",
+  "distanceKm": 157,
+  "elevationGainM": 4000
+}

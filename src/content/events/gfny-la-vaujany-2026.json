@@ -1,0 +1,22 @@
+{
+  "id": "gfny-la-vaujany-2026",
+  "name": "GFNY La Vaujany – Alpe d'Huez",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vaujany",
+    "lat": 45.1892,
+    "lng": 6.0597
+  },
+  "websiteUrl": "https://lavaujany.gfny.com/",
+  "description": "GFNY La Vaujany – Alpe d'Huez in den Isère-Alpen: Lange Strecke 151 km/3.900 Hm inklusive Alpe d'Huez (12 km, Ø 8 %) und abschließender Auffahrt nach Vaujany (5 km, bis 14 % Steigung); Médio 60 km/1.700 Hm. Eines der anspruchsvollsten GFNY-Rennen in Frankreich.",
+  "distanceKm": 151,
+  "elevationGainM": 3900
+}

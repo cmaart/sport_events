@@ -1,0 +1,22 @@
+{
+  "id": "jonastaler-challenge-2026",
+  "name": "Jonastaler Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arnstadt",
+    "lat": 50.8360,
+    "lng": 10.9465
+  },
+  "websiteUrl": "https://jonastaler-challenge.de/",
+  "description": "4. Jonastaler Challenge – Einzelzeitfahren durch das legendäre Jonastal bei Arnstadt (Thüringen): 24,8 km Gesamt (12,4 km leicht bergauf zum Wendepunkt Crawinkel, 12,4 km bergab zurück) mit ca. 140 Richtungswechseln auf windenden Nebenstraßen. Von Marcel Kittel als weltweit einzigartiges Zeitfahrformat gelobt.",
+  "distanceKm": 25,
+  "elevationGainM": 200
+}

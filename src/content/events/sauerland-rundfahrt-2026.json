@@ -1,0 +1,23 @@
+{
+  "id": "sauerland-rundfahrt-2026",
+  "name": "Sauerland-Rundfahrt",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-03",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arnsberg",
+    "lat": 51.4375,
+    "lng": 7.9960
+  },
+  "websiteUrl": "https://www.sauerlandrundfahrt.de/",
+  "description": "Neue UCI 2.1-Etappenfahrt im Sauerland: vier anspruchsvolle Etappen mit Anstiegen über Hirschberger Wand, Arnsberger Schlossberg und Kahlen Asten/Winterberg. Deutschlands zweites großes Mehrtagesrennen neben der Deutschland Tour, erstmals im internationalen UCI-Kalender 2026.",
+  "distanceKm": 600,
+  "elevationGainM": 8000
+}

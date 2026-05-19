@@ -1,0 +1,22 @@
+{
+  "id": "gfny-grand-ballon-2026",
+  "name": "GFNY Grand Ballon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Thann",
+    "lat": 47.8115,
+    "lng": 7.1030
+  },
+  "websiteUrl": "https://grandballon.gfny.com/",
+  "description": "GFNY Grand Ballon in den Vogesen (Elsass): Lange Strecke 147 km/4.043 Hm über den Grand Ballon (höchster Gipfel der Vogesen, 1.424 m); Médio 70 km/1.826 Hm. Start in der historischen Altstadt von Thann an der Elsässer Weinstraße.",
+  "distanceKm": 147,
+  "elevationGainM": 4043
+}
