@@ -1,0 +1,22 @@
+{
+  "id": "sellaronda-bike-day-september-2026",
+  "name": "Sellaronda Bike Day September",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Corvara",
+    "lat": 46.5496,
+    "lng": 11.8732
+  },
+  "websiteUrl": "https://www.altabadia.org/de/sommer/sport-aktivitaeten/radsport/sellaronda-bike-day.html",
+  "description": "Sellaronda Bike Day (September-Ausgabe): 53 km Rundstrecke über alle vier Sellapässe (Campolongo, Pordoi, Sella, Gardena) mit 1.600 Hm – vollständig autofrei. Zweite jährliche Ausgabe des Klassikers in den Dolomiten, der für wenige Stunden die Straßen exklusiv für Radfahrer sperrt.",
+  "distanceKm": 53,
+  "elevationGainM": 1600
+}

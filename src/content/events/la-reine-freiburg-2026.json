@@ -1,0 +1,22 @@
+{
+  "id": "la-reine-freiburg-2026",
+  "name": "La Reine – Strictly Female Cycling Festival Freiburg",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freiburg im Breisgau",
+    "lat": 47.9990,
+    "lng": 7.8421
+  },
+  "websiteUrl": "https://www.lareine.cc/",
+  "description": "La Reine – Strictly Female Cycling Festival an der Badischen Weinstraße (Schwarzwald): Ausschließlich für Frauen, Strecken 135 km oder 89 km durch Weinberge und Vorberge des Schwarzwalds. Ziel und Finisher-Party auf dem Freiburger Schlossberg. Weltgrößtes reines Frauen-Straßenradrennen.",
+  "distanceKm": 135,
+  "elevationGainM": 2000
+}

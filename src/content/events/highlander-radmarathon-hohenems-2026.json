@@ -9,7 +9,7 @@
   "dates": {
     "start": "2026-08-02",
     "end": "2026-08-02",
-    "confirmed": true
+    "confirmed": false
   },
   "location": {
     "name": "Hohenems",

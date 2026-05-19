@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-san-gottardo-2026",
+  "name": "Granfondo San Gottardo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ambrì",
+    "lat": 46.5127,
+    "lng": 8.7011
+  },
+  "websiteUrl": "https://en.granfondosangottardo.com/",
+  "description": "8. Granfondo San Gottardo im Tessin (Schweiz): Lange Strecke 110 km (2.900 Hm) über drei Alpenpässe – Gotthard mit historischer Tremola-Pflasterstraße, Furka und Novena (Nufenen); Mittlere Strecke 57 km (1.350 Hm), Kurze Strecke 42 km (930 Hm). Start und Ziel in Ambrì. Aussicht auf Gletscher und Hochalpenpanorama.",
+  "distanceKm": 110,
+  "elevationGainM": 2900
+}

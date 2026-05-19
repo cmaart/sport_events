@@ -1,0 +1,22 @@
+{
+  "id": "cyclotour-du-leman-2026",
+  "name": "Cyclotour du Léman",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-10-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lausanne",
+    "lat": 46.5197,
+    "lng": 6.6323
+  },
+  "websiteUrl": "https://cyclotour.ch/",
+  "description": "23. Cyclotour du Léman in der Schweiz: Granfondo 176 km (2.800 Hm), Mediofondo 112 km und Kurzdistanz 64 km rund um den Genfer See durch Schweiz und Frankreich. Start und Ziel in Lausanne. Erstmals im Herbst stattfindend (Verschiebung vom Frühjahr wegen G7-Gipfel in Évian 2026).",
+  "distanceKm": 176,
+  "elevationGainM": 2800
+}

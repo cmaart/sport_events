@@ -1,0 +1,23 @@
+{
+  "id": "la-reine-gstaad-2026",
+  "name": "La Reine – Strictly Female Cycling Festival Gstaad",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-18",
+    "end": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gstaad",
+    "lat": 46.4756,
+    "lng": 7.2871
+  },
+  "websiteUrl": "https://www.lareine.cc/",
+  "description": "La Reine – Strictly Female Cycling Festival Gstaad in den Berner Oberland-Alpen: Ausschließlich für Frauen, Granfondo 140 km (3.000 Hm) und Mediofondo 90 km (1.800 Hm) plus Berg-Zeitfahren als Prolog. Limitiert auf 500 Plätze. Start und Ziel in Gstaad, Alpenpanorama über das Saanental.",
+  "distanceKm": 140,
+  "elevationGainM": 3000
+}

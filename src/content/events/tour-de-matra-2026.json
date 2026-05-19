@@ -5,8 +5,8 @@
   "categories": ["Gran Fondo"],
   "country": "HU",
   "dates": {
-    "start": "2026-05-30",
-    "end": "2026-05-31",
+    "start": "2026-07-03",
+    "end": "2026-07-05",
     "confirmed": true
   },
   "location": {
@@ -14,8 +14,8 @@
     "lat": 47.7797,
     "lng": 19.9268
   },
-  "websiteUrl": "https://ucigranfondoworldseries.com/en/",
-  "description": "Tour de Mátra – 6. Ausgabe des UCI Gran Fondo World Series-Rennens in Ungarn: Zeitfahren am 30. Mai, Granfondo am 31. Mai durch das Mátra-Gebirge rund um Gyöngyös (Nordungarn). Teil der UCI Gran Fondo World Championships Qualifikationsserie. Einer der wenigen UCI-zugelassenen Granfondos in Osteuropa.",
-  "distanceKm": 130,
-  "elevationGainM": 1800
+  "websiteUrl": "https://www.tourdematra.hu/english",
+  "description": "Tour de Mátra – UCI Gran Fondo World Series-Rennen in Ungarn: Zeitfahren (19 km) am 3. Juli, Granfondo 161 km (2.550 Hm) und Mediofondo 94 km am 5. Juli durch das Mátra-Gebirge rund um Gyöngyös mit Bergziel auf dem Kékestető (1.014 m), Ungarns höchstem Gipfel. UCI-Qualifier für die Gran Fondo WM.",
+  "distanceKm": 161,
+  "elevationGainM": 2550
 }

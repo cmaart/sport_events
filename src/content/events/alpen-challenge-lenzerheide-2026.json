@@ -1,0 +1,22 @@
+{
+  "id": "alpen-challenge-lenzerheide-2026",
+  "name": "Alpen Challenge Lenzerheide",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lenzerheide",
+    "lat": 46.7251,
+    "lng": 9.5566
+  },
+  "websiteUrl": "https://www.alpenchallengelenzerheide.ch/",
+  "description": "Alpen Challenge Lenzerheide in Graubünden: Granfondo 189 km über die berühmtesten Pässe Graubündens, Mediofondo 115 km. Herbststimmung mit klarer Bergluft und Laubfärbung. Herbstausgabe des Klassikers mit Blick auf Lenzerheide, Albula- und Julierpass.",
+  "distanceKm": 189,
+  "elevationGainM": 4500
+}
