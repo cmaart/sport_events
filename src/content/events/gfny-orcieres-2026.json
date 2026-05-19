@@ -1,0 +1,22 @@
+{
+  "id": "gfny-orcieres-2026",
+  "name": "GFNY Orcières",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Orcières",
+    "lat": 44.6791,
+    "lng": 6.3329
+  },
+  "websiteUrl": "https://orcieres.gfny.com/",
+  "description": "GFNY Orcières in den Hautes-Alpes (Frankreich): Granfondo 158 km (4.469 Hm) oder Mediofondo 76 km (2.105 Hm) durch die Hochalpen der Provence-Alpes-Côte d'Azur. Neustes Mitglied der GFNY-Rennserie in Frankreich (7. French event). Bergziel Orcières-Merlette (1.838 m) als spektakulärer Schlussanstieg.",
+  "distanceKm": 158,
+  "elevationGainM": 4469
+}
