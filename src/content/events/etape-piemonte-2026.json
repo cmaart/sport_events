@@ -1,0 +1,22 @@
+{
+  "id": "etape-piemonte-2026",
+  "name": "L'Étape Piemonte by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Entracque",
+    "lat": 44.2336,
+    "lng": 7.3911
+  },
+  "websiteUrl": "https://www.letapeitaly.it/",
+  "description": "L'Étape Piemonte by Tour de France in den piemontesischen Seealpen: Granfondo 145 km (2.894 Hm) und Mediofondo 115 km (2.184 Hm) rund um Entracque im Cuneo-Tal. Highlight: Colle delle Goderie (5 km, Ø 11 %). Teil der offiziellen L'Étape-by-Tour-de-France-Serie.",
+  "distanceKm": 145,
+  "elevationGainM": 2894
+}
