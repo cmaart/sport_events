@@ -1,0 +1,25 @@
+{
+  "id": "tour-de-mur-lungau-2026",
+  "name": "Tour de Mur",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Michael im Lungau",
+    "lat": 47.0976,
+    "lng": 13.6329,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.toudemur.at",
+  "description": "Dreitägiges Radsport-Abenteuer durch den Salzburger Lungau: 334 km und 1.540 Hm entlang der Mur über drei Etappen durch das malerische Hochtal. Fahrten durch Nationalpark Nockberge und Nationalpark Hohe Tauern. Kombination aus Genussradeln und echtem Radmarathon-Feeling im alpinen Hochplateau.",
+  "distanceKm": 334,
+  "elevationGainM": 1540
+}

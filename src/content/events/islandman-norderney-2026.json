@@ -1,0 +1,23 @@
+{
+  "id": "islandman-norderney-2026",
+  "name": "sebamed ISLANDMAN Norderney",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Norderney",
+    "lat": 53.7063,
+    "lng": 7.1565
+  },
+  "websiteUrl": "https://www.sebamed-islandman.de",
+  "description": "Triathlon auf der ostfriesischen Nordseeinseln Norderney: Schwimmen in der Nordsee, Radfahren auf dem autoarmen Inselgelände, Laufen an Strand und Promenade. Vier Distanzen (Olympisch, Sprint, Beginner/Schnupperdistanz, Youth) sowie Staffelformate. Einzigartiges Inselflair im Nordfriesland.",
+  "distanceKm": 52
+}

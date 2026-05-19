@@ -1,0 +1,24 @@
+{
+  "id": "t100-triathlon-london-2026",
+  "name": "T100 Triathlon London",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "London",
+    "lat": 51.4994,
+    "lng": -0.1248
+  },
+  "websiteUrl": "https://www.t100triathlon.com",
+  "description": "T100 Triathlon World Tour Stop in London: Profi-Rennen über die 100-km-T100-Distanz (2 km Schwimmen / 80 km Rad / 18 km Laufen) sowie Amateurbewerbe über Olympische Distanz, Sprint und Super Sprint. Qualifikationsrennen für die T100 Triathlon World Championships. Spektakuläre Kulisse in der britischen Hauptstadt.",
+  "distanceKm": 100
+}

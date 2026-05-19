@@ -1,0 +1,23 @@
+{
+  "id": "optimum-quarterman-bruchkoebel-2026",
+  "name": "18. OPTIMUM-Quarterman Germany",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bruchköbel",
+    "lat": 50.1781,
+    "lng": 8.9233
+  },
+  "websiteUrl": "https://quarterman-germany.de/",
+  "description": "OPTIMUM-Quarterman Germany in Bruchköbel mit Viertel-Distanz (0,95 km Schwimmen, 45 km Rad, 10 km Laufen) und Sprintdistanz (0,5/25/5 km). Dazu Staffeln und Kids Swim & Run. Die Hauptdistanzen für 2026 sind bereits ausverkauft, einzig der Kinder-Wettkampf ist noch offen.",
+  "distanceKm": 56
+}

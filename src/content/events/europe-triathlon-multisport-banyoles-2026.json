@@ -1,0 +1,20 @@
+{
+  "id": "europe-triathlon-multisport-banyoles-2026",
+  "name": "Europe Triathlon Multisport Championships Banyoles",
+  "sport": "triathlon",
+  "categories": ["Mitteldistanz", "Cross-Triathlon"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Banyoles",
+    "lat": 42.1161,
+    "lng": 2.7607
+  },
+  "websiteUrl": "https://banyolesmultisport.com/en",
+  "description": "Europe Triathlon Multisport Championships Banyoles – Offizielle Europameisterschaften von World Triathlon / Europe Triathlon am Estany de Banyoles in Katalonien: Middle Distance Triathlon, Cross-Triathlon, Aquathlon und Duathlon für Elite und Altersklassen. Mehrtägiges Festival mit tausenden Athleten aus ganz Europa; Hauptrennen Middle Distance am 19. Juli.",
+  "distanceKm": 113
+}

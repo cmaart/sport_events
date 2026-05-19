@@ -1,0 +1,23 @@
+{
+  "id": "nibelungen-dirty-palatinate-worms-2026",
+  "name": "Nibelungen Dirty Palatinate",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Worms",
+    "lat": 49.6317,
+    "lng": 8.3629
+  },
+  "websiteUrl": "https://nibelungen-dirty.de",
+  "description": "Gravelrennen und Radmarathon im Pfälzerwald und der Rheinebene rund um die Nibelungenstadt Worms. Drei Streckenvarianten: 200 km, 150 km und 100 km auf Schotterwegen, Forstwegen und asphaltierten Passagen durch Pfalz und Rheinhessen. Einzigartiges Mittelrhein-Flair entlang historischer Nibelungenstätten.",
+  "distanceKm": 200,
+  "elevationGainM": 1800
+}

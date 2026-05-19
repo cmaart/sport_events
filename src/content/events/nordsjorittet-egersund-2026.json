@@ -1,0 +1,20 @@
+{
+  "id": "nordsjorittet-egersund-2026",
+  "name": "Nordsjørittet",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "NO",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Egersund",
+    "lat": 58.4557,
+    "lng": 6.0021
+  },
+  "websiteUrl": "https://www.nordsjorittet.no/",
+  "description": "Nordsjørittet – Norwegens zweitgrößte Radveranstaltung führt von Egersund nach Sandnes entlang der Rogaland-Küste: Lange Strecke 87 km (780 Hm) oder halbe 43 km ab Nærbø. Road-Bikes, Gravelbikes, MTB und E-Bikes sind willkommen; der Kurs folgt dem Nordsjøvegen durch die charakteristische Küstenlandschaft Südwestnorwegens.",
+  "distanceKm": 87,
+  "elevationGainM": 780
+}

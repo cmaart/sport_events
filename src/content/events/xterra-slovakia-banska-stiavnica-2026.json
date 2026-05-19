@@ -1,0 +1,19 @@
+{
+  "id": "xterra-slovakia-banska-stiavnica-2026",
+  "name": "XTERRA Slovakia",
+  "sport": "triathlon",
+  "categories": ["Cross-Triathlon"],
+  "country": "SK",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Banská Štiavnica",
+    "lat": 48.4575,
+    "lng": 18.8966
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-slovakia",
+  "description": "XTERRA Slovakia in der UNESCO-Welterbe-Bergbaustadt Banská Štiavnica: Schwimmen in einem der historischen Stauseen (Tajchy), 33 km Mountainbike durch die slowakischen Mittelgebirge und 10 km Geländelauf. Teil der XTERRA World Tour; auch Sprint (750/16/5 km) und Super-Sprint.",
+  "distanceKm": 45
+}

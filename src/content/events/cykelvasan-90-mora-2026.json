@@ -1,0 +1,20 @@
+{
+  "id": "cykelvasan-90-mora-2026",
+  "name": "Cykelvasan 90",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "SE",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sälen/Mora",
+    "lat": 61.1583,
+    "lng": 13.2626
+  },
+  "websiteUrl": "https://vasaloppet.se/en/bike/cykelvasan-90/",
+  "description": "Cykelvasan 90 – Schwedischer Gravel-Klassiker auf dem Vasaloppet-Weg von Sälen nach Mora: 95 km auf Waldwegen und Forstwegen (ca. 820 Hm) entlang der Originalroute des berühmten Skimarathons. Teil der Vasaloppet-Woche; offen für Road-, Gravel- und Mountainbikes.",
+  "distanceKm": 95,
+  "elevationGainM": 820
+}

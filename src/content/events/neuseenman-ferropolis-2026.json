@@ -1,0 +1,24 @@
+{
+  "id": "neuseenman-ferropolis-2026",
+  "name": "neuseenMAN Ferropolis",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-29",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gräfenhainichen – Ferropolis",
+    "lat": 51.7221,
+    "lng": 12.4314
+  },
+  "websiteUrl": "https://neuseenman.maximalpuls.com",
+  "description": "Triathlon-Festival auf dem einzigartigen Gelände der Industriekultur Ferropolis – der sogenannten Stadt aus Eisen im Seenland Sachsen-Anhalt. Sprint-, Olympische Distanz und Halbdistanz (1,9 km/90 km/21 km) mit Start/Ziel vor monumentalen Tagebau-Großgeräten. Inkl. DM Justiz-Sprint. Drei Wettkampftage mit Abend-Atmosphäre an den Neuseenland-Gewässern.",
+  "distanceKm": 113
+}

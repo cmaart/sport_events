@@ -1,0 +1,23 @@
+{
+  "id": "rodgau-triathlon-2026",
+  "name": "23. Rodgau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-16",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rodgau-Dudenhofen",
+    "lat": 50.0356,
+    "lng": 8.8896
+  },
+  "websiteUrl": "https://tsv-dudenhofen.de/rodgau-triathlon-2026/",
+  "description": "Rodgau Triathlon am Badesee Rodgau, ausgerichtet vom TSV Dudenhofen. Sprintdistanz (0,45/14/5 km) und Olympische Distanz (1,4/41/10 km) jeweils als Einzelwettkampf und Staffel. Flache, vollständig gesperrte Radstrecke und Laufrunde um den See, ohne Cut-off-Zeiten unter dem Motto „Inklusion und Sport“.",
+  "distanceKm": 52
+}

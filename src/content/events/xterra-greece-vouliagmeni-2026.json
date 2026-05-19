@@ -1,0 +1,19 @@
+{
+  "id": "xterra-greece-vouliagmeni-2026",
+  "name": "XTERRA Greece",
+  "sport": "triathlon",
+  "categories": ["Cross-Triathlon"],
+  "country": "GR",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vouliagmeni (Athen-Riviera)",
+    "lat": 37.8096,
+    "lng": 23.7857
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-greece",
+  "description": "XTERRA Greece an der Athen-Riviera in Vouliagmeni: Schwimmen im Mittelmeer, Mountainbike auf Trails der Attika-Küstenhügel und Geländelauf mit Blick auf die Ägäis. XTERRA World Cup-Stopp am ehemaligen Olympia-Veranstaltungsort; einer der beliebtesten XTERRA-Events Europas.",
+  "distanceKm": 42
+}

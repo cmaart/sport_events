@@ -1,0 +1,21 @@
+{
+  "id": "swiss-epic-mtb-engadin-2026",
+  "name": "Swiss Epic MTB Stage Race",
+  "sport": "cycling",
+  "categories": ["Etappenrennen"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-19",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Engadin/Davos",
+    "lat": 46.5828,
+    "lng": 9.9249
+  },
+  "websiteUrl": "https://www.epic-series.com/races/swissepic",
+  "description": "Swiss Epic MTB Stage Race – Fünftägiges UCI-Mountainbike-Etappenrennen durch das Schweizer Unterengadin von La Punt nach Davos (ca. 307 km / 9.450 Hm). Teamrennen zu zweit durch die Graubündner Bergwelt; Teil der Global Epic Series. Eines der renommiertesten MTB-Rennen Europas.",
+  "distanceKm": 307,
+  "elevationGainM": 9450
+}

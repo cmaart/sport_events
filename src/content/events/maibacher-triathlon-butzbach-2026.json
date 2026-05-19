@@ -1,0 +1,23 @@
+{
+  "id": "maibacher-triathlon-butzbach-2026",
+  "name": "35. Maibacher Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-09",
+    "end": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Butzbach-Maibach",
+    "lat": 50.4694,
+    "lng": 8.5394
+  },
+  "websiteUrl": "https://www.maibacher-triathlon.de/",
+  "description": "Maibacher Triathlon des Freizeitsportvereins Maibach mit Start am Freibad Maibach im Hintertaunus. 300 m Schwimmen im Freibad, 17 km Rad über Wernborn, Eschbach und Michelbach sowie 6 km Lauf durch den Maibacher Wald. Coupierte Rad- und Laufstrecke mit rund 220 bzw. über 100 Höhenmetern.",
+  "distanceKm": 23,
+  "elevationGainM": 320
+}

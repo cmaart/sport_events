@@ -1,0 +1,20 @@
+{
+  "id": "granfondo-the-millars-castellon-2026",
+  "name": "The Millars Gran Fondo",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "ES",
+  "dates": {
+    "start": "2026-03-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Castellón de la Plana",
+    "lat": 39.9864,
+    "lng": -0.0513
+  },
+  "websiteUrl": "https://www.millarsgranfondo.com/en/",
+  "description": "The Millars Gran Fondo – Einziger spanischer UCI Gran Fondo World Series-Qualifier: 157 Kilometer mit 2.200 Höhenmetern durch den Naturpark Sierra de Espadán und entlang des Riu Millars. Start und Ziel in Castellón de la Plana an der Costa del Azahar (Valencianische Gemeinschaft).",
+  "distanceKm": 157,
+  "elevationGainM": 2200
+}
