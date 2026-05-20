@@ -1,0 +1,22 @@
+{
+  "id": "gealan-triathlon-hof-2026",
+  "name": "GEALAN Triathlon der IfL Hof",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hof an der Saale – Untreusee",
+    "lat": 50.285,
+    "lng": 11.91
+  },
+  "websiteUrl": "https://www.ifl-hof.de/page-3/gealan-triathlon",
+  "description": "43. GEALAN Triathlon der IfL Hof am Untreusee: Volksdistanz und Sprintdistanz für alle Leistungsklassen. Traditionsreicher Vereinstriathlon des IfL Hof in Oberfranken (Bayern) mit Einzel- und Staffelstart.",
+  "distanceKm": 28
+}

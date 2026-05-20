@@ -1,0 +1,22 @@
+{
+  "id": "karlsfelder-triathlon-2026",
+  "name": "Karlsfelder Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karlsfeld – Karlsfelder See",
+    "lat": 48.236,
+    "lng": 11.468
+  },
+  "websiteUrl": "https://karlsfelder-triathlon.org/",
+  "description": "36. Karlsfelder Triathlon am Karlsfelder See nordwestlich von München: Olympische Distanz 1,5 km / 46 km / 10 km und Sprint 0,75 km / 26 km / 5 km. Traditionsreicher Triathlon im Landkreis Dachau (Bayern).",
+  "distanceKm": 58
+}

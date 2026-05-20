@@ -1,0 +1,23 @@
+{
+  "id": "sassenberger-triathlon-2026",
+  "name": "Sassenberger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sassenberg – Feldmarksee",
+    "lat": 52.003,
+    "lng": 8.056
+  },
+  "websiteUrl": "https://sassenbergertriathlon.de/",
+  "description": "38. Sassenberger Triathlon am Feldmarksee im Münsterland (NRW): Mitteldistanz 1,9 km / 89 km / 20 km, Olympische Distanz 1,5 km / 44 km / 10 km, Münsterland Grand Prix 1,7 km / 67 km / 15 km und Sprint. Olympische Distanz und Mitteldistanz bereits ausgebucht.",
+  "distanceKm": 111
+}

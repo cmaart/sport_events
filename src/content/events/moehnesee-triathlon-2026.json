@@ -1,0 +1,23 @@
+{
+  "id": "moehnesee-triathlon-2026",
+  "name": "Möhnesee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Möhnesee – Seepark Körbecke",
+    "lat": 51.496,
+    "lng": 8.131
+  },
+  "websiteUrl": "https://moehnesee-triathlon.de/",
+  "description": "Möhnesee Triathlon im Seepark Körbecke (NRW): Grand Prix Mitteldistanz 2,0 km / 70 km / 15 km, Olympische Distanz 1,5 km / 40 km / 10 km sowie Sprint 0,5 km / 20 km / 5 km. Populäre Mehrdistanz-Veranstaltung am Möhnesee im Sauerland; alle Distanzen bereits ausgebucht.",
+  "distanceKm": 87
+}

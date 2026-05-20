@@ -1,0 +1,21 @@
+{
+  "id": "altmuehltriathlon-leutershausen-2026",
+  "name": "Altmühltriathlon Leutershausen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leutershausen",
+    "lat": 49.3,
+    "lng": 10.404
+  },
+  "websiteUrl": "http://www.tv-leutershausen.de/index.php/triathlon",
+  "description": "35. Altmühltriathlon Leutershausen im Altmühlbad: Sprintdistanz 0,5 km Schwimmen / 22 km Rad / 5 km Laufen. Kleiner, familiärer Vereinstriathlon des TV Leutershausen mit maximal 120 Teilnehmern in der mittelfränkischen Altmühlregion (Bayern).",
+  "distanceKm": 28
+}

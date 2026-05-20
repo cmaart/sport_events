@@ -1,0 +1,22 @@
+{
+  "id": "mainfrankentriathlon-kitzingen-2026",
+  "name": "eology Mainfrankentriathlon Kitzingen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kitzingen",
+    "lat": 49.744,
+    "lng": 10.191
+  },
+  "websiteUrl": "https://www.mainfrankentriathlon.de/",
+  "description": "eology Mainfrankentriathlon Kitzingen am Main (Bayern): Olympische Distanz 1.670 m Freiwasserschwimmen im Main / 40 km Rad / 10 km Lauf sowie Sprint 600 m / 20 km / 5 km. Austragungsort der Landesliga Nord Bayern und Deutschen Bürgermeistermeisterschaft im Triathlon.",
+  "distanceKm": 52
+}
