@@ -1,0 +1,21 @@
+{
+  "id": "istria300-porec-2026",
+  "name": "Istria300",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Poreč",
+    "lat": 45.227,
+    "lng": 13.594
+  },
+  "websiteUrl": "https://www.istria300.com/",
+  "description": "Istria300 in Poreč (Istrien, Kroatien): 300 km, 209 km oder 135 km auf komplett gesperrten Straßen durch die istrische Halbinsel. 6. Auflage; größte Radveranstaltung Kroatiens mit über 1.500 Teilnehmern. Start und Ziel in Poreč an der kroatischen Adriaküste.",
+  "distanceKm": 300
+}

@@ -1,0 +1,23 @@
+{
+  "id": "letape-slovenia-kranj-2026",
+  "name": "L'Étape Slovenia by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kranj",
+    "lat": 46.2392,
+    "lng": 14.3556
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape Slovenia by Tour de France in Kranj (5. Auflage): The Race ca. 130 km / 1.800 Hm und The Ride ca. 80 km durch die Julischen Alpen. Start und Ziel in Kranj; Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
+  "distanceKm": 130,
+  "elevationGainM": 1800
+}

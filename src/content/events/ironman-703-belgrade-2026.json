@@ -1,0 +1,21 @@
+{
+  "id": "ironman-703-belgrade-2026",
+  "name": "IRONMAN 70.3 Belgrade",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "RS",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Beograd – Ada Ciganlija",
+    "lat": 44.8032,
+    "lng": 20.4483
+  },
+  "websiteUrl": "https://www.ironman.com/im703-belgrade",
+  "description": "IRONMAN 70.3 Belgrad: 1,9 km Schwimmen im Sava-See / 90 km Rad / 21,1 km Laufen im Herzen Belgrads. Neues IRONMAN-Rennen auf dem Kalender 2026; flacher Stadtkurs rund um Ada Ciganlija und den Zusammenfluss von Sava und Donau.",
+  "distanceKm": 113
+}
