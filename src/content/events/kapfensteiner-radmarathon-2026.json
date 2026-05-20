@@ -1,0 +1,23 @@
+{
+  "id": "kapfensteiner-radmarathon-2026",
+  "name": "Kapfensteiner Benefiz Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "location": {
+    "name": "Kapfenstein",
+    "lat": 46.8786,
+    "lng": 15.9556,
+    "region": "Steiermark"
+  },
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "websiteUrl": "https://www.radmarathon-kapfenstein.at/",
+  "description": "Kapfensteiner Benefiz Radmarathon im steirischen Vulkanland (Südoststeiermark): Route A 113 km / 1.390 Hm, Route B 65 km / 680 Hm oder Route C 34 km / 330 Hm durch das Südoststeiermark-Hügelland. Erlöse kommen der Onkologie des LKH Graz zugute.",
+  "distanceKm": 113,
+  "elevationGainM": 1390
+}

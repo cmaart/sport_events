@@ -1,0 +1,23 @@
+{
+  "id": "leithaberg-radmarathon-2026",
+  "name": "Leithaberg Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "location": {
+    "name": "Purbach am Neusiedler See",
+    "lat": 47.9083,
+    "lng": 16.6964,
+    "region": "Burgenland"
+  },
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "websiteUrl": "https://www.leithaberg-radmarathon.at/",
+  "description": "Leithaberg Radmarathon im Burgenland: 120 km / 1.500 Hm, 80 km / 1.000 Hm oder 40 km / 500 Hm durch die Leithaberge und das Weinbaugebiet rund um den Neusiedler See. Teil der Austria Top Tour. Start und Ziel in Purbach am Neusiedler See.",
+  "distanceKm": 120,
+  "elevationGainM": 1500
+}
