@@ -1,0 +1,20 @@
+{
+  "id": "coast-and-dead-fish-luebeck-2026",
+  "name": "Coast and Dead Fish",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-05",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lübeck",
+    "lat": 53.8655,
+    "lng": 10.6866
+  },
+  "websiteUrl": "https://rst-luebeck.de/coast-and-dead-fish/",
+  "description": "Coast and Dead Fish – mehrtägiges Gravel-Abenteuer im Norden Deutschlands: 100 km, 200 km oder 400 km über die Gravel-Wege der Schleswig-Holsteinischen Seenplatte, durch dichte Wälder und an der Ostseeküste entlang. Start und Ziel in Lübeck. Eine der bekanntesten Gravel-Veranstaltungen Norddeutschlands.",
+  "distanceKm": 200
+}

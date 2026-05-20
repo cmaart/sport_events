@@ -22,5 +22,6 @@
   "registrationUrl": "https://entry.racetime.pro/",
   "description": "Radmarathon entlang der Donau im UNESCO-Welterbe Wachau. Drei Streckenoptionen: 50, 100 und 200 km. Start 09:00 Uhr in Mautern/Krems.",
   "distanceKm": 200,
-  "elevationGainM": 2200
+  "elevationGainM": 2200,
+  "imageUrl": "https://www.wachau-radmarathon.at/images/cache/c7f2410a341070403223495283968503_w380_h206_cp.jpg"
 }
