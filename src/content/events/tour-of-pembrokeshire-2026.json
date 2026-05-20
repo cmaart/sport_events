@@ -1,0 +1,22 @@
+{
+  "id": "tour-of-pembrokeshire-2026",
+  "name": "Tour of Pembrokeshire",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St Davids",
+    "lat": 51.8813,
+    "lng": -5.2702
+  },
+  "websiteUrl": "https://bigcowsports.com/tour-of-pembrokeshire/",
+  "description": "Tour of Pembrokeshire in St Davids (Pembrokeshire, Wales): 169 km / ca. 3.050 Hm entlang der dramatischen walisischen Atlantikküste mit den Preseli Hills. Kürzere Distanzen 99 km und 38 km. Spektakuläre Küstenlandschaft des Pembrokeshire Coast National Park.",
+  "distanceKm": 169,
+  "elevationGainM": 3048
+}

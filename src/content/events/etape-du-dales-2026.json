@@ -1,0 +1,22 @@
+{
+  "id": "etape-du-dales-2026",
+  "name": "Etape du Dales",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Settle",
+    "lat": 54.0686,
+    "lng": -2.2775
+  },
+  "websiteUrl": "https://www.etapedudales.org/",
+  "description": "Etape du Dales in Settle (North Yorkshire, England): 170 km / 3.200 Hm durch sechs Dales – Wharfedale, Littondale, Wensleydale, Swaledale, Dentdale und Ribblesdale. Auch Mini Etape 110 km und GRVL Dales 80 km. 2026 mit neuem Startgelände im Stadtzentrum Settle.",
+  "distanceKm": 170,
+  "elevationGainM": 3200
+}

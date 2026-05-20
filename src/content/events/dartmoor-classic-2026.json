@@ -1,0 +1,22 @@
+{
+  "id": "dartmoor-classic-2026",
+  "name": "Dartmoor Classic Sportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Buckfastleigh",
+    "lat": 50.4896,
+    "lng": -3.7757
+  },
+  "websiteUrl": "https://www.dartmoorclassic.co.uk/",
+  "description": "Dartmoor Classic Sportive in Buckfastleigh (Devon, England): Grande 173 km / 2.777 Hm, Medio 107 km oder Piccolo 74 km. Bis zu 25% Steigung am Haytor; gesperrter Bergwertungsabschnitt. Regelmäßig ausgebucht mit 4.000 Teilnehmern; eines der anspruchsvollsten Sportives Großbritanniens.",
+  "distanceKm": 173,
+  "elevationGainM": 2777
+}

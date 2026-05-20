@@ -1,0 +1,22 @@
+{
+  "id": "ring-of-beara-cycle-2026",
+  "name": "Ring of Beara Cycle Kenmare",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kenmare",
+    "lat": 51.8798,
+    "lng": -9.5844
+  },
+  "websiteUrl": "https://ringofbearacyclekenmare.com/",
+  "description": "Ring of Beara Cycle in Kenmare (County Kerry, Irland): 140 km / 1.730 Hm, 110 km oder 85 km rund um die Beara-Halbinsel am Wild Atlantic Way. Herzstück ist der Caha Pass an der Grenze Cork/Kerry mit Atlantikblick. Große Charity-Veranstaltung.",
+  "distanceKm": 140,
+  "elevationGainM": 1730
+}

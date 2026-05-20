@@ -1,0 +1,22 @@
+{
+  "id": "wicklow200-2026",
+  "name": "Wicklow 200",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Blessington",
+    "lat": 53.1671,
+    "lng": -6.5321
+  },
+  "websiteUrl": "https://www.wicklow200.ie/",
+  "description": "Wicklow 200 in den Wicklow Mountains (Irland): 200 km / über 2.000 Hm oder 100 km durch Irlands spektakulärstes Bergland südlich von Dublin. 42. Auflage; über 3.000 Teilnehmer; mehr als 10 klassifizierte Anstiege durch den Wicklow Mountains National Park.",
+  "distanceKm": 200,
+  "elevationGainM": 3000
+}

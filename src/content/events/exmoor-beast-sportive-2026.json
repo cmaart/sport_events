@@ -1,0 +1,21 @@
+{
+  "id": "exmoor-beast-sportive-2026",
+  "name": "Exmoor Beast Sportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wimbleball Lake",
+    "lat": 51.0672,
+    "lng": -3.4803
+  },
+  "websiteUrl": "https://sportivaevents.co.uk/events/exmoor-beast/",
+  "description": "Exmoor Beast Sportive am Wimbleball Lake (Somerset/Devon, England): Beast 161 km, Beauty 105 km oder Breeze 68 km durch den Exmoor National Park. Start und Ziel am Stausee mit Campingmöglichkeit; eines der bekanntesten britischen Spätsommer-Sportives.",
+  "distanceKm": 161
+}

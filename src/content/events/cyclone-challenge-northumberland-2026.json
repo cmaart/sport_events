@@ -1,0 +1,21 @@
+{
+  "id": "cyclone-challenge-northumberland-2026",
+  "name": "Cyclone Challenge Rides",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Newcastle upon Tyne",
+    "lat": 54.9783,
+    "lng": -1.6178
+  },
+  "websiteUrl": "https://cyclonecycling.com/",
+  "description": "Cyclone Challenge Rides in Northumberland (England): 165 km, 134 km, 106 km oder 56 km durch Northumberland, inklusive des legendären Winter's Gibbet-Anstiegs (einer der 100 größten Anstiege Großbritanniens). Familienfreundliches Mehrdistanz-Radsportfestival auf gesperrten Straßen.",
+  "distanceKm": 165
+}
