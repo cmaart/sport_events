@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-serra-da-estrela-2026",
+  "name": "Granfondo Serra da Estrela",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Manteigas",
+    "lat": 40.3993,
+    "lng": -7.5335
+  },
+  "websiteUrl": "https://granfondoserradaestrela.com/",
+  "description": "Granfondo Serra da Estrela (11. Auflage): Größtes Radsporttouristik-Event Portugals in Europas größtem Gebirge. Granfondo 154 km / 4.200 Hm über Torre (1.993 m, höchster Gipfel Portugals), Mediofondo 102 km / 2.800 Hm. Start und Ziel in Manteigas, Windmühlen von Seia, Hochplateau Serra da Estrela.",
+  "distanceKm": 154,
+  "elevationGainM": 4200
+}

@@ -1,0 +1,22 @@
+{
+  "id": "la-indurain-granfondo-2026",
+  "name": "La Indurain Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Villava",
+    "lat": 42.8198,
+    "lng": -1.6161
+  },
+  "websiteUrl": "https://laindurain.com/en/",
+  "description": "La Indurain Gran Fondo in Navarra: Granfondo 180 km / 3.130 Hm, Mediofondo 100 km / 1.452 Hm oder Kurzstrecke 60 km / 700 Hm. Start in Villava, dem Heimatort von 5-fach Tour-de-France-Sieger Miguel Induráin. Route durch Navarra mit mehreren Kategorie-1-Anstiegen in den Pyrenäen-Ausläufern.",
+  "distanceKm": 180,
+  "elevationGainM": 3130
+}

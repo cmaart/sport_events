@@ -1,0 +1,21 @@
+{
+  "id": "marxa-3-nacions-2026",
+  "name": "Marxa Cicloturista 3 Nacions",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Puigcerdà",
+    "lat": 42.4302,
+    "lng": 1.9278
+  },
+  "websiteUrl": "https://3nacions.com/",
+  "description": "Marxa Cicloturista 3 Nacions (45. Auflage) in der Cerdanya: 140 km durch Spanien, Andorra und Frankreich. Highlight: Port d'Envalira (2.407 m), der höchste asphaltierte Pass Europas. Weitere Pässe: Col de Puymorens (1.952 m). Start und Ziel in Puigcerdà. Einzige Cyclosportive der Welt über drei Staaten.",
+  "distanceKm": 140
+}

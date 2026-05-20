@@ -1,0 +1,21 @@
+{
+  "id": "douro-granfondo-2026",
+  "name": "Love Tiles Douro Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-04-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peso da Régua",
+    "lat": 41.1602,
+    "lng": -7.7874
+  },
+  "websiteUrl": "https://www.dourogranfondo.com/",
+  "description": "Love Tiles Douro Granfondo im UNESCO-Welterbe Douro-Tal: Granfondo 135 km oder Minifondo 69 km durch die Weinberge des Alto Douro. Route führt durch Lamego, Tarouca, Armamar, Tabuaço und São João da Pesqueira entlang der terrassierten Hänge des Douro-Flusses.",
+  "distanceKm": 135
+}
