@@ -1,0 +1,22 @@
+{
+  "id": "etape-greece-2026",
+  "name": "L'Étape Greece by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GR",
+  "dates": {
+    "start": "2026-04-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sparta",
+    "lat": 37.0747,
+    "lng": 22.4308
+  },
+  "websiteUrl": "https://greece.letapeseries.com/",
+  "description": "L'Étape Greece by Tour de France in der Peloponnes: The Race 140 km / 1.700 Hm, The Ride 67 km / 1.250 Hm oder The Fun Ride 15 km. Start und Ziel in Sparta, Geschichte des antiken Griechenland als Kulisse. Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
+  "distanceKm": 140,
+  "elevationGainM": 1700
+}

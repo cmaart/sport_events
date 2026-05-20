@@ -1,0 +1,21 @@
+{
+  "id": "neuseen-classics-radmarathon-leipzig-2026",
+  "name": "PŸUR Neuseen Classics Radmarathon Leipzig",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.3397,
+    "lng": 12.3731
+  },
+  "websiteUrl": "https://neuseenclassics.maximalpuls.com/",
+  "description": "PŸUR Neuseen Classics Radmarathon Leipzig rund um die Seenlandschaft südlich von Leipzig: Radmarathon 212 km (Startschuss 4:30 Uhr), Radmarathon 100 km oder Sportive 60 km. Flache bis leicht hügelige Strecke durch das Neuseenland. Beliebte Breitensportveranstaltung in Sachsen.",
+  "distanceKm": 212
+}
