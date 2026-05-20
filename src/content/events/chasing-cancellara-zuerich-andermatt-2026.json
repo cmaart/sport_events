@@ -1,0 +1,22 @@
+{
+  "id": "chasing-cancellara-zuerich-andermatt-2026",
+  "name": "Chasing Cancellara Zürich–Andermatt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zürich",
+    "lat": 47.3769,
+    "lng": 8.5417
+  },
+  "websiteUrl": "https://www.chasingcancellara.com/zurich-andermatt",
+  "description": "Chasing Cancellara Zürich–Andermatt: 195 km / 4.200 Hm von Zürich durchs Mittelland über Pässe in die Innerschweiz nach Andermatt. Start um 02:00 Uhr; zeitgenommene Veranstaltung mit Solo-, Relay-, Paar- und Triowertung. Fabian Cancellaras Premium-Amateurrenn-Serie; Teil des Swiss Cycling Top Tour.",
+  "distanceKm": 195,
+  "elevationGainM": 4200
+}

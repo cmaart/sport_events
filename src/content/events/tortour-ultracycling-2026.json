@@ -1,0 +1,22 @@
+{
+  "id": "tortour-ultracycling-2026",
+  "name": "TORTOUR Ultracycling",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-13",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schaffhausen",
+    "lat": 47.696,
+    "lng": 8.6343
+  },
+  "websiteUrl": "https://tortour.com/en/",
+  "description": "TORTOUR Ultracycling in Schaffhausen: Nonstop-Ultradistanz 1.000 km, 500 km oder 250 km durch die Schweiz sowie Einstiegsdistanz 50 km. Solo oder Team. Weltgrößtes Nonstop-Ultracycling-Event kehrt nach 6 Jahren nach Schaffhausen zurück.",
+  "distanceKm": 1000
+}

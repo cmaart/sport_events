@@ -1,0 +1,22 @@
+{
+  "id": "saentis-classic-2026",
+  "name": "Säntis Classic",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weinfelden",
+    "lat": 47.568,
+    "lng": 9.1026
+  },
+  "websiteUrl": "https://www.saentis-classic.ch/",
+  "description": "Säntis Classic in Weinfelden (Thurgau): Gran Fondo 200 km / 2.200 Hm oder 130 km / 1.800 Hm durch das Alpstein-Massiv und entlang dem Bodensee. Familiäre Atmosphäre ohne Zeitnahme; Teil des Swiss Cycling Top Tour.",
+  "distanceKm": 200,
+  "elevationGainM": 2200
+}

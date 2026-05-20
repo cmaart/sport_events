@@ -1,0 +1,24 @@
+{
+  "id": "engadin-radmarathon-2026",
+  "name": "Engadin Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen",
+    "Radmarathon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-07-03",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zernez",
+    "lat": 46.6969,
+    "lng": 10.0983
+  },
+  "websiteUrl": "https://www.rad-marathon.ch/en",
+  "description": "Engadin Radmarathon in Zernez (Unterengadin): 3-tägiger Etappen-Radmarathon über ca. 221 km / 4.000+ Hm durch fünf Alpenpässe im Graubünden. Prologue als 7-km-Zeitfahren auf den Ofenpass; Teil des Swiss Cycling Top Tour.",
+  "distanceKm": 221,
+  "elevationGainM": 4000
+}

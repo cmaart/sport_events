@@ -1,0 +1,23 @@
+{
+  "id": "eiger-bike-challenge-2026",
+  "name": "Eiger Bike Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-08",
+    "end": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grindelwald",
+    "lat": 46.6245,
+    "lng": 8.0412
+  },
+  "websiteUrl": "https://www.eigerbike.ch/",
+  "description": "Eiger Bike Challenge in Grindelwald (Berner Oberland) unter der Eiger-Nordwand: Marathon MTB 80 km / 4.200 Hm, 50 km / 2.500 Hm, Gravel 45 km / 2.124 Hm und 30 km. Teil der Bike Marathon Classics; spektakuläre Hochgebirgslandschaft im Jungfrau-UNESCO-Welterbe.",
+  "distanceKm": 80,
+  "elevationGainM": 4200
+}

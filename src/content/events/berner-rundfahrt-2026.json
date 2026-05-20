@@ -1,0 +1,21 @@
+{
+  "id": "berner-rundfahrt-2026",
+  "name": "Berner Rundfahrt",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lyss",
+    "lat": 47.0726,
+    "lng": 7.3047
+  },
+  "websiteUrl": "https://www.swiss-cycling.ch/de/top_tour2026/",
+  "description": "Berner Rundfahrt in Lyss (Berner Mittelland): Gran Fondo 102 km, 68 km oder 34 km durch die flache Mittellandlandschaft zwischen Berner Jura und Alpenvorland. Zeitgenommenes Rennformat; Teil des Swiss Cycling Top Tour.",
+  "distanceKm": 102
+}

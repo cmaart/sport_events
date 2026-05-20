@@ -1,0 +1,22 @@
+{
+  "id": "chasing-cancellara-bern-zermatt-2026",
+  "name": "Chasing Cancellara Bern–Zermatt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ittigen",
+    "lat": 46.9726,
+    "lng": 7.4836
+  },
+  "websiteUrl": "https://www.chasingcancellara.com/bern-zermatt",
+  "description": "Chasing Cancellara Bern–Zermatt: 274 km / ca. 5.500 Hm von Ittigen bei Bern über mehrere Walliser Alpenpässe nach Zermatt. Start um 02:00 Uhr; zeitgenommene Ultradistanz mit Solo-, Relay-, Paar- und Triowertung. Härtester Abschnitt der Chasing Cancellara Serie; Teil des Swiss Cycling Top Tour.",
+  "distanceKm": 274,
+  "elevationGainM": 5500
+}
