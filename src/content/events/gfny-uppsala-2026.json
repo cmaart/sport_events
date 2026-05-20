@@ -1,0 +1,21 @@
+{
+  "id": "gfny-uppsala-2026",
+  "name": "GFNY Uppsala",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389
+  },
+  "websiteUrl": "https://uppsala.gfny.com/",
+  "description": "GFNY Uppsala nördlich von Stockholm: Gran Fondo 134 km (davon 38 km Gravel) / 495 Hm oder Medium 79 km (19 km Gravel) durch die hügelige Kulturlandschaft Upplands. Kombiniertes Road-Gravel-Format. Teil der weltweiten GFNY-Rennserie.",
+  "distanceKm": 134
+}

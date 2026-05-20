@@ -1,0 +1,21 @@
+{
+  "id": "evertsberg-gravel-2026",
+  "name": "Evertsberg Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Evertsberg",
+    "lat": 61.003,
+    "lng": 14.143
+  },
+  "websiteUrl": "https://nordicgravel.com/collections/evertsberg-gravel-02-08-2026",
+  "description": "Evertsberg Gravel in Dalarna (Schweden): Nordic Gravel Series Rennen mit Strecken über 158 km, 102 km und 56 km durch die zentral-schwedische Waldlandschaft rund um Evertsberg. Teil der Nordic Gravel Series 2026.",
+  "distanceKm": 158
+}
