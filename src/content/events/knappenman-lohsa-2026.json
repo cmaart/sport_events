@@ -1,0 +1,25 @@
+{
+  "id": "knappenman-lohsa-2026",
+  "name": "Sparkassen KnappenMan Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lohsa – Dreiweiberner See",
+    "lat": 51.4133,
+    "lng": 14.2750
+  },
+  "websiteUrl": "https://www.knappenman.com/",
+  "description": "Sparkassen KnappenMan Triathlon am Dreiweiberner See im Lausitzer Seenland: Langdistanz, Mitteldistanz, Olympische Distanz und Sprint. Das renommierte Mehrdistanz-Triathlon-Festival in Sachsen nutzt die renaturierten Tagebauseen der Lausitz als Kulisse. Einzel- und Staffelstart möglich.",
+  "distanceKm": 226
+}
