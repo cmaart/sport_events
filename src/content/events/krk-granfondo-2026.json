@@ -1,0 +1,21 @@
+{
+  "id": "krk-granfondo-2026",
+  "name": "KRK Granfondo Falkensteiner Punat",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Punat",
+    "lat": 45.0186,
+    "lng": 14.6347
+  },
+  "websiteUrl": "https://krkgranfondo.com/index.php/en/english/",
+  "description": "KRK Granfondo Falkensteiner Punat auf der Kvarner-Insel Krk: 82 km Küsten- und Bergstrecke über Wiesen, Karsthochflächen und dalmatinische Küstenabschnitte. Start und Ziel beim Falkensteiner Hotel Punat. Teil des Granfondo World Tour.",
+  "distanceKm": 82
+}

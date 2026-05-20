@@ -1,0 +1,21 @@
+{
+  "id": "granfondo-amsterdam-2026",
+  "name": "Gran Fondo Amsterdam",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2026-05-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Amsterdam",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  "websiteUrl": "https://www.granfondoamsterdam.nl/",
+  "description": "Gran Fondo Amsterdam: Granfondo 115 km, Mediofondo 85 km oder Kurzstrecke 65 km durch die Provinz Noord-Holland und die Polder der Randstad. Start im Herzen von Amsterdam.",
+  "distanceKm": 115
+}

@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-roonda-stubaki-2026",
+  "name": "Granfondo Roonda Stubaki",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-05-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stubičke Toplice",
+    "lat": 46.0525,
+    "lng": 15.8861
+  },
+  "websiteUrl": "https://zagorjeoutdoor.hr/en/event/roonda-gran-fondo-stubaki/",
+  "description": "Granfondo Roonda Stubaki im Krapina-Zagorje-Landkreis (Kroatien): 100 km / 1.100 Hm durch hügeliges Karsthinterland. Limitiert auf 400 Teilnehmer. Start und Ziel in Stubičke Toplice.",
+  "distanceKm": 100,
+  "elevationGainM": 1100
+}
