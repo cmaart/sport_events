@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-sestriere-2026",
+  "name": "Gran Fondo Sestriere – Colle delle Finestre",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cesana Torinese",
+    "lat": 44.9506,
+    "lng": 6.7975
+  },
+  "websiteUrl": "https://www.granfondosestriere.it/index.php/en/granfondo-sestriere",
+  "description": "Gran Fondo Sestriere – Colle delle Finestre in Cesana Torinese (Val di Susa, Piemont): Gran Fondo 103,6 km / 3.170 Hm oder Medio Fondo 79 km / 2.370 Hm. Herzstück ist der legendäre Colle delle Finestre (18 km, Ø 9,3 %, letzte 8 km Schotter) – Schaupieler unvergesslicher Giro-d'Italia-Etappen.",
+  "distanceKm": 104,
+  "elevationGainM": 3170
+}
