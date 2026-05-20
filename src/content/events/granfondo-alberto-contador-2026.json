@@ -1,0 +1,21 @@
+{
+  "id": "granfondo-alberto-contador-2026",
+  "name": "Gran Fondo Alberto Contador",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oliva Nova",
+    "lat": 38.915,
+    "lng": -0.0713
+  },
+  "websiteUrl": "https://granfondoalbertocontador.com/en/",
+  "description": "Gran Fondo Alberto Contador TotalEnergies in Oliva Nova (Valencia): 146 km oder 115 km durch die valencianische Küsten- und Berglandschaft. 15. Auflage; UCI-anerkannte Veranstaltung mit Beteiligung von Alberto Contador. Start und Ziel im Strandresort Oliva Nova.",
+  "distanceKm": 146
+}

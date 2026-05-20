@@ -1,0 +1,21 @@
+{
+  "id": "ironman-703-costa-navarino-2026",
+  "name": "IRONMAN 70.3 Costa Navarino",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GR",
+  "dates": {
+    "start": "2026-10-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gialova – Messenia",
+    "lat": 36.9683,
+    "lng": 21.6861
+  },
+  "websiteUrl": "https://www.ironman.com/im703-costa-navarino",
+  "description": "IRONMAN 70.3 Costa Navarino in Gialova (Messenien, Peloponnes): 1,9 km / 90 km / 21,1 km. Schwimmen in der Bucht von Navarino; Radstrecke durch olivenbaumgesäumte Hügel Messeniens; mediterranes Herbstklima. Wiederaufnahme des Peloponnes-Events in 2026.",
+  "distanceKm": 113
+}

@@ -1,0 +1,22 @@
+{
+  "id": "la-cantabrona-2026",
+  "name": "La Cantabrona",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Polanco",
+    "lat": 43.3767,
+    "lng": -4.021
+  },
+  "websiteUrl": "https://battistrada.com/en/cycling-calendar/edition/la-cantabrona-2026/48077/",
+  "description": "La Cantabrona in Polanco (Kantabrien, Nordspanien): Gran Fondo 170 km / 3.400 Hm oder Medio Fondo 110 km durch das kantabrische Gebirge an der Nordküste Spaniens. Nichtkompetitiv; veranstaltet von der Peña Ciclista Mario González.",
+  "distanceKm": 170,
+  "elevationGainM": 3400
+}

@@ -1,0 +1,22 @@
+{
+  "id": "alpinum-totalenergies-2026",
+  "name": "Alpinum TotalEnergies",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alp – Cerdanya",
+    "lat": 42.3845,
+    "lng": 1.8786
+  },
+  "websiteUrl": "https://www.alpinum-ride.cc/en/",
+  "description": "Alpinum TotalEnergies in Alp (Cerdanya, Katalonien): 185 km / 3.635 Hm, 145 km oder 89 km; Route überquert Port d'Envalira und weitere Pyrenäenpässe durch Spanien, Andorra und Frankreich. Limitiert auf 1.200 Teilnehmer; 3 Tage vor der gleichnamigen Tour-de-France-Etappe.",
+  "distanceKm": 185,
+  "elevationGainM": 3635
+}
