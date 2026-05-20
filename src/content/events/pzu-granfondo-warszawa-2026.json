@@ -1,0 +1,21 @@
+{
+  "id": "pzu-granfondo-warszawa-2026",
+  "name": "PZU Gran Fondo Warszawa",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PL",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Warszawa",
+    "lat": 52.246,
+    "lng": 21.0275
+  },
+  "websiteUrl": "https://gfseries.pl/en/",
+  "description": "PZU Gran Fondo Warszawa auf vollgesperrten Straßen entlang der Weichsel: Gran Fondo ca. 109 km und Medio Fondo ca. 81 km. Start und Ziel an der Świętokrzyski-Brücke im Herzen Warschaus. Teil der polnischen PZU Gran Fondo Series.",
+  "distanceKm": 109
+}

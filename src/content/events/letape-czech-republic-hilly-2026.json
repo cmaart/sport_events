@@ -1,0 +1,22 @@
+{
+  "id": "letape-czech-republic-hilly-2026",
+  "name": "L'Étape Czech Republic – Hilly Stage",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Praha",
+    "lat": 50.045,
+    "lng": 14.437
+  },
+  "websiteUrl": "https://www.letapeczech.cz/en/",
+  "description": "L'Étape Czech Republic Hilly Stage in Prag: 132 km / 1.700 Hm (Long), 102 km / 1.200 Hm (Middle) oder 57 km / 450 Hm (Short) durch das hügelige Böhmen rund um Prag. Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
+  "distanceKm": 132,
+  "elevationGainM": 1700
+}

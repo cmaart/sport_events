@@ -1,0 +1,21 @@
+{
+  "id": "keszthely-triathlon-2026",
+  "name": "Keszthely Triathlon – My575 Challenge",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Keszthely",
+    "lat": 46.7655,
+    "lng": 17.248
+  },
+  "websiteUrl": "https://www.my575challenge.hu/en/",
+  "description": "Keszthely Triathlon – My575 Challenge am Balaton-Stadtstrand in Keszthely (Ungarn): Mitteldistanz 1,9 km / 86,3 km / 20,5 km im Freiwasser des Balaton-Sees. Beliebtes ungarisches Triathlon-Event mit mediterraner Balaton-Kulisse.",
+  "distanceKm": 109
+}

@@ -1,0 +1,21 @@
+{
+  "id": "czechman-triathlon-2026",
+  "name": "CZECHMAN Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dolany – Písník Hrádek",
+    "lat": 50.1193,
+    "lng": 15.7167
+  },
+  "websiteUrl": "https://www.czechman.cz/en",
+  "description": "CZECHMAN Triathlon am Písník Hrádek-See in Dolany bei Pardubice: Mitteldistanz 1,9 km / 90 km / 21 km. Ausgebuchtes tschechisches Mitteldistanz-Highlight in Ostböhmen.",
+  "distanceKm": 113
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pzu-granfondo-elk-2026",
+  "name": "PZU Gran Fondo Ełk",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PL",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ełk",
+    "lat": 53.8284,
+    "lng": 22.3648
+  },
+  "websiteUrl": "https://gfseries.pl/en/",
+  "description": "PZU Gran Fondo Ełk in der masurischen Seenplatte (Polen): Gran Fondo 95 km (teils Gravel), Medio Fondo 68 km und Family Fondo 32 km. Start und Ziel am Stadtstrand von Ełk. Teil der polnischen PZU Gran Fondo Series.",
+  "distanceKm": 95
+}

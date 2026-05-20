@@ -1,0 +1,22 @@
+{
+  "id": "letape-czech-republic-flat-2026",
+  "name": "L'Étape Czech Republic – Flat Stage",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pardubice",
+    "lat": 50.0343,
+    "lng": 15.7812
+  },
+  "websiteUrl": "https://www.letapeczech.cz/en/",
+  "description": "L'Étape Czech Republic Flat Stage in Pardubice (Ostböhmen): 111 km / 270 Hm auf komplett gesperrten Straßen. Erste Flachetappe der L'Étape Czech Republic; wellenförmiger Massenstart. Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
+  "distanceKm": 111,
+  "elevationGainM": 270
+}
