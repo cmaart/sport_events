@@ -1,0 +1,22 @@
+{
+  "id": "etape-du-tour-femmes-2026",
+  "name": "L'Étape du Tour de France Femmes",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-08-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vaison-la-Romaine",
+    "lat": 44.2436,
+    "lng": 5.0722
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape du Tour de France Femmes 2026: 120 km / ca. 3.000 Hm von Vaison-la-Romaine auf den Mont Ventoux (Bédoin). Begleitend zur Tour de France Femmes avec Zwift; offizielle Amateurinnen-Etappe auf der Profi-Strecke. Separate Veranstaltung zur Étape du Tour (Jul 19).",
+  "distanceKm": 120,
+  "elevationGainM": 3000
+}

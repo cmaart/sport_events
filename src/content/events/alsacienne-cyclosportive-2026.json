@@ -1,0 +1,22 @@
+{
+  "id": "alsacienne-cyclosportive-2026",
+  "name": "L'Alsacienne Cyclosportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kruth",
+    "lat": 47.9022,
+    "lng": 6.9514
+  },
+  "websiteUrl": "https://www.alsacienne-cyclo.org",
+  "description": "L'Alsacienne Cyclosportive am Lac de Kruth-Wildenstein im Elsass: 195 km / 4.900 Hm, 150 km / 3.800 Hm oder 120 km / 2.800 Hm (zeitgenommen) sowie kürzere Randonnée-Strecken. Überquert Grand Ballon, Markstein, Petit Ballon und Platzerwasel in den Südvogesen.",
+  "distanceKm": 195,
+  "elevationGainM": 4900
+}

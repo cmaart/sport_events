@@ -1,0 +1,22 @@
+{
+  "id": "wish-one-millau-gravel-2026",
+  "name": "Wish One Millau Grands Causses",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Millau",
+    "lat": 44.0999,
+    "lng": 3.0773
+  },
+  "websiteUrl": "https://wishonegravelrace.com",
+  "description": "Wish One Millau Grands Causses in Millau (Aveyron): UCI Gravel World Series Rennen mit Strecken 130 km / 2.500 Hm, 80 km und 40 km. Ziel unter dem spektakulären Millau-Viadukt auf den Causses du Aveyron. Qualifizierungsrennen für die UCI Gravel World Championships.",
+  "distanceKm": 130,
+  "elevationGainM": 2500
+}

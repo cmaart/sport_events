@@ -1,0 +1,23 @@
+{
+  "id": "col-de-la-loze-challenge-2026",
+  "name": "Col de la Loze Challenge by BLB",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Brides-les-Bains",
+    "lat": 45.4658,
+    "lng": 6.5711
+  },
+  "websiteUrl": "https://coldelalozebyblb.com/en/",
+  "description": "Col de la Loze Challenge by BLB in Brides-les-Bains (Savoie): Bergstrecke 117 km / 4.377 Hm mit Aufstieg auf den Col de la Loze (2.304 m) via Méribel oder Courchevel; weitere Distanzen 53 km / 46 km / 30 km. E-Bikes auf Kurzstrecken erlaubt. Spektakuläres Savoyer Hochgebirge.",
+  "distanceKm": 117,
+  "elevationGainM": 4377
+}
