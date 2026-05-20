@@ -1,0 +1,21 @@
+{
+  "id": "gravel-one-fifty-roden-2026",
+  "name": "Gravel One Fifty",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Roden",
+    "lat": 53.1375,
+    "lng": 6.4208
+  },
+  "websiteUrl": "https://www.gravelonefifty.nl/",
+  "description": "Gravel One Fifty in Roden (Drenthe, Niederlande): 150 km oder 92 km auf befestigten Schotterwegen, Graspassagen und Sandpisten Nordhollands (praktisch eben). UCI Gravel World Series-Qualifikation; 5. Auflage des Spektakels rund um das historische Zentrum von Roden.",
+  "distanceKm": 150
+}

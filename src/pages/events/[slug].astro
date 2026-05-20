@@ -93,6 +93,7 @@ const sportsEventLd: Record<string, unknown> = {
   },
 };
 if (end) sportsEventLd.endDate = end.toISOString().slice(0, 10);
+if (e.websiteUrl) sportsEventLd.sameAs = e.websiteUrl;
 if (e.registrationUrl) {
   sportsEventLd.offers = {
     '@type': 'Offer',

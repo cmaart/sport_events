@@ -1,0 +1,22 @@
+{
+  "id": "sea-otter-europe-girona-gravel-2026",
+  "name": "Sea Otter Europe Girona Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Girona",
+    "lat": 41.983,
+    "lng": 2.825
+  },
+  "websiteUrl": "https://gironagravelworldseries.com/",
+  "description": "Sea Otter Europe Girona Gravel World Series: 109 km / 940 Hm von Juià durch das Les-Gavarres-Massiv mit Zielankunft beim Shimano Sea Otter Europe Festival in Fontajau (Girona). UCI Gravel World Series-Qualifikation mit technischen Auf- und Abfahrten; Teil des größten europäischen Radfestivals.",
+  "distanceKm": 109,
+  "elevationGainM": 940
+}

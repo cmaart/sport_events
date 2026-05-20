@@ -1,0 +1,22 @@
+{
+  "id": "the-wolf-gravel-dronninglund-2026",
+  "name": "The Wolf Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DK",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dronninglund – Nordjütland",
+    "lat": 57.1604,
+    "lng": 10.2929
+  },
+  "websiteUrl": "https://www.thewolfgravel.com/",
+  "description": "The Wolf Gravel im Dronninglund Storskov (Nordjütland, Dänemark): UCI Gravel World Series-Qualifikation und Nordic Gravel Championship mit ca. 120 km (3 Runden), 90 km oder 55 km auf 75 % Schotterwegen. Kurs passiert Schloss Voergaard; Event als Gravel-Festival mit Expo-Village konzipiert.",
+  "distanceKm": 120,
+  "elevationGainM": 1500
+}

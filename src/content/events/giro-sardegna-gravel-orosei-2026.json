@@ -1,0 +1,22 @@
+{
+  "id": "giro-sardegna-gravel-orosei-2026",
+  "name": "Giro Sardegna Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Orosei",
+    "lat": 40.3783,
+    "lng": 9.6925
+  },
+  "websiteUrl": "https://girosardegna.com/",
+  "description": "Giro Sardegna Gravel in Orosei (Provinz Nuoro, Sardinien): 136 km / 1.728 Hm oder 95 km / 1.187 Hm durch sardische Pinienwälder mit Strandpassagen und Berganstiegen. UCI Gravel World Series-Qualifikation; 3. Auflage mit rund 600 Teilnehmern aus 22 Nationen.",
+  "distanceKm": 136,
+  "elevationGainM": 1728
+}

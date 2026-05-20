@@ -1,0 +1,22 @@
+{
+  "id": "gt3-lavaredo-gravel-2026",
+  "name": "Grand Tour 3 Cime Lavaredo Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Auronzo di Cadore",
+    "lat": 46.5512,
+    "lng": 12.443
+  },
+  "websiteUrl": "https://gravelmarathon.gt3lavaredo.com/",
+  "description": "Grand Tour 3 Cime Lavaredo Gravel in Auronzo di Cadore (Provinz Belluno, Venetien): UCI Gravel World Series-Qualifikation im Dolomiten-UNESCO-Welterbe mit Gran Fondo 133 km / 3.170 Hm oder Medio Fondo 105 km / 2.470 Hm. Highlights: Klammbach-Pass (1.929 m), Passo Tre Croci und Cimabanche; Start/Ziel auf 831 m. Limitiert auf 1.200 Teilnehmer.",
+  "distanceKm": 133,
+  "elevationGainM": 3170
+}

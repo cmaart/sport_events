@@ -1,0 +1,22 @@
+{
+  "id": "gravel-tour-hlinsko-2026",
+  "name": "Gravel Tour Hlinsko",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hlinsko v Čechách",
+    "lat": 49.7621,
+    "lng": 15.9076
+  },
+  "websiteUrl": "https://www.graveltour-hlinsko.cz",
+  "description": "Gravel Tour Hlinsko in Hlinsko v Čechách (Region Pardubice, Tschechien): UCI Gravel World Series-Qualifikation mit 129 km / 1.577 Hm oder 86 km / 1.102 Hm durch das Eisengebirge und die Žďárské Vrchy-Hochfläche. Mehrfacher Austragungsort der Tschechischen Gravel-Meisterschaft; erstmals 2026 im UCI Gravel World Series-Kalender.",
+  "distanceKm": 129,
+  "elevationGainM": 1577
+}

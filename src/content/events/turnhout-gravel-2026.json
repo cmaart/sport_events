@@ -1,0 +1,22 @@
+{
+  "id": "turnhout-gravel-2026",
+  "name": "Turnhout Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-03-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Turnhout",
+    "lat": 51.3225,
+    "lng": 4.9447
+  },
+  "websiteUrl": "https://turnhoutgravel.be/",
+  "description": "Turnhout Gravel in Turnhout (Provinz Antwerpen, Flandern): 136 km oder 68 km auf charakteristischen Kempen-Sandstraßen, Forstwegen und offenen Feldern (extrem flach, ca. 220 Hm). UCI Gravel World Series-Qualifikation für WM und UEC-Europameisterschaft; Teil der Bolero Gravel Series mit 2.500 Teilnehmern aus 27 Nationen.",
+  "distanceKm": 136,
+  "elevationGainM": 220
+}

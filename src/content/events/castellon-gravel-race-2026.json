@@ -1,0 +1,22 @@
+{
+  "id": "castellon-gravel-race-2026",
+  "name": "Castellón Gravel Race",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-02-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Llucena (Lucena del Cid)",
+    "lat": 40.138,
+    "lng": -0.2804
+  },
+  "websiteUrl": "https://castellongravelrace.com/",
+  "description": "Castellón Gravel Race in Llucena (l'Alcalatén, Valencia): 97 km / 2.500 Hm oder 85 km / 2.100 Hm mit 72 % Schotterpassagen in der bergigen Hinterland-Provinz Castellón. UCI Gravel World Series-Qualifikation; 2. Auflage (Premiere 2025 mit Alejandro Valverde als Sieger).",
+  "distanceKm": 97,
+  "elevationGainM": 2500
+}

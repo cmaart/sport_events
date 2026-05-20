@@ -1,0 +1,22 @@
+{
+  "id": "uec-gravel-european-championship-houffalize-2026",
+  "name": "UEC European Gravel Championships",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Houffalize",
+    "lat": 50.1324,
+    "lng": 5.7896
+  },
+  "websiteUrl": "https://eurogravel26.com/",
+  "description": "UEC Europameisterschaft Gravel 2026 in Houffalize (Provinz Luxemburg, Ardennen): 141 km / 2.100 Hm (3 Runden) oder 94 km / 1.400 Hm (2 Runden) auf 70–80 % Offroad-Terrain. Gleichzeitig UCI Gravel World Series-Qualifikation; Start am Grand Place mit dem berühmten Anstieg der Rue du Saint-Roch, bekannt aus Lüttich–Bastogne–Lüttich.",
+  "distanceKm": 141,
+  "elevationGainM": 2100
+}

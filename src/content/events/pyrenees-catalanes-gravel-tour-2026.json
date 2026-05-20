@@ -1,0 +1,21 @@
+{
+  "id": "pyrenees-catalanes-gravel-tour-2026",
+  "name": "Pyrénées Catalanes Gravel Tour",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Font-Romeu-Odeillo-Via",
+    "lat": 42.5044,
+    "lng": 2.0408
+  },
+  "websiteUrl": "https://www.66-degres-sud.fr/",
+  "description": "Pyrénées Catalanes Gravel Tour (66 Degrés Sud) in Font-Romeu-Odeillo-Via (1.800 m, Pyrénées-Orientales, Okzitanien): Abschluss-Qualifikationsevent der UCI Gravel World Series Saison 2026 in den Katalanischen Pyrenäen mit Gipfeln bis 2.400 m. Route durch Capcir und Cerdagne auf Schotter- und Bergpfaden; Kursdetails noch nicht veröffentlicht.",
+  "distanceKm": 110
+}

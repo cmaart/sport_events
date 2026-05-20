@@ -1,0 +1,22 @@
+{
+  "id": "eislek-gravel-luxembourg-2026",
+  "name": "Eislek Gravel Luxembourg",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "LU",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vianden",
+    "lat": 49.9389,
+    "lng": 6.1996
+  },
+  "websiteUrl": "https://www.eislekgravelluxembourg.com/",
+  "description": "Eislek Gravel Luxembourg in Vianden (Kanton Vianden, Luxemburg): UCI Gravel World Series-Qualifikation mit 109,8 km / 2.670 Hm (3 Runden) oder 73,2 km / 1.780 Hm (2 Runden) im Éislek-Gebirge. Start mit gepflastertem Anstieg zur Burg Vianden; Kurs entlang des Our-Flusses durch die Ardennen-Waldlandschaft. 2. Auflage.",
+  "distanceKm": 110,
+  "elevationGainM": 2670
+}

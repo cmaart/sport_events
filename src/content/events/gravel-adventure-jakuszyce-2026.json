@@ -1,0 +1,22 @@
+{
+  "id": "gravel-adventure-jakuszyce-2026",
+  "name": "Gravel Adventure",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "PL",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jakuszyce – Szklarska Poręba",
+    "lat": 50.8167,
+    "lng": 15.4316
+  },
+  "websiteUrl": "https://graveladventure.pl/",
+  "description": "Gravel Adventure in Jakuszyce bei Szklarska Poręba (Isergebirge, Niederschlesien): UCI Gravel World Series-Qualifikation mit Gran Fondo 110 km / 2.000 Hm oder Medio Fondo 64 km durch das Isergebirge nahe der tschechischen Grenze. Start am Biathlon-Sportzentrum Polana Jakuszycka; Route durch Wälder und Bergpässe des Riesengebirge-Grenzraums.",
+  "distanceKm": 110,
+  "elevationGainM": 2000
+}
