@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.triathlon-kitzbuehel.com",
   "description": "Internationaler Triathlon am idyllischen Schwarzsee in Kitzbühel mit Europe Triathlon Cup für Elitesportler und Hobbybewerb in der Sprintdistanz. Die Radstrecke führt über einen Rundkurs mit Anstieg zum Seebichl, der Laufkurs entlang des Seeufers.",
   "distanceKm": 24,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://www.kitzbuehel.com/fileadmin/_processed_/b/7/csm_Triathlon_-_Schwarzsee_Kitzb%C3%BChel___Medialounge__1__92f4dd21bd.jpg"
 }

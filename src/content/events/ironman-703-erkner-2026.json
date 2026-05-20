@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.ironman.com/im703-erkner",
   "description": "IRONMAN 70.3 am suedoestlichen Stadtrand Berlins: 1,9 km Schwimmen im Daemmeritzsee Strandbad Erkner, 90 km nahezu flache Radstrecke durch Brandenburg, 21,1 km flacher Lauf. Bestzeit-Kurs dank minimalem Hoehenunterschied. Teil der IRONMAN European Tour.",
   "distanceKm": 113,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/brandebourg/ironman-70-3-erkner/rvc2fugtluywdup8bvqh"
 }

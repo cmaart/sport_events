@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.ironman.com/im-hamburg",
   "description": "IRONMAN Europameisterschaft in der Hansestadt: 3,8 km Schwimmen in der Alster, 180 km Radfahren durch das Hamburger Umland, Marathon durch die City. Eine der flachsten Langdistanzen Europas (rund 400 hm auf der Radstrecke). Rund 3.000 Athletinnen und Athleten aus aller Welt kämpfen um EM-Titel und Hawaii-Qualifikationsslots. Start am Rathausmarkt um 06:30 Uhr.",
   "distanceKm": 226,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hambourg/ironman-european-championship-hamburg/era8osaplhxrkiwn38vs"
 }

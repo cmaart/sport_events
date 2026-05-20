@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.salzkammergut-trophy.at/",
   "description": "Österreichs größter MTB-Marathon im UNESCO-Welterbegebiet Hallstatt–Dachstein mit über 3.500 internationalen Teilnehmern. Sieben Strecken zwischen 22 und 209 km sowie drei Gravel-Routen; die Route A bietet 209 km und rund 9.000 Höhenmeter durch das alpine Salzkammergut.",
   "distanceKm": 209,
-  "elevationGainM": 9000
+  "elevationGainM": 9000,
+  "imageUrl": "https://www.salzkammergut-trophy.at/_uploads/_fotos/10113_0358_Salzkammergut_Trophy25_Bernd_Schrckelsberger_Presse.jpg"
 }

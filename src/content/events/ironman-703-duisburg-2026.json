@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.ironman.com/im703-duisburg",
   "description": "IRONMAN 70.3 im Herzen des Ruhrgebiets: 1,9 km Schwimmen im Duisburger Innenhafen, 88 km Radstrecke in zwei Schleifen durchs Ruhrgebiet, 21,1 km Lauf in vier Runden mit Zieleinlauf vor dem Rathaus. Start 07:30 Uhr.",
   "distanceKm": 113,
-  "elevationGainM": 700
+  "elevationGainM": 700,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-dusseldorf/ironman-703-de-duisburg/jmv36y2caewiugq4ncbo"
 }

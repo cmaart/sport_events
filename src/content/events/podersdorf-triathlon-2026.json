@@ -23,5 +23,6 @@
   "websiteUrl": "https://www.austria-triathlon.at/",
   "description": "Traditionsreichster Triathlon Österreichs in der 39. Auflage am Neusiedlersee. Vier Distanzen von Sprint bis Langdistanz plus Aquabike und Aquathlon; flache, windige Bedingungen und einzigartige Seeatmosphäre am 4. bis 6. September 2026.",
   "distanceKm": 226,
-  "elevationGainM": 100
+  "elevationGainM": 100,
+  "imageUrl": "https://www.tri2b.com/wp-content/uploads/2025/08/austria_triathlon_frauenpower.jpg"
 }

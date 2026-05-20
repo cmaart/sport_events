@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.ironman.com/im703-kraichgau",
   "description": "Ausverkaufter IRONMAN 70.3 im badischen Kraichgau: 1,9 km Schwimmen im Hardtsee in Ubstadt-Weiher, 90 km Radstrecke mit 1.000 Hm durch das hügelige Kraichgau, 21,1 km Lauf mit Zieleinlauf in Bad Schönborn. Rund 2.400 Athletinnen und Athleten aus aller Welt.",
   "distanceKm": 113,
-  "elevationGainM": 1000
+  "elevationGainM": 1000,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/arrondissement-de-karlsruhe/ironman-703-de-kraichgau/ftqx0txjakhl5vusojek"
 }
