@@ -1,0 +1,21 @@
+{
+  "id": "helsinki-gran-fondo-2026",
+  "name": "Helsinki Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Helsinki",
+    "lat": 60.1699,
+    "lng": 24.9384
+  },
+  "websiteUrl": "https://helsinkigranfondo.fi/en/",
+  "description": "Helsinki Gran Fondo am Velodrom Helsinki: 160 km oder 100 km durch die Küstenlandschaft der finnischen Hauptstadtregion. UCI Gran Fondo World Series Qualifikationsrennen für die Weltmeisterschaften.",
+  "distanceKm": 160
+}

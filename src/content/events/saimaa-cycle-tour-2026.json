@@ -1,0 +1,23 @@
+{
+  "id": "saimaa-cycle-tour-2026",
+  "name": "Saimaa Cycle Tour",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Gravel"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2026-07-10",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Imatra",
+    "lat": 61.1717,
+    "lng": 28.7546
+  },
+  "websiteUrl": "https://saimaacycletour.com/en",
+  "description": "Saimaa Cycle Tour in Imatra (Süd-Karelien, Finnland): Rennrad 300 km / 100 km / 65 km sowie Saimaa Gravel Tour 140–170 km / 90–110 km / 45–65 km rund um den Saimaa-Seenkomplex. Ultradistanz 300 km als Flaggschiff-Strecke; wildromantische Seenlandschaft Finnlands.",
+  "distanceKm": 300
+}

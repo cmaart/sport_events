@@ -1,0 +1,21 @@
+{
+  "id": "fnld-grvl-lahti-2026",
+  "name": "FNLD GRVL",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2026-08-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lahti",
+    "lat": 60.9827,
+    "lng": 25.6612
+  },
+  "websiteUrl": "https://www.fnldgrvl.com",
+  "description": "FNLD GRVL (Finland Gravel) in Lahti: Midnight Sun Route 177 km, Lakes Route 77 km oder Forest Route 40 km durch die finnische Seenlandschaft. Von Formel-1-Fahrer Valtteri Bottas gegründetes Gravel-Event; Teil der Nordic Gravel Series.",
+  "distanceKm": 177
+}

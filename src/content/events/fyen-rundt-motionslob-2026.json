@@ -1,0 +1,21 @@
+{
+  "id": "fyen-rundt-motionslob-2026",
+  "name": "Fyen Rundt Motionsløb",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DK",
+  "dates": {
+    "start": "2026-05-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Middelfart",
+    "lat": 55.5063,
+    "lng": 9.7317
+  },
+  "websiteUrl": "https://fyenrundt.com/motion-info-ny/",
+  "description": "Fyen Rundt Motionsløb in Middelfart (Fünen, Dänemark): Amateurbegleitveranstaltung zum ältesten dänischen UCI-Radrennen (seit 1896): 177 km, 113 km oder 74 km rund um die Insel Fünen. Küstenlandschaft und sanfte Hügel der dänischen Mittelmeerinsel.",
+  "distanceKm": 177
+}
