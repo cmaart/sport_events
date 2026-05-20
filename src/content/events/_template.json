@@ -16,6 +16,7 @@
   },
   "websiteUrl": "https://example.com",
   "registrationUrl": "https://example.com/anmeldung",
+  "imageUrl": "https://example.com/bild.jpg",
   "description": "Mehrzeilige Beschreibung des Events.\n\nDistanz, Höhenmeter, Strecke, Besonderheiten.",
   "distanceKm": 120,
   "elevationGainM": 1800

@@ -70,7 +70,7 @@ const sportsEventLd: Record<string, unknown> = {
   sport: sportName,
   url: pageUrl,
   inLanguage: 'de-DE',
-  image: `${siteUrl}/assets/og-image.png`,
+  image: e.imageUrl ?? `${siteUrl}/assets/og-image.png`,
   location: {
     '@type': 'Place',
     name: e.location.name,
@@ -114,7 +114,7 @@ const breadcrumbsLd = {
 };
 ---
 
-<BaseLayout title={seoTitle} description={seoDescription}>
+<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl}>
   <script
     slot="head"
     type="application/ld+json"
@@ -144,6 +144,12 @@ const breadcrumbsLd = {
     <p class="text-lg text-[var(--color-ink-500)] mb-6">
       <span aria-hidden="true">{country.flag}</span> {e.location.name}{e.location.region ? ` · ${e.location.region}` : ''}
     </p>
+
+    {e.imageUrl && (
+      <div class="mb-6 rounded-2xl overflow-hidden border border-[var(--color-ink-100)] shadow-sm aspect-[16/7]">
+        <img src={e.imageUrl} alt={e.name} class="w-full h-full object-cover" loading="eager" />
+      </div>
+    )}
 
     {/* Prominent above-fold CTA: date + primary registration link */}
     <div class="flex flex-wrap items-center gap-3 sm:gap-4 mb-10 p-4 sm:p-5 rounded-2xl border border-[var(--color-ink-100)] bg-white shadow-sm">

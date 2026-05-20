@@ -59,13 +59,18 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
             <li
               key={e.slug}
               id={`event-${e.slug}`}
-              class={`rounded-2xl bg-white border transition cursor-pointer ${
+              class={`rounded-2xl bg-white border transition cursor-pointer overflow-hidden ${
                 isSelected
                   ? 'border-[var(--color-brand-500)] shadow-md ring-2 ring-[var(--color-brand-500)]/20'
                   : 'border-[var(--color-ink-100)] hover:border-[var(--color-brand-500)] hover:shadow-sm'
               }`}
               onClick={() => onSelect(e.slug)}
             >
+              {e.imageUrl && (
+                <div class="h-32 overflow-hidden">
+                  <img src={e.imageUrl} alt={e.name} class="w-full h-full object-cover" loading="lazy" />
+                </div>
+              )}
               <div class="block p-4">
                 <div class="flex items-start justify-between gap-3 mb-2">
                   <span class={`inline-flex items-center text-[10px] uppercase tracking-wide font-medium px-2 py-0.5 rounded-full ${sportColor}`}>

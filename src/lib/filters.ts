@@ -11,6 +11,7 @@ export interface EventData {
   location: { name: string; lat: number; lng: number; region?: Region };
   websiteUrl?: string;
   registrationUrl?: string;
+  imageUrl?: string;
   description: string;
   distanceKm?: number;
   elevationGainM?: number;

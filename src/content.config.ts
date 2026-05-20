@@ -23,6 +23,7 @@ const events = defineCollection({
     }),
     websiteUrl: z.string().url().optional(),
     registrationUrl: z.string().url().optional(),
+    imageUrl: z.string().url().optional(),
     description: z.string(),
     distanceKm: z.number().optional(),
     elevationGainM: z.number().int().optional(),
