@@ -1,0 +1,21 @@
+{
+  "id": "granfondo-rosa-oosterbeek-2026",
+  "name": "Gran Fondo Rosa",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oosterbeek",
+    "lat": 51.9858,
+    "lng": 5.8458
+  },
+  "websiteUrl": "https://www.granfondorosa.nl/",
+  "description": "Gran Fondo Rosa in Oosterbeek (Gelderland, Niederlande): 170 km, 120 km oder 80 km auf Strecken angelehnt an die Giro-d'Italia-Gelderland-Etappen 2016 mit Anstiegen Italiaanseweg, Berg en Dal und Posbank. Limitiert auf 3.000 Teilnehmer; Ziel am historischen Park Hartenstein.",
+  "distanceKm": 170
+}

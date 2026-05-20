@@ -1,0 +1,22 @@
+{
+  "id": "la-magnifique-rochefort-2026",
+  "name": "La Magnifique",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rochefort",
+    "lat": 50.1596,
+    "lng": 5.2222
+  },
+  "websiteUrl": "https://veloclubrochefort.be/index.php/la-magnifique/",
+  "description": "La Magnifique in Rochefort (Provinz Namur, Wallonien): 185 km / 3.300 Hm, 155 km, 125 km, 95 km oder 51 km durch die Fagne- und Ardennenlandschaft. 23. Auflage; ruhige Nebenstraßen durch das wallonische Hügelland des Vélo Club Rochefort.",
+  "distanceKm": 185,
+  "elevationGainM": 3300
+}

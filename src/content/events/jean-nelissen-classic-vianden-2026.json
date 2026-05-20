@@ -1,0 +1,22 @@
+{
+  "id": "jean-nelissen-classic-vianden-2026",
+  "name": "Jean Nelissen Classic",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LU",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vianden",
+    "lat": 49.9333,
+    "lng": 6.2167
+  },
+  "websiteUrl": "https://www.cycloworld.cc/en/gran-fondo/luxembourg/jean-nelissen-classic/38736",
+  "description": "Jean Nelissen Classic in Vianden (Luxemburg): 220 km / 4.154 Hm als längste Distanz sowie 180 / 165 / 145 / 135 / 125 / 90 / 70 km durch das Müllerthal und die luxemburgische Ardennenlandschaft. 22. Auflage; legendärer Gran Fondo auf stillen Nebenstraßen.",
+  "distanceKm": 220,
+  "elevationGainM": 4154
+}

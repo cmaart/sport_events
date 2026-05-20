@@ -1,0 +1,22 @@
+{
+  "id": "omloop-het-nieuwsblad-cyclo-2026",
+  "name": "Omloop Het Nieuwsblad Cyclo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-03-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ninove",
+    "lat": 50.8278,
+    "lng": 4.0266
+  },
+  "websiteUrl": "https://omloophetnieuwsbladcyclo.be/en/",
+  "description": "Omloop Het Nieuwsblad Cyclo in Ninove (Flandern): 150 km / 1.314 Hm, 120 km, 80 km oder 60 km über die klassischen Pflasterstein-Anstiege der flämischen Ardennen – Muur de Grammont und Bosberg. Amateurbegleitveranstaltung zum gleichnamigen WorldTour-Frühjahrsklassiker.",
+  "distanceKm": 150,
+  "elevationGainM": 1314
+}
