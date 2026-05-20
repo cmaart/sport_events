@@ -1,0 +1,20 @@
+{
+  "id": "reiling-triathlon-harsewinkel-2026",
+  "name": "Reiling-Triathlon Harsewinkel",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Harsewinkel",
+    "lat": 51.9622,
+    "lng": 8.2302,
+    "region": "Nordrhein-Westfalen"
+  },
+  "description": "35. Reiling-Triathlon in Harsewinkel – einer der traditionsreichsten Volkstriathlons in Ostwestfalen. Sprintdistanz am Kiesteich."
+}

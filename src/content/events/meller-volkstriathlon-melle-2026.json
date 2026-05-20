@@ -1,0 +1,20 @@
+{
+  "id": "meller-volkstriathlon-melle-2026",
+  "name": "Meller Volks-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Melle",
+    "lat": 52.2038,
+    "lng": 8.3373,
+    "region": "Niedersachsen"
+  },
+  "description": "39. Meller Volks-Triathlon in Niedersachsen. Langlebige Volksveranstaltung auf der Sprintdistanz mit großem Teilnehmerfeld."
+}

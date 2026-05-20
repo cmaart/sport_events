@@ -1,0 +1,20 @@
+{
+  "id": "rigolator-triathlon-riegel-2026",
+  "name": "Rigolator Triathlon Riegel am Kaiserstuhl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegel am Kaiserstuhl",
+    "lat": 48.1481,
+    "lng": 7.7375,
+    "region": "Baden-Württemberg"
+  },
+  "description": "17. Rigolator Sprint- und Einsteiger-Triathlon am Kaiserstuhl in Baden. Sprint- und Einsteigerdistanz für alle Leistungsklassen in der Winzerregion."
+}

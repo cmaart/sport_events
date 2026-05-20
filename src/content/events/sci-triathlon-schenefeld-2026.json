@@ -1,0 +1,20 @@
+{
+  "id": "sci-triathlon-schenefeld-2026",
+  "name": "SCI Triathlon Schenefeld",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schenefeld",
+    "lat": 53.5973,
+    "lng": 9.826,
+    "region": "Schleswig-Holstein"
+  },
+  "description": "17. Auflage des SCI Triathlons in Schenefeld bei Hamburg. Sprintdistanz-Event im Hamburger Umland für Einzel- und Staffelstarter."
+}

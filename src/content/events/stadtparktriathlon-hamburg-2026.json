@@ -1,0 +1,21 @@
+{
+  "id": "stadtparktriathlon-hamburg-2026",
+  "name": "Stadtparktriathlon Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.5917,
+    "lng": 10.0239,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://stadtparktriathlon.de",
+  "description": "25. Stadtparktriathlon Hamburg im Hamburger Stadtpark. Sprintdistanz-Triathlon im Stadtpark-See mitten in der Hansestadt mit parkähnlicher Laufstrecke."
+}

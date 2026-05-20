@@ -1,0 +1,22 @@
+{
+  "id": "fehmarn-triathlon-2026",
+  "name": "Fehmarn-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fehmarn",
+    "lat": 54.4437,
+    "lng": 11.1938,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://fehmarn-triathlon.de",
+  "description": "Fehmarn-Triathlon auf der Ostseeinsel Fehmarn. Sprint- und Olympische Distanz mit Schwimmen in der Ostsee und Radkurs über die windgepeitschte Insel."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "albtal-triathlon-ettlingen-2026",
+  "name": "SWE Albtal-Triathlon Ettlingen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ettlingen",
+    "lat": 48.9411,
+    "lng": 8.4058,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.swe-albtal-triathlon.de",
+  "description": "SWE Albtal-Triathlon in Ettlingen südlich von Karlsruhe. Olympische Distanz im Naturpark Schwarzwald mit anspruchsvollem Radkurs ins Albtal."
+}

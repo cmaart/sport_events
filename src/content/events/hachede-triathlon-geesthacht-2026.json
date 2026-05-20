@@ -1,0 +1,23 @@
+{
+  "id": "hachede-triathlon-geesthacht-2026",
+  "name": "Hachede Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Geesthacht",
+    "lat": 53.4375,
+    "lng": 10.37,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.hachede-triathlon.de",
+  "imageUrl": "https://www.hachede-triathlon.de/site/assets/files/1015/start.jpg",
+  "description": "Hachede Triathlon am Geesthachter Hafen an der Elbe. Mehrere Distanzen von Volkstriathlon bis Olympischer Distanz mit Schwimmen im Geesthachter Hafen und Radkurs entlang der Elbe."
+}

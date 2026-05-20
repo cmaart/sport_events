@@ -1,0 +1,21 @@
+{
+  "id": "midsummer-triathlon-grossensee-2026",
+  "name": "Midsummer-Triathlon Großensee",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Großensee",
+    "lat": 53.615,
+    "lng": 10.2769,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.midsummer-triathlon.de",
+  "description": "27. Midsummer-Triathlon am Großensee östlich von Hamburg. Traditionelles Mittsommerritual auf der Sprintdistanz mit besonderer Atmosphäre."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "huckeswagener-triathlon-2026",
+  "name": "Hückeswagener Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hückeswagen",
+    "lat": 51.1508,
+    "lng": 7.3417,
+    "region": "Nordrhein-Westfalen"
+  },
+  "description": "41. Hückeswagener Triathlon an der Bevertalsperre im Bergischen Land. Einer der ältesten Volkstriathlons in NRW auf der Sprintdistanz."
+}

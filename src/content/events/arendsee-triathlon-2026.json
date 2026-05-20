@@ -1,0 +1,23 @@
+{
+  "id": "arendsee-triathlon-2026",
+  "name": "Arendsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arendsee",
+    "lat": 52.887,
+    "lng": 11.48,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://arendsee-triathlon.de",
+  "description": "29. Arendsee Triathlon am glasklaren Arendsee in der Altmark. Drei Distanzen (Sprint, Olympisch, Mitteldistanz) an einem der schönsten Seen Sachsen-Anhalts."
+}

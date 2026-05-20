@@ -1,0 +1,21 @@
+{
+  "id": "alzenauer-triathlon-2026",
+  "name": "Alzenauer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alzenau",
+    "lat": 50.0926,
+    "lng": 9.0736,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.triathlon-alzenau.de",
+  "description": "30. Alzenauer Triathlon am Kahl-See im bayerischen Spessart. Sprintdistanz-Volkstriathlon mit familiärer Atmosphäre nahe Frankfurt."
+}

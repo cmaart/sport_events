@@ -1,0 +1,22 @@
+{
+  "id": "stadttriathlon-erding-2026",
+  "name": "Stadttriathlon Erding",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erding",
+    "lat": 48.3063,
+    "lng": 11.9069,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.stadttriathlon-erding.de",
+  "description": "31. Stadttriathlon Erding nahe München mit Sprint- und Olympischer Distanz. Der traditionsreiche Stadtlauf durch die Erdinger Innenstadt macht diesen Triathlon besonders."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kanal-triathlon-rendsburg-2026",
+  "name": "Sparkassen Kanal-Triathlon Rendsburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rendsburg",
+    "lat": 54.3028,
+    "lng": 9.6637,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://kanal-triathlon.de",
+  "description": "12. Sparkassen Kanal-Triathlon Rendsburg am Nord-Ostsee-Kanal. Sprintdistanz-Event mit dem Kanal als markante Kulisse im Herzen Schleswig-Holsteins."
+}

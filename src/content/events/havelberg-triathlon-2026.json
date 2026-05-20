@@ -1,0 +1,22 @@
+{
+  "id": "havelberg-triathlon-2026",
+  "name": "Havelberg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Havelberg",
+    "lat": 52.8286,
+    "lng": 12.0707,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.havelbergtriathlon.de",
+  "description": "Traditionsreicher Triathlon im Havelland an der Havelberger Altstadtinsel. Sprintdistanz und Olympische Distanz für Einzel- und Staffelstarter."
+}

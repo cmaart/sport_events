@@ -1,0 +1,20 @@
+{
+  "id": "vr-triathlon-lauingen-2026",
+  "name": "VR Triathlon Lauingen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lauingen",
+    "lat": 48.5711,
+    "lng": 10.4314,
+    "region": "Bayern"
+  },
+  "description": "Volkstriathlon am Baggersee in Lauingen an der Donau. Beliebte Breitensportveranstaltung im bayerischen Schwaben auf der Sprintdistanz."
+}

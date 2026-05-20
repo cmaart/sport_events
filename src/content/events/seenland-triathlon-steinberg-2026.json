@@ -1,0 +1,21 @@
+{
+  "id": "seenland-triathlon-steinberg-2026",
+  "name": "Seenland Triathlon Steinberg am See",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Steinberg am See",
+    "lat": 49.3572,
+    "lng": 12.3264,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.seenland-triathlon.de",
+  "description": "Seenland Triathlon am Steinberger See in der Oberpfalz. Sprintdistanz-Event im Naturpark Oberpfälzer Seenland mit klarem Badewasser."
+}

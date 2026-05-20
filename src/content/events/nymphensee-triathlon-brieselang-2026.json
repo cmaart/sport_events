@@ -1,0 +1,22 @@
+{
+  "id": "nymphensee-triathlon-brieselang-2026",
+  "name": "Nymphensee Triathlon Brieselang",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Brieselang",
+    "lat": 52.5805,
+    "lng": 12.9819,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://nymphensee-triathlon.de",
+  "description": "Nymphensee Triathlon in Brieselang westlich von Berlin. Attraktiver Triathlon am Nymphensee mit Sprint- und Olympischer Distanz."
+}

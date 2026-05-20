@@ -1,0 +1,21 @@
+{
+  "id": "sika-triathlon-kornwestheim-2026",
+  "name": "Kornwestheimer Sika Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kornwestheim",
+    "lat": 48.8598,
+    "lng": 9.1839,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.szk-triathlon.de",
+  "description": "33. Kornwestheimer Sika Triathlon nördlich von Stuttgart. Sprintdistanz-Event am Kornwestheimer See mit langer Vereinstradition."
+}

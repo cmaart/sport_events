@@ -1,0 +1,21 @@
+{
+  "id": "sternberger-triathlon-2026",
+  "name": "Sternberger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sternberg",
+    "lat": 53.7066,
+    "lng": 11.8261,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.sternberger-triathlon.de",
+  "description": "25. Sternberger Triathlon in Mecklenburg-Vorpommern. Sprintdistanz-Triathlon an den Sternberger Seen mit langer Tradition."
+}

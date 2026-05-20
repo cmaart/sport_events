@@ -1,0 +1,22 @@
+{
+  "id": "hardausee-triathlon-suderburg-2026",
+  "name": "Hardausee-Triathlon Suderburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Suderburg",
+    "lat": 52.8843,
+    "lng": 10.4583,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.vfl-suderburg.de",
+  "description": "Hardausee-Triathlon in Suderburg in der Lüneburger Heide. Sprint- und Olympische Distanz am idyllischen Hardausee."
+}

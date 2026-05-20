@@ -1,0 +1,22 @@
+{
+  "id": "f60-triathlon-lichterfeld-2026",
+  "name": "F60-Triathlon Lichterfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lichterfeld",
+    "lat": 51.6333,
+    "lng": 13.7167,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.f60triathlon.de",
+  "description": "F60-Triathlon am Bergheider See in Lichterfeld – benannt nach der legendären Abraumbagger-Brücke F60. Sprint- und Olympische Distanz in einer einzigartigen Industriekulturlandschaft."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "oste-triathlon-bremervorde-2026",
+  "name": "Oste-Triathlon Bremervörde",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bremervörde",
+    "lat": 53.4862,
+    "lng": 9.142,
+    "region": "Niedersachsen"
+  },
+  "description": "3. Oste-Triathlon in Bremervörde im niedersächsischen Elbe-Weser-Dreieck. Sprintdistanz-Event im Naturpark Lüneburger Heide."
+}

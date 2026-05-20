@@ -1,0 +1,21 @@
+{
+  "id": "cottbuser-triathlon-2026",
+  "name": "Cottbuser Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cottbus",
+    "lat": 51.7606,
+    "lng": 14.3328,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.tsv-cottbus.de",
+  "description": "32. Cottbuser Triathlon des TSV Cottbus. Sprintdistanz-Triathlon in der Lausitzer Spreewaldregion mit langjähriger Tradition."
+}

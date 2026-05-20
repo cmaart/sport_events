@@ -1,0 +1,20 @@
+{
+  "id": "ratekau-triathlon-2026",
+  "name": "Ratekau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ratekau",
+    "lat": 53.9781,
+    "lng": 10.6394,
+    "region": "Schleswig-Holstein"
+  },
+  "description": "Ratekau Triathlon in der Nähe von Lübeck. Sprintdistanz-Event in der Holsteinischen Schweiz mit Schwimmen in einem der malerischen Seen der Region."
+}

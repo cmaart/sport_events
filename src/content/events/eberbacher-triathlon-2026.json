@@ -1,0 +1,21 @@
+{
+  "id": "eberbacher-triathlon-2026",
+  "name": "Eberbacher Sprint- und Jedermanntriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eberbach",
+    "lat": 49.4668,
+    "lng": 8.9908,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-eberbach.de",
+  "description": "31. Eberbacher Sprint- und Jedermanntriathlon am Neckar im badischen Odenwald. Familienfreundliche Sprintdistanz mit Einsteigeroption."
+}

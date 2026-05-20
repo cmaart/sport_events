@@ -1,0 +1,22 @@
+{
+  "id": "rochlitzer-bergtriathlon-2026",
+  "name": "Rochlitzer Bergtriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rochlitz",
+    "lat": 51.0528,
+    "lng": 12.7983,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.bergtriathlon.de",
+  "description": "Rochlitzer Bergtriathlon in Sachsen mit Sprint- und Olympischer Distanz. Charakteristischer Radkurs über die hügelige Muldentalhöhe rund um Rochlitz."
+}

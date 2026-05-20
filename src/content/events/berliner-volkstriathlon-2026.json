@@ -1,0 +1,21 @@
+{
+  "id": "berliner-volkstriathlon-2026",
+  "name": "Berliner Volkstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Berlin",
+    "lat": 52.52,
+    "lng": 13.405,
+    "region": "Berlin"
+  },
+  "websiteUrl": "https://www.berlin-timing.de/Berliner-Volkstriathlon",
+  "description": "Berliner Volkstriathlon mit Volkssportcharakter – kein Neoprenanzug oder Rennrad erforderlich. Sprintdistanz-Triathlon für Einsteiger und ambitionierte Hobbysportler in der deutschen Hauptstadt."
+}

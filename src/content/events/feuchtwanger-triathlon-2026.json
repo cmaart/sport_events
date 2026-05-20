@@ -1,0 +1,21 @@
+{
+  "id": "feuchtwanger-triathlon-2026",
+  "name": "Feuchtwanger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feuchtwangen",
+    "lat": 49.1666,
+    "lng": 10.3244,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.triathlon-feuchtwangen.de",
+  "description": "12. Feuchtwanger Triathlon am Feuchtwanger Badesee. Sprintdistanz-Triathlon in der Romantischen Straße Bayerns mit familiärer Atmosphäre."
+}

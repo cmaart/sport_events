@@ -1,0 +1,20 @@
+{
+  "id": "petershagen-triathlon-2026",
+  "name": "Petershagen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Petershagen",
+    "lat": 52.3831,
+    "lng": 8.9686,
+    "region": "Nordrhein-Westfalen"
+  },
+  "description": "Petershagen Triathlon an der Weser in Nordrhein-Westfalen. Beliebter Volkstriathlon auf der Sprintdistanz in der Kulturlandschaft des Weserberglandes."
+}

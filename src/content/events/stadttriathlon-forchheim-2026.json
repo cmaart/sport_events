@@ -1,0 +1,20 @@
+{
+  "id": "stadttriathlon-forchheim-2026",
+  "name": "StadtTriathlon Forchheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Forchheim",
+    "lat": 49.7198,
+    "lng": 11.0581,
+    "region": "Bayern"
+  },
+  "description": "StadtTriathlon Forchheim in der fränkischen Schweiz. Sprintdistanz-Event im historischen Stadtbild Forchheims."
+}

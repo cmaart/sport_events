@@ -1,0 +1,23 @@
+{
+  "id": "brombachsee-triathlon-pleinfeld-2026",
+  "name": "Brombachsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pleinfeld",
+    "lat": 49.1,
+    "lng": 10.9667,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://brombachseetriathlon.com",
+  "description": "Brombachsee Triathlon im Fränkischen Seenland: 1,9 km Schwimmen im Großen Brombachsee, 90 km Rad durch das hügelige Franken, 21 km Laufen entlang des Seeufers. Mitteldistanz-Premiumevent im Naturparadies.",
+  "distanceKm": 113,
+  "elevationGainM": 800
+}

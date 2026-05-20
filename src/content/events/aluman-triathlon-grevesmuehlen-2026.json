@@ -1,0 +1,21 @@
+{
+  "id": "aluman-triathlon-grevesmuehlen-2026",
+  "name": "Aluman Triathlon Grevesmühlen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grevesmühlen",
+    "lat": 53.8614,
+    "lng": 11.1666,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.aluman-gvm.de",
+  "description": "14. Aluman Triathlon Grevesmühlen mit Schwimmen im Ploggensee. Start um 14:15 Uhr – Sprintdistanz-Triathlon in Mecklenburg-Vorpommern zwischen Hamburg und Rostock."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "heinz-beierstorf-triathlon-stutensee-2026",
+  "name": "Heinz Beierstorf Triathlon Stutensee",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stutensee",
+    "lat": 49.0822,
+    "lng": 8.4644,
+    "region": "Baden-Württemberg"
+  },
+  "description": "32. Heinz Beierstorf Triathlon in Stutensee nördlich von Karlsruhe. Sprintdistanz-Triathlon mit langer Tradition im Kraichgau."
+}
