@@ -2,7 +2,9 @@
   "id": "vatternrundan-motala-2026",
   "name": "Vätternrundan",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "SE",
   "dates": {
     "start": "2026-06-12",
@@ -15,6 +17,7 @@
     "lng": 15.0367
   },
   "websiteUrl": "https://www.vatternrundan.se/en",
+  "imageUrl": "https://cdn.sanity.io/images/pfyexgj4/production-v2/f34d32d80d3526140f6fc559348fec1b8bf8859d-3641x2048.jpg?rect=0,68,3641,1912&w=1200&h=630&auto=format",
   "description": "Vätternrundan – Weltgrößte Freizeitradveranstaltung mit über 20.000 Teilnehmern aus 30+ Ländern: Eine Umrundung des Vätternsees auf 315 Kilometern durch Schweden. Start und Ziel in Motala; die Hauptveranstaltung findet über Nacht statt (Startzeiten ab 20 Uhr). Auch kürzere Varianten (100/150 km) am Vorgabewochenende (5.–7. Juni).",
   "distanceKm": 315,
   "elevationGainM": 1800

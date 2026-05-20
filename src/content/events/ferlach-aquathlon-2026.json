@@ -1,0 +1,21 @@
+{
+  "id": "ferlach-aquathlon-2026",
+  "name": "Ferlach Aquathlon – Österreichische Meisterschaft",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ferlach",
+    "lat": 46.5290,
+    "lng": 14.3066,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.ferlach-aquathlon.at",
+  "imageUrl": "https://www.ferlach-aquathlon.at/wp-content/uploads/2025/11/OeSTM-2026-Aquathlon-Ferlach-1-1024x512.png",
+  "description": "10. Ferlach Aquathlon als Österreichische Aquathlon-Meisterschaft und gleichzeitig Kärntner Meisterschaft: 0,75 km Schwimmen im Ressnigteich, 5 km Laufen. Jubiläumsauflage mit erweiterten Jugend- und Nachwuchskategorien. Eines der wichtigsten Aquathlon-Events Österreichs.",
+  "distanceKm": 6
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dalkeman-triathlon-guetersloh-2026",
+  "name": "Dalkeman Triathlon Gütersloh",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gütersloh",
+    "lat": 51.9060,
+    "lng": 8.3828
+  },
+  "websiteUrl": "https://www.triathlon-guetersloh.de",
+  "description": "Traditionsreicher Triathlon am Gütersloher Dalkensee: Olympische Distanz (1 km Schwimmen / 40 km Rad / 10 km Laufen) und Sprintdistanz (500 m / 20 km / 5 km). Veranstaltet vom TriTeam Lok Gütersloh. Für 2026 bereits ausgebucht – Anmeldung für Folgejahr empfohlen.",
+  "distanceKm": 51
+}

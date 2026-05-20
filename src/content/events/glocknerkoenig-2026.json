@@ -21,5 +21,6 @@
   "registrationUrl": "https://onreg.datasport.com/en/glocknerkoenig-2026",
   "description": "Bergzeitfahren auf der autofrei freigegebenen Großglockner Hochalpenstraße. Zwei Varianten: Classic (27,3 km, 1.672 hm) und Ultra (28,9 km, 1.815 hm bis zur Edelweißspitze). Ultra-Kategorie 2026 ausverkauft; Classic-Plätze verfügbar.",
   "distanceKm": 27,
-  "elevationGainM": 1672
+  "elevationGainM": 1672,
+  "imageUrl": "https://www.glocknerkoenig.com/Bilder/Glocknerk%C3%B6nig/Bilder/2025/16918/image-thumb__16918__headerImage/227%20-%20Glocknerk%C3%B6nig-227.jpg"
 }

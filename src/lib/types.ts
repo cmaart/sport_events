@@ -18,6 +18,8 @@ export const TRIATHLON_CATEGORIES = [
   'Mitteldistanz',
   'Langdistanz',
   'Cross-Triathlon',
+  'Aquathlon',
+  'Duathlon',
 ] as const;
 
 export const CATEGORIES = [...CYCLING_CATEGORIES, ...TRIATHLON_CATEGORIES] as const;

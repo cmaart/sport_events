@@ -22,5 +22,6 @@
   "registrationUrl": "https://www.arlberg-giro.com/en/registration",
   "description": "Klassischer Alpen-Granfondo über Arlberg, Hochtannberg, Faschina, Furka und Flexen. Start/Ziel in St. Anton. Edition 2026 bereits ausverkauft – Warteliste über die Veranstalter-Webseite. Als Alternative bietet sich der St. Anton Night Sprint am Vorabend (31. Juli 2026) an.",
   "distanceKm": 152,
-  "elevationGainM": 2400
+  "elevationGainM": 2400,
+  "imageUrl": "https://arlberg-giro.com/XooWebKit/bin/imagecache.php/67e5_eb727ec565/3179_94TyY/home_strecke_pc-1.jpg"
 }

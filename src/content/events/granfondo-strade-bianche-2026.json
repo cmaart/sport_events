@@ -2,7 +2,10 @@
   "id": "granfondo-strade-bianche-2026",
   "name": "Gran Fondo Strade Bianche",
   "sport": "cycling",
-  "categories": ["Gran Fondo", "Gravel"],
+  "categories": [
+    "Gran Fondo",
+    "Gravel"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-03-08",
@@ -16,5 +19,6 @@
   "websiteUrl": "https://gfstradebianche.it/en/",
   "description": "Gran Fondo Strade Bianche – UCI-Qualifikationsrennen auf den weißen Schotterwegen der Toskana: Granfondo 144 km (2.000 Hm, 9 Kiesabschnitte) oder Mediofondo 94 km (1.350 Hm). Start an der Medici-Festung in Siena, Zieleinlauf auf der Piazza del Campo. Einen Tag nach dem gleichnamigen Profi-Rennen.",
   "distanceKm": 144,
-  "elevationGainM": 2000
+  "elevationGainM": 2000,
+  "imageUrl": "https://www.strade-bianche.it/wp-content/uploads/2026/01/ianyWR7oXcAsNBpzPuhF_210126-105720.jpg"
 }

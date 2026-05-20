@@ -2,7 +2,10 @@
   "id": "challenge-almere-amsterdam-2026",
   "name": "Challenge Almere-Amsterdam",
   "sport": "triathlon",
-  "categories": ["Langdistanz", "Mitteldistanz"],
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
   "country": "NL",
   "dates": {
     "start": "2026-09-10",
@@ -17,5 +20,6 @@
   "websiteUrl": "https://challenge-almere.com/",
   "description": "Challenge Almere-Amsterdam – 45. Jubiläumsausgabe und Europameisterschaft Langdistanz: 3,8 km Schwimmen im Gooimeer (unter Meeresspiegel!), 180 km flaches Rad durch Almeres Polderland, 42,2 km Laufen durch Almeres Innenstadt. Einer der schnellsten Langdistanz-Kurse der Welt. Gleichzeitig Mitteldistanz-Option verfügbar.",
   "distanceKm": 226,
-  "elevationGainM": 100
+  "elevationGainM": 100,
+  "imageUrl": "https://challenge-almere.com/wp-content/uploads/sites/52/2018/01/slide1-en.jpg"
 }

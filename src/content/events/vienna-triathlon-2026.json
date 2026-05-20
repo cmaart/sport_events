@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.vienna-triathlon.at",
   "description": "10. Ausgabe des größten Wiener Stadttriathlons direkt an der Donauinsel. Sprint (Sa, 12.9.) und Olympische Distanz (So, 13.9.), dazu Aquabike, Bike+Run, Ladys-Bewerb und Kids-Aquathlon.",
   "distanceKm": 52,
-  "elevationGainM": 100
+  "elevationGainM": 100,
+  "imageUrl": "https://static.wixstatic.com/media/384b95_536dbae23b51440499b398a3cdf386b1~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_80/384b95_536dbae23b51440499b398a3cdf386b1~mv2.jpg"
 }

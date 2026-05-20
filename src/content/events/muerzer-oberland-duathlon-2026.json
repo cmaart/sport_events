@@ -1,0 +1,20 @@
+{
+  "id": "muerzer-oberland-duathlon-2026",
+  "name": "Mürzer Oberland Naturpark Duathlon",
+  "sport": "triathlon",
+  "categories": ["Duathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neuberg an der Mürz",
+    "lat": 47.6652,
+    "lng": 15.5902,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.fun-sports.at",
+  "description": "4. Mürzer Oberland Naturpark Duathlon in der malerischen Kulisse des Steirischen Mürzursprungs: 4 km Laufen / 22 km Rad / 4 km Laufen. Naturparkgelände rund um Neuberg an der Mürz mit Blick auf Schnee- und Ötscher-Massiv. Veranstaltet vom Fun-Sports Tri-Team.",
+  "distanceKm": 30
+}

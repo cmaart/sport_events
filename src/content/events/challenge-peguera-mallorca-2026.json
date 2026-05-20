@@ -2,7 +2,9 @@
   "id": "challenge-peguera-mallorca-2026",
   "name": "Challenge Peguera Mallorca",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "ES",
   "dates": {
     "start": "2026-10-17",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-peguera/",
   "description": "Challenge Peguera Mallorca – Mitteldistanz im Südwesten der Insel: 1,9 km Schwimmen im Mittelmeer in Pegueras idyllischer Bucht (Calvià), 90 km Rad durch Mallorcas Tramuntana-Hügel, 21,1 km Laufen. Oktobertriathlon im milden mallorquinischen Herbstklima, beliebter Saisonabschluss für europäische Triathleten.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://challenge-mallorca.com/wp-content/uploads/sites/11/2019/10/sin-titulo-1_0001_challenge_paguera-38.jpg"
 }

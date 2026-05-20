@@ -2,7 +2,9 @@
   "id": "maratona-dles-dolomites-2026",
   "name": "Maratona dles Dolomites – Enel",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-07-05",
@@ -11,10 +13,11 @@
   "location": {
     "name": "Corvara",
     "lat": 46.5497,
-    "lng": 11.8760
+    "lng": 11.876
   },
   "websiteUrl": "https://www.maratona.it/en/",
   "description": "Maratona dles Dolomites – das Traumrennen in den Dolomiten UNESCO-Welterbe: Drei Streckenvarianten – Maratona 138 km (4.230 Hm), Mezza Maratona 106 km (3.130 Hm), Sellaronda 55 km (1.780 Hm). Start und Ziel in Corvara/Alta Badia. 39. Ausgabe, 8.000 Plätze bei 32.400 Bewerbungen – Losverfahren. Eines der begehrtesten Gran Fondos weltweit.",
   "distanceKm": 138,
-  "elevationGainM": 4230
+  "elevationGainM": 4230,
+  "imageUrl": "https://www.maratona.it/pics/MaratonaDolomites.jpg"
 }
