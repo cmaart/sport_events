@@ -1,0 +1,21 @@
+{
+  "id": "triathlon-mergozzo-2026",
+  "name": "Triathlon Internazionale di Mergozzo",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mergozzo",
+    "lat": 45.9725,
+    "lng": 8.4572
+  },
+  "websiteUrl": "https://www.dimensione.net/triathlon_mergozzo.html",
+  "description": "Triathlon Internazionale di Mergozzo am Lago di Mergozzo (Piemont): Mitteldistanz 1,9 km / 90 km / 21 km im Non-Draft-Format. Über 30 Auflagen; bekannt für den Australian-Exit-Start vom Steg. Teil des FITRI-Rennkalenders.",
+  "distanceKm": 113
+}

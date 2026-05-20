@@ -1,0 +1,21 @@
+{
+  "id": "triatlon-ciudad-santander-2026",
+  "name": "Triatlón Ciudad de Santander",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Santander",
+    "lat": 43.4628,
+    "lng": -3.8099
+  },
+  "websiteUrl": "https://triatlonciudadsantander.com/",
+  "description": "Triatlón Ciudad de Santander in der Bucht von Santander (Kantabrien): Mitteldistanz 1,9 km Schwimmen / ca. 80 km Rad / 21 km Laufen. Beliebtes Herbst-Triathlon-Event im spanischen FETRI-Nationalranking.",
+  "distanceKm": 103
+}

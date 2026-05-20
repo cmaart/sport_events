@@ -1,0 +1,22 @@
+{
+  "id": "desafio-donana-2026",
+  "name": "Andalucía Desafío Doñana",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sanlúcar de Barrameda",
+    "lat": 36.7759,
+    "lng": -6.3534
+  },
+  "websiteUrl": "https://desafiodonana.com/",
+  "description": "Andalucía Desafío Doñana bei Sanlúcar de Barrameda: Spanische Langdistanz-Meisterschaft (ironman-distanz) sowie Mitteldistanz in der Kulisse des Nationalparks Doñana. Start und Ziel in der Mündung des Guadalquivir, direkte Atlantikkulisse.",
+  "distanceKm": 226
+}

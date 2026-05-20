@@ -1,0 +1,21 @@
+{
+  "id": "zarauzko-triatloia-2026",
+  "name": "TradeINN Zarauzko Triatloia",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zarautz",
+    "lat": 43.2838,
+    "lng": -2.1697
+  },
+  "websiteUrl": "https://www.zarauzkotriatloia.com/",
+  "description": "TradeINN Zarauzko Triatloia in Zarautz (Baskenland): Mitteldistanz 2,9 km / 81 km / 20 km mit Atlantikschwimmen und Küstenradstrecke. Legendäres baskisches Triathlon-Highlight mit Losverfahren (650 Startplätze); zählt zum nationalen FETRI-Ranking.",
+  "distanceKm": 104
+}

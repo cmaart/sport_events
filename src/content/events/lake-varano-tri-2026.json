@@ -1,0 +1,22 @@
+{
+  "id": "lake-varano-tri-2026",
+  "name": "Lake Varano Tri 226",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-10-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Foce Varano – Ischitella",
+    "lat": 41.91,
+    "lng": 15.78
+  },
+  "websiteUrl": "https://adriaticseries.it/lake-varano-tri-en/",
+  "description": "Lake Varano Tri 226 im Nationalpark Gargano (Apulien): Italienische Langdistanz-Meisterschaft 3,8 km / 180 km / 42,2 km sowie Mitteldistanz 113 am Lago di Varano. Einzigartiger Naturschauplatz an der apulischen Adriaküste.",
+  "distanceKm": 226
+}

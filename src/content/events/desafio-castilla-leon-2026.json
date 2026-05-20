@@ -1,0 +1,21 @@
+{
+  "id": "desafio-castilla-leon-2026",
+  "name": "Desafío Castilla y León",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Medina de Rioseco",
+    "lat": 41.8834,
+    "lng": -5.0456
+  },
+  "websiteUrl": "https://www.desafiocastillayleon.com/",
+  "description": "Desafío Castilla y León am Canal de Castilla in Medina de Rioseco (Valladolid): 1,6 km Schwimmen / 60 km Rad / 14 km Laufen. Kastilische Regionalmeisterschaft im Triathlon mit historischer Kanal-Kulisse; FETRI-Nationalranking.",
+  "distanceKm": 76
+}
