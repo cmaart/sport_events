@@ -1,0 +1,23 @@
+{
+  "id": "cyclomontagnarde-jura-2026",
+  "name": "Cyclomontagnarde du Jura",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lons-le-Saunier",
+    "lat": 46.6759,
+    "lng": 5.5538
+  },
+  "websiteUrl": "https://www.allcyclo.fr/la-cyclomontagnarde-du-jura-cmj/parcours-tarifs-inscriptions-1-18.htm",
+  "description": "Cyclomontagnarde du Jura (21. Auflage): Start ab Juraparc in Montmorot/Lons-le-Saunier. Randonneur 240 km / 4.015 Hm (Sonntag, 1 Tag) oder Touriste 240 km / 4.015 Hm (2-Tages-Variante mit Übernachtung im Haut-Jura). Kürzere Variante Massif 134 km / 1.800 Hm. Organisiert durch den FFVélo-Verband.",
+  "distanceKm": 240,
+  "elevationGainM": 4015
+}

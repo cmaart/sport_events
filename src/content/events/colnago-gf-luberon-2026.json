@@ -1,0 +1,21 @@
+{
+  "id": "colnago-gf-luberon-2026",
+  "name": "Colnago GF Luberon Pays d'Apt",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Apt",
+    "lat": 43.8769,
+    "lng": 5.3961
+  },
+  "websiteUrl": "https://gfluberon.com/en/",
+  "description": "Colnago GF Luberon Pays d'Apt im Herzen der Provence: Granfondo 155 km, Mediofondo 101 km oder Piccolofondo 65 km durch den Regionalen Naturpark Luberon. Typische Steinmauerdörfer, Lavendelfelder und Ockerfelsen des Luberon als Kulisse. Gesellschaftliches Saisonabschluss-Event.",
+  "distanceKm": 155
+}

@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-del-mugello-2026",
+  "name": "Granfondo del Mugello \"La Via del Latte\"",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Scarperia",
+    "lat": 43.9994,
+    "lng": 11.3560
+  },
+  "websiteUrl": "https://granfondodelmugello.it/",
+  "description": "Granfondo del Mugello \"La Via del Latte\" am Mugello-Circuit (Toskana): Granfondo 132 km / 2.635 Hm mit Passo della Futa und Passo della Sambuca (2 gesperrte Zeitfahrpassagen). Mediofondo 80 km, Kurzstrecke 45 km. Zusätzlich 2 Gravel-Routen (60 und 90 km) durch das Apennin-Hinterland.",
+  "distanceKm": 132,
+  "elevationGainM": 2635
+}

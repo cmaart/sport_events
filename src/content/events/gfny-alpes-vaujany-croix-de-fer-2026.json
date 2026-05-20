@@ -1,0 +1,22 @@
+{
+  "id": "gfny-alpes-vaujany-croix-de-fer-2026",
+  "name": "GFNY Alpes Vaujany Croix de Fer",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vaujany",
+    "lat": 45.1522,
+    "lng": 6.0583
+  },
+  "websiteUrl": "https://vaujany.gfny.com/",
+  "description": "GFNY Alpes Vaujany Croix de Fer in den Isère-Alpen: 118 km / 4.000 Hm (Langstrecke) oder 43 km / 1.800 Hm über Col de la Croix de Fer (2.067 m) und Col du Glandon mit Bergziel Vaujany. Start Place de la Fare. Separate Herbstausgabe des GFNY-Vaujany-Kalenders (Frühjahrsausgabe im Juni).",
+  "distanceKm": 118,
+  "elevationGainM": 4000
+}

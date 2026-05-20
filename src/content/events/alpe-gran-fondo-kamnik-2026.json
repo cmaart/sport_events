@@ -1,0 +1,22 @@
+{
+  "id": "alpe-gran-fondo-kamnik-2026",
+  "name": "Alpe Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kamnik",
+    "lat": 46.2344,
+    "lng": 14.6097
+  },
+  "websiteUrl": "https://alpegf.eu/en/home/",
+  "description": "Alpe Gran Fondo in den Kamniško-Savinjske Alpen (Slowenien): Pro-Strecke 130 km / 2.000 Hm über drei Pässe (Črnivec, Pavličevo sedlo, Jezersko), Hobby-Strecke 75 km / 1.454 Hm. Start und Ziel am Hauptplatz von Kamnik.",
+  "distanceKm": 130,
+  "elevationGainM": 2000
+}

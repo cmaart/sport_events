@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-samoens-2026",
+  "name": "Gran Fondo Samoëns",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Samoëns",
+    "lat": 46.0799,
+    "lng": 6.7219
+  },
+  "websiteUrl": "https://www.granfondo-samoens.com/en",
+  "description": "Gran Fondo Samoëns in der Haute-Savoie: Zweitägige Veranstaltung mit 270 km / 8.280 Hm Gesamtstrecke durch die Giffre-Bergwelt. Highlights: Col de Joux Plane, Col de Joux Verte, Col de la Ramaz, Col de la Colombière. Jede Etappe (Sa/So, je ca. 135 km) kann auch einzeln gefahren werden.",
+  "distanceKm": 270,
+  "elevationGainM": 8280
+}
