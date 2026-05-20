@@ -20,5 +20,6 @@
   "websiteUrl": "https://seestadt-triathlon.at",
   "description": "Stadtnaher Triathlon in der modernen Seestadt Aspern im 22. Wiener Bezirk. Sprint-Triathlon sowie Kinder- und Jugendbewerbe, Aquabike und Staffeln, 2026 auch Austragungsort der Wiener Triathlon-Meisterschaften.",
   "distanceKm": 24,
-  "elevationGainM": 50
+  "elevationGainM": 50,
+  "imageUrl": "https://seestadt-triathlon.at/wp-content/uploads/2025/12/20260604_triathlon-sprintdistanz-1024x543.png"
 }

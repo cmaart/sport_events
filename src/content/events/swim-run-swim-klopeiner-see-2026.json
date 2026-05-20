@@ -1,0 +1,21 @@
+{
+  "id": "swim-run-swim-klopeiner-see-2026",
+  "name": "Swim Run Swim Klopeiner See",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Kanzian am Klopeiner See",
+    "lat": 46.595,
+    "lng": 14.601,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.alpenadriaswimcup.at",
+  "description": "Swim-Run-Swim-Aquathlon am idyllischen Klopeiner See in Kärnten: 1,5 km Schwimmen – 5,4 km Laufen – 1 km Schwimmen. Teil des Alpen-Adria-Swim-Cup-Events in der Naturidylle des wärmsten Badesees der Alpen."
+}

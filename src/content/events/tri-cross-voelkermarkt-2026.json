@@ -1,0 +1,21 @@
+{
+  "id": "tri-cross-voelkermarkt-2026",
+  "name": "Tri Cross Jedermann Völkermarkt",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Völkermarkt",
+    "lat": 46.662,
+    "lng": 14.638,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://my.raceresult.com/381231/info",
+  "description": "Tri Cross Kids und Jedermann-Triathlon am Freibad Völkermarkt. Cross-Triathlon auf kurzer Distanz (200 m Schwimmen / 4,5 km Rad / 2 km Laufen) – ideal für Einsteiger und Familien."
+}

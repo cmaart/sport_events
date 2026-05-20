@@ -20,5 +20,6 @@
   "websiteUrl": "https://challenge-walchsee.com/",
   "description": "Challenge-Rennen im idyllischen Kaiserwinkl in Tirol mit 1,9 km Schwimmen im glasklaren Walchsee, 90 km Rad durch die Tiroler Bergwelt und 21,9 km Lauf in vier Runden um den See. Hauptbewerb am 28. Juni 2026 um 08:30 Uhr, dazu Aquabike und Staffelbewerb.",
   "distanceKm": 113,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://challenge-walchsee.com/wp-content/uploads/sites/7/2024/11/walchsee-bike3.jpg"
 }

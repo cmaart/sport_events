@@ -1,0 +1,21 @@
+{
+  "id": "ikb-baggersee-aquathlon-innsbruck-2026",
+  "name": "IKB Baggersee Aquathlon Innsbruck",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Innsbruck",
+    "lat": 47.269,
+    "lng": 11.404,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.ttci.at",
+  "description": "IKB Baggersee Aquathlon am Innsbruck Baggersee – der traditionelle Saisonabschluss des Triathlon Clubs Innsbruck: 1 km Schwimmen / 5 km Laufen, plus Jugend-Bewerbe."
+}

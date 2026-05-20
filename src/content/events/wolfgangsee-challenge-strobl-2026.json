@@ -21,5 +21,6 @@
   "websiteUrl": "https://laufgemeinschaft.at",
   "description": "Triathlonfestival am Wolfgangsee im Salzkammergut mit zwei Veranstaltungstagen: Samstag Cross-Triathlon und Sonntag klassischer Triathlon. Schwimmen im kristallklaren Wolfgangsee, Off-Road-Radstrecke bzw. Bergstrecke und Laufkurs durch die Salzkammergut-Landschaft. St. Wolfgang als bekanntes Touristenziel in der Naehe.",
   "distanceKm": 52,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://www.wolfgangseechallenge.at/upload/imgproc/1418865_head.jpg"
 }
