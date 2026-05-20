@@ -1,0 +1,22 @@
+{
+  "id": "triathlon-gerardmer-xl-2026",
+  "name": "Triathlon de Gérardmer – XL",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gérardmer",
+    "lat": 48.071,
+    "lng": 6.855
+  },
+  "websiteUrl": "https://triathlondegerardmer.com/",
+  "description": "Triathlon de Gérardmer XL am Lac de Gérardmer in den Vogesen: Mitteldistanz 1,9 km / 90 km / 21 km. Herbst-Triathlon in der Berglandschaft der Hautes-Vosges; nicht zu verwechseln mit dem XTERRA Longemer am selben See.",
+  "distanceKm": 113
+}

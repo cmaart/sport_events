@@ -1,0 +1,21 @@
+{
+  "id": "triathlon-vichy-format-l-2026",
+  "name": "Triathlon de Vichy – Format L",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bellerive-sur-Allier",
+    "lat": 46.12,
+    "lng": 3.408
+  },
+  "websiteUrl": "https://triathlondevichy.com/",
+  "description": "Triathlon de Vichy Format L in Bellerive-sur-Allier (Allier): 2,0 km / 87 km + 620 Hm / 20 km. Lokales Vereinsrennen als Teil des Triathlon de Vichy, eigenständig neben dem IRONMAN-Weekend. Qualifiziert als Französische Langdistanz-Meisterschaft.",
+  "distanceKm": 109
+}

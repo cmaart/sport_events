@@ -1,0 +1,24 @@
+{
+  "id": "alpsman-annecy-2026",
+  "name": "AlpsMan Triathlon – Lac d'Annecy",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saint-Jorioz",
+    "lat": 45.827,
+    "lng": 6.172
+  },
+  "websiteUrl": "https://alps-man.com/",
+  "description": "AlpsMan Triathlon am Lac d'Annecy in Saint-Jorioz (10. Jubiläumsedition): Langdistanz Xtrem 3,8 km / 180 km / 42 km mit 4.000 Hm Radstrecke und Ziel auf dem Semnoz-Gipfel; Half 1,9 km / 90 km / 21 km sowie Olympische Distanz. Spektakuläre Alpenkulisse am türkisblauen Lac d'Annecy.",
+  "distanceKm": 226
+}

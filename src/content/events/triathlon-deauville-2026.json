@@ -1,0 +1,21 @@
+{
+  "id": "triathlon-deauville-2026",
+  "name": "Triathlon de Deauville – Longue Distance",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Deauville",
+    "lat": 49.356,
+    "lng": 0.075
+  },
+  "websiteUrl": "https://triathlondeauville.com/",
+  "description": "Triathlon de Deauville Longue Distance in der Normandie: Mitteldistanz 1,9 km Meerschwimmen am berühmten Planches-Strand / 90 km Rad / 21 km Laufen auf der Strandpromenade. Einzigartiger Atlantikflair an der Côte Fleurie der Calvados-Küste.",
+  "distanceKm": 113
+}

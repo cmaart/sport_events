@@ -1,0 +1,23 @@
+{
+  "id": "frenchman-triathlon-carcans-2026",
+  "name": "FrenchMan Triathlon Carcans",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-05-15",
+    "end": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Carcans-Maubuisson",
+    "lat": 45.12,
+    "lng": -1.077
+  },
+  "websiteUrl": "https://www.frenchmantriathlon.com/",
+  "description": "FrenchMan Triathlon am Lac Maubuisson bei Carcans (Gironde): Langdistanz XXL 3,8 km / 180 km / 42 km sowie Mitteldistanz L 1,9 km / 90 km / 21 km. Als schnellstes Ironman-Format in Frankreich vermarktet; flache Landes-Strecken an der atlantischen Küstenlandschaft der Gironde.",
+  "distanceKm": 226
+}

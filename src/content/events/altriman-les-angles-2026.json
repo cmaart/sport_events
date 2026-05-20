@@ -1,0 +1,23 @@
+{
+  "id": "altriman-les-angles-2026",
+  "name": "Altriman Triathlon – Les Angles",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-07-10",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Les Angles – Lac de Matemale",
+    "lat": 42.557,
+    "lng": 2.023
+  },
+  "websiteUrl": "https://altriman.fr/",
+  "description": "Altriman Triathlon am Lac de Matemale im Capcir-Hochplateau der Pyrénées-Orientales (1.500–2.000 m): XXL Langdistanz 3,8 km / 193 km + 5.000 Hm / 42 km + 1.000 Hm sowie Half 1,9 km / 102 km / 21 km. Einer der härtesten Bergtriathlons Frankreichs in atemberaubender Pyrenäenlandschaft.",
+  "distanceKm": 239
+}

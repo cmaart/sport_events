@@ -1,0 +1,22 @@
+{
+  "id": "diaoulman-pontivy-2026",
+  "name": "DiaoulMan Triathlon Pontivy",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-05-23",
+    "end": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pontivy",
+    "lat": 48.065,
+    "lng": -2.967
+  },
+  "websiteUrl": "https://diaoulman.assoconnect.com/",
+  "description": "DiaoulMan Triathlon in Pontivy (Morbihan, Bretagne): Mitteldistanz 1,9 km / 90 km / 21 km. Traditionsreicher bretonischer Triathlon in der Napleonstadt Pontivy an der Kreuzung von Blavet und dem Kanal Nantes-Brest.",
+  "distanceKm": 113
+}
