@@ -1,0 +1,22 @@
+{
+  "id": "altmark-triathlon-hassel-2026",
+  "name": "Altmark-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hassel (Elbe) – Waldbad Wischer",
+    "lat": 52.6366,
+    "lng": 11.9509
+  },
+  "websiteUrl": "https://www.altmark-triathlon.com/",
+  "description": "38. Altmark-Triathlon am Waldbad-Campingplatz Wischer in der Elbe-Altmark (Sachsen-Anhalt): Olympische Distanz 1,5 km / 43,5 km / 10 km sowie Jedermann 0,75 km / 14,5 km / 5 km. Natürliche Flachlandkulisse im Biosphärenreservat Mittelelbe.",
+  "distanceKm": 55
+}

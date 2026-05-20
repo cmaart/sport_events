@@ -1,0 +1,22 @@
+{
+  "id": "vulkaneifel-triathlon-gerolstein-2026",
+  "name": "Kreissparkasse Vulkaneifel Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gerolstein – Freibad",
+    "lat": 50.2212,
+    "lng": 6.6549
+  },
+  "websiteUrl": "https://vulkaneifel-triathlon.de/",
+  "description": "25. Kreissparkasse Vulkaneifel Triathlon in Gerolstein (Rheinland-Pfalz): Sprint 500 m / 22 km / 5 km und neu 2026 Kurzdistanz 1.000 m / 44 km / 10 km. Schwimmen im Freibad Gerolstein, Ziel am Brunnenplatz in der Innenstadt. Veranstalter: SV Gerolstein 1919.",
+  "distanceKm": 55
+}
