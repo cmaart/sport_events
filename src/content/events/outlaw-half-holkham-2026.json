@@ -1,0 +1,21 @@
+{
+  "id": "outlaw-half-holkham-2026",
+  "name": "Outlaw Half Holkham",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Holkham Estate – Norfolk",
+    "lat": 52.9494,
+    "lng": 0.8073
+  },
+  "websiteUrl": "https://outlawtriathlon.com/outlaw-holkham/outlaw-half",
+  "description": "Outlaw Half Holkham auf dem historischen Holkham Estate an der Norfolkküste (England): Mitteldistanz 1,9 km / 90 km / 21 km. Schwimmen im Meer am Holkham Beach; Rad und Laufen durch die Parklandschaft des Anwesens.",
+  "distanceKm": 113
+}

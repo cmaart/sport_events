@@ -1,0 +1,21 @@
+{
+  "id": "outlaw-half-nottingham-2026",
+  "name": "Outlaw Half Nottingham",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nottingham – Holme Pierrepont",
+    "lat": 52.9266,
+    "lng": -1.09
+  },
+  "websiteUrl": "https://outlawtriathlon.com/outlaw-nottingham/outlaw-half",
+  "description": "Outlaw Half Triathlon in Nottingham am National Water Sports Centre Holme Pierrepont: Mitteldistanz 1,9 km / 90 km / 21 km. Teil der Outlaw-Triathlonserie.",
+  "distanceKm": 113
+}

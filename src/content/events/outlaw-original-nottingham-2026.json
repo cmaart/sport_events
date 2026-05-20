@@ -1,0 +1,21 @@
+{
+  "id": "outlaw-original-nottingham-2026",
+  "name": "Outlaw Original Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nottingham – Holme Pierrepont",
+    "lat": 52.9266,
+    "lng": -1.09
+  },
+  "websiteUrl": "https://outlawtriathlon.com/outlaw-original/outlaw-full",
+  "description": "Outlaw Original Triathlon am National Water Sports Centre in Holme Pierrepont (Nottingham): Langdistanz 3,8 km / 180 km / 42,2 km. Austragungsort der Britischen Langdistanz-Triathlonmeisterschaft 2026.",
+  "distanceKm": 226
+}

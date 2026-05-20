@@ -1,0 +1,23 @@
+{
+  "id": "the-northumbrian-kielder-2026",
+  "name": "The Northumbrian Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kielder Water – Northumberland",
+    "lat": 55.1833,
+    "lng": -2.5
+  },
+  "websiteUrl": "https://thenorthumbrian.com/",
+  "description": "The Northumbrian Triathlon am Kielder Water (Northumberland): Langdistanz (Full Iron) und Mitteldistanz (Half Iron – Britische & Englische Mitteldistanz-Meisterschaft 2026). Wildnis-Kulisse im größten europäischen Waldgebiet Englands.",
+  "distanceKm": 226
+}

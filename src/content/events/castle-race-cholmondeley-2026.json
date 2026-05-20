@@ -1,0 +1,22 @@
+{
+  "id": "castle-race-cholmondeley-2026",
+  "name": "Castle Race Series – Cholmondeley Castle",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cholmondeley Castle – Cheshire",
+    "lat": 53.0576,
+    "lng": -2.6926
+  },
+  "websiteUrl": "https://www.castleraceseries.com/events/cholmondeley-castle/",
+  "description": "Castle Race Series – Cholmondeley Castle (Cheshire, England): Gauntlet Mitteldistanz 1,9 km / 84 km / 21 km in der herrschaftlichen Schlosskulisse von Cholmondeley Castle. Teil der britischen Castle Race Series.",
+  "distanceKm": 107
+}

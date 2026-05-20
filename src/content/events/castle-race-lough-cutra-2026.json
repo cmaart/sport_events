@@ -1,0 +1,22 @@
+{
+  "id": "castle-race-lough-cutra-2026",
+  "name": "Castle Race Series – Lough Cutra Castle",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-05-23",
+    "end": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lough Cutra – County Galway",
+    "lat": 53.0237,
+    "lng": -8.8031
+  },
+  "websiteUrl": "https://www.castleraceseries.com/events/lough-cutra-castle/",
+  "description": "Castle Race Series – Lough Cutra Castle bei Gort (County Galway, Irland): Gauntlet Mitteldistanz 1,9 km / 90 km / 21 km. Schwimmen im privaten Lough Cutra; Radstrecke durch die Burren-Landschaft Connachts. Teil der internationalen Castle Race Series.",
+  "distanceKm": 113
+}

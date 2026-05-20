@@ -1,0 +1,21 @@
+{
+  "id": "aberfeldy-triathlon-2026",
+  "name": "Aberfeldy Middle Distance Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kenmore – Loch Tay",
+    "lat": 56.5789,
+    "lng": -4.0038
+  },
+  "websiteUrl": "https://www.aberfeldytriathlon.com/aberfeldy-middle-distance-triathlon/",
+  "description": "Aberfeldy Middle Distance Triathlon am Loch Tay in Kenmore (Perthshire, Schottland): 1,9 km / 90 km / 21 km. Schottische Nationale Mitteldistanz-Meisterschaft 2026. Schwimmen im glasklaren Loch Tay, Radstrecke durch das schottische Highland-Hochland.",
+  "distanceKm": 113
+}
