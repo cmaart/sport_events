@@ -1,0 +1,21 @@
+{
+  "id": "triatlo-longo-moura-2026",
+  "name": "Triatlo Longo de Moura",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-04-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Moura",
+    "lat": 38.135,
+    "lng": -7.447
+  },
+  "websiteUrl": "https://www.federacao-triatlo.pt/ftp2015/competicoes/calendario/calendario-nacional-2026/",
+  "description": "Triatlo Longo de Moura am Alqueva-Stausee im Alentejo (Portugal): Portuguiesische Nationale Mitteldistanz-Meisterschaft 1,9 km / 90 km / 21 km. Schwimmen im Fluss-Badestrand Rio Moura; weitläufige Alentejanische Ebene auf der Radstrecke.",
+  "distanceKm": 113
+}

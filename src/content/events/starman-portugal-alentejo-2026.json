@@ -1,0 +1,21 @@
+{
+  "id": "starman-portugal-alentejo-2026",
+  "name": "STARMAN Portugal – Alentejo Night Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Beja – Barragem do Pisão",
+    "lat": 37.928,
+    "lng": -7.863
+  },
+  "websiteUrl": "https://www.instagram.com/starman_portugal/",
+  "description": "STARMAN Portugal Alentejo Night Triathlon am Pisão-Stausee bei Beja (Alentejo): Mitteldistanz 1,9 km / 90 km / 21 km als Nacht-Triathlon. Einzigartiges Format unter dem Sternenhimmel des Alentejo; einer der dunkelsten Himmel Europas (Starlight Reserve).",
+  "distanceKm": 113
+}

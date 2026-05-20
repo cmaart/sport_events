@@ -1,0 +1,21 @@
+{
+  "id": "lion-heart-cross-triathlon-primorsko-2026",
+  "name": "Lion Heart Ultra Cross Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "BG",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Primorsko",
+    "lat": 42.275,
+    "lng": 27.759
+  },
+  "websiteUrl": "https://ultra.lionheart.bg/en/",
+  "description": "Lion Heart Ultra Cross Triathlon in Primorsko an der bulgarischen Schwarzmeerküste: 3 km Schwimmen / 96 km Mountainbike / 21 km Traillaufen. Cross-Triathlon-Format; Route führt über Kap Maslen Nos und das Felsheiligtum Beglik Tash. Spektakuläre Schwarzmeer-Naturkulisse.",
+  "distanceKm": 120
+}

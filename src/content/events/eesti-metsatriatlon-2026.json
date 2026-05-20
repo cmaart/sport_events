@@ -1,0 +1,21 @@
+{
+  "id": "eesti-metsatriatlon-2026",
+  "name": "Eesti Metsatriatlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "EE",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karula Nationalpark – Antsla",
+    "lat": 57.726,
+    "lng": 26.381
+  },
+  "websiteUrl": "https://metsatriatlon.ee/en/forest-triathlon/",
+  "description": "Eesti Metsatriatlon (Estnischer Waldtriathlon) im Karula-Nationalpark: Langdistanz 3,8 km / 180 km / 42,2 km auf Forst- und Naturwegen. Limitiert auf 150 Teilnehmer; als schönster und schwierigster Triathlon Estlands vermarktet. Schwimmen im Waldsee Ähijärv.",
+  "distanceKm": 226
+}
