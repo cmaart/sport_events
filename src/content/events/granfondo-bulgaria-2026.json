@@ -1,0 +1,21 @@
+{
+  "id": "granfondo-bulgaria-2026",
+  "name": "Granfondo Bulgaria",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "BG",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Velingrad",
+    "lat": 41.9896,
+    "lng": 24.0050
+  },
+  "websiteUrl": "https://www.granfondobulgaria.com/en/",
+  "description": "UCI Gran Fondo World Series Qualifier in Bulgarien, Ausgabe 2026 im idyllischen Badeort Velingrad im Rhodopen-Gebirge: Gran Fondo (161 km / 2.006 Hm) und Medio Fondo (70 km / 620 Hm). Neu im UCI-Kalender 2026; landschaftlich reizvolle Strecke durch die bulgarischen Mittelgebirge.",
+  "distanceKm": 161,
+  "elevationGainM": 2006
+}

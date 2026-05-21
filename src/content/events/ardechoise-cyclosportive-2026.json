@@ -1,0 +1,20 @@
+{
+  "id": "ardechoise-cyclosportive-2026",
+  "name": "L'Ardéchoise",
+  "sport": "cycling",
+  "categories": ["Gran Fondo", "Radmarathon"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-09",
+    "end": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saint-Félicien",
+    "lat": 45.0713,
+    "lng": 4.7201
+  },
+  "websiteUrl": "https://www.ardechoise.com/",
+  "description": "Eines der größten Radsportfestivals Frankreichs in der Ardèche: 33. Ausgabe mit 1- bis 4-Tages-Formaten von 23 bis 619 km durch die spektakuläre Vulkanlandschaft der Ardèche und der Drôme. Gravel- und E-Bike-Kategorien verfügbar; über 15.000 Teilnehmende aus ganz Europa.",
+  "distanceKm": 200
+}

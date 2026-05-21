@@ -18,8 +18,9 @@
     "lat": 49.1427,
     "lng": 9.2109
   },
-  "websiteUrl": "https://finishers.com/event/vr-bank-triathlon-heilbronn",
+  "websiteUrl": "https://www.triathlon-heilbronn.de/",
   "description": "Grosstadttriathlon in Heilbronn am Neckar (fruehers Challenge Heilbronn) mit Sprint-, Kurz- und Mitteldistanz. Praesentiert von VR Bank, Schwimmen im Neckarsee oder Heilbronner Badesee, Radstrecke durch die Weinberge des Unterlands und Laufkurs entlang des Neckars. Attraktiver Weinregion-Triathlon in Nordbaden.",
   "distanceKm": 113,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://www.triathlon-heilbronn.de/media/pages/home/f1d8c215d6-1718777495/vr-bank-triathlon-heilbronn-powered-by-audi-2024-116-1024x.jpg"
 }

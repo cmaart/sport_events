@@ -16,5 +16,6 @@
   "websiteUrl": "https://www.nxtri.com",
   "description": "Einer der härtesten Triathlons weltweit: Start mit einem Sprung von der Fähre ins eiskalte Hardangerfjord (3,8 km), 180 km Rad durch norwegische Fjord- und Hochgebirgslandschaft, 42,2 km Lauf mit über 5.000 Hm – der Zieleinlauf liegt auf dem Gipfel des Gaustatoppen (1.880 m). Nur 250 Startplätze, vergabe per Lotterie.",
   "distanceKm": 226,
-  "elevationGainM": 5000
+  "elevationGainM": 5000,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/68b5e22f4d48361244a235b4/3fe4778b-57ac-4fa2-9423-8b783d880e71/TobiasGjerde-3151.jpg"
 }

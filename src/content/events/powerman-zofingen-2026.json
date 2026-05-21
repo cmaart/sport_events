@@ -1,0 +1,20 @@
+{
+  "id": "powerman-zofingen-2026",
+  "name": "Powerman Zofingen – Duathlon-WM",
+  "sport": "triathlon",
+  "categories": ["Duathlon"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zofingen",
+    "lat": 47.2878,
+    "lng": 7.9457
+  },
+  "websiteUrl": "https://powerman.ch/en/",
+  "description": "World Triathlon Powerman Long Distance Duathlon World Championships in Zofingen: 10 km Laufen, 150 km Radfahren, 30 km Laufen. Zofingen ist seit Jahrzehnten die Heimat der Langdistanz-Duathlon-WM und gilt als das härteste Duathlon-Rennen der Welt. Elitestarts und offene Altersklassenbewerbe über mehrere Distanzen am Wochenende.",
+  "distanceKm": 190
+}
