@@ -2,7 +2,9 @@
   "id": "ironman-703-warsaw-2026",
   "name": "IRONMAN 70.3 Warsaw",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "PL",
   "dates": {
     "start": "2026-06-07",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://ironmanwarsaw.com/en/",
   "description": "IRONMAN 70.3 Warsaw – Halbdistanz in der polnischen Hauptstadt: Schwimmen im Zegrzyński-See nördlich von Warschau, Radstrecke durch die masowischen Wälder und Zieleinlauf im Herzen der Stadt. WM-Qualifikationsveranstaltung; rund 2.500 Startplätze – Rekord für ein 70.3-Rennen in Polen.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://ironmanwarsaw.com/wp-content/uploads/2025/10/20250608RO_09300085_Easy-Resize.com_.jpg"
 }

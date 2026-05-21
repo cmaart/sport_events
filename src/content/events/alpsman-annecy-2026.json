@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://alps-man.com/",
   "description": "AlpsMan Triathlon am Lac d'Annecy in Saint-Jorioz (10. Jubiläumsedition): Langdistanz Xtrem 3,8 km / 180 km / 42 km mit 4.000 Hm Radstrecke und Ziel auf dem Semnoz-Gipfel; Half 1,9 km / 90 km / 21 km sowie Olympische Distanz. Spektakuläre Alpenkulisse am türkisblauen Lac d'Annecy.",
-  "distanceKm": 226
+  "distanceKm": 226,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/auvergne-rhone-alpes/haute-savoie/alpsman/ii2lxhyi4yyc8afhdgrc"
 }

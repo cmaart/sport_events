@@ -2,7 +2,9 @@
   "id": "colnago-granfondo-mont-ventoux-2026",
   "name": "Colnago Gran Fondo Mont Ventoux",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-06-07",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://gfmontventoux.com/en/",
   "description": "Colnago Gran Fondo Mont Ventoux in der Provence: Drei Streckenvarianten – Granfondo 135 km (3.100 Hm), Mediofondo 106 km, Piccolofondo 80 km – alle mit Gipfelfinish auf dem Mont Ventoux (1.909 m). Route durch Gorges de la Nesque, Lavendelfelder und Provençalische Dörfer. 6. Ausgabe, weltklasse-Organisation.",
   "distanceKm": 135,
-  "elevationGainM": 3100
+  "elevationGainM": 3100,
+  "imageUrl": "https://gfmontventoux.com/wp-content/uploads/sites/2/2024/02/fp_image2-2000x833-c-center.jpg"
 }

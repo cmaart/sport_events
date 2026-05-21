@@ -2,7 +2,9 @@
   "id": "tartu-rattaralli-2026",
   "name": "Tartu Rattaralli",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "EE",
   "dates": {
     "start": "2026-06-07",
@@ -11,10 +13,11 @@
   "location": {
     "name": "Tartu",
     "lat": 58.3776,
-    "lng": 26.7290
+    "lng": 26.729
   },
   "websiteUrl": "https://tartumaraton.ee/en/tartu-rattaralli-2026",
   "description": "Tartu Rattaralli – 45. Ausgabe des traditionsreichen estnischen Radmarathons und UCI Gran Fondo World Series-Qualifier: Hauptstrecke 128 km durch das Hügelland Südestlands, dazu 60 km und 27 km Kürzer. Eines der ältesten Radrennen im Baltikum mit über 5.000 Teilnehmern.",
   "distanceKm": 128,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://tartumaraton.ee/cache/tartu_maraton/public/competition_img/_1500x500x1/1893_2_RR_26_1500x500_eng.jpg"
 }

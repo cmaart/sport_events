@@ -2,7 +2,9 @@
   "id": "ironman-703-alghero-2026",
   "name": "IRONMAN 70.3 Alghero",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-06-07",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.ironman.com/im703-alghero",
   "description": "IRONMAN 70.3 Alghero – erste Ausgabe des neuen Triathlons auf der katalanischen Inselstadt Sardiniens: 1,9 km Schwimmen im Mittelmeer, 90 km Radfahren (850 Hm) vom Hafen entlang der Küste durch den Naturpark Porto Conte, 21,1 km Lauf entlang der Küstenstraße und durch die mittelalterliche Altstadt mit Zieleinlauf am Hafen.",
   "distanceKm": 113,
-  "elevationGainM": 850
+  "elevationGainM": 850,
+  "imageUrl": "https://endurance.biz/wp-content/uploads/2025/09/250923_Sardinia-in-Italy-to-host-new-IRONMAN-70.3-Alghero-in-2026.jpeg"
 }

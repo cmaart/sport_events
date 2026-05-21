@@ -2,7 +2,9 @@
   "id": "swim-run-swim-laengsee-2026",
   "name": "Swim Run Swim Längsee",
   "sport": "triathlon",
-  "categories": ["Aquathlon"],
+  "categories": [
+    "Aquathlon"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-08-08",
@@ -17,5 +19,6 @@
   },
   "websiteUrl": "https://www.triathlon-kaernten.at/",
   "description": "Aquathlon am idyllischen Längsee in Kärnten: Schwimmen und Laufen im Wechsel auf 5 km Gesamtstrecke im glasklaren Kärntner Badesee. Teil des Kärntner Triathlon-Kalenders, geeignet für Einsteiger und erfahrene Athleten.",
-  "distanceKm": 5
+  "distanceKm": 5,
+  "imageUrl": "https://static.wixstatic.com/media/21a7d6_40c59b27223645f3a9ba5c6c52240ac5~mv2.jpg"
 }

@@ -2,7 +2,9 @@
   "id": "ironman-703-westfriesland-2026",
   "name": "IRONMAN 70.3 Westfriesland",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "NL",
   "dates": {
     "start": "2026-06-21",
@@ -11,9 +13,10 @@
   "location": {
     "name": "Hoorn",
     "lat": 52.6442,
-    "lng": 5.0600
+    "lng": 5.06
   },
   "websiteUrl": "https://www.ironman.com/im703-westfriesland",
   "description": "IRONMAN 70.3 Westfriesland in Hoorn: 1,9 km Schwimmen im Markermeer, 90 km völlig flaches Rad durch Westfriesland gesäumt von Windmühlen und niederländischen Städtchen, 21,1 km Laufen durch Hoorns historisches Stadtzentrum. Typisch holländischer Triathlon auf flachstem Gelände mit begeistertem Publikum.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/pays-bas/hollande-septentrionale/gemeente-hoorn/ironman-70-3-westfriesland/xjualn7ueyhkiuwmbvsu"
 }

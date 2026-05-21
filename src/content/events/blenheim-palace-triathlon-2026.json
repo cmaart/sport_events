@@ -2,7 +2,9 @@
   "id": "blenheim-palace-triathlon-2026",
   "name": "Blenheim Palace Triathlon",
   "sport": "triathlon",
-  "categories": ["Sprintdistanz"],
+  "categories": [
+    "Sprintdistanz"
+  ],
   "country": "GB",
   "dates": {
     "start": "2026-06-06",
@@ -16,5 +18,6 @@
   },
   "websiteUrl": "https://supertri.com/blenheim-palace/",
   "description": "Blenheim Palace Triathlon – Einer der bekanntesten Breitensport-Triathlons Großbritanniens im UNESCO-Welterbe Blenheim Palace: Schwimmen im Great Lake des Schlosses, Rad- und Laufstrecke durch den Parklandschaft. Sprint-Distanz (750 m/19,8 km/5,4 km) sowie Super-Sprint-Format; Teil der British Triathlon Super Series und Supertri Pro Series.",
-  "distanceKm": 26
+  "distanceKm": 26,
+  "imageUrl": "https://sustainhealth.fit/wp-content/uploads/2026/02/Blenheim-Palace-Triathlon.jpg"
 }

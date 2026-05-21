@@ -2,7 +2,9 @@
   "id": "ironman-703-nice-2026",
   "name": "IRONMAN 70.3 Nice",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-06-28",
@@ -11,9 +13,10 @@
   "location": {
     "name": "Nice",
     "lat": 43.7102,
-    "lng": 7.2620
+    "lng": 7.262
   },
   "websiteUrl": "https://www.ironman.com/im703-nice",
   "description": "IRONMAN 70.3 Nice – am gleichen Tag wie der IRONMAN France Full Distance: 1,9 km Schwimmen im Mittelmeer, 90 km Rad in die Alpes-Maritimes, 21,1 km Laufen auf der Promenade des Anglais. Parallel wird auch die 70.3-Weltmeisterschaft 2026 in Nice ausgetragen (September), die 70.3 Nice im Juni ist ein separater Qualifikationswettkampf.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/provence-alpes-cote-dazur/alpes-maritimes/ironman-70-3-de-nice/lq6xaddvdizwg5obaoxu"
 }

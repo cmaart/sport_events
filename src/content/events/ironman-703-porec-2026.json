@@ -2,7 +2,9 @@
   "id": "ironman-703-porec-2026",
   "name": "IRONMAN 70.3 Poreč",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "HR",
   "dates": {
     "start": "2026-10-18",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://www.ironman.com/im703-porec",
   "description": "IRONMAN 70.3 Poreč in Istriens malerischster Küstenstadt: 1,9 km Schwimmen in der kristallklaren Adria vor der venezianischen Altstadt, 90 km Rad durch Istriens Halbinsel mit Olivenhainen und Weingärten, 21,1 km Laufen durch Poreč mit Blick auf die UNESCO-geschützte Euphrasius-Basilika. Oktobertriathlon im warmen Mittelmeerklima.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://images.ctfassets.net/3c3obp29nr3u/3zAKisONaI872H7LUeqO0o/9a1692b367250c4c044d9901a6f79a93/2026IronMan70.3_1920x587swim.jpg"
 }

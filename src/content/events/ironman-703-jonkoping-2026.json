@@ -2,7 +2,9 @@
   "id": "ironman-703-jonkoping-2026",
   "name": "IRONMAN 70.3 Jönköping",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "SE",
   "dates": {
     "start": "2026-07-05",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://www.ironman.com/im703-jonkoping",
   "description": "IRONMAN 70.3 Jönköping am Vätternsee – Europameisterschaftsrennen 2026: 1,9 km Schwimmen im zweitgrößten schwedischen See Vättern, 90 km Rad durch Smålands hügelige Nadelwälder, 21,1 km Laufen durch Jönköpings Innenstadt am Seeufer. Prominente Europameisterschaft für Altersklassen-Triathleten.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/suede/comte-de-jonkoping/ironman-703-de-jonkoping/nt4x6dii1j5d1uf6yb1c"
 }

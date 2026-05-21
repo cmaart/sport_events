@@ -15,10 +15,11 @@
   "location": {
     "name": "Bad Arolsen",
     "lat": 51.3667,
-    "lng": 9.0050
+    "lng": 9.005
   },
   "websiteUrl": "https://www.twistesee-triathlon.com/",
   "description": "Twistesee-Triathlon des VfL Bad Arolsen 1861 im nordhessischen Waldecker Land. Olympische Distanz (1,5/40/10 km) auf coupierter Radstrecke mit rund 700 Höhenmetern, dazu Volks- und Staffeltriathlon (0,5/20/5 km). Gleichzeitig Wertungsrennen der 1. und 2. Hessischen Triathlonliga.",
   "distanceKm": 51,
-  "elevationGainM": 700
+  "elevationGainM": 700,
+  "imageUrl": "https://twistesee-triathlon.com/img/2026_lang.png"
 }

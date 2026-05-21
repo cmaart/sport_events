@@ -2,7 +2,9 @@
   "id": "ironman-703-knokke-heist-2026",
   "name": "IRONMAN 70.3 Knokke-Heist",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "BE",
   "dates": {
     "start": "2026-09-06",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Knokke-Heist",
-    "lat": 51.3600,
-    "lng": 3.3000
+    "lat": 51.36,
+    "lng": 3.3
   },
   "websiteUrl": "https://www.ironman.com/im703-knokke-heist",
   "description": "IRONMAN 70.3 Knokke-Heist an der belgischen Nordseeküste: 1,9 km Schwimmen in der Nordsee am mondänen Seebad Knokke, 90 km Rad durch Westflandern und die Polders, 21,1 km Laufen entlang der Strandpromenade. Nördlichstes belgisches IRONMAN-Event direkt an der niederländischen Grenze.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/belgique/region-flamande/flandre-occidentale/ironman-703-knocke-heist/nanbrkkmr7pte25en1mi"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://finishers.com/event/datagroup-triathlon-nurnberg",
   "description": "Triathlon in der Frankenmetropole Nuernberg mit Sprint- und Olympischer Distanz sowie Para-Cup und Staffelwettbewerben. Praesentiert von DATAGROUP, Schwimmen in einem der Nuernberger Badeseen. Stadtnaher Triathlon mit grossem Zuschauerambiente und gutem Anreiseangebot per OEPNV.",
   "distanceKm": 52,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://www.nuernberg-triathlon.de/media/pages/home/d1c8ea261a-1696835623/nuernbergtriathlon2022-125-x3-1024x.jpg"
 }

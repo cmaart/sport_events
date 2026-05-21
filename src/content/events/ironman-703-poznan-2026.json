@@ -2,7 +2,9 @@
   "id": "ironman-703-poznan-2026",
   "name": "Enea IRONMAN 70.3 Poznań",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "PL",
   "dates": {
     "start": "2026-08-30",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Poznań",
-    "lat": 52.4690,
-    "lng": 16.8900
+    "lat": 52.469,
+    "lng": 16.89
   },
   "websiteUrl": "https://ironmanpoznan.com.pl/en/",
   "description": "Enea IRONMAN 70.3 Poznań am Kierskisee: 1,9 km Schwimmen im klaren Kierski-See westlich von Poznań, 90 km Rad durch die hügelige Landschaft Großpolens, 21,1 km Laufen durch das lebendige Stadtzentrum von Poznań. Polens größtes Triathlon-Event mit wachsender internationaler Beteiligung.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/pologne/voivodie-de-grande-pologne/poznan/ironman-70-3-poznan/yxxunascqymz8qon6wpk"
 }

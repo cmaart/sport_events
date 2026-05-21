@@ -20,5 +20,6 @@
   "websiteUrl": "https://bodensee-radmarathon.ch",
   "description": "53. Ausgabe des internationalen Radmarathons rund um den Bodensee durch Deutschland, Österreich und die Schweiz. Vier Strecken von 5 verschiedenen Startorten. Der Kurs umrundet den gesamten Bodensee durch drei Länder - eines der traditionsreichsten Radevents am Bodensee.",
   "distanceKm": 260,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://bodensee-radmarathon.ch/wp-content/uploads/2024/09/11805_20240907_085348_399575420_original.webp"
 }

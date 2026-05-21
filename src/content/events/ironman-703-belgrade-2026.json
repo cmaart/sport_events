@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://www.ironman.com/im703-belgrade",
   "description": "IRONMAN 70.3 Belgrad: 1,9 km Schwimmen im Sava-See / 90 km Rad / 21,1 km Laufen im Herzen Belgrads. Neues IRONMAN-Rennen auf dem Kalender 2026; flacher Stadtkurs rund um Ada Ciganlija und den Zusammenfluss von Sava und Donau.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/serbie/ironman-70-3-belgrade-serbie/jdjartxjv1wppjguhn30"
 }

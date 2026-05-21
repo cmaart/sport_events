@@ -2,7 +2,9 @@
   "id": "ironman-vichy-2026",
   "name": "IRONMAN Vichy",
   "sport": "triathlon",
-  "categories": ["Langdistanz"],
+  "categories": [
+    "Langdistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-08-23",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.ironman.com/im-vichy",
   "description": "IRONMAN Vichy kehrt 2026 zurück: Schwimmen im Lac d'Allier, Radfahren durch die Auvergne-Landschaft, Laufen durch das historische Kurstadt-Zentrum von Vichy. Am gleichen Tag findet auch der IRONMAN 70.3 Vichy statt. Angesichts des stark wachsenden Teilnehmerinteresses in Frankreich ein besonderer Austragungsort für beide Distanzen.",
   "distanceKm": 226,
-  "elevationGainM": 1100
+  "elevationGainM": 1100,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/auvergne-rhone-alpes/allier/ironman-de-vichy/hfvsotavb7rdrsagpaxu"
 }

@@ -2,7 +2,9 @@
   "id": "ironman-703-les-sables-vendee-2026",
   "name": "IRONMAN 70.3 Les Sables d'Olonne-Vendée",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-07-05",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://www.ironman.com/im703-les-sables",
   "description": "IRONMAN 70.3 Les Sables d'Olonne-Vendée an der atlantischen Küste der Vendée: 1,9 km Schwimmen im Atlantik, 90 km Rad durch die Bocage-Landschaft der Vendée, 21,1 km Laufen entlang der berühmten Strandpromenade von Les Sables d'Olonne – bekannt als Zielhafen der Vendée Globe-Segelregatta.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/pays-de-la-loire/vendee/ironman-les-sables-d-olonne-vendee/y58rxgfnuibxxfqv4shb"
 }

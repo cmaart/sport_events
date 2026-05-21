@@ -2,7 +2,9 @@
   "id": "ironman-703-switzerland-rapperswil-2026",
   "name": "IRONMAN 70.3 Switzerland Rapperswil-Jona",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "CH",
   "dates": {
     "start": "2026-06-07",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Rapperswil-Jona",
-    "lat": 47.2300,
-    "lng": 8.8200
+    "lat": 47.23,
+    "lng": 8.82
   },
   "websiteUrl": "https://www.ironman.com/im703-switzerland",
   "description": "IRONMAN 70.3 Switzerland in Rapperswil-Jona am Zürichsee: 1,9 km Schwimmen im klaren Zürichsee, 90 km Rad durch das Zürcher Oberland und den Glatt-Korridor, 21,1 km Laufen entlang der malerischen Rapperswiler Altstadt. Eine der schönsten 70.3-Kulissen in der Schweiz mit Alpenblick.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/suisse/saint-gall/district-de-see-gaster/ironman-703-de-suisse/m8suuu1lwowaoiuykirt"
 }

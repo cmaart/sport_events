@@ -19,5 +19,6 @@
   "websiteUrl": "https://muensterland-giro.de",
   "description": "20. Jubiläumsausgabe des Sparkassen Münsterland Giro parallel zum gleichnamigen UCI-Profirennen. 2026 erstmals mit Start in Borken, dem Jubiläums-Stadtfest zum 800-jährigen Stadtjubiläum. Drei Jedermann-Strecken durch das flache Münsterland. Traditionell am Tag der Deutschen Einheit.",
   "distanceKm": 100,
-  "elevationGainM": 500
+  "elevationGainM": 500,
+  "imageUrl": "https://muensterland-giro.de/wp-content/uploads/2025/10/%C2%A9Sarah-Rauch20251003_Giro_Presse_09-1024x683.jpg"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.kufsteinerland-radmarathon.at",
   "description": "Tiroler Jedermann-Radmarathon, der 2026 sein zehnjähriges Jubiläum feiert und erstmals Teil des Tiroler Rennrad Cups ist. Der Massenstart am Oberen Stadtplatz Kufstein führt auf dem 120-km-Kurs durch das Thierseetal und Brandenberger Tal; dazu Seenrunde (95 km) und Panoramarunde (48 km).",
   "distanceKm": 120,
-  "elevationGainM": 1800
+  "elevationGainM": 1800,
+  "imageUrl": "https://www.kufsteinerland-radmarathon.at/media/teaser/kufstein-radmarathon25kufsteinerland-martinbihounek-037-1620x1080.jpg"
 }

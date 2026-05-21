@@ -2,7 +2,9 @@
   "id": "ironman-703-elsinore-2026",
   "name": "IRONMAN 70.3 Helsingør",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "DK",
   "dates": {
     "start": "2026-06-21",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Helsingør",
-    "lat": 56.0360,
+    "lat": 56.036,
     "lng": 12.6136
   },
   "websiteUrl": "https://www.ironman.com/im703-elsinore",
   "description": "IRONMAN 70.3 Helsingør (Elsinore) in Nordseeland: 1,9 km Schwimmen im Öresund zwischen Dänemark und Schweden, 90 km Rad durch Nordseeland mit Blick auf Schloss Kronborg (Hamlets Schloss), 21,1 km Laufen durch die historische Innenstadt. Auf halbem Weg zwischen Kopenhagen und der schwedischen Küste.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/danemark/ironman-703-de-elseneur/mqefhzmra4dwdt0drs3r"
 }

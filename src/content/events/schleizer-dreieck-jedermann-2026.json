@@ -19,5 +19,6 @@
   "websiteUrl": "https://radsport-events.de",
   "description": "Jedermann-Rennradveranstaltung auf dem historischen Schleizer Dreieck, einer der aeltesten Motorradrennstrecken Deutschlands in Thueringen. Streckenvarianten von 35 km, 70 km und 112 km auf dem traditionellen Dreieck-Kurs. Einzigartiger Motorsport-Geschichte-Hintergrund kombiniert mit modernem Radsport.",
   "distanceKm": 112,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://schleizer-dreieck-jedermann.de/fileadmin/_processed_/0/7/csm_9873_CLL1DRONE1_00021_0f050d7567.jpg"
 }

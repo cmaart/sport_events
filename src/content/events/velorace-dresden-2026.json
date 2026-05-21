@@ -2,7 +2,9 @@
   "id": "velorace-dresden-2026",
   "name": "SKODA Velorace Dresden",
   "sport": "cycling",
-  "categories": ["Rundstreckenrennen"],
+  "categories": [
+    "Rundstreckenrennen"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-08-09",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.velorace-dresden.de/",
   "description": "SKODA Velorace Dresden – 13. Ausgabe des Jedermann-Radrennens in Deutschlands barocker Prachtstädte: Vier Streckenoptionen 103 km, 62 km, 42 km und 21 km auf gesperrten Straßen mit Rundkurs durch die Dresdner Innenstadt und das Umland. Zuvor Kids-Velorace und Inklusions-Sonderstart am 8. August.",
   "distanceKm": 103,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://www.velorace-dresden.de/wp-content/uploads/2024/08/2024_velorace_start.jpg"
 }
