@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.granitmarathon.at",
   "description": "MTB-Marathon im Mühlviertel mit vier Streckenvarianten durch die hügelige Granitsteinlandschaft: Xtreme 90 km/3.100 hm, Classic 60 km/2.000 hm, Small 49 km/1.500 hm und Granitland Light 26 km/700 hm. Teil der KTM Mountainbike Challenge Austria. Rund 700 Teilnehmer:innen.",
   "distanceKm": 90,
-  "elevationGainM": 3100
+  "elevationGainM": 3100,
+  "imageUrl": "https://www.granitmarathon.at/wp-content/uploads/2023/11/mountainbike-granitmarathon-2023.jpg"
 }

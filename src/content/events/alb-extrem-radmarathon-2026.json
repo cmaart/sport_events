@@ -19,5 +19,6 @@
   "websiteUrl": "https://albextrem.de",
   "description": "Radmarathon auf der Schwabischen Alb in Baden-Wuerttemberg mit fuenf Streckenvarianten von 105 bis 305 km. Die laengste Strecke quert die gesamte Schwabische Alb mit erheblichen Steigungsanteilen und ist eine echte Herausforderung fuer erfahrene Radmarathonistes. Start und Ziel im Albvorland bei Ottenbach.",
   "distanceKm": 305,
-  "elevationGainM": 5000
+  "elevationGainM": 5000,
+  "imageUrl": "https://albextrem.de/wp-content/uploads/2026/01/2025-06-29_Alb-Extrem_TOBIAS-FROEHNER-PHOTOGRAPHYV_0057-2-e1768671734131-1024x767.jpg"
 }

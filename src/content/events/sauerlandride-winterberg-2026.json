@@ -19,5 +19,6 @@
   "websiteUrl": "https://sauerlandride.de/",
   "description": "Dreitaegiges Rennrad-Community-Weekend rund um Winterberg ohne Zeitnahme und Wettkampfcharakter. Samstagsetappe 170 km / 2.420 Hm ueber Hennesee und Kahlen Asten, Gesamtpaket 310 km / 4.500 Hm fuer das Wochenende. Drei Tempogruppen, GPX-Tracks vorab bereitgestellt.",
   "distanceKm": 170,
-  "elevationGainM": 2420
+  "elevationGainM": 2420,
+  "imageUrl": "https://sauerlandride.de/og-image.jpg"
 }

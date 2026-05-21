@@ -22,5 +22,6 @@
   "registrationUrl": "https://portal.run-timing.de/922/registration",
   "description": "15. Steinfurter Volksbank Triathlon am Freibad Burgsteinfurt im Münsterland, NRW. Vier Distanzen: Volksdistanz (500 m / 20 km / 5 km), Olympische Distanz (1 km / 40 km / 10 km), Mitteldistanz (2 km / 80 km / 20 km) und Staffel. DTU-Wettkampf im Münsterland, veranstaltet vom Tri-Team Steinfurt.",
   "distanceKm": 131,
-  "elevationGainM": 500
+  "elevationGainM": 500,
+  "imageUrl": "https://triteam-steinfurt.de/wp-content/uploads/2021/02/Banner_klein.png"
 }

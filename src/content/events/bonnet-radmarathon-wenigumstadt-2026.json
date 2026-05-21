@@ -19,5 +19,6 @@
   "websiteUrl": "https://rsv-wenigumstadt.de",
   "description": "Radmarathon im Odenwald nahe Aschaffenburg mit 214 km Laenge und 2.490 m Hoehengewinn. Strecke fuehrt durch die bewaldeten Huegel des Odenwalds und das Maintal in Nordbayern/Hessen. Traditionsveranstaltung des RSV Wenigumstadt mit langjaehrigem Vereinscharakter.",
   "distanceKm": 214,
-  "elevationGainM": 2490
+  "elevationGainM": 2490,
+  "imageUrl": "https://rsv-wenigumstadt.de/images/Featured/RSV_RSW_Teaser_2026.jpg"
 }

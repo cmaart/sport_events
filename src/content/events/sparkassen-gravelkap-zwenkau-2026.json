@@ -2,7 +2,9 @@
   "id": "sparkassen-gravelkap-zwenkau-2026",
   "name": "Sparkassen-GravelKap Zwenkau",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-13",
@@ -17,5 +19,6 @@
   },
   "websiteUrl": "https://sparkassen-gravelkap.de/gravelkap",
   "description": "Gravel-Rennen rund um den Zwenkauer See im Neuseenland südlich von Leipzig. Start und Ziel an der Hafenmole des KAP Zwenkau; vier Streckenvarianten über 35, 70, 105 und 140 km auf flachen Kieswegen, Waldpassagen und kurzen Anstiegen mit je rund 120 Höhenmetern pro Runde. Die Veranstaltung wird gemeinsam von NeuseenSport e.V., Gravel.Leipzig e.V. und dem RV Zwenkau 1890 e.V. organisiert.",
-  "distanceKm": 140
+  "distanceKm": 140,
+  "imageUrl": "https://sparkassen-gravelkap.de/files/src/img/page/6.jpg"
 }

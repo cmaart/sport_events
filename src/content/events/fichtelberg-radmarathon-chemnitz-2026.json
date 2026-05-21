@@ -16,8 +16,9 @@
     "lat": 50.8279,
     "lng": 12.9214
   },
-  "websiteUrl": "https://radsport-events.de",
+  "websiteUrl": "https://fichtelberg-radmarathon.de/",
   "description": "14. Fichtelberg Radmarathon in Chemnitz mit 94 km Laenge und 1.820 m Hoehengewinn. Strecke fuehrt vom Sachsenring in Chemnitz ueber den Fichtelberg im Erzgebirge (1.215 m – hoechster Gipfel Sachsens) und zurueck. Auf 1.000 Teilnehmer begrenzt; anspruchsvoller Kletteranteil ins Erzgebirge.",
   "distanceKm": 94,
-  "elevationGainM": 1820
+  "elevationGainM": 1820,
+  "imageUrl": "https://fichtelberg-radmarathon.de/wp-content/uploads/2026/04/FRM1.jpg"
 }

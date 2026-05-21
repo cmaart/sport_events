@@ -20,5 +20,6 @@
   "websiteUrl": "https://bonn-triathlon.de",
   "description": "Stadtrand-Triathlon in der ehemaligen Bundeshauptstadt Bonn am Rhein mit Schwimmen im Rhein bzw. Auensee, Radstrecke durch das Bonner Umland und Laufkurs entlang des Rheinufers. Praesentiert von RYZON, mehrere Distanzoptionen fuer alle Niveaus. Attraktive Rheinkulisse im Herzen der Stadt.",
   "distanceKm": 52,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://www.bonn-triathlon.de/wp-content/uploads/2025/02/bonn-stripes-xs-scaled.jpg"
 }

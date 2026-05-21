@@ -21,5 +21,6 @@
   "websiteUrl": "https://post-sv-uelzen.de/oseetriathlon",
   "description": "18. O-See-Triathlon am Ornamesee bei Uelzen in der Lüneburger Heide. Drei Distanzklassen: Mitteldistanz (1,9 km / 90 km / 21 km), Olympische Distanz (1,5 km / 45 km / 9 km) und Sprintdistanz (750 m / 24 km / 4,4 km). Schwimmen im Natursee, wellige Radkurse durch die Heide, ausgerichtet vom Post-SV Uelzen.",
   "distanceKm": 113,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/5e592de3e6c2854814d0631d/1688374490212-ZE5OBMJW454KJQDYN7AP/2%20(1).jpg"
 }

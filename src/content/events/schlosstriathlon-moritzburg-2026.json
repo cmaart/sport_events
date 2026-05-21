@@ -21,5 +21,6 @@
   },
   "websiteUrl": "https://schlosstriathlon.de/",
   "description": "Einer der traditionsreichsten Triathlons Deutschlands rund um das Barockschloss Moritzburg bei Dresden, 24. Auflage. Schwimmen in den Moritzburger Teichen, Radstrecke durch saechsische Landschaft. Samstag: Lang- (3,8/185/42 km) und Mitteldistanz; Sonntag: Sprint und Olympisch.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://schlosstriathlon.de/app/uploads/2026/05/Moritzburg-von-oben.webp"
 }
