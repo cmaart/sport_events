@@ -89,3 +89,9 @@ When verifying event facts (dates, distances, elevation), prefer primary/officia
   - `prommer.net` — flagged as unreliable; do not cite for distances/elevation/dates.
 
 If only an unreliable source carries a fact, leave the field out (e.g., omit `elevationGainM`) rather than guessing.
+
+## Known Cancelled / Paused Events – Do Not Re-Add
+
+These events have been removed because the official organiser has confirmed they are not happening in 2026, even though aggregator sites still list them. Do not re-add them unless the official site explicitly announces a 2026 edition.
+
+- **Leitha.Berg Radmarathon** (Purbach am Neusiedler See, AT) — 2025 abgesagt, keine 2026-Ausgabe angekündigt. Aggregatoren wie Endure-Cycling und Battistrada führen 07.06.2026 spekulativ. Offizielle Quelle: https://www.leithaberg-radmarathon.at/.
