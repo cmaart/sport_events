@@ -1,0 +1,21 @@
+{
+  "id": "velofondo-lausitzring-2026",
+  "name": "VELOFONDO Bike Festival – DEKRA Lausitzring",
+  "sport": "cycling",
+  "categories": ["Gran Fondo", "Rundstreckenrennen"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schipkau (DEKRA Lausitzring)",
+    "lat": 51.5308,
+    "lng": 13.9294,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://dekra-lausitzring.de/event/velofondo-bike-festival/",
+  "description": "Einzigartiges Radsportfestival auf dem DEKRA Lausitzring zwischen Berlin und Dresden: 24-Stunden-Rennen auf dem 11,2 km langen Rundkurs für Einzel- und Teamwertung sowie Jedermann-Rennen über 68 km. Camping direkt im Fahrerlager, motorsportliche Atmosphäre auf der ehemaligen Rennsportanlage.",
+  "distanceKm": 68
+}

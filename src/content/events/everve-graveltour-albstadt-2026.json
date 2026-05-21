@@ -1,0 +1,22 @@
+{
+  "id": "everve-graveltour-albstadt-2026",
+  "name": "everve Graveltour Albstadt",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Albstadt",
+    "lat": 48.2125,
+    "lng": 9.0197,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.graveltour.org/",
+  "description": "Gravel-Veranstaltung auf der Schwäbischen Alb rund um Albstadt mit drei Streckenvarianten: 100 km / 1.500 Hm, 150 km / 2.500 Hm und 200 km / 3.500 Hm. Die Strecken führen über Schotterpisten und Waldwege durch die felsige Alb-Landschaft mit weitreichenden Ausblicken. Verpflegungsstationen und ein Rahmenprogramm begleiten die Veranstaltung.",
+  "distanceKm": 200,
+  "elevationGainM": 3500
+}
