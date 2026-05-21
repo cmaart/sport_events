@@ -19,5 +19,6 @@
   "websiteUrl": "https://brombachseetriathlon.com",
   "description": "Brombachsee Triathlon im Fränkischen Seenland: 1,9 km Schwimmen im Großen Brombachsee, 90 km Rad durch das hügelige Franken, 21 km Laufen entlang des Seeufers. Mitteldistanz-Premiumevent im Naturparadies.",
   "distanceKm": 113,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/80/8f/34/brombachsee-triathlon-87-1730878076.webp"
 }

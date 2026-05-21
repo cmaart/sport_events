@@ -21,5 +21,6 @@
   "websiteUrl": "https://808project.de/allgaeutriathlon",
   "description": "Traditionsreicher Triathlonevent am Alpsee bei Buhl (Immenstadt) im Allgaeu mit drei Distanzen und rund 2.900 erwarteten Teilnehmenden. Mitteldistanz (1,9 km / 84 km / 20 km), Olympische Distanz und Sprint. Verlosung statt First-Come-First-Served, Anmeldeschluss August 2026. Malerische Alpenkulisse mit technischer Radstrecke durch das Allgaeu.",
   "distanceKm": 106,
-  "elevationGainM": 1200
+  "elevationGainM": 1200,
+  "imageUrl": "https://www.tri2b.com/wp-content/uploads/2025/08/allgaeu_triathlon2025_swim_22.jpg"
 }

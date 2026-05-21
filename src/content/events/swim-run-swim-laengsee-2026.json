@@ -1,0 +1,21 @@
+{
+  "id": "swim-run-swim-laengsee-2026",
+  "name": "Swim Run Swim Längsee",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sankt Georgen am Längsee",
+    "lat": 46.7592,
+    "lng": 14.4342,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.triathlon-kaernten.at/",
+  "description": "Aquathlon am idyllischen Längsee in Kärnten: Schwimmen und Laufen im Wechsel auf 5 km Gesamtstrecke im glasklaren Kärntner Badesee. Teil des Kärntner Triathlon-Kalenders, geeignet für Einsteiger und erfahrene Athleten.",
+  "distanceKm": 5
+}
