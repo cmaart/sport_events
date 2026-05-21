@@ -90,6 +90,18 @@ When verifying event facts (dates, distances, elevation), prefer primary/officia
 
 If only an unreliable source carries a fact, leave the field out (e.g., omit `elevationGainM`) rather than guessing.
 
+## Verifying an Event Actually Happens
+
+Before adding or updating an event, you must be confident — from the **official organiser's site** — that the event really happens on the date used. Aggregator calendars routinely carry dates for events that have quietly been cancelled, paused, or never had a 2026 edition.
+
+Required checks before writing the JSON:
+- Open the official site of the event organiser (or, for series, the governing body — UCI, ITU, IRONMAN, Challenge, DTU, ÖTRV, etc.).
+- Confirm a 2026 edition is announced, with a date that matches.
+- If the official site only shows older editions (e.g. last race 2024, no 2026 announcement), do not add the event — even if 3rd-party calendars list it. Add it to the "Known Cancelled / Paused Events" section below if there is a likelihood the auto-checker will see it on an aggregator again.
+- If the date is announced as "tba" / "Termin folgt", you may add the event with `dates.confirmed: false` and your best date guess (UI then renders "Datum noch offen").
+
+Equally: when removing an event because no 2026 edition exists, document it in the cancellation list below so the same removal does not need to be re-derived next quarter.
+
 ## Known Cancelled / Paused Events – Do Not Re-Add
 
 These events have been removed because the official organiser has confirmed they are not happening in 2026, even though aggregator sites still list them. Do not re-add them unless the official site explicitly announces a 2026 edition.
