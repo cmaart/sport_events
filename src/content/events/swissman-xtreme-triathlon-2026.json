@@ -1,0 +1,21 @@
+{
+  "id": "swissman-xtreme-triathlon-2026",
+  "name": "SWISSMAN Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lugano → Kleine Scheidegg",
+    "lat": 46.5886,
+    "lng": 7.9605
+  },
+  "websiteUrl": "https://suixtri.com/en/",
+  "description": "Einer der spektakulärsten Langdistanz-Triathlons der Welt: 3,8 km Schwimmen im Lago di Lugano, 180 km Rad über drei Alpenpässe durch das Herz der Schweiz, 42,2 km Laufen hinauf zur Kleinen Scheidegg vor der Kulisse von Eiger, Mönch und Jungfrau. Nur 333 Startplätze via Verlosungsverfahren; jeder Athlet benötigt eine persönliche Support-Crew.",
+  "distanceKm": 226,
+  "elevationGainM": 5750
+}
