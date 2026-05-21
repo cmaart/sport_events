@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.autxtri.com",
   "description": "11. Ausgabe des härtesten Triathlons der Steiermark: 3,8 km Schwimmen, 186,6 km Rad und 44 km Laufen mit 5.800 Höhenmetern auf alpinem Terrain von Feldkirchen bei Graz bis zum Dachsteinmassiv. Start 04:30 Uhr. Jede:r Einzelstarter:in wird von einer Supportperson durchgehend begleitet.",
   "distanceKm": 234,
-  "elevationGainM": 5800
+  "elevationGainM": 5800,
+  "imageUrl": "https://static.wixstatic.com/media/b1be3c_1104751e07a84fd5a3e8d2851b81a2c0~mv2.jpg"
 }

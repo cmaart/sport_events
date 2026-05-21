@@ -21,5 +21,6 @@
   "websiteUrl": "https://mosti-man.at",
   "description": "Der Mostiman Triathlon an der Donau bei Wallsee-Sindelburg ist Austragungsort der NÖ Landesmeisterschaft. Olympische Distanz (1.500 m/38 km/10 km) und Sprint (750 m/19 km). Schwimmen im Donaualtwasser, Radstrecke durchs Mostviertel.\n\nAb 2026 eigenständig als MOSTIMAN. Organisiert von RATS Amstetten.",
   "distanceKm": 50,
-  "elevationGainM": 250
+  "elevationGainM": 250,
+  "imageUrl": "https://mosti-man.at/wp-content/uploads/2024/12/mosti1_DJI_20240713143104.jpg"
 }

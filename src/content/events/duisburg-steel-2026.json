@@ -1,0 +1,22 @@
+{
+  "id": "duisburg-steel-2026",
+  "name": "Duisburg Steel Classic Bike Tour",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Duisburg",
+    "lat": 51.4749,
+    "lng": 6.7671,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.duisburg-steel.de/",
+  "description": "Duisburg Steel Classic Bike Tour – Kultveranstaltung für Stahlrahmen-Enthusiasten und Liebhaber klassischer Rennräder. Start und Ziel am Landschaftspark Duisburg-Nord. Vier Routen (47 – 112 km) durch das Ruhrgebiet mit Industriekultur-Charme. Nicht wettkampfmäßig – Gemeinschaft und Leidenschaft für klassische Velos stehen im Vordergrund.",
+  "distanceKm": 112
+}

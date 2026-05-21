@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.gravelaroundsalzkammergut.at/",
   "description": "Neues Gravel-Premiumevent im Rahmen des Race Around Austria, limitiert auf rund 300 Teilnehmer. Strecke über Grünberg, Almtal, Bad Ischl, Ausseerland, Hallstätter See, Wolfgangsee und Mondsee durch das UNESCO-Welterbe Salzkammergut. Vollrunde 238 km oder Kurzvariante 180 km.",
   "distanceKm": 238,
-  "elevationGainM": 4500
+  "elevationGainM": 4500,
+  "imageUrl": "https://www.racearoundaustria.at/fileadmin/_processed_/6/d/csm_Gravel-Report-2024-Salzkammergut-Foto_Erwin_Haiden_bikeboard.at__204__-_Kopie_a9586038f3.jpg"
 }

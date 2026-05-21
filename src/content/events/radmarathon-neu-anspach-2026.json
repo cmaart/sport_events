@@ -1,0 +1,23 @@
+{
+  "id": "radmarathon-neu-anspach-2026",
+  "name": "Rad-Marathon Neu-Anspach",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neu-Anspach",
+    "lat": 50.3108,
+    "lng": 8.5219,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.rv-anspach.de/",
+  "description": "24. Rad-Marathon in Neu-Anspach am Fronleichnam-Feiertag. Die 202 km lange Hauptroute führt durch den Hochtaunus mit rund 2.500 Höhenmetern – eine der anspruchsvollsten Flachlandtouren Hessens. Veranstalter: RV Vorwärts 1898 Anspach e.V. Kürzere Routen für Einsteiger (40–120 km) ebenfalls verfügbar.",
+  "distanceKm": 202,
+  "elevationGainM": 2500
+}

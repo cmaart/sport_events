@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.wels-triathlon.at",
   "description": "9. Ausgabe des Stadttriathlons in Wels mit Europe Triathlon Cup für Elitesportler:innen. Schwimmen in der Traun, vollgesperrter Radkurs durch Wels, Lauf durch den Pollheimerpark und die historische Innenstadt. Samstag Supersprint-Format, Sonntag Olympische Distanz (0,75 + 20 + 5 km).",
   "distanceKm": 26,
-  "elevationGainM": 80
+  "elevationGainM": 80,
+  "imageUrl": "https://www.wels-triathlon.at/wp-content/uploads/2025/03/triathlon-austria-wels-ziel-24-scaled.jpg"
 }

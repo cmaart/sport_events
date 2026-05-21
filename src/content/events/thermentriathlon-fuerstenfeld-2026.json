@@ -21,5 +21,6 @@
   "websiteUrl": "https://wp.thermentriathlon.at",
   "description": "Der Thermentriathlon im oststeirischen Thermen- und Vulkanland bietet zwei Distanzen am Freibad Fürstenfeld: Hobby-Sprint (700 m/18 km/5 km) und Olympische Distanz (1.500 m/38 km/10 km). Maximale Teilnehmerzahl 400 Starter.\n\nOrganisiert von dertriathlon.com. Anmeldeschluss: 1. Juli 2026.",
   "distanceKm": 50,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://wp.thermentriathlon.at/wp-content/uploads/2025/08/DSC04993-1024x683.jpeg"
 }

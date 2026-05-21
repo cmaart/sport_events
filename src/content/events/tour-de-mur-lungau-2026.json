@@ -18,8 +18,9 @@
     "lng": 13.6329,
     "region": "Salzburg"
   },
-  "websiteUrl": "https://www.toudemur.at",
+  "websiteUrl": "https://tour-de-mur.at/",
   "description": "Dreitägiges Radsport-Abenteuer durch den Salzburger Lungau: 334 km und 1.540 Hm entlang der Mur über drei Etappen durch das malerische Hochtal. Fahrten durch Nationalpark Nockberge und Nationalpark Hohe Tauern. Kombination aus Genussradeln und echtem Radmarathon-Feeling im alpinen Hochplateau.",
   "distanceKm": 334,
-  "elevationGainM": 1540
+  "elevationGainM": 1540,
+  "imageUrl": "https://tour-de-mur.at/wp-content/uploads/2025/10/Tamsweg_DSC_0008.jpg"
 }

@@ -1,0 +1,23 @@
+{
+  "id": "albtraum-bikepacking-2026",
+  "name": "ALBTraum Bikepacking",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Urach",
+    "lat": 48.4932,
+    "lng": 9.3997,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://albtraum-bikepacking.de/",
+  "description": "Gravel-Bikepacking-Event auf der Schwäbischen Alb mit selbst navigierten Strecken: ca. 700 km, 500 km und 320 km durch die raue Landschaft zwischen Albtrauf und Donau. Start 9 Uhr am Badwerk Bad Urach. Keine Rennatmosphäre – alle Strecken sind mit GPX zu navigieren, ohne offizielle Zeitmessung. Einzel- und Teamstart möglich.",
+  "distanceKm": 500,
+  "elevationGainM": 6500
+}

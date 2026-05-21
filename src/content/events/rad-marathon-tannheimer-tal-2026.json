@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.rad-marathon.at",
   "description": "Klassischer Alpenradmarathon im hochalpinen Tannheimer Tal mit vier Streckenvarianten: 66 km/600 Hm, 103 km/760 Hm, 138 km/870 Hm und die Königsdistanz 214 km/3.500 Hm über Riedbergpass, Bregenzerwald und Hochtannberg. Traditionell stark frequentiert – Anmeldeplätze 2026 restlos ausgebucht.",
   "distanceKm": 214,
-  "elevationGainM": 3500
+  "elevationGainM": 3500,
+  "imageUrl": "https://www.rad-marathon.at/wp-content/uploads/2025/08/2018-DJI_0440-2-scaled.jpg"
 }

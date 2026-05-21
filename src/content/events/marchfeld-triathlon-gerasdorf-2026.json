@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.gerasdorf-triathlon.at",
   "description": "11. Gerasdorf Triathlon am Badeteich nördlich von Wien im Marchfeld. Sprint- und Olympische Distanz sowie Aquabike. Flache, schnelle Rad- und Laufstrecke durch die Marchfelder Landschaft. Veranstalter: P3 Trisports Team.",
   "distanceKm": 51,
-  "elevationGainM": 100
+  "elevationGainM": 100,
+  "imageUrl": "https://static.wixstatic.com/media/384b95_2844109cd5bf427b90fb56e4067f58b9~mv2_d_4512_3008_s_4_2.jpg"
 }

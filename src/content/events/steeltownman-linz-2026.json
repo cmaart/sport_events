@@ -14,12 +14,13 @@
   },
   "location": {
     "name": "Pichlinger See, Linz",
-    "lat": 48.2580,
-    "lng": 14.3830,
+    "lat": 48.258,
+    "lng": 14.383,
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://steeltownman.com",
   "description": "Beliebter Stadtrandsee-Triathlon am Pichlinger See östlich von Linz. Sprint-, olympische Distanz und Staffelwertung. Der Spitzname Steeltownman verweist auf Linz Stahlindustriegeschichte. Angenehme Wassertemperaturen im Juni, flache Radstrecke im Machland.",
   "distanceKm": 51,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://steeltownman.com/fileadmin/user_upload/outdoor_02.jpg"
 }
