@@ -16,5 +16,6 @@
   "websiteUrl": "https://www.quebrantahuesos.com/en/",
   "description": "Quebrantahuesos – 35. Ausgabe des bedeutendsten Granfondos Spaniens in den Pyrenäen: 200 km (3.500 Hm) über Somport, Marie Blanque, Portalet und Hoz de Jaca oder 85 km Treparriscos. Start in Sabiñánigo (Huesca, Aragón). Einzug per Lotterie, internationale Beteiligung. Zieleinlauf nach 7:15 Uhr-Start im Herzen der Aragonesischen Pyrenäen.",
   "distanceKm": 200,
-  "elevationGainM": 3500
+  "elevationGainM": 3500,
+  "imageUrl": "https://cycle2day.nl/CK/image/2025/01/qh-header.webp"
 }
