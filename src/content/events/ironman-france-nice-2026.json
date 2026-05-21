@@ -2,7 +2,9 @@
   "id": "ironman-france-nice-2026",
   "name": "IRONMAN France Nice",
   "sport": "triathlon",
-  "categories": ["Langdistanz"],
+  "categories": [
+    "Langdistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-06-28",
@@ -11,10 +13,11 @@
   "location": {
     "name": "Nice",
     "lat": 43.7102,
-    "lng": 7.2620
+    "lng": 7.262
   },
   "websiteUrl": "https://www.ironman.com/im-france",
   "description": "IRONMAN France in Nizza: 3,8 km Schwimmen im Mittelmeer, 180 km Radfahren durch die Alpes-Maritimes mit steilem Bergprofil, 42,2 km Laufen entlang der legendären Promenade des Anglais. Gleichzeitig findet der IRONMAN 70.3 Nice statt. Eine der spektakulärsten Langdistanzen Europas mit atemberaubendem Küsten- und Bergpanorama.",
   "distanceKm": 226,
-  "elevationGainM": 2500
+  "elevationGainM": 2500,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/14/f8/36/ironman-france-49-1529485949.jpg"
 }

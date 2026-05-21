@@ -2,7 +2,9 @@
   "id": "challenge-cesenatico-2026",
   "name": "Challenge Cesenatico",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-05-10",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-cesenatico/",
   "description": "Challenge Mitteldistanz im pittoresken Fischerstädtchen Cesenatico an der Adria: 1,9 km Schwimmen im Adriatischen Meer, 90 km flaches Rad durch die Romagna, 21,1 km Laufen am Kanal von Leonardo da Vinci. Klassischer Challenge-Triathlon mit italienischer Küstenleben-Atmosphäre.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/4f/6a/cc/challenge-cesenatico-30-1707585372.png"
 }
