@@ -2,7 +2,9 @@
   "id": "ironman-703-vichy-2026",
   "name": "IRONMAN 70.3 Vichy",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-08-23",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://www.ironman.com/im703-vichy",
   "description": "IRONMAN 70.3 Vichy – am selben Tag wie die Full Distance IRONMAN Vichy (neues Rennen 2026): 1,9 km Schwimmen im Lac d'Allier, 90 km Rad durch die Auvergne, 21,1 km Laufen durch die historische Kurstadt Vichy. Beide Distanzen gleichzeitig an einem Wochenende, rund 14.500 französische IRONMAN-Athleten 2026 – 25% Zuwachs.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://www.ville-vichy.fr/wp-content/uploads/2025/09/ironman-5-scaled.jpg"
 }

@@ -2,7 +2,9 @@
   "id": "ironman-703-venice-jesolo-2026",
   "name": "IRONMAN 70.3 Venice-Jesolo",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-05-03",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Jesolo",
-    "lat": 45.5100,
-    "lng": 12.6300
+    "lat": 45.51,
+    "lng": 12.63
   },
   "websiteUrl": "https://www.ironman.com/im703-venice",
   "description": "IRONMAN 70.3 in Jesolo nahe Venedig: 1,9 km Schwimmen in der Adria, 90 km Rad durch Venetiens Ebene, 21,1 km Lauf an der Strandpromenade von Jesolo mit Blick auf die Lagune von Venedig. Einer der beliebtesten Mitteldistanz-Triathlons Italiens mit europäischer Atmosphäre.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://desk.gruppolivemedia.it/immagini/thumbnails/LPS/2024/altri-sport/triathlon/39670/1024_wm_LPS_1339310.jpg"
 }

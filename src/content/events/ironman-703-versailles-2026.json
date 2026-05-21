@@ -2,7 +2,9 @@
   "id": "ironman-703-versailles-2026",
   "name": "IRONMAN 70.3 Versailles",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-07-12",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.ironman.com/im703-versailles",
   "description": "IRONMAN 70.3 Versailles – Brandneues Rennen 2026 im Herzen der Île-de-France: Schwimmen in der Pièce d'Eau des Suisses im Schlosspark, Radstrecke durch die Wälder der Île-de-France und Ziellinie mit Blick auf das Schloss Versailles. Das Rennen war innerhalb von Stunden ausgebucht.",
   "distanceKm": 113,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://www.destination-yvelines.fr/app/uploads/cache/2026/03/capture-decran-2026-03-17-103857/3222807272.png"
 }

@@ -2,7 +2,9 @@
   "id": "ironman-703-tallinn-2026",
   "name": "IRONMAN 70.3 Tallinn – European Championship",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "EE",
   "dates": {
     "start": "2026-08-23",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Tallinn",
-    "lat": 59.4370,
+    "lat": 59.437,
     "lng": 24.7536
   },
   "websiteUrl": "https://www.ironman.com/im703-tallinn",
   "description": "IRONMAN 70.3 Tallinn als europäische Altersklassen-Meisterschaft: 1,9 km Schwimmen in der Tallinner Ostseebucht, 90 km Rad durch Estlands Kiefernwälder und Dörfer, 21,1 km Laufen durch die mittelalterliche Altstadt von Tallinn (UNESCO-Welterbe). Am selben Wochenende findet auch der IRONMAN Full Distance in Tallinn statt.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://hotway.life/userfiles/events/2025/03/1972fad9b7251358af774923614ef8fd.jpeg"
 }
