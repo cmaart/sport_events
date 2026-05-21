@@ -16,8 +16,9 @@
     "lat": 50.6311,
     "lng": 7.6128
   },
-  "websiteUrl": "https://radsport-events.de",
+  "websiteUrl": "https://rsc-buchholz.de/westerwald-bike-challenge",
   "description": "Radmarathon im Westerwald in Rheinland-Pfalz mit Streckenvarianten von 52 bis 203 km durch das gruene Mittelgebirge des Westerwaldes. Typische Westerwaelder Kuppe-und-Tal-Landschaft auf anspruchsvollen Routen zwischen Rhein und Sieg. Vereinsveranstaltung mit familiaerer Atmosphaere.",
   "distanceKm": 203,
-  "elevationGainM": 3500
+  "elevationGainM": 3500,
+  "imageUrl": "https://rsc-buchholz.de/wp-content/uploads/2025/03/westerwald-Bike-Challenge.jpg"
 }

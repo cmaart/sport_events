@@ -1,0 +1,23 @@
+{
+  "id": "belchen3-muenstertal-2026",
+  "name": "Belchen³ – Trinationaler Rennrad-Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Münstertal",
+    "lat": 47.8693,
+    "lng": 7.7677,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.hirsch-sprung.com/kurse-reisen-events/rennrad-langstrecken-event-trinational-belchen-hoch3/",
+  "description": "Trinationaler Rennrad-Marathon im Schwarzwald: Die drei Routen verbinden den deutschen Belchen, die Schweizer Belchenflue und den französischen Grand Ballon. Belchen Speed (120 km/2.500 Hm), Ballon Battle (220 km/3.000 Hm) und das Flaggschiff Belchen³ Classic (320 km/4.200 Hm). Start/Ziel an der Belchenhalle Münstertal. Gewinnerin des Trinationalen Sportpreises.",
+  "distanceKm": 320,
+  "elevationGainM": 4200
+}
