@@ -21,5 +21,6 @@
   "websiteUrl": "https://triathlon-ingolstadt.de",
   "description": "Grosses Triathlonfest in Ingolstadt an der Donau mit drei Distanzen: Mitteldistanz (1,9 km / 81,2 km / 20,5 km), Olympische Distanz (1,5 km / 42,6 km / 10,5 km) und Sprint (750 m / 19 km / 5 km). Typischerweise schnell ausgebucht; die Olympische Distanz ist oft als erstes vergriffen. Praesentiert von Audi, Schwimmen im Baggersee.",
   "distanceKm": 103,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://triathlonbayern.de/wp-content/uploads/ATI_race24_tops_07-scaled.jpg"
 }

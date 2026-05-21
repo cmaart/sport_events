@@ -1,0 +1,21 @@
+{
+  "id": "rund-um-den-dom-magdeburg-2026",
+  "name": "Rund um den Dom Magdeburg",
+  "sport": "cycling",
+  "categories": [
+    "Kriterium"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Magdeburg",
+    "lat": 52.1316,
+    "lng": 11.6392,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://rundumdendom.de",
+  "description": "Rund um den Dom Magdeburg – Jedermann-Kriteriumsrennen in der Landeshauptstadt Sachsen-Anhalts rund um den mächtigen Magdeburger Dom. Verschiedene Distanzen für alle Leistungsklassen."
+}

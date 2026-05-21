@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://www.nordseeman.de/",
   "description": "Bekannter Mitteldistanz-Triathlon an der Nordseekueste, Schwimmen im geschuetzten Banter See bei Wilhelmshaven, Radstrecke durch das ostfriesische Flachland (1,9/90/21,1 km). Eigene NordseeWoman-Wertung fuer Frauen. Olympisch und Sprint als weitere Kategorien.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/basse-saxe/nordseeman-nordseewoman-tol-tvl-liga/skrjwbnzexonsbg9hgwm"
 }

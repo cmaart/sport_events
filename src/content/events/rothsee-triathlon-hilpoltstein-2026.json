@@ -20,5 +20,6 @@
   "websiteUrl": "https://rothsee-triathlon.de",
   "description": "Deutsche Meisterschaft Kurzdistanz (Elite & Altersklassen) am Rothsee bei Hilpoltstein in Mittelfranken. 1,5 km Schwimmen im Rothsee, 40 km Radstrecke, 10 km Laufen. Zweitages-Veranstaltung mit Jugend- und Studentenrennen am Samstag sowie dem Titelkampf auf der olympischen Distanz am Sonntag. Prestigetraechtigste Kurzdistanz-Meisterschaft Deutschlands.",
   "distanceKm": 52,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://rothsee-triathlon.de/wp-content/uploads/2026/02/2025_SchwimmstartmitFackel_GuntramRudolph.jpg"
 }

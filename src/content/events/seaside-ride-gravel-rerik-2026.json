@@ -1,0 +1,21 @@
+{
+  "id": "seaside-ride-gravel-rerik-2026",
+  "name": "Seaside Ride Gravel Rerik",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ostseebad Rerik",
+    "lat": 54.1051,
+    "lng": 11.6366,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://seasideride.de",
+  "description": "Seaside Ride Gravel in Ostseebad Rerik – Gravel-Event an der mecklenburgischen Ostseeküste. Strecken auf naturbelassenen Sandwegen zwischen Ostsee und Salzhaff."
+}

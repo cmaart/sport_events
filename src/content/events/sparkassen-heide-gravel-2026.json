@@ -1,0 +1,22 @@
+{
+  "id": "sparkassen-heide-gravel-2026",
+  "name": "Sparkassen HeideGravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Taura",
+    "lat": 50.8614,
+    "lng": 12.8061,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://heide-gravel.de",
+  "description": "Sparkassen HeideGravel in Taura bei Chemnitz: Gravel-Event auf der Strecke der Deutschen Gravel-Meisterschaft. Verschiedene Distanzen durch die sächsische Heidelandschaft, inkl. UCI-Gravel-World-Series-Qualifikation."
+}

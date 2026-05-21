@@ -1,0 +1,21 @@
+{
+  "id": "niederrhein-gravel-kalkar-2026",
+  "name": "Niederrhein Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kalkar",
+    "lat": 51.7382,
+    "lng": 6.3007,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.niederrhein-gravel.de",
+  "description": "Niederrhein Gravel (NRG) in Kalkar – Gravel-Rennen durch die flache Niederrheinlandschaft. Verschiedene Strecken auf schottrigen Wegen entlang des Rheins."
+}

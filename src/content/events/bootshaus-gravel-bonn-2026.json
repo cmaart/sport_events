@@ -1,0 +1,21 @@
+{
+  "id": "bootshaus-gravel-bonn-2026",
+  "name": "Bootshaus Gravel Bonn",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bonn",
+    "lat": 50.7374,
+    "lng": 7.0982,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.bootshaus-gravel.de",
+  "description": "Bootshaus Gravel Bonn – etabliertes Gravel-Event am Rhein mit Ultra-Option am Vortag (11. Sep). Start und Ziel am Bootshaus mit Strecken durch das Siebengebirge und die Eifelausläufer."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "schwarzwald-bike-marathon-furtwangen-2026",
+  "name": "Schwarzwald Bike Marathon Furtwangen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Furtwangen",
+    "lat": 48.0527,
+    "lng": 8.209,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.schwarzwald-bike-marathon.de",
+  "description": "Schwarzwald Bike Marathon Furtwangen im Herzen des Schwarzwalds. Gran-Fondo-Event mit MTB und Rennrad über die schönsten Trails und Straßen rund um die Uhrenmacherstadt Furtwangen."
+}

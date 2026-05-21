@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.ironman.com/im-austria",
   "description": "Klassischer Ironman mit Schwimmstart im Wörthersee, schneller Radstrecke durch das Drautal mit Rupertiberg und Faakersee-Schleife sowie flachem Marathon am Lendkanal. 3,8 km Schwimmen + 180 km Rad + 42,2 km Laufen.",
   "distanceKm": 226,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/autriche/carinthie/klagenfurt/ironman-de-carinthie-klagenfurt/yjll28y24znlsscqoqne"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "rennsteigride-schmiedefeld-2026",
+  "name": "RennsteigRide Schmiedefeld",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schmiedefeld am Rennsteig",
+    "lat": 50.5917,
+    "lng": 11.1083,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://rennsteigride.de",
+  "description": "RennsteigRide Schmiedefeld – MTB- und Gravel-Marathon auf dem thüringischen Kamm des Rennsteigs. Strecken durch den Thüringer Wald mit atemberaubenden Ausblicken."
+}

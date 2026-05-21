@@ -1,0 +1,21 @@
+{
+  "id": "flugfeld-giro-boeblingen-2026",
+  "name": "Flugfeld Giro Böblingen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Böblingen",
+    "lat": 48.6887,
+    "lng": 9.0085,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://flugfeld-giro.de",
+  "description": "Flugfeld Giro Böblingen – Gran-Fondo-Radmarathon auf dem historischen Böblinger Flugfeld mit Strecken durch den Schwarzwald und Schönbuch. Start und Ziel im Herzen der Technologieregion Stuttgart."
+}

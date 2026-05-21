@@ -1,0 +1,22 @@
+{
+  "id": "burning-roads-ochtrup-2026",
+  "name": "Burning Roads Ochtrup",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ochtrup",
+    "lat": 52.2063,
+    "lng": 7.1886,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://burningroads.de",
+  "description": "Burning Roads Ochtrup im Münsterland – Radmarathon und Gravel-Event auf Kopfsteinpflaster und Sandwegen. Verschiedene Distanzen durch das westfälische Flachland."
+}
