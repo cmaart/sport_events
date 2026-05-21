@@ -61,6 +61,7 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
   },
   "websiteUrl": "https://example.com",
   "registrationUrl": "https://example.com/anmeldung",
+  "imageUrl": "https://example.com/hero.jpg",
   "description": "Mehrzeilige Beschreibung.",
   "distanceKm": 120,
   "elevationGainM": 1800
@@ -75,6 +76,7 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 - **`country`**: `AT` oder `DE` (Pflichtfeld)
 - **`location.region`** (optional, nur für AT-Bundesländer): `Wien`, `Niederösterreich`, `Oberösterreich`, `Salzburg`, `Steiermark`, `Kärnten`, `Tirol`, `Vorarlberg`, `Burgenland`. Für DE-Events weglassen.
 - **`dates.confirmed`**: `false` setzen, wenn der genaue Termin 2026 noch nicht offiziell bestätigt ist. Die Karte/Liste zeigt dann „Datum noch offen“ statt des Datums.
+- **`imageUrl`** (optional): URL eines Hero-Bilds vom Veranstalter, das beim Teilen der Event-Detailseite auf WhatsApp, LinkedIn oder Facebook als Preview angezeigt wird. Empfehlung: mindestens 1200×630 px im Seitenverhältnis 1.91:1 (16:9 wie 1920×1080 wird ebenfalls sauber gecroppt). Bei Hotlink-Sperre des Veranstalters oder schlechter Bildqualität das Feld besser weglassen — dann wird das Default-OG-Bild der Seite verwendet.
 
 ## Datenqualität
 

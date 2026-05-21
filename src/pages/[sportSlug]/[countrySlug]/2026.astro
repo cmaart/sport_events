@@ -1,0 +1,191 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import EventCard from '../../../components/EventCard.astro';
+import { t } from '../../../lib/i18n';
+import { COUNTRY_LABELS, type Country, type Sport } from '../../../lib/types';
+import { SPORT_SLUGS, COUNTRY_SLUGS, collectLandingPaths } from '../../../lib/landing';
+import type { EventData } from '../../../lib/filters';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('events');
+  const landings = collectLandingPaths(entries);
+
+  return landings.map((l) => {
+    const matched = entries.filter(
+      (e) => e.data.sport === l.sport && e.data.country === l.country,
+    );
+    return {
+      params: { sportSlug: l.sportSlug, countrySlug: l.countrySlug },
+      props: { sport: l.sport, country: l.country, entries: matched },
+    };
+  });
+}
+
+interface PageProps {
+  sport: Sport;
+  country: Country;
+  entries: Awaited<ReturnType<typeof getCollection<'events'>>>;
+}
+
+const { sport, country, entries } = Astro.props as PageProps;
+
+const events: EventData[] = entries
+  .map((entry) => ({
+    slug: entry.id.replace(/\.json$/, ''),
+    id: entry.data.id,
+    name: entry.data.name,
+    sport: entry.data.sport,
+    categories: entry.data.categories,
+    country: entry.data.country,
+    dates: {
+      start: entry.data.dates.start.toISOString(),
+      end: entry.data.dates.end?.toISOString(),
+      confirmed: entry.data.dates.confirmed,
+    },
+    location: entry.data.location,
+    websiteUrl: entry.data.websiteUrl,
+    registrationUrl: entry.data.registrationUrl,
+    description: entry.data.description,
+    distanceKm: entry.data.distanceKm,
+    elevationGainM: entry.data.elevationGainM,
+  }))
+  .sort((a, b) => +new Date(a.dates.start) - +new Date(b.dates.start));
+
+const countryLabel = COUNTRY_LABELS[country].name;
+const countryFlag = COUNTRY_LABELS[country].flag;
+const sportLabel = sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+const sportLabelPlural = sport === 'cycling' ? t('hero.stat.cycling') : t('hero.stat.triathlon');
+
+const titleKey = sport === 'cycling' ? 'landing.title.cycling' : 'landing.title.triathlon';
+const introKey = sport === 'cycling' ? 'landing.intro.cycling' : 'landing.intro.triathlon';
+const h1 = t(titleKey, { country: countryLabel });
+const intro = t(introKey, { country: countryLabel, count: events.length });
+const seoTitle = h1;
+const seoDescription = intro.length > 200 ? intro.slice(0, 197).replace(/[.,;:\s]+$/, '') + '…' : intro;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = `${siteUrl}/${SPORT_SLUGS[sport]}/${COUNTRY_SLUGS[country]}/2026`;
+const mapFilterUrl = `${base}/?sport=${sport}&country=${country}#explore`;
+
+// Cross-links: same sport in other countries, and other sport in same country.
+const allEntries = await getCollection('events');
+const allLandings = collectLandingPaths(allEntries);
+const sameSportOtherCountries = allLandings
+  .filter((l) => l.sport === sport && l.country !== country)
+  .sort((a, b) => b.count - a.count);
+const sameCountryOtherSport = allLandings.filter(
+  (l) => l.country === country && l.sport !== sport,
+);
+
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: h1,
+  numberOfItems: events.length,
+  itemListElement: events.map((e, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: `${siteUrl}/events/${e.slug}`,
+    name: e.name,
+  })),
+};
+
+const breadcrumbsLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t('landing.breadcrumb.home'), item: `${siteUrl}/` },
+    { '@type': 'ListItem', position: 2, name: h1, item: pageUrl },
+  ],
+};
+---
+
+<BaseLayout title={seoTitle} description={seoDescription} canonical={pageUrl}>
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify(itemListLd)}
+  />
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify(breadcrumbsLd)}
+  />
+
+  <section class="border-b border-[var(--color-ink-100)] bg-[var(--color-surface)]">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
+      <a href={`${base}/`} class="inline-flex items-center gap-1.5 text-sm text-[var(--color-brand-600)] hover:underline mb-4">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4"><path d="m15 18-6-6 6-6"/></svg>
+        {t('landing.breadcrumb.home')}
+      </a>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight mb-3">
+        <span aria-hidden="true">{countryFlag}</span> {h1}
+      </h1>
+      <p class="text-base sm:text-lg text-[var(--color-ink-700)] max-w-3xl leading-relaxed">
+        {intro}
+      </p>
+      <div class="mt-4 flex flex-wrap gap-2">
+        <a href={mapFilterUrl}
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--color-ink-900)] hover:bg-[var(--color-brand-700)] text-white font-medium text-sm shadow-lg shadow-[var(--color-ink-900)]/10 transition">
+          {t('landing.cta.map')}
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-4 h-4"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
+    <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-5">
+      {t('landing.heading.list', { count: events.length })}
+    </h2>
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {events.map((event) => <EventCard event={event} />)}
+    </div>
+  </section>
+
+  {(sameSportOtherCountries.length > 0 || sameCountryOtherSport.length > 0) && (
+    <section class="border-t border-[var(--color-ink-100)] bg-[var(--color-surface)]">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-10 grid gap-8 md:grid-cols-2">
+        {sameSportOtherCountries.length > 0 && (
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">
+              {t('landing.crosslinks.country', { sport: sportLabelPlural })}
+            </h3>
+            <ul class="flex flex-wrap gap-2">
+              {sameSportOtherCountries.map((l) => (
+                <li>
+                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                    class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border border-[var(--color-ink-200)] hover:border-[var(--color-brand-500)] text-sm font-medium transition">
+                    <span aria-hidden="true">{COUNTRY_LABELS[l.country].flag}</span>
+                    {COUNTRY_LABELS[l.country].name}
+                    <span class="text-xs text-[var(--color-ink-500)]">{l.count}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {sameCountryOtherSport.length > 0 && (
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">
+              {t('landing.crosslinks.sport', { country: countryLabel })}
+            </h3>
+            <ul class="flex flex-wrap gap-2">
+              {sameCountryOtherSport.map((l) => (
+                <li>
+                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                    class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border border-[var(--color-ink-200)] hover:border-[var(--color-brand-500)] text-sm font-medium transition">
+                    {l.sport === 'cycling' ? t('hero.stat.cycling') : t('hero.stat.triathlon')}
+                    <span class="text-xs text-[var(--color-ink-500)]">{l.count}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    </section>
+  )}
+</BaseLayout>

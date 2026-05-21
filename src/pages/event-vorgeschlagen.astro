@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { t } from '../lib/i18n';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title={t('submit.thankyou.title')} description={t('submit.thankyou.body')}>
+  <article class="mx-auto max-w-2xl px-4 sm:px-6 lg:px-8 py-16 sm:py-24 text-center">
+    <div class="inline-flex w-16 h-16 rounded-full bg-[var(--color-brand-100)] text-[var(--color-brand-600)] items-center justify-center mb-6">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="w-8 h-8"><path d="M20 6 9 17l-5-5"/></svg>
+    </div>
+    <h1 class="text-3xl sm:text-4xl font-bold tracking-tight mb-4">{t('submit.thankyou.title')}</h1>
+    <p class="text-base sm:text-lg text-[var(--color-ink-700)] leading-relaxed mb-3">{t('submit.thankyou.body')}</p>
+    <p class="text-sm text-[var(--color-ink-500)] leading-relaxed mb-8">{t('submit.thankyou.contact')}</p>
+    <a href={`${base}/`}
+      class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-[var(--color-ink-900)] hover:bg-[var(--color-brand-700)] text-white font-medium text-sm shadow-lg shadow-[var(--color-ink-900)]/10 transition">
+      {t('submit.thankyou.cta')}
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-4 h-4"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
+    </a>
+  </article>
+</BaseLayout>

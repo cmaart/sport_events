@@ -1,11 +1,58 @@
 ---
+import { getCollection } from 'astro:content';
 import { t } from '../lib/i18n';
-const base = import.meta.env.BASE_URL;
-const lockup = `${base}assets/endure-lockup.png`.replace(/\/+/g, '/');
+import { COUNTRY_LABELS } from '../lib/types';
+import { collectLandingPaths } from '../lib/landing';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const lockup = `${base}/assets/endure-lockup.png`;
+
+const entries = await getCollection('events');
+const landings = collectLandingPaths(entries).sort((a, b) => b.count - a.count);
+const cyclingLandings = landings.filter((l) => l.sport === 'cycling').slice(0, 6);
+const triathlonLandings = landings.filter((l) => l.sport === 'triathlon').slice(0, 6);
 ---
 
 <footer class="border-t border-[var(--color-ink-100)] bg-white mt-12">
-  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 space-y-6">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 space-y-8">
+    {(cyclingLandings.length > 0 || triathlonLandings.length > 0) && (
+      <nav aria-label="Übersichten" class="grid gap-6 sm:grid-cols-2 pb-2 border-b border-[var(--color-ink-100)]">
+        {cyclingLandings.length > 0 && (
+          <div>
+            <h2 class="text-xs font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">
+              {t('hero.stat.cycling')} 2026
+            </h2>
+            <ul class="flex flex-wrap gap-x-3 gap-y-2 text-sm">
+              {cyclingLandings.map((l) => (
+                <li>
+                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                    class="text-[var(--color-ink-700)] hover:text-[var(--color-brand-600)]">
+                    {COUNTRY_LABELS[l.country].name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {triathlonLandings.length > 0 && (
+          <div>
+            <h2 class="text-xs font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">
+              {t('hero.stat.triathlon')} 2026
+            </h2>
+            <ul class="flex flex-wrap gap-x-3 gap-y-2 text-sm">
+              {triathlonLandings.map((l) => (
+                <li>
+                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                    class="text-[var(--color-ink-700)] hover:text-[var(--color-brand-600)]">
+                    {COUNTRY_LABELS[l.country].name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </nav>
+    )}
+
     <div class="flex flex-col gap-2">
       <a
         href="https://endure-cycling.com"
@@ -23,8 +70,7 @@ const lockup = `${base}assets/endure-lockup.png`.replace(/\/+/g, '/');
       <p>{t('footer.tiles')} · {t('footer.license')}</p>
       <div class="flex gap-4">
         <a href="https://endure-cycling.com" target="_blank" rel="noreferrer" class="hover:text-[var(--color-brand-600)]">endure-cycling.com</a>
-        <a href="https://github.com/cmaart/sport_events" target="_blank" rel="noreferrer" class="hover:text-[var(--color-brand-600)]">{t('footer.source')}</a>
-        <a href="https://github.com/cmaart/sport_events#event-hinzufügen" target="_blank" rel="noreferrer" class="hover:text-[var(--color-brand-600)]">{t('footer.contribute')}</a>
+        <a href={`${base}/event-vorschlagen`} class="hover:text-[var(--color-brand-600)]">{t('footer.contribute')}</a>
       </div>
     </div>
   </div>
