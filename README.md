@@ -1,6 +1,6 @@
 # Amateur-Sportevents · AT & DE
 
-Statische Website mit einer kuratierten Übersicht aller Amateur-Radrennen und Triathlons in **Österreich und Deutschland** (Saison 2026) — interaktive Karte, mächtige Filter, mobil-freundlich. Präsentiert von [Endure Cycling](https://endure-cycling.com). Gehostet auf GitHub Pages unter **https://www.events.endure-cycling.com**.
+Statische Website mit einer kuratierten Übersicht aller Amateur-Radrennen und Triathlons in **Österreich und Deutschland** (Saison 2026) — interaktive Karte, mächtige Filter, mobil-freundlich. Präsentiert von [Endure Cycling](https://endure-cycling.com). Gehostet auf GitHub Pages unter **https://events.endure-cycling.com**.
 
 ## Tech-Stack
 

@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://www.events.endure-cycling.com',
+  site: 'https://events.endure-cycling.com',
   output: 'static',
   trailingSlash: 'ignore',
   integrations: [
@@ -15,7 +15,7 @@ export default defineConfig({
       // @ts-expect-error changefreq string literals cause a union-type mismatch in @astrojs/sitemap typings
       serialize(item) {
         const url = item.url;
-        if (url.endsWith('/') || url === 'https://www.events.endure-cycling.com') {
+        if (url.endsWith('/') || url === 'https://events.endure-cycling.com') {
           return { ...item, changefreq: 'daily', priority: 0.9 };
         }
         if (url.includes('/events/')) {
