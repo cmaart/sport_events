@@ -1,0 +1,21 @@
+{
+  "id": "supergrevet-wien-triest-2026",
+  "name": "Supergrevet Wien–Triest",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wien",
+    "region": "Wien",
+    "lat": 47.9667,
+    "lng": 16.5167
+  },
+  "websiteUrl": "https://supergrevet.grevet.de/wien-triest-erklaert/",
+  "description": "Das Supergrevet Wien–Triest reaktiviert die historische Distanzradfahrt aus dem Jahr 1892, die Wien mit der Adria verband. Die 650 km lange Route führt durch die Steiermark und über Alpenpässe zum Adriatischen Meer, mit 14.000 Höhenmetern. Ohne Zeitwertung – ein Gemeinschaftserlebnis für über 1.200 Teilnehmer aus ganz Europa.",
+  "distanceKm": 650,
+  "elevationGainM": 14000
+}

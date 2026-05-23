@@ -1,0 +1,19 @@
+{
+  "id": "muerzer-oberland-aquathlon-2026",
+  "name": "1. Mürzer Oberland Naturpark Aquathlon",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neuberg an der Mürz",
+    "region": "Steiermark",
+    "lat": 47.6655,
+    "lng": 15.5904
+  },
+  "websiteUrl": "https://www.fun-sports.at",
+  "description": "Der erste Mürzer Oberland Naturpark Aquathlon am Teichgelände Urani in Neuberg an der Mürz (0,35 km Schwimmen / 3 km Laufen) ersetzt 2026 den abgesagten Naturpark-Triathlon. Der Bewerb dient gleichzeitig als Steirische Meisterschaft und ASKÖ-Landesmeisterschaft im Aquathlon. Eingebettet in die malerische Kulisse des Steirischen Mürzursprungs."
+}

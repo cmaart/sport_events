@@ -1,0 +1,21 @@
+{
+  "id": "alpina-zeitfahr-cup-stpaul-2026",
+  "name": "Alpina Zeitfahr-Cup – St. Paul im Lavanttal (Lauf 3)",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Paul im Lavanttal",
+    "region": "Kärnten",
+    "lat": 46.7108,
+    "lng": 14.8722
+  },
+  "websiteUrl": "https://hrc-wolfsberg.com/alpina-zeitfahr-cup/",
+  "description": "Dritter Lauf des Alpina Zeitfahr-Cups in St. Paul im Lavanttal – mit 17,8 km die längste Prüfung der Serie. Das Einzelzeitfahren startet um 09:30 Uhr am Freibad St. Paul und zählt zum Kärnten Sport Jedermannradcup.",
+  "distanceKm": 18,
+  "elevationGainM": 150
+}

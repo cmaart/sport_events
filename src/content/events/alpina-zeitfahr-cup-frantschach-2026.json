@@ -1,0 +1,21 @@
+{
+  "id": "alpina-zeitfahr-cup-frantschach-2026",
+  "name": "Alpina Zeitfahr-Cup – Frantschach (Lauf 2)",
+  "sport": "cycling",
+  "categories": ["Zeitfahren", "Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Frantschach-St. Gertraud",
+    "region": "Kärnten",
+    "lat": 46.8039,
+    "lng": 14.7817
+  },
+  "websiteUrl": "https://hrc-wolfsberg.com/alpina-zeitfahr-cup/",
+  "description": "Zweiter Lauf des Alpina Zeitfahr-Cups als Bergzeitfahren von Frantschach-St. Gertraud nach Obergössl (8,5 km / 660 Hm). Das Rennen ist gleichzeitig Teil des Kärnten Sport Jedermannradcups. Start ab 09:30 Uhr am Dorfplatz.",
+  "distanceKm": 9,
+  "elevationGainM": 660
+}

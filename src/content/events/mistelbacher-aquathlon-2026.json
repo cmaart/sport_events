@@ -1,0 +1,19 @@
+{
+  "id": "mistelbacher-aquathlon-2026",
+  "name": "Mistelbacher Aquathlon",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mistelbach an der Zaya",
+    "region": "Niederösterreich",
+    "lat": 48.5706,
+    "lng": 16.5736
+  },
+  "websiteUrl": "https://www.lac-harlekin.com/events/aquathlon-mistelbach2026/",
+  "description": "Der Mistelbacher Aquathlon wird vom Leichtathletik Club Harlekin Mistelbach im Weinviertel ausgetragen. Die Strecke kombiniert Schwimmen im Weinlandbad Mistelbach mit einem Lauf auf der Tartanbahn des Sportzentrum Mistelbach. Verschiedene Altersklassen und Distanzen machen den Bewerb für Einsteiger und erfahrene Ausdauersportler gleichermaßen attraktiv."
+}

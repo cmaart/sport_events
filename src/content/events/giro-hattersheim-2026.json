@@ -1,0 +1,22 @@
+{
+  "id": "giro-hattersheim-2026",
+  "name": "39. Giro Hattersheim – Feldbergmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hattersheim am Main",
+    "region": "Hessen",
+    "lat": 50.0651,
+    "lng": 8.4997
+  },
+  "websiteUrl": "https://www.rc-hattersheim.de/de/veranstaltungen/39-giro-hattersheim-2026/",
+  "imageUrl": "https://www.rc-hattersheim.de/fileadmin/_processed_/0/3/csm_8-IMG_3859_e2a374796e.jpg",
+  "description": "Der Giro Hattersheim ist ein beliebter BDR-Radmarathon im Rhein-Main-Gebiet mit Streckenlängen von 23 bis 214 km. Das Flaggschiff, der Feldbergmarathon (214 km / 3.260 Hm), führt über den Taunus bis zum Feldberg. Bis zu 800 Teilnehmer aus der gesamten Region machen den 39. Giro zu einem Treffpunkt der Radbegeisterten.",
+  "distanceKm": 214,
+  "elevationGainM": 3260
+}

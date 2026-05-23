@@ -1,0 +1,21 @@
+{
+  "id": "trizell-zell-am-see-2026",
+  "name": "TriZell Internationaler Triathlon Zell am See-Kaprun",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zell am See",
+    "region": "Salzburg",
+    "lat": 47.3228,
+    "lng": 12.7941
+  },
+  "websiteUrl": "https://www.trizell.at",
+  "imageUrl": "https://contentservice.zellamsee-kaprun.com/Event/trizell-internationaler-triathlon-zell-am-see-kaprun_a63f7e4d-df61-4d32-9b03-696f332e889e/5213434/image-thumb__5213434__PoiIntro/radfahren_b5838e50-71fe-4748-86b7-fab216e36490_1779491851.416ec3b8.jpg",
+  "description": "Der TriZell ist Österreichs traditionsreicher Internationaler Triathlon am malerischen Zeller See mit Blick auf die Schmittenhöhe. Die Olympische Distanz (1,5 km Schwimmen, 40 km Radfahren, 10 km Laufen) und die Sprint-Distanz (750 m / 20 km / 5 km) starten am Strandbad Thumersbach. 36. Auflage des beliebten Klassikers in Salzburg."
+}

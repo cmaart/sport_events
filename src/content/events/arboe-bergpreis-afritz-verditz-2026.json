@@ -1,0 +1,21 @@
+{
+  "id": "arboe-bergpreis-afritz-verditz-2026",
+  "name": "ARBÖ Bergpreis Afritz-Verditz",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Afritz am See",
+    "region": "Kärnten",
+    "lat": 46.6950,
+    "lng": 13.8481
+  },
+  "websiteUrl": "https://www.rc-feldamsee.at/",
+  "description": "Der ARBÖ Bergpreis Afritz-Verditz führt von Afritz am See über 6,2 km und 540 Höhenmeter zur Alm auf dem Verditz. Der 28. Bewerb bietet neben dem Massenstart auch kürzere Varianten für alle Leistungsklassen. Das traditionsreiche Kärntner Bergrennen ist Teil des Kärnten Sport Jedermannradcups.",
+  "distanceKm": 6,
+  "elevationGainM": 540
+}

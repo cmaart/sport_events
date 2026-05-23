@@ -1,0 +1,21 @@
+{
+  "id": "kaerntner-rad-bergkoenig-2026",
+  "name": "Kärntner Rad Bergkönig",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kraig",
+    "region": "Kärnten",
+    "lat": 46.8067,
+    "lng": 14.5131
+  },
+  "websiteUrl": "https://or4338.wixsite.com/website-1",
+  "description": "Der Kärntner Rad Bergkönig führt 6 km mit 440 Höhenmetern von Kraig in den Kärntner Nockbergen hinauf. Das Bergrennen ist für lizenzierte und unlizenzierte Fahrer offen und Teil des Kärnten Sport Jedermannradcups. Auf das schnellste Damen- und Herrenpaar wartet der begehrte Bergkönig-Titel.",
+  "distanceKm": 6,
+  "elevationGainM": 440
+}

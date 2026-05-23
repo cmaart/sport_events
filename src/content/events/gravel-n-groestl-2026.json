@@ -1,0 +1,22 @@
+{
+  "id": "gravel-n-groestl-2026",
+  "name": "Gravel 'n' Gröstl Kaiserwinkl",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-10-08",
+    "end": "2026-10-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Walchsee",
+    "region": "Tirol",
+    "lat": 47.6369,
+    "lng": 12.3544
+  },
+  "websiteUrl": "https://gravelngroestl.com/",
+  "description": "Das Gravel 'n' Gröstl ist ein semi-supported Gravel-Abenteuer im Kaiserwinkl in Tirol – kein Rennen, sondern ein gemeinsames Erlebnis in den Alpen. Die Strecke umfasst rund 540 km und 11.000 Höhenmeter durch Tirol, Bayern und angrenzende Gebiete. Das Tempo setzen die Teilnehmer selbst; die Veranstaltung läuft über vier Tage.",
+  "distanceKm": 540,
+  "elevationGainM": 11000
+}

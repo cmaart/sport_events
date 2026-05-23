@@ -14,11 +14,12 @@
   },
   "location": {
     "name": "Würzburg",
-    "lat": 49.7990,
-    "lng": 9.9330
+    "lat": 49.799,
+    "lng": 9.933
   },
   "websiteUrl": "https://finishers.com",
   "description": "17. Wuerzburg Triathlon in der Weinstadt am Main in Unterfranken. Schwimmen im Baggersee nahe Erlabrunn, Radstrecke durch die Wuerzburger Weinberge des Mainkais und Laufkurs. Olympische und Sprint-Distanz in der Mozartstadt Wuerzburg mit der Residenz und Marienfestung als Kulisse.",
   "distanceKm": 52,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://static.wixstatic.com/media/22e4e6_db38b50c2aa241c5bf668b0f6cb9e355~mv2.jpg"
 }

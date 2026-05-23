@@ -1,0 +1,20 @@
+{
+  "id": "lauchringer-triathlon-nacht-2026",
+  "name": "9. Lauchringer Triathlon-Nacht",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lauchringen",
+    "region": "Baden-Württemberg",
+    "lat": 47.6417,
+    "lng": 8.3044
+  },
+  "websiteUrl": "https://www.triathlon-lauchringen.de",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/district-de-fribourg/lauchringer-triathlon-nacht/ckejkmjevfdacffsfkd0",
+  "description": "Die Lauchringer Triathlon-Nacht ist ein einzigartiges Abendtriathlon-Erlebnis am Freibad Lauchringen im Hegau nahe der Schweizer Grenze. Auf der Jedermann-Strecke (400 m Schwimmen, 18 km Rad, 5 km Laufen) gehen Teilnehmer aller Altersklassen in der Dämmerung an den Start. Ein besonderes Atmosphären-Event im Hochrhein-Gebiet."
+}

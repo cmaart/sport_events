@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.saentis-classic.ch/",
   "description": "Säntis Classic in Weinfelden (Thurgau): Gran Fondo 200 km / 2.200 Hm oder 130 km / 1.800 Hm durch das Alpstein-Massiv und entlang dem Bodensee. Familiäre Atmosphäre ohne Zeitnahme; Teil des Swiss Cycling Top Tour.",
   "distanceKm": 200,
-  "elevationGainM": 2200
+  "elevationGainM": 2200,
+  "imageUrl": "https://www.saentis-classic.ch/assets/images/4/2025Front4-3998722e.jpg"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "trek-schoenleiten-1000-aflenz-2026",
+  "name": "Trek Schönleiten 1000 – Bergrennen Aflenz",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aflenz Kurort",
+    "region": "Steiermark",
+    "lat": 47.5475,
+    "lng": 15.2281
+  },
+  "websiteUrl": "https://rc-hochschwabaflenz.at/128-trek-schoenleiten-1000-mtb-bergrennen",
+  "description": "Das Trek Schönleiten 1000 Bergrennen führt von der Talstation der Bürgeralm in Aflenz über 10 km und 1.000 Höhenmeter zum Schönleitenhaus. Es gibt Wertungen für Mountainbike, Gravelbike und E-Bike. Start ab 14:30 Uhr; Startgeld beträgt 15 Euro.",
+  "distanceKm": 10,
+  "elevationGainM": 1000
+}

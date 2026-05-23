@@ -1,0 +1,21 @@
+{
+  "id": "hochkar-bergrennen-2026",
+  "name": "Hochkar Bergrennen",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lassing",
+    "region": "Niederösterreich",
+    "lat": 47.8261,
+    "lng": 14.8803
+  },
+  "websiteUrl": "https://www.lrv-noe.at",
+  "description": "Das Hochkar Bergrennen ist eine der steilsten Bergprüfungen Österreichs mit Start an der Mautstelle der Hochkar-Alpenstraße und Ziel beim Joschi Skiverleih. Die 8,8 km lange Strecke überwindet rund 800 Höhenmeter. Neben dem Profi- und Jedermannbewerb zählt das Rennen auch als niederösterreichische Bergmeisterschaft.",
+  "distanceKm": 9,
+  "elevationGainM": 800
+}

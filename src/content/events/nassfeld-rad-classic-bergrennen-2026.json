@@ -1,0 +1,21 @@
+{
+  "id": "nassfeld-rad-classic-bergrennen-2026",
+  "name": "Nassfeld Rad Classic Bergrennen",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tröpolach",
+    "region": "Kärnten",
+    "lat": 46.5978,
+    "lng": 13.3269
+  },
+  "websiteUrl": "https://www.dolomitensport.at",
+  "description": "Das Nassfeld Rad Classic Bergrennen führt von der Talstation des Millennium-Express in Tröpolach über 10,9 km und 905 Höhenmeter zum Nassfeld-Grenzübergang in Kärnten. Der beliebte Kärntner Bergklassiker (20. Auflage) ist Teil des Kärnten Sport Jedermannradcups und wird mit der Wulfenia Trophy ausgetragen. Massenstart um 12:00 Uhr.",
+  "distanceKm": 11,
+  "elevationGainM": 905
+}

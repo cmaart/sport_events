@@ -1,0 +1,21 @@
+{
+  "id": "zillertaler-bergmeisterschaft-2026",
+  "name": "Zillertaler Bergmeisterschaft – Gerlosbergrennen",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zell am Ziller",
+    "region": "Tirol",
+    "lat": 47.2309,
+    "lng": 11.8929
+  },
+  "websiteUrl": "https://www.rt-zillertal.com/",
+  "description": "Die Zillertaler Bergmeisterschaft ist ein Hillclimb-Rennen am Gerlosberg von Zell am Ziller zum Alpengasthof Enzianhof. Die 6 km lange Prüfung mit 600 Höhenmetern umfasst lizenzierte Kategorien als Tiroler Bergmeisterschaft sowie einen offenen Jedermannbewerb. Start um 13:56 Uhr; Anmeldeschluss Donnerstag, 28. Mai.",
+  "distanceKm": 6,
+  "elevationGainM": 600
+}

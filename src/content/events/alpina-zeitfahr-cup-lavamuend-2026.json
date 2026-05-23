@@ -1,0 +1,21 @@
+{
+  "id": "alpina-zeitfahr-cup-lavamuend-2026",
+  "name": "Alpina Zeitfahr-Cup – Lavamünd (Lauf 1)",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lavamünd",
+    "region": "Kärnten",
+    "lat": 46.6461,
+    "lng": 14.9439
+  },
+  "websiteUrl": "https://hrc-wolfsberg.com/alpina-zeitfahr-cup/",
+  "description": "Erster Lauf des Alpina Zeitfahr-Cups, einer vierteiligen Zeitfahrserie des HRC Alpina Wolfsberg im Kärntner Lavanttal. Die 12,4 km flache Strecke führt entlang der Drau vom Kraftwerk Lavamünd. Die Serie ist Teil des Kärnten Sport Jedermannradcups und für alle Altersklassen offen.",
+  "distanceKm": 12,
+  "elevationGainM": 50
+}

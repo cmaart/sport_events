@@ -1,0 +1,21 @@
+{
+  "id": "alpina-zeitfahr-cup-stgeorgen-2026",
+  "name": "Alpina Zeitfahr-Cup – St. Georgen im Lavanttal (Finale)",
+  "sport": "cycling",
+  "categories": ["Zeitfahren", "Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Georgen im Lavanttal",
+    "region": "Kärnten",
+    "lat": 46.8794,
+    "lng": 14.8381
+  },
+  "websiteUrl": "https://hrc-wolfsberg.com/alpina-zeitfahr-cup/",
+  "description": "Das Finale des Alpina Zeitfahr-Cups führt 11,5 km als Bergzeitfahren in St. Georgen im Lavanttal. Hier wird die Gesamtwertung der vierteiligen Kärntner Zeitfahrserie abgeschlossen. Start: 09:30 Uhr am Kaufhaus Hassler.",
+  "distanceKm": 12,
+  "elevationGainM": 500
+}

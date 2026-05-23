@@ -1,0 +1,22 @@
+{
+  "id": "lakes-n-knoedel-2026",
+  "name": "Lakes 'n' Knödel – Bikepacking Österreich",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-07",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fuschl am See",
+    "region": "Salzburg",
+    "lat": 47.8103,
+    "lng": 13.2950
+  },
+  "websiteUrl": "https://lakesnknoedel.com/",
+  "description": "Lakes 'n' Knödel ist ein unsupported Bikepacking-Abenteuer von Fuschl am See nach Bregenz durch die Österreichischen Alpen und Südbayern. Die rund 725 km lange Route mit 14.000 Höhenmetern führt über spektakuläre Alpenübergänge zu den Seen der Region. Kein Wettkampf – die Route wird kurz vor dem Start veröffentlicht.",
+  "distanceKm": 725,
+  "elevationGainM": 14000
+}

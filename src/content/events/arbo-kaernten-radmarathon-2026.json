@@ -13,12 +13,13 @@
   },
   "location": {
     "name": "Bad Kleinkirchheim",
-    "lat": 46.8250,
-    "lng": 13.7850,
+    "lat": 46.825,
+    "lng": 13.785,
     "region": "Kärnten"
   },
   "websiteUrl": "https://kaernten-radmarathon.at",
   "description": "ARBÖ Radmarathon in den Nockbergen in Kaernten, startend in Bad Kleinkirchheim. 106 km mit 2.150 m Hoehengewinn durch die sanften Huegelruecken der Gurktaler Alpen und Nockberge. Fruehlingsmarathon durch eine der schoensten Gebirgslandschaften Kaerntens mit wenig Verkehr und unberuehrter Natur.",
   "distanceKm": 106,
-  "elevationGainM": 2150
+  "elevationGainM": 2150,
+  "imageUrl": "https://www.kaernten-radmarathon.at/uploads/media/1920x500/08/168-C%20Arno%20Gruber%20sen.%20%2867%20von%201000%29.jpg?v=1-0"
 }

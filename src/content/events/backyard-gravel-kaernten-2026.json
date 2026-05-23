@@ -1,0 +1,22 @@
+{
+  "id": "backyard-gravel-kaernten-2026",
+  "name": "Backyard Gravel Kärnten",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-17",
+    "end": "2026-09-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rosental",
+    "region": "Kärnten",
+    "lat": 46.5167,
+    "lng": 14.1500
+  },
+  "websiteUrl": "https://kaernten.backyardgravel.com/",
+  "description": "Das Backyard Gravel Kärnten ist ein semi-unterstütztes Gravel-Bikepacking-Event im Rosental, das Österreich, Slowenien und Italien verbindet. Die rund 325 km lange Strecke mit 7.500 Höhenmetern führt über Forstwege, Schotterpisten und alte Bahntrassen. Mit Camping, selbstgemachtem Essen und kleiner Community.",
+  "distanceKm": 325,
+  "elevationGainM": 7500
+}

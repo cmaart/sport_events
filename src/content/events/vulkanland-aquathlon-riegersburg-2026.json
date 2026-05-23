@@ -1,0 +1,19 @@
+{
+  "id": "vulkanland-aquathlon-riegersburg-2026",
+  "name": "Vulkanlandaquathlon Riegersburg",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegersburg",
+    "region": "Steiermark",
+    "lat": 46.9673,
+    "lng": 15.9360
+  },
+  "websiteUrl": "http://www.vulkanlandtriathlon.at",
+  "description": "Der Vulkanlandaquathlon am Seebad Riegersburg im Oststeirischen Vulkanland ist der herbstliche Begleitbewerb zum Frühjahrstriathlon. Schwimmen im Badesee Riegersburg und Laufrunden entlang des Sees bilden das Programm für alle Altersklassen, von den jüngsten Schülern bis zu den Junioren. 3. Ausgabe des beliebten Herbstbewerbs."
+}

@@ -7,8 +7,7 @@
   ],
   "country": "AT",
   "dates": {
-    "start": "2026-05-24",
-    "end": "2026-05-24",
+    "start": "2026-05-31",
     "confirmed": true
   },
   "location": {
@@ -17,9 +16,9 @@
     "lng": 14.7751,
     "region": "Niederösterreich"
   },
-  "websiteUrl": "https://www.waidhofner-radmarathon.at",
-  "description": "Gran Fondo im niederösterreichischen Mostviertel rund um Waidhofen an der Ybbs durch das Ybbs- und Eisenstrasse-Tal. Mehrere Streckenvarianten fuer Hobbyfahrer und ambitionierte Radmarathonistes durch das Voralpenland Niederoesterreichs. Gesellschaftliches Radevent mit starker Vereinstradition im Ybbstal.",
-  "distanceKm": 140,
-  "elevationGainM": 1800,
+  "websiteUrl": "https://www.askoewaidhofen.at/anmeldung/",
+  "description": "40. Auflage des Waidhofner Raiffeisen Radmarathons im niederösterreichischen Mostviertel. Die Strecke (97,5 km / 760 Hm) führt von Waidhofen/Ybbs über Ybbsitz, Gaming, Lunz am See und Göstling/Ybbs zurück ins Ybbstal – ein Klassiker durch das malerische Voralpenland Niederösterreichs.",
+  "distanceKm": 98,
+  "elevationGainM": 760,
   "imageUrl": "https://www.der-ybbstaler.at/wp2024/wp-content/uploads/2025/05/wy-rm2.jpg"
 }

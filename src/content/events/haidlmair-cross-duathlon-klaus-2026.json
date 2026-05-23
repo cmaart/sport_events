@@ -1,0 +1,19 @@
+{
+  "id": "haidlmair-cross-duathlon-klaus-2026",
+  "name": "Haidlmair Cross Duathlon Klaus",
+  "sport": "triathlon",
+  "categories": ["Duathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Klaus an der Pyhrnbahn",
+    "region": "Oberösterreich",
+    "lat": 47.6714,
+    "lng": 14.1733
+  },
+  "websiteUrl": "http://www.triathlon-klaus.at",
+  "description": "Die Naturfreunde Steyrling/Klaus veranstalten den Haidlmair Cross Duathlon in der Pyhrn-Priel-Region: 6 km Laufen – 17 km Mountainbike – 5 km Laufen, mit Einzel- und Staffelwertung. Der Event kehrt nach zweijähriger Pause als Cross Duathlon ohne Schwimmanteil zurück ins oststeirische Bergland."
+}

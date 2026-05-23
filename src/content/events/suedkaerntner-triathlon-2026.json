@@ -1,12 +1,8 @@
 {
   "id": "suedkaerntner-triathlon-2026",
-  "name": "Südkärntner Triathlon",
+  "name": "Südkärntner Triathlon am Klopeiner See",
   "sport": "triathlon",
-  "categories": [
-    "Mitteldistanz",
-    "Olympische Distanz",
-    "Sprintdistanz"
-  ],
+  "categories": ["Olympische Distanz", "Mitteldistanz", "Sprintdistanz"],
   "country": "AT",
   "dates": {
     "start": "2026-09-12",
@@ -15,12 +11,12 @@
   },
   "location": {
     "name": "St. Kanzian am Klopeiner See",
-    "lat": 46.5878,
-    "lng": 14.5817,
-    "region": "Kärnten"
+    "region": "Kärnten",
+    "lat": 46.5853,
+    "lng": 14.5694
   },
   "websiteUrl": "https://www.suedkaerntner-triathlon.at",
-  "description": "8. Ausgabe des Südkärntner Triathlons am türkisfarbenen Klopeiner See. Samstag: Gaudi- und Kinder-Triathlon; Sonntag: Olympische Distanz (1,5 + 40 + 10 km) und Halbdistanz (1,9 + 90 + 21,1 km). Die Radstrecke führt durch das hügelige südkärntner Hügelland.",
-  "distanceKm": 113,
-  "elevationGainM": 900
+  "description": "Der Südkärntner Triathlon am Klopeiner See bietet an zwei Tagen ein vielseitiges Programm: Samstag Fun-Triathlon und Kids-Bewerbe, Sonntag Olympische Distanz und Halbdistanz (1,9 km / 90 km / 21,1 km). Der kristallklare Klopeiner See in Südkärnten bildet die perfekte Kulisse für den 8. Bewerb dieser Art.",
+  "distanceKm": 112,
+  "elevationGainM": 800
 }

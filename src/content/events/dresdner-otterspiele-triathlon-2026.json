@@ -20,5 +20,6 @@
   "websiteUrl": "https://triathlon-dresden.de",
   "description": "Triathlonevent in der Saechsischen Landeshauptstadt Dresden mit Schwimmen in einem Dresdner Naturbadegewaesser, Radstrecke durch das Elbtal und Laufkurs. Olympische und Sprint-Distanz mit der Silhouette der Dresdner Altstadt als malerischer Hintergrund. Populaeres Sommerevent in der Barock-Residenzstadt.",
   "distanceKm": 52,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://triathlon-dresden.de/wp-content/uploads/2026/02/sliderHome3-1030x579.jpg"
 }
