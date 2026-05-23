@@ -20,5 +20,6 @@
   "websiteUrl": "https://allgaeu-radmarathon.de/",
   "description": "Rennrad- und Gravelmarathon mit Start auf dem historischen Marktplatz von Isny im Allgaeu auf ruhigen Nebenstrassen durch das Allgaeuer Alpenvorland bis nach Vorarlberg. Drei Streckenlaengen: 80 km / 1.200 Hm, 120 km / 2.000 Hm und 200 km / 3.000 Hm sowie Gravel-Strecken. Ergaenzt durch Kinder-MTB-Cup auf dem Marktplatz.",
   "distanceKm": 200,
-  "elevationGainM": 3000
+  "elevationGainM": 3000,
+  "imageUrl": "https://allgaeu-radmarathon.de/wp-content/uploads/sites/2/2025/11/DSC_2018-20-1-1024x447.jpg"
 }

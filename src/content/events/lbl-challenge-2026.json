@@ -2,7 +2,9 @@
   "id": "lbl-challenge-2026",
   "name": "Liege-Bastogne-Liege Challenge",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "BE",
   "dates": {
     "start": "2026-04-25",
@@ -14,6 +16,7 @@
     "lng": 5.5797
   },
   "websiteUrl": "https://lblchallenge.be/en/homepage/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/belgique/wallonie/liege/liege-bastogne-liege-challenge/xnkvx2qqmnbpd7rvji9q",
   "description": "Liège-Bastogne-Liège Challenge – Amateur-Version des ältesten Frühjahrsklassikers: 257 km (4.500 Hm), 163 km oder 80 km durch die Ardennen. Legendäre Anstiege La Redoute, Roche-aux-Faucons und Côte de la Chapelle. Start und Ziel in Lüttich, einen Tag vor dem Profi-Monument La Doyenne (26. April).",
   "distanceKm": 257,
   "elevationGainM": 4500

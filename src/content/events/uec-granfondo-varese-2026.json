@@ -2,7 +2,10 @@
   "id": "uec-granfondo-varese-2026",
   "name": "UEC Gran Fondo Europameisterschaft – Tre Valli Varesine",
   "sport": "cycling",
-  "categories": ["Gran Fondo", "Zeitfahren"],
+  "categories": [
+    "Gran Fondo",
+    "Zeitfahren"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-10-03",
@@ -15,6 +18,7 @@
     "lng": 8.8257
   },
   "websiteUrl": "https://ucigranfondoworldseries.com/en/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/italie/lombardie/varese/uci-tre-valli-varesine/doydkarrnukfbxkjhkaq",
   "description": "UEC Gran Fondo Europameisterschaft im Rahmen der 10. Auflage der Gran Fondo Tre Valli Varesine: Samstag Einzelzeitfahren (22 km), Sonntag Granfondo 126 km oder Mediofondo 101 km durch die hügeligen Weinberge und Seenlandschaften des Lago Maggiore und Lago di Varese. UCI World Series Qualifikationsrennen für die Weltmeisterschaften.",
   "distanceKm": 126,
   "elevationGainM": 1800

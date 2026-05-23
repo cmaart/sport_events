@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://finishers.com/event/ostsee-triathlon-dierhagen",
   "description": "Abendtriathlon an der mecklenburgischen Ostseekueste im Ostseebad Dierhagen mit Startschuss um 18 Uhr. Sprintdistanz: 750 m Schwimmen in der Ostsee, 20 km Radstrecke, 5 km Laufen. Atmosphaerisches Kuesten-Event mit Nordseekulisse und besonderer Stimmung beim Abendrennformat.",
-  "distanceKm": 26
+  "distanceKm": 26,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/fetch/q_auto,f_auto/https%3A%2F%2Fwww.finishers.com%2Fapi%2Fsocial-preview%3Fmodel%3Devents%26id%3De2f3a853-7fd3-431c-acff-b4b828a8caf5%26height%3D630%26width%3D1200%26hash%3D825049f9dd%26locale%3Dfr%26version%3D3"
 }

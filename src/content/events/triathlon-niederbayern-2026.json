@@ -20,5 +20,6 @@
   "websiteUrl": "https://spoferan.com/series/triathlon-niederbayern",
   "description": "Bayerische Meisterschaft ueber die Mitteldistanz in Pocking bei Passau: Schwimmen im Pockinger Badesee, Radstrecke durch Niederbayern, Lauf am See. Olympische und Mitteldistanz fuer alle Leistungsklassen. Beliebte Veranstaltung in grenznaher Region nahe Oesterreich.",
   "distanceKm": 113,
-  "elevationGainM": 700
+  "elevationGainM": 700,
+  "imageUrl": "https://media.spoferan.com/clubs/11/avatar-thumbnails/spoferan-icon-padded-1758548054-png/1200x630.webp"
 }

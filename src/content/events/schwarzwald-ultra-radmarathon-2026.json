@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.surm.de",
   "description": "Radmarathon im mittleren Schwarzwald startend in Alpirsbach mit drei Streckenvarianten: 82 km, 147 km und 230 km. Die langen Strecken ueberqueren die Kammhoehen des Schwarzwaldes mit erheblichem Hoehengewinn. Herbstliches Foliage und frische Temperaturen praegen dieses anspruchsvolle Radmarathon-Event.",
   "distanceKm": 230,
-  "elevationGainM": 4500
+  "elevationGainM": 4500,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/s98b1962288441862/image/i6dd6736f7d777191/version/1765826064/image.jpg"
 }

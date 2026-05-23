@@ -13,10 +13,11 @@
   },
   "location": {
     "name": "Wunstorf",
-    "lat": 52.4610,
-    "lng": 9.3310
+    "lat": 52.461,
+    "lng": 9.331
   },
   "websiteUrl": "https://www.steinhudermeer-triathlon.de",
   "description": "Triathlon am Steinhuder Meer als Teil der nationalen Multisport-Meisterschaften Die Finals 2026 in Hannover. Samstag: Amateurrennnen Sprintdistanz (750 m / 18 km / 5 km); Sonntag: Deutsche Meisterschaften der Altersklassen. Einzigartiger Austragungsort am größten Binnensee Nordwestdeutschlands. Anmeldung ab 15. April 2026.",
-  "distanceKm": 24
+  "distanceKm": 24,
+  "imageUrl": "https://www.steinhudermeer-triathlon.de/fileadmin/_processed_/2/4/csm_header_smt_winner24_186ff5a035.jpg"
 }

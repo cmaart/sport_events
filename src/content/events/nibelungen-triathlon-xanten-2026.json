@@ -20,5 +20,6 @@
   "websiteUrl": "https://triathlon-xanten.de",
   "description": "40. Jubilaeum des Nibelungen-Triathlons in Xanten am Niederrhein. Schwimmen im Xantener Nordsee, einem ehemaligen Baggerloch direkt neben der roemischen Ausgrabungsstaette Colonia Ulpia Traiana. Olympische und Sprint-Distanz mit einzigartiger historisch-archaeologischer Kulisse.",
   "distanceKm": 52,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://www.triathlon-xanten.de/wp-content/uploads/2016/12/HeaderNr3.jpg"
 }

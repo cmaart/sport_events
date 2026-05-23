@@ -2,7 +2,9 @@
   "id": "granfondo-belgium-froidchapelle-2026",
   "name": "Granfondo Belgium",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "BE",
   "dates": {
     "start": "2026-03-29",
@@ -14,6 +16,7 @@
     "lng": 4.4358
   },
   "websiteUrl": "https://www.granfondobelgium.com/en",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/belgique/wallonie/hainaut/uci-granfondo-belgium/g0oevimqzcjs1uuc6loc",
   "description": "Granfondo Belgium – UCI Gran Fondo World Series-Qualifikation am Lac de l'Eau d'Heure in der belgischen Provinz Hainaut: Granfondo 138 km (2.100 Hm) oder Mediofondo durch das hügelige Ardennenvorland. Einer der ersten europäischen UCI-Qualifier der Saison; komplett autofrei gestalteter Kurs.",
   "distanceKm": 138,
   "elevationGainM": 2100

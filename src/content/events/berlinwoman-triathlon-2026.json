@@ -14,9 +14,10 @@
   "location": {
     "name": "Berlin",
     "lat": 52.4333,
-    "lng": 13.1800
+    "lng": 13.18
   },
   "websiteUrl": "https://www.berlin-wo-man.de/",
   "description": "BerlinWoMan Triathlon am Wannsee: Mitteldistanz 2,0 km Schwimmen / 80 km Radfahren / 20 km Laufen, Sprint 0,7 km / 24 km / 5 km, Mixed Staffel und Kinder-Aquathlon (MiniWoMan). Rückkehr des Berliner Klassikers mit Jubiläumsausgabe am Strandbad Wannsee. Stadtnahe Sportkulisse an einem der beliebtesten Badeseen Berlins.",
-  "distanceKm": 102
+  "distanceKm": 102,
+  "imageUrl": "https://cdn.prod.website-files.com/687760de305374318ea280b5/68de9285d284afb6aa023f8b_SEO_BWM_1200x630_Home.jpg"
 }

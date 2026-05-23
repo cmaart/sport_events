@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.rsc-hochsauerland.de/rtf-hochsauerlandklassiker/",
   "description": "Radtourenfahrt des RSC Hochsauerland durch Hennerartal, Sorpetal, Kahlen Asten und die Sauerlander Hoehenstrasse. Vier Strecken von 70 bis 215 km / 3.200 Hm; die Marathonstrecke gilt als eine der anspruchsvollsten RTF-Strecken in NRW. Ohne Zeitnahme und Wettkampfdruck.",
   "distanceKm": 215,
-  "elevationGainM": 3200
+  "elevationGainM": 3200,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s85a5431dda3d9e51/image/ic439ba8b01aa11cf/version/1777139588/image.jpg"
 }
