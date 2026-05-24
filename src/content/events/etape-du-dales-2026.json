@@ -16,8 +16,8 @@
     "lng": -2.2775
   },
   "websiteUrl": "https://www.etapedudales.org/",
+  "imageUrl": "https://static.wixstatic.com/media/3706c2_7edde37851d0419580bfc8612f4abd90~mv2.jpg",
   "description": "Etape du Dales in Settle (North Yorkshire, England): 170 km / 3.200 Hm durch sechs Dales – Wharfedale, Littondale, Wensleydale, Swaledale, Dentdale und Ribblesdale. Auch Mini Etape 110 km und GRVL Dales 80 km. 2026 mit neuem Startgelände im Stadtzentrum Settle.",
   "distanceKm": 170,
-  "elevationGainM": 3200,
-  "imageUrl": "https://static.wixstatic.com/media/3706c2_23eab033f552423b98650af9fe846da5~mv2.jpg/v1/fill/w_2500,h_1666,al_c/3706c2_23eab033f552423b98650af9fe846da5~mv2.jpg"
+  "elevationGainM": 3200
 }
