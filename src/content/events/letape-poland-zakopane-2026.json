@@ -1,0 +1,21 @@
+{
+  "id": "letape-poland-zakopane-2026",
+  "name": "L'Étape Poland by Tour de France",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "PL",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zakopane",
+    "lat": 49.2988,
+    "lng": 19.9542
+  },
+  "websiteUrl": "https://poland.letapeseries.com/",
+  "description": "L'Étape Poland by Tour de France in der Tatra-Hochgebirgsstadt Zakopane: Wettkampfkurs 107 km / 1.600 Hm durch den Tatra-Nationalpark, Freizeitstrecke 51 km / 900 Hm. Start und Ziel im Herzen des polnischen Wintersportorts Zakopane.",
+  "distanceKm": 107,
+  "elevationGainM": 1600,
+  "imageUrl": "https://poland.letapeseries.com/uploads/blocks/d515d1fbf16c1f4a7dd1112a6c5ec87707ce7ac8.jpeg"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "letape-mondovi-2026",
+  "name": "L'Étape Mondovì by Tour de France",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mondovì",
+    "lat": 44.3895,
+    "lng": 7.8200
+  },
+  "websiteUrl": "https://letapeitaly.it/homepage-etape-mondovi/",
+  "description": "L'Étape Mondovì by Tour de France in den piemontesischen Alpen: Granfondo 110,5 km / 2.250 Hm durch das Cuneo-Hinterland. Alternativ Cicloturistica 60 km. Start 9:30 Uhr. Teil des dreitägigen Festival-Erlebnisses in Mondovì.",
+  "distanceKm": 111,
+  "elevationGainM": 2250,
+  "imageUrl": "https://letapeitaly.it/wp-content/uploads/2025/12/MONDOVi@-1024x894.png"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kulturstadttriathlon-weimar-2026",
+  "name": "Kulturstadttriathlon Weimar",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weimar",
+    "lat": 50.9803,
+    "lng": 11.3237,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://kulturstadttriathlon.de",
+  "description": "4. Kulturstadttriathlon Weimar – Triathlon-Event in der Kulturstadt Weimar mit 2. Triathlon-Bundesliga sowie Thüringer TriCup für Nachwuchs und Junioren. Weimar verwandelt sich in eine pulsierende Triathlon-Bühne.",
+  "imageUrl": "https://kulturstadttriathlon.de/img/KSTLogo2026.png"
+}

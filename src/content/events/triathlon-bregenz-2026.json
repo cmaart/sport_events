@@ -21,5 +21,6 @@
   "registrationUrl": "https://www.triathlon-bregenz.at/anmeldung",
   "description": "Spektakulärer Olympischer Triathlon am Bodensee vor der Bregenzer Festspielbühne: 1,5 km Schwimmen im Bodensee, 44 km Radstrecke über Lochau und Eichenberg mit Grenzübertritt nach Deutschland (964 Hm), 10 km Lauf auf der Seepromenade.\n\nMaximal 450 Einzelstarter. Anmeldeschluss 14. Juni 2026.",
   "distanceKm": 55,
-  "elevationGainM": 964
+  "elevationGainM": 964,
+  "imageUrl": "https://static.wixstatic.com/media/11062b_41148c6b0dca4f42b8380089fd183012f000.jpg"
 }

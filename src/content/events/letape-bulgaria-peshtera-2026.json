@@ -1,0 +1,20 @@
+{
+  "id": "letape-bulgaria-peshtera-2026",
+  "name": "L'Étape Bulgaria by Tour de France",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "BG",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peshtera",
+    "lat": 42.0348,
+    "lng": 24.2988
+  },
+  "websiteUrl": "https://bulgaria.letapeseries.com/",
+  "description": "L'Étape Bulgaria by Tour de France in Peshtera (Plowdiw-Region): Wettkampfkurs 112 km / 2.140 Hm durch das Rhodopengebirge, Aufstieg zum Kurort Sweti Konstantin (1.350 m), Fahrt am Batak-Stausee entlang. Alternativ: Freizeitstrecke 58 km.",
+  "distanceKm": 112,
+  "elevationGainM": 2140
+}
