@@ -13,10 +13,11 @@
   },
   "location": {
     "name": "Bullay",
-    "lat": 50.0250,
-    "lng": 7.0740
+    "lat": 50.025,
+    "lng": 7.074
   },
   "websiteUrl": "http://www.mittelmosel-triathlon.de",
+  "imageUrl": "https://www.mittelmosel-triathlon.de/wp-content/uploads/2026/02/cropped-5831dd62184c3047c36ed141da2a9619.jpg",
   "description": "12. Mittelmosel Triathlon in Bullay/Zell an der Mosel, veranstaltet vom TSV Bullay-Alf. Schwimmen in der Mosel, Radkurs durch die Weinberge des Moseltals, Laufen entlang der Mosel. Jedermann-Distanz (700 m / 20 km / 5 km) und Einsteiger-Distanz (300 m / 20 km / 5 km). Meldeschluss 25. Mai 2026.",
   "distanceKm": 26
 }
