@@ -2,7 +2,9 @@
   "id": "challenge-forte-village-sardinia-2026",
   "name": "Challenge Forte Village Sardinia",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-10-25",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Pula",
-    "lat": 38.9800,
-    "lng": 9.0000
+    "lat": 38.98,
+    "lng": 9.0
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-forte-village/",
+  "imageUrl": "https://challenge-fortevillage.com/wp-content/uploads/sites/77/2024/12/forte-village-resort.jpg",
   "description": "Challenge Forte Village Sardinia im legendären Luxusresort an Sardiniens Südküste: 1,9 km Schwimmen im türkisfarbenen Tyrrhenischen Meer, 90 km Rad durch Sardiniens Macchia-Landschaft, 21,1 km Laufen. Einzigartiger Saisonabschluss im Oktober mit warmen Mittelmeertemperaturen und exklusiver Resort-Atmosphäre.",
   "distanceKm": 113
 }

@@ -2,7 +2,9 @@
   "id": "sudety-tour-2026",
   "name": "Sudety Tour UCI Gran Fondo",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "CZ",
   "dates": {
     "start": "2026-05-09",
@@ -12,9 +14,10 @@
   "location": {
     "name": "Broumov",
     "lat": 50.5886,
-    "lng": 16.3330
+    "lng": 16.333
   },
   "websiteUrl": "https://ucigranfondoworldseries.com/en/sudety-tour/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/tchequie/kralovehradecky-kraj/district-de-nachod/uci-sudety-tour/ec2ie17p1ikaxpiwqz8a",
   "description": "Sudety Tour – erstes UCI Gran Fondo World Series-Rennen in Tschechien (und Polen): Zeitfahren am 9. Mai in Radków (PL, 10,6 km), Granfondo am 10. Mai rund um Broumov mit ikonischem Kopfsteinpflaster-Anstieg Vysoká Srbská (1 km, Ø10%, 15% max). Grenzregion Sudetengebirge zwischen Tschechien und Polen.",
   "distanceKm": 130,
   "elevationGainM": 1800

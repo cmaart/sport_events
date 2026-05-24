@@ -2,7 +2,9 @@
   "id": "xterra-european-championship-molveno-2026",
   "name": "XTERRA European Championship Trentino",
   "sport": "triathlon",
-  "categories": ["Cross-Triathlon"],
+  "categories": [
+    "Cross-Triathlon"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-06-19",
@@ -15,6 +17,7 @@
     "lng": 10.9641
   },
   "websiteUrl": "https://www.xterraplanet.com/event/xterra-trentino-dolomiti-paganella",
+  "imageUrl": "https://www.triatlonnoticias.com/wp-content/uploads/2025/09/cronica-xterra-mundial-molveno-2025.jpg",
   "description": "XTERRA European Championship Trentino – Europameisterschaft im Crosstriathlon am Lago di Molveno vor der Kulisse der Brenta-Dolomiten: XTERRA Full 1,5 km Schwimmen / 30 km Mountainbike / 10 km Geländelauf sowie Sprint-Distanz. Das Rennen gilt als einer der schönsten XTERRA-Wettkämpfe Europas.",
   "distanceKm": 42
 }
