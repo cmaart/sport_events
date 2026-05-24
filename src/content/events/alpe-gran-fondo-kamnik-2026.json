@@ -18,5 +18,6 @@
   "websiteUrl": "https://alpegf.eu/en/home/",
   "description": "Alpe Gran Fondo in den Kamniško-Savinjske Alpen (Slowenien): Pro-Strecke 130 km / 2.000 Hm über drei Pässe (Črnivec, Pavličevo sedlo, Jezersko), Hobby-Strecke 75 km / 1.454 Hm. Start und Ziel am Hauptplatz von Kamnik.",
   "distanceKm": 130,
-  "elevationGainM": 2000
+  "elevationGainM": 2000,
+  "imageUrl": "https://alpegf.eu/wp-content/uploads/2024/06/IMG_4000.jpg"
 }

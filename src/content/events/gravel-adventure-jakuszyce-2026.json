@@ -18,5 +18,6 @@
   "websiteUrl": "https://graveladventure.pl/",
   "description": "Gravel Adventure in Jakuszyce bei Szklarska Poręba (Isergebirge, Niederschlesien): UCI Gravel World Series-Qualifikation mit Gran Fondo 110 km / 2.000 Hm oder Medio Fondo 64 km durch das Isergebirge nahe der tschechischen Grenze. Start am Biathlon-Sportzentrum Polana Jakuszycka; Route durch Wälder und Bergpässe des Riesengebirge-Grenzraums.",
   "distanceKm": 110,
-  "elevationGainM": 2000
+  "elevationGainM": 2000,
+  "imageUrl": "https://www.graveladventure.pl/wp-content/uploads/2024/12/ga-about1.jpg"
 }

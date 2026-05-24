@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.wicklow200.ie/",
   "description": "Wicklow 200 in den Wicklow Mountains (Irland): 200 km / über 2.000 Hm oder 100 km durch Irlands spektakulärstes Bergland südlich von Dublin. 42. Auflage; über 3.000 Teilnehmer; mehr als 10 klassifizierte Anstiege durch den Wicklow Mountains National Park.",
   "distanceKm": 200,
-  "elevationGainM": 3000
+  "elevationGainM": 3000,
+  "imageUrl": "https://eventmaster.ie/userresources/images/banner_32Kyhx4tZW_2026_04_10-02_01_12.jpg"
 }

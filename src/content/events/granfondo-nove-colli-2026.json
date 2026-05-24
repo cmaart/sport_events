@@ -2,7 +2,9 @@
   "id": "granfondo-nove-colli-2026",
   "name": "Granfondo Nove Colli",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-05-24",
@@ -17,5 +19,5 @@
   "description": "Granfondo Nove Colli – 55. Ausgabe des Klassikers in der Emilia-Romagna: Granfondo 200 km (3.814 Hm) über neun klassische Hügel der Romagna, Mediofondo 137 km (1.872 Hm) oder Gravel 107 km. Start und Ziel im Badeort Cesenatico am Adriatischen Meer. Weltberühmtes Massenevent mit über 12.000 Startern. UCI-Qualifikationsrennen.",
   "distanceKm": 200,
   "elevationGainM": 3814,
-  "imageUrl": "https://strapi.visitcesenatico.it/uploads/nove_colli_partenza_c8f75bdd0a.jpg"
+  "imageUrl": "https://novecolli.blob.core.windows.net/images/_admin/layout/foto.jpg"
 }
