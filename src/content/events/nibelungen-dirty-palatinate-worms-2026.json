@@ -19,5 +19,6 @@
   "websiteUrl": "https://nibelungen-dirty.de",
   "description": "Gravelrennen und Radmarathon im Pfälzerwald und der Rheinebene rund um die Nibelungenstadt Worms. Drei Streckenvarianten: 200 km, 150 km und 100 km auf Schotterwegen, Forstwegen und asphaltierten Passagen durch Pfalz und Rheinhessen. Einzigartiges Mittelrhein-Flair entlang historischer Nibelungenstätten.",
   "distanceKm": 200,
-  "elevationGainM": 1800
+  "elevationGainM": 1800,
+  "imageUrl": "https://static.wixstatic.com/media/6c2084_07cda607f14c42698de62bf017aded1b~mv2.jpg"
 }

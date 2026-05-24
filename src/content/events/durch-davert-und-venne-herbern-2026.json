@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.durch-davert-und-venne.de",
   "description": "Radmarathon im Münsterland durch die Naturgebiete Davert und Venne, gewertet im BDR-Radmarathon-Cup. Sechs Streckenvarianten von 22 km bis zum Hauptmarathon mit 210 km und 800 Höhenmetern durch das flache bis leicht hügelige Münsterland. Start und Ziel in Herbern bei Ascheberg.",
   "distanceKm": 210,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://www.svh-herbern.de/wp-content/uploads/2023/05/sv_herbern_header_Radtouristik-2240x910.png"
 }
