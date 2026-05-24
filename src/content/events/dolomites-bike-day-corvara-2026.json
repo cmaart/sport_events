@@ -2,7 +2,9 @@
   "id": "dolomites-bike-day-corvara-2026",
   "name": "Dolomites Bike Day",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-06-20",
@@ -10,11 +12,12 @@
   },
   "location": {
     "name": "Corvara in Badia",
-    "lat": 46.5490,
+    "lat": 46.549,
     "lng": 11.8784
   },
   "websiteUrl": "https://www.dolomitesbikeday.it/",
   "description": "Dolomites Bike Day in Alta Badia – Autofreie Pässe in den östlichen Dolomiten: 51 km kostenlose Rundstrecke (1.370 Hm) über Passo Campolongo, Passo Falzarego und Passo Valparola, ohne Anmeldung. Straßensperrung 09:00–15:00 Uhr. Andere Passrunde als die Sellaronda; Blick auf Sass Pordoi und Lagazuoi.",
   "distanceKm": 51,
-  "elevationGainM": 1370
+  "elevationGainM": 1370,
+  "imageUrl": "https://www.dolomitesbikeday.it/filemanager/files/img-fullscreen/passo-valparola-dolomites-bike-day.jpg"
 }

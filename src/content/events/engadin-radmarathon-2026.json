@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.rad-marathon.ch/en",
   "description": "Engadin Radmarathon in Zernez (Unterengadin): 3-tägiger Etappen-Radmarathon über ca. 221 km / 4.000+ Hm durch fünf Alpenpässe im Graubünden. Prologue als 7-km-Zeitfahren auf den Ofenpass; Teil des Swiss Cycling Top Tour.",
   "distanceKm": 221,
-  "elevationGainM": 4000
+  "elevationGainM": 4000,
+  "imageUrl": "https://www.rad-marathon.ch/sites/engadin_radmarathon/files/2023-03/flueelapass-engadin-radmarathon-c-dominik-taeuber.jpg"
 }

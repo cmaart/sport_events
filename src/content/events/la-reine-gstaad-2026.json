@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.lareine.cc/",
   "description": "La Reine – Strictly Female Cycling Festival Gstaad in den Berner Oberland-Alpen: Ausschließlich für Frauen, Granfondo 140 km (3.000 Hm) und Mediofondo 90 km (1.800 Hm) plus Berg-Zeitfahren als Prolog. Limitiert auf 500 Plätze. Start und Ziel in Gstaad, Alpenpanorama über das Saanental.",
   "distanceKm": 140,
-  "elevationGainM": 3000
+  "elevationGainM": 3000,
+  "imageUrl": "https://static.wixstatic.com/media/c51075_af2ae1f7cbb145ffa5fef7a452f40a9a~mv2.jpg"
 }

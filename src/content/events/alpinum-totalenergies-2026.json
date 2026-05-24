@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.alpinum-ride.cc/en/",
   "description": "Alpinum TotalEnergies in Alp (Cerdanya, Katalonien): 185 km / 3.635 Hm, 145 km oder 89 km; Route überquert Port d'Envalira und weitere Pyrenäenpässe durch Spanien, Andorra und Frankreich. Limitiert auf 1.200 Teilnehmer; 3 Tage vor der gleichnamigen Tour-de-France-Etappe.",
   "distanceKm": 185,
-  "elevationGainM": 3635
+  "elevationGainM": 3635,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/654cf735b702740107574f9f/3d509264-31fd-4495-8ef9-3e2cdc6f030e/ciclistas1.jpg"
 }

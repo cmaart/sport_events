@@ -22,5 +22,6 @@
   "registrationUrl": "https://entry.racetime.pro/event/1291/start",
   "description": "Klassiker durchs Salzkammergut über fünf Seen (Mondsee, Fuschlsee, Wolfgangsee, Hallstättersee, Attersee). Drei Strecken: 75 km (400 hm), 140 km (1.400 hm) und 200 km (2.600 hm). Edition 2026 ausverkauft.",
   "distanceKm": 200,
-  "elevationGainM": 2600
+  "elevationGainM": 2600,
+  "imageUrl": "https://www.mondsee-radmarathon.com/images/2025/07/09/13595_cor2drone1_00022.jpg"
 }
