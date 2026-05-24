@@ -2,7 +2,9 @@
   "id": "alptraum-bike-challenge-2026",
   "name": "Alptraum Bike Challenge Achensee",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-07-31",
@@ -16,6 +18,7 @@
     "lng": 11.7478
   },
   "websiteUrl": "https://www.alptraumbikechallenge.com/",
+  "imageUrl": "https://bikepacking.com/wp-content/uploads/2025/11/Alptraum-bike-challenge-2026_1-2000x1333.jpg",
   "description": "Die Alptraum Bike Challenge ist eine selbst-unterstützte Gravel- und Bikepacking-Herausforderung rund um den Achensee in Tirol. Die 350 km lange Strecke mit 8.000 Höhenmetern verbindet einfache Forstwege mit anspruchsvollen Schiebepassagen, Zeitlimit 60 Stunden. Start und Ziel in Maurach am Achensee.",
   "distanceKm": 350,
   "elevationGainM": 8000
