@@ -14,10 +14,11 @@
   },
   "location": {
     "name": "Hamburg-Bergedorf",
-    "lat": 53.4690,
-    "lng": 10.2420
+    "lat": 53.469,
+    "lng": 10.242
   },
   "websiteUrl": "https://www.vierlanden-triathlon.de",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hambourg/vierlanden-triathlon/zu4hy35ma5kyh0koxo6n",
   "description": "29. Vierlanden-Triathlon im Hamburger Vierland nahe Bergedorf, veranstaltet von Tri-Bandits/TSG Bergedorf. Eines der größten Triathlons im norddeutschen Raum mit ca. 1.300 Einzelstartern und 40 Staffeln aus über 10 Nationen. Schwimmen im Overwerder See, Rad- und Laufkurs durch die Marschenlandschaft.",
   "distanceKm": 51
 }

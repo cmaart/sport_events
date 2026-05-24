@@ -2,7 +2,9 @@
   "id": "granfondo-riccione-2026",
   "name": "Granfondo Riccione",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-05-03",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Riccione",
-    "lat": 44.0000,
+    "lat": 44.0,
     "lng": 12.6592
   },
   "websiteUrl": "https://www.granfondoriccione.com/",
+  "imageUrl": "https://www.granfondoriccione.com/wp-content/uploads/2024/03/GF-24-DOM-100_resized-1030x687.jpg",
   "description": "Granfondo Riccione – 23. Ausgabe im Rahmen des Riccione Cycling Fest an der Adriaküste: 105,7 km (1.800 Hm) durch die Hügel des Hinterlandes der Romagna sowie kürzere Varianten (76 km / 61 km). Start und Ziel im Badeort Riccione (Rimini). Teil des dreitägigen Radsportfestivals (1.–3. Mai).",
   "distanceKm": 106,
   "elevationGainM": 1800

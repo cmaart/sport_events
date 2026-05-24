@@ -14,9 +14,10 @@
   "location": {
     "name": "Arnsberg",
     "lat": 51.4375,
-    "lng": 7.9960
+    "lng": 7.996
   },
   "websiteUrl": "https://www.sauerlandrundfahrt.de/",
+  "imageUrl": "https://www.sauerlandrundfahrt.de/wp-content/uploads/2019/10/sauerlandrundfahrt-2019_0033__MGL6495.webp",
   "description": "Neue UCI 2.1-Etappenfahrt im Sauerland: vier anspruchsvolle Etappen mit Anstiegen über Hirschberger Wand, Arnsberger Schlossberg und Kahlen Asten/Winterberg. Deutschlands zweites großes Mehrtagesrennen neben der Deutschland Tour, erstmals im internationalen UCI-Kalender 2026.",
   "distanceKm": 600,
   "elevationGainM": 8000

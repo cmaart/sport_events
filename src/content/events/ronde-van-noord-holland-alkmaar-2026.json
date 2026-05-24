@@ -2,7 +2,9 @@
   "id": "ronde-van-noord-holland-alkmaar-2026",
   "name": "Ronde van Noord-Holland",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "NL",
   "dates": {
     "start": "2026-04-18",
@@ -14,6 +16,7 @@
     "lng": 4.7534
   },
   "websiteUrl": "https://www.rondevannoordholland.nl/",
+  "imageUrl": "https://do.occdn.net/p/75/f/kopie-van-header-website-desktop-2000-x-1331-px-2-1.png",
   "description": "Ronde van Noord-Holland – 52. Ausgabe einer der größten niederländischen Radsportveranstaltungen: Vier Streckenvarianten (85/110/160/250 km) durch die flache Küstenlandschaft Nordhollands zwischen Alkmaar, Hoorn und Purmerend. Start von mehreren Orten möglich; typisch holländisch mit Deichpfaden, Polderstraßen und Windmühlen als Kulisse.",
   "distanceKm": 250
 }

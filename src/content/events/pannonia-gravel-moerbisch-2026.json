@@ -2,7 +2,9 @@
   "id": "pannonia-gravel-moerbisch-2026",
   "name": "Pannonia Gravel",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-10-25",
@@ -10,11 +12,12 @@
   },
   "location": {
     "name": "Mörbisch am See",
-    "lat": 47.8350,
+    "lat": 47.835,
     "lng": 16.6867,
     "region": "Burgenland"
   },
   "websiteUrl": "https://www.neusiedlersee-radmarathon.com/gravel.html",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/autriche/burgenland/eisenstadt-umgebung/uci-neusiedler-see-radmarathon/hpphtlfpdvxb6vtjtvht",
   "description": "Pannonia Gravel am Neusiedler See: Zwei Routen (73 km / 1.150 Hm und 40 km / 600 Hm) führen zu über 80 % über unbefestigte Wege – inklusive eines Militärübungsgeländes, das sonst für die Öffentlichkeit gesperrt ist. Einzigartiges Gravel-Erlebnis in der flachen Pannonischen Tiefebene.",
   "distanceKm": 73,
   "elevationGainM": 1150

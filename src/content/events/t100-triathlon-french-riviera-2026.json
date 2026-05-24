@@ -2,7 +2,9 @@
   "id": "t100-triathlon-french-riviera-2026",
   "name": "T100 Triathlon French Riviera",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-09-19",
@@ -15,6 +17,7 @@
     "lng": 6.7671
   },
   "websiteUrl": "https://t100triathlon.com/events/french-riviera/",
+  "imageUrl": "https://triathlonstore.fr/cdn/shop/articles/bbcf9ff33d6195a125c0250105e24ccb.jpg?v=1775140108&width=1600",
   "description": "T100 Triathlon French Riviera – PTO-Profiserie an der Côte d'Azur bei Saint-Raphaël und Fréjus: 2 km Schwimmen im Mittelmeer, 80 km Rad und 18 km Laufen (100 km gesamt). Altersklassenstarts auf derselben Strecke wie die Profis der T100 World Tour.",
   "distanceKm": 100
 }

@@ -2,7 +2,9 @@
   "id": "66-degres-sud-canet-2026",
   "name": "66 Degrés Sud",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-04-23",
@@ -15,6 +17,7 @@
     "lng": 3.0083
   },
   "websiteUrl": "https://ucigranfondoworldseries.com/en/66-degres-sud/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/occitanie/pyrenees-orientales/uci-66-degres-sud/y9rovc1xz9lgmtyjw4ai",
   "description": "66 Degrés Sud – Erster europäischer UCI Gran Fondo World Series-Qualifier der Saison 2026 an der katalanischen Küste bei Canet-en-Roussillon: Granfondo 149 km (2.242 Hm) oder Mediofondo 113 km (1.390 Hm) durch die Pyrenäen-Ausläufer und das Roussillon-Hinterland. Zeitfahren am Freitag, Hauptrennen am Sonntag.",
   "distanceKm": 149,
   "elevationGainM": 2242

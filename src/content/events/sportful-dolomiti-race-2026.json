@@ -2,7 +2,9 @@
   "id": "sportful-dolomiti-race-2026",
   "name": "Sportful Dolomiti Race",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-06-21",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Feltre",
-    "lat": 46.0170,
-    "lng": 11.9000
+    "lat": 46.017,
+    "lng": 11.9
   },
   "websiteUrl": "https://www.sportfuldolomitirace.it/en/home/",
+  "imageUrl": "https://sportful.kleecks-cdn.com/medias/DSC00479.jpg?context=bWFzdGVyfHJvb3R8MjE1ODM4fGltYWdlL2pwZWd8YURJNUwyZzNaaTg1TVRRME16VXdNamMzTmpZeUwwUlRRekF3TkRjNUxtcHdad3w1OTkzNDk5OTIxNDcwY2IxZWM0ZDU0YzhmMDg3ZDFkNjIyMjdkYTlkZTAxNmFhZmM0YzA5Yzc5ZDMwZjgxZTUy",
   "description": "Sportful Dolomiti Race – einer der härtesten Granfondos Europas: Start und Ziel in Feltre (Belluno). Granfondo über 204 km mit rund 4.900 Höhenmetern und sechs Pässen durch das UNESCO-Weltnaturerbe Dolomiten (u. a. Passo Brocon, Passo Rolle). Alternativ Mediofondo über 120 km mit ca. 3.200 hm.",
   "distanceKm": 204,
   "elevationGainM": 4900

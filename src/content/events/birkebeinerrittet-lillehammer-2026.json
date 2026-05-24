@@ -2,7 +2,9 @@
   "id": "birkebeinerrittet-lillehammer-2026",
   "name": "Birkebeinerrittet",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "NO",
   "dates": {
     "start": "2026-08-29",
@@ -10,12 +12,12 @@
   },
   "location": {
     "name": "Rena/Lillehammer",
-    "lat": 61.0820,
+    "lat": 61.082,
     "lng": 11.3795
   },
   "websiteUrl": "https://birken.no/en/cycling/birkebeinerrittet-84-km",
+  "imageUrl": "https://birken.no/assets/phwi/674-ee721165b15f95f82f9724a18169fa37-std/birkebeinerrittet-2024-11-of-52.jpeg",
   "description": "Birkebeinerrittet – Weltgrößtes Mountainbikerennen mit über 16.000 Teilnehmern: 84 km auf historischen Birkebeiner-Wegen von Rena nach Lillehammer (Håkons Hall) mit 1.200–1.300 Hm durch den norwegischen Wald. Pflichtausrüstung: 3,5-kg-Rucksack (historische Symbolik). Teil der Birkebeiner-Klassiker-Familie.",
   "distanceKm": 84,
-  "elevationGainM": 1300,
-  "imageUrl": "https://birken.no/assets/page_ti/203-ee721165b15f95f82f9724a18169fa37-preview2x/birkebeinerrittet-2024-11-of-52.jpeg"
+  "elevationGainM": 1300
 }

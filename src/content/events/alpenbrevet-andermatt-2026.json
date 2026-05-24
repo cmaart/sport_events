@@ -2,7 +2,9 @@
   "id": "alpenbrevet-andermatt-2026",
   "name": "Swiss Cycling Alpenbrevet",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "CH",
   "dates": {
     "start": "2026-09-05",
@@ -14,8 +16,8 @@
     "lng": 8.5952
   },
   "websiteUrl": "https://alpenbrevet.ch/en/",
+  "imageUrl": "https://alpenbrevet.ch/wp-content/uploads/Tremola-By-Night-Teaser-Image-1425x802-1.jpg",
   "description": "Swiss Cycling Alpenbrevet – Größte Schweizer Amateurradsportveranstaltung (3.250 Teilnehmer) mit Basis in Andermatt: Vier Strecken von 64 km (2.100 Hm) bis zur legendären Platintour 267 km (6.800 Hm) über Gotthard, Furka, Susten und Grimsel. Ausgebucht für 2026; Warteliste aktiv. Auch Tremola by Night (29. Aug.) als Satellite-Event.",
   "distanceKm": 267,
-  "elevationGainM": 6800,
-  "imageUrl": "https://alpenbrevet.ch/wp-content/uploads/Resultate-und-Fotos-Alpenbrevet.jpg"
+  "elevationGainM": 6800
 }

@@ -17,9 +17,10 @@
   "location": {
     "name": "Lohsa – Dreiweiberner See",
     "lat": 51.4133,
-    "lng": 14.2750
+    "lng": 14.275
   },
   "websiteUrl": "https://www.knappenman.com/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/saxe/knappenman-triathon/wkrytjcaqbebhdhzullu",
   "description": "Sparkassen KnappenMan Triathlon am Dreiweiberner See im Lausitzer Seenland: Langdistanz, Mitteldistanz, Olympische Distanz und Sprint. Das renommierte Mehrdistanz-Triathlon-Festival in Sachsen nutzt die renaturierten Tagebauseen der Lausitz als Kulisse. Einzel- und Staffelstart möglich.",
   "distanceKm": 226
 }

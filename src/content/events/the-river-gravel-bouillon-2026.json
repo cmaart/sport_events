@@ -2,7 +2,9 @@
   "id": "the-river-gravel-bouillon-2026",
   "name": "The River Gravel",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "BE",
   "dates": {
     "start": "2026-09-06",
@@ -14,6 +16,7 @@
     "lng": 5.0697
   },
   "websiteUrl": "https://therivergravel.com/",
+  "imageUrl": "https://therivergravel.com/wp-content/uploads/2025/10/the-river-belgium-001.jpg",
   "description": "The River Gravel – Gravel Earth Series-Finale 2026 entlang der Semois in der wallonischen Ardennen-Stadt Bouillon: 160 km Hauptstrecke (70 % Schotter/Waldwege, 30 % Asphalt) mit 1.850 Hm, dazu 120 km und 60 km. Organisiert vom Team hinter The Traka (Girona); das Rennen beschließt die internationale Gravel Earth Series 2026.",
   "distanceKm": 160,
   "elevationGainM": 1850

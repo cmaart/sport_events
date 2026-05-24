@@ -2,7 +2,9 @@
   "id": "inferno-triathlon-2026",
   "name": "Inferno Triathlon",
   "sport": "triathlon",
-  "categories": ["Cross-Triathlon"],
+  "categories": [
+    "Cross-Triathlon"
+  ],
   "country": "CH",
   "dates": {
     "start": "2026-08-15",
@@ -15,8 +17,8 @@
     "lng": 7.8353
   },
   "websiteUrl": "https://inferno.ch/triathlon",
+  "imageUrl": "https://inferno.ch/img/asset/YXNzZXRzL2hlYWRlcnMvMjUwODE2MTAxNDAxX2xvbS5qcGc/250816101401_lom.jpg?fm=webp&w=1600&dpr=1&q=80&s=ff306d4a835b4444c0298bf6dc5aa73b",
   "description": "Einer der härtesten Triathlons der Welt im Berner Oberland: 3 km Schwimmen am Strandbad Thun, 97 km Rennrad und 30 km Mountainbike über ikonische Alpenpässe, 25 km Trailrun hinauf zum Schilthorn (2.970 m ü. M.) vor der Kulisse von Eiger, Mönch und Jungfrau. Nur 333 Startplätze; Schwimmbeginn um 06:30 Uhr, Cutoff um 20:30 Uhr.",
   "distanceKm": 155,
-  "elevationGainM": 5500,
-  "imageUrl": "https://inferno.ch/img/asset/YXNzZXRzL2hlYWRlcnMvMjUwODE2MDYyODM5X2xvbS5qcGc/250816062839_lom.jpg?fm=webp&w=1600&dpr=1&q=80&s=76eac3bac3a784c1b810464b745b3bcd"
+  "elevationGainM": 5500
 }

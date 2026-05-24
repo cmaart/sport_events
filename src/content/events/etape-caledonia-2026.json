@@ -2,7 +2,9 @@
   "id": "etape-caledonia-2026",
   "name": "Étape Caledonia",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "GB",
   "dates": {
     "start": "2026-05-10",
@@ -14,8 +16,8 @@
     "lng": -3.7344
   },
   "websiteUrl": "https://www.etapecaledonia.com/",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/654cef071258367140530ad6/c21e0e61-702c-4498-ad5c-71fee9b4a239/DJI_0105.jpg",
   "description": "Étape Caledonia – Großbritanniens erster und ältester Jedermann-Radmarathon auf komplett gesperrten Straßen in den schottischen Highlands seit 2007. Start und Ziel in Pitlochry, Highland Perthshire. Streckenoptionen 40, 55 oder 85 Meilen (65/90/137 km) durch spektakuläre Berglandschaften mit Ben Lawers und Loch Tay.",
   "distanceKm": 137,
-  "elevationGainM": 1700,
-  "imageUrl": "https://images.squarespace-cdn.com/content/v1/654cef071258367140530ad6/068c0d1b-039d-4224-8587-1a197775644e/DJI_0105.jpg"
+  "elevationGainM": 1700
 }

@@ -14,10 +14,11 @@
   },
   "location": {
     "name": "Kallmünz",
-    "lat": 49.1620,
-    "lng": 11.9490
+    "lat": 49.162,
+    "lng": 11.949
   },
   "websiteUrl": "https://www.atsv-kallmuenz.de/triathlon",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/baviere/district-du-haut-palatinat/kallmunzer-sparkassen/idysvuicy2eflsc04dkt",
   "description": "Kallmünzer Triathlon in Kallmünz an der Naab bei Regensburg in der Oberpfalz, organisiert vom ATSV Kallmünz. Sprintdistanz (600 m Schwimmen) und Olympische Distanz (1.500 m Schwimmen) am Schmidwöhr. Schwimmen im Naabstausee unterhalb der malerischen Burgruine Kallmünz.",
   "distanceKm": 52
 }

@@ -13,10 +13,11 @@
   },
   "location": {
     "name": "Magdeburg",
-    "lat": 52.1540,
-    "lng": 11.6650
+    "lat": 52.154,
+    "lng": 11.665
   },
   "websiteUrl": "https://www.magdeburgertc.de/teamtriathlon.html",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/saxe-anhalt/magdeburger-teamtriathlon/k68plfrpul0juk3otfb3",
   "description": "37. RIEMER-Teamtriathlon des Magdeburger Triathlon Club am Barleber See. Teamformat mit Staffelübergabe: Schwimmen (500 m), Rad (20 km) und Lauf. Zugleich Sachsen-Anhalt-Landesmeisterschaft. Familienfreundliches Event am naturnahen Barleber See nördlich von Magdeburg.",
   "distanceKm": 21
 }

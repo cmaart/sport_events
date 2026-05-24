@@ -14,10 +14,11 @@
   "location": {
     "name": "Riegersburg",
     "lat": 46.9673,
-    "lng": 15.9360,
+    "lng": 15.936,
     "region": "Steiermark"
   },
   "websiteUrl": "https://www.vulkanlandtriathlon.at",
+  "imageUrl": "https://www.vulkanlandtriathlon.at/images/Triathlon26/DSC_6122.jpg",
   "description": "Traditioneller Sprint-Triathlon im oststeirischen Vulkanland, ausgerichtet vom HSV Feldbach. Schwimmen im Badesee, Radstrecke durch das sanfte Hügelland der Vulkanlandschaft, Laufrunde am See. Staffelwertung und Kinderbewerb inklusive. 0,75 km Schwimmen, 20 km Rad, 5 km Laufen.",
   "distanceKm": 26,
   "elevationGainM": 200

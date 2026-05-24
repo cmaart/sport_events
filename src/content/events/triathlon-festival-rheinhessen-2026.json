@@ -15,9 +15,10 @@
   "location": {
     "name": "Wörrstadt",
     "lat": 49.8369,
-    "lng": 8.1000
+    "lng": 8.1
   },
   "websiteUrl": "https://triathlon-festival-rheinhessen.com",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-palatinat/triathlon-festival-rheinhessen/ena7dmbseojecwgrr6jq",
   "description": "Triathlonfestival in der Weinregion Rheinhessen nahe Mainz mit SuperSprint, Sprint, Olympischer Distanz und Staffel-Wettbewerben sowie Kindertriathlon. Idyllische Weinberg-Kulisse zwischen Alzey und Bad Kreuznach. Familienaeres Sommerevent im Herzen des groessten Weinanbaugebiets Deutschlands.",
   "distanceKm": 52,
   "elevationGainM": 300

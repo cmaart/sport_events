@@ -2,7 +2,9 @@
   "id": "challenge-gdansk-2026",
   "name": "Lotto Challenge Gdańsk",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "PL",
   "dates": {
     "start": "2026-06-21",
@@ -10,10 +12,11 @@
   },
   "location": {
     "name": "Gdańsk",
-    "lat": 54.3520,
+    "lat": 54.352,
     "lng": 18.6466
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-gdansk/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/pologne/pomeranie/gdansk/challenge-gdansk/xsa6cfde2qpiy4yvmj42",
   "description": "Lotto Challenge Gdańsk – Mitteldistanz-Triathlon in der Hansestadt an der Ostsee: 1,9 km Schwimmen in der Ostsee, 90 km Rad durch Danzigs Küstenregion und die Kaschubische Seenplatte, 21,1 km Laufen durch die historische Danziger Altstadt mit der prächtigen Langgasse. Polens erstes Challenge-Family-Rennen.",
   "distanceKm": 113
 }
