@@ -2,7 +2,9 @@
   "id": "xterra-france-longemer-2026",
   "name": "XTERRA France",
   "sport": "triathlon",
-  "categories": ["Cross-Triathlon"],
+  "categories": [
+    "Cross-Triathlon"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-07-04",
@@ -11,10 +13,11 @@
   },
   "location": {
     "name": "Xonrupt-Longemer",
-    "lat": 48.0500,
+    "lat": 48.05,
     "lng": 6.9333
   },
   "websiteUrl": "https://www.xterraplanet.com/event/xterra-france",
+  "imageUrl": "https://xterra-france.com/wp-content/uploads/vignette-france.jpg",
   "description": "XTERRA France am malerischen Lac de Longemer in den Vogesen: Schwimmen im glasklaren Bergsee, 40 km Mountainbike (1.300 Hm) durch die Vogesen-Wälder und 10 km Geländelauf (300 Hm). Teil der XTERRA World Tour EMEA Series; zudem Sprint- und Jugendrennen am Wochenende.",
   "distanceKm": 52
 }
