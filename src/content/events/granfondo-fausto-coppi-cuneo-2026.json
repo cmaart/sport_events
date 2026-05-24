@@ -2,7 +2,9 @@
   "id": "granfondo-fausto-coppi-cuneo-2026",
   "name": "La Granfondo Fausto Coppi",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-06-28",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.faustocoppi.net/new/",
   "description": "La Granfondo Fausto Coppi – 37. Ausgabe des Klassikers im Piemont: Granfondo 172 km (4.300 Hm) mit dem König Colle Fauniera (22,3 km, ø7%, 2.481 m) als Schlüsselanstieg. Mediofondo 111 km. Start und Ziel in Cuneo, wo Coppi selbst lebte und trainierte. Einer der bedeutendsten Herbstgranfondos Italiens.",
   "distanceKm": 172,
-  "elevationGainM": 4300
+  "elevationGainM": 4300,
+  "imageUrl": "https://www.faustocoppi.net/new/wp-content/uploads/2026/05/maglia_home-900x750.png"
 }

@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.dartmoorclassic.co.uk/",
   "description": "Dartmoor Classic Sportive in Buckfastleigh (Devon, England): Grande 173 km / 2.777 Hm, Medio 107 km oder Piccolo 74 km. Bis zu 25% Steigung am Haytor; gesperrter Bergwertungsabschnitt. Regelmäßig ausgebucht mit 4.000 Teilnehmern; eines der anspruchsvollsten Sportives Großbritanniens.",
   "distanceKm": 173,
-  "elevationGainM": 2777
+  "elevationGainM": 2777,
+  "imageUrl": "https://cdn.prod.website-files.com/62f510db04e067c74adaae56/685bb43108103abf97ec5cbd_Dartmoor-Classic-2025---start.jpg"
 }
