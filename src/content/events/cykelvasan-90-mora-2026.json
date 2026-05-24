@@ -16,5 +16,6 @@
   "websiteUrl": "https://vasaloppet.se/en/bike/cykelvasan-90/",
   "description": "Cykelvasan 90 – Schwedischer Gravel-Klassiker auf dem Vasaloppet-Weg von Sälen nach Mora: 95 km auf Waldwegen und Forstwegen (ca. 820 Hm) entlang der Originalroute des berühmten Skimarathons. Teil der Vasaloppet-Woche; offen für Road-, Gravel- und Mountainbikes.",
   "distanceKm": 95,
-  "elevationGainM": 820
+  "elevationGainM": 820,
+  "imageUrl": "https://s3.eu-de.cloud-object-storage.appdomain.cloud/vasaloppet-costest-static-web-hosting-myg/2025/11/2025_UP_CV_0628-1024x683.jpg"
 }

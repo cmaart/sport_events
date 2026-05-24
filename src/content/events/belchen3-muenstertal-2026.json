@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.hirsch-sprung.com/kurse-reisen-events/rennrad-langstrecken-event-trinational-belchen-hoch3/",
   "description": "Trinationaler Rennrad-Marathon im Schwarzwald: Die drei Routen verbinden den deutschen Belchen, die Schweizer Belchenflue und den französischen Grand Ballon. Belchen Speed (120 km/2.500 Hm), Ballon Battle (220 km/3.000 Hm) und das Flaggschiff Belchen³ Classic (320 km/4.200 Hm). Start/Ziel an der Belchenhalle Münstertal. Gewinnerin des Trinationalen Sportpreises.",
   "distanceKm": 320,
-  "elevationGainM": 4200
+  "elevationGainM": 4200,
+  "imageUrl": "https://www.hirsch-sprung.com/wp-content/uploads/2025/11/belchen-hoch-3-header.jpg"
 }

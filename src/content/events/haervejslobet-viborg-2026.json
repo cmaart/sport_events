@@ -16,5 +16,6 @@
   "websiteUrl": "https://denmark.letapeseries.com/",
   "description": "Hærvejsløbet / L'Étape Denmark – Offizielles L'Étape-Series-Rennen in Jütland mit Ziel in Viborg: Fünf Streckenvarianten von 50 bis 300 km (kürzeste ab Funder, längste von Flensburg/DE) mit 400 bis 2.500 Hm entlang des historischen Hærvejen-Pilgerwegs durch die jütländische Heide- und Hügellandschaft.",
   "distanceKm": 300,
-  "elevationGainM": 2500
+  "elevationGainM": 2500,
+  "imageUrl": "https://denmark.letapeseries.com/uploads/opengraph/3906b3d7de52f6622fae6b74d4d214c034bbe681.jpg"
 }

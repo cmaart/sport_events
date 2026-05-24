@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://tortour.com/en/",
   "description": "TORTOUR Ultracycling in Schaffhausen: Nonstop-Ultradistanz 1.000 km, 500 km oder 250 km durch die Schweiz sowie Einstiegsdistanz 50 km. Solo oder Team. Weltgrößtes Nonstop-Ultracycling-Event kehrt nach 6 Jahren nach Schaffhausen zurück.",
-  "distanceKm": 1000
+  "distanceKm": 1000,
+  "imageUrl": "https://tortour.com/wp-content/uploads/11802_20240712_164032_384052459_original-1.jpg"
 }

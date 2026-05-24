@@ -2,7 +2,9 @@
   "id": "bad-waldsee-radmarathon-2026",
   "name": "Bad Waldsee Radmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-09-26",
@@ -18,5 +20,6 @@
   "websiteUrl": "https://www.badwaldsee-radmarathon.de/",
   "description": "Radmarathon durch die Seenlandschaft des Allgäus mit Start und Ziel an der Grabenmühle in Bad Waldsee. Vier Streckenoptionen: 80 km Genuss-Tour (730 Hm), 100 km Gravel (1.050 Hm), 125 km Straße (1.240 Hm) und 205 km Marathon (2.320 Hm). Die Erstausgabe verbindet sportliche Herausforderung mit dem Charme der oberschwäbischen Seen- und Moorlandschaft.",
   "distanceKm": 205,
-  "elevationGainM": 2320
+  "elevationGainM": 2320,
+  "imageUrl": "https://static.wixstatic.com/media/410be6_e9d06e54c4e9465aa0742a2ef9743d52%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/410be6_e9d06e54c4e9465aa0742a2ef9743d52%7Emv2.jpeg"
 }

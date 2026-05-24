@@ -20,5 +20,6 @@
   "websiteUrl": "https://altmuehltal-radmarathon.de/",
   "description": "Einer der schoensten Radmarathons Bayerns durch die Kalksteintaeler und Juradoerfer des Altmuehltals im Naturpark. Rennradstrecken 120 bis 200 km / 2.300 Hm sowie reine Gravelstrecken 60 bis 120 km. Ohne Zeitnahme und Wettkampfdruck.",
   "distanceKm": 200,
-  "elevationGainM": 2300
+  "elevationGainM": 2300,
+  "imageUrl": "https://altmuehltal-radmarathon.de/wp-content/uploads/sites/4/2025/11/251110_Background.jpg"
 }
