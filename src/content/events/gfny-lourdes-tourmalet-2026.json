@@ -18,5 +18,6 @@
   "websiteUrl": "https://lourdes.gfny.com/",
   "description": "GFNY Lourdes Tourmalet in den Pyrenäen: Lange Strecke 157 km/4.000 Hm über Col d'Aspin (1.489 m) und Col du Tourmalet (2.115 m, 17,1 km Auffahrt). Médio 99 km über den Tourmalet. Start in Lourdes, dem berühmten Wallfahrtsort am Fuß der Pyrenäen.",
   "distanceKm": 157,
-  "elevationGainM": 4000
+  "elevationGainM": 4000,
+  "imageUrl": "https://lourdes.gfny.com/wp-content/uploads/sites/61/2021/04/lourdes-tourmalet.png"
 }

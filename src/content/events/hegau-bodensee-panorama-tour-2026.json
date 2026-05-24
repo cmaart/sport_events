@@ -1,0 +1,21 @@
+{
+  "id": "hegau-bodensee-panorama-tour-2026",
+  "name": "Hegau-Bodensee-Panorama-Tour",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Orsingen-Nenzingen",
+    "lat": 47.8494,
+    "lng": 8.9447,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://hegau-panorama-tour.de",
+  "description": "Hegau-Bodensee-Panorama-Tour rund um den Hegau zwischen Bodensee und Schwarzwald. Fünf Streckenvarianten von 74 km (1.000 Hm) bis 216 km (3.000 Hm). Start und Ziel in Orsingen-Nenzingen nahe Singen.",
+  "distanceKm": 216,
+  "elevationGainM": 3000
+}

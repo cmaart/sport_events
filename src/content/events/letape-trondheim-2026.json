@@ -16,5 +16,6 @@
   "websiteUrl": "https://trondheim.letapeseries.com/",
   "description": "L'Étape Trondheim – das weltweit erste L'Étape-Series-Event in Norwegen: Wettkampfkurs 130 km / 1.570 Hm durch das fjordreiche Bergland rund um Trondheim. Alternativ Freizeitstrecke 75 km / 1.058 Hm. Mehr als 3.000 Anmeldungen. Teil der offiziellen L'Étape-by-Tour-de-France-Serie.",
   "distanceKm": 130,
-  "elevationGainM": 1570
+  "elevationGainM": 1570,
+  "imageUrl": "https://trondheim.letapeseries.com/uploads/blocks/Yellow_Bird_Poster_L%27%C3%89tape_Trondheim_Web_v2.jpg"
 }

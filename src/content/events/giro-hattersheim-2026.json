@@ -1,0 +1,21 @@
+{
+  "id": "giro-hattersheim-2026",
+  "name": "Giro Hattersheim",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hattersheim am Main",
+    "lat": 50.0663,
+    "lng": 8.4828,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.rc-hattersheim.de",
+  "description": "39. Giro Hattersheim – Radmarathon westlich von Frankfurt. Streckenvarianten von 23 km (Familytour) bis 219 km / 3.300 Hm (Feldbergmarathon). Mitteltour 112 km / 1.460 Hm, Feldbergrunde 161 km / 2.480 Hm. Veranstalter: RC Hattersheim.",
+  "distanceKm": 219,
+  "elevationGainM": 3300
+}
