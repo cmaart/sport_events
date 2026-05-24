@@ -2,7 +2,9 @@
   "id": "granfondo-laigueglia-2026",
   "name": "Granfondo Laigueglia",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-02-22",
@@ -15,6 +17,7 @@
     "lng": 8.1587
   },
   "websiteUrl": "https://granfondolaigueglia.it/en/",
+  "imageUrl": "https://granfondolaigueglia.it/wp-content/uploads/Pozzetto_e_Aime-News-Header.jpg",
   "description": "Klassische Ligurische Granfondo am Saisonauftakt: 112 km / 1.700 Hm entlang der ligurischen Riviera di Ponente mit Capo Mele, Capo Cervo und Capo Berta. Traditionell das Eröffnungsrennen des Gran Fondo Seasons an der wintermilden Küste zwischen Alassio und Albenga.",
   "distanceKm": 112,
   "elevationGainM": 1700

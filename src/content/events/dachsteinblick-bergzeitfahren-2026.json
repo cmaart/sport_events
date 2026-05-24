@@ -2,7 +2,10 @@
   "id": "dachsteinblick-bergzeitfahren-2026",
   "name": "Dachsteinblick Bergzeitfahren Nussdorf am Attersee",
   "sport": "cycling",
-  "categories": ["Zeitfahren", "Berg"],
+  "categories": [
+    "Zeitfahren",
+    "Berg"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-07-24",
@@ -15,6 +18,7 @@
     "lng": 13.5269
   },
   "websiteUrl": "https://www.bistrobox.com/dachsteinblick/",
+  "imageUrl": "https://www.bistrobox.com/wp-content/uploads/2023/03/Bergzeitfahren-Titelbild-2019Facebook-1.jpeg",
   "description": "Das Dachsteinblick Bergzeitfahren führt von Nussdorf am Attersee über die Limbergstraße zur Jausenstation Dachsteinblick. Der 4,2 km lange Kurs überwindet 271 Höhenmeter mit Steigungen bis 16 Prozent und bietet spektakuläre Aussichten auf den Attersee. Das Einzelzeitfahren ist für alle Rennrad- und Gravel-Fahrer offen.",
   "distanceKm": 4,
   "elevationGainM": 271

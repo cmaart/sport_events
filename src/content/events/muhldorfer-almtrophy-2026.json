@@ -2,7 +2,10 @@
   "id": "muhldorfer-almtrophy-2026",
   "name": "Mühldorfer Almtrophy",
   "sport": "cycling",
-  "categories": ["Gravel", "Berg"],
+  "categories": [
+    "Gravel",
+    "Berg"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-08-22",
@@ -15,6 +18,7 @@
     "lng": 13.3628
   },
   "websiteUrl": "https://www.eisenwadl.com/",
+  "imageUrl": "https://www-static.eisenwadl.com/wp-content/uploads/cropped-cropped-cropped-cropped-RC-MTB-Startseite.jpeg",
   "description": "Die Mühldorfer Almtrophy führt von Möllbrücke über 12 km und 980 Höhenmeter zur Klinghütte auf der Mühldorfer Alm in Kärnten. Die 14. Auflage ist für MTB, Gravelbike und E-Bike ausgeschrieben; MTB/Gravel starten um 09:00 Uhr. Ein Kinderrennen rundet das Programm ab.",
   "distanceKm": 12,
   "elevationGainM": 980
