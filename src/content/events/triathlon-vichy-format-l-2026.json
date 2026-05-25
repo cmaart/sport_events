@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://triathlondevichy.com/",
   "description": "Triathlon de Vichy Format L in Bellerive-sur-Allier (Allier): 2,0 km / 87 km + 620 Hm / 20 km. Lokales Vereinsrennen als Teil des Triathlon de Vichy, eigenständig neben dem IRONMAN-Weekend. Qualifiziert als Französische Langdistanz-Meisterschaft.",
-  "distanceKm": 109
+  "distanceKm": 109,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/auvergne-rhone-alpes/allier/triathlon-de-vichy/un9n302gfthgoa7yph5t"
 }
