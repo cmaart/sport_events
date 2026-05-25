@@ -1,5 +1,37 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-05-25 (Session 4)
+
+## Current state (after Session 4 – PARTIAL):
+- **Total events: 711** (714 from Session 3 – 3 removed)
+- Events with imageUrl: **~260** (up from 195)
+- Removed: arbo-kaernten-radmarathon (dup), vienna-donauinsel-triathlon (dup), grazer-altstadtkriterium (cancelled), uci-granfondo-suisse (dup of the-majestics-villars)
+
+## Changes made this session (Session 4):
+
+### Removed events:
+- `arbo-kaernten-radmarathon-2026` — duplicate of `kaernten-radmarathon-2026`
+- `vienna-donauinsel-triathlon-2026` — duplicate of `vienna-triathlon-2026`
+- `grazer-altstadtkriterium-2026` — last edition 2022, no 2026 announcement on official site
+- `uci-granfondo-suisse-2026` — duplicate of `the-majestics-villars-2026` (ucigranfondosuisse.com redirects to themajestics.ch)
+
+### New events added:
+- `brockenheroes-bergzeitfahren-2026` — DE, Zeitfahren, Schierke, Sep 26 (confirmed official site)
+- `dachsteinblick-bergzeitfahren-2026` — AT, Zeitfahren, Nußdorf am Attersee, Jul 24 (confirmed)
+- `loser-bergzeitfahren-altaussee-2026` — AT, Zeitfahren, Altaussee, Sep 26 (date unconfirmed)
+- `hegau-bodensee-panoramatour-2026` — DE, Radmarathon, Orsingen-Nenzingen, Jun 7 (confirmed)
+- `giro-hattersheim-2026` — DE, Radmarathon, Hattersheim am Main, Jun 7 (confirmed)
+
+### imageUrl additions (~70+ events):
+- AT events: alpentour-trophy, mondsee-5-seen-radmarathon, kapfensteiner-radmarathon, thayarunde-radmarathon, thiersee-triathlon, zugspitz-arena-gravel-triathlon, aloha-tri-mondseeland, lidl-tour-of-austria, pannonia-gravel-moerbisch, triathlon-bregenz, in-velo-veritas-korneuburg
+- DE triathlon: moret-triathlon-babenhausen (new), bochum, ratingen, knappenman, nordseeman, stadtparktriathlon-hamburg, fehmarn, erlanger, woerthsee, muenster-city, ostseeman-gluecksburg (all previously applied in earlier batch per previous session work)
+- Challenge events: challenge-sanremo, challenge-vieux-boucau, challenge-gdansk, challenge-turku, challenge-the-championship-samorin
+- International: triathlon-deauville, nordsjorittet-egersund, swissman-xtreme-triathlon, granfondo-gavia-mortirolo, marmotte-granfondo-alpes, altriman-les-angles, ariegeoise-cyclosportive, dolomites-bike-day-corvara, europe-triathlon-multisport-banyoles, gran-triatlon-madrid, gt3-lavaredo-gravel, la-pyreneenne-bagneres
+
+### Duplicate detection notes:
+- vienna-donauinsel-triathlon = vienna-triathlon (same date Sep 12-13, same location Donauinsel, same website vienna-triathlon.at)
+- grazer-altstadtkriterium: official website still shows 2024 cancelled, last edition was 2022
+
 ## Session date: 2026-05-21 (Session 3)
 
 ## Current state (after this session – FINAL):
