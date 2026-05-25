@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.cyclosport-ariegeoise.com/",
   "description": "L'Ariégeoise Cyclosportive (30. Auflage) in den Pyrenäen: Ariégeoise 169 km / 4.500 Hm mit Col de Pailhères (2.001 m) und Plateau de Beille (1.785 m, 16 km/7,9 %) als Schlussanstieg. Jubiläums-XXL-Variante 310 km / 8.250 Hm. Weitere Distanzen: Mountagnole 124 km / 2.850 Hm, Rapaillou 92 km / 2.200 Hm. Start in Tarascon-sur-Ariège.",
   "distanceKm": 169,
-  "elevationGainM": 4500
+  "elevationGainM": 4500,
+  "imageUrl": "https://www.cyclosport-ariegeoise.com/wp-content/uploads/2026/02/Ariegeoise-Post-facebook-3.jpg"
 }
