@@ -20,5 +20,6 @@
   "websiteUrl": "https://sparkassen-triathlon-dortmund.de",
   "description": "Triathlonevent in der Ruhrgebiet-Metropole Dortmund, praesentiert von Sparkasse. Sprint und Olympische Distanz mit Schwimmen in einem Dortmunder Badesee, Radstrecke durch das Ruhrgebiet und Laufkurs. Groesster Triathlon im Ruhrgebiet mit starker Vereinstradition in der Revierstadt.",
   "distanceKm": 52,
-  "elevationGainM": 250
+  "elevationGainM": 250,
+  "imageUrl": "https://sparkassen-triathlon-dortmund.de/wp-content/uploads/2024/04/cropped-Titel-Homepage-mit-Logo.png"
 }

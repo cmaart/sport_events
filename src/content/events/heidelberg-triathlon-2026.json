@@ -19,5 +19,6 @@
   "websiteUrl": "https://heidelberg-triathlon.de",
   "description": "Triathlonevent in der Universitaetsstadt Heidelberg am Neckar mit 1,6 km Schwimmen, 36 km Radstrecke und 10 km Laufen. Einer der schoensten Stadttriathlons suedwestdeutschlands mit Schloss und Altstadt-Kulisse. Attraktiver Naturkurs durch die Heidelberger Umgebung.",
   "distanceKm": 48,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://heidelberg-triathlon.de/assets/images/HeidelbergMan2024_280724_ak_005-b106a0df61b77da8ce90ef00bd536b9c.JPG"
 }

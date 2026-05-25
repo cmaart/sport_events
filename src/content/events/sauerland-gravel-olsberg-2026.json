@@ -2,7 +2,9 @@
   "id": "sauerland-gravel-olsberg-2026",
   "name": "Sauerland Gravel REMBikE Festival",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-07-12",
@@ -17,5 +19,6 @@
   },
   "websiteUrl": "https://www.liquid-life.de/pages/sauerland-gravel-event",
   "description": "Gravel-Veranstaltung im Sauerland am Fuß der markanten Bruchhauser Steine, einem der bekanntesten Naturdenkmäler der Region. Drei Streckenvarianten über 35, 70 und 105 km führen durch die hügelige Mittelgebirgslandschaft des Hochsauerlandes. Das Festival umfasst zudem einen MTB-Kidsrace, geführte E-Bike-Tour und eine Bike-Expo mit Testmöglichkeiten.",
-  "distanceKm": 105
+  "distanceKm": 105,
+  "imageUrl": "https://www.liquid-life.de/cdn/shop/files/Sauerland_Gravel_Event_2025_Specialized.webp"
 }

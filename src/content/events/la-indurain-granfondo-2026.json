@@ -18,5 +18,6 @@
   "websiteUrl": "https://laindurain.com/en/",
   "description": "La Indurain Gran Fondo in Navarra: Granfondo 180 km / 3.130 Hm, Mediofondo 100 km / 1.452 Hm oder Kurzstrecke 60 km / 700 Hm. Start in Villava, dem Heimatort von 5-fach Tour-de-France-Sieger Miguel Induráin. Route durch Navarra mit mehreren Kategorie-1-Anstiegen in den Pyrenäen-Ausläufern.",
   "distanceKm": 180,
-  "elevationGainM": 3130
+  "elevationGainM": 3130,
+  "imageUrl": "https://laindurain.com/wp-content/uploads/2024/11/La_Indurain_2024_34482.jpg"
 }

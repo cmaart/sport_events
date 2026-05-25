@@ -20,5 +20,6 @@
   "websiteUrl": "https://muenster-triathlon.de",
   "description": "Stadtmitte-Triathlon in Münster mit Schwimmen im Aasee, Radstrecke durch das Muensterland und Lauf durch die Innenstadt. Olympische und Sprint-Distanz mit mehreren Deutschen Meisterschaften im Rahmen des Wettkampfs. Einer der beliebtesten Stadtrand-Triathlons in NRW.",
   "distanceKm": 51,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://muenster-triathlon.de/wp-content/uploads/TORBENFLA_202506221049167709-1024x683.jpg"
 }

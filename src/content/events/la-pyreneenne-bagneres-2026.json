@@ -2,7 +2,9 @@
   "id": "la-pyreneenne-bagneres-2026",
   "name": "Cyclosportive La Pyrénéenne",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "FR",
   "dates": {
     "start": "2026-07-05",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.lapyreneennecyclo.com/",
   "description": "Cyclosportive La Pyrénéenne – 20. Jubiläumsausgabe des großen Pyrenäen-Granfondos von Bagnères-de-Bigorre: Gran Fondo 4 Vallées 173 km (3.808 Hm) mit optionalem Ziel am Col du Tourmalet (La Mongie) oder Extrême-Variante 174 km (4.613 Hm). Auch 2 Vallées-Kürzer (100 km) verfügbar.",
   "distanceKm": 173,
-  "elevationGainM": 3808
+  "elevationGainM": 3808,
+  "imageUrl": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/6225675/74269_558651.jpeg"
 }

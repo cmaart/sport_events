@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.triathlon-schluchsee.de",
   "description": "Internationaler Schwarzwald-Cup und Triathlonliga-Finale am Schluchsee im Hochschwarzwald. Rund 500 Athletinnen und Athleten auf Olympischer Distanz: 1,5 km Schwimmen im klaren Bergsee, 36 km Rad durch den Hochschwarzwald, 9,6 km Lauf. Atemberaubende Naturkulisse auf 930 m Seehöhe.",
   "distanceKm": 47,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://www.hochschwarzwald.de/_Resources/Persistent/f15bad21672f94ea366e90998fa426c14e775637/Schluchseetriathlon%202014_High%20Res_4179-1024x768.jpg"
 }
