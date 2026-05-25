@@ -13,10 +13,11 @@
   "location": {
     "name": "Thann",
     "lat": 47.8115,
-    "lng": 7.1030
+    "lng": 7.103
   },
   "websiteUrl": "https://grandballon.gfny.com/",
   "description": "GFNY Grand Ballon in den Vogesen (Elsass): Lange Strecke 147 km/4.043 Hm über den Grand Ballon (höchster Gipfel der Vogesen, 1.424 m); Médio 70 km/1.826 Hm. Start in der historischen Altstadt von Thann an der Elsässer Weinstraße.",
   "distanceKm": 147,
-  "elevationGainM": 4043
+  "elevationGainM": 4043,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/grand-est/haut-rhin/gfny-grand-ballon/q8lkfpvjhts4yvbnz91h"
 }

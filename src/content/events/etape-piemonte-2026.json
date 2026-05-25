@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.letapeitaly.it/",
   "description": "L'Étape Piemonte by Tour de France in den piemontesischen Seealpen: Granfondo 145 km (2.894 Hm) und Mediofondo 115 km (2.184 Hm) rund um Entracque im Cuneo-Tal. Highlight: Colle delle Goderie (5 km, Ø 11 %). Teil der offiziellen L'Étape-by-Tour-de-France-Serie.",
   "distanceKm": 145,
-  "elevationGainM": 2894
+  "elevationGainM": 2894,
+  "imageUrl": "https://letapeitaly.it/wp-content/uploads/2026/05/688767134_17874016176657968_2948804194116204876_n-scaled.jpg"
 }

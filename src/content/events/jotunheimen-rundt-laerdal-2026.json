@@ -2,7 +2,9 @@
   "id": "jotunheimen-rundt-laerdal-2026",
   "name": "Jotunheimen Rundt",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "NO",
   "dates": {
     "start": "2026-06-19",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.jotunheimenrundt.no/",
   "description": "Jotunheimen Rundt – Norwegens härteste Radsportive: 430 km (4.609 Hm) auf einer Umrundung des Jotunheimen-Gebirges durch Fjord- und Hochgebirgslandschaft ab Lærdal in Westfjord. Organisiert seit 1991 vom Sogn Cykleklubb; keine Massenveranstaltung, aber eine der anspruchsvollsten Radtouren Europas.",
   "distanceKm": 430,
-  "elevationGainM": 4609
+  "elevationGainM": 4609,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/6707c1181041a25f8303350d/e0923d69-a634-44d7-9398-9890187dfa16/_80B7101.jpg"
 }

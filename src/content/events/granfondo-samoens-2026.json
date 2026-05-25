@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.granfondo-samoens.com/en",
   "description": "Gran Fondo Samoëns in der Haute-Savoie: Zweitägige Veranstaltung mit 270 km / 8.280 Hm Gesamtstrecke durch die Giffre-Bergwelt. Highlights: Col de Joux Plane, Col de Joux Verte, Col de la Ramaz, Col de la Colombière. Jede Etappe (Sa/So, je ca. 135 km) kann auch einzeln gefahren werden.",
   "distanceKm": 270,
-  "elevationGainM": 8280
+  "elevationGainM": 8280,
+  "imageUrl": "https://static.wixstatic.com/media/0c6c0f_93f77c8a6f824cfb88797e1bc97b5626~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_80/0c6c0f_93f77c8a6f824cfb88797e1bc97b5626~mv2.jpg"
 }
