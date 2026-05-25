@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://granfondoalbertocontador.com/en/",
   "description": "Gran Fondo Alberto Contador TotalEnergies in Oliva Nova (Valencia): 146 km oder 115 km durch die valencianische Küsten- und Berglandschaft. 15. Auflage; UCI-anerkannte Veranstaltung mit Beteiligung von Alberto Contador. Start und Ziel im Strandresort Oliva Nova.",
-  "distanceKm": 146
+  "distanceKm": 146,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/espagne/comunidad-valenciana/province-de-valence/gran-fondo-alberto-contador/un8suht6zrmvpnqx211l"
 }
