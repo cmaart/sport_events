@@ -14,11 +14,12 @@
   },
   "location": {
     "name": "Ravensburg",
-    "lat": 47.7820,
+    "lat": 47.782,
     "lng": 9.6116
   },
   "websiteUrl": "https://triathlon-dav-ravensburg.de",
   "description": "41. Ausgabe des traditionsreichen Ravensburger Triathlons, ausgetragen vom DAV Ravensburg. 2026 gleichzeitig Baden-Württemberg Sprintmeisterschaft. Olympische und Sprintdistanz im Herzen von Oberschwaben. Beliebtes Breitensportevent mit familienfreundlicher Atmosphäre.",
   "distanceKm": 51,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/district-de-tubingen/ravensburger-triathlon/btcfhakttjgiaa8pbl3i"
 }

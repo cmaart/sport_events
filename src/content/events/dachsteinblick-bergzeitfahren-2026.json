@@ -1,0 +1,21 @@
+{
+  "id": "dachsteinblick-bergzeitfahren-2026",
+  "name": "Dachsteinblick Bergzeitfahren",
+  "sport": "cycling",
+  "categories": ["Zeitfahren", "Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nußdorf am Attersee",
+    "lat": 47.89,
+    "lng": 13.514,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.bistrobox.com/dachsteinblick/",
+  "description": "Bergzeitfahren in Einzelstart-Format am Attersee (Oberösterreich): 4,2 km mit 271 Höhenmetern, maximale Steigung 16 %, Durchschnitt 6,4 %. Start an der Limbergstraße, Ziel bei der Jausenstation Dachsteinblick mit Panoramablick auf Attersee und Dachsteinmassiv. Zugelassen für Rennrad und Mountainbike, 30-Sekunden-Intervalle.",
+  "distanceKm": 4,
+  "elevationGainM": 271
+}

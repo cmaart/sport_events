@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.thayarunde.eu/radmarathon/",
   "description": "Radmarathon im nördlichen Waldviertel und Teil der Austria Top Tour. Hauptrennen über 100 km durch das sanftwellige Thayaland mit 1.200 Höhenmetern am Sonntag um 08:30 Uhr; optional Zeitfahren am Samstag. Start und Ziel am Hauptplatz Waidhofen an der Thaya.",
   "distanceKm": 100,
-  "elevationGainM": 1200
+  "elevationGainM": 1200,
+  "imageUrl": "https://www.thayarunde.eu/wp-content/uploads/2024/11/WT_1_Rad_Marathon_ab2025_FINAL.jpg"
 }

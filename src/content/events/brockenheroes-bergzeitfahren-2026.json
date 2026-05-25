@@ -1,0 +1,22 @@
+{
+  "id": "brockenheroes-bergzeitfahren-2026",
+  "name": "Brockenheroes Bergzeitfahren",
+  "sport": "cycling",
+  "categories": ["Zeitfahren", "Berg"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schierke",
+    "lat": 51.7596,
+    "lng": 10.6533,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://brockenheroes.de/",
+  "description": "Bergzeitfahren auf den Brocken im Harz: 11,2 km vom tiefsten Punkt Schierkes bis zum Brockengipfel (1.141 m) als Einzelzeitfahrt. Kombiniert mit Bergzeitlauf, MTBO-Orientierungsfahrt und Staffelwettbewerb. Das Event-Motto – gegen die Zeit, den Berg, das Wetter, sich selbst – steht für alpine Bedingungen und echten Breitensport-Charakter.",
+  "distanceKm": 11,
+  "elevationGainM": 550,
+  "imageUrl": "https://brockenheroes.de/wp-content/uploads/2026/03/Brockenheroes-Start-Villa-Bodeblick--1024x445.png"
+}

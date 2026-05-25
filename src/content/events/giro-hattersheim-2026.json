@@ -1,0 +1,21 @@
+{
+  "id": "giro-hattersheim-2026",
+  "name": "Giro Hattersheim – Feldbergmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hattersheim am Main",
+    "lat": 50.0678,
+    "lng": 8.4628,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.rc-hattersheim.de/de/veranstaltungen/39-giro-hattersheim-2026/",
+  "description": "Radmarathon vom Main in den Taunus mit fünf Distanzen (23–214 km, bis 3.260 Hm). Das Marathon führt über den Feldberg (878 m), höchsten Gipfel des Taunus, durch die Wälder und Täler des Rheingau-Taunus-Kreises. Highlight für Kletterer: über 3.000 Höhenmeter auf der Langstrecke. Start und Ziel am Heinrich-Böll-Schulgelände in Hattersheim.",
+  "distanceKm": 214,
+  "elevationGainM": 3260
+}

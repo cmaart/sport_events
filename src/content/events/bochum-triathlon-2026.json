@@ -19,5 +19,6 @@
   },
   "websiteUrl": "https://bochum-triathlon.de/",
   "description": "5. Familien-Triathlon im Herzen des Ruhrgebiets, Schwimmen im beheizten 50-m-Freibad Bochum. Radkurs auf gesperrten Strassen ueber Koeningsallee, Laufstrecke im Wiesental Park. Sprint, Olympisch, Schnupperdistanz und Familien-Triathlon organisiert vom SV Blau-Weiss Bochum 1896.",
-  "distanceKm": 52
+  "distanceKm": 52,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-darnsberg/stadtwerke-bochum-triathlon/i1civ9aemkuzuriov0zp"
 }

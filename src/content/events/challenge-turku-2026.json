@@ -2,7 +2,9 @@
   "id": "challenge-turku-2026",
   "name": "Challenge Turku",
   "sport": "triathlon",
-  "categories": ["Mitteldistanz"],
+  "categories": [
+    "Mitteldistanz"
+  ],
   "country": "FI",
   "dates": {
     "start": "2026-07-26",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-turku/",
   "description": "Challenge Turku – Mitteldistanz-Triathlon in Finnlands ältester Stadt: 1,9 km Schwimmen im Aurajoki (Aura-Fluss) mitten in Turku, 90 km Rad durch den finnischen Schärengarten und Südwestfinnlands Wälder, 21,1 km Laufen entlang der Flusspromenaden und durch die mittelalterliche Innenstadt.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://challenge-turku.com/wp-content/uploads/sites/21/2025/10/nz85273.jpg"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://triathlon-bielefeld.de",
   "description": "30. Bielefelder Triathlon mit Schwimmen im 50-m-Freibad Senner Waldbad, Radstrecke durch das Bielefelder Umland und Laufkurs. Jubilaeum der Nordrhein-Westfaelischen Vereinsveranstaltung in der Ostwestfalen-Lippe-Region. Traditionsevent mit langjaehriger Geschichte.",
   "distanceKm": 52,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-detmold/bielefelder-triathlon/yl040xocecrnnszeu6rz"
 }

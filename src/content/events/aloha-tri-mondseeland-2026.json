@@ -23,5 +23,6 @@
   "registrationUrl": "https://time2win.at/event/895",
   "description": "Einer der landschaftlich schönsten Triathlons Österreichs mit Schwimmstrecke im Mondsee und Radrunde durchs Salzkammergut zum Attersee. Sprint, Kurz und Mitteldistanz (110 km), zusätzlich Aquabike und Bike+Run.",
   "distanceKm": 110,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://triathlon-mondsee.at/wp-content/uploads/2024/08/aloha-tri-mondseeland-mitteldistanz.jpg"
 }

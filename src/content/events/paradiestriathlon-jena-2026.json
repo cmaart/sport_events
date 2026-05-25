@@ -20,5 +20,6 @@
   "websiteUrl": "https://triathlon.de",
   "description": "Triathlonevent in der Saalestadt Jena mit Schwimmen im Paradies-Bad, Radstrecke durch das Saaletal und Laufkurs entlang der Saale. Olympische und Sprint-Distanz in der Universitaetsstadt Jena im thueringischen Saaletal. Traditionelles Veranstaltungsformat mit Vereinsstruktur.",
   "distanceKm": 52,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/thuringe/chromecars-paradiestriathlon/jeas7j0iyb4vm5ml0ltv"
 }

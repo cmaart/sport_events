@@ -21,5 +21,6 @@
   "websiteUrl": "https://zugspitz-triathlon.at",
   "description": "Österreichs erster offizieller Gravel-Triathlon – und damit Premiere in der gesamten DACH-Region. Schwimmen im kristallklaren Heiterwanger See auf 994 m Seehöhe, Radkurs auf Schotter- und Naturwegen durch die Tiroler Zugspitz Arena, Lauf rund um den See. Sprint- und Kurzdistanz. Veranstalter: ALOHA SPORT.",
   "distanceKm": 30,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://zugspitz-triathlon.at/wp-content/uploads/2025/12/gravel_post_header.jpg"
 }

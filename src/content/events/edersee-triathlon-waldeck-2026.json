@@ -20,5 +20,6 @@
   "websiteUrl": "https://edersee-triathlon.de",
   "description": "41. Ausgabe des Waldecker Edersee-Triathlons am malerischen Edersee in Nordhessen. Sprint- und Olympische Distanz mit Schwimmen im Edersee, Radstrecke mit 307 m Hoehenunterschied durch den Nordhessischen Wald und Laufkurs. Einer der aeltesten und beliebtesten Triathlons in Hessen mit familiaerem Charakter.",
   "distanceKm": 52,
-  "elevationGainM": 500
+  "elevationGainM": 500,
+  "imageUrl": "https://edersee-triathlon.de/files/Slider-Edersee-Triathlon-01.jpg"
 }

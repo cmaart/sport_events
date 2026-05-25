@@ -1,0 +1,21 @@
+{
+  "id": "loser-bergzeitfahren-altaussee-2026",
+  "name": "Loser Bergzeitfahren",
+  "sport": "cycling",
+  "categories": ["Zeitfahren", "Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Altaussee",
+    "lat": 47.6415,
+    "lng": 13.9325,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.salzkammergut-trophy.at/",
+  "description": "Bergzeitfahren auf den Loser (1.838 m), den Haussberg von Altaussee im Salzkammergut: 9 km Anstieg mit 750 Höhenmetern vom Altausseer See-Niveau (850 m) bis auf 1.600 m mit 15 Serpentinen und gleichmäßiger Steigung unter 10 %. Atemberaubende Aussicht auf Altausseer See, Totes Gebirge und Dachstein. Getrennte Klassen für Rennrad und Mountainbike.",
+  "distanceKm": 9,
+  "elevationGainM": 750
+}

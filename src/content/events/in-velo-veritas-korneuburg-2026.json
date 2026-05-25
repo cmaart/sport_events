@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.inveloveritas.at",
   "description": "Laengstes Klassik-Rennrad-Event Europas in Korneuburg im Weinviertel. Nur Stahl-Rennraeder Baujahr 1987 oder aelter zugelassen. Drei Distanzen (70, 140, 210 km) durch das Weinviertel und Marchfeld mit nostalgischem Flair der goldenen Radsportaera. Einzigartiges Event fuer Liebhaber historischer Rennraeder.",
   "distanceKm": 210,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://www.inveloveritas.at/wp-content/uploads/2025/10/invelovertias_herobild_2025.jpg"
 }

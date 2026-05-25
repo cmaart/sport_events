@@ -1,0 +1,22 @@
+{
+  "id": "hegau-bodensee-panoramatour-2026",
+  "name": "Hegau-Bodensee-Panoramatour",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Orsingen-Nenzingen",
+    "lat": 47.8156,
+    "lng": 8.9194,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.hegau-panorama-tour.de/",
+  "description": "Radmarathon im Dreiländereck Deutschland–Schweiz–Österreich mit fünf Distanzen (78–219 km) durch das Hegau-Vulkanland und entlang des Bodenseeufers. Die Panoramarouten führen durch die charakteristischen Kegelberge der Hegauer Vulkanlandschaft mit Blick auf den Untersee und die Schweizer Alpen.",
+  "distanceKm": 219,
+  "elevationGainM": 2200,
+  "imageUrl": "https://rmsv-orsingen.de/wp-content/uploads/2026/04/2024-04-28-Bilder-fuer-Vorbericht-HBPT-von-RMSVO-Mittwochsradler-3.jpg"
+}

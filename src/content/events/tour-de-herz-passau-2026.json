@@ -2,7 +2,9 @@
   "id": "tour-de-herz-passau-2026",
   "name": "Tour de Herz",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-27",
@@ -17,5 +19,6 @@
   },
   "websiteUrl": "https://herzbewegt.org/tour-de-herz/",
   "description": "Benefiz-Radmarathon von Passau nach Wien über 310 km, der innerhalb eines Tages bewältigt werden muss. Das Limit von 200 Teilnehmenden und neun Startgruppen sorgt für ein persönliches Erlebnis; alle Einnahmen kommen herzkranken Kindern in Ländern mit eingeschränkter medizinischer Versorgung zugute. Die 2026er Edition ist die zehnte Auflage der Veranstaltung.",
-  "distanceKm": 310
+  "distanceKm": 310,
+  "imageUrl": "https://herzbewegt.org/wp-content/uploads/2020/02/TdH20_Banner-Full-Width.jpg"
 }

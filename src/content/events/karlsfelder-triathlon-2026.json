@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://karlsfelder-triathlon.org/",
   "description": "36. Karlsfelder Triathlon am Karlsfelder See nordwestlich von München: Olympische Distanz 1,5 km / 46 km / 10 km und Sprint 0,75 km / 26 km / 5 km. Traditionsreicher Triathlon im Landkreis Dachau (Bayern).",
-  "distanceKm": 58
+  "distanceKm": 58,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/baviere/district-de-haute-baviere/karlsfelder-triathlon/q6fwbv6ggxtr1kjszeis"
 }

@@ -2,7 +2,9 @@
   "id": "adac-cycling-tour-heilbronn-2026",
   "name": "ADAC Cycling Tour Heilbronn",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-08-23",
@@ -17,5 +19,6 @@
   },
   "websiteUrl": "https://www.adac.de/veranstaltungen/adac-cycling-tour-2026/",
   "description": "Jedermann-Rennen anlässlich des Finales der Lidl Deutschland Tour 2026 in Heilbronn. Hobbyfahrerinnen und -fahrer starten auf denselben gesperrten Straßen wie die Profis; zwei Streckenoptionen: Classic (ca. 100–120 km) und Sprint (ca. 50–60 km). Die ADAC Cycling Tour gilt als Deutschlands bedeutendstes Amateur-Radsportevent.",
-  "distanceKm": 120
+  "distanceKm": 120,
+  "imageUrl": "https://assets.adac.de/image/upload/ar_16:9,c_fill,f_auto,g_auto,q_auto:eco,w_1500/v1/ADAC-eV/KOR/Bilder/Fotograf/veranstaltung-radrennen-adac-%20cycling-tour-2026-2510_kzktne.jpeg"
 }

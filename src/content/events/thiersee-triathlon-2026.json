@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.thiersee-triathlon.at",
   "description": "Internationaler Triathlon am türkisblauen Thiersee im Kufsteiner Land. Olympische Distanz (1,5 + 40 + 10 km) und Sprint (0,75 + 20 + 5 km) sowie Staffeln und Kinder-Triathlon. Radstrecke mit Anstieg zum Seebichl durch Bergpanorama.",
   "distanceKm": 52,
-  "elevationGainM": 500
+  "elevationGainM": 500,
+  "imageUrl": "https://www.thiersee-triathlon.at/wp-content/uploads/2026/04/ThierseeTriathlon25%C2%A9Kufsteinerland_gphoto-031-scaled.jpg"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://muenster-triathlon.de",
   "description": "Stadtmitte-Triathlon in Münster mit Schwimmen im Aasee, Radstrecke durch das Muensterland und Lauf durch die Innenstadt. Olympische und Sprint-Distanz mit mehreren Deutschen Meisterschaften im Rahmen des Wettkampfs. Einer der beliebtesten Stadtrand-Triathlons in NRW.",
   "distanceKm": 51,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/sparda-munster-city-triathlon/mfsnn62j086l9u6dfpli"
 }

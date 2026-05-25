@@ -21,5 +21,6 @@
   "websiteUrl": "https://alpen-tour.at",
   "description": "UCI-S1-klassifiziertes 4-Etappen-MTB-Rennen in der Schladming-Dachstein-Region: 4 Tage, rund 200 km und 8.570 Höhenmeter auf den Hausberg-Arenen Hauser Kaibling, Ramsau, Reiteralm und Planai. Solo- und Duo-Wertung. Gilt als eines der härtesten und schönsten MTB-Etappenrennen Europas.",
   "distanceKm": 200,
-  "elevationGainM": 8570
+  "elevationGainM": 8570,
+  "imageUrl": "https://alpen-tour.at/wp-content/uploads/2026/03/REG_3621-scaled.jpg"
 }

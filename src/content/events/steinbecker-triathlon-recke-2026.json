@@ -15,11 +15,12 @@
   },
   "location": {
     "name": "Recke",
-    "lat": 52.3680,
-    "lng": 7.7290
+    "lat": 52.368,
+    "lng": 7.729
   },
   "websiteUrl": "https://www.steinbeck-triathlon.de",
   "description": "33. Steinbecker Triathlon in Recke im Teutoburger Wald nahe Osnabrück. Drei Distanzen: Sprint (0,5 km / 27 km / 5 km), Olympisch (1,5 km / 42 km / 10 km) und SteelMan/SteelWoman Mitteldistanz (1,9 km / 82 km / 21 km). Olympische Distanz und Mitteldistanz bereits ausgebucht – frühzeitig anmelden.",
   "distanceKm": 105,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/steinbecker-triathlon/hcqcrouklbn9qqz1sqoy"
 }
