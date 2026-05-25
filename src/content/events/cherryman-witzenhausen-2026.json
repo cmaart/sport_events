@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://www.cherry-man.de/",
   "description": "CherryMan in Witzenhausen, der nordhessischen Kirschstadt am Werra-Knie. Sprint-Triathlon über 0,4 km Schwimmen, 22,5 km Rad und 5 km Lauf, organisiert von den Stadtwerken Witzenhausen. Erwartet werden rund 350 Starterinnen und Starter inmitten der Streuobstlandschaft.",
-  "distanceKm": 28
+  "distanceKm": 28,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hesse/district-de-kassel/cherryman-triathlon-witzenhausen/q9qcr531rhungfm55id8"
 }
