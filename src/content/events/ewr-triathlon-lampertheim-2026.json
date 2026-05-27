@@ -14,9 +14,10 @@
   "location": {
     "name": "Lampertheim",
     "lat": 49.6033,
-    "lng": 8.4570
+    "lng": 8.457
   },
   "websiteUrl": "https://lampertheim.dlrg.de/ewr-triathlon-2025/",
   "description": "EWR-Triathlon der DLRG Lampertheim mit Schwimmstart im Badesee Lampertheim. Sprint- und Jedermanndistanz über rund 0,4–0,5 km Schwimmen, 20 km Rad und 5 km Lauf entlang der Natostraße in Richtung Rhein. Auch als Staffelwettkampf ausgeschrieben, ein Klassiker in der südhessischen Triathlonszene.",
-  "distanceKm": 26
+  "distanceKm": 26,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/9c/07/c1/ewr-triathlon-lampertheim-66-1493794693.jpg"
 }

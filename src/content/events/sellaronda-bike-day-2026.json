@@ -16,5 +16,6 @@
   "websiteUrl": "https://www.sellarondabikeday.com/",
   "description": "Sellaronda Bike Day – Gesperrte Pässe rund ums Sellamassiv für Radfahrer: 53 km kostenlose Rundstrecke über Passo Sella, Passo Gardena, Passo Pordoi und Passo Campolongo (1.600 Hm) ohne Anmeldung. Straßensperrung 08:30–16:00 Uhr; zweite Ausgabe am 12. September 2026. Eines der faszinierendsten Raderlebnisse der Alpen.",
   "distanceKm": 53,
-  "elevationGainM": 1600
+  "elevationGainM": 1600,
+  "imageUrl": "https://live.staticflickr.com/65535/54579727008_dd287eaf0d_h.jpg"
 }

@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.embrunman.com/",
   "description": "Embrunman in Embrun (Hautes-Alpes): Langdistanz 3,8 km Schwimmen im Lac de Serre-Ponçon / 185 km Rad mit Col de l'Izoard (3.600 Hm) / 42,2 km Laufen. 42. Auflage; einer der schwersten Langdistanz-Triathlons der Welt; limitiert auf 1.300 Athleten. Findet traditionell am 15. August (Nationalfeiertag) statt.",
   "distanceKm": 231,
-  "elevationGainM": 3600
+  "elevationGainM": 3600,
+  "imageUrl": "https://embrunman.com/my_uploads/izoard3.webp"
 }

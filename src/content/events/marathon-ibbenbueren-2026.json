@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.marathon-ibbenbueren.de",
   "description": "Radmarathon durch die Tecklenburger Hoehenlagen und das suedliche Muensterland: Langstrecke 203 km / 2.050 Hm sowie kuerzere Varianten 43-153 km. Erstmals mit Gravelgrinder-Varianten auf unbefestigten Strecken (44-114 km). Ohne Vereinszugehoerigkeit startbar.",
   "distanceKm": 203,
-  "elevationGainM": 2050
+  "elevationGainM": 2050,
+  "imageUrl": "https://le-cdn.website-editor.net/s/8e12ffe3f5cd45719dc608c3164ace5c/dms3rep/multi/opt/E+-+Unterwegs-011-1920w.jpg"
 }

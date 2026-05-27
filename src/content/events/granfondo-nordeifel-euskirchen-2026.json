@@ -20,5 +20,6 @@
   "websiteUrl": "https://granfondo-nordeifel.de",
   "description": "Jedermann-Radmarathon in der Nordeifel rund um Euskirchen mit sechs Streckenvarianten: von 56 km/400 m bis zum Hauptmarathon mit 210 km und 2.880 Höhenmetern durch die hügelige Eifellandschaft. Gewertet im BDR-Radmarathon-Cup. Start und Ziel in Euskirchen, Einzel- und Staffelwertung.",
   "distanceKm": 210,
-  "elevationGainM": 2880
+  "elevationGainM": 2880,
+  "imageUrl": "https://rsv-euskirchen.de/wp-content/uploads/2020/08/IMG-20200829-WA0014.jpg"
 }

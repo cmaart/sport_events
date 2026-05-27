@@ -2,7 +2,9 @@
   "id": "erztaler-marathon-tharandt-2026",
   "name": "ERZTALER Marathon",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-06",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.radteam-tharandterwald.de/veranstaltungen/erztaler/",
   "description": "Der Erztaler Marathon startet in Kurort Hartha im Tharandter Wald und führt durch die hügelige Landschaft des östlichen Erzgebirges. Die längste Strecke umfasst 230 Kilometer mit rund 3.300 Höhenmetern und gilt als eine der anspruchsvollsten Radmarathon-Strecken Sachsens. Sieben Streckenvarianten zwischen 40 und 230 Kilometern stehen zur Auswahl; zudem gibt es Offroad-Varianten von 20 bis 120 km.",
   "distanceKm": 230,
-  "elevationGainM": 3300
+  "elevationGainM": 3300,
+  "imageUrl": "https://www.radteam-tharandterwald.de/wp-content/uploads/2023/04/52089781590_54bc7b891a_o.jpeg"
 }

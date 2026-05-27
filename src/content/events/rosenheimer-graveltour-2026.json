@@ -2,7 +2,9 @@
   "id": "rosenheimer-graveltour-2026",
   "name": "Rosenheimer Graveltour",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-28",
@@ -18,5 +20,6 @@
   "websiteUrl": "https://www.rosenheimer-radmarathon.de/",
   "description": "Gravel-Option des Rosenheimer Radmarathons mit vier Streckenvarianten von 67 km (990 Hm) bis 120 km (2.510 Hm) durch das bayerische Voralpenland. Die anspruchsvolle Graveltour D über 120 km und 2.510 Hm ist nicht ausgeschildert und wird nur per GPX-Daten navigiert. Alle Graveltouren starten in Rosenheim und führen in die Chiemgauer Voralpen.",
   "distanceKm": 120,
-  "elevationGainM": 2510
+  "elevationGainM": 2510,
+  "imageUrl": "https://www.rosenheimer-radmarathon.de/s/cc_images/cache_67029763.jpg"
 }

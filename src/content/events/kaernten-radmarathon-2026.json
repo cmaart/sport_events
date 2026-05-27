@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.kaernten-radmarathon.at",
   "description": "Traditionsreicher Radmarathon durch den Biosphärenpark Nockberge: 106 km, 2.140 Höhenmeter zwischen Bergen und Seen. Wertungszeiten nur auf drei ausgewählten Bergpassagen – ideal für Genuss- und Bergfahrer:innen gleichermaßen.",
   "distanceKm": 106,
-  "elevationGainM": 2140
+  "elevationGainM": 2140,
+  "imageUrl": "https://www.austria-top-tour.at/_uploads/_fotos/705_674058.jpg"
 }

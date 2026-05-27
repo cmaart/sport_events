@@ -14,11 +14,12 @@
   },
   "location": {
     "name": "Freiburg im Breisgau",
-    "lat": 47.9990,
+    "lat": 47.999,
     "lng": 7.8421
   },
   "websiteUrl": "https://www.triteamfreiburg.de",
   "description": "29. Freiburger Triathlon im Seepark Freiburg: Schwimmen im Flueckigersee, Radstrecke durch das Breisgau und Lauf rund um den Seepark. Sprint- und Olympische Distanz. Traditionsveranstaltung des Tri-Team Freiburg, umgeben von Schwarzwaldpanorama.",
   "distanceKm": 51,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/66bc76eefe86053c771b85d6/d2756bfe-1182-4883-8a44-a1b44ff36cc3/IMG_7493.jpg"
 }

@@ -13,10 +13,11 @@
   },
   "location": {
     "name": "Hersbruck",
-    "lat": 49.5100,
-    "lng": 11.4270
+    "lat": 49.51,
+    "lng": 11.427
   },
   "websiteUrl": "https://www.volkstriathlon-hersbruck.de",
   "description": "38. Hersbrucker Volkstriathlon am Happurger Baggersee bei Hersbruck in der Hersbrucker Alb. Sprintdistanz: 300 m Schwimmen / 20 km Rad / 5 km Laufen. Familienfreundliche Atmosphäre, veranstaltet vom DAV Sektion Hersbruck. Ideales Einstiegsrennen in der Metropolregion Nürnberg.",
-  "distanceKm": 25
+  "distanceKm": 25,
+  "imageUrl": "https://www.volkstriathlon-hersbruck.de/wp-content/uploads/2025/07/2025-dav-volkstriathlon-heb-092.jpg"
 }

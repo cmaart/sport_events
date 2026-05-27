@@ -13,11 +13,12 @@
   },
   "location": {
     "name": "Ibbenbüren",
-    "lat": 52.2770,
+    "lat": 52.277,
     "lng": 7.7211
   },
   "websiteUrl": "https://www.tecklenburger-hoehen.net",
   "description": "Radmarathon im Tecklenburger Land und dem Teutoburger Wald rund um Ibbenbüren in Nordrhein-Westfalen. Fünf Streckenvarianten von 41 km bis zum Hauptmarathon mit 203 km und 2.050 Höhenmetern durch das hügelige Münsterland und die bewaldeten Höhen des Teutoburger Waldes.",
   "distanceKm": 203,
-  "elevationGainM": 2050
+  "elevationGainM": 2050,
+  "imageUrl": "https://le-cdn.website-editor.net/s/8e12ffe3f5cd45719dc608c3164ace5c/dms3rep/multi/opt/RTF+Tecklenburger+Hoehen+Marathon-1920w.png"
 }
