@@ -1,5 +1,30 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-05-27 (Session 5)
+
+## Current state (after Session 5):
+- **Total events: 739** (734 from Session 4 + 5 new)
+- Events with imageUrl: **352** (up from ~260)
+- Build: 772 pages — sitemap auto-generated
+
+## Changes made this session (Session 5):
+
+### New events added (5):
+- `churchhillrace-doeben-2026` — DE, Berg+Zeitfahren, Döben (Sachsen), Jun 14 (confirmed)
+- `wernigeroder-radsporttage-bergzeitfahren-2026` — DE, Berg+Zeitfahren, Wernigerode, Jun 19 (confirmed)
+- `bergzeitfahren-schmelz-lollar-2026` — DE, Berg+Zeitfahren, Lollar (Hessen), Sep 5 (confirmed)
+- `bildchen-sprint-siedlinghausen-2026` — DE, Berg+Zeitfahren, Siedlinghausen (NRW), Sep 12 (confirmed)
+- `ebersteinburg-bergzeitfahren-2026` — DE, Berg+Zeitfahren, Ebersteinburg (BW), Sep 19 (confirmed)
+
+### imageUrl additions (~93 events in two commits):
+Commit 1 (11 events): pfaender-bergzeitfahren, aloha-tri-linz, aloha-tri-traun, xterra-austria, race-around-austria, gaisberg-vertical-salzburg, ikb-baggersee-aquathlon-innsbruck, alpenbrevet-andermatt, tour-transalp, granfondo-il-lombardia (updated), quebrantahuesos (updated to official site)
+
+Commit 2 (31 events): DE triathlons (Kallmünzer, Heidbergsee/Sparkassen Braunschweig, EWR Lampertheim, Heinerman Darmstadt, Nordhorner, Hersbrucker Volkstriathlon, Berliner Volkstriathlon, LEXWARE Freiburg, GEALAN Hof, Düsseldorf Familientriathlon, Aluman Grevesmühlen, Schaalsee Zarrentin), DE cycling (Rosenheimer Radmarathon+Graveltour, Franken-Bike-Marathon, Schwalm-Tal, Tecklenburger Höhen, Mecklenburger Seen, Panoramatour Oberpfälzer Wald, Jura-Radmarathon, Harzer Radmarathon, Nibelungen Dirty, Gran Fondo Nordeifel, Marathon Ibbenbüren, Erztaler Tharandt, Giro Hattersheim), International (Sellaronda Bike Day, Embrunman, Wicklow 200, Kärnten Radmarathon)
+
+### websiteUrl fixes:
+- `jura-radmarathon-2026` websiteUrl: jura-radmarathon.de (expired/hijacked) → dreilaenderbike.de
+- `wuerzburg-triathlon-2026` websiteUrl: finishers.com → wuerzburg-triathlon.de (official)
+
 ## Session date: 2026-05-25 (Session 4)
 
 ## Current state (after Session 4 – PARTIAL):
