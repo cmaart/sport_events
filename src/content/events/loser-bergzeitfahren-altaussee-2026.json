@@ -17,5 +17,6 @@
   "websiteUrl": "https://www.salzkammergut-trophy.at/",
   "description": "Bergzeitfahren auf den Loser (1.838 m), den Haussberg von Altaussee im Salzkammergut: 9 km Anstieg mit 750 Höhenmetern vom Altausseer See-Niveau (850 m) bis auf 1.600 m mit 15 Serpentinen und gleichmäßiger Steigung unter 10 %. Atemberaubende Aussicht auf Altausseer See, Totes Gebirge und Dachstein. Getrennte Klassen für Rennrad und Mountainbike.",
   "distanceKm": 9,
-  "elevationGainM": 750
+  "elevationGainM": 750,
+  "imageUrl": "https://www.hdsports.at/media/reviews/photos/original/ee/41/27/loser-bergzeitfahren-56-1759150768.webp"
 }

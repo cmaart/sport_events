@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.kaumberg.gv.at",
   "description": "Bergzeitfahren in Kaumberg (Niederösterreich): 6,5 km mit 280 Höhenmetern vom Gasthaus Stangl bergauf zum Herbsthof. Einzelstart, Teil des Mucki Alpen Team Cups. Fahrt durch die Gutensteiner Alpen in Niederösterreich.",
   "distanceKm": 7,
-  "elevationGainM": 280
+  "elevationGainM": 280,
+  "imageUrl": "https://www.kaumberg.gv.at/site/assets/files/1811/img_8549.1600x900.jpg"
 }

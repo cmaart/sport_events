@@ -5,7 +5,8 @@
   "categories": ["Gran Fondo"],
   "country": "IT",
   "dates": {
-    "start": "2026-06-07",
+    "start": "2026-06-06",
+    "end": "2026-06-07",
     "confirmed": true
   },
   "location": {
@@ -13,8 +14,9 @@
     "lat": 46.4693,
     "lng": 10.3736
   },
-  "websiteUrl": "https://www.stelviosantini.com/",
+  "websiteUrl": "https://lastelviosantini.com",
   "description": "Granfondo La Stelvio Santini in Bormio – eines der größten europäischen Granfondos: Streckenoptionen über Passo dello Stelvio (2.758 m, einer der höchsten asphaltierten Straßen Europas) und Passo del Mortirolo. Seit 2026 auch Gravel-Format (44 km/1.400 Hm oder 70 km/2.000 Hm+). Typischerweise ausgebucht.",
   "distanceKm": 130,
-  "elevationGainM": 3800
+  "elevationGainM": 3800,
+  "imageUrl": "https://cdn.prod.website-files.com/631070a35ccb63cb9dfb67f2/690e2fa1b662cf772f49c27a_Homepage_003_LSS_Gravel.avif"
 }
