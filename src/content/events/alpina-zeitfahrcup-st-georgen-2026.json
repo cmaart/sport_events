@@ -1,0 +1,23 @@
+{
+  "id": "alpina-zeitfahrcup-st-georgen-2026",
+  "name": "Alpina Zeitfahr-Cup – St. Georgen im Lavanttal",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Georgen im Lavanttal",
+    "lat": 46.893,
+    "lng": 14.883,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://hrc-wolfsberg.com/alpina-zeitfahr-cup/",
+  "description": "4. Lauf des Alpina Zeitfahr-Cups 2026 in Kärnten: Einzelzeitfahren in St. Georgen im Lavanttal, 11,5 km. Start 09:30 Uhr beim Kaufhaus Hassler. Abschlussrennen der Kärntner Zeitfahrserie. Veranstalter: HRC Alpina Wolfsberg.",
+  "distanceKm": 12,
+  "elevationGainM": 300
+}

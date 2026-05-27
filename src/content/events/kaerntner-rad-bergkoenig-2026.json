@@ -1,0 +1,24 @@
+{
+  "id": "kaerntner-rad-bergkoenig-2026",
+  "name": "Kärntner Rad Bergkönig",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kraig – Feldkirchen",
+    "lat": 46.8733,
+    "lng": 14.3383,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_event.php?rmlang=de&id=366",
+  "description": "Kärntner Rad Bergkönig in Kraig (Kärnten): Bergzeitfahren 6 km mit 440 Höhenmetern. Teil des Kärnten Sport Jedermannradcups 2026. Einzelstart auf der Bergstrecke, herrliche Aussicht über den Ossiacher See und die Karawanken.",
+  "distanceKm": 6,
+  "elevationGainM": 440
+}

@@ -1,0 +1,23 @@
+{
+  "id": "muerzer-naturpark-aquathlon-2026",
+  "name": "Mürzer Oberland Naturpark Aquathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neuberg an der Mürz",
+    "lat": 47.664,
+    "lng": 15.601,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.fun-sports.at",
+  "description": "1. Mürzer Oberland Naturpark Aquathlon in Neuberg an der Mürz, Steiermark. Neues Aquathlon-Format 2026 im Naturpark Mürzer Oberland als Ergänzung zum Duathlon im September. Schwimmen und Laufen in der alpinen Naturkulisse des steirischen Mürzstegener Gebirges.",
+  "distanceKm": 6,
+  "elevationGainM": 50
+}

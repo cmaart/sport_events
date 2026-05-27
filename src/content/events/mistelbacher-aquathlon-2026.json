@@ -1,0 +1,23 @@
+{
+  "id": "mistelbacher-aquathlon-2026",
+  "name": "Mistelbacher Aquathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mistelbach",
+    "lat": 48.568,
+    "lng": 16.576,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.lac-harlekin.at",
+  "description": "4. Mistelbacher Aquathlon im Sportzentrum Mistelbach, Niederösterreich. Altersklassen- und Fun-Bewerb: Altersklasse 400 m Schwimmen + 3,85 km Laufen; Kids-Variante 100 m Schwimmen + 1,05 km Laufen. Start 09:00 Uhr. Veranstalter: Leichtathletik Club Harlekin Mistelbach.",
+  "distanceKm": 4,
+  "elevationGainM": 20
+}

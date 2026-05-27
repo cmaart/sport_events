@@ -1,0 +1,26 @@
+{
+  "id": "apfelland-triathlon-2026",
+  "name": "OMNi-BiOTiC Apfelland Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-15",
+    "end": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stubenberg am See",
+    "lat": 47.229,
+    "lng": 15.742,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.apfel-tri.com",
+  "description": "Einer der größten Triathlons Österreichs mit bis zu 5.000 Zuschauern am Stubenbergsee in der Oststeiermark. Drei Wettkampftage: Kids Aquathlon (Fr), Sprint- und Olympische Distanz (Sa), Mitteldistanz 2 km/80 km/18 km (So). Schauplatz der Österreichischen Staatsmeisterschaft Olympische Distanz. Startschuss in der türkisklaren Bucht des Stubenbergsees.",
+  "distanceKm": 100,
+  "elevationGainM": 800
+}

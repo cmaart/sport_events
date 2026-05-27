@@ -1,0 +1,24 @@
+{
+  "id": "poestlingberg-classic-2026",
+  "name": "Pöstlingberg Classic Linz",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Linz – Pöstlingberg",
+    "lat": 48.3267,
+    "lng": 14.2651,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.ooe-radsportverband.at",
+  "description": "Bergzeitfahren auf den Linzer Pöstlingberg: 4,3 km mit 250 Höhenmetern, Abendrennen ab 19:15 Uhr. Teil der OÖ Radsport-Rennserie und fester Bestandteil des Linzer Radsportkalenders. Einzelstart bergauf zur weithin sichtbaren Wallfahrtskirche.",
+  "distanceKm": 4,
+  "elevationGainM": 250
+}

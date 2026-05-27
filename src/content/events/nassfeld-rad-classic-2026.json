@@ -1,0 +1,23 @@
+{
+  "id": "nassfeld-rad-classic-2026",
+  "name": "Nassfeld Rad Classic Bergrennen",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tröpolach – Hermagor",
+    "lat": 46.5817,
+    "lng": 13.2383,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.sportclub-hermagor.at",
+  "description": "22. Ausgabe des Nassfeld Rad Classic Bergrennen in Tröpolach/Hermagor, Kärnten. Massenstart um 12:00 Uhr, 10,9 km mit 905 Höhenmetern hinauf zur Nassfelder Paßhöhe. Kategorien für Rennrad, MTB und E-Bike. Spektakuläre Kulisse am Nassfeld-Skigebiet.",
+  "distanceKm": 11,
+  "elevationGainM": 905
+}

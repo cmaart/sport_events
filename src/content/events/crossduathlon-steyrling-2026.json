@@ -1,0 +1,23 @@
+{
+  "id": "crossduathlon-steyrling-2026",
+  "name": "Haidlmair Cross Duathlon Klaus",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Klaus an der Pyhrnbahn",
+    "lat": 47.68,
+    "lng": 14.177,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.triathlon-austria.at/de/sport/eventdbshow-crossduathlon-der-naturfreunde-20.06.2026",
+  "description": "1. Haidlmair Cross Duathlon der Naturfreunde Steyrling/Klaus in Klaus an der Pyhrnbahn (OÖ). Erstveranstaltung 2026 mit Off-Road-Duathlon: 6 km Laufen – 17 km MTB-Strecke – 5 km Laufen durch die naturbelassene Pyhrn-Priel-Region. Staffeln möglich.",
+  "distanceKm": 28,
+  "elevationGainM": 500
+}

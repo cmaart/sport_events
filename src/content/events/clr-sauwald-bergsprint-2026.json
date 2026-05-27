@@ -1,0 +1,24 @@
+{
+  "id": "clr-sauwald-bergsprint-2026",
+  "name": "CLR-Sauwald Bergsprint Engelhartszell",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Engelhartszell an der Donau",
+    "lat": 48.5024,
+    "lng": 13.7449,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.clr-sauwald.at",
+  "description": "CLR-Sauwald Bergsprint in Engelhartszell an der Donau (OÖ): 10 km mit 420 Höhenmetern von Engelhartszell nach Stadl im Sauwald. Bergzeitfahren mit Gaudi-Wertung, malerische Donauschlucht-Region. Veranstalter: Cycling Liebhaber Racing Sauwald.",
+  "distanceKm": 10,
+  "elevationGainM": 420
+}

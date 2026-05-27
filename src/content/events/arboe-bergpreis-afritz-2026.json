@@ -1,0 +1,24 @@
+{
+  "id": "arboe-bergpreis-afritz-2026",
+  "name": "ARBÖ Helvetia Bergpreis Afritz-Verditz",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Afritz am See – Feld am See",
+    "lat": 46.7244,
+    "lng": 13.9222,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.rc-feldamsee.at/events/arboe-bergrennen-verditz/",
+  "description": "ARBÖ Helvetia Bergpreis Afritz-Verditz in Kärnten: Bergzeitfahren (EZF) 6,2 km / 540 Hm sowie Massenstart 2,1 km / 198 Hm. Teil des Kärnten Sport Jedermannradcups. Veranstalter: RC ARBÖ Feld am See. Kulisse am Feldsee und im Gurktal.",
+  "distanceKm": 6,
+  "elevationGainM": 540
+}

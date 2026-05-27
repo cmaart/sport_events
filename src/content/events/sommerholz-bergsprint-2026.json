@@ -1,0 +1,24 @@
+{
+  "id": "sommerholz-bergsprint-2026",
+  "name": "Sommerholz Bergsprint Oberhofen",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oberhofen am Irrsee",
+    "lat": 47.9523,
+    "lng": 13.3764,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.radteam-oberhofen.at",
+  "description": "Bergeinzelzeitfahren am Sommerholz in Oberhofen am Irrsee (OÖ): 3,43 km mit 205 Höhenmetern. Einzelstart bergauf, Natur pur im oberösterreichischen Hausruckviertel nahe dem Irrsee.",
+  "distanceKm": 3,
+  "elevationGainM": 205
+}

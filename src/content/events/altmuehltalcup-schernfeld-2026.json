@@ -1,0 +1,25 @@
+{
+  "id": "altmuehltalcup-schernfeld-2026",
+  "name": "Altmühltalcup Bergzeitfahren Schernfeld",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schernfeld",
+    "lat": 48.871,
+    "lng": 11.308,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://radsport-gaimersheim.de/altmuhltalcup",
+  "description": "3. Lauf des Altmühltalcups 2026: Bergzeitfahren in Schernfeld im Naturpark Altmühltal, Bayern. 1,6 km mit 140 Höhenmetern, Einzelstart, 17:00–21:00 Uhr. Nachwuchs (U13–U17), Damen, Herren und Senioren. Veranstalter: RT Gaimersheim.",
+  "distanceKm": 2,
+  "elevationGainM": 140,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/63331bd696554019ea416dc2/7ab6e85c-aeef-47b9-800c-9d568a1ee966/Berg.jpg"
+}

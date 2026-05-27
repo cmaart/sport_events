@@ -1,0 +1,25 @@
+{
+  "id": "city-hill-climb-salzburg-2026",
+  "name": "City Hill Climb Salzburg",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salzburg – Festung Hohensalzburg",
+    "lat": 47.7954,
+    "lng": 13.0476,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://cityhillclimb.com",
+  "description": "Spektakuläres Bergzeitfahren durch die Salzburger Altstadt auf die Festung Hohensalzburg: 900 m Strecke mit 120 Höhenmeter und bis zu 32 % Steigung. Start am Kapitelplatz, Ziel an der Festung. Einzelstart im Minutenabstand, 13:30–19:00 Uhr. Einzigartiger Schauplatz inmitten des UNESCO-Weltkulturerbes.",
+  "distanceKm": 1,
+  "elevationGainM": 120,
+  "imageUrl": "https://cityhillclimb.com/wp-content/uploads/2021/07/CHC_s-1511-1024x683.jpg"
+}

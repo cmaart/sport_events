@@ -1,0 +1,23 @@
+{
+  "id": "kirchenbergrennen-hainfeld-2026",
+  "name": "Kirchenbergrennen Hainfeld",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hainfeld",
+    "lat": 47.9992,
+    "lng": 15.7684,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://urchainfeld.sportunion.at",
+  "description": "Kirchenbergrennen in Hainfeld (NÖ): Bergrennen 6,1 km mit 510 Höhenmetern. Teil des Mucki Alpen Team Cups 2026 in den niederösterreichischen Kalkalpen. Massenstart bergauf durch den Hainfelder Kirchenwald.",
+  "distanceKm": 6,
+  "elevationGainM": 510
+}

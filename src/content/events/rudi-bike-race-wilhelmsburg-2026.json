@@ -1,0 +1,23 @@
+{
+  "id": "rudi-bike-race-wilhelmsburg-2026",
+  "name": "Rudi Bike Race Ochsenburgerhütte",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wilhelmsburg",
+    "lat": 48.0974,
+    "lng": 15.6041,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://alpenteamcup.at",
+  "description": "Bergrennen Wilhelmsburg – Ochsenburgerhütte in den Niederösterreichischen Voralpen: 8,2 km mit 375 Höhenmetern. Teil des Mucki Alpen Team Cups 2026. Fahrt durch den Dunkelsteinerwald-Bereich in Richtung der Ochsenburgerhütte.",
+  "distanceKm": 8,
+  "elevationGainM": 375
+}

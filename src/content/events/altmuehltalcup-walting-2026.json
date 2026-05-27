@@ -1,0 +1,25 @@
+{
+  "id": "altmuehltalcup-walting-2026",
+  "name": "Altmühltalcup Bergzeitfahren Walting",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Walting",
+    "lat": 48.872,
+    "lng": 11.23,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://radsport-gaimersheim.de/altmuhltalcup",
+  "description": "1. Lauf des Altmühltalcups 2026: Bergzeitfahren in Walting im Naturpark Altmühltal, Bayern. 2,9 km mit 140 Höhenmetern, Einzelstart, 17:00–20:30 Uhr. Nachwuchs (U13–U17), Damen, Herren und Senioren. Veranstalter: RT Gaimersheim.",
+  "distanceKm": 3,
+  "elevationGainM": 140,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/63331bd696554019ea416dc2/7ab6e85c-aeef-47b9-800c-9d568a1ee966/Berg.jpg"
+}

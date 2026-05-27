@@ -1,0 +1,23 @@
+{
+  "id": "hahnenkamm-mtb-kitzbuehel-2026",
+  "name": "Hahnenkamm Mountainbike Rennen Kitzbühel",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kitzbühel",
+    "lat": 47.4459,
+    "lng": 12.3924,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.kitzbuehel.com",
+  "description": "37. Hahnenkamm Mountainbike Rennen in Kitzbühel: Bergrennen 9 km mit 940 Höhenmetern vom Ortszentrum Kitzbühel bergauf zur Bergstation Walde. Einzel- und Teamwertung, Rennrad- und MTB-Kategorien. Legendäre Hahnenkamm-Kulisse der Wintersport-Weltstadt.",
+  "distanceKm": 9,
+  "elevationGainM": 940
+}

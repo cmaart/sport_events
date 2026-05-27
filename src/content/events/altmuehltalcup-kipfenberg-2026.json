@@ -1,0 +1,25 @@
+{
+  "id": "altmuehltalcup-kipfenberg-2026",
+  "name": "Altmühltalcup Bergzeitfahren Kipfenberg",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kipfenberg",
+    "lat": 48.951,
+    "lng": 11.39,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://radsport-kipfenberg.de/bzf/",
+  "description": "2. Lauf des Altmühltalcups 2026: Bergzeitfahren in Kipfenberg im Naturpark Altmühltal, Bayern. 2,9 km mit 140 Höhenmetern, Einzelstart, 09:00–12:00 Uhr. Nachwuchs (U13–U17), Damen, Herren und Senioren. Veranstalter: RadSport Kipfenberg.",
+  "distanceKm": 3,
+  "elevationGainM": 140,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/63331bd696554019ea416dc2/7ab6e85c-aeef-47b9-800c-9d568a1ee966/Berg.jpg"
+}
