@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.xterraplanet.com/event/xterra-austria",
   "description": "Teil der XTERRA World Tour im UNESCO-Welterbe Salzkammergut. Schwimmen im Altausseer See, anspruchsvolle Mountainbike- und Laufstrecken durch alpines Gelände zwischen Loser und Trisselwand. Drei Distanzen vom Super-Sprint bis zur Vollendistanz an zwei Wettkampftagen.",
   "distanceKm": 37,
-  "elevationGainM": 1200
+  "elevationGainM": 1200,
+  "imageUrl": "https://www.trinews.at/wp-content/uploads/2024/10/xterraaustria.jpg"
 }

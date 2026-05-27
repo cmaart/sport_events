@@ -1,0 +1,24 @@
+{
+  "id": "wernigeroder-radsporttage-bergzeitfahren-2026",
+  "name": "Wernigeroder Radsporttage – Bergzeitfahren",
+  "sport": "cycling",
+  "categories": [
+    "Berg",
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-19",
+    "end": "2026-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wernigerode",
+    "lat": 51.8358,
+    "lng": 10.7866
+  },
+  "websiteUrl": "https://deutscherradsportnachwuchs.de/event/28-wernigeroeder-radsporttage/",
+  "description": "28. Wernigeroder Radsporttage – Bergzeitfahren auf der legendären Brockenstraße im Harz (Sachsen-Anhalt): 7,3 km bergauf bis nahe zum Brocken-Gipfel, Juniorenstrecke 3 km. Wettkampf mit Altersklassenwertungen und Jedermannbeteiligung, Anmeldeschluss 14. Juni 2026.",
+  "distanceKm": 7,
+  "elevationGainM": 400
+}

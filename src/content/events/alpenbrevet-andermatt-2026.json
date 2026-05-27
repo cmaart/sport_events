@@ -16,5 +16,6 @@
   "websiteUrl": "https://alpenbrevet.ch/en/",
   "description": "Swiss Cycling Alpenbrevet – Größte Schweizer Amateurradsportveranstaltung (3.250 Teilnehmer) mit Basis in Andermatt: Vier Strecken von 64 km (2.100 Hm) bis zur legendären Platintour 267 km (6.800 Hm) über Gotthard, Furka, Susten und Grimsel. Ausgebucht für 2026; Warteliste aktiv. Auch Tremola by Night (29. Aug.) als Satellite-Event.",
   "distanceKm": 267,
-  "elevationGainM": 6800
+  "elevationGainM": 6800,
+  "imageUrl": "https://alpenbrevet.ch/wp-content/uploads/Platintour-Alpenbrevet-Radmarathon.jpg"
 }

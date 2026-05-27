@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.tour-transalp.de",
   "description": "22. Ausgabe des klassischen 7-Etappen-Rennens über die Alpen, Start in Lienz (Osttirol), Ziel in Riva del Garda. Über 750 km und 17.000 Höhenmeter. Teams zu zwei Personen oder Einzelstarter:innen, auch 3- und 4-Tage-Varianten möglich.",
   "distanceKm": 750,
-  "elevationGainM": 17000
+  "elevationGainM": 17000,
+  "imageUrl": "https://media.delius-klasing.de/dk-wassersport/dpr_auto,fl_progressive,f_auto,c_fill,g_face:auto,h_1080,w_1920/q_auto/2025-TT-HIGHLIGHTS_cPIARAZZI-29_zshqr1"
 }
