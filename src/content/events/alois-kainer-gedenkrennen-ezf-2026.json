@@ -1,0 +1,23 @@
+{
+  "id": "alois-kainer-gedenkrennen-ezf-2026",
+  "name": "Alois Kainer Gedenkrennen – Österr. Amateurmeisterschaft Zeitfahren",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Großhartmannsdorf",
+    "lat": 47.1889,
+    "lng": 15.4667,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.radrennteam-graz.com",
+  "description": "Alois Kainer Gedenkrennen als Einzelzeitfahren (EZF) in Großhartmannsdorf (Steiermark): 16,4 km / 247 Hm auf klimatisch gesperrter Strecke. Zugleich Austragungsort der Österreichischen Amateur- und Masterszeitfahrmeisterschaft 2026, veranstaltet vom ARBÖ Radrennteam Graz.",
+  "distanceKm": 16,
+  "elevationGainM": 247
+}

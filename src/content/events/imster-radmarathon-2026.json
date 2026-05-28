@@ -22,5 +22,6 @@
   "registrationUrl": "https://my.raceresult.com/343203/",
   "description": "Jubiläumsausgabe (10. Auflage) mit drei Strecken durch das Ötztal und die umliegenden Bergpässe: Panorama (70 km, 1.100 hm), Standard (90 km, 1.700 hm) und Challenge (110 km, 2.300 hm). 2026 ausverkauft mit 1.500 Teilnehmer:innen.",
   "distanceKm": 110,
-  "elevationGainM": 2300
+  "elevationGainM": 2300,
+  "imageUrl": "https://www.imster-radmarathon.at/fileadmin/_processed_/f/a/csm_imster-radmarathon-radrennen-in-imst-tirol-0113_402a90ebbd.jpg"
 }

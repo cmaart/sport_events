@@ -2,7 +2,9 @@
   "id": "granfondo-bgy-bergamo-2026",
   "name": "Granfondo BGY Bergamo",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "IT",
   "dates": {
     "start": "2026-05-10",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://www.granfondobgy.it/en/",
   "description": "Granfondo BGY Bergamo – 30. Jubiläumsausgabe des UCI-Qualifikationsrennens: Vier Streckenvarianten Sprint 63 km (800 Hm) / Short 91 km (1.400 Hm) / Medium 130 km (2.100 Hm) / Long 148 km (2.800 Hm). Start und Ziel in Bergamo, Touren durch die Bergamasker Voralpen und die Bergdörfer der Provinz. FCI/UCI-Kalender seit 1996.",
   "distanceKm": 148,
-  "elevationGainM": 2800
+  "elevationGainM": 2800,
+  "imageUrl": "https://www.granfondobgy.it/wp-content/uploads/2026/05/004-BGY_GRANFONDO2026-%C2%A9FotoQuaranta--1200x800.jpg"
 }

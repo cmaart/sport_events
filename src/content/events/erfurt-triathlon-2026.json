@@ -19,5 +19,6 @@
   },
   "websiteUrl": "https://erfurt-triathlon.de/",
   "description": "Triathlon am Strandbad Stotternheim nordoestlich von Erfurt, Schwimmen als Rundkurs im Stotternheimer See, Radstrecke auf asphaltierten Strassen mit welligem Profil. Waldlaufkurs mit natuerlichen Wegen fuer Sprint und Olympische Distanz (1,5/40/10 km).",
-  "distanceKm": 52
+  "distanceKm": 52,
+  "imageUrl": "https://erfurt-triathlon.de/img/Banner_1.jpg"
 }

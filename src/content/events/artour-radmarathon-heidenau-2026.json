@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.artour-rtf.de/",
   "description": "Traditionsreiche Radsportveranstaltung der Saechsischen Schweiz, Start an der Radrennbahn Heidenau. Tourstrecken 35 bis 100 km sowie Radmarathon 200 km / 3.800 Hm mit Schleife durch die Saechsische Schweiz und ueber das Osterzgebirge bis Altenberg. Regionale Verpflegung an allen Stationen.",
   "distanceKm": 200,
-  "elevationGainM": 3800
+  "elevationGainM": 3800,
+  "imageUrl": "https://www.artour-rtf.de/fileadmin/user_upload/artour/Rueckblick/2024/117-293.jpg"
 }

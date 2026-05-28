@@ -1,0 +1,23 @@
+{
+  "id": "waidhofner-radmarathon-2026",
+  "name": "40. Waidhofner RAIFFEISEN Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waidhofen an der Ybbs",
+    "lat": 47.9566,
+    "lng": 14.7732,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "http://www.askoewaidhofen.at/sektionen/radsport/",
+  "description": "40-jähriges Jubiläum des Waidhofner RAIFFEISEN Radmarathons, organisiert vom ASKÖ Waidhofen. Radmarathon durch die hügelige Ybbstal-Voralpenlandschaft um Waidhofen an der Ybbs in Niederösterreich. Zwei Strecken: 103 km und 65 km. Start und Ziel am ASKÖ-Sporthaus.",
+  "distanceKm": 103,
+  "elevationGainM": 1200
+}

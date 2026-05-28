@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.neusiedlersee-radmarathon.com",
   "description": "Saisoneröffnungsklassiker rund um den Neusiedlersee, Auftaktrennen der Austria Top Tour 2026. Zeitfahren am Samstag, Hauptrennen am Sonntag. 125 km flach mit teils anspruchsvollen Windverhältnissen, alternativ 63-km-Mini-Tour.",
   "distanceKm": 125,
-  "elevationGainM": 600
+  "elevationGainM": 600,
+  "imageUrl": "https://www.neusiedlersee-radmarathon.com/images/gran_fondo.jpg"
 }

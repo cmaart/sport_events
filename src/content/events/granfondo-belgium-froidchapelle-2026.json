@@ -16,5 +16,6 @@
   "websiteUrl": "https://www.granfondobelgium.com/en",
   "description": "Granfondo Belgium – UCI Gran Fondo World Series-Qualifikation am Lac de l'Eau d'Heure in der belgischen Provinz Hainaut: Granfondo 138 km (2.100 Hm) oder Mediofondo durch das hügelige Ardennenvorland. Einer der ersten europäischen UCI-Qualifier der Saison; komplett autofrei gestalteter Kurs.",
   "distanceKm": 138,
-  "elevationGainM": 2100
+  "elevationGainM": 2100,
+  "imageUrl": "https://www.s-t-p.be/web/image/103240-8b95255b/2025_UCI_GranFondoWS_LesLacLeauDheure%20stacked_page-0001.webp"
 }

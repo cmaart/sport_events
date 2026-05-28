@@ -1,0 +1,25 @@
+{
+  "id": "race-across-austria-north-south-2026",
+  "name": "Race Across Austria (RACA)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-16",
+    "end": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Linz",
+    "lat": 48.3069,
+    "lng": 14.2858,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.raceacrossaustria.com",
+  "description": "Ultra-Cycling-Event quer durch Österreich mit Start und Ziel im Hofmann Personal Stadion Linz. Vier Distanzen: RACA 1000 (1.000 km / 14.000 Hm), RACA 700 (700 km / 10.000 Hm), RACA 500 (500 km / 7.000 Hm) und RACA 300 (300 km / 4.000 Hm), dazu Gravel Ultra 500 und 300. Rund 500 Starter aus 20 Nationen, non-stop und unsupported.",
+  "distanceKm": 1000,
+  "elevationGainM": 14000
+}

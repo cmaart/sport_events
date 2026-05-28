@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.eigerbike.ch/",
   "description": "Eiger Bike Challenge in Grindelwald (Berner Oberland) unter der Eiger-Nordwand: Marathon MTB 80 km / 4.200 Hm, 50 km / 2.500 Hm, Gravel 45 km / 2.124 Hm und 30 km. Teil der Bike Marathon Classics; spektakuläre Hochgebirgslandschaft im Jungfrau-UNESCO-Welterbe.",
   "distanceKm": 80,
-  "elevationGainM": 4200
+  "elevationGainM": 4200,
+  "imageUrl": "https://www.eigerbike.ch/wp-content/uploads/background/bg-12.jpg"
 }
