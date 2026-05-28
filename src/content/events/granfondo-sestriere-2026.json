@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.granfondosestriere.it/index.php/en/granfondo-sestriere",
   "description": "Gran Fondo Sestriere – Colle delle Finestre in Cesana Torinese (Val di Susa, Piemont): Gran Fondo 103,6 km / 3.170 Hm oder Medio Fondo 79 km / 2.370 Hm. Herzstück ist der legendäre Colle delle Finestre (18 km, Ø 9,3 %, letzte 8 km Schotter) – Schaupieler unvergesslicher Giro-d'Italia-Etappen.",
   "distanceKm": 104,
-  "elevationGainM": 3170
+  "elevationGainM": 3170,
+  "imageUrl": "https://www.granfondosestriere.it/images/_media/WE8_3726_2025.jpg"
 }
