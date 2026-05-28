@@ -20,8 +20,19 @@
 - Commit 2 (16 Scandinavian/British/FR/ES events): birkebeinerrittet, castle-race-cholmondeley/hever, chouffe-classic, cimes-du-mercantour, col-de-la-loze-challenge, colnago-gf-luberon, douro-granfondo, dwars-door-vlaanderen-cyclo, etape-caledonia, etape-du-dales, etape-greece, evertsberg-gravel, fnld-grvl-lahti, fred-whitton-challenge, fyen-rundt
 - Commit 3: granfondo-rosa-oosterbeek, granfondo-sestriere, beast-of-bramsche
 
-### imageUrl agents running (8 parallel):
-Batches A-H covering all 328 events missing imageUrl as of session start.
+### imageUrl agents completed:
+- Batch D (German cycling): 19 verified images applied
+- Batch E (AT events + more DE cycling): 13 verified images applied
+- Batch F (European cycling, 50 events): 32 images applied
+- Batch G (remaining DE triathlons): 14 images applied
+- Total so far: 88 new imageUrls in this session
+- Coverage: 492/743 (66%) — up from 352
+
+### imageUrl agents still running:
+- Batch A: high-profile cycling (cyclassics-hamburg, mallorca-312, ironman 70.3 etc.)
+- Batch B: Ironman/Challenge/T100/XTERRA
+- Batch C: German triathlons (altmark, biosphaeren, etc.)
+- Batch H: misc remaining events
 
 ## Session date: 2026-05-27 (Session 5)
 
