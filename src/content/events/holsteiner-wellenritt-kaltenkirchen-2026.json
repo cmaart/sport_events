@@ -2,7 +2,9 @@
   "id": "holsteiner-wellenritt-kaltenkirchen-2026",
   "name": "Holsteiner Wellenritt",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-08-09",
@@ -15,5 +17,6 @@
   },
   "websiteUrl": "https://www.rsc-kattenberg.de/",
   "description": "Der Holsteiner Wellenritt des RSC Kattenberg startet in Kaltenkirchen vor den Toren Hamburgs und führt auf 220 Kilometern tief ins östliche Schleswig-Holstein bis kurz vor Lübeck. Die Strecke durchquert drei Kreise und streift den Naturpark Holsteinische Schweiz mit für norddeutsche Verhältnisse anspruchsvollen Hügelpassagen. Der Radmarathon ist Wertungslauf des BDR-Radmarathon-Cups und des regionalen NordCups.",
-  "distanceKm": 220
+  "distanceKm": 220,
+  "imageUrl": "https://www.rsc-kattenberg.de/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-16-at-20.52.18-678x381.jpeg"
 }

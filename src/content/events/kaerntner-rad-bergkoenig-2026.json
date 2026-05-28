@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.radmarathon.at/termine/detail_event.php?rmlang=de&id=366",
   "description": "Kärntner Rad Bergkönig in Kraig (Kärnten): Bergzeitfahren 6 km mit 440 Höhenmetern. Teil des Kärnten Sport Jedermannradcups 2026. Einzelstart auf der Bergstrecke, herrliche Aussicht über den Ossiacher See und die Karawanken.",
   "distanceKm": 6,
-  "elevationGainM": 440
+  "elevationGainM": 440,
+  "imageUrl": "https://www.radmarathon.at/gallery/event_pics/366_2012_08_21_07_19_56.jpg"
 }

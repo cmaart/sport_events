@@ -21,5 +21,6 @@
   "registrationUrl": "https://spoferan.com/events/churchhill-race-2026",
   "description": "3. Churchhillrace – Bergsprintrennen am Döbener Berg (Landkreis Leipzig, Sachsen): 700 m mit 70 Höhenmetern und bis zu 32 % Steigung durch den historischen Schlosspark Döben. Start ab 10:00 Uhr, Eintritt 10 € (unter 17: 5 €). Jedermann-Bergzeitfahren auf gesperrter Straße.",
   "distanceKm": 1,
-  "elevationGainM": 70
+  "elevationGainM": 70,
+  "imageUrl": "https://churchhillrace.de/storage/2024/03/DoebenKirche3-1920-1536x1152.jpg"
 }

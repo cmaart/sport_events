@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.weserrunde.de/",
   "description": "Langstrecken-Radmarathon entlang der Weser mit Distanzen von 80 bis 350 km durch Weserbergland, Solling und Teutoburger Wald. Die 350-km-Ultradistanz mit ca. 5.800 Hm gilt als eine der anspruchsvollsten Radmarathonstrecken Deutschlands. Start sehr frueh um 5:00 Uhr, Pasta-Party am Vorabend.",
   "distanceKm": 350,
-  "elevationGainM": 5800
+  "elevationGainM": 5800,
+  "imageUrl": "https://www.weserrunde.de/cdn/uploads/gwr-ziel2025.jpg"
 }

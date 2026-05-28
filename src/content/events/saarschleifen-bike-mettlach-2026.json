@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.saarschleifen.bike/",
   "description": "Saarlands groesster Radmarathon durch die spektakulaere Saarschleife auf gesperrten Wald- und Schotterwegen. Strecken 35/50/100 km (Ultra-Marathon 1.400 Hm), E-Bike-Klassen fuer die kuerzeren Distanzen. Ursapharm Firmenwertung fuer Unternehmensmannschaften.",
   "distanceKm": 100,
-  "elevationGainM": 1400
+  "elevationGainM": 1400,
+  "imageUrl": "https://www.saarschleifen.bike/wp-content/uploads/2025/05/Hintergrund-2022.jpg"
 }

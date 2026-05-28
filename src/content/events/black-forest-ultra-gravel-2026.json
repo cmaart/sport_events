@@ -19,5 +19,6 @@
   "websiteUrl": "https://ultra-bike.de",
   "description": "Gravel-Marathon im suedlichen Schwarzwald startend in Kirchzarten bei Freiburg, Teil des Veranstaltungsrahmens des Black Forest Ultra Bike Marathons. Schotterrouten durch dichten Schwarzwald-Tannenwald, Flusstal-Schotterwege und Forstwege mit erheblichem Hoehengewinn. Anspruchsvolles Gravelrennen im traditionsreichsten Schwarzwald-Bikeevent.",
   "distanceKm": 120,
-  "elevationGainM": 3500
+  "elevationGainM": 3500,
+  "imageUrl": "https://black-forest-ultra-bike-marathon.de/clips/uci-hero.png"
 }

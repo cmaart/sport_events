@@ -1,5 +1,28 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-05-28 (Session 6)
+
+## Current state (after Session 6 – IN PROGRESS):
+- **Total events: 743** (739 from Session 5 + 4 new)
+- Events with imageUrl: **~418** (up from 352; 8 parallel agents still running)
+- Build: ~775 pages
+
+## Changes made this session (Session 6):
+
+### New events added (4):
+- `waidhofner-radmarathon-2026` — AT, Gran Fondo, Waidhofen/Ybbs (NÖ), May 31, 103km/1200hm (ASKÖ verified)
+- `alois-kainer-gedenkrennen-ezf-2026` — AT, Zeitfahren, Großhartmannsdorf (Steiermark), May 31, 16.4km/247hm (radmarathon.at + radrennteam-graz.com verified)
+- `schoenleiten-1000-aflenz-2026` — AT, Gravel+Berg, Aflenz (Steiermark), May 31, 10km/1000hm (rc-hochschwabaflenz.at verified)
+- `race-across-austria-north-south-2026` — AT, Radmarathon+Etappenrennen, Linz (OÖ), Jun 16-20, 1000km/14000hm (raceacrossaustria.com verified)
+
+### imageUrl additions (Commit 1: 33 files, Commit 2: 16 files, Commit 3: 3 files):
+- Commit 1: ~30 events including AT (waidhofner, ASKÖ events), IT (giro-lombardia, nove-colli, laigueglia), NO (lillehammer-birkebeiner), International batch
+- Commit 2 (16 Scandinavian/British/FR/ES events): birkebeinerrittet, castle-race-cholmondeley/hever, chouffe-classic, cimes-du-mercantour, col-de-la-loze-challenge, colnago-gf-luberon, douro-granfondo, dwars-door-vlaanderen-cyclo, etape-caledonia, etape-du-dales, etape-greece, evertsberg-gravel, fnld-grvl-lahti, fred-whitton-challenge, fyen-rundt
+- Commit 3: granfondo-rosa-oosterbeek, granfondo-sestriere, beast-of-bramsche
+
+### imageUrl agents running (8 parallel):
+Batches A-H covering all 328 events missing imageUrl as of session start.
+
 ## Session date: 2026-05-27 (Session 5)
 
 ## Current state (after Session 5):
