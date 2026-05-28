@@ -15,10 +15,11 @@
   "location": {
     "name": "Leipzig",
     "lat": 51.3397,
-    "lng": 12.3730
+    "lng": 12.373
   },
   "websiteUrl": "https://leipziger-triathlon.de",
   "description": "43. Ausgabe des Leipziger Triathlons, einer der laengsten laufenden Triathlon-Veranstaltungen Mitteldeutschlands. Olympische Distanz (1.500 m / 40 km / 10 km) und Fitness-Triathlon in Leipzig mit Schwimmen in einem Baggersee. Familienaeres Vereinsevent in der Musikstadt Leipzig.",
   "distanceKm": 52,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://leipziger-triathlon.de/picpool/slidervisuals/start_triathlon.jpg"
 }

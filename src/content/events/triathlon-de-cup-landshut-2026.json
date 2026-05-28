@@ -22,5 +22,6 @@
   "registrationUrl": "https://triathlon.de/collections/anmeldung-triathlon-de-cup-landshut",
   "description": "3. triathlon.de CUP Landshut an der Isar mit Austragung der Bayerischen Meisterschaft über die Mitteldistanz. Schwimmen im Naherholungsgebiet Gretlmühle, Radkurs und Laufen entlang der Isar. Vier Distanzen: Mitteldistanz (1,9 km / 80 km / 20,6 km), Olympisch, Volksdistanz und Schnuppertriathlon.",
   "distanceKm": 103,
-  "elevationGainM": 500
+  "elevationGainM": 500,
+  "imageUrl": "https://i.shgcdn.com/c88a330f-a359-46f6-9d3f-9f843512ab27/-/format/auto/-/quality/normal/"
 }

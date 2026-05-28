@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.letapeseries.com/",
   "description": "L'Étape Slovenia by Tour de France in Kranj (5. Auflage): The Race ca. 130 km / 1.800 Hm und The Ride ca. 80 km durch die Julischen Alpen. Start und Ziel in Kranj; Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
   "distanceKm": 130,
-  "elevationGainM": 1800
+  "elevationGainM": 1800,
+  "imageUrl": "https://www.letapeseries.com/uploads/blocks/79d9cecb43a8fbb60c320f9cf9b36624f84b0af6.jpg"
 }

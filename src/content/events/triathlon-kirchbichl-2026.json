@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.triathlon-kirchbichl.at",
   "description": "40. Ausgabe des traditionsreichsten Triathlons in Tirol, organisiert von den Greenhorns Bichlwang. Sprint (750 m/20 km/5,2 km) und olympische Distanz (1,5 km/40 km/10 km) am Hechtsee und Inn-Radweg. Start 12:30 Uhr.",
   "distanceKm": 26,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://www.triathlon-kirchbichl.at/assets/images/nav/top.jpg"
 }

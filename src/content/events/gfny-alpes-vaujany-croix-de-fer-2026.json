@@ -18,5 +18,6 @@
   "websiteUrl": "https://vaujany.gfny.com/",
   "description": "GFNY Alpes Vaujany Croix de Fer in den Isère-Alpen: 118 km / 4.000 Hm (Langstrecke) oder 43 km / 1.800 Hm über Col de la Croix de Fer (2.067 m) und Col du Glandon mit Bergziel Vaujany. Start Place de la Fare. Separate Herbstausgabe des GFNY-Vaujany-Kalenders (Frühjahrsausgabe im Juni).",
   "distanceKm": 118,
-  "elevationGainM": 4000
+  "elevationGainM": 4000,
+  "imageUrl": "https://vaujany.gfny.com/wp-content/uploads/sites/22/2020/07/AlpesVaujany_01-1.png"
 }

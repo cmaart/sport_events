@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://triathlon-mv.de/event-directory/",
   "description": "Triathlon in Guestrow im Eliminator-Format an der Seenlandschaft der Mecklenburgischen Schweiz, veranstaltet von Trifun Guestrow. Mehrere Laeufe mit Ausscheidungsprinzip machen das kompakte Format zu einem temporeichen Spektakel fuer Zuschauer.",
-  "distanceKm": 10
+  "distanceKm": 10,
+  "imageUrl": "https://triathlon-mv.de/wp-content/uploads/2021/12/WK-Guestrow-1.jpg"
 }

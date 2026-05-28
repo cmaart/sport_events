@@ -20,5 +20,6 @@
   "websiteUrl": "https://stralsund-triathlon.de",
   "description": "Triathlonevent in der Hansestadt Stralsund an der Ostseekueste (UNESCO-Weltkulturerbe Altstadt) mit olympischer Distanz (1,5 km / 40 km / 10 km), Sprint (750 m / 20 km / 5 km) und Jugendtriathlon. Siebte Ausgabe mit Schwimmen im Strelasund, Radstrecke durch Vorpommern und Lauf durch das Stralsunder Stadtgebiet.",
   "distanceKm": 52,
-  "elevationGainM": 150
+  "elevationGainM": 150,
+  "imageUrl": "https://stralsund-triathlon.de/wp-content/themes/yootheme/cache/f5/header_triathlon-stralsund-anmeldung-2026_2500x1406px-f5a1e94a.webp"
 }

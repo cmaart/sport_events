@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.letapeseries.com/",
   "description": "L'Étape du Tour de France Femmes 2026: 120 km / ca. 3.000 Hm von Vaison-la-Romaine auf den Mont Ventoux (Bédoin). Begleitend zur Tour de France Femmes avec Zwift; offizielle Amateurinnen-Etappe auf der Profi-Strecke. Separate Veranstaltung zur Étape du Tour (Jul 19).",
   "distanceKm": 120,
-  "elevationGainM": 3000
+  "elevationGainM": 3000,
+  "imageUrl": "https://www.letapeseries.com/uploads/blocks/79d9cecb43a8fbb60c320f9cf9b36624f84b0af6.jpg"
 }

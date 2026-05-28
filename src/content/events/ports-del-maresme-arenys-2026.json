@@ -2,7 +2,9 @@
   "id": "ports-del-maresme-arenys-2026",
   "name": "Marxa Cicloturista Ports del Maresme",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "ES",
   "dates": {
     "start": "2026-05-25",
@@ -16,5 +18,6 @@
   "websiteUrl": "https://laports.cat/en",
   "description": "Marxa Cicloturista Ports del Maresme – 12. Ausgabe des katalanischen Küstenklassikers rund um Arenys de Munt nördlich von Barcelona: Lange Strecke 147 km (2.700 Hm) oder Kurze 96 km durch die Maresme-Hügel und die Ausläufer des Montseny. Kreisförmige Strecke mit Start und Ziel im Maresme-Küstenort.",
   "distanceKm": 147,
-  "elevationGainM": 2700
+  "elevationGainM": 2700,
+  "imageUrl": "https://laports.cat/images/img-1-2025.webp"
 }

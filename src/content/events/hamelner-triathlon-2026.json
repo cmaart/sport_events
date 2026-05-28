@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.hamelnertriathlon.de",
   "description": "35. Hamelner Triathlon im Weserbergland-Stadion am Südbad Hameln. Schwimmen im Hallenbad, Radkurs durch das Weserbergland Richtung Emmerthal, Laufstrecke entlang der Weser. Volksdistanz (500 m / 20 km / 5 km) und Olympische Distanz, veranstaltet vom ESV Eintracht Hameln. Start 08:55 Uhr.",
   "distanceKm": 26,
-  "elevationGainM": 200
+  "elevationGainM": 200,
+  "imageUrl": "https://www.hamelnertriathlon.de/_images/61.jpg"
 }

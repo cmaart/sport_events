@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.alpenchallengelenzerheide.ch/",
   "description": "Alpen Challenge Lenzerheide in Graubünden: Granfondo 189 km über die berühmtesten Pässe Graubündens, Mediofondo 115 km. Herbststimmung mit klarer Bergluft und Laubfärbung. Herbstausgabe des Klassikers mit Blick auf Lenzerheide, Albula- und Julierpass.",
   "distanceKm": 189,
-  "elevationGainM": 4500
+  "elevationGainM": 4500,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/s93f657e3286e71ef/image/iab6e6b9288213fcf/version/1765389721/image.jpg"
 }

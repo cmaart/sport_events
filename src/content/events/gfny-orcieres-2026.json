@@ -18,5 +18,6 @@
   "websiteUrl": "https://orcieres.gfny.com/",
   "description": "GFNY Orcières in den Hautes-Alpes (Frankreich): Granfondo 158 km (4.469 Hm) oder Mediofondo 76 km (2.105 Hm) durch die Hochalpen der Provence-Alpes-Côte d'Azur. Neustes Mitglied der GFNY-Rennserie in Frankreich (7. French event). Bergziel Orcières-Merlette (1.838 m) als spektakulärer Schlussanstieg.",
   "distanceKm": 158,
-  "elevationGainM": 4469
+  "elevationGainM": 4469,
+  "imageUrl": "https://orcieres.gfny.com/wp-content/uploads/sites/99/2025/03/Orcieres-scaled.jpg"
 }

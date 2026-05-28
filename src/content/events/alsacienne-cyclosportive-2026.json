@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.alsacienne-cyclo.org",
   "description": "L'Alsacienne Cyclosportive am Lac de Kruth-Wildenstein im Elsass: 195 km / 4.900 Hm, 150 km / 3.800 Hm oder 120 km / 2.800 Hm (zeitgenommen) sowie kürzere Randonnée-Strecken. Überquert Grand Ballon, Markstein, Petit Ballon und Platzerwasel in den Südvogesen.",
   "distanceKm": 195,
-  "elevationGainM": 4900
+  "elevationGainM": 4900,
+  "imageUrl": "https://www.alsacienne-cyclo.org/wp-content/uploads/2025/10/header-alsacienne-2025.webp"
 }

@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://helsinkigranfondo.fi/en/",
   "description": "Helsinki Gran Fondo am Velodrom Helsinki: 160 km oder 100 km durch die Küstenlandschaft der finnischen Hauptstadtregion. UCI Gran Fondo World Series Qualifikationsrennen für die Weltmeisterschaften.",
-  "distanceKm": 160
+  "distanceKm": 160,
+  "imageUrl": "https://helsinkigranfondo.pyoraily.fi/wp-content/uploads/sites/2/2025/04/mika-on-gran-fondo.webp"
 }

@@ -19,5 +19,6 @@
   "websiteUrl": "https://gravel-rallye.com/black-forest",
   "description": "Dreitagiges Gravel-Rallye-Event rund um den Feldberg im suedlichen Schwarzwald mit Base-Camp in Altglashueetten. Freitag-Abenteuer-Overnight-Route sowie Samstag Qualifier-Rallye durch die typischen Schwarzwaldlandschaften auf Forstwegen und Schotterpisten. Verbindung aus Wettkampf und Bikepacking-Erlebnis.",
   "distanceKm": 180,
-  "elevationGainM": 5000
+  "elevationGainM": 5000,
+  "imageUrl": "https://gravel-rallye.com/wp-content/uploads/2019/09/hirsch-sprung-gravel-rallye-black-forest-2019-teilnehmergruppe.jpg"
 }

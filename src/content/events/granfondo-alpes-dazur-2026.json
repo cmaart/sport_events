@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.gfalpesdazur.com/",
   "description": "Granfondo Alpes d'Azur in den Seealpen nahe Nizza: Granfondo 137 km (2.750 Hm) und Mediofondo 87 km (1.600 Hm) durch die Arrière-pays niçois. Teil der 10. Auflage des Challenge Granfondo Alpes-Maritimes.",
   "distanceKm": 137,
-  "elevationGainM": 2750
+  "elevationGainM": 2750,
+  "imageUrl": "https://gfalpesdazur.com/wp-content/uploads/2026/03/col-connecte-st-raphael-73.jpg"
 }
