@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://www.jedermann-radrennen.de/schwerin",
   "description": "11. Schweriner Jedermann-Renntag vom historischen Marstall durch die Lewitz und am Aussenssee entlang. Zwei Renndistanzen: AOK-Fitnessrunde (50 km) und Sparkassenrennen (90 km) mit Flugstart auf der Crivitzer Chaussee. Zieldurchfahrt ueber den Paulsdamm mit Schlosssicht.",
-  "distanceKm": 90
+  "distanceKm": 90,
+  "imageUrl": "https://www.jedermann-radrennen.de/export/sites/mkevent/_conf/system/pix/header2023.jpg"
 }

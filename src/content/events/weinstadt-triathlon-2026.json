@@ -13,10 +13,11 @@
   },
   "location": {
     "name": "Weinstadt",
-    "lat": 48.8040,
-    "lng": 9.3730
+    "lat": 48.804,
+    "lng": 9.373
   },
   "websiteUrl": "https://www.sgweinstadt.de/weinstadt-triathlon",
   "description": "2. WeinstadtTriathlon in Weinstadt im Remstal, veranstaltet von der SG Weinstadt. Jedermann-Distanz: 0,3 km Schwimmen / 18,8 km Radfahren / 5,4 km Laufen. Ergänzend Swim & Run für Kinder und Jugendliche. Start 10:00 Uhr, Meldeschluss 23. September 2026.",
-  "distanceKm": 25
+  "distanceKm": 25,
+  "imageUrl": "https://www.sgweinstadt.de/fileadmin/_processed_/3/1/csm_DT2_6296_ec30f4d66a.jpg"
 }

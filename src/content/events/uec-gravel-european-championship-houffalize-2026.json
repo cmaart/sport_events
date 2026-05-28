@@ -18,5 +18,6 @@
   "websiteUrl": "https://eurogravel26.com/",
   "description": "UEC Europameisterschaft Gravel 2026 in Houffalize (Provinz Luxemburg, Ardennen): 141 km / 2.100 Hm (3 Runden) oder 94 km / 1.400 Hm (2 Runden) auf 70–80 % Offroad-Terrain. Gleichzeitig UCI Gravel World Series-Qualifikation; Start am Grand Place mit dem berühmten Anstieg der Rue du Saint-Roch, bekannt aus Lüttich–Bastogne–Lüttich.",
   "distanceKm": 141,
-  "elevationGainM": 2100
+  "elevationGainM": 2100,
+  "imageUrl": "https://eurogravel26.com/wp-content/uploads/sites/263/2026/03/kdzhouffa25d_8885253.jpg"
 }

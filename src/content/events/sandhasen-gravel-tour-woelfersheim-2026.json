@@ -2,7 +2,9 @@
   "id": "sandhasen-gravel-tour-woelfersheim-2026",
   "name": "Sandhasen Gravel-Tour Wölfersheim",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-07-05",
@@ -17,5 +19,6 @@
   },
   "websiteUrl": "https://www.rtc-sandhasen.de/",
   "description": "Gravel-Tourenfahrt des RTC Sandhasen '88 Wölfersheim in der Wetterau nördlich von Frankfurt. Angeboten werden zwei Gravel-Strecken über 38 und 63 km durch die flache bis leicht hügelige Landschaft der Wetterauer Seenplatte. Eine geführte Gruppe startet um 8:00 Uhr; Verpflegungsstellen in Orbes und Stornfels.",
-  "distanceKm": 63
+  "distanceKm": 63,
+  "imageUrl": "https://homepagedesigner.telekom.de/imageprocessor/processor.cls/CMTOI/cm4all/com/widgets/PhotoToi/19/28/83/16/16a9c0245f9/scale_1200_0%3Bdonotenlarge/16a9c0245f9"
 }

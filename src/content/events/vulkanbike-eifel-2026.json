@@ -19,5 +19,6 @@
   "websiteUrl": "https://vulkan.bike",
   "description": "Gravel- und MTB-Marathon in der Vulkaneifel um Daun in Rheinland-Pfalz mit Streckenvarianten von 38 bis 101 km und 2.400 m Hoehengewinn auf der laengsten Strecke. Typische Eifellandschaft mit Vulkanmaaren, Basalthuegeln und dichten Waeldern auf anspruchsvollen Schotterpassagen. Populaerstes Gravel-Event der Eifelregion.",
   "distanceKm": 101,
-  "elevationGainM": 2400
+  "elevationGainM": 2400,
+  "imageUrl": "https://www.vulkan.bike/wp-content/uploads/2023/11/Header_VulkanBike_Trailkpark.webp"
 }

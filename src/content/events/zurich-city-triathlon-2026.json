@@ -2,7 +2,10 @@
   "id": "zurich-city-triathlon-2026",
   "name": "Zurich City Triathlon",
   "sport": "triathlon",
-  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
   "country": "CH",
   "dates": {
     "start": "2026-06-27",
@@ -16,5 +19,6 @@
   },
   "websiteUrl": "https://zurichcitytriathlon.ch/",
   "description": "Stadtmitten-Triathlon im Herzen von Zürich mit über 5.000 Teilnehmerinnen und Teilnehmern aus aller Welt. Schwimmen in der Limmat, schnelle und gesperrte Radstrecke um das Seebecken, Lauf durch die Altstadt. Einer der schnellsten Triathlonstrecken der Schweiz auf olympischer und Sprint-Distanz; viele Kategorien bereits ausgebucht.",
-  "distanceKm": 52
+  "distanceKm": 52,
+  "imageUrl": "https://zurichcitytriathlon.ch/wp-content/uploads/2026/05/Design-ohne-Titel-1024x576.png"
 }

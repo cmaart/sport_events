@@ -20,5 +20,6 @@
   "websiteUrl": "https://waldmuenchner-radrundfahrt.de",
   "description": "16. Waldmünchner Radrundfahrt im Oberpfälzer Wald, Bayerischer Wald. Neun Strecken für Rennrad, Gravel und MTB von 40 bis 206 km (Trenck-Radmarathon) mit bis zu 2.950 Hm. Start 07:00 Uhr am Marktplatz Waldmünchen, Strecken führen durch den Oberpfälzer Wald bis an die tschechische Grenze.",
   "distanceKm": 206,
-  "elevationGainM": 2950
+  "elevationGainM": 2950,
+  "imageUrl": "https://waldmuenchner-radrundfahrt.de/wp-content/uploads/2019/01/Radrundfahrt-2018-35-e1547844383920.jpg"
 }

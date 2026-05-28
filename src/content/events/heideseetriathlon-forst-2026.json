@@ -14,9 +14,10 @@
   "location": {
     "name": "Forst (Kraichgau)",
     "lat": 49.1833,
-    "lng": 8.7000
+    "lng": 8.7
   },
   "websiteUrl": "https://tvforst-triathlon.de",
   "description": "36. Heideseetriathlon in Forst im Kraichgau, einer der traditionsreichsten Triathlons in Baden-Württemberg. Schwimmen im Heidesee, hügelige Radstrecke durch die Kraichgauer Landschaft (1 km / 32 km / 7,5 km). Das Event ist regelmäßig ausgebucht.",
-  "distanceKm": 41
+  "distanceKm": 41,
+  "imageUrl": "https://tvforst-triathlon.de/wp-content/uploads/2025/05/250511-Heideseetriathlon-034-scaled.jpg"
 }

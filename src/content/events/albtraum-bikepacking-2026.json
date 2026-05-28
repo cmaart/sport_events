@@ -19,5 +19,6 @@
   "websiteUrl": "https://albtraum-bikepacking.de/",
   "description": "Gravel-Bikepacking-Event auf der Schwäbischen Alb mit selbst navigierten Strecken: ca. 700 km, 500 km und 320 km durch die raue Landschaft zwischen Albtrauf und Donau. Start 9 Uhr am Badwerk Bad Urach. Keine Rennatmosphäre – alle Strecken sind mit GPX zu navigieren, ohne offizielle Zeitmessung. Einzel- und Teamstart möglich.",
   "distanceKm": 500,
-  "elevationGainM": 6500
+  "elevationGainM": 6500,
+  "imageUrl": "https://www-static.albtraum-bikepacking.de/wp-content/uploads/2025/01/P1002120-scaled.jpg"
 }

@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://goteborgsgirot.se/",
   "description": "Göteborgsgirot in Göteborg: Westschwedisches Radsport-Festival mit Gran Fondo 150 km und Sportive 60 km durch die hügelige Küstenlandschaft rund um Göteborg. Limitiert auf ca. 2.500 Teilnehmer. Größtes Radrennen an der schwedischen Westküste.",
-  "distanceKm": 150
+  "distanceKm": 150,
+  "imageUrl": "https://goteborgsgirot.se/wp-content/uploads/2019/03/1200x630px.jpg"
 }

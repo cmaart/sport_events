@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://www.jedermann-radrennen.de/rostock",
   "description": "Jedermann-Radrennen am Ostseepark Lambrechtshagen bei Rostock auf geschuetzten Regionalstrassen durch das mecklenburgische Flachland. Bis zu 500 Teilnehmer auf 45 und 70 km, Streckenabsicherung durch Feuerwehr und Polizei. Fruehjahrssaisonstart im April.",
-  "distanceKm": 70
+  "distanceKm": 70,
+  "imageUrl": "https://www.jedermann-radrennen.de/export/sites/mkevent/_conf/system/pix/header2023.jpg"
 }

@@ -2,7 +2,9 @@
   "id": "uci-granfondo-la-nucia-2026",
   "name": "UCI Gran Fondo La Nucía",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "ES",
   "dates": {
     "start": "2026-10-18",
@@ -10,11 +12,12 @@
   },
   "location": {
     "name": "La Nucía",
-    "lat": 38.6310,
-    "lng": -0.1270
+    "lat": 38.631,
+    "lng": -0.127
   },
   "websiteUrl": "https://granfondolanucia.com/en/",
   "description": "UCI Gran Fondo La Nucía – neues UCI Gran Fondo World Series-Rennen 2026 an der Costa Blanca (Alicante): 132 km durch die Berglandschaft hinter Benidorm. Beliebte Trainingsgegend für WorldTour-Teams im Herbst/Winter. Ideales Herbstklima mit ca. 20–22 °C für Top-Zeiten.",
   "distanceKm": 132,
-  "elevationGainM": 1800
+  "elevationGainM": 1800,
+  "imageUrl": "https://granfondolanucia.com/wp-content/uploads/2024/02/alejandro-valverde-gran-fondo.jpg"
 }
