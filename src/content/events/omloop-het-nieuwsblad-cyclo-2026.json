@@ -18,5 +18,6 @@
   "websiteUrl": "https://omloophetnieuwsbladcyclo.be/en/",
   "description": "Omloop Het Nieuwsblad Cyclo in Ninove (Flandern): 150 km / 1.314 Hm, 120 km, 80 km oder 60 km über die klassischen Pflasterstein-Anstiege der flämischen Ardennen – Muur de Grammont und Bosberg. Amateurbegleitveranstaltung zum gleichnamigen WorldTour-Frühjahrsklassiker.",
   "distanceKm": 150,
-  "elevationGainM": 1314
+  "elevationGainM": 1314,
+  "imageUrl": "https://omloophetnieuwsbladcyclo.be/wp-content/uploads/sites/74/2025/11/K2025_1694_ONC-banners_1920-x-1005_09.jpg"
 }

@@ -18,5 +18,6 @@
   "websiteUrl": "https://granfondotorino.it/en/",
   "description": "Granfondo Internazionale Briko Torino – Luca Ferrero Memorial: 113 km (1.900 Hm) durch die piemontesischen Hügel rund um Turin. Start 8:30 Uhr vom Corso Casale (Motovelodromo), Ziel auf dem Colli Panoramica Superga. Klassiker im April auf FCI/UCI-Kalender; Teil der Granfondo Italian Series.",
   "distanceKm": 113,
-  "elevationGainM": 1900
+  "elevationGainM": 1900,
+  "imageUrl": "https://granfondotorino.it/wp-content/uploads/GranFondo-Torino-Header.jpg"
 }

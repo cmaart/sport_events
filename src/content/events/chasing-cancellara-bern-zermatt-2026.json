@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.chasingcancellara.com/bern-zermatt",
   "description": "Chasing Cancellara Bern–Zermatt: 274 km / ca. 5.500 Hm von Ittigen bei Bern über mehrere Walliser Alpenpässe nach Zermatt. Start um 02:00 Uhr; zeitgenommene Ultradistanz mit Solo-, Relay-, Paar- und Triowertung. Härtester Abschnitt der Chasing Cancellara Serie; Teil des Swiss Cycling Top Tour.",
   "distanceKm": 274,
-  "elevationGainM": 5500
+  "elevationGainM": 5500,
+  "imageUrl": "https://static.wixstatic.com/media/ded0b9_412d38de90d14046b96db7ef49b661f0~mv2.jpg"
 }
