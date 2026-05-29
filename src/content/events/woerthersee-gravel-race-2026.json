@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.woerthersee-gravel.com",
   "description": "Österreichs größtes Gravel-Event und Teil der UCI Gravel World Series – 3. Ausgabe. 2.000 Teilnehmer aus über 40 Nationen, rund 8.000 Zuschauer. Qualifikationsrennen für die UCI Gravel Weltmeisterschaften. Strecke rund um den Wörthersee und durch die Kärntner Hügellandschaft. Start und Ziel in Velden.",
   "distanceKm": 120,
-  "elevationGainM": 2000
+  "elevationGainM": 2000,
+  "imageUrl": "https://i0.wp.com/granfondodailynews.com/wp-content/uploads/2026/04/img_0731.jpg?fit=816%2C459&ssl=1"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://lew-kuhseetriathlon.de",
   "description": "Triathlonevent am Kuhsee in Augsburg, praesentiert von Lechwerke LEW. Sprint und Olympische Distanz mit Schwimmen im Kuhsee, Radstrecke durch den Augsburger Raum und Laufen. Zweitagesveranstaltung in der Fuggerstadt Augsburg mit hohem Zuschauerambiente am belebten Badesee.",
   "distanceKm": 52,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://www.lew-kuhseetriathlon.de/files/kmsport/layout/Kuhsee-Triathlon_Header_HOME.jpg"
 }

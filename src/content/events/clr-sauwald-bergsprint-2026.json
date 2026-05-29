@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.clr-sauwald.at",
   "description": "CLR-Sauwald Bergsprint in Engelhartszell an der Donau (OÖ): 10 km mit 420 Höhenmetern von Engelhartszell nach Stadl im Sauwald. Bergzeitfahren mit Gaudi-Wertung, malerische Donauschlucht-Region. Veranstalter: Cycling Liebhaber Racing Sauwald.",
   "distanceKm": 10,
-  "elevationGainM": 420
+  "elevationGainM": 420,
+  "imageUrl": "https://static.wixstatic.com/media/7b7df2_bcede208f58b4966a82dbc056d346baf~mv2.jpg/v1/fill/w_1547,h_433,q_90,enc_avif,quality_auto/7b7df2_bcede208f58b4966a82dbc056d346baf~mv2.jpg"
 }
