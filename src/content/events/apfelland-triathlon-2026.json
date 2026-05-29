@@ -22,5 +22,6 @@
   "websiteUrl": "https://www.apfel-tri.com",
   "description": "Einer der größten Triathlons Österreichs mit bis zu 5.000 Zuschauern am Stubenbergsee in der Oststeiermark. Drei Wettkampftage: Kids Aquathlon (Fr), Sprint- und Olympische Distanz (Sa), Mitteldistanz 2 km/80 km/18 km (So). Schauplatz der Österreichischen Staatsmeisterschaft Olympische Distanz. Startschuss in der türkisklaren Bucht des Stubenbergsees.",
   "distanceKm": 100,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://www.steiermark.com/deskline/events/events/ApfelLand%20Triathlon_66047406/6527807/image-thumb__6527807__demi-infrastructure-event-half-header-img/triathlon_schwimmen_oststeiermark_66047411.7c82dac6.jpg"
 }

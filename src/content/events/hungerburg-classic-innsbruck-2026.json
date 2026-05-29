@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.innsbrucker-schwalben.at/hungerburg-classic",
   "description": "Eines der aeltesten Bergrennen Oesterreichs seit 1931, organisiert vom Radsportverein Innsbrucker Schwalben. Bergzeitfahren zur Hungerburg (Innsbrucker Bergbahn-Station) mit 3,5 km Streckenlänge und 250 m Hoehengewinn. Historisches Radrennen mit Tradition als Saisonoeffner im Tiroler Radsportkalender.",
   "distanceKm": 4,
-  "elevationGainM": 250
+  "elevationGainM": 250,
+  "imageUrl": "https://www.urc-ebbs.eu/wp-content/uploads/2026/05/K1600_20260418_135641-Kopie-1200x675.jpg"
 }

@@ -2,7 +2,9 @@
   "id": "pirker-grenzerfahrung-2026",
   "name": "Pirker GRENZErfahrung",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-08-09",
@@ -16,5 +18,6 @@
   "websiteUrl": "http://grenzerfahrung.vcc-pirk.de/",
   "description": "Die Pirker GRENZErfahrung des VC Concordia Pirk führt von Pirk in der Oberpfalz durch die hügelige Mittelgebirgslandschaft nahe der tschechischen Grenze. Die 205-Kilometer-Marathonstrecke überwindet rund 3.150 Höhenmeter und gilt als einer der anspruchsvollsten Radmarathons Bayerns. Drei Streckenvarianten zwischen 155 und 205 Kilometern stehen zur Wahl, alle geprägt von Waldpassagen und langen Anstiegen.",
   "distanceKm": 205,
-  "elevationGainM": 3150
+  "elevationGainM": 3150,
+  "imageUrl": "https://www.onetz.de/f/ic/Detailed/articlemedia/2024/08/11/45a0958b-3c7b-4302-8365-63edd2accfac.jpg"
 }

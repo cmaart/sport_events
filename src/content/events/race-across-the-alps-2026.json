@@ -21,5 +21,6 @@
   "websiteUrl": "https://raceacrossthealps.com",
   "description": "Ultralang-Radrennen durch drei Länder (Österreich, Schweiz, Italien) mit Start und Ziel in Nauders: 525 km und 14.500 Höhenmeter, Zeitlimit 32 Stunden. Offizielles Qualifying-Rennen für den Race Across America (RAAM). Gilt als eines der härtesten Eintages-Radrennen der Welt.",
   "distanceKm": 525,
-  "elevationGainM": 14500
+  "elevationGainM": 14500,
+  "imageUrl": "https://imxplatform-cust-tw.fsn1.your-objectstorage.com/media/race-across-the-alps-ctvb-tiroler-oberland-nauders-rudi-wyhlidal.jpg"
 }

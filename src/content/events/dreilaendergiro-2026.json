@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.dreilaendergiro.at",
   "description": "Legendärer Alpen-Giro durch Österreich, Italien und die Schweiz. Zwei Strecken: Stelvio Vinschgau (120 km, 3.000 hm) und Stelvio Engadin (168 km, 3.600 hm) inkl. Stilfserjoch (2.757 m). Beide Bewerbe 2026 ausverkauft – Warteliste über Veranstalter.",
   "distanceKm": 168,
-  "elevationGainM": 3600
+  "elevationGainM": 3600,
+  "imageUrl": "https://cloudpowered.blob.core.windows.net/images/2022-Dreil%C3%A4ndergiro.png"
 }

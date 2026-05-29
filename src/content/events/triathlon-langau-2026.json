@@ -21,5 +21,6 @@
   "websiteUrl": "https://www.triathlon-langau.at",
   "description": "21. Interregionaler Triathlon am idyllischen Bergwerksee im Waldviertel: Olympische Distanz (1,5 km/40 km/10 km) und Sprint (750 m/21 km/4,5 km), dazu Staffeln und Kinder-Aquathlon. Veranstaltet von SVU Langau.",
   "distanceKm": 52,
-  "elevationGainM": 300
+  "elevationGainM": 300,
+  "imageUrl": "https://www.langau.gv.at/images/stories/photos/Triathlon/m_Luftaufnahme-Wechselzohne-Pano.jpg"
 }

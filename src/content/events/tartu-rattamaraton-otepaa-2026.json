@@ -18,5 +18,6 @@
   "websiteUrl": "https://tartumaraton.ee/en/tartu-rattamaraton-2026/",
   "description": "Tartu Rattamaraton in Otepää → Elva (Südestland): Erster UCI Gravel World Series-Qualifikationsevent in Estland mit 126 km / 1.500 Hm, 86 km, 40 km oder 21 km auf 93 % Offroad (Schotter, Waldpisten). Route entlang der historischen Tartu-Skimarathon-Strecke; Start am Tehvandi-Sportzentrum.",
   "distanceKm": 126,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://tartumaraton.ee/cache/tartu_maraton/public/competition_img/_1500x500x1/1896_2_RM_26_1500x500_eng.jpg"
 }

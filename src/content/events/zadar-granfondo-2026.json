@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://www.zadargranfondo.com/",
   "description": "Zadar Granfondo Falkensteiner Borik: Granfondo 112 km oder 56 km entlang der dalmatinischen Küste und durch das Hinterland Zadars. Start und Ziel im Falkensteiner Resort Borik. Teil des Granfondo World Tour. Mediterrane Kulisse an der Adria.",
-  "distanceKm": 112
+  "distanceKm": 112,
+  "imageUrl": "https://cloudpowered.blob.core.windows.net/images/gf-2020-zadar-granfondo.png"
 }

@@ -14,10 +14,11 @@
   "location": {
     "name": "Winterberg",
     "lat": 51.1912,
-    "lng": 8.5280
+    "lng": 8.528
   },
   "websiteUrl": "https://3rides.de/winterberg",
   "description": "UCI Gravel World Series Qualifying Event im Hochsauerland rund um das Wintersportzentrum Winterberg. Dreitagiges Gravelrennen ueber 43-km-Runden durch den Rothaargebirge auf unbefestigten Waldwegen und Schotterpassagen. Als UCI-Qualifier zieht das Event internationale Gravelfahrer an und bietet WM-Qualifikationspunkte.",
   "distanceKm": 130,
-  "elevationGainM": 2400
+  "elevationGainM": 2400,
+  "imageUrl": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2025/12/3RIDES-Gravel-Winterberg_Stage-3.jpg"
 }

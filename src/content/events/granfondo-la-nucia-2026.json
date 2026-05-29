@@ -2,7 +2,9 @@
   "id": "granfondo-la-nucia-2026",
   "name": "Gran Fondo La Nucía Costa Blanca",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "ES",
   "dates": {
     "start": "2026-10-18",
@@ -12,10 +14,11 @@
   "location": {
     "name": "La Nucía",
     "lat": 38.6268,
-    "lng": -0.1170
+    "lng": -0.117
   },
   "websiteUrl": "https://granfondolanucia.com/en/",
   "description": "UCI Gran Fondo World Series Qualifier an der Costa Blanca mit Blick auf die Berge der Marina Baixa. Gran Fondo (132 km / 2.275 Hm) und Medio Fondo (71 km / 1.073 Hm) durch das Hinterland der Provinz Alicante. Oktober-Klima ideal für schnelle Zeiten.",
   "distanceKm": 132,
-  "elevationGainM": 2275
+  "elevationGainM": 2275,
+  "imageUrl": "https://cloudpowered.blob.core.windows.net/images/2024-La-Nuc%C3%ADa.png"
 }

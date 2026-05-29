@@ -2,7 +2,9 @@
   "id": "the-majestics-villars-2026",
   "name": "The Majestics Gran Fondo",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "CH",
   "dates": {
     "start": "2026-07-10",
@@ -17,5 +19,6 @@
   "websiteUrl": "https://themajestics.ch/en/",
   "description": "The Majestics Gran Fondo – UCI Gran Fondo World Series-Qualifikation in den Waadtländer Alpen: Granfondo 150 km (3.700 Hm) oder Mediofondo 97 km (2.500 Hm) sowie Zeitfahren (7,4 km) am Vortag. Letzter europäischer Qualifier vor der UCI Gran Fondo Weltmeisterschaft 2026 in Japan.",
   "distanceKm": 150,
-  "elevationGainM": 3700
+  "elevationGainM": 3700,
+  "imageUrl": "https://cloudpowered.blob.core.windows.net/images/_DSC0764.jpg"
 }

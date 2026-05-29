@@ -2,7 +2,12 @@
   "id": "valais-triathlon-festival-2026",
   "name": "Valais Triathlon Festival",
   "sport": "triathlon",
-  "categories": ["Langdistanz", "Mitteldistanz", "Olympische Distanz", "Sprintdistanz"],
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
   "country": "CH",
   "dates": {
     "start": "2026-08-14",
@@ -12,9 +17,10 @@
   "location": {
     "name": "Sion – Domaine des Îles",
     "lat": 46.2333,
-    "lng": 7.3690
+    "lng": 7.369
   },
   "websiteUrl": "https://valaistriathlon.ch/en/",
   "description": "Das einzige Triathlon-Festival der Schweiz, das alle Distanzen von der Langdistanz bis zum Kinderrennen anbietet – Dritte Auflage im malerischen Domaine des Îles in Sion. Langdistanz (3,8/180/42,2 km), Halbdistanz (1,9/90/21,1 km), Olympisch (1,5/40/10 km) und Sprint (500/20/5 km) sowie Familien- und Spaßformate. Festivalatmosphäre am Wochenende für Anfänger bis Profis.",
-  "distanceKm": 226
+  "distanceKm": 226,
+  "imageUrl": "https://images.ctfassets.net/ukaa6ik2569a/49zrIa0Is3WEBg1CqE5uop/66a7ce0a22ca50903f555ac3325b3607/erlebnis_top-events_keyvisual2.jpg"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://roemermann.de",
   "description": "30. Jubilaeum des RoemerMans in der roemischen Altstadt Ladenburg am Neckar bei Heidelberg. Standarddistanz (1.800 m / 42 km / 10 km) und Fitness-Triathlon (500 m / 23 km) sowie Kinder- und Familienstarter. Stimmungsvolles historisches Ambiente in der ehemaligen roemischen Siedlung Lopodunum.",
   "distanceKm": 54,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "imageUrl": "https://roemermann.de/wp-content/uploads/Fitnesstriathlon-Run-1024x461.jpg"
 }

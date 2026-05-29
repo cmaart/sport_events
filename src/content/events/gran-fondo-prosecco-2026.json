@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.granfondoprosecco.it/",
   "description": "22. Gran Fondo Prosecco in den UNESCO-Welterbe-Proseccohügeln des Veneto: Lange Strecke 130 km/3.200 Hm durch die hügeligen Weinberge zwischen Valdobbiadene und Conegliano; Kurze Strecke 80 km/1.500 Hm. UCI-Gran-Fondo-Qualifikationsrennen mit internationalem Starterfeld.",
   "distanceKm": 130,
-  "elevationGainM": 3200
+  "elevationGainM": 3200,
+  "imageUrl": "https://www.proseccocycling.it/wp-content/uploads/en_colline_2027.webp"
 }

@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.maibacher-triathlon.de/",
   "description": "Maibacher Triathlon des Freizeitsportvereins Maibach mit Start am Freibad Maibach im Hintertaunus. 300 m Schwimmen im Freibad, 17 km Rad über Wernborn, Eschbach und Michelbach sowie 6 km Lauf durch den Maibacher Wald. Coupierte Rad- und Laufstrecke mit rund 220 bzw. über 100 Höhenmetern.",
   "distanceKm": 23,
-  "elevationGainM": 320
+  "elevationGainM": 320,
+  "imageUrl": "https://www.maibach-online.de/images/Maibach_home.jpg"
 }
