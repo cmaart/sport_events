@@ -2,9 +2,9 @@
 
 ## Session date: 2026-05-28 (Session 6)
 
-## Current state (after Session 6 – IN PROGRESS):
+## Current state (after Session 6 – FINAL):
 - **Total events: 743** (739 from Session 5 + 4 new)
-- Events with imageUrl: **570** (76%) — 3 more agents still running (Batches I, J, K)
+- Events with imageUrl: **580** (78%) — up from 352 (47%) in Session 5
 - Build: ~775 pages
 
 ## Changes made this session (Session 6):
@@ -15,30 +15,28 @@
 - `schoenleiten-1000-aflenz-2026` — AT, Gravel+Berg, Aflenz (Steiermark), May 31, 10km/1000hm (rc-hochschwabaflenz.at verified)
 - `race-across-austria-north-south-2026` — AT, Radmarathon+Etappenrennen, Linz (OÖ), Jun 16-20, 1000km/14000hm (raceacrossaustria.com verified)
 
-### imageUrl additions (Commit 1: 33 files, Commit 2: 16 files, Commit 3: 3 files):
-- Commit 1: ~30 events including AT (waidhofner, ASKÖ events), IT (giro-lombardia, nove-colli, laigueglia), NO (lillehammer-birkebeiner), International batch
-- Commit 2 (16 Scandinavian/British/FR/ES events): birkebeinerrittet, castle-race-cholmondeley/hever, chouffe-classic, cimes-du-mercantour, col-de-la-loze-challenge, colnago-gf-luberon, douro-granfondo, dwars-door-vlaanderen-cyclo, etape-caledonia, etape-du-dales, etape-greece, evertsberg-gravel, fnld-grvl-lahti, fred-whitton-challenge, fyen-rundt
-- Commit 3: granfondo-rosa-oosterbeek, granfondo-sestriere, beast-of-bramsche
+### imageUrl additions — all batches (total: ~228 new imageUrls this session, 352→580):
+- Early commits (3): ~49 events — AT/IT/NO/International cycling
+- Batch D (19): German cycling (radmarathon.de events)
+- Batch E (13): AT events + more DE cycling
+- Batch F (32): European cycling (IT, FR, ES, BE, CH, GB, NO, SE, DK, etc.)
+- Batch G (14): Remaining DE triathlons
+- Batch H (26): Misc events across Europe (PL, EE, BE, ES, PT, DE, AT)
+- Batch C (26): German triathlons (altmark, hannover, heideseetriathlon, seenland, etc.)
+- Batch B (18): Challenge Family x3, T100 x3, XTERRA x4, Outlaw x3, others x5
+- Batch I (5): More DE triathlons (bibermann, neroman, pfordterman, rigolator, stadttriathlon-forchheim)
+- Batch J (3): DE/AT cycling (sks-sauerland, sparkassen-heide-gravel, rad-am-salzburgring)
+- Batch K (2): International (la-cantabrona ES, race-across-austria-north-south)
 
-### imageUrl agents completed:
-- Batch D (German cycling): 19 verified images applied
-- Batch E (AT events + more DE cycling): 13 verified images applied
-- Batch F (European cycling, 50 events): 32 images applied
-- Batch G (remaining DE triathlons): 14 images applied
-- Total so far: 88 new imageUrls in this session
-- Coverage: 492/743 (66%) — up from 352
+### Known blocks / permanently unobtainable imageUrls:
+- **6 IRONMAN events** (ironman-703-*): ironman.com returns 403 hostname_blocked for all requests
+- **ASO events** (cyclassics-hamburg, eschborn-frankfurt-jedermann, paris-roubaix-challenge, lidl-deutschland-tour): img.aso.fr blocks hotlinking
+- **~50 events** with sites behind WAF/SSL issues or returning 403/503/ECONNREFUSED
+- **~30 events** with only logos, square images, or portrait images
+- **~20 events** with JS-rendered lazy-loaded images only (no static URL in HTML)
 
-### imageUrl agents completed (all):
-- Batch B (18 events): Challenge Family x3, T100 x3, XTERRA x4, Outlaw x3, others x5
-- Batch C (26 events): German triathlons
-- Batch H (26 events): misc events across Europe
-- Total session imageUrl additions: ~133 events (492→570, 66%→76%)
-- Skipped/blocked: 6 IRONMAN (hostname blocked), ASO events (img.aso.fr), several small-format images
-
-### imageUrl agents still running (Session 6 continuation):
-- Batch I: remaining German triathlons (~34 events)
-- Batch J: German + Austrian cycling (~58 events)
-- Batch K: international cycling + triathlon (~55 events)
+### Remaining events without imageUrl (163):
+Mainly: smaller German/Austrian triathlon clubs, many radsport-events.de events (their individual sub-pages return 404), events with CAPTCHA/Cloudflare protection, and events hosted on platforms that block server-side image fetching.
 
 ## Session date: 2026-05-27 (Session 5)
 
