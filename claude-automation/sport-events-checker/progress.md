@@ -4,7 +4,7 @@
 
 ## Current state (after Session 6 – IN PROGRESS):
 - **Total events: 743** (739 from Session 5 + 4 new)
-- Events with imageUrl: **~418** (up from 352; 8 parallel agents still running)
+- Events with imageUrl: **570** (76%) — 3 more agents still running (Batches I, J, K)
 - Build: ~775 pages
 
 ## Changes made this session (Session 6):
@@ -28,11 +28,17 @@
 - Total so far: 88 new imageUrls in this session
 - Coverage: 492/743 (66%) — up from 352
 
-### imageUrl agents still running:
-- Batch A: high-profile cycling (cyclassics-hamburg, mallorca-312, ironman 70.3 etc.)
-- Batch B: Ironman/Challenge/T100/XTERRA
-- Batch C: German triathlons (altmark, biosphaeren, etc.)
-- Batch H: misc remaining events
+### imageUrl agents completed (all):
+- Batch B (18 events): Challenge Family x3, T100 x3, XTERRA x4, Outlaw x3, others x5
+- Batch C (26 events): German triathlons
+- Batch H (26 events): misc events across Europe
+- Total session imageUrl additions: ~133 events (492→570, 66%→76%)
+- Skipped/blocked: 6 IRONMAN (hostname blocked), ASO events (img.aso.fr), several small-format images
+
+### imageUrl agents still running (Session 6 continuation):
+- Batch I: remaining German triathlons (~34 events)
+- Batch J: German + Austrian cycling (~58 events)
+- Batch K: international cycling + triathlon (~55 events)
 
 ## Session date: 2026-05-27 (Session 5)
 
