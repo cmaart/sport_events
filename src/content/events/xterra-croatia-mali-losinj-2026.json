@@ -2,7 +2,9 @@
   "id": "xterra-croatia-mali-losinj-2026",
   "name": "XTERRA Croatia – Mali Lošinj",
   "sport": "triathlon",
-  "categories": ["Cross-Triathlon"],
+  "categories": [
+    "Cross-Triathlon"
+  ],
   "country": "HR",
   "dates": {
     "start": "2026-05-08",
@@ -12,9 +14,10 @@
   "location": {
     "name": "Mali Lošinj",
     "lat": 44.5314,
-    "lng": 14.4680
+    "lng": 14.468
   },
   "websiteUrl": "https://www.xterraplanet.com/event/xterra-croatia-mali-losinj",
   "description": "XTERRA Croatia auf der Insel Mali Lošinj in der Kvarner-Bucht: Schwimmen in der Adria, Mountainbike auf den Insel-Trails und Geländelauf durch die Macchia der Lošinj-Pinienwälder. Full Distance Hauptrennen am 9. Mai; Teil der XTERRA World Tour EMEA Series.",
-  "distanceKm": 42
+  "distanceKm": 42,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/142914/conversions/8Y31YmtpyslTdSpcLQkKEKwbG6O6FTIuQtgyCcXo-web.jpg"
 }

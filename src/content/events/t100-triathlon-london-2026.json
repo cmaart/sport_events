@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://www.t100triathlon.com",
   "description": "T100 Triathlon World Tour Stop in London: Profi-Rennen über die 100-km-T100-Distanz (2 km Schwimmen / 80 km Rad / 18 km Laufen) sowie Amateurbewerbe über Olympische Distanz, Sprint und Super Sprint. Qualifikationsrennen für die T100 Triathlon World Championships. Spektakuläre Kulisse in der britischen Hauptstadt.",
-  "distanceKm": 100
+  "distanceKm": 100,
+  "imageUrl": "https://t100triathlon.com/wp-content/uploads/2024/11/T100-London-2024-WR05909-scaled.jpg"
 }

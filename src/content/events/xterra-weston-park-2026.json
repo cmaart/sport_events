@@ -2,7 +2,9 @@
   "id": "xterra-weston-park-2026",
   "name": "XTERRA Weston Park",
   "sport": "triathlon",
-  "categories": ["Cross-Triathlon"],
+  "categories": [
+    "Cross-Triathlon"
+  ],
   "country": "GB",
   "dates": {
     "start": "2026-05-01",
@@ -16,5 +18,6 @@
   },
   "websiteUrl": "https://www.xterraplanet.com/event/xterra-weston-park",
   "description": "XTERRA Weston Park – Englische Cross-Triathlon-Meisterschaften 2026 auf dem 1.000-Hektar-Anwesen von Weston Park in Staffordshire: Mountainbike auf Singletrack-Kurs durch den Schlosspark, Schwimmen und Geländelauf. Full Distance Sonntag (3. Mai), Sprint Samstag (2. Mai); Super-Sprint ebenfalls verfügbar.",
-  "distanceKm": 45
+  "distanceKm": 45,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/140640/conversions/3HwlJWwonQa5RxkyHWl3loL4faiqo5ziTzScwJaL-web.jpg"
 }
