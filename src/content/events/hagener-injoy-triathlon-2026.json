@@ -1,0 +1,19 @@
+{
+  "id": "hagener-injoy-triathlon-2026",
+  "name": "Hagener IINJOY Triathlon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hagen",
+    "lat": 51.3671,
+    "lng": 7.4631,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.injoy-triathlon-hagen.de/",
+  "description": "Der Hagener IINJOY Triathlon wird vom RSG Hagen ausgerichtet und gehört zu den ältesten Triathlonveranstaltungen in NRW – 2026 bereits die 34. Auflage. Die Olympische Distanz (1,0 km/43 km/10 km) und eine Volksdistanz richten sich an breit aufgestelltes Starterfeld."
+}

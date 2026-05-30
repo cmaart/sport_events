@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.lacasartelli.it/",
   "description": "La Fabio Casartelli im Comersee-Hinterland (Provinz Lecco, Lombardei): 114 km / 2.280 Hm mit dem Muro di Sormano (10% Durchschnitt) als Highlight; weitere Distanzen 75 km und 58 km. Erinnert an den olympischen Goldmedaillengewinner Fabio Casartelli (Barcelona 1992, † Tour de France 1995).",
   "distanceKm": 114,
-  "elevationGainM": 2280
+  "elevationGainM": 2280,
+  "imageUrl": "https://www.lacasartelli.it/assets/images/image%2064.png"
 }

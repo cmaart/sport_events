@@ -1,0 +1,19 @@
+{
+  "id": "vulkanlandaquathlon-riegersburg-2026",
+  "name": "Vulkanlandaquathlon Riegersburg",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegersburg",
+    "lat": 46.998,
+    "lng": 15.941,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "http://www.vulkanlandtriathlon.at/",
+  "description": "Der Vulkanlandaquathlon Riegersburg ist ein reines Schwimm-Lauf-Event in der Vulkanlandschaft der Oststeiermark, veranstaltet vom Vulkanlandtriathlon-Club. Die malerische Kulisse der Riegersburg mit Burgruine macht die Veranstaltung zu einem besonderen Naturerlebnis."
+}

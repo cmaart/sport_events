@@ -2,7 +2,9 @@
   "id": "zollernkoenig-tubingen-2026",
   "name": "Zollernkönig – Tübinger RTF Zollernblick",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-07-05",
@@ -18,5 +20,6 @@
   "websiteUrl": "https://www.rvpfeil-tuebingen.de/rtf/1002-rtf-neu.html",
   "description": "Die Marathonstrecke \"Zollernkönig\" ist die anspruchsvollste der vier GPS-geführten Routen beim Tübinger RTF Zollernblick und wurde 2026 neu eingeführt. Über 213 km und 2.610 Hm führt die Strecke von Tübingen-Hirschau durch die Schwäbische Alb zur Zollernburg und zurück. Start ist zwischen 6 und 6:30 Uhr; Online-Anmeldung erforderlich, keine Tagesanmeldung möglich.",
   "distanceKm": 213,
-  "elevationGainM": 2610
+  "elevationGainM": 2610,
+  "imageUrl": "https://www.rvpfeil-tuebingen.de/images/2025_Tuebinger_RTF/901db952-5635-4b37-b38c-400794b264e2.jpeg"
 }

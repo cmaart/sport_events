@@ -1,0 +1,19 @@
+{
+  "id": "oelder-triathlon-2026",
+  "name": "Oelder Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oelde",
+    "lat": 51.831,
+    "lng": 8.148,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.lv-oelde.de/de/triathlon/",
+  "description": "Der Oelder Triathlon zählt zu den traditionsreichen Breitensportveranstaltungen in Nordrhein-Westfalen. Der LV Oelde organisiert den Volkssport-Triathlon mit Sprintdistanz für Einzel- und Staffelstarter."
+}

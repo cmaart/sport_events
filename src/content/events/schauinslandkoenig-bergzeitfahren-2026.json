@@ -13,11 +13,12 @@
   },
   "location": {
     "name": "Freiburg im Breisgau",
-    "lat": 47.9410,
+    "lat": 47.941,
     "lng": 7.8313
   },
   "websiteUrl": "https://www.schauinslandkoenig.de",
   "description": "Deutschlands größtes Bergzeitfahren auf den Freiburger Hausberg Schauinsland. Einzelstarts alle 12 Sekunden auf komplett gesperrter Strecke.\n\nStart an der L 124 Schauinslandstraße bei Bohrer/Horben, Ziel an der Bergstation der Schauinslandbahn. 11,5 km mit 770 Höhenmetern.",
   "distanceKm": 11.5,
-  "elevationGainM": 770
+  "elevationGainM": 770,
+  "imageUrl": "https://speed-ville.de/wp-content/uploads/2020/09/schauinslandkonig-02.jpg"
 }
