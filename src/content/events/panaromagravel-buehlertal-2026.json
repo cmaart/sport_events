@@ -2,7 +2,9 @@
   "id": "panaromagravel-buehlertal-2026",
   "name": "PanAromaGravel Bühlertal",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-10-04",
@@ -18,5 +20,6 @@
   "websiteUrl": "https://www.rsv-falkenfels.de/panaromagravel/",
   "description": "Gravel-Event des RSV Falkenfels Bühlertal im nördlichen Schwarzwald mit Start am Haus des Gastes in Bühlertal. Vier Strecken von 50 km (800 Hm) bis 133 km (2.900 Hm) führen durch Wälder, Obstgärten, Weinberge und das Rheintal. Startfenster von 8 bis 9 Uhr; alle Strecken müssen bis 18 Uhr beendet sein.",
   "distanceKm": 133,
-  "elevationGainM": 2900
+  "elevationGainM": 2900,
+  "imageUrl": "https://www.rsv-falkenfels.de/wp-content/uploads/gravel/2024/09/PANAROMA-Radlerhock.webp"
 }

@@ -19,5 +19,6 @@
   "websiteUrl": "https://radsport-events.de",
   "description": "Radmarathon in der Uckermark um Prenzlau in Brandenburg mit vier Strecken von 28 bis 216 km. Die laengte Route fuehrt durch die glazial gepraegten Huegel der Uckermark mit zahlreichen Seen und Waeldern. Herbstevent am Tag der Deutschen Einheit mit urspruenglicher Nordostdeutscher Landschaft.",
   "distanceKm": 216,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "imageUrl": "https://www.huegelmarathon.de/images/2026/04/08/huegelmarathon_neu_2026.jpg"
 }

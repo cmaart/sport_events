@@ -13,11 +13,12 @@
   },
   "location": {
     "name": "Polch",
-    "lat": 50.3000,
+    "lat": 50.3,
     "lng": 7.3167
   },
   "websiteUrl": "https://radsport-events.de",
   "description": "Radmarathon rund um Polch in der Maifeld-Region in Rheinland-Pfalz zwischen Koblenz und Cochem. Streckenvarianten von 43 bis 212 km durch das Moselhochland und die Eifel-Vorzeige-Landschaft. Herbstliches Radmarathon-Event mit typischen Weinbergs- und Hunsruecklandschaften.",
   "distanceKm": 212,
-  "elevationGainM": 2800
+  "elevationGainM": 2800,
+  "imageUrl": "https://www.vfb-polch.de/files/cto_layout/bilder/Radsport%20Allgemein/IMG20240406105726.jpg"
 }
