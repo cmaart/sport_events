@@ -2,7 +2,10 @@
   "id": "allgaeu-spaetzle-ultra-bad-waldsee-2026",
   "name": "Allgäu & Spätzle Ultraradmarathon",
   "sport": "cycling",
-  "categories": ["Radmarathon", "Gravel"],
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-09-24",
@@ -18,5 +21,6 @@
   "websiteUrl": "https://www.allgaeu-spaetzle.de/en",
   "description": "Ultraradmarathon durch das Allgäu, gegründet von Weltrekordhalter Daniel Steinhauser, mit Basecamp im Sportpalast Bad Waldsee. Drei Distanzen: Spätzle Gravel King (430 km, 8.000 Hm Gravel), Spätzle Big Road (350 km, 5.900 Hm) und Spätzle Road King (750 km, 11.500 Hm). Übernachtung und Spätzle-Frühstück im Basecamp inklusive. Start ab 24. September 2026.",
   "distanceKm": 430,
-  "elevationGainM": 8000
+  "elevationGainM": 8000,
+  "imageUrl": "https://static.wixstatic.com/media/410be6_b8642aaafc354a40a674e441fbf3141b~mv2.jpg"
 }
