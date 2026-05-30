@@ -1,5 +1,31 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-05-30 (Session 7)
+
+## Current state (after Session 7 – FINAL):
+- **Total events: 750** (743 from Session 6 + 7 new)
+- Events with imageUrl: **688** (91.7%)
+- Build: ~780 pages
+
+## Changes made this session (Session 7):
+
+### New events added (7):
+- `oelder-triathlon-2026` — DE, Sprintdistanz, Oelde (NRW), May 30
+- `triathlon-brettmuehlenteich-grossenhain-2026` — DE, Sprintdistanz, Zschorna/Großenhain (Sachsen), May 30
+- `hagener-injoy-triathlon-2026` — DE, Olympische Distanz + Sprint, Hagen (NRW), May 31
+- `vulkanlandaquathlon-riegersburg-2026` — AT, Aquathlon, Riegersburg (Steiermark), Sep 6
+- `gran-fondo-greece-loutraki-2026` — GR, Gran Fondo, Loutraki, Nov 1, 112km/889hm (UCI GFWS)
+
+### imageUrl additions (this session — 108 new, 580→688):
+**Batch 1 (previous session, 17 events):**
+- niederrhein-triathlon-kalkar, petershagen-triathlon, zollernkoenig-tubingen, schauinslandkoenig-bergzeitfahren, la-fabio-casartelli, marmotte-granfondo-pyrenees, allgaeu-spaetzle-ultra-bad-waldsee, top-race-germany-bostalsee, granfondo-del-mugello, prinzen-rolle-radmarathon-polch, prenzlauer-huegelmarathon, panaromagravel-buehlertal, sika-triathlon-kornwestheim, sindelfingen-triathlon, halle-triathlon, talsperren-rundfahrt-gevelsberg, poggensee-triathlon-bad-oldesloe
+
+**Batch 2 (this session, 5 events):**
+- gfny-uppsala, rad-am-ring, ultra-rad-challenge-steiermark, vuelta-cicloturista-ibiza, lidl-deutschland-tour
+
+### Remaining events without imageUrl (~43):
+Permanently blocked: vogtland-radmarathon, tour-o-the-borders, desafio-donana, steiraman, nordschwarzwald-triathlon, eberbacher-triathlon, covestro-triathlon-krefeld, bildchen-sprint-siedlinghausen, sugar-gravel-stuttgart, goettinger-dreilaendermarathon, hahnenkamm-mtb (Tyrol.com proxy), rhoen-300 (3rd party), 3-peaks-cyclocross (media CDN), and ~30 small club events
+
 ## Session date: 2026-05-28 (Session 6)
 
 ## Current state (after Session 6 – FINAL):

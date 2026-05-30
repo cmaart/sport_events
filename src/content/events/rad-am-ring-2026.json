@@ -20,5 +20,6 @@
   "websiteUrl": "https://radamring.de",
   "description": "Dreitägiges Radsportfestival auf der legendären Nürburgring-Nordschleife in der Eifel. Jedermann-Rennen über 75 und 150 km, 24h-Radrennen für Teams, 24h-MTB-Rennen, 22-km-Zeitfahren über die Nordschleife sowie MTB-Marathon. Einzigartiges Flair auf der berühmtesten Motorsport-Rennstrecke der Welt.",
   "distanceKm": 150,
-  "elevationGainM": 2000
+  "elevationGainM": 2000,
+  "imageUrl": "https://radamring.de/wp-content/uploads/2019/08/31-07-2019-01.jpg"
 }

@@ -20,5 +20,6 @@
   "websiteUrl": "https://ultraradchallenge.com",
   "description": "Ultra-Rad-Zeitfahren in der Oststeiermark bei Kaindorf mit Distanzen im 3-, 6-, 12- und 24-Stunden-Format. Rund 1.400 erwartete Teilnehmer auf flachen bis huegeligen Rundkursen durch die steirische Weinbaulandschaft. Einzigartiges Ultradistanz-Radsportformat kombiniert mit Zeitfahrwettbewerb.",
   "distanceKm": 600,
-  "elevationGainM": 4000
+  "elevationGainM": 4000,
+  "imageUrl": "https://static.wixstatic.com/media/affe6d_67e74396820b452a8aaa8f47f436b2bf~mv2.jpg"
 }
