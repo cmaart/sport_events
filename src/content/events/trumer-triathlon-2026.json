@@ -4,6 +4,7 @@
   "sport": "triathlon",
   "categories": [
     "Sprintdistanz",
+    "Olympische Distanz",
     "Mitteldistanz"
   ],
   "country": "AT",
@@ -18,7 +19,7 @@
     "lng": 13.0833,
     "region": "Salzburg"
   },
-  "websiteUrl": "https://www.trumer-triathlon.at/",
+  "websiteUrl": "https://www.trumer-triathlon.at/de/",
   "description": "Dreitägiges Triathlonfestival am Obertrumer See bei Salzburg mit sieben Bewerben: Seecrossing am Freitag, Kids- und Fun-Triathlon sowie Sprint am Samstag, Kurz- und Mitteldistanz am Sonntag. Die 17. Auflage gilt als einer der schönsten Mehrtagesbewerbe im deutschsprachigen Raum.",
   "distanceKm": 113,
   "elevationGainM": 600,
