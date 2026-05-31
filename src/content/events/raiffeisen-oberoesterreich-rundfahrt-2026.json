@@ -1,0 +1,23 @@
+{
+  "id": "raiffeisen-oberoesterreich-rundfahrt-2026",
+  "name": "16. Int. Raiffeisen Oberösterreich Rundfahrt",
+  "sport": "cycling",
+  "categories": ["Etappenrennen"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Linz",
+    "lat": 48.3069,
+    "lng": 14.2858,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.ooe-classics.at/ooe-rundfahrt",
+  "imageUrl": "https://www.ooe-classics.at/fileadmin/_processed_/6/a/csm_header_onk_76074dd97a.jpg",
+  "description": "Viertägiges UCI-Etappenrennen durch alle Regionen Oberösterreichs: Etappe 1 startet am Linzer Hauptplatz mit dem Bergzeitfahren auf den Pöstlingberg (4,3 km / 250 hm), Etappe 2 von Eferding nach Reichersberg (186 km / 2.000 hm), Etappe 3 als Sprintflachetappe von Asten nach Bad Schallerbach (156 km) und Etappe 4 mit Start und Ziel in Aigen-Schlägl im Mühlviertel (169 km / 3.100 hm). Über 60 internationale Teams aus fast 20 Nationen, Live-Übertragung auf ORF Sport+.",
+  "distanceKm": 515,
+  "elevationGainM": 5350
+}

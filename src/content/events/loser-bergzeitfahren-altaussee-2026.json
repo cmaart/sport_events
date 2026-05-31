@@ -5,8 +5,8 @@
   "categories": ["Zeitfahren", "Berg"],
   "country": "AT",
   "dates": {
-    "start": "2026-09-26",
-    "confirmed": false
+    "start": "2026-09-19",
+    "confirmed": true
   },
   "location": {
     "name": "Altaussee",

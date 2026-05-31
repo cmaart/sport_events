@@ -1,0 +1,22 @@
+{
+  "id": "weserberglandtriathlon-hoexter-2026",
+  "name": "Weserberglandtriathlon Höxter",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Höxter",
+    "lat": 51.7771,
+    "lng": 9.3793,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.weserberglandtriathlon.de/",
+  "imageUrl": "https://weserberglandtriathlon.de/wp-content/uploads/2026/03/Logo_Weserbergland_Triathlon-Final_rgb.jpg",
+  "description": "Der Weserberglandtriathlon am Godelheimer See bei Höxter bietet einen Volkstriathlon (700 m Schwimmen / 20 km Rad / 5 km Laufen) in der reizvollen Weserberglandschaft. Familienfreundliche Veranstaltung mit Teilnehmermedaillen für alle Finisher."
+}

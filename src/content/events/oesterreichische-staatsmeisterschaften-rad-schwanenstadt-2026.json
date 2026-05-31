@@ -1,0 +1,19 @@
+{
+  "id": "oesterreichische-staatsmeisterschaften-rad-schwanenstadt-2026",
+  "name": "Österreichische Staatsmeisterschaften Straßenradsport 2026",
+  "sport": "cycling",
+  "categories": ["Rundstreckenrennen"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schwanenstadt",
+    "lat": 48.0511,
+    "lng": 13.7733,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://cyclingaustria.at/",
+  "description": "Österreichische Staatsmeisterschaften im Straßenradsport 2026 in Schwanenstadt (OÖ): alle Eliteklassen auf einem Rundkurs von 22,1 km / 184 Hm, mit dem entscheidenden Philippsberg-Anstieg (400 m Länge, 11–19 % Steigung). Die Herren Elite absolvieren 6 große und 4 kleine Runden (5,7 km). Parallel zum Schwanenstadt-Stadtfest; alle österreichischen WorldTour-Profis erwartet."
+}

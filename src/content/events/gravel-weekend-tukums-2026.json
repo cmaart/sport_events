@@ -1,0 +1,19 @@
+{
+  "id": "gravel-weekend-tukums-2026",
+  "name": "Gravel Weekend Tukums",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "LV",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tukums",
+    "lat": 56.9667,
+    "lng": 23.1667
+  },
+  "websiteUrl": "https://gravelweekend.com/en/",
+  "description": "Erste UCI Gravel World Series-Veranstaltung in Lettland, 60 km westlich von Riga in der Nähe der Ostseeküste: 140 km oder 75 km auf rollenden Schotterwegen, Waldwegen und alten Asphaltabschnitten durch hügelige Landschaft. Das Gravel Weekend Tukums verbindet schnelle Schotterpassagen mit kurzen Sandabschnitten und Two Track Wegen.",
+  "distanceKm": 140
+}

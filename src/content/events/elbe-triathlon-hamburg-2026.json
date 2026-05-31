@@ -1,0 +1,22 @@
+{
+  "id": "elbe-triathlon-hamburg-2026",
+  "name": "Elbe-Triathlon Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg-Allermöhe",
+    "lat": 53.4873,
+    "lng": 10.1342,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://www.elbetriathlon.de/",
+  "description": "Der Elbe-Triathlon am Wassersportzentrum Hamburg-Allermöhe bietet Olympische Distanz (1,5 km/40 km/10 km) und Sprint (500 m/20 km/5 km) sowie Jugendkategorien. Traditionsveranstaltung des Hamburger Triathlonsports mit Schwimmen im Allermöher See."
+}

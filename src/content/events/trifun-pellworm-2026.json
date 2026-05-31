@@ -1,0 +1,22 @@
+{
+  "id": "trifun-pellworm-2026",
+  "name": "Trifun Pellworm",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pellworm",
+    "lat": 54.5336,
+    "lng": 8.6649,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.pellworm-trifun.de",
+  "description": "Der Trifun Pellworm ist ein einzigartiger Insel-Sprint-Triathlon auf der nordfriesischen Insel Pellworm: ~500 m Schwimmen in der Nordsee, 20 km Rad rund um die Insel und 5 km Laufen zum Fähranleger und zurück. Spektakuläre Kulisse im Nationalpark Schleswig-Holsteinisches Wattenmeer.",
+  "distanceKm": 26
+}

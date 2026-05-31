@@ -1,0 +1,22 @@
+{
+  "id": "nockbike-trophy-feld-am-see-2026",
+  "name": "NOCKBIKE MTB/Gravel Trophy",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feld am See",
+    "lat": 46.7817,
+    "lng": 13.8789,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.kaernten-radmarathon.at/",
+  "imageUrl": "https://www.kaernten-radmarathon.at/uploads/media/900x400/08/478-DSC05240.jpg?v=1-0",
+  "description": "NOCKBIKE MTB/Gravel/E-Bike Trophy in Feld am See in den Kärntner Nockbergen: ~20 km mit über 1.000 Höhenmetern durch See- und Berglandschaft. Teil des Kärnten Sport Jedermannradcups; Wertung separat für MTB und E-Bike. Kids Race und Charity Challenge als Rahmenprogramm. Eintritt frei bei Teilnahme am ARBÖ Kärnten Radmarathon.",
+  "distanceKm": 20,
+  "elevationGainM": 1000
+}

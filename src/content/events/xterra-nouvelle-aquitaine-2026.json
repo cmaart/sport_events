@@ -1,0 +1,20 @@
+{
+  "id": "xterra-nouvelle-aquitaine-2026",
+  "name": "XTERRA Nouvelle-Aquitaine",
+  "sport": "triathlon",
+  "categories": ["Cross-Triathlon"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peyrat-le-Château",
+    "lat": 45.8136,
+    "lng": 1.7737
+  },
+  "websiteUrl": "https://www.xterra-nouvelle-aquitaine.com/",
+  "description": "XTERRA Cross-Triathlon am malerischen Lac de Vassivière im Herzen der Nouvelle-Aquitaine: XTERRA Full (1,5 km Schwimmen, 33 km MTB, 10 km Geländelauf), Sprint- und Super-Sprint-Distanzen sowie begleitende Trailläufe über 8 bis 40 km. Teil der XTERRA EMEA World Tour.",
+  "distanceKm": 45
+}

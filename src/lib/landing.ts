@@ -38,6 +38,9 @@ export const COUNTRY_SLUGS: Record<Country, string> = {
   BG: 'bulgarien',
   RS: 'serbien',
   GR: 'griechenland',
+  LV: 'lettland',
+  LT: 'litauen',
+  MC: 'monaco',
 };
 
 export const COUNTRY_BY_SLUG: Record<string, Country> = Object.fromEntries(

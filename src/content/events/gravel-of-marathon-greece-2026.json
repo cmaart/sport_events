@@ -1,0 +1,21 @@
+{
+  "id": "gravel-of-marathon-greece-2026",
+  "name": "Gravel of Marathon",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "GR",
+  "dates": {
+    "start": "2026-11-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Marathon",
+    "lat": 38.1543,
+    "lng": 23.9624
+  },
+  "websiteUrl": "https://gravelofmarathon.gr/",
+  "imageUrl": "https://gravelofmarathon.gr/wp-content/uploads/2025/12/cropped-MARATHON_GRAVEL_new-02.jpg",
+  "description": "Erste UCI Gravel World Series Veranstaltung in Griechenland, ausgetragen in der historischen Stadt Marathon nördlich von Athen: 121 km / 2.020 Hm oder 86 km / 1.430 Hm, ca. 90 % auf unbefestigten Wegen. Beide Strecken starten am Marathonstadion; der Kurs beinhaltet einen 600-m-Anstieg mit bis zu 11 % Steigung. Qualifikationsplätze für die 2027 UCI Gravel-Weltmeisterschaft.",
+  "distanceKm": 121,
+  "elevationGainM": 2020
+}

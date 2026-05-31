@@ -1,0 +1,23 @@
+{
+  "id": "muldental-triathlon-grimma-2026",
+  "name": "Eins Energie Muldental-Triathlon Grimma",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grimma",
+    "lat": 51.2377,
+    "lng": 12.7234,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.muldental-triathlon.de/",
+  "imageUrl": "https://muldental-triathlon.de/wp-content/uploads/sites/5/2025/11/Design-ohne-Titel-1.jpg",
+  "description": "Der Eins Energie Muldental-Triathlon in Grimma an der Mulde bietet Olympische Distanz, Sprint und Super-Sprint mit vollgesperrtem Radkurs durch die Innenstadt und einem Laufparcours am Muldeufer. Grimma gilt als die Perle des Muldentals in Westsachsen."
+}
