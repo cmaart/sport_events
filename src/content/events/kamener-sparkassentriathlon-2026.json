@@ -1,0 +1,22 @@
+{
+  "id": "kamener-sparkassentriathlon-2026",
+  "name": "Kamener Sparkassentriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kamen",
+    "lat": 51.5927,
+    "lng": 7.6631,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.kamen-triathlon.de/",
+  "description": "Der 38. Kamener Sparkassentriathlon am Kuhsee bietet Olympische Distanz und Sprint für alle Leistungsklassen. Traditionsveranstaltung des ASC Triathlon Kamen im östlichen Ruhrgebiet mit idyllischem Badewassersee im Stadtpark."
+}

@@ -1,5 +1,50 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-05-31 (Session 8)
+
+## Current state (after Session 8 – FINAL):
+- **Total events: 766** (750 from Session 7 + 16 net new this session)
+- Events with imageUrl: **693** (90.4%)
+- Build: 800 pages
+
+## Changes made this session (Session 8):
+
+### imageUrl additions (5 new — committed in earlier batch):
+- `triathlon-offenburg-2026` — wp-content banner (to2026-17052026.png)
+- `vulkanlandaquathlon-riegersburg-2026` — Bannerbild2.jpg from vulkanlandtriathlon.at
+- `schoenleiten-1000-aflenz-2026` — aflenz MTB summer image (rc-hochschwabaflenz.at)
+- `wobachbergrennen-2026` — raceresult.com share image (1200×630)
+- `tour-o-the-borders-2026` — Chris Hoy / Tour de 4 promotional image (wp-content)
+
+### Skipped (no suitable image found):
+Permanently blocked or no image available: 3-peaks-cyclocross, allgaeu-gravel-ride, bike-challenge-mittelholstein, bildchen-sprint, burning-roads, castellon-gravel-race, churfranken-triathlon (hensel-recycling.com returns 503), city-tri-paderborn (503), covestro-krefeld (svg placeholders), desafio-castilla-leon/donana (503), diaoulman (signed time-limited URL), eberbacher-triathlon, ebersteinburg-bergzeitfahren, eintracht-mainsprint, eschborn-frankfurt (ASO blocks), freyunger-dreilaender, fuenf-seen/genuss-gravel/harema/josef-oster/thueringen-erfahren (radsport-events.de 404s), goettinger-dreilaendermarathon, gran-fondo-greece-loutraki (404), granfondo-amsterdam (ECONNREFUSED), hagener-injoy (logo only), hahnenkamm-mtb (kitzbuehel.com no og:image), heidemarathon (radsportverband-niedersachsen 503), hochsauerlandklassiker (403), kinzigman (no image), la-magnifique (300x169 too small), loewensteiner-berge (no full URL), mussbach-triathlon (triafreunde aggregator), neckarsulmer-triathlon (logo only), niedensteiner (svg), nordschwarzwald-triathlon (403), oelder-triathlon (svg), paris-roubaix-challenge (ASO blocks), radmarathon-neu-anspach (403), radmarathon-rund-um-berlin (no og), rhoen300 (660px logo), ring-of-beara (empty), rudi-bike-race (alpenteamcup png logo), rund-um-den-harz (svg placeholders), rund-um-den-solling (only 2025 images), short-track-griesheim (svg), sommerholz-bergsprint (403), steiraman (403), sugar-gravel-stuttgart (403), svsee-cross-triathlon (no og), taunus-vogelsberg (ECONNREFUSED), triathlon-cap-dail (1536×1920 portrait), triathlon-brettmuehlenteich (403), triathlon-niederbayern (403), triathlon-weiden (no og), viernheimer-triathlon (503), vogtland-radmarathon (ECONNREFUSED)
+
+### New events added (16 total this session):
+**First commit (9 events — raiffeisen, xterra, gravel events, DE triathlon):**
+- `raiffeisen-oberoesterreich-rundfahrt-2026` — AT, Etappenrennen, Jun 4-7
+- `xterra-nouvelle-aquitaine-2026` — FR, Cross-Triathlon, Jun 13-14
+- `gravel-of-marathon-greece-2026` — GR, Gravel UCI, Nov 15
+- `gravel-weekend-tukums-2026` — LV, Gravel UCI, Aug 8
+- `deutsche-radmeisterschaft-strassenrad-2026` — DE, Jun 26-28
+- `oesterreichische-staatsmeisterschaften-rad-schwanenstadt-2026` — AT, Jun 28
+- `nockbike-trophy-feld-am-see-2026` — AT, Gravel, Jun 6
+- `elbe-triathlon-hamburg-2026` — DE, Olympische+Sprint, Hamburg-Allermöhe, Aug 30
+- `muldental-triathlon-grimma-2026` + `trifun-pellworm-2026` + `wanderup-triathlon-2026` + `weserberglandtriathlon-hoexter-2026`
+
+**Second commit (4 events — this run):**
+- `aquariusman-loehne-2026` — DE, Olympische+Sprint, Löhne (NRW), Sep 6 (DTU confirmed)
+- `bergwitz-triathlon-kemberg-2026` — DE, Olympische+Sprint, Kemberg (SA), Sep 5 (DTU confirmed)
+- `aischgrund-triathlon-neustadt-aisch-2026` — DE, Sprintdistanz, Neustadt a.d. Aisch (BY), Aug 30 (DTU confirmed)
+- `kamener-sparkassentriathlon-2026` — DE, Olympische+Sprint, Kamen (NRW), Aug 2 (kamen-triathlon.de confirmed)
+
+### Sources used for new events:
+- DTU calendar (triathlondeutschland.de/termine/veranstaltungskalender) — pages 1-18
+- ÖTRV calendar (triathlon-austria.at) — all AT events verified
+- Official event websites for date/distance verification
+
+### Remaining events without imageUrl (~53):
+Mainly small club triathlons and cycling events with websites behind WAF/Cloudflare, returning 403/503/ECONNREFUSED, or with only low-quality/portrait images.
+
 ## Session date: 2026-05-30 (Session 7)
 
 ## Current state (after Session 7 – FINAL):

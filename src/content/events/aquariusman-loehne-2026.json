@@ -1,0 +1,22 @@
+{
+  "id": "aquariusman-loehne-2026",
+  "name": "Aquarius-(Wo)Man Löhne",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Löhne",
+    "lat": 52.1950,
+    "lng": 8.6965,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.aquariusman.de/",
+  "description": "Der Aquarius-(Wo)Man in Löhne (NRW) ist ein bewährter Volkstriathlon am Aquarius-See. Die 29. Auflage bietet Kurzdistanz und Olympische Distanz für Einsteiger und erfahrene Triathleten. Das Sportzentrum Löhne liegt im Herzen des Ravensberger Lands."
+}

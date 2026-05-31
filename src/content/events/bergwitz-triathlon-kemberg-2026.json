@@ -1,0 +1,22 @@
+{
+  "id": "bergwitz-triathlon-kemberg-2026",
+  "name": "Bergwitztriathlon Kemberg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kemberg",
+    "lat": 51.7767,
+    "lng": 12.6344,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.bergwitz-see.de/triathlon/",
+  "description": "Der 35. Bergwitztriathlon am Bergwitzsee in Kemberg (Sachsen-Anhalt) bietet Sprint- und Olympische Distanz im flachen Geläuf des Landkreises Wittenberg. Einer der traditionsreichsten Triathlons in Sachsen-Anhalt mit naturnahem Badessee."
+}
