@@ -1,0 +1,18 @@
+{
+  "id": "world-triathlon-championship-series-karlovy-vary-2026",
+  "name": "World Triathlon Championship Series Karlovy Vary",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karlovy Vary",
+    "lat": 50.2317,
+    "lng": 12.8714
+  },
+  "websiteUrl": "https://triathlon.org/events/event/2026_world_triathlon_championship_series_karlovy_vary",
+  "description": "World Triathlon Championship Series 2026 in Karlovy Vary (Karlsbad), Tschechien: Neben den Elite-Rennen auf Olympischer Distanz nehmen Age-Group-Athleten aller Altersklassen an den Amateur-Rennen teil. Malerische Kulisse im historischen Kurort an der Eger."
+}

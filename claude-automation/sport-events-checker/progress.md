@@ -3,9 +3,9 @@
 ## Session date: 2026-05-31 (Session 8)
 
 ## Current state (after Session 8 – FINAL):
-- **Total events: 766** (750 from Session 7 + 16 net new this session)
-- Events with imageUrl: **693** (90.4%)
-- Build: 800 pages
+- **Total events: 769** (750 from Session 7 + 19 net new this session)
+- Events with imageUrl: **693** (90.2%)
+- Build: 803 pages
 
 ## Changes made this session (Session 8):
 
@@ -36,6 +36,11 @@ Permanently blocked or no image available: 3-peaks-cyclocross, allgaeu-gravel-ri
 - `bergwitz-triathlon-kemberg-2026` — DE, Olympische+Sprint, Kemberg (SA), Sep 5 (DTU confirmed)
 - `aischgrund-triathlon-neustadt-aisch-2026` — DE, Sprintdistanz, Neustadt a.d. Aisch (BY), Aug 30 (DTU confirmed)
 - `kamener-sparkassentriathlon-2026` — DE, Olympische+Sprint, Kamen (NRW), Aug 2 (kamen-triathlon.de confirmed)
+
+**Third commit (3 events — continuation):**
+- `world-triathlon-championship-finals-pontevedra-2026` — ES, Olympische+Sprint, Sep 23–27, Age Group WM inkl. Amateure
+- `world-triathlon-championship-series-quiberon-2026` — FR, Olympische+Sprint, Jun 20–21, WTCS mit Age Group Rennen (XS/S/M Distanzen)
+- `world-triathlon-championship-series-karlovy-vary-2026` — CZ, Olympische Distanz, Sep 13, WTCS mit Age Group Rennen
 
 ### Sources used for new events:
 - DTU calendar (triathlondeutschland.de/termine/veranstaltungskalender) — pages 1-18

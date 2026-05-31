@@ -1,0 +1,19 @@
+{
+  "id": "world-triathlon-championship-series-quiberon-2026",
+  "name": "World Triathlon Championship Series Quiberon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Quiberon",
+    "lat": 47.4833,
+    "lng": -3.1167
+  },
+  "websiteUrl": "https://triathlon.org/events/event/2026_world_triathlon_championship_series_quiberon",
+  "description": "World Triathlon Championship Series 2026 in Quiberon, Bretagne: Elite-Rennen (Damen und Herren) sowie Age-Group-Rennen für Altersklassen in den Distanzen XS (400 m Schwimmen / 10 km Rad / 2,5 km Lauf), S (750 m / 20 km / 5 km) und M (1.500 m / 40 km / 10 km). Die Kulisse an der Atlantikküste der Halbinsel Quiberon bietet ideale Bedingungen für Weltklasse-Triathlon."
+}
