@@ -1,0 +1,22 @@
+{
+  "id": "schlosstriathlon-kossenblatt-2026",
+  "name": "Schlosstriathlon Kossenblatt",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tauche",
+    "lat": 52.115,
+    "lng": 14.075,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.schlosstri.de/",
+  "description": "Der 10. Schlosstriathlon Kossenblatt am historischen Schloss Kossenblatt in Tauche (Oder-Spree), veranstaltet von MULTISPORT-LOS e.V. Off-Road-Triathlon mit Schwimmen an den Schlosswiesen, Mountainbike-Kurs und Geländelauf, für Kinder bis erfahrene Athleten. MTB oder Gravelbike erforderlich.",
+  "distanceKm": 36
+}

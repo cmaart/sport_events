@@ -1,0 +1,23 @@
+{
+  "id": "iron-power-bauer-wittstock-2026",
+  "name": "Iron Power Bauer",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wittstock/Dosse",
+    "lat": 53.162,
+    "lng": 12.487,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.iron-power-bauer.de/",
+  "description": "Der 17. Iron Power Bauer in Wittstock/Dosse an der Dranse in Brandenburg, veranstaltet vom FK Hansa Wittstock 1919. Kurzdistanz (1,5 km/38,8 km/9,4 km) und Sprintdistanz (0,75 km/18,4 km/4,8 km) sowie Staffeln. Brandenburger Cup-Wertungsrennen.",
+  "distanceKm": 50
+}

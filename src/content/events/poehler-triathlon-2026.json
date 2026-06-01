@@ -1,0 +1,22 @@
+{
+  "id": "poehler-triathlon-2026",
+  "name": "Pöhler Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pöhl",
+    "lat": 50.539,
+    "lng": 12.185,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.poehler-triathlon.de/",
+  "description": "Der 26. Pöhler Triathlon an der Talsperre Pöhl im Vogtland, Sachsen. Sprinttriathlon mit 750 m Schwimmen im Stausee, 20 km Radkurs und 5,9 km Lauf entlang der Ufer. Max. 550 Einzelstarter und 40 Staffeln.",
+  "distanceKm": 27
+}

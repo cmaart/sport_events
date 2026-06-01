@@ -1,0 +1,23 @@
+{
+  "id": "salzlandsparkassen-triathlon-hecklingen-2026",
+  "name": "Salzlandsparkassen-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hecklingen",
+    "lat": 51.878,
+    "lng": 11.524,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.gaensefurther-sportbewegung.de/",
+  "description": "Der 8. Salzlandsparkassen-Triathlon am Löderburger See in Hecklingen, veranstaltet von der Gaensefurther Sportbewegung e.V. Olympische Distanz (1,5 km/40 km/10 km) und Volkssprintdistanz sowie Firmenstaffel, eingebettet in die Landschaft des Salzlandkreises in Sachsen-Anhalt.",
+  "distanceKm": 52
+}
