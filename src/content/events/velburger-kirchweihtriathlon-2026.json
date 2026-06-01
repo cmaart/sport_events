@@ -1,0 +1,21 @@
+{
+  "id": "velburger-kirchweihtriathlon-2026",
+  "name": "Velburger Kirchweihtriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Velburg",
+    "lat": 49.2334,
+    "lng": 11.6874,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.tv-velburg.de/",
+  "description": "Der Velburger Kirchweihtriathlon am Naturbadesee Altenveldorf in Velburg (Neumarkt i.d.OPf.), veranstaltet vom TV Velburg. Volkstriathlon auf Sprintdistanz mit Schwimmen im Naturbadesee, Radkurs und Lauf durch die Oberpfälzer Hügellandschaft. Online-Anmeldeschluss 10. Juli."
+}

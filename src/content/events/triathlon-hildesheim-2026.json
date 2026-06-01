@@ -1,0 +1,22 @@
+{
+  "id": "triathlon-hildesheim-2026",
+  "name": "Triathlon Hildesheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hildesheim",
+    "lat": 52.1523,
+    "lng": 9.9512,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.trias-hildesheim.de/",
+  "description": "Nach über 25 Jahren Pause gibt es wieder einen großen Triathlon in Hildesheim – organisiert vom TriAs Hildesheim e.V. Sprinttriathlon mit Ligawettkampf (Triathlon-Oberliga Niedersachsen/Bremen). Nahe dem UNESCO-Welterbe-Dom von Hildesheim.",
+  "distanceKm": 26
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kallinchen-triathlon-zossen-2026",
+  "name": "Kallinchen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zossen",
+    "lat": 52.2179,
+    "lng": 13.4496,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "http://kallinchentriathlon.de/",
+  "description": "Der Kallinchen Triathlon am Strandbad Kallinchen in Zossen südlich von Berlin, mit ca. 800 Teilnehmern aus Berlin und Brandenburg. Traditionsveranstaltung mit Schwimmen im Kallinchener See, Radkurs und Lauf in der brandenburgischen Seenlandschaft.",
+  "distanceKm": 26
+}

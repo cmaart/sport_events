@@ -1,0 +1,22 @@
+{
+  "id": "hofheimer-triathlon-2026",
+  "name": "Hofheimer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hofheim i.UFr.",
+    "lat": 50.1372,
+    "lng": 10.5268,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.tria-hofheim.de/",
+  "description": "Der Hofheimer Triathlon am Ellertshäuser See in Hofheim in Unterfranken, veranstaltet von der TriA Hofheim. Sprint- und Kurzdistanz mit Freiwasserschwimmen im Ellertshäuser See, Radkurs durch das Haßbergland und Laufstrecke am Seeufer."
+}

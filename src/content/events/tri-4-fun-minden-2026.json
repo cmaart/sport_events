@@ -1,0 +1,21 @@
+{
+  "id": "tri-4-fun-minden-2026",
+  "name": "Tri-4-Fun Minden",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Minden",
+    "lat": 52.2899,
+    "lng": 8.9169,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.svkt07minden.de/",
+  "description": "Der Tri-4-Fun Minden, veranstaltet vom SVKT 07 Minden. Sprinttriathlon in Minden, Nordrhein-Westfalen, mit Schwimmen, Radfahren und Laufen für Einsteiger und erfahrene Triathleten."
+}
