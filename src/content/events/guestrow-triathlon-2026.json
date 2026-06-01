@@ -1,6 +1,6 @@
 {
   "id": "guestrow-triathlon-2026",
-  "name": "Güstrow Triathlon",
+  "name": "EURAWASSER Trinale Güstrow",
   "sport": "triathlon",
   "categories": [
     "Sprintdistanz"
@@ -17,8 +17,8 @@
     "lng": 12.18,
     "region": "Mecklenburg-Vorpommern"
   },
-  "websiteUrl": "https://triathlon-mv.de/event-directory/",
-  "description": "Triathlon in Guestrow im Eliminator-Format an der Seenlandschaft der Mecklenburgischen Schweiz, veranstaltet von Trifun Guestrow. Mehrere Laeufe mit Ausscheidungsprinzip machen das kompakte Format zu einem temporeichen Spektakel fuer Zuschauer.",
+  "websiteUrl": "https://www.trifun.de/",
+  "description": "Die EURAWASSER Trinale Güstrow (4. Auflage) am Güstrower Inselsee, veranstaltet von Tri Fun Güstrow e.V. Triathlon im Eliminator-Format: drei Runden im Super-Sprint (250 m/7,6 km/1,75 km) mit Ausscheidungsprinzip für ein tempodichtes Spektakel.",
   "distanceKm": 10,
   "imageUrl": "https://triathlon-mv.de/wp-content/uploads/2021/12/WK-Guestrow-1.jpg"
 }

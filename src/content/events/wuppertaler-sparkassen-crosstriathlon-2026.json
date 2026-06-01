@@ -1,0 +1,21 @@
+{
+  "id": "wuppertaler-sparkassen-crosstriathlon-2026",
+  "name": "Wuppertaler Sparkassen Crosstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wuppertal",
+    "lat": 51.2562,
+    "lng": 7.1508,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.wuppertaler-triathlon.de/",
+  "description": "Der 16. Wuppertaler Sparkassen Crosstriathlon in Wuppertal im Bergischen Land, veranstaltet vom SC Wuppertal-Triathlon. Geländetriathlon mit Freiwasserschwimmen, Mountainbike-Strecke durch die Wuppertaler Hügel und Geländelauf im Bergischen Wald."
+}

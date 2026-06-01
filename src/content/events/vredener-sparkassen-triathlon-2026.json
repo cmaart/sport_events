@@ -1,0 +1,21 @@
+{
+  "id": "vredener-sparkassen-triathlon-2026",
+  "name": "Vredener Sparkassen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vreden",
+    "lat": 52.0383,
+    "lng": 6.8256,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlonvreden.de/",
+  "description": "Der 14. Vredener Sparkassen Triathlon in Vreden im westlichen Münsterland an der Grenze zu den Niederlanden. Sprinttriathlon (500 m/17,2 km/5 km) mit familiärer Atmosphäre in der Vredener Seenlandschaft."
+}
