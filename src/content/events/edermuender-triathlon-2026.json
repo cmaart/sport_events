@@ -1,0 +1,21 @@
+{
+  "id": "edermuender-triathlon-2026",
+  "name": "Edermünder Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Edermünde",
+    "lat": 51.2369,
+    "lng": 9.3597,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.edermuender-triathlon.de/",
+  "description": "Der 3. Edermünder Triathlon in Edermünde, Nordhessen, am Rande des Nationalparks Kellerwald-Edersee. Sprinttriathlon mit Schwimmen im Freiheit-See, Radkurs durch die nordhessische Mittelgebirgslandschaft und Lauf am Ederufer."
+}

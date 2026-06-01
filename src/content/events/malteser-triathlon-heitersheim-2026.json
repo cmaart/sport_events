@@ -1,0 +1,21 @@
+{
+  "id": "malteser-triathlon-heitersheim-2026",
+  "name": "Malteser Triathlon Heitersheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heitersheim",
+    "lat": 47.8775,
+    "lng": 7.657,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.malteser-markgrafenland.de/",
+  "description": "Der Malteser Triathlon in Heitersheim im Markgräflerland, südlich von Freiburg an der Grenze zur Schweiz, veranstaltet vom Malteser Hilfsdienst. Sprinttriathlon mit Schwimmen, Radfahren und Laufen in der Weinlandschaft des südlichen Kaiserstuhls."
+}

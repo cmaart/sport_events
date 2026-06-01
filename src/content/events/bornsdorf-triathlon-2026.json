@@ -1,0 +1,21 @@
+{
+  "id": "bornsdorf-triathlon-2026",
+  "name": "Bornsdorf-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heideblick",
+    "lat": 51.82,
+    "lng": 13.41,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.tri-club-luckau.de/",
+  "description": "Der Bornsdorf-Triathlon in Heideblick-Bornsdorf im Fläming, Brandenburg, veranstaltet vom Tri-Club Luckau. Sprinttriathlon am Bornsdorfer See inmitten des brandenburgischen Naturparks Niederlausitzer Landrücken."
+}

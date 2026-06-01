@@ -1,0 +1,22 @@
+{
+  "id": "moersbach-man-2026",
+  "name": "mörsbachmän",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mörsbach",
+    "lat": 50.75,
+    "lng": 7.8,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.moersbach-man.de/",
+  "description": "Der mörsbachmän in Mörsbach im Westerwald, Rheinland-Pfalz. Triathlon auf Sprint- und Olympischer Distanz mit Schwimmen im Wiesensee, Radkurs durch die hügelige Westerwaldlandschaft und Laufstrecke durch Wald und Wiesen."
+}

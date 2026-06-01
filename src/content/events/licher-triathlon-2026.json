@@ -1,0 +1,22 @@
+{
+  "id": "licher-triathlon-2026",
+  "name": "Licher Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lich",
+    "lat": 50.5231,
+    "lng": 8.8211,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.licher-triathlon.de/",
+  "description": "Der 19. Licher Triathlon in Lich im Vogelsberg, Mittelhessen, in der Stadt des gleichnamigen Bieres. Sprint- und Olympische Distanz mit Schwimmen im Klärchensee, Radkurs durch die hessische Wetterau und Laufstrecke im Licher Umland."
+}

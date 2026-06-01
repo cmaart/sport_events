@@ -1,0 +1,21 @@
+{
+  "id": "rheinstetten-triathlon-2026",
+  "name": "Rheinstetten Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rheinstetten",
+    "lat": 48.978,
+    "lng": 8.325,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-rheinstetten.de/",
+  "description": "Der 19. Rheinstetten Triathlon in der Rheinebene zwischen Karlsruhe und dem Schwarzwaldrand. Sprinttriathlon mit Schwimmen im Badesee, Radkurs durch die Rheinebene und Laufstrecke in und um Rheinstetten."
+}

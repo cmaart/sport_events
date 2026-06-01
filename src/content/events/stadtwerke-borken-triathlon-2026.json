@@ -1,0 +1,23 @@
+{
+  "id": "stadtwerke-borken-triathlon-2026",
+  "name": "Stadtwerke Borken Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Borken",
+    "lat": 51.8401,
+    "lng": 6.8585,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.stadtwerke-borken-triathlon.de/",
+  "description": "Der Stadtwerke Borken Triathlon im Münsterland an der niederländischen Grenze, veranstaltet vom Tri-Team Borken. Sprint- und Olympische Distanz mit Schwimmen im Kulsumer See, Radkurs durch das Borkener Umland und Lauf durch Stadtpark und Naturschutzgebiet.",
+  "distanceKm": 52
+}

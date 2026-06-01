@@ -1,0 +1,21 @@
+{
+  "id": "ilmenauer-teamtriathlon-2026",
+  "name": "Ilmenauer Teamtriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ilmenau",
+    "lat": 50.6826,
+    "lng": 10.9174,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://www.tri-club-ilmenau.de/",
+  "description": "Der 31. Ilmenauer Teamtriathlon in Ilmenau im Thüringer Wald. Staffeltriathlon mit Einzel- und Teamwertung am Rennsteig, mit Schwimmen in der Ilmenauer Talsperre, Radkurs durch den Thüringer Wald und Laufstrecke im Umland der Universitätsstadt."
+}

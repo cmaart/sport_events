@@ -1,0 +1,23 @@
+{
+  "id": "altwarmbüchener-triathlon-hannover-2026",
+  "name": "Altwarmbüchener Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hannover",
+    "lat": 52.4149,
+    "lng": 9.8799,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.altwarmbuchener-triathlon.de/",
+  "description": "Der 12. Altwarmbüchener Triathlon am Altwarmbüchener See im Hannoveraner Osten. Sprint- und Olympische Distanz mit Freiwasserschwimmen im Altwarmbüchener See, Radkurs durch das Umland von Hannover und Laufkurs um den See."
+}

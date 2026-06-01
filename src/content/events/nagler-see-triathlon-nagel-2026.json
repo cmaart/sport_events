@@ -1,0 +1,21 @@
+{
+  "id": "nagler-see-triathlon-nagel-2026",
+  "name": "Nagler See Jedermanntriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nagel",
+    "lat": 50.1047,
+    "lng": 11.8254,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.naglersee-triathlon.de/",
+  "description": "Der Nagler See Jedermanntriathlon in Nagel im Fichtelgebirge, Bayern. Volkstriathlon am idyllischen Nagler See im oberfränkisch-oberpfälzischen Mittelgebirge mit lizenzfreier Distanz für Einsteiger und erfahrene Athleten."
+}
