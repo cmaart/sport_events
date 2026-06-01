@@ -14,7 +14,8 @@
   "location": {
     "name": "Güstrow",
     "lat": 53.79,
-    "lng": 12.18
+    "lng": 12.18,
+    "region": "Mecklenburg-Vorpommern"
   },
   "websiteUrl": "https://triathlon-mv.de/event-directory/",
   "description": "Triathlon in Guestrow im Eliminator-Format an der Seenlandschaft der Mecklenburgischen Schweiz, veranstaltet von Trifun Guestrow. Mehrere Laeufe mit Ausscheidungsprinzip machen das kompakte Format zu einem temporeichen Spektakel fuer Zuschauer.",
