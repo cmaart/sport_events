@@ -1,0 +1,22 @@
+{
+  "id": "spiezathlon-2026",
+  "name": "Spiezathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Spiez",
+    "lat": 46.6848,
+    "lng": 7.6796
+  },
+  "websiteUrl": "https://spiezathlon.ch/",
+  "description": "Der Spiezathlon am Thunersee in Spiez, Kanton Bern. Sprintdistanz (500 m/20 km/5 km) und Olympische Distanz (1,5 km/40 km/10 km) mit Schwimmen im türkisblauen Thunersee, Radkurs durch das Berner Oberland und Lauf entlang des Seeufers. Auch Jugendkategorien.",
+  "distanceKm": 52
+}

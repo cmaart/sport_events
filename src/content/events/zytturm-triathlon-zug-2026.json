@@ -1,0 +1,23 @@
+{
+  "id": "zytturm-triathlon-zug-2026",
+  "name": "Zytturm Triathlon Zug",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zug",
+    "lat": 47.1726,
+    "lng": 8.5162
+  },
+  "websiteUrl": "https://zytturmtriathlon.ch/",
+  "description": "Der 32. Zytturm Triathlon am Zugersee in Zug. Olympische Distanz, Kurzdistanz und Staffelwettbewerbe mit Schwimmen im klaren Zugersee vor der Kulisse der Altstadt mit dem historischen Zytturm. Einer der traditionsreichsten Triathlons der Zentralschweiz.",
+  "distanceKm": 52
+}

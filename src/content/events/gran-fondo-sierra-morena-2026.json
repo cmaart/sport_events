@@ -18,5 +18,6 @@
   "websiteUrl": "https://granfondosierramorena.com/",
   "description": "Die Gran Fondo Sierra Morena führt 150 km durch das mediterrane Bergland der Sierra Morena nördlich von Córdoba, Andalusien. Ca. 2.500 Höhenmeter durch versteckte Dörfer und beeindruckende Aussichten auf Olivenhaine und Naturlandschaft. 5 Verpflegungsstationen, Zeitlimit 10 Stunden, max. 2.500 Teilnehmer.",
   "distanceKm": 150,
-  "elevationGainM": 2500
+  "elevationGainM": 2500,
+  "imageUrl": "https://granfondosierramorena.com/wp-content/uploads/2026/01/Diseno-sin-titulo-3-scaled.png"
 }

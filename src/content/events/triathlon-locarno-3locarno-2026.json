@@ -1,0 +1,24 @@
+{
+  "id": "triathlon-locarno-3locarno-2026",
+  "name": "3Locarno Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Locarno",
+    "lat": 46.1706,
+    "lng": 8.7961
+  },
+  "websiteUrl": "https://www.3locarno.ch/",
+  "description": "Der 3Locarno Triathlon am Lago Maggiore in Locarno, Kanton Tessin – seit 1984 einer der ältesten Schweizer Triathlons. Mitteldistanz (70.3), Olympische und Mini-Distanz, Duathlon und Kinder-Triathlon. Gastgeber der Schweizer Meisterschaft auf Mitteldistanz 2026.",
+  "distanceKm": 113
+}

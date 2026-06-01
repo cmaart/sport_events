@@ -1,0 +1,24 @@
+{
+  "id": "uster-triathlon-2026",
+  "name": "Uster Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Uster",
+    "lat": 47.3487,
+    "lng": 8.7201
+  },
+  "websiteUrl": "https://www.ustertriathlon.ch/",
+  "description": "Der 37. Uster Triathlon am Greifensee im Zürcher Oberland. Mitteldistanz (1,9 km/84 km/20 km), Olympische Distanz (1,5 km/42 km/10 km) und Sprint über zwei Tage. Einer der grössten Amateur-Triathlons der Schweiz mit über 2.800 Finishern. SUP-Rennen am Greifensee als Zusatz-Event.",
+  "distanceKm": 106
+}

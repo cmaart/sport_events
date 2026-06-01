@@ -1,0 +1,23 @@
+{
+  "id": "taegi-tri-wettingen-2026",
+  "name": "Tägi Tri & Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz",
+    "Duathlon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wettingen",
+    "lat": 47.4596,
+    "lng": 8.3261
+  },
+  "websiteUrl": "https://taegitri.ch/",
+  "description": "Der 33. Tägi Tri & Duathlon in Wettingen im Aargau beim Tägi Freizeitbad. Sprint- und Olympische Distanz sowie Duathlon mit Schwimmen im Hallenbad Tägi, Radkurs durch das Limmattal und Laufstrecke am Reuss-Ufer.",
+  "distanceKm": 52
+}

@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.granfondodeisibillini.it/",
   "description": "Die 35. Gran Fondo dei Sibillini startet und endet in Pievebovigliana in der Provinz Macerata (Marken). Drei Strecken: 158 km, 91 km und 75 km durch das Nationalpark Monti Sibillini – panoramische Bergpässe, technische Abfahrten und gezeitete Abschnitte. Teil des Granfondo Marche-Circuits.",
   "distanceKm": 158,
-  "elevationGainM": 3200
+  "elevationGainM": 3200,
+  "imageUrl": "https://static.wixstatic.com/media/dbec00_e06069b952974b37a149bae49a1d261b~mv2.jpg"
 }

@@ -1,0 +1,24 @@
+{
+  "id": "la-tour-geneve-triathlon-2026",
+  "name": "La Tour Genève Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-07-04",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Genf",
+    "lat": 46.2044,
+    "lng": 6.1432
+  },
+  "websiteUrl": "https://www.genevetriathlon.ch/en",
+  "description": "La Tour Genève Triathlon am Genfersee: Mitteldistanz (1,9 km/90 km/21,1 km), Olympische Distanz (1,5 km/40 km/10 km), Kurzdistanz (500 m/20 km/5 km) und Discovery für Einsteiger. Zweitagesformat im Herzen Genfs mit Schwimmen im Lac Léman vor der Kulisse des Jet d'Eau.",
+  "distanceKm": 113
+}

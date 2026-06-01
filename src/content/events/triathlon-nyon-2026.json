@@ -1,0 +1,23 @@
+{
+  "id": "triathlon-nyon-2026",
+  "name": "Triathlon de Nyon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-07",
+    "end": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nyon",
+    "lat": 46.3833,
+    "lng": 6.2333
+  },
+  "websiteUrl": "https://www.trinyon.ch/en/",
+  "description": "Der 37. Triathlon de Nyon am Genfersee. Olympische Distanz (1,5 km/42,5 km/10,2 km), Kurzdistanz, Duathlon und Aquathlon über 3 Tage. Austragungsort der FISU Weltuniversitätsmeisterschaft Triathlon 2026 und der Schweizer Meisterschaft auf Olympischer Distanz.",
+  "distanceKm": 54
+}

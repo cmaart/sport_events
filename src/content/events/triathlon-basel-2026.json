@@ -1,0 +1,22 @@
+{
+  "id": "triathlon-basel-2026",
+  "name": "Triathlon Basel",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Basel",
+    "lat": 47.5596,
+    "lng": 7.5886
+  },
+  "websiteUrl": "https://triathlonbasel.ch/",
+  "description": "Der 3. Triathlon Basel am Rheinufer in Basel. Olympische Distanz und Sprint mit Schwimmen im Rhein, Radkurs durch das Basler Umland und Lauf entlang des Rheins durch die Stadt. Dreiländer-Flair mit Blick auf Deutschland, Frankreich und die Schweiz.",
+  "distanceKm": 52
+}

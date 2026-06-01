@@ -1,0 +1,22 @@
+{
+  "id": "xterra-switzerland-la-brevine-2026",
+  "name": "XTERRA Switzerland",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "La Brévine",
+    "lat": 46.9889,
+    "lng": 6.6044
+  },
+  "websiteUrl": "https://xterraswitzerland.ch/",
+  "description": "XTERRA Switzerland im Val-de-Travers / La Brévine, Kanton Neuenburg – dem kältesten Ort der Schweiz. Full-XTERRA (1,5 km/34 km/9 km) und XTERRA Sprint auf technischen Mountainbike-Trails und Trailrunning-Strecken. Schweizer Nationalmeisterschaft im Cross-Triathlon.",
+  "distanceKm": 45
+}

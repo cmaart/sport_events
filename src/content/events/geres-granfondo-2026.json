@@ -18,5 +18,6 @@
   "websiteUrl": "https://bikeservice.pt/en/",
   "description": "Die Reconco Gerês Granfondo findet im Peneda-Gerês Nationalpark statt – Portugals einzigem Nationalpark. Drei Distanzen: Granfondo (131 km), Mediofondo (90 km) und Minifondo (54 km) auf kurvenreichen Bergstraßen durch Urwälder, Bergseen und unberührte Natur. Max. 1.500 Teilnehmer, Anmeldung ab 15 Jahren.",
   "distanceKm": 131,
-  "elevationGainM": 2800
+  "elevationGainM": 2800,
+  "imageUrl": "https://cloudpowered.blob.core.windows.net/images/gf-geres-photo3.png"
 }

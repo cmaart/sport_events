@@ -1,0 +1,23 @@
+{
+  "id": "triathlon-lausanne-2026",
+  "name": "Triathlon de Lausanne",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lausanne",
+    "lat": 46.5197,
+    "lng": 6.6323
+  },
+  "websiteUrl": "https://www.lausanne-tourisme.ch/en/event/triathlon-of-lausanne/",
+  "description": "Der Triathlon de Lausanne am Genfersee. Olympische Distanz (1,5 km/40 km/10 km) und Mini-Distanz mit Schwimmen im Lac Léman vor der Kulisse der olympischen Hauptstadt Lausanne. Zweitagesformat mit Junior- und Relay-Kategorien.",
+  "distanceKm": 52
+}
