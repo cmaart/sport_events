@@ -1,0 +1,23 @@
+{
+  "id": "stadtwerke-halle-triathlon-2026",
+  "name": "Stadtwerke Halle Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schkopau / Halle (Saale)",
+    "lat": 51.3978,
+    "lng": 11.9766,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.sv-halle-triathlon.de/",
+  "description": "Der 35. Stadtwerke Halle Triathlon mit Deutschen Swim & Run Meisterschaften in Schkopau bei Halle (Saale), Start und Ziel an der Berliner Straße 100. Angebot von mehreren Distanzen inklusive Olympischer Distanz, Sprintdistanz und Staffel sowie DM Swim & Run.",
+  "distanceKm": 51
+}

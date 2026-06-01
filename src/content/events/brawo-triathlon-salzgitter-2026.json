@@ -1,0 +1,22 @@
+{
+  "id": "brawo-triathlon-salzgitter-2026",
+  "name": "BraWo Triathlon Salzgitter",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salzgitter",
+    "lat": 52.1541,
+    "lng": 10.3255,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.salzgittersee-triathlon.de/",
+  "description": "Der BraWo Triathlon am Salzgittersee bietet Sprinttriathlon (750 m Schwimmen, 25 km Radfahren, 5,4 km Laufen) und Volkstrikathlon am Naherholungsgebiet Salzgittersee. Titelsponsor ist die Braunschweigische Landessparkasse. Schwimmen im naturnahen See, Radkurs durch die Salzgitteraner Hügellandschaft.",
+  "distanceKm": 31
+}

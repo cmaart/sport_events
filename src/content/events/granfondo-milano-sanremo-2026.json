@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-milano-sanremo-2026",
+  "name": "Gran Fondo Milano-Sanremo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pieve Emanuele – Sanremo",
+    "lat": 45.3569,
+    "lng": 9.2175
+  },
+  "websiteUrl": "https://milano-sanremo.org/",
+  "description": "Die Gran Fondo Milano-Sanremo gilt als die längste Amateurradsportveranstaltung der Welt und wurde 1970 gegründet. Die Route führt über 296 km von Pieve Emanuele bei Mailand durch die Lombardei und das Piemont, über den Turchino nach Ligurien und entlang der Riviera zur legendären Cipressa und Poggio di Sanremo. Über 2.000 Teilnehmer aus aller Welt, Start um 7:00 Uhr.",
+  "distanceKm": 296,
+  "elevationGainM": 3500,
+  "imageUrl": "https://milano-sanremo.org/wp-content/uploads/2018/07/gfondo13-0367-grande.jpg"
+}

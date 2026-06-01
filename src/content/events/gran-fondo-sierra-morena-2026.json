@@ -1,0 +1,22 @@
+{
+  "id": "gran-fondo-sierra-morena-2026",
+  "name": "Gran Fondo Sierra Morena",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Córdoba",
+    "lat": 37.8882,
+    "lng": -4.7794
+  },
+  "websiteUrl": "https://granfondosierramorena.com/",
+  "description": "Die Gran Fondo Sierra Morena führt 150 km durch das mediterrane Bergland der Sierra Morena nördlich von Córdoba, Andalusien. Ca. 2.500 Höhenmeter durch versteckte Dörfer und beeindruckende Aussichten auf Olivenhaine und Naturlandschaft. 5 Verpflegungsstationen, Zeitlimit 10 Stunden, max. 2.500 Teilnehmer.",
+  "distanceKm": 150,
+  "elevationGainM": 2500
+}

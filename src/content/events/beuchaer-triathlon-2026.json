@@ -1,0 +1,22 @@
+{
+  "id": "beuchaer-triathlon-2026",
+  "name": "Beuchaer Triathlon Day",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Beucha",
+    "lat": 51.3269,
+    "lng": 12.5850,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.beuchaer-triathlon.de/",
+  "description": "Der Beuchaer Triathlon Day am Autobahnsee Beucha nahe Brandis in Sachsen, östlich von Leipzig. Sprinttriathlon für alle Leistungsklassen mit Schwimmen im Autobahnsee, Radfahren und Laufen durch die Muldenland-Seenlandschaft. Traditionsveranstaltung des sächsischen Triathlonsports.",
+  "distanceKm": 26
+}

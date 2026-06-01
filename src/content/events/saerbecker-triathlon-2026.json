@@ -1,0 +1,24 @@
+{
+  "id": "saerbecker-triathlon-2026",
+  "name": "Saerbecker Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz",
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saerbeck",
+    "lat": 52.0728,
+    "lng": 7.5278,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.wasser-freizeit.de/veranstaltungen/saerbecker-triathlon",
+  "description": "Der 44. Saerbecker Triathlon am Naturbad Saerbeck bietet Olympische Distanz, Volkstriathlon und Aquabike für alle Leistungsklassen. Traditionsveranstaltung im münsterländischen Saerbeck mit lizenzfreier Volksdistanz und lizenzpflichtiger Sprintdistanz sowie Staffelwettbewerb.",
+  "distanceKm": 52
+}

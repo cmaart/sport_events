@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-del-vulture-2026",
+  "name": "Granfondo del Vulture",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rionero in Vulture",
+    "lat": 40.9235,
+    "lng": 15.6648
+  },
+  "websiteUrl": "https://www.granfondodelvulture.it/",
+  "description": "Die Granfondo del Vulture startet in Rionero in Vulture in der Basilicata am Fuß des erloschenen Vulkans Monte Vulture. Drei Strecken: 130 km, 90 km und 44 km durch die süditalienische Hügellandschaft zwischen Weinbergen und Olivenhainen. Rennsport-Village öffnet am Vorabend ab 15:00 Uhr. Teil des Volchem-Circuits.",
+  "distanceKm": 130,
+  "elevationGainM": 1800
+}

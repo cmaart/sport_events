@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-colli-del-chianti-2026",
+  "name": "Gran Fondo Colli del Chianti",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Florenz",
+    "lat": 43.7205,
+    "lng": 11.2419
+  },
+  "websiteUrl": "http://www.cdrbiketeam.it/g-f-colli-del-chianti/",
+  "description": "Die Gran Fondo Colli del Chianti führt durch die sanften Hügel des Chianti-Weinlandes rund um Florenz in der Toskana. Drei Streckenoptionen: 128 km, 90 km und 48 km durch Weinberge, mittelalterliche Dörfer und panoramische Aussichten auf die toskanische Landschaft zwischen Florenz und Siena.",
+  "distanceKm": 128,
+  "elevationGainM": 2370
+}

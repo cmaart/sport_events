@@ -1,0 +1,22 @@
+{
+  "id": "xterra-lake-scanno-2026",
+  "name": "XTERRA Lake Scanno",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-07-25",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Scanno",
+    "lat": 41.9023,
+    "lng": 13.8799
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-lake-scanno",
+  "description": "XTERRA Cross-Triathlon am malerischen Lago di Scanno in den Abruzzen. Teil der XTERRA EMEA Tour mit Vollendistanz (1,5 km Schwimmen, 30 km Mountainbike, 10 km Trailrunning) und Sprintdistanz (750 m/12 km/5 km). Das Dorf Scanno liegt inmitten der Nationalparks Majella und Abruzzo auf 1.000 m Seehöhe.",
+  "distanceKm": 42
+}

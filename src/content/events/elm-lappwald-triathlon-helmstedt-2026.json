@@ -1,0 +1,22 @@
+{
+  "id": "elm-lappwald-triathlon-helmstedt-2026",
+  "name": "Elm-Lappwald Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Helmstedt",
+    "lat": 52.2287,
+    "lng": 11.0090,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.tsvg-triathlon.de/",
+  "description": "Der 36. Elm-Lappwald Triathlon in Helmstedt, veranstaltet vom TSV Germania Helmstedt. Sprintdistanz: 600 m Schwimmen, 21 km Radfahren, 5 km Laufen. Langjährige Traditionsveranstaltung im Naturpark Elm-Lappwald an der ehemaligen innerdeutschen Grenze.",
+  "distanceKm": 26
+}

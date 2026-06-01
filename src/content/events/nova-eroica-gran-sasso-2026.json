@@ -1,0 +1,23 @@
+{
+  "id": "nova-eroica-gran-sasso-2026",
+  "name": "Nova Eroica Gran Sasso",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-05",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Castel del Monte",
+    "lat": 42.3643,
+    "lng": 13.7208
+  },
+  "websiteUrl": "https://www.eroica.cc/en/nova-eroica-abruzzo",
+  "description": "Die 5. Nova Eroica Gran Sasso im Nationalpark Gran Sasso e Monti della Laga in Abruzzo, dem grünen Herz der Apenninen. Vier Strecken (137 km/92 km/50 km und weitere) führen auf historischen Tratturi-Pfaden durch mittelalterliche Dörfer wie Castel del Monte, Calascio und Santo Stefano di Sessanio. Gravel-Race im Eroica-Stil: Abenteuer auf Schotterwegen mit modernen Rädern.",
+  "distanceKm": 137,
+  "elevationGainM": 2700
+}

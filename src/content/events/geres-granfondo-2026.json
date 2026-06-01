@@ -1,0 +1,22 @@
+{
+  "id": "geres-granfondo-2026",
+  "name": "Reconco Gerês Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vila do Gerês",
+    "lat": 41.7382,
+    "lng": -8.1607
+  },
+  "websiteUrl": "https://bikeservice.pt/en/",
+  "description": "Die Reconco Gerês Granfondo findet im Peneda-Gerês Nationalpark statt – Portugals einzigem Nationalpark. Drei Distanzen: Granfondo (131 km), Mediofondo (90 km) und Minifondo (54 km) auf kurvenreichen Bergstraßen durch Urwälder, Bergseen und unberührte Natur. Max. 1.500 Teilnehmer, Anmeldung ab 15 Jahren.",
+  "distanceKm": 131,
+  "elevationGainM": 2800
+}

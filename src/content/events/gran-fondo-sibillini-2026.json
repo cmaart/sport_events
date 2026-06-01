@@ -1,0 +1,22 @@
+{
+  "id": "gran-fondo-sibillini-2026",
+  "name": "Gran Fondo dei Sibillini",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pievebovigliana",
+    "lat": 43.1025,
+    "lng": 13.0978
+  },
+  "websiteUrl": "https://www.granfondodeisibillini.it/",
+  "description": "Die 35. Gran Fondo dei Sibillini startet und endet in Pievebovigliana in der Provinz Macerata (Marken). Drei Strecken: 158 km, 91 km und 75 km durch das Nationalpark Monti Sibillini – panoramische Bergpässe, technische Abfahrten und gezeitete Abschnitte. Teil des Granfondo Marche-Circuits.",
+  "distanceKm": 158,
+  "elevationGainM": 3200
+}

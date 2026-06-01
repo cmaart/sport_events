@@ -1,0 +1,22 @@
+{
+  "id": "cross-triathlon-karlstadt-2026",
+  "name": "Cross Triathlon Karlstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karlstadt am Main",
+    "lat": 49.9686,
+    "lng": 9.7719,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.triathlon-karlstadt.de/",
+  "description": "Cross-Triathlon des TSV Karlstadt in Karlstadt am Main in Unterfranken. Schwimmen im Main, Cross-Radfahren und Trailrunning durch die fränkische Weinlandschaft am Mainufer. DTU-lizenzierter Wettkampf im malerischen Maintal.",
+  "distanceKm": 30
+}

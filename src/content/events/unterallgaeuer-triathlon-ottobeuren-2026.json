@@ -1,0 +1,23 @@
+{
+  "id": "unterallgaeuer-triathlon-ottobeuren-2026",
+  "name": "Unterallgäuer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ottobeuren",
+    "lat": 47.9373,
+    "lng": 10.3983,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon-ottobeuren.de/",
+  "description": "Der 35. Unterallgäuer Triathlon in Ottobeuren im bayerischen Unterallgäu nahe Memmingen, veranstaltet vom TSV Ottobeuren. Olympische Distanz: 1,5 km/40 km/10 km; Volkstriathlon (Sprint): 0,4 km/20 km/5 km sowie Staffel. Start um 10:00 Uhr.",
+  "distanceKm": 52
+}

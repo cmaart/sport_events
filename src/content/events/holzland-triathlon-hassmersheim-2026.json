@@ -1,0 +1,22 @@
+{
+  "id": "holzland-triathlon-hassmersheim-2026",
+  "name": "Holzland Triathlon Haßmersheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Haßmersheim",
+    "lat": 49.3062,
+    "lng": 9.1352,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.holzland-triathlon-hassmersheim.de/",
+  "description": "Der 23. Holzland Triathlon in Haßmersheim am Neckar im Odenwald, veranstaltet von den Sportfreunden Haßmersheim e.V. Start um 14:00 Uhr. Anmeldung bis 7. Juli oder bis Limite. Sprintdistanz im Neckartal zwischen Heidelberg und Bad Rappenau.",
+  "distanceKm": 26
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hackenpedder-bikepacking-2026",
+  "name": "Hackenpedder Bikepacking",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kiel",
+    "lat": 54.3233,
+    "lng": 10.1228,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://hackenpedder-bikepacking.de/",
+  "description": "Selbstunterstütztes Gravel-Bikepacking-Abenteuer durch Schleswig-Holstein mit Start in Kiel. Zwei Streckenvarianten: 1000 km und 650 km durch die vielfältige Natur zwischen Nord- und Ostsee – Küstenkliffe, Schotterwege, Wälder, Moore und Deichpfade. Navigation per GPX, ohne externe Unterstützung.",
+  "distanceKm": 650,
+  "imageUrl": "https://hackenpedder-bikepacking.de/wordpress/wp-content/uploads/2026/02/Hackenpedder-Bikepacking-Route-Schleswig-Holstein-Gravel-Radreise-Norddeutschland-2026.jpg"
+}

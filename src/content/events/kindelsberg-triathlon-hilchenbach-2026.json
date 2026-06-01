@@ -1,0 +1,22 @@
+{
+  "id": "kindelsberg-triathlon-hilchenbach-2026",
+  "name": "Kindelsberg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hilchenbach",
+    "lat": 51.0040,
+    "lng": 8.1050,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.kindelsberg-triathlon.de/",
+  "description": "Der 33. Kindelsberg Triathlon in Hilchenbach im Sauerland, organisiert vom TuS Müsen 1882 e.V. am größten Naturfreibad Nordrhein-Westfalens. Sprintdistanz: 560 m Schwimmen, 20 km Radfahren, 5 km Laufen sowie Kids Swim & Run für Nachwuchsathleten.",
+  "distanceKm": 25
+}

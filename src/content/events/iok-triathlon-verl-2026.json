@@ -1,0 +1,22 @@
+{
+  "id": "iok-triathlon-verl-2026",
+  "name": "IOK-Triathlon Verl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Verl",
+    "lat": 51.8819,
+    "lng": 8.5125,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlon-verl.de/",
+  "description": "Der IOK-Triathlon Verl am Verler See in Nordrhein-Westfalen, veranstaltet vom TV Verl. Sprintdistanz und Volkstri für alle Leistungsklassen. Titelsponsor ist die IOK GmbH & Co. KG, ein ortsansässiges Industrieunternehmen.",
+  "distanceKm": 26
+}

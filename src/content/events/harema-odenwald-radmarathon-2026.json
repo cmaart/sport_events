@@ -19,5 +19,6 @@
   "websiteUrl": "https://radsport-events.de",
   "description": "Radmarathon durch den Odenwald startend in Rodgau suedoestlich von Frankfurt. Strecken fuehren durch das Naherholungsgebiet des Odenwaldgebirges zwischen Rhein und Neckar, Spessart und Bergstrasse. Fruehjahrsevent im Gruenen Guertels der Rhein-Main-Region.",
   "distanceKm": 160,
-  "elevationGainM": 2200
+  "elevationGainM": 2200,
+  "imageUrl": "https://rtf.sportfreunde-rodgau.de/assets/images/losgehts-1128x846.jpg"
 }

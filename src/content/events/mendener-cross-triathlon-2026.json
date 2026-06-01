@@ -1,0 +1,22 @@
+{
+  "id": "mendener-cross-triathlon-2026",
+  "name": "Mendener Cross-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Menden (Sauerland)",
+    "lat": 51.4393,
+    "lng": 7.7905,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.menden-crosstriathlon.de/",
+  "description": "Der 30. Mendener Cross-Triathlon am Bürgerbad Leitmecke in Menden im Sauerland, veranstaltet vom Marathon-Club Menden. Cross-Distanz: 500 m Schwimmen, 15 km Radfahren, 6 km Trailrunning. Anmeldung bis 26. August, gestaffelte Startgebühren.",
+  "distanceKm": 21
+}

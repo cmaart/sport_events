@@ -1,0 +1,22 @@
+{
+  "id": "ingelheimer-triathlon-der-kleine-karl-2026",
+  "name": "Ingelheimer Triathlon - Der kleine Karl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ingelheim am Rhein",
+    "lat": 49.9741,
+    "lng": 8.0572,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.derkleinekarl.de/",
+  "description": "Der Ingelheimer Triathlon in Ingelheim am Rhein im rheinhessischen Weinland. Sprintdistanz: 500 m Schwimmen, 20 km Radfahren, 5 km Laufen. Veranstaltung des Stadtlaufs Der Ingelheimer Halbe, Teil des gleichnamigen Sportfestivals.",
+  "distanceKm": 26
+}

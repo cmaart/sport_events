@@ -1,0 +1,24 @@
+{
+  "id": "aasee-triathlon-bocholt-2026",
+  "name": "Aasee Triathlon Bocholt",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bocholt",
+    "lat": 51.8357,
+    "lng": 6.6169,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.aasee-triathlon.de/",
+  "description": "Der 37. Aasee Triathlon in Bocholt am Freizeitzentrum Aasee bietet drei Distanzen: Sprintdistanz (500 m/20 km/5 km), Bocholter Distanz (1.500 m/40 km/10 km) und Mitteldistanz (2.000 m/90 km/20 km) sowie Staffel und Schülertriathlon. Veranstaltet vom Bocholter Wassersportverein 1920 e.V., Wettkampf des westmünsterländischen Triathletentums.",
+  "distanceKm": 112
+}

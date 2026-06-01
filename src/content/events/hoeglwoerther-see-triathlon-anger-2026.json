@@ -1,0 +1,22 @@
+{
+  "id": "hoeglwoerther-see-triathlon-anger-2026",
+  "name": "Höglwörther-See-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Anger",
+    "lat": 47.9069,
+    "lng": 12.8498,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.sc-anger.de/",
+  "description": "Sprinttriathlon am idyllischen Höglwörther See bei Anger im bayerischen Chiemgau, organisiert vom SC Anger. Start um 16:00 Uhr am Schornbach, Ziel am Dorfplatz in Anger. Schwimmen im natürlichen Gebirgssee, Radfahren durch das hügelige Alpenvorland.",
+  "distanceKm": 26
+}
