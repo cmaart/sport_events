@@ -18,5 +18,6 @@
   },
   "websiteUrl": "http://www.nesstri.de/",
   "description": "Der GochNESSTRIathlon am Freizeitbad GochNess in Goch am Niederrhein, mit rund 800 Athleten aus NRW und den Niederlanden. Sprinttriathlon mit Freiwasserschwimmen im GochNess-See, Radkurs durch das Kleverland und Lauf am See. Zuschauer haben freien Eintritt.",
-  "distanceKm": 26
+  "distanceKm": 26,
+  "imageUrl": "https://www.nesstri.de/images/NessTri-20151.jpg"
 }
