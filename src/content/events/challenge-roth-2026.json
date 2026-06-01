@@ -13,7 +13,8 @@
   "location": {
     "name": "Roth",
     "lat": 49.2456,
-    "lng": 11.0902
+    "lng": 11.0902,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.challenge-roth.com",
   "imageUrl": "https://www.challenge-roth.com/files/images/slider/startseite-slider-1-1920x938.jpg",

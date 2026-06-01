@@ -15,7 +15,8 @@
   "location": {
     "name": "Münster",
     "lat": 51.9607,
-    "lng": 7.6261
+    "lng": 7.6261,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://muenster-triathlon.de",
   "description": "Stadtmitte-Triathlon in Münster mit Schwimmen im Aasee, Radstrecke durch das Muensterland und Lauf durch die Innenstadt. Olympische und Sprint-Distanz mit mehreren Deutschen Meisterschaften im Rahmen des Wettkampfs. Einer der beliebtesten Stadtrand-Triathlons in NRW.",

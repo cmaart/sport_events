@@ -15,7 +15,8 @@
   "location": {
     "name": "Sindelfingen",
     "lat": 48.7112,
-    "lng": 9.0012
+    "lng": 9.0012,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://my.raceresult.com/371755",
   "description": "Triathlonevent in Sindelfingen suedwestlich von Stuttgart, Teil des Stuttgarter REGIOCUP-Serienformats mit elf Events in der Region. Praesentiert von Kreissparkasse, Olympische und Sprint-Distanz im Boeblinger Seengebiet. Familienfreundliche Vereinsveranstaltung in der Industrieregion Stuttgart/Sindelfingen.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Hof an der Saale – Untreusee",
     "lat": 50.285,
-    "lng": 11.91
+    "lng": 11.91,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.ifl-hof.de/page-3/gealan-triathlon",
   "description": "43. GEALAN Triathlon der IfL Hof am Untreusee: Volksdistanz und Sprintdistanz für alle Leistungsklassen. Traditionsreicher Vereinstriathlon des IfL Hof in Oberfranken (Bayern) mit Einzel- und Staffelstart.",

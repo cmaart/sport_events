@@ -15,7 +15,8 @@
   "location": {
     "name": "Viernheim",
     "lat": 49.5402,
-    "lng": 8.5783
+    "lng": 8.5783,
+    "region": "Hessen"
   },
   "websiteUrl": "https://triathlonviernheim.de/viernheimer-triathlon/",
   "description": "Viernheimer V-Card Triathlon mit Schwimmen im Hemsbacher Wiesensee, Radstrecke durch den Odenwald und Laufabschluss im Viernheimer Waldstadion. Hauptrennen auf der Olympischen Distanz, dazu Super-Sprint-Schnuppertriathlon, Nachwuchsrennen von Schüler C bis Junioren, DM Para-Triathlon und Finale der 2. Triathlon-Bundesliga Süd.",

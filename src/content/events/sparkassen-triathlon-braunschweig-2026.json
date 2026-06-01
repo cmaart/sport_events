@@ -14,7 +14,8 @@
   "location": {
     "name": "Braunschweig",
     "lat": 52.24,
-    "lng": 10.56
+    "lng": 10.56,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://triathlon-team-bs.de/",
   "description": "21. Sparkassen Triathlon Braunschweig am Raffteichbad nach Rueckkehr aus der Zwangspause 2025. Volkstriathlon ueber Sprintdistanz (0,75/18/5 km) fuer rund 600 Teilnehmer auf kompakter innerstadtischer Strecke im Sueden Braunschweigs. Organisiert vom Triathlon Team Braunschweig e.V.",

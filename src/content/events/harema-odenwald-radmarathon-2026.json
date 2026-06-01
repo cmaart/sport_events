@@ -14,7 +14,8 @@
   "location": {
     "name": "Rodgau",
     "lat": 50.0319,
-    "lng": 8.8853
+    "lng": 8.8853,
+    "region": "Hessen"
   },
   "websiteUrl": "https://radsport-events.de",
   "description": "Radmarathon durch den Odenwald startend in Rodgau suedoestlich von Frankfurt. Strecken fuehren durch das Naherholungsgebiet des Odenwaldgebirges zwischen Rhein und Neckar, Spessart und Bergstrasse. Fruehjahrsevent im Gruenen Guertels der Rhein-Main-Region.",

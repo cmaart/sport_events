@@ -2,7 +2,9 @@
   "id": "loewensteiner-berge-radmarathon-2026",
   "name": "Radmarathon Zu den Löwensteiner Bergen",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-21",
@@ -11,7 +13,8 @@
   "location": {
     "name": "St. Leon-Rot",
     "lat": 49.2717,
-    "lng": 8.6206
+    "lng": 8.6206,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.rsv-rot.de/",
   "description": "Radmarathon Zu den Löwensteiner Bergen des RSV Victoria Rot führt von St. Leon-Rot in die hügelige Landschaft des Kraichgaus und der Löwensteiner Berge. Vier Streckenvarianten von 70 bis 200 Kilometern stehen zur Wahl. BDR-Radmarathon-Cup-Wertungslauf im Premierenjahr des Vereins im nationalen Cup.",

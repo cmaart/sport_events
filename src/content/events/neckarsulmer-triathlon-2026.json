@@ -13,8 +13,9 @@
   },
   "location": {
     "name": "Neckarsulm",
-    "lat": 49.1950,
-    "lng": 9.2254
+    "lat": 49.195,
+    "lng": 9.2254,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://neckarsulmer-triathlon-2026.racepedia.de",
   "description": "10. Neckarsulmer Triathlon der Sport-Union Neckarsulm (SUN) mit überarbeiteter Radstrecke 2026. Sprint-Distanz: 500 m Schwimmen / 20 km Radfahren / 5 km Laufen im Nordwürttemberg. Das Jubiläum findet im Stadtgebiet Neckarsulm statt.",

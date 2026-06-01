@@ -15,7 +15,8 @@
   "location": {
     "name": "Dießen am Ammersee",
     "lat": 47.9503,
-    "lng": 11.1013
+    "lng": 11.1013,
+    "region": "Bayern"
   },
   "websiteUrl": "https://running.life/event/ammersee-triathlon",
   "description": "26. Ammersee Triathlon in Diessen am Ammersee, einem der bekanntesten Triathlons Oberbayerns. Sprint, Volkstriathlon und Staffel-Formate mit Schwimmen im Ammersee vor der Kulisse der bayerischen Voralpen. Familiaeres Vereinsevent mit langer Tradition am drittgroessten bayerischen See.",

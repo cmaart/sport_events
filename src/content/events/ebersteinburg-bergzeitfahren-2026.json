@@ -15,7 +15,8 @@
   "location": {
     "name": "Ebersteinburg",
     "lat": 48.7578,
-    "lng": 8.2146
+    "lng": 8.2146,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://rsg-ried-rastatt.de",
   "description": "Ebersteinburg Bergzeitfahren – Jedermann-Bergzeitfahren des RSG Ried Rastatt e.V. auf der Strecke zur historischen Burg Eberstein bei Baden-Baden (Baden-Württemberg). Traditionelle Veranstaltung am dritten Samstag im September; Start an der Förcher Kreuzung bei Schloss Favorite.",

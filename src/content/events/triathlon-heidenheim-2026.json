@@ -14,7 +14,8 @@
   "location": {
     "name": "Heidenheim an der Brenz",
     "lat": 48.6763,
-    "lng": 10.1546
+    "lng": 10.1546,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://triathlon-heidenheim.de",
   "description": "5. Zeller-Bäderbau Triathlon des SV Mergelstetten in Heidenheim an der Brenz auf der Ostalb. Sprint-Distanz (400 m / 24 km / 5 km) am Stadtrand von Heidenheim, veranstaltet vom Tri-Team Heidenheim. Schnelle Sprint-Distanz in der Urlaubsregion Ostalb.",

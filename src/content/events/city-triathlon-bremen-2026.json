@@ -15,7 +15,8 @@
   "location": {
     "name": "Bremen",
     "lat": 53.1137,
-    "lng": 8.7892
+    "lng": 8.7892,
+    "region": "Bremen"
   },
   "websiteUrl": "https://citytriathlonbremen.de",
   "description": "14. GEWOBA City Triathlon Bremen im Stadtteil Ueberseestadt am Westufer mit rund 1.100 Teilnehmenden. Olympische und Sprint-Distanz mit Schwimmen in einem Hafenbecken, Radkurs entlang der Weser und Laufen durch das moderne Weserquartier. Urban-industrielle Kulisse im ehemaligen Hafen- und Gueterbahnhofgelände.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Feldberg",
     "lat": 47.8733,
-    "lng": 8.0186
+    "lng": 8.0186,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://gravel-rallye.com/black-forest",
   "description": "Dreitagiges Gravel-Rallye-Event rund um den Feldberg im suedlichen Schwarzwald mit Base-Camp in Altglashueetten. Freitag-Abenteuer-Overnight-Route sowie Samstag Qualifier-Rallye durch die typischen Schwarzwaldlandschaften auf Forstwegen und Schotterpisten. Verbindung aus Wettkampf und Bikepacking-Erlebnis.",

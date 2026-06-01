@@ -14,7 +14,8 @@
   "location": {
     "name": "Jena",
     "lat": 50.9272,
-    "lng": 11.5899
+    "lng": 11.5899,
+    "region": "Thüringen"
   },
   "websiteUrl": "https://radsport-events.de",
   "description": "Ultra-Radmarathon durch ganz Thueringen in zwei Varianten: 300 km / 4.500 m Hoehengewinn oder 500 km / 6.500 m Hoehengewinn. Selbstgefuehrte Non-Stop-Herausforderung durch das Gruene Herz Deutschlands, den Thueringer Wald, das Thueringer Becken und die Rhoen. Bikepacking-Format ohne Wertung fuer Abenteurerfahrer.",

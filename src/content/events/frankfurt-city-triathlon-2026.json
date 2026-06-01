@@ -16,7 +16,8 @@
   "location": {
     "name": "Frankfurt am Main",
     "lat": 50.1109,
-    "lng": 8.6821
+    "lng": 8.6821,
+    "region": "Hessen"
   },
   "websiteUrl": "https://frankfurt-city-triathlon.de",
   "description": "Groesster Triathlon in der Rhein-Main-Metropole Frankfurt mit vier Distanzen: Mitteldistanz (2 km / 80 km / 20 km), Olympische Distanz, Sprint und SuperSprint. Schwimmen im Langener Waldsee sued von Frankfurt, Radstrecke durch den Frankfurter Sueden und Laufkurs. Ausrichter der Hessischen Meisterschaft Mitteldistanz.",

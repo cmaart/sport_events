@@ -14,7 +14,8 @@
   "location": {
     "name": "Isny im Allgäu",
     "lat": 47.6889,
-    "lng": 10.0382
+    "lng": 10.0382,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.vecnum.com/de/allgaeu-gravel-ride",
   "description": "4. Allgäu Gravel Ride by Vecnum in Isny im Allgäu. Drei Strecken: Allgäu Power (~55 km, 700 Hm), Allgäuer Allerlei (~110 km, 1.900 Hm) und Allgäu ohne Ende (~150 km, 2.900 Hm). Gemeinschaftlicher, nicht-kompetitiver Gravel-Ride durch sattes Almgrün mit Genuss-Fokus.",

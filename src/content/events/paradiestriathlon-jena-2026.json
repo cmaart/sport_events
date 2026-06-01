@@ -15,7 +15,8 @@
   "location": {
     "name": "Jena",
     "lat": 50.9272,
-    "lng": 11.5899
+    "lng": 11.5899,
+    "region": "Thüringen"
   },
   "websiteUrl": "https://triathlon.de",
   "description": "Triathlonevent in der Saalestadt Jena mit Schwimmen im Paradies-Bad, Radstrecke durch das Saaletal und Laufkurs entlang der Saale. Olympische und Sprint-Distanz in der Universitaetsstadt Jena im thueringischen Saaletal. Traditionelles Veranstaltungsformat mit Vereinsstruktur.",

@@ -15,7 +15,8 @@
   "location": {
     "name": "Furth im Wald",
     "lat": 49.3072,
-    "lng": 12.8444
+    "lng": 12.8444,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.drachentriathlon.de",
   "description": "Triathlon am malerischen Drachensee in der Drachenstadt Furth im Wald, direkt an der bayerisch-tschechischen Grenze im Bayerischen Wald. Sprint (500 m / 20 km / 5 km) und Olympische Distanz (1,5 km / 40 km / 10 km), veranstaltet vom TV 1881 Fürth im Wald e.V.",

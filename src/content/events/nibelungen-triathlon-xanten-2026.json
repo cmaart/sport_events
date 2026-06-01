@@ -15,7 +15,8 @@
   "location": {
     "name": "Xanten",
     "lat": 51.6578,
-    "lng": 6.4558
+    "lng": 6.4558,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://triathlon-xanten.de",
   "description": "40. Jubilaeum des Nibelungen-Triathlons in Xanten am Niederrhein. Schwimmen im Xantener Nordsee, einem ehemaligen Baggerloch direkt neben der roemischen Ausgrabungsstaette Colonia Ulpia Traiana. Olympische und Sprint-Distanz mit einzigartiger historisch-archaeologischer Kulisse.",

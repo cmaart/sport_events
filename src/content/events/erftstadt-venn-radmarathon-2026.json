@@ -13,7 +13,8 @@
   "location": {
     "name": "Erftstadt-Lechenich",
     "lat": 50.8125,
-    "lng": 6.7658
+    "lng": 6.7658,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://rsc-erftstadt.de/",
   "description": "Der Erftstadt-Venn Radmarathon des RSC Erftstadt führt von Erftstadt-Lechenich ins belgische Hohe Venn und zurück. Fünf Streckenvarianten von 45 bis 208 Kilometern mit rund 2.000 Höhenmetern bieten für alle Leistungsstufen das Richtige. Das Rennen ist BDR-Radmarathon-Cup-Wertungslauf und führt über die Grenze ins belgische Eifelmassiv.",

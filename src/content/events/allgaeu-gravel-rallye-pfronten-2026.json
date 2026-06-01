@@ -14,7 +14,8 @@
   "location": {
     "name": "Pfronten",
     "lat": 47.5764,
-    "lng": 10.5453
+    "lng": 10.5453,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.cycloworld.cc/gran-fondo/germany/allgau-gravel-rallye-pfronten",
   "description": "Gravel-Event im bayerisch-allgaeuer Alpenvorland rund um das Walsertal-Gebiet bei Pfronten im Ostallgaeu. Unbefestigte Waldwege und Schotterpisten durch die suedlichsten Alpenauslaeufern Bayerns nahe der oesterreichischen Grenze. Spektakulaere Bergkulisse mit Zugspitzmassiv und den Ammergauer Alpen als Kulisse.",

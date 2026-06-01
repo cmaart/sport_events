@@ -14,7 +14,8 @@
   "location": {
     "name": "Borken",
     "lat": 51.8436,
-    "lng": 6.8578
+    "lng": 6.8578,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://muensterland-giro.de",
   "description": "20. Jubiläumsausgabe des Sparkassen Münsterland Giro parallel zum gleichnamigen UCI-Profirennen. 2026 erstmals mit Start in Borken, dem Jubiläums-Stadtfest zum 800-jährigen Stadtjubiläum. Drei Jedermann-Strecken durch das flache Münsterland. Traditionell am Tag der Deutschen Einheit.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Mörfelden-Walldorf",
     "lat": 49.9772,
-    "lng": 8.5749
+    "lng": 8.5749,
+    "region": "Hessen"
   },
   "websiteUrl": "https://www.moewathlon.de/",
   "description": "MöWathlon der SKV Mörfelden mit Schwimmstart im Badesee Walldorf. Sprintdistanz über 500 m Schwimmen, 20 km Rad auf gesperrten Straßen und 5 km Lauf durch den Wald. Einzelwertung und Staffelwettbewerb in familiärer Atmosphäre südlich des Frankfurter Flughafens.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Köln",
     "lat": 50.9333,
-    "lng": 6.95
+    "lng": 6.95,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.rundumkoeln.de",
   "description": "Jedermann-Radrennen parallel zum Profi-Klassiker Rund um Köln (seit 1908). Drei Strecken: Velodom 120 km (Start 09:30 Uhr), Velodom 60 km (ab 11 Uhr) und Velodom 30 km (ab 12:30 Uhr) - alle mit Start/Ziel im Kölner Rheinauhafen. 8.675 Teilnehmer 2026 - Rekord in der Geschichte des Jedermannnrennens.",

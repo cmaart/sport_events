@@ -14,7 +14,8 @@
   "location": {
     "name": "Halberstadt",
     "lat": 51.8976,
-    "lng": 11.0427
+    "lng": 11.0427,
+    "region": "Sachsen-Anhalt"
   },
   "websiteUrl": "https://harz-radmarathon.de",
   "description": "Komplette Harzumrundung per Rad von Halberstadt mit Streckenoptionen von 22 bis 303 km. Die grosse Harzumrundung (303 km / 3.000 m Hoehengewinn) zaehlt zu den anspruchsvollsten deutschen Radmarathons. Startend in der historischen Kaiserstadt Halberstadt fuehren die Strecken durch das Mittelgebirge des Harzes.",

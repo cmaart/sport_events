@@ -16,7 +16,8 @@
   "location": {
     "name": "Zwickau",
     "lat": 50.7189,
-    "lng": 12.4955
+    "lng": 12.4955,
+    "region": "Sachsen"
   },
   "websiteUrl": "https://zwickau-triathlon.de/",
   "description": "Multidistanz-Triathlon in der saechsischen Industriestadt Zwickau, Schwimmen in der Gluck-Auf-Schwimmhalle. 2026 erstmals mit Mitteldistanz als Erweiterung des Formats. Ausserdem Jugend-, Junior- und Paratriathlon-Kategorien.",

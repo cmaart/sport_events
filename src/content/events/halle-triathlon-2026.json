@@ -14,7 +14,8 @@
   "location": {
     "name": "Halle (Saale)",
     "lat": 51.4825,
-    "lng": 11.9701
+    "lng": 11.9701,
+    "region": "Sachsen-Anhalt"
   },
   "websiteUrl": "https://running.life/event/stadtwerke-halle-triathlon",
   "description": "35. Stadtwerke Halle Triathlon in der Saalestadt Halle: 750 m Schwimmen, 20 km Radstrecke, 5 km Laufen. Traditionsevent in der mitteldeutschen Metropole an der Saale mit Schwimmen in einem Naturbadegewaesser. Praesentiert von Stadtwerke Halle, DTU-Jugendcup parallel im April.",

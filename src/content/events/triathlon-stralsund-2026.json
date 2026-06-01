@@ -15,7 +15,8 @@
   "location": {
     "name": "Stralsund",
     "lat": 54.3168,
-    "lng": 13.0928
+    "lng": 13.0928,
+    "region": "Mecklenburg-Vorpommern"
   },
   "websiteUrl": "https://stralsund-triathlon.de",
   "description": "Triathlonevent in der Hansestadt Stralsund an der Ostseekueste (UNESCO-Weltkulturerbe Altstadt) mit olympischer Distanz (1,5 km / 40 km / 10 km), Sprint (750 m / 20 km / 5 km) und Jugendtriathlon. Siebte Ausgabe mit Schwimmen im Strelasund, Radstrecke durch Vorpommern und Lauf durch das Stralsunder Stadtgebiet.",

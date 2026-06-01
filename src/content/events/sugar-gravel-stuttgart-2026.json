@@ -14,7 +14,8 @@
   "location": {
     "name": "Stuttgart",
     "lat": 48.7758,
-    "lng": 9.1829
+    "lng": 9.1829,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://sugar-gravel.jimdosite.com",
   "description": "Mehrtaegiges Ultra-Gravel-Event rund um Stuttgart mit zwei Distanzoptionen: 270 km / 4.000 m und 550 km / 8.000 m Hoehengewinn. Selbstnavigation ohne Markierungen auf Schotterwegen durch das Schwabische Alb-Vorland, den Schoenbusch und die Schwabische Alb. Bikepacking-Format mit individuellem Start im Herbst.",

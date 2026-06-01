@@ -15,7 +15,8 @@
   "location": {
     "name": "Gifhorn",
     "lat": 52.4866,
-    "lng": 10.5498
+    "lng": 10.5498,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.triathlon-gifhorn.de",
   "registrationUrl": "https://reg.mikatiming.com/tankumsee/2026/de",

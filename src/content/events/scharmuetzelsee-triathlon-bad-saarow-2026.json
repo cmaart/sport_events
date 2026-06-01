@@ -15,7 +15,8 @@
   "location": {
     "name": "Bad Saarow",
     "lat": 52.2809,
-    "lng": 14.0492
+    "lng": 14.0492,
+    "region": "Brandenburg"
   },
   "websiteUrl": "https://scharmuetzelsee-triathlon.de",
   "description": "7. Scharmützelsee-Triathlon in Bad Saarow am idyllischen Scharmützelsee in der Märkischen Schweiz, mit Austragung der Berlin-Brandenburgischen Meisterschaften über die Olympische Distanz. Olympisch (1,5 km / 38 km / 10 km), Sprint und Staffel. Schwimmen im klaren Moränensee des Spreewaldes.",

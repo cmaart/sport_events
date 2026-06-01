@@ -15,7 +15,8 @@
   "location": {
     "name": "Karlsdorf-Neuthard",
     "lat": 49.114,
-    "lng": 8.538
+    "lng": 8.538,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.summertime-triathlon.de",
   "description": "KraichgauEnergie Summertime Triathlon in Karlsdorf-Neuthard bei Bruchsal im Kraichgau. Schwimmen in kristallklarem Wasser, schnelle Rad- und Laufstrecken, Zieleinlauf unter Palmen. Verschiedene Distanzen für alle Leistungsstufen, veranstaltet vom TGS Neuthard in partnerschaft mit Volksbank Stutensee-Weingarten.",

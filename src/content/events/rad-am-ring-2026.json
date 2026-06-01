@@ -15,7 +15,8 @@
   "location": {
     "name": "Nürburgring",
     "lat": 50.3356,
-    "lng": 6.9475
+    "lng": 6.9475,
+    "region": "Rheinland-Pfalz"
   },
   "websiteUrl": "https://radamring.de",
   "description": "Dreitägiges Radsportfestival auf der legendären Nürburgring-Nordschleife in der Eifel. Jedermann-Rennen über 75 und 150 km, 24h-Radrennen für Teams, 24h-MTB-Rennen, 22-km-Zeitfahren über die Nordschleife sowie MTB-Marathon. Einzigartiges Flair auf der berühmtesten Motorsport-Rennstrecke der Welt.",

@@ -13,7 +13,8 @@
   "location": {
     "name": "Bremen",
     "lat": 53.0793,
-    "lng": 8.8017
+    "lng": 8.8017,
+    "region": "Bremen"
   },
   "websiteUrl": "https://bremen.gfny.com/",
   "description": "GFNY Bremen – Erster GFNY Gran Fondo in Norddeutschland: Start und Ziel im Tabakquartier in der Hansestadt Bremen. Zwei Strecken: 110 km mit Altersklassenranking oder 60 km Genussvariante durch das ruhige ländliche Umland Bremens. Teil der weltweiten GFNY-Serie.",

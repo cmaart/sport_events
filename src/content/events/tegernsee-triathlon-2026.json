@@ -15,7 +15,8 @@
   "location": {
     "name": "Gmund am Tegernsee",
     "lat": 47.7468,
-    "lng": 11.744
+    "lng": 11.744,
+    "region": "Bayern"
   },
   "websiteUrl": "https://tegernsee-triathlon.de",
   "description": "Spektakulaerer Alpenrand-Triathlon am turkisblauen Tegernsee in Oberbayern. Olympische Distanz (1,5 km / 40 km / 10 km) und Sprint (600 m / 20 km / 5 km) mit Blick auf die Bayerischen Alpen. Praesentiert von SCOTT, einer der schoensten Naturkulissen im deutschen Triathlonkalender.",

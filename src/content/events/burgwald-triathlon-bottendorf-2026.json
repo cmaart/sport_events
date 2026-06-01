@@ -15,7 +15,8 @@
   "location": {
     "name": "Bottendorf",
     "lat": 51.01,
-    "lng": 8.88
+    "lng": 8.88,
+    "region": "Hessen"
   },
   "websiteUrl": "http://www.burgwald-triathlon.de/",
   "description": "17. Burgwald-Triathlon am Bottendorfer See inmitten des hessischen Burgwalds, einem der groessten zusammenhaengenden Mischwaeldler Deutschlands. Olympische und Sprintdistanz am Nemphestadion, fester Bestandteil des TVH-Ligakalenders. Organisiert vom TSV 09 Bottendorf.",

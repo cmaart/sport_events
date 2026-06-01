@@ -14,7 +14,8 @@
   "location": {
     "name": "Backnang",
     "lat": 48.9483,
-    "lng": 9.4319
+    "lng": 9.4319,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.citytriathlonbacknang.de/",
   "description": "Saisoneröffnungs-Triathlon im Rems-Murr-Kreis nordoestlich von Stuttgart, Schwimmen im Freibad Backnang, welliges Radprofil auf gesperrten Strassen. 15. Auflage des Stadttriathlons als Teil des RegioCup Stuttgart 2026. Volksdistanz und Sprint fuer alle Leistungsklassen.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Neunkirchen",
     "lat": 49.346,
-    "lng": 7.179
+    "lng": 7.179,
+    "region": "Saarland"
   },
   "websiteUrl": "http://neunkirchen-triathlon.de/",
   "description": "Saarland-Cup-Rennen in der Kreisstadt Neunkirchen mit parallelem Kinder- und Jugendtriathlon. Teil der Saarlaendischen Landesmeisterschaft im Cup-Format 2026, organisiert von der Saarlaendischen Triathlon Union.",

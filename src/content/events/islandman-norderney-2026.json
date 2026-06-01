@@ -15,7 +15,8 @@
   "location": {
     "name": "Norderney",
     "lat": 53.7063,
-    "lng": 7.1565
+    "lng": 7.1565,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.sebamed-islandman.de",
   "description": "Triathlon auf der ostfriesischen Nordseeinseln Norderney: Schwimmen in der Nordsee, Radfahren auf dem autoarmen Inselgelände, Laufen an Strand und Promenade. Vier Distanzen (Olympisch, Sprint, Beginner/Schnupperdistanz, Youth) sowie Staffelformate. Einzigartiges Inselflair im Nordfriesland.",

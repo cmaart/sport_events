@@ -16,7 +16,8 @@
   "location": {
     "name": "Eschweiler",
     "lat": 50.82,
-    "lng": 6.32
+    "lng": 6.32,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.indeland-triathlon.de/",
   "description": "19. indeland-Triathlon vom Blausteinsee in Eschweiler durch die Tagebaulandschaft der Region Aachen-Duerenin bis zum Roemerpark Aldenhoven. Radstrecke fuehrt einzigartig durch den aktiven Tagebau Inden. Mitteldistanz (1,9/88/20 km), Olympische und Volksdistanz.",

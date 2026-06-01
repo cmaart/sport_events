@@ -15,7 +15,8 @@
   "location": {
     "name": "Döben",
     "lat": 51.2388,
-    "lng": 12.7175
+    "lng": 12.7175,
+    "region": "Sachsen"
   },
   "websiteUrl": "https://churchhillrace.de",
   "registrationUrl": "https://spoferan.com/events/churchhill-race-2026",

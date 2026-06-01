@@ -14,7 +14,8 @@
   "location": {
     "name": "Lichtenfels",
     "lat": 50.1439,
-    "lng": 11.1373
+    "lng": 11.1373,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.frankenbikemarathon.de",
   "description": "Laut Bike-Magazin einer der 10 schoensten MTB-Marathons Europas in Oberfranken. Langstrecke 90 km / 2.350 Hm kombiniert technisches Gelaende mit Flow-Sektionen durch die Fraenkische Schweiz. Kurzstrecke 20 km / 400 Hm und Mittelstrecke 50 km / 1.400 Hm mit E-Bike-Wertung.",

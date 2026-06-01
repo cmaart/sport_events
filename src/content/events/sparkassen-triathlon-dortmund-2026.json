@@ -15,7 +15,8 @@
   "location": {
     "name": "Dortmund",
     "lat": 51.5136,
-    "lng": 7.4653
+    "lng": 7.4653,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://sparkassen-triathlon-dortmund.de",
   "description": "Triathlonevent in der Ruhrgebiet-Metropole Dortmund, praesentiert von Sparkasse. Sprint und Olympische Distanz mit Schwimmen in einem Dortmunder Badesee, Radstrecke durch das Ruhrgebiet und Laufkurs. Groesster Triathlon im Ruhrgebiet mit starker Vereinstradition in der Revierstadt.",

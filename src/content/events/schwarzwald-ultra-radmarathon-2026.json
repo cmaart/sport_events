@@ -14,7 +14,8 @@
   "location": {
     "name": "Alpirsbach",
     "lat": 48.3454,
-    "lng": 8.4135
+    "lng": 8.4135,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.surm.de",
   "description": "Radmarathon im mittleren Schwarzwald startend in Alpirsbach mit drei Streckenvarianten: 82 km, 147 km und 230 km. Die langen Strecken ueberqueren die Kammhoehen des Schwarzwaldes mit erheblichem Hoehengewinn. Herbstliches Foliage und frische Temperaturen praegen dieses anspruchsvolle Radmarathon-Event.",

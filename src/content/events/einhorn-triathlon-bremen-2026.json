@@ -15,7 +15,8 @@
   "location": {
     "name": "Bremen",
     "lat": 53.0793,
-    "lng": 8.8017
+    "lng": 8.8017,
+    "region": "Bremen"
   },
   "websiteUrl": "https://finishers.com/event/einhorn-triathlon-bremen",
   "description": "Triathlonevent in Bremen am Stadtwaldsee (Unisee) nahe des Universitaetsgelaendes. Olympische Distanz und Sprint mit Schwimmen im Naturbadesee, Radkurs durch die Bremer Stadtteile und Laufstrecke durch den Buergerpark. Familienfreundliches Event im gruenen Bremer Westen.",

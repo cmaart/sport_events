@@ -15,7 +15,8 @@
   "location": {
     "name": "Freyung",
     "lat": 48.8051,
-    "lng": 13.5433
+    "lng": 13.5433,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.rc-freyung.de",
   "description": "Radmarathon durch drei Länder: Deutschland, Tschechien und Österreich im Bayerischen Wald. Fünf Strecken von 40 bis 205 km mit Start und Ziel am Schulzentrum Freyung. Der Dreiländermarathon (205 km) berührt spektakuläre Waldlandschaften im niederbayerischen Grenzgebiet. Veranstaltet vom Radsportclub Freyung e.V.",

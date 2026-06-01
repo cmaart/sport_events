@@ -14,7 +14,8 @@
   "location": {
     "name": "Waiblingen",
     "lat": 48.8304,
-    "lng": 9.3186
+    "lng": 9.3186,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.triathlon-vfl-waiblingen.de/",
   "description": "32. Waiblinger Triathlon im Remstal oestlich von Stuttgart, Schwimmen im Waiblinger Freibad, Radstrecke auf gesperrten Strassen. Wertungsrennen im RegioCup Stuttgart 2026. Anmeldeschluss 3. Mai, keine Tagesmeldungen moeglich.",

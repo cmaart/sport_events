@@ -16,7 +16,8 @@
   "location": {
     "name": "Wilhelmshaven",
     "lat": 53.52,
-    "lng": 8.11
+    "lng": 8.11,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.nordseeman.de/",
   "description": "Bekannter Mitteldistanz-Triathlon an der Nordseekueste, Schwimmen im geschuetzten Banter See bei Wilhelmshaven, Radstrecke durch das ostfriesische Flachland (1,9/90/21,1 km). Eigene NordseeWoman-Wertung fuer Frauen. Olympisch und Sprint als weitere Kategorien.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Holzminden",
     "lat": 51.8258,
-    "lng": 9.4478
+    "lng": 9.4478,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.rund-um-den-solling.de/",
   "description": "Benefiz-Radtour des Lions Club Holzminden durch den waldreichen Solling und das Weserbergland zugunsten der DKMS Knochenmarkspenderdatei. Strecken 30/60/120 km sowie E-Bike-Variante 50 km. Saisonsabschluss-Event in Suedniedersachsen ohne Wettkampfcharakter.",

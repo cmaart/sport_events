@@ -15,7 +15,8 @@
   "location": {
     "name": "Berlin – Wannsee",
     "lat": 52.4218,
-    "lng": 13.1666
+    "lng": 13.1666,
+    "region": "Berlin"
   },
   "websiteUrl": "https://www.berlin-wo-man.de",
   "description": "Triathlon-Challenge am Großen Wannsee in Berlin: 1,9 km Schwimmen im Wannsee, 90 km Rad durch Berliner Stadtränder, 21,1 km Laufen entlang des Sees. Zusätzlich Sprint-Distanz, AquaBike und MiniWoMan-Kinderaquathlon. Zweitages-Festival mit besonderer Wannsee-Atmosphäre; Sprint bereits ausgebucht.",

@@ -15,7 +15,8 @@
   "location": {
     "name": "Schweinfurt",
     "lat": 50.0489,
-    "lng": 10.2338
+    "lng": 10.2338,
+    "region": "Bayern"
   },
   "websiteUrl": "https://laufen-triathlon.de/maincitytriathlon/",
   "description": "Stadttriathlon in Schweinfurt am Baggersee mit Schwimmen im Natursee, Radkurs durch die Mainmetropole und Laufen entlang des Mains. Sprint- und Olympische Distanz, veranstaltet von der TG 48 Schweinfurt. Teil des MainCity-Weekends mit AOK-MainCityRun am Samstag.",

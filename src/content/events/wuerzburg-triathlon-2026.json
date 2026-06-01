@@ -14,8 +14,9 @@
   },
   "location": {
     "name": "Würzburg",
-    "lat": 49.7990,
-    "lng": 9.9330
+    "lat": 49.799,
+    "lng": 9.933,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.wuerzburg-triathlon.de/",
   "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/08/67/lifestyle-wuerzburg-triathlon-82-1493900756.jpg",

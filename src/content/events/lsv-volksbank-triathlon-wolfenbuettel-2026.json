@@ -15,7 +15,8 @@
   "location": {
     "name": "Wolfenbüttel",
     "lat": 52.1639,
-    "lng": 10.5381
+    "lng": 10.5381,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://lsv-triathlon.de",
   "description": "28. LSV-Volksbank Triathlon in Wolfenbüttel, Niedersachsen. Sprint- und Olympische Distanz in der Fachwerkstadt zwischen Harz und Heide. Start 11:00 Uhr, Wettkampf bis ca. 15:30 Uhr, veranstaltet vom Lindener Sportverein von 1921 e.V. Klassiker im Triathlon-Verband Niedersachsen.",

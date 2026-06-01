@@ -15,7 +15,8 @@
   "location": {
     "name": "Nürnberg",
     "lat": 49.4521,
-    "lng": 11.0767
+    "lng": 11.0767,
+    "region": "Bayern"
   },
   "websiteUrl": "https://finishers.com/event/datagroup-triathlon-nurnberg",
   "description": "Triathlon in der Frankenmetropole Nuernberg mit Sprint- und Olympischer Distanz sowie Para-Cup und Staffelwettbewerben. Praesentiert von DATAGROUP, Schwimmen in einem der Nuernberger Badeseen. Stadtnaher Triathlon mit grossem Zuschauerambiente und gutem Anreiseangebot per OEPNV.",

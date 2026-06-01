@@ -13,7 +13,8 @@
   "location": {
     "name": "Frankfurt am Main",
     "lat": 50.1109,
-    "lng": 8.6821
+    "lng": 8.6821,
+    "region": "Hessen"
   },
   "websiteUrl": "https://www.ironman.com/im-frankfurt",
   "description": "Europameisterschaft auf der Ironman-Langdistanz: 3,8 km Schwimmen im Langener Waldsee, 180 km Rad über den Taunus, 42,2 km Lauf entlang des Mains mit Zieleinlauf am Römerberg. Größte Ironman-Veranstaltung Europas.",

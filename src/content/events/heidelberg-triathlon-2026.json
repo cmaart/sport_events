@@ -14,7 +14,8 @@
   "location": {
     "name": "Heidelberg",
     "lat": 49.3988,
-    "lng": 8.6724
+    "lng": 8.6724,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://heidelberg-triathlon.de",
   "description": "Triathlonevent in der Universitaetsstadt Heidelberg am Neckar mit 1,6 km Schwimmen, 36 km Radstrecke und 10 km Laufen. Einer der schoensten Stadttriathlons suedwestdeutschlands mit Schloss und Altstadt-Kulisse. Attraktiver Naturkurs durch die Heidelberger Umgebung.",

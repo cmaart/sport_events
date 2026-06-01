@@ -14,7 +14,8 @@
   "location": {
     "name": "Arnsberg",
     "lat": 51.394,
-    "lng": 8.063
+    "lng": 8.063,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.sauerlandrundfahrt.de",
   "description": "Jedermann-Rennen als Rahmenprogramm der Sauerlandrundfahrt (3.–6. September 2026) in Arnsberg im Hochsauerland. Radfahren auf den Profi-Strecken des UCI-Etappenrennens durch die mittelgebirgige Sauerländer Kulturlandschaft. Verschiedene Distanzen für ambitionierte Hobbyfahrer, Start und Ziel im Herzen Arnsbergs.",

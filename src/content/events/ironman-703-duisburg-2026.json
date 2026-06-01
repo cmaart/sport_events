@@ -14,7 +14,8 @@
   "location": {
     "name": "Duisburg",
     "lat": 51.4344,
-    "lng": 6.7623
+    "lng": 6.7623,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.ironman.com/im703-duisburg",
   "description": "IRONMAN 70.3 im Herzen des Ruhrgebiets: 1,9 km Schwimmen im Duisburger Innenhafen, 88 km Radstrecke in zwei Schleifen durchs Ruhrgebiet, 21,1 km Lauf in vier Runden mit Zieleinlauf vor dem Rathaus. Start 07:30 Uhr.",

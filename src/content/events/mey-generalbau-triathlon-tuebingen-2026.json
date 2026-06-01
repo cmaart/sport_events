@@ -15,7 +15,8 @@
   "location": {
     "name": "Tübingen",
     "lat": 48.5215,
-    "lng": 9.0576
+    "lng": 9.0576,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.mey-generalbau-triathlon.com",
   "description": "Stadttriathlon in der Universitätsstadt Tübingen mit Schwimmen im Neckar. Drei Distanzen: Kurz (300 m / 11 km / 3,5 km), Sprint (750 m / 22 km / 5,4 km) und Lang (1.500 m / 43 km / 9,5 km). Idyllisches Ambiente im Tal der Neckar zwischen Schwäbischer Alb und Schwarzwald.",

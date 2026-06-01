@@ -14,7 +14,8 @@
   "location": {
     "name": "Offenbach am Main",
     "lat": 50.1058,
-    "lng": 8.7647
+    "lng": 8.7647,
+    "region": "Hessen"
   },
   "websiteUrl": "https://www.gravelman.de/",
   "description": "GravelMan des Ersten Offenbacher Schwimmclubs 1896 als Cross-Triathlon mit Gravelbike-Anteil. Quick-Format als Supersprint (0,25/10/2,5 km) und Dirty-Format als Sprintdistanz (0,5/20/5 km). Die Dirty-Distanz ist zugleich Hessische Meisterschaft im Cross-Triathlon, dazu Kinder-Wettkämpfe als GravelKidz.",

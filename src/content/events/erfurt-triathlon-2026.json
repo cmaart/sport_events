@@ -15,7 +15,8 @@
   "location": {
     "name": "Erfurt",
     "lat": 51.0504,
-    "lng": 11.021
+    "lng": 11.021,
+    "region": "Thüringen"
   },
   "websiteUrl": "https://erfurt-triathlon.de/",
   "description": "Triathlon am Strandbad Stotternheim nordoestlich von Erfurt, Schwimmen als Rundkurs im Stotternheimer See, Radstrecke auf asphaltierten Strassen mit welligem Profil. Waldlaufkurs mit natuerlichen Wegen fuer Sprint und Olympische Distanz (1,5/40/10 km).",

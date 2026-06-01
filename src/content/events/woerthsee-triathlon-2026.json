@@ -15,7 +15,8 @@
   "location": {
     "name": "Wörthsee",
     "lat": 48.0698,
-    "lng": 11.1708
+    "lng": 11.1708,
+    "region": "Bayern"
   },
   "websiteUrl": "https://woerthseetriathlon.de",
   "description": "Einer der traditionsreichsten Triathlons Bayerns am idyllischen Wörthsee westlich von Muenchen, seit uber 40 Jahren Pflichttermin im bayerischen Triathlonkalender. Olympische Distanz (1,5 km / 44 km / 10 km) und Volksdistanz (600 m / 20 km / 6 km). Typischerweise sehr schnell ausgebucht; Wartelliste verfuegbar.",

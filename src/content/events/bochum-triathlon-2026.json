@@ -15,7 +15,8 @@
   "location": {
     "name": "Bochum",
     "lat": 51.4818,
-    "lng": 7.2162
+    "lng": 7.2162,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://bochum-triathlon.de/",
   "description": "5. Familien-Triathlon im Herzen des Ruhrgebiets, Schwimmen im beheizten 50-m-Freibad Bochum. Radkurs auf gesperrten Strassen ueber Koeningsallee, Laufstrecke im Wiesental Park. Sprint, Olympisch, Schnupperdistanz und Familien-Triathlon organisiert vom SV Blau-Weiss Bochum 1896.",

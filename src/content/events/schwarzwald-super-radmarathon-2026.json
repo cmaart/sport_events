@@ -14,7 +14,8 @@
   "location": {
     "name": "Münstertal",
     "lat": 47.9164,
-    "lng": 7.7829
+    "lng": 7.7829,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://schwarzwald-super.de",
   "description": "Rennradmarathon im suedlichen Schwarzwald startend in Muenstertal mit anspruchsvollen Paessen durch das Hochschwarzwald-Massiv. Strecken fuehren ueber bekannte Schwarzwaldpaesse mit erheblichen Hoehenprofilen. Beeindruckende Landschaft zwischen Freiburg und dem Dreilaendereck Deutschland-Frankreich-Schweiz.",

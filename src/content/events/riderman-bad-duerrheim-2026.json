@@ -14,7 +14,8 @@
   "location": {
     "name": "Bad Dürrheim",
     "lat": 48.0186,
-    "lng": 8.5267
+    "lng": 8.5267,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.riderman.de",
   "description": "Drei-Tages-Etappenrennen für Jedermann im Schwarzwald: Einzelzeitfahren, Bergetappe und großes Straßenrennen. Klassiker für ambitionierte Amateure mit individueller Wertung in mehreren Altersklassen.",

@@ -14,7 +14,8 @@
   "location": {
     "name": "Ochtendung",
     "lat": 50.3633,
-    "lng": 7.3978
+    "lng": 7.3978,
+    "region": "Rheinland-Pfalz"
   },
   "websiteUrl": "https://radsport-events.de",
   "description": "Traditioneller Saisoneröffnungs-Radmarathon in der Vulkaneifel nahe Koblenz mit 218 km Laenge und rund 2.500 m Hoehengewinn. Benannt nach dem Gruender, fuehrt der Kurs durch die vulkanische Eifellandschaft mit typischen Krater-Maaren und Basalthuegeln. Beliebter Fruehjahrstraining-Radmarathon mit Vereinstradition.",

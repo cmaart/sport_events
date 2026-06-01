@@ -15,7 +15,8 @@
   "location": {
     "name": "Hannover",
     "lat": 52.3587,
-    "lng": 9.7367
+    "lng": 9.7367,
+    "region": "Niedersachsen"
   },
   "websiteUrl": "https://triathlon-hannover.de",
   "description": "Stadtrand-Triathlon in der niedersaechsischen Landeshauptstadt am Maschsee, dem kuenstlichen Freizeitsee im Herzen Hannovers. Olympische und Sprint-Distanz mit Schwimmen im Maschsee, Radkurs durch Hannover und Laufstrecke am Seeufer. Attraktives Stadttriathlon-Event mit grosser Zuschauerkulisse.",

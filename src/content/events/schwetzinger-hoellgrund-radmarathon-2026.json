@@ -15,7 +15,8 @@
   "location": {
     "name": "Schwetzingen",
     "lat": 49.3867,
-    "lng": 8.5661
+    "lng": 8.5661,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://rsvkurpfalz.de",
   "description": "Radmarathon von Schwetzingen in den Odenwald mit vier Streckenvarianten von 70 bis 205 km. Die Strecken führen vom Rheintal aufwärts in den Odenwald mit dem namensgebenden Höllgrund als markanter Passage. Veranstaltet vom RSV Kurpfalz Schwetzingen e.V., Start an der Schimper Gemeinschaftsschule.",

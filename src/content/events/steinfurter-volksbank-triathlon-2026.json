@@ -16,7 +16,8 @@
   "location": {
     "name": "Steinfurt",
     "lat": 52.1495,
-    "lng": 7.3356
+    "lng": 7.3356,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://triteam-steinfurt.de/triathlon/",
   "registrationUrl": "https://portal.run-timing.de/922/registration",

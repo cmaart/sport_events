@@ -14,7 +14,8 @@
   "location": {
     "name": "Magdeburg",
     "lat": 52.1205,
-    "lng": 11.6276
+    "lng": 11.6276,
+    "region": "Sachsen-Anhalt"
   },
   "websiteUrl": "https://finishers.com/event/magdeburger-teamtriathlon",
   "description": "36. Sparkassen Uni-Triathlon in Magdeburg an der Elbe: 800 m Schwimmen, 20 km Radstrecke, 5 km Laufen. Traditionsveranstaltung der Universitaetsstadt Magdeburg mit langjaehrigem Vereinscharakter. Ergaenzt durch Teamtriathlon-Event im September (Sep 13) fuer Staffeln.",

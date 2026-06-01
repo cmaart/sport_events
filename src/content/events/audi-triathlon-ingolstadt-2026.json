@@ -16,7 +16,8 @@
   "location": {
     "name": "Ingolstadt",
     "lat": 48.7665,
-    "lng": 11.4258
+    "lng": 11.4258,
+    "region": "Bayern"
   },
   "websiteUrl": "https://triathlon-ingolstadt.de",
   "description": "Grosses Triathlonfest in Ingolstadt an der Donau mit drei Distanzen: Mitteldistanz (1,9 km / 81,2 km / 20,5 km), Olympische Distanz (1,5 km / 42,6 km / 10,5 km) und Sprint (750 m / 19 km / 5 km). Typischerweise schnell ausgebucht; die Olympische Distanz ist oft als erstes vergriffen. Praesentiert von Audi, Schwimmen im Baggersee.",

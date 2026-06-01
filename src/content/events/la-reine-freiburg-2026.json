@@ -13,7 +13,8 @@
   "location": {
     "name": "Freiburg im Breisgau",
     "lat": 47.999,
-    "lng": 7.8421
+    "lng": 7.8421,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.lareine.cc/",
   "description": "La Reine – Strictly Female Cycling Festival an der Badischen Weinstraße (Schwarzwald): Ausschließlich für Frauen, Strecken 135 km oder 89 km durch Weinberge und Vorberge des Schwarzwalds. Ziel und Finisher-Party auf dem Freiburger Schlossberg. Weltgrößtes reines Frauen-Straßenradrennen.",

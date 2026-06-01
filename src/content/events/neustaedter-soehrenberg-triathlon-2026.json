@@ -14,7 +14,8 @@
   "location": {
     "name": "Waiblingen",
     "lat": 48.8321,
-    "lng": 9.3164
+    "lng": 9.3164,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.triathlon-neustadt.de",
   "description": "Neustädter Söhrenberg-Triathlon in Waiblingen-Neustadt bei Stuttgart, ausgetragen als Abschlussveranstaltung des Triathlon-RegioCup Stuttgart. Jedermann-Triathlon sowie Jugendwettbewerbe und Senioren/Masters-Liga. Siegerehrungen des RegioCup 2026 finden im Rahmen dieses Events statt.",

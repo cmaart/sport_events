@@ -14,7 +14,8 @@
   "location": {
     "name": "Kitzingen",
     "lat": 49.744,
-    "lng": 10.191
+    "lng": 10.191,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.mainfrankentriathlon.de/",
   "description": "eology Mainfrankentriathlon Kitzingen am Main (Bayern): Olympische Distanz 1.670 m Freiwasserschwimmen im Main / 40 km Rad / 10 km Lauf sowie Sprint 600 m / 20 km / 5 km. Austragungsort der Landesliga Nord Bayern und Deutschen Bürgermeistermeisterschaft im Triathlon.",

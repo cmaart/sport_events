@@ -14,7 +14,8 @@
   "location": {
     "name": "Greifenstein-Nenderoth",
     "lat": 50.6519,
-    "lng": 8.3122
+    "lng": 8.3122,
+    "region": "Hessen"
   },
   "websiteUrl": "https://www.skiclub-nizza.de/triathlon/triathlon.php5",
   "description": "Jedermann-Cross-Triathlon des Ski-Clubs Nizza im hessischen Westerwald. 400 m Schwimmen im Waldsee bei Probbach, 17,5 km Rad und 3,5 km Lauf rund um Nenderoth mit Ziel am Feuerwehrhaus. Bodenständige Vereinsveranstaltung nach den Wettkampfregeln der DTU.",

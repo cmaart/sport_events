@@ -14,7 +14,8 @@
   "location": {
     "name": "Schleswig",
     "lat": 54.5144,
-    "lng": 9.5703
+    "lng": 9.5703,
+    "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://rv-schleswig.de",
   "description": "Radmarathon rund um die Schlei, dem einzigen Fjord Deutschlands, und den Wittensee in Schleswig-Holstein. 205 km NordCup-Veranstaltung durch das flache Schleswiger Land mit typischer Norddeutscher Marsch- und Geestlandschaft. Traditionsveranstaltung des Radvereins Schleswig mit Wikinger-Flair.",

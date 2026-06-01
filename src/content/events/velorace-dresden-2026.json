@@ -13,7 +13,8 @@
   "location": {
     "name": "Dresden",
     "lat": 51.0504,
-    "lng": 13.7373
+    "lng": 13.7373,
+    "region": "Sachsen"
   },
   "websiteUrl": "https://www.velorace-dresden.de/",
   "description": "SKODA Velorace Dresden – 13. Ausgabe des Jedermann-Radrennens in Deutschlands barocker Prachtstädte: Vier Streckenoptionen 103 km, 62 km, 42 km und 21 km auf gesperrten Straßen mit Rundkurs durch die Dresdner Innenstadt und das Umland. Zuvor Kids-Velorace und Inklusions-Sonderstart am 8. August.",

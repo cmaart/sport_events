@@ -14,7 +14,8 @@
   "location": {
     "name": "Rosenheim",
     "lat": 47.8574,
-    "lng": 12.1266
+    "lng": 12.1266,
+    "region": "Bayern"
   },
   "websiteUrl": "https://rosenheimer-radmarathon.de",
   "description": "Radmarathon in Suedostbayern rund um Rosenheim am Alpenrand mit fuenf Streckenvarianten von 67 bis 231 km. Touren fuehren durch Chiemgau, Inn- und Salzachtal sowie Inntal mit landschaftlich reizvoller Route im Voralpenland. Familienfreundliche Kurzstrecken bis hin zur Langdistanz fuer erfahrene Radmarathonistes.",

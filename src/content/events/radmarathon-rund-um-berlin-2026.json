@@ -2,7 +2,9 @@
   "id": "radmarathon-rund-um-berlin-2026",
   "name": "BRV-Radmarathon Rund um Berlin",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-09-13",
@@ -11,7 +13,8 @@
   "location": {
     "name": "Berlin",
     "lat": 52.515,
-    "lng": 13.240
+    "lng": 13.24,
+    "region": "Berlin"
   },
   "websiteUrl": "https://www.brv-breitensport.de/termine/rund-um-berlin/",
   "description": "Der BRV-Radmarathon Rund um Berlin ist das traditionelle Saisonfinale des BDR-Radmarathon-Cups und startet am Berliner Olympiastadion. Die einzige Streckenvariante umfasst 228 Kilometer mit rund 700 Höhenmetern auf überwiegend flachem Terrain rund um die Bundeshauptstadt. Die Teilnehmerzahl ist auf 400 Startende begrenzt; Voranmeldung bis 31. August 2026 erforderlich.",

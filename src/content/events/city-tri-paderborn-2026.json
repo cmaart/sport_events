@@ -14,7 +14,8 @@
   "location": {
     "name": "Paderborn",
     "lat": 51.7189,
-    "lng": 8.7575
+    "lng": 8.7575,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "http://www.city-tri.de/",
   "description": "Stadttriathlon im Herzen Paderborns, Schwimmen in der 50-m-Halle der Schwimmoper am Maspernplatz, Rad- und Laufkurs auf gesperrten Strecken durch die Innenstadt Ostwestfalens. Organisiert von TRICITY 2001 e.V. mit Sprint- und Volksdistanz.",

@@ -15,7 +15,8 @@
   "location": {
     "name": "Weiden in der Oberpfalz",
     "lat": 49.6771,
-    "lng": 12.1627
+    "lng": 12.1627,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.ausdauerakademie.de/events/triathlon-weiden",
   "description": "Klassiker in der Oberpfalz am Schätzlerbad Weiden, der die Ligasaison des Bayerischen Triathlon-Verbandes eröffnet. Drei Kategorien: Supersprint (200 m / 9 km / 2,3 km), Sprint (500 m / 18 km / 4,5 km) und Olympische Distanz (1,5 km / 36 km / 9 km). Start um ca. 12:00 Uhr.",

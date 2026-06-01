@@ -16,7 +16,8 @@
   "location": {
     "name": "Berlin",
     "lat": 52.52,
-    "lng": 13.405
+    "lng": 13.405,
+    "region": "Berlin"
   },
   "websiteUrl": "https://berlin-triathlon.de",
   "description": "Grosstadttriathlon in Berlin mit mehreren Distanzen an zwei Tagen: Sprint und Fitness am Samstag, Olympische Distanz und Mitteldistanz (1,9 km Schwimmen / 88 km Rad / 19 km Laufen) am Sonntag. Urbanste Triathlonstrecke Deutschlands mit Schwimmen im Berliner Gewaesser, Rad- und Laufkurs durch die Hauptstadt.",

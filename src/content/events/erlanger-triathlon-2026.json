@@ -15,7 +15,8 @@
   "location": {
     "name": "Erlangen",
     "lat": 49.5964,
-    "lng": 11.0039
+    "lng": 11.0039,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.tv48-erlangen.de/triathlon",
   "description": "Einer der traditionsreichsten Triathlons in Nordbayern in Erlangen bei Nuernberg, 35. Ausgabe 2026. Kurzdistanz (olympisch) und Mitteldistanz mit Schwimmen im Baggersee, Radstrecke durch das Erlanger Umland und Laufkurs. Groesstes Triathlon-Event Mittelfrankens mit starker Vereinsveranstaltung vom TV 48 Erlangen.",

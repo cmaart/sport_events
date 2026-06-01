@@ -14,7 +14,8 @@
   "location": {
     "name": "Tegernsee",
     "lat": 47.71,
-    "lng": 11.755
+    "lng": 11.755,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.giro-bavarese.de",
   "description": "Granfondo auf historischen Rennrädern rund um den Tegernsee im bayerischen Voralpenland. Drei Strecken über 45 km, 65 km und 100 km führen durch die Alpenkulisse zwischen Tegernsee, Schliersee und Leitzachtal. Dresscode: Vintage-Rennrad und klassische Radkleidung. Zweitägige Veranstaltung mit Zeitfahren am Samstag und Granfondo am Sonntag.",

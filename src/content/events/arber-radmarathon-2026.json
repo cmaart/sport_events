@@ -14,7 +14,8 @@
   "location": {
     "name": "Regensburg",
     "lat": 49.0134,
-    "lng": 12.1016
+    "lng": 12.1016,
+    "region": "Bayern"
   },
   "websiteUrl": "https://www.arberradmarathon.de",
   "description": "42. Ausgabe des Arber Radmarathons durch den vorderen Bayerischen Wald mit dem Arbergebiet als Kulisse. Acht Streckenvarianten von 45 bis 250 km, alle vom Dultplatz Regensburg startend. Nachmeldungen bis 22.07. möglich. Organisiert vom Veloclub Ratisbona.",

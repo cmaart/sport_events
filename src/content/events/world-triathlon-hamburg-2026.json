@@ -15,7 +15,8 @@
   "location": {
     "name": "Hamburg",
     "lat": 53.5511,
-    "lng": 9.9937
+    "lng": 9.9937,
+    "region": "Hamburg"
   },
   "websiteUrl": "https://hamburg.triathlon.org",
   "description": "World Triathlon Championship Series Rennen in Hamburg mit Elite-Rennen und Open Races für Breitensportler. Sprint (0,5 km/20 km/5 km) und Olympische Distanz (1,5 km/40 km/10 km). Schwimmen in Binnen- und Außenalster, Rad und Lauf durch Hamburgs Innenstadt, Zieleinlauf am Rathausmarkt.",

@@ -16,7 +16,8 @@
   "location": {
     "name": "Köln",
     "lat": 50.9333,
-    "lng": 6.95
+    "lng": 6.95,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://koeln-triathlon.com",
   "description": "Stadtrand-Triathlon in Koeln mit drei Distanzen am Rhoenufer: Mitteldistanz (~3,8 km / ~130 km / ~21 km), Olympische Distanz (~2,2 km / ~45 km / ~10 km) und Sprint (~1,5 km / ~25 km / ~6 km) sowie Staffeloptionen. Rheinmetropolen-Triathlon mit Schwimmen in der Rheinaue, Radkurs durch das Koelner Umland.",

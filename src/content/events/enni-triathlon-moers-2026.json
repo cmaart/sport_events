@@ -15,7 +15,8 @@
   "location": {
     "name": "Moers",
     "lat": 51.45,
-    "lng": 6.62
+    "lng": 6.62,
+    "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.enni-triathlon.de/",
   "description": "Triathlon am Bettenkamper See im Freizeitpark Moers mit Schwimmen im idyllischen See, Radstrecke durch die Rhein-Niederrhein-Landschaft und Lauf durch den Schlosspark Moers. Fuer 2026 mit 600 Startern bereits ausverkauft. Einzel und Staffel in drei Distanzkategorien.",

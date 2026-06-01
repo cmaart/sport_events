@@ -16,7 +16,8 @@
   "location": {
     "name": "Heilbronn",
     "lat": 49.1427,
-    "lng": 9.2109
+    "lng": 9.2109,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.triathlon-heilbronn.de/",
   "description": "Grosstadttriathlon in Heilbronn am Neckar (fruehers Challenge Heilbronn) mit Sprint-, Kurz- und Mitteldistanz. Praesentiert von VR Bank, Schwimmen im Neckarsee oder Heilbronner Badesee, Radstrecke durch die Weinberge des Unterlands und Laufkurs entlang des Neckars. Attraktiver Weinregion-Triathlon in Nordbaden.",

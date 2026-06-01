@@ -13,7 +13,8 @@
   "location": {
     "name": "Hamburg",
     "lat": 53.5511,
-    "lng": 9.9937
+    "lng": 9.9937,
+    "region": "Hamburg"
   },
   "websiteUrl": "https://www.cyclassics-hamburg.de",
   "description": "Norddeutschlands größtes Jedermann-Radrennen (2026 unter neuem Hauptsponsor ADAC). Zwei Jedermann-Distanzen: „The Challenge\" (110 km, Start HafenCity, zweimal über die Köhlbrandbrücke, durchs Alte Land) und „The Experience\" (60 km, Start Alsterglacis, durch den Westen Hamburgs und den Kreis Pinneberg). Zieleinlauf für alle auf der Mönckebergstraße.",

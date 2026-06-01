@@ -13,7 +13,8 @@
   "location": {
     "name": "Kurort Hartha (Tharandt)",
     "lat": 50.98,
-    "lng": 13.54
+    "lng": 13.54,
+    "region": "Sachsen"
   },
   "websiteUrl": "https://www.radteam-tharandterwald.de/veranstaltungen/erztaler/",
   "description": "Der Erztaler Marathon startet in Kurort Hartha im Tharandter Wald und führt durch die hügelige Landschaft des östlichen Erzgebirges. Die längste Strecke umfasst 230 Kilometer mit rund 3.300 Höhenmetern und gilt als eine der anspruchsvollsten Radmarathon-Strecken Sachsens. Sieben Streckenvarianten zwischen 40 und 230 Kilometern stehen zur Auswahl; zudem gibt es Offroad-Varianten von 20 bis 120 km.",

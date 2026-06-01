@@ -14,7 +14,8 @@
   "location": {
     "name": "Gersheim",
     "lat": 49.105,
-    "lng": 7.16
+    "lng": 7.16,
+    "region": "Saarland"
   },
   "websiteUrl": "https://www.biosphaeren-triathlon.de/",
   "description": "Naturnaher Triathlon in der UNESCO-Biosphaere Bliesgau im Saarland nahe der franzoesischen Grenze. Teil der Saarlaendischen Landesmeisterschaft 2026 im neuen Cup-Format. Start ab 07:00 Uhr, Sprintdistanz durch die huegeliges Bliesstal.",

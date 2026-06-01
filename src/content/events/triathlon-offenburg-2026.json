@@ -15,7 +15,8 @@
   "location": {
     "name": "Offenburg",
     "lat": 48.4735,
-    "lng": 7.9402
+    "lng": 7.9402,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://triathlon-offenburg.de",
   "imageUrl": "https://triathlon-offenburg.de/wp-content/uploads/2025/07/to2026-17052026.png",

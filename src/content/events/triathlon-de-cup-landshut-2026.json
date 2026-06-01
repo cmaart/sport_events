@@ -16,7 +16,8 @@
   "location": {
     "name": "Landshut",
     "lat": 48.5378,
-    "lng": 12.1518
+    "lng": 12.1518,
+    "region": "Bayern"
   },
   "websiteUrl": "https://triathlon.de/pages/triathlon-de-cup-landshut",
   "registrationUrl": "https://triathlon.de/collections/anmeldung-triathlon-de-cup-landshut",

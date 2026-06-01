@@ -14,7 +14,8 @@
   "location": {
     "name": "Stuttgart",
     "lat": 48.7767,
-    "lng": 9.2411
+    "lng": 9.2411,
+    "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.wuerttemberg-koenig.de",
   "description": "Bergzeitfahren für Jedermann am Württemberg in Stuttgart-Untertürkheim, benannt nach dem Württemberg mit der historischen Grabkapelle. Start am Württembergstraße 197, Ziel am Freizeitgelände Egelseer Heide auf ca. 7 km Bergstrecke. Klassen für Amateure, Jedermann und Klappradfahrer, Start ab 9:30 Uhr.",

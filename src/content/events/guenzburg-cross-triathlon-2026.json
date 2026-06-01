@@ -14,7 +14,8 @@
   "location": {
     "name": "Günzburg",
     "lat": 48.4518,
-    "lng": 10.2805
+    "lng": 10.2805,
+    "region": "Bayern"
   },
   "websiteUrl": "https://tri-gz.de",
   "description": "Cross-Triathlon in Guentzburg an der Donau in Suedwestbayern nahe Ulm. Off-Road-Variante mit Schwimmen, Mountainbike-Etappe und Gelaendelauf. Praesentiert von Alkoholfrei-Sponsor, Start um 12 Uhr mittags. Familiaere Vereinsveranstaltung des Triathlon Guentzburg e.V. im Fruehjahr.",

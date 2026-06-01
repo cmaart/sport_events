@@ -13,7 +13,8 @@
   "location": {
     "name": "Eschborn",
     "lat": 50.1428,
-    "lng": 8.5713
+    "lng": 8.5713,
+    "region": "Hessen"
   },
   "websiteUrl": "https://www.eschborn-frankfurt.de",
   "description": "Traditioneller 1. Mai im Rhein-Main-Gebiet: Jedermannrennen im Rahmen des UCI WorldTour-Klassikers Eschborn–Frankfurt. Distanzen von 30 bis 103 km mit dem berüchtigten Mammolshainer Stich. Zieleinlauf an der Alten Oper.",

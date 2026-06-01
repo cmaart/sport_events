@@ -14,7 +14,8 @@
   "location": {
     "name": "Gelnhausen",
     "lat": 50.2,
-    "lng": 9.19
+    "lng": 9.19,
+    "region": "Hessen"
   },
   "websiteUrl": "https://kinzigtal-triathlon.de/",
   "description": "23. Kinzigtal-Triathlon im Barbarossa-Freibad Gelnhausen am Fuss der Stauferburg. Jedermann-Sprintdistanz (0,5/18/5 km) fuer alle Altersklassen, Swim & Run 4 Kids als Nachwuchsformat. Veranstalter SV Gelnhausen im Main-Kinzig-Kreis.",

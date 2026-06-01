@@ -14,7 +14,8 @@
   "location": {
     "name": "Rostock",
     "lat": 54.1087,
-    "lng": 12.2044
+    "lng": 12.2044,
+    "region": "Mecklenburg-Vorpommern"
   },
   "websiteUrl": "https://www.jedermann-radrennen.de/rostock",
   "description": "Jedermann-Radrennen am Ostseepark Lambrechtshagen bei Rostock auf geschuetzten Regionalstrassen durch das mecklenburgische Flachland. Bis zu 500 Teilnehmer auf 45 und 70 km, Streckenabsicherung durch Feuerwehr und Polizei. Fruehjahrssaisonstart im April.",

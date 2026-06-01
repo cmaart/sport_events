@@ -14,7 +14,8 @@
   "location": {
     "name": "Schleiz",
     "lat": 50.5757,
-    "lng": 11.8162
+    "lng": 11.8162,
+    "region": "Thüringen"
   },
   "websiteUrl": "https://radsport-events.de",
   "description": "Jedermann-Rennradveranstaltung auf dem historischen Schleizer Dreieck, einer der aeltesten Motorradrennstrecken Deutschlands in Thueringen. Streckenvarianten von 35 km, 70 km und 112 km auf dem traditionellen Dreieck-Kurs. Einzigartiger Motorsport-Geschichte-Hintergrund kombiniert mit modernem Radsport.",

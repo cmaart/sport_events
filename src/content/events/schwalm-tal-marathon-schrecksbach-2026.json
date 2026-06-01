@@ -14,7 +14,8 @@
   "location": {
     "name": "Schrecksbach",
     "lat": 50.833,
-    "lng": 9.283
+    "lng": 9.283,
+    "region": "Hessen"
   },
   "websiteUrl": "https://vfbschrecksbach.de/radsport/",
   "description": "Radmarathon durch die Mittelgebirgslandschaft zwischen Schwalm und Vogelsberg im nordhessischen Schwalm-Eder-Kreis, organisiert vom VfB Schrecksbach. Teil des Hessen-Cups mit vier Streckenlaengen von 43 bis 204 km. Die langen Strecken fuehren auf die Hoehenlagen des Vogelsbergs.",
