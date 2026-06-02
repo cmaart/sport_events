@@ -1,0 +1,24 @@
+{
+  "id": "3rides-gravel-ostbelgien-2026",
+  "name": "3RIDES Gravel Ostbelgien",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-09-04",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eupen",
+    "lat": 50.6308,
+    "lng": 6.0219,
+    "region": "Liège"
+  },
+  "websiteUrl": "https://ostbelgien.3rides.de/",
+  "description": "Das 3RIDES Gravel Ostbelgien in der deutschsprachigen Gemeinschaft Belgiens nahe Eupen ist ein dreitägiges Gravelfestival mit Stage Race und Rides. Zeitfahren am Freitag, zwei Etappen bis 141 km und 2.250 Hm am Wochenende. Nahezu 100% off-road durch die Ardennen-Hochfläche.",
+  "distanceKm": 141,
+  "elevationGainM": 2250
+}
