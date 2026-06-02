@@ -19,5 +19,6 @@
   "websiteUrl": "https://ostbelgien.3rides.de/",
   "description": "Das 3RIDES Gravel Ostbelgien in der deutschsprachigen Gemeinschaft Belgiens nahe Eupen ist ein dreitägiges Gravelfestival mit Stage Race und Rides. Zeitfahren am Freitag, zwei Etappen bis 141 km und 2.250 Hm am Wochenende. Nahezu 100% off-road durch die Ardennen-Hochfläche.",
   "distanceKm": 141,
-  "elevationGainM": 2250
+  "elevationGainM": 2250,
+  "imageUrl": "https://ostbelgien.3rides.de/wp-content/uploads/sites/5/2026/03/3rides-gravel-ostbelgien-announcement.jpg"
 }
