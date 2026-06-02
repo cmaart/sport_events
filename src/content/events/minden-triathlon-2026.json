@@ -1,0 +1,23 @@
+{
+  "id": "minden-triathlon-2026",
+  "name": "Tri-4-Fun Triathlon Minden",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Minden",
+    "lat": 52.2894,
+    "lng": 8.9169,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Tri-4-Fun Triathlon in Minden an der Weser ist ein familienfreundlicher Breitensporttriathlon. Sprintdistanz fuer Einsteiger und erfahrene Triathleten.",
+  "distanceKm": 25
+}

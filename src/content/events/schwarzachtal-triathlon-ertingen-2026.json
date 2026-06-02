@@ -1,6 +1,6 @@
 {
   "id": "schwarzachtal-triathlon-ertingen-2026",
-  "name": "Schwarzachtal Triathlon",
+  "name": "Schwarzachtal Triathlon Ertingen",
   "sport": "triathlon",
   "categories": [
     "Sprintdistanz"
@@ -8,16 +8,16 @@
   "country": "DE",
   "dates": {
     "start": "2026-08-29",
+    "end": "2026-08-29",
     "confirmed": true
   },
   "location": {
     "name": "Ertingen",
-    "lat": 48.0484,
-    "lng": 9.3163,
+    "lat": 48.0636,
+    "lng": 9.3178,
     "region": "Baden-Württemberg"
   },
-  "websiteUrl": "https://www.triathlon-schwarzachtal.de/",
-  "description": "Der Schwarzachtal Triathlon an den Baggerseen im Schwarzachtal bei Ertingen (Landkreis Biberach), veranstaltet vom SV Sulmetingen. Sprinttriathlon im idyllischen Schwarzachtalbiotop zwischen Donau und Oberschwaben.",
-  "distanceKm": 26,
-  "imageUrl": "https://images.squarespace-cdn.com/content/v1/65ca914728ecdf517daaf5f6/1707776316270-XZ1BTP28COCM065F2AST/image-asset.jpeg?format=2500w"
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Schwarzachtal Triathlon Ertingen im oberschwaebischen Ertingen an der Schwarzach bietet Schwimmen im Badesee, Radfahren durch das huegelige Schwarzachtal und Laufen durch malerische Doerfer.",
+  "distanceKm": 25
 }

@@ -1,0 +1,23 @@
+{
+  "id": "goch-triathlon-2026",
+  "name": "gochNESSTriathlon Goch",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Goch",
+    "lat": 51.6808,
+    "lng": 6.1661,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der gochNESSTriathlon in Goch am Niederrhein bietet Schwimmen, Radfahren und Laufen in der typischen niederrheinischen Landschaft.",
+  "distanceKm": 25
+}

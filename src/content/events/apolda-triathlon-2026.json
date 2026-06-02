@@ -1,0 +1,23 @@
+{
+  "id": "apolda-triathlon-2026",
+  "name": "Apolda Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Apolda",
+    "lat": 51.0139,
+    "lng": 11.5139,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Apolda Triathlon in der thueringischen Weinbaustadt Apolda ist ein Volkstriathlon mit Schwimmen, Radfahren durch die Thueringer Weinlandschaft und Laufen.",
+  "distanceKm": 25
+}

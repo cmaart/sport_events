@@ -1,0 +1,24 @@
+{
+  "id": "horstel-triathlon-2026",
+  "name": "43. Riesenbecker-Polyvlies-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hörstel",
+    "lat": 52.3003,
+    "lng": 7.5753,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Riesenbecker-Polyvlies-Triathlon in Hoerstel ist eines der aeltesten Triathlons in Westfalen. 43. Auflage am Silbersee mit olympischer Distanz und Sprint.",
+  "distanceKm": 51
+}

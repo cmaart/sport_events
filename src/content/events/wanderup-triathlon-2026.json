@@ -8,15 +8,16 @@
   "country": "DE",
   "dates": {
     "start": "2026-08-23",
+    "end": "2026-08-23",
     "confirmed": true
   },
   "location": {
     "name": "Wanderup",
-    "lat": 54.7485,
-    "lng": 9.4782,
+    "lat": 54.7753,
+    "lng": 9.5094,
     "region": "Schleswig-Holstein"
   },
-  "websiteUrl": "https://www.wanderup-triathlon.de/",
-  "description": "Der Wanderup Triathlon am Badesee Wanderup im Kreis Schleswig-Flensburg bietet Sprint (500 m/20 km/5 km), Jedermann-, Staffel- und Aquabike-Kategorien sowie einen Kinder- und Jugendtriathlon. Naturnahes Event im ländlichen Angeln zwischen Flensburg und Schleswig.",
-  "imageUrl": "https://www.wanderup-triathlon.de/wp-content/uploads/2025/04/Wanderup-Triathlon-2020-022.jpg"
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Wanderup Triathlon in der Gemeinde Wanderup im Kreis Schleswig-Flensburg ist ein kleines Volksbreitensportevent nahe der daenischen Grenze.",
+  "distanceKm": 25
 }

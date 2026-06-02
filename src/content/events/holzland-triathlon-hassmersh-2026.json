@@ -1,0 +1,24 @@
+{
+  "id": "holzland-triathlon-hassmersh-2026",
+  "name": "Holzland Triathlon Haßmersheim",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Haßmersheim",
+    "lat": 49.3086,
+    "lng": 9.0756,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Holzland Triathlon Hassmersheim am Neckar bietet Sport inmitten malerischer Weinberge. Schwimmen im Neckar, Radfahren durch das Hassmersheimer Holzland, Laufen entlang des Flusses.",
+  "distanceKm": 51
+}

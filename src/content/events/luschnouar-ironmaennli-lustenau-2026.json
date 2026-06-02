@@ -1,0 +1,23 @@
+{
+  "id": "luschnouar-ironmaennli-lustenau-2026",
+  "name": "35. Skinfit Luschnouar Ironmännli",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lustenau",
+    "lat": 47.4267,
+    "lng": 9.7294,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.triteam.at/",
+  "description": "Der Skinfit Luschnouar Ironmaennli im Sportpark Lustenau ist eines der traditionsreichsten Triathlons Vorarlbergs. 500 m Schwimmen (Hallenbad), 17,5 km Rad und 4,8 km Laufen. Auch als Team-Staffel und Beginner-Format verfuegbar. 35. Auflage.",
+  "distanceKm": 23
+}

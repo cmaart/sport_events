@@ -1,0 +1,23 @@
+{
+  "id": "ingelheim-triathlon-2026",
+  "name": "Ingelheimer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ingelheim am Rhein",
+    "lat": 49.9747,
+    "lng": 8.0546,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Ingelheimer Triathlon am Rhein als Der kleine Karl ist ein neues Event 2026 in der Weinstadt Ingelheim. Schwimmen im Rhein, Radfahren durch die Rheinhessischen Weinberge und Laufen.",
+  "distanceKm": 25
+}

@@ -1,22 +1,24 @@
 {
   "id": "meerenergie-triathlon-bokeloh-2026",
-  "name": "Meerenergie Triathlon Bokeloh",
+  "name": "24. Meerenergie Triathlon Bokeloh",
   "sport": "triathlon",
   "categories": [
+    "Sprintdistanz",
     "Sprintdistanz"
   ],
   "country": "DE",
   "dates": {
     "start": "2026-06-07",
+    "end": "2026-06-07",
     "confirmed": true
   },
   "location": {
-    "name": "Bokeloh / Wunstorf",
-    "lat": 52.4251,
-    "lng": 9.4394,
+    "name": "Wunstorf-Bokeloh",
+    "lat": 52.4224,
+    "lng": 9.3738,
     "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.svbutteramt.de/",
-  "description": "Der 24. Meerenergie Triathlon am Freibad Bokeloh bei Wunstorf, veranstaltet vom SV Butteramt e.V. Volksdistanz (ohne Lizenz) und Sprintdistanz für lizenzierte Athleten sowie Staffelwettbewerb. Schwimmen im Freibad Bokeloh nahe dem Steinhuder Meer.",
-  "distanceKm": 26
+  "description": "Der Meerenergie Triathlon Bokeloh in der Naehe des Steinhuder Meers ist Saisonopener und Austragungsort der Triathlon Oberliga Niedersachsen. Sprint- und Volksdistanz im Freibad Bokeloh, mit Startlimitierung. 24. Auflage des Traditionsrennens.",
+  "distanceKm": 25
 }

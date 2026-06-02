@@ -1,0 +1,24 @@
+{
+  "id": "saerbeck-triathlon-2026",
+  "name": "Saerbecker Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saerbeck",
+    "lat": 52.0667,
+    "lng": 7.5333,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Saerbecker Triathlon im westfaelischen Saerbeck bietet Sprint- und Olympische Distanz fuer Sportler aller Levels. Schwimmen im See, Radstrecke durch das Muensterland.",
+  "distanceKm": 51
+}

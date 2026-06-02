@@ -1,23 +1,24 @@
 {
   "id": "risstal-triathlon-laupheim-2026",
-  "name": "Risstal Triathlon",
+  "name": "Rißtal Triathlon Laupheim",
   "sport": "triathlon",
   "categories": [
-    "Sprintdistanz"
+    "Sprintdistanz",
+    "Olympische Distanz"
   ],
   "country": "DE",
   "dates": {
     "start": "2026-08-23",
+    "end": "2026-08-23",
     "confirmed": true
   },
   "location": {
     "name": "Laupheim",
-    "lat": 48.2298,
-    "lng": 9.8854,
+    "lat": 48.2294,
+    "lng": 9.88,
     "region": "Baden-Württemberg"
   },
-  "websiteUrl": "https://risstaltriathlon.de/",
-  "description": "Der Risstal Triathlon im Mobi Park Laupheim am Sulmetinger Baggersee, veranstaltet von tri-events-bw. Sprinttriathlon auf vollgesperrtem Radkurs und Laufstrecke entlang des Sees, offen für Einsteiger und erfahrene Triathleten sowie Staffeln. Anmeldeschluss 15. August.",
-  "distanceKm": 26,
-  "imageUrl": "https://risstaltriathlon.de/media/pages/home/855cd6de7e-1741710351/hero-home-1024x.jpg"
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Risstal Triathlon Laupheim am Oberlauf der Riss bietet Schwimmen im Stausee, Radfahren durch das Risstal und Laufen durch die Laupheimer Innenstadt in Oberschwaben.",
+  "distanceKm": 51
 }

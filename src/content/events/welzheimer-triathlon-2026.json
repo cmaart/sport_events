@@ -1,0 +1,24 @@
+{
+  "id": "welzheimer-triathlon-2026",
+  "name": "41. Welzheimer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Welzheim",
+    "lat": 48.8769,
+    "lng": 9.6339,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Welzheimer Triathlon im Schwaebischen Wald ist eine der aeltesten Triathlonveranstaltungen in Baden-Wuerttemberg. 41. Auflage mit olympischer Distanz und Sprint am malerischen Welzheimer See.",
+  "distanceKm": 51
+}

@@ -1,0 +1,24 @@
+{
+  "id": "otterndorf-triathlon-2026",
+  "name": "38. Volksbank-Triathlon Otterndorf",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Otterndorf",
+    "lat": 53.8139,
+    "lng": 8.8956,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Volksbank-Triathlon Otterndorf an der Elbemuendung bietet Schwimmen im Meerwasserfreibad, Radfahren durch das norddeutsche Flachland und Laufen durch die historische Deichstadt. 38. Auflage.",
+  "distanceKm": 51
+}

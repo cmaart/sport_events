@@ -1,0 +1,24 @@
+{
+  "id": "berlinman-triathlon-2026",
+  "name": "BerlinMan BerlinWoMan Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Berlin-Wannsee",
+    "lat": 52.4332,
+    "lng": 13.1769,
+    "region": "Berlin"
+  },
+  "websiteUrl": "https://www.berlin-wo-man.de/",
+  "description": "Der BerlinMan am Strandbad Wannsee findet alle zwei Jahre statt. Mitteldistanz (2,2 km/90 km/20 km) und Sprint (700 m/24 km/5 km). Schwimmen im Wannsee, Rad auf der Havelchaussee, Laufen im Grunewald. Einzigartiges Berliner Triathlon-Erlebnis im Grunewald.",
+  "distanceKm": 112
+}

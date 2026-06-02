@@ -1,22 +1,24 @@
 {
   "id": "emsland-triathlon-meppen-2026",
-  "name": "Emsland Triathlon",
+  "name": "Emsland Triathlon Meppen",
   "sport": "triathlon",
   "categories": [
+    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
   "dates": {
     "start": "2026-08-22",
+    "end": "2026-08-22",
     "confirmed": true
   },
   "location": {
     "name": "Meppen",
-    "lat": 52.6926,
-    "lng": 7.2912,
+    "lat": 52.6925,
+    "lng": 7.2931,
     "region": "Niedersachsen"
   },
-  "websiteUrl": "https://www.susdarme-triathlon.de/emsland-triathlon",
-  "description": "Der Emsland Triathlon am Möllersee in Meppen, veranstaltet vom SuS Darme. Start um 14:00 Uhr (Einlass ab 12:00), Sprintdistanz für alle Leistungsklassen. Schwimmen im Möllersee im niedersächsischen Emsland zwischen Münster und Groningen.",
-  "distanceKm": 26
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Emsland Triathlon Meppen findet an der Ems statt und bietet Sprint- und Olympische Distanz. Schwimmen in der Ems, Radfahren durch das flache Emsland, Laufen entlang des Flussufers.",
+  "distanceKm": 51
 }
