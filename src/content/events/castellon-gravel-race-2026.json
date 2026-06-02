@@ -18,5 +18,6 @@
   "websiteUrl": "https://castellongravelrace.com/",
   "description": "Castellón Gravel Race in Llucena (l'Alcalatén, Valencia): 97 km / 2.500 Hm oder 85 km / 2.100 Hm mit 72 % Schotterpassagen in der bergigen Hinterland-Provinz Castellón. UCI Gravel World Series-Qualifikation; 2. Auflage (Premiere 2025 mit Alejandro Valverde als Sieger).",
   "distanceKm": 97,
-  "elevationGainM": 2500
+  "elevationGainM": 2500,
+  "imageUrl": "https://castellongravelrace.com/wp-content/uploads/2026/02/DSC_4658.jpg"
 }
