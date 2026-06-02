@@ -19,5 +19,6 @@
   },
   "websiteUrl": "https://www.triyverdon.ch/en/home",
   "description": "Der 14. Triathlon d'Yverdon-les-Bains am Neuenburgersee im Kanton Waadt. Olympische Distanz und Kurzdistanz mit Schwimmen im Lac de Neuchâtel, Radkurs durch die Waadtländer Ebene und Lauf am Seeufer. Gastgeber der Schweizer Elite- und Jugendmeisterschaften Triathlon 2026.",
-  "distanceKm": 52
+  "distanceKm": 52,
+  "imageUrl": "https://www.triyverdon.ch/fileadmin/user_upload/home01.jpg"
 }

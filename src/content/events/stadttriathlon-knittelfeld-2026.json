@@ -1,0 +1,21 @@
+{
+  "id": "stadttriathlon-knittelfeld-2026",
+  "name": "Stadttriathlon Knittelfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Knittelfeld",
+    "lat": 47.2167,
+    "lng": 14.8319,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.tri-team-murtal.at/",
+  "description": "Der Stadttriathlon Knittelfeld in der steirischen Murtal-Stadt, veranstaltet vom Tri Team Murtal. Olympische Distanz (1,5 km/40 km/10 km) mit Staffelwertung in der Industriestadt der Steiermark, umgeben von Wald und Bergpanorama des steirischen Mittellandes."
+}

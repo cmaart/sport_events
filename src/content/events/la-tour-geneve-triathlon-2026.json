@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://www.genevetriathlon.ch/en",
   "description": "La Tour Genève Triathlon am Genfersee: Mitteldistanz (1,9 km/90 km/21,1 km), Olympische Distanz (1,5 km/40 km/10 km), Kurzdistanz (500 m/20 km/5 km) und Discovery für Einsteiger. Zweitagesformat im Herzen Genfs mit Schwimmen im Lac Léman vor der Kulisse des Jet d'Eau.",
-  "distanceKm": 113
+  "distanceKm": 113,
+  "imageUrl": "https://static.wixstatic.com/media/eee0dc_7aca0aed6b364e1e80660720e1f65d9bf000.jpg/v1/fill/w_1920,h_1080,al_c,q_85,enc_auto/eee0dc_7aca0aed6b364e1e80660720e1f65d9bf000.jpg"
 }
