@@ -18,5 +18,6 @@
   "websiteUrl": "http://www.cdrbiketeam.it/g-f-colli-del-chianti/",
   "description": "Die Gran Fondo Colli del Chianti führt durch die sanften Hügel des Chianti-Weinlandes rund um Florenz in der Toskana. Drei Streckenoptionen: 128 km, 90 km und 48 km durch Weinberge, mittelalterliche Dörfer und panoramische Aussichten auf die toskanische Landschaft zwischen Florenz und Siena.",
   "distanceKm": 128,
-  "elevationGainM": 2370
+  "elevationGainM": 2370,
+  "imageUrl": "https://www.cdrbiketeam.it/wp-content/uploads/2025/01/images_granfondo-1.jpeg"
 }
