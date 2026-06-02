@@ -1,5 +1,54 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-02 (Session 9)
+
+## Current state (after Session 9 – IN PROGRESS):
+- **Total events: 836** (769 from Session 8 + 67 new this session)
+- Events with imageUrl: **741** (88.5%)
+- Build: ~870 pages
+
+## Changes made this session (Session 9):
+
+### New events added (67 total):
+**German triathlon (13 new):**
+- Batch 1 (9): emsland-meppen, gochnessTriathlon-goch, kallinchen-zossen, risstal-laupheim, schwarzachtal-ertingen, triathlon-hildesheim, velburger-kirchweihtriathlon, hofheimer-triathlon, tri-4-fun-minden
+- Batch 2 (4): salzlandsparkassen-hecklingen, schlosstriathlon-kossenblatt, iron-power-bauer-wittstock, poehler-triathlon
+- Batch 8 (10): rheinstetten, malteser-heitersheim, nagler-see-nagel, stadtwerke-borken, licher-triathlon, moersbach-man, altwarmbuchener-hannover, bornsdorf, edermuender, ilmenauer-teamtriathlon
+- Batch 9 (3): vredener-sparkassen-triathlon, wuppertaler-sparkassen-crosstriathlon, stadttriathlon-knittelfeld (AT)
+
+**Swiss triathlon (12 new):**
+- spiezathlon, zytturm-triathlon-zug, xterra-switzerland-la-brevine, la-tour-geneve-triathlon, sempachersee-triathlon-nottwil, triathlon-nyon, taegi-tri-wettingen, uster-triathlon, triathlon-basel, triathlon-lausanne, triathlon-locarno-3locarno, triathlon-yverdon-les-bains
+
+### imageUrl additions this session:
+**Committed (4 events):**
+- `guestrow-triathlon` → eurawasser-trinale-guestrow.jpg (finishers.com)
+- `schwarzachtal-triathlon-ertingen` → squarespace photo
+- `saerbecker-triathlon` → saerb image
+- `risstal-triathlon-laupheim` → risstal image
+
+**In commit 288b638 (5 Swiss + 1 XTERRA fix):**
+- `zytturm-triathlon-zug` → facebook og:image
+- `la-tour-geneve-triathlon` → 1920×1080 race photo
+- `sempachersee-triathlon-nottwil` → sempacherseetri.ch photo
+- `triathlon-locarno-3locarno` → squarespace CDN photo
+- `triathlon-yverdon-les-bains` → triyverdon.ch hero
+- XTERRA Switzerland websiteUrl fixed (domain hijacked)
+
+**Just applied (3 events, pending commit):**
+- `kindelsberg-triathlon-hilchenbach` → hdsports.org 2560×1152
+- `stadtwerke-halle-triathlon` → hdsports.org 1201×800 webp
+- `elm-lappwald-triathlon-helmstedt` → hdsports.org 1200×800
+
+### Updates to existing events:
+- 277 German events: bulk-added missing region fields (Python script)
+- `guestrow-triathlon`: name → "EURAWASSER Trinale Güstrow", websiteUrl updated
+- `paradiestriathlon-jena`: websiteUrl fixed to paradiestriathlon.de
+- `xterra-switzerland`: websiteUrl fixed (domain hijacked → xterra-europe.com)
+- Stadttriathlon Knittelfeld added (AT, Steiermark, May 1, Olympic)
+
+### Events still without imageUrl (~95):
+Mainly: small German triathlon clubs, cycling events with WAF protection, Swiss triathlon events (websites recently rebuilt or no og:image), certain AT events.
+
 ## Session date: 2026-05-31 (Session 8)
 
 ## Current state (after Session 8 – FINAL):
