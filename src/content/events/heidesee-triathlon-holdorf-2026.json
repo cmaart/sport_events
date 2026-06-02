@@ -1,0 +1,23 @@
+{
+  "id": "heidesee-triathlon-holdorf-2026",
+  "name": "14. Triathlon Heidesee",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Holdorf",
+    "lat": 52.5903,
+    "lng": 8.1303,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "description": "Der Triathlon Heidesee in Holdorf (Landkreis Osnabrueck) bietet Schwimmen im Heidesee, Radfahren durch die oldenburger Muensterlaendische Tiefsandebene und Laufen rund ums Gelaende. 14. Auflage.",
+  "distanceKm": 25
+}
