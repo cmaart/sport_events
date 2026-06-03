@@ -16,5 +16,6 @@
   "websiteUrl": "https://3peakscyclocross.org.uk/",
   "description": "3 Peaks Cyclo-Cross – Britischer Kultklassiker in den Yorkshire Dales (62. Auflage): 38 Meilen (ca. 61 km) und 1.524 m Höhenunterschied über drei Gipfel – Pen-y-ghent, Whernside und Ingleborough – auf rauem Gelände mit Bike-Carrying-Passagen. Gilt als härtestes Cyclocross-Rennen der Welt; Anmeldung ab Juni.",
   "distanceKm": 61,
-  "elevationGainM": 1524
+  "elevationGainM": 1524,
+  "imageUrl": "https://live.staticflickr.com/65535/54818712100_53fecc7152_b.jpg"
 }

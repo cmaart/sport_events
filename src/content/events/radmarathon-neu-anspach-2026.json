@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.rv-anspach.de/",
   "description": "24. Rad-Marathon in Neu-Anspach am Fronleichnam-Feiertag. Die 202 km lange Hauptroute führt durch den Hochtaunus mit rund 2.500 Höhenmetern – eine der anspruchsvollsten Flachlandtouren Hessens. Veranstalter: RV Vorwärts 1898 Anspach e.V. Kürzere Routen für Einsteiger (40–120 km) ebenfalls verfügbar.",
   "distanceKm": 202,
-  "elevationGainM": 2500
+  "elevationGainM": 2500,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s1508839433683668/image/if1356ca90ab698f5/version/1497695475/image.jpg"
 }
