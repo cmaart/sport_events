@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.nortorf.bike/veranstaltungen/bike-challenge/",
   "description": "Die Bike Challenge Mittelholstein startet am Marktplatz in Nortorf und führt durch den waldreichen Naturpark Aukrug sowie die Niederungen der Stör. Die längste Strecke bewältigt 205 Kilometer mit 730 Höhenmetern auf ruhigen Landstraßen in Mittelholstein. Zusätzlich zur Radmarathonstrecke werden mehrere Gravel-Varianten (50–111 km) und kürzere Familientouren angeboten.",
   "distanceKm": 205,
-  "elevationGainM": 730
+  "elevationGainM": 730,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/seed45b1c66447b21/image/i1b1754dd312a48ff/version/1763071903/image.jpg"
 }
