@@ -273,6 +273,34 @@ Applied imageUrls to 55+ events this session including:
 ## Known Cancelled / Paused Events – Do Not Re-Add:
 - **Leitha.Berg Radmarathon** (Purbach, AT) — 2025 cancelled, no 2026 edition
 - **Ost-Seen-Roller Radmarathon** (Schwerin, DE) — 2026 cancelled (insufficient registrations), confirmed official site ostseenroller.de
+- **Marmotte Granfondo Pyrénées** (Argelès-Gazost, FR) — 2026 cancelled per official site marmottegranfondopyrenees.com — REMOVED from DB in Session 10
+
+## Session 10 summary (2026-06-03):
+### New events added:
+- Flare Bicycle Festival Heidelberg (13.06.2026, DE, cycling)
+- ITH Hennesee Triathlon Meschede (27.06.2026, DE, triathlon)
+- 3RIDES Gran Fondo Aachen (01.06.2026, DE, UCI World Series cycling)
+- PUMA Herzoman Herzogenaurach (28.06.2026, DE, triathlon)
+- Kulturstadttriathlon Weimar (28.06.2026, DE, triathlon)
+- 9. Lauchringer Triathlon-Nacht (26.06.2026, DE, triathlon)
+- Wanzleber Sparkassen Triathlon (05.07.2026, DE, triathlon)
+- 9. Super-Cross-Sprint Triathlon Merzig (07.06.2026, DE, triathlon/cross)
+
+### imageUrl additions (Session 10, ~15 events):
+- mendener-cross-triathlon, rund-um-den-harz-greene, josef-oster-radmarathon-eifel, taegi-tri-wettingen,
+  viernheimer-triathlon, ingelheimer-triathlon-der-kleine-karl, thueringen-erfahren-ultracycling,
+  ring-of-beara-cycle, emsland-triathlon-meppen (+ websiteUrl fix), flare-bicycle-festival-heidelberg,
+  ith-hennesee-triathlon-meschede
+
+### Sources used this session:
+- DTU Veranstaltungskalender (9 pages) — for German triathlon coverage
+- UCI Gran Fondo World Series calendar — for cycling coverage
+- GranFondoGuide, Sportive.com — for cycling image URLs
+- Official event websites — primary source for verification
+
+### DB totals after Session 10:
+- Total events: ~850 (after adds and removes)
+- Events with imageUrl: ~840+
 
 ## Source reliability reminder:
 - DO NOT use prommer.net

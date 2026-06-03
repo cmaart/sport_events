@@ -1,0 +1,24 @@
+{
+  "id": "raiffeisentriathlon-hamm-sieg-2026",
+  "name": "Raiffeisentriathlon Hamm (Sieg)",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamm (Sieg)",
+    "lat": 50.703,
+    "lng": 7.678,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.tri-club-hamm.de/",
+  "description": "Raiffeisentriathlon Hamm (Sieg) im Westerwald, Rheinland-Pfalz. Schwimmen in der Sieg, Radkurs durch das hügelige Siegerland und Westerwald, Lauf entlang des Flussufers. Traditionsreicher Triathlon an der Sieg zwischen Siegen und dem Rhein.",
+  "distanceKm": 51
+}
