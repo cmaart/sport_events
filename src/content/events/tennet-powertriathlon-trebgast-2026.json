@@ -1,0 +1,24 @@
+{
+  "id": "tennet-powertriathlon-trebgast-2026",
+  "name": "TenneT POWERTRIATHLON Trebgast",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trebgast – Trebgaster Badesee",
+    "lat": 50.1261,
+    "lng": 11.5597,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon-trebgast.de/",
+  "description": "43. TenneT POWERTRIATHLON Trebgast am Trebgaster Badesee – der familiäre Triathlon im Herzen Frankens mit 40 Jahren Tradition. Drei Distanzen: Supersprintdistanz (0,2/10/1,8 km), Sprintdistanz (0,5/20/4,5 km) und Olympische Distanz (1,5/40/10 km) auf vollgesperrter Radstrecke. Veranstaltung für Jedermann und Altersklassen.",
+  "distanceKm": 51
+}

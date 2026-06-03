@@ -1,0 +1,23 @@
+{
+  "id": "triahatz-finsterwalde-2026",
+  "name": "TriaHatz in der Sängerstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Finsterwalde – Schwimmstadion",
+    "lat": 51.6323,
+    "lng": 13.7092,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.neptun08-finsterwalde.de/",
+  "description": "TriaHatz in der Sängerstadt Finsterwalde – Volkstriathlon des SV Neptun 08 im Schwimmstadion der Lausitzer Sängerstadt. Sprintdistanz mit Schwimmen, Radkurs und Lauf für Jugend- und Altersklassen sowie Offene Klasse. Tradition des Niederlausitzer Triathlon-Sports.",
+  "distanceKm": 25
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hallig-dreeathlon-langenhorn-2026",
+  "name": "Hallig-Dreeathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-21",
+    "end": "2026-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Langenhorn",
+    "lat": 54.7353,
+    "lng": 8.9261,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "http://www.hallig-dreeathlon.de/",
+  "description": "Hallig-Dreeathlon in Langenhorn an der Nordsee – einzigartiges Multi-Sport-Format im Format Bike-Run-Swim-Run-Bike (9 km Rad / 4,3 km Lauf / 400 m Schwimmen / 4,3 km Lauf / 9 km Rad). Veranstalter SV Enge-Sande. Naturerlebnis in der schleswig-holsteinischen Marschenlandschaft nahe der Halligen."
+}

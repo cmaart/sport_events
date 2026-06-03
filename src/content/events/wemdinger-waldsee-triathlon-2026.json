@@ -1,0 +1,23 @@
+{
+  "id": "wemdinger-waldsee-triathlon-2026",
+  "name": "Wemdinger Waldsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wemding – Waldsee",
+    "lat": 48.8733,
+    "lng": 10.7197,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://lg-maerchenwald.de/triathlon",
+  "description": "5. Waldsee Triathlon Wemding des TSV Wemding/LG Märchenwald am malerischen Waldsee im Nördlinger Ries. Sprintdistanz: 450 m Schwimmen, 15 km Rad, 5 km Laufen. Familienfreundlicher Volkstriathlon für Einzelstarter und Staffeln.",
+  "distanceKm": 20
+}

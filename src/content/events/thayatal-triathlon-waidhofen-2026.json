@@ -1,0 +1,23 @@
+{
+  "id": "thayatal-triathlon-waidhofen-2026",
+  "name": "5. Waidhofner Thayatal-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waidhofen an der Thaya – Freibad",
+    "lat": 48.8140,
+    "lng": 15.2839,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://mpfeif14.lima-city.de/LTU_Waidhofen/",
+  "description": "5. Waidhofner Thayatal-Triathlon des LTU Waidhofen an der Thaya am Fronleichnamstag im Freibad Waidhofen. Sprintdistanz: 225 m Schwimmen im Freibad, 20 km Radkurs rund um Waidhofen, 5 km Waldlauf. Bewerb für Einzel- und Staffelteams in der waldreichen Thayatal-Region.",
+  "distanceKm": 25
+}
