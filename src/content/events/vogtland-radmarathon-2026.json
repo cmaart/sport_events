@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.cycloworld.cc/gran-fondo/germany/vogtland-radmarathon",
   "description": "Radmarathon im Vogtland rund um Plauen in Sachsen mit 201 km Laenge und rund 3.300 m Hoehengewinn. Anspruchsvolle Strecke durch das mitteldeutsche Mittelgebirge des Vogtlands mit typischen Talsperren und Waldlandschaften. Traditionsveranstaltung im suedlichsten Zipfel Sachsens nahe der tschechischen Grenze.",
   "distanceKm": 201,
-  "elevationGainM": 3300
+  "elevationGainM": 3300,
+  "imageUrl": "https://www.vrt-plauen.de/wp-content/gallery/25-vogtlandradmarathon/20240728_080058.jpg"
 }

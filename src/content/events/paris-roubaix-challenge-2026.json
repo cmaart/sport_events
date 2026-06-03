@@ -16,5 +16,6 @@
   "websiteUrl": "https://www.parisroubaixchallenge.com/en",
   "description": "Paris-Roubaix Challenge – Das berühmte Amateur-Pendant zum Klassiker der Klassiker: Drei Streckenvarianten (70/145/170 km) mit 8 bis 30 Kopfsteinpflaster-Sektoren inklusive der legendären Trouée d'Arenberg. Rund 6.500 Freizeitfahrer erleben das Pflaster der Hölle einen Tag vor dem Profi-Rennen und finishen im ikonischen Velodroms von Roubaix.",
   "distanceKm": 170,
-  "elevationGainM": 1000
+  "elevationGainM": 1000,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/hauts-de-france/nord/paris-roubaix-challenge/ueomzzkvgqlh23nw2wvt"
 }

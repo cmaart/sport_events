@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://www.triathlondeutschland.de/",
   "description": "Der Riesenbecker-Polyvlies-Triathlon in Hoerstel ist eines der aeltesten Triathlons in Westfalen. 43. Auflage am Silbersee mit olympischer Distanz und Sprint.",
-  "distanceKm": 51
+  "distanceKm": 51,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/riesenbecker-triathlon/yyql2rlipvcxp2u5hxke"
 }

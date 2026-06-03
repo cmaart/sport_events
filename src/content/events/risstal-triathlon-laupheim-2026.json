@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://www.triathlondeutschland.de/",
   "description": "Der Risstal Triathlon Laupheim am Oberlauf der Riss bietet Schwimmen im Stausee, Radfahren durch das Risstal und Laufen durch die Laupheimer Innenstadt in Oberschwaben.",
-  "distanceKm": 51
+  "distanceKm": 51,
+  "imageUrl": "https://risstaltriathlon.de/media/pages/home/855cd6de7e-1741710351/hero-home-1024x.jpg"
 }

@@ -19,5 +19,6 @@
   },
   "websiteUrl": "https://kinzigman.wordpress.com/",
   "description": "Kinzigman-Triathlon am Strandbad Kinzigsee in Langenselbold im Main-Kinzig-Kreis. Sprintdistanz mit 500 m Schwimmen im Kinzigsee, 20 km Radstrecke nach Gründau und zurück sowie 5 km Lauf rund um den Freizeitpark. Veranstalter ist der ADAC Triathlonclub Main-Kinzig.",
-  "distanceKm": 26
+  "distanceKm": 26,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hesse/district-de-darmstadt/kinzigman/zwheq72qsie3fdc58hcl"
 }
