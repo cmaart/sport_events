@@ -13,14 +13,14 @@
     "confirmed": true
   },
   "location": {
-    "name": "Bad Kleinkirchheim",
+    "name": "Bad Kleinkirchheim – Nockalmstraße",
     "lat": 46.8147,
     "lng": 13.7975,
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.kaernten-radmarathon.at",
-  "description": "Traditionsreicher Radmarathon durch den Biosphärenpark Nockberge: 106 km, 2.140 Höhenmeter zwischen Bergen und Seen. Wertungszeiten nur auf drei ausgewählten Bergpassagen – ideal für Genuss- und Bergfahrer:innen gleichermaßen.",
+  "description": "14. Auflage des ARBÖ Kärnten Radmarathons rund um Bad Kleinkirchheim in den Nockbergen. Strecke A (106 km / 2.150 Hm) führt über die spektakuläre Nockalmstraße durch den Biosphärenpark Nockberge mit zwei Bergwertungen über 2.000 m Seehöhe. Strecke B (65 km / 946 Hm) umrundet den Millstätter See. Startlimit: 700 Teilnehmer.",
   "distanceKm": 106,
-  "elevationGainM": 2140,
+  "elevationGainM": 2150,
   "imageUrl": "https://www.austria-top-tour.at/_uploads/_fotos/705_674058.jpg"
 }
