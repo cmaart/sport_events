@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.rund-um-den-solling.de/",
   "description": "Benefiz-Radtour des Lions Club Holzminden durch den waldreichen Solling und das Weserbergland zugunsten der DKMS Knochenmarkspenderdatei. Strecken 30/60/120 km sowie E-Bike-Variante 50 km. Saisonsabschluss-Event in Suedniedersachsen ohne Wettkampfcharakter.",
   "distanceKm": 120,
-  "elevationGainM": 1200
+  "elevationGainM": 1200,
+  "imageUrl": "https://www.rund-um-den-solling.de/wp-content/uploads/2016/09/IMG_4901.jpg"
 }
