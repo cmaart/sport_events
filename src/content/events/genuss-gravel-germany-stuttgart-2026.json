@@ -20,5 +20,6 @@
   "websiteUrl": "https://radsport-events.de",
   "description": "Kulinarisch-sportliches Gravel-Event rund um Stuttgart mit 83 km Streckenlänge und 800 m Hoehengewinn. Kombiniert Schotterpassagen durch die schwabischen Weinberge und Schönbuch-Waelder mit Gastronomie-Stopps. Entspanntes Gravelformat ohne Zeitlimit mit Schwerpunkt auf Genuss und Gemeinschaft.",
   "distanceKm": 83,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://www.radelthon.info/images/eventbilder_04eae54f36a4555d7aeaad23345e7e58.jpg"
 }
