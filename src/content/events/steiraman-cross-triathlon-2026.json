@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.steiraman.at",
   "description": "Extrem-Triathlon auf alpinem Terrain im steirischen Murtal: 1 km Schwimmen, 38 km Rad mit 1.200 Hm, 12,9 km Trailrun mit 1.100 Hm (Classic) oder 10,9 km / 670 Hm (Speed). Nur 175 Startplätze – frühe Anmeldung empfohlen.",
   "distanceKm": 52,
-  "elevationGainM": 2300
+  "elevationGainM": 2300,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7bbb0daf11e3716a/image/i380c177fe84efae9/version/1540625836/image.jpg"
 }
