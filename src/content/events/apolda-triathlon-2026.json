@@ -19,5 +19,6 @@
   },
   "websiteUrl": "https://www.triathlondeutschland.de/",
   "description": "Der Apolda Triathlon in der thueringischen Weinbaustadt Apolda ist ein Volkstriathlon mit Schwimmen, Radfahren durch die Thueringer Weinlandschaft und Laufen.",
-  "distanceKm": 25
+  "distanceKm": 25,
+  "imageUrl": "https://www.ac-apolda.de/wp-content/uploads/2024/09/Schwimmen_Lisa-scaled.jpeg"
 }
