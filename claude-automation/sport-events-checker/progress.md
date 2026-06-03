@@ -299,8 +299,15 @@ Applied imageUrls to 55+ events this session including:
 - Official event websites — primary source for verification
 
 ### DB totals after Session 10:
-- Total events: ~850 (after adds and removes)
-- Events with imageUrl: ~840+
+- Total events: 851 (after adds and removes)
+- Events with imageUrl: 833 (97%)
+- Upcoming events without imageUrl: 15 (all small local DE events with inaccessible websites)
+
+### Events still missing imageUrl (upcoming):
+Super-Cross-Sprint Merzig, Niedensteiner Volkstriathlon, Löwensteiner Bergen, Lauchringer Triathlon-Nacht,
+Kulturstadttriathlon Weimar, Wanzleber Triathlon, Cross Triathlon Karlstadt, Raiffeisentriathlon Hamm,
+Schlaubetal Triathlon Müllrose, 3RIDES Winterberg, Malteser Triathlon Heitersheim,
+Triathlon Niederbayern, Desafío Castilla y León, Fünf-Seen-Rundfahrt Dießen, Sugar Gravel Stuttgart
 
 ## Source reliability reminder:
 - DO NOT use prommer.net
