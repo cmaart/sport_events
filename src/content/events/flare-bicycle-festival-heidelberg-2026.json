@@ -1,0 +1,26 @@
+{
+  "id": "flare-bicycle-festival-heidelberg-2026",
+  "name": "Flare Bicycle Festival Heidelberg",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heidelberg",
+    "lat": 49.3988,
+    "lng": 8.6724,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://flare.bike/",
+  "description": "Das Flare Bicycle Festival in Heidelberg bietet vier Routen durch den Odenwald – zwei auf Gravelbike und zwei für Rennrad. Start und Ziel am Flare Klubhaus in Heidelberg. Inklusive GPS-Track, Verpflegungsstationen, Finisher-Bag, Pre-Ride-Coffee und After-Ride-Snack. Ein modernes Cycling-Event für Rennrad- und Gravelfahrer im Herzen des Odenwälder Hügellandes.",
+  "distanceKm": 140,
+  "elevationGainM": 1800,
+  "imageUrl": "https://flare.bike/cdn/shop/files/2025_Flare_Bicycle_Festival-264.jpg"
+}

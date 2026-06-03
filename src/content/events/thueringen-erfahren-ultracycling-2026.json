@@ -20,5 +20,6 @@
   "websiteUrl": "https://radsport-events.de",
   "description": "Ultra-Radmarathon durch ganz Thueringen in zwei Varianten: 300 km / 4.500 m Hoehengewinn oder 500 km / 6.500 m Hoehengewinn. Selbstgefuehrte Non-Stop-Herausforderung durch das Gruene Herz Deutschlands, den Thueringer Wald, das Thueringer Becken und die Rhoen. Bikepacking-Format ohne Wertung fuer Abenteurerfahrer.",
   "distanceKm": 500,
-  "elevationGainM": 6500
+  "elevationGainM": 6500,
+  "imageUrl": "https://bikepacking-deutschland.de/wp-content/uploads/bpdev-kt-14-2000x1200.jpg"
 }

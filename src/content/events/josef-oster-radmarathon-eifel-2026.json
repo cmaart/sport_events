@@ -20,5 +20,6 @@
   "websiteUrl": "https://radsport-events.de",
   "description": "Traditioneller Saisoneröffnungs-Radmarathon in der Vulkaneifel nahe Koblenz mit 218 km Laenge und rund 2.500 m Hoehengewinn. Benannt nach dem Gruender, fuehrt der Kurs durch die vulkanische Eifellandschaft mit typischen Krater-Maaren und Basalthuegeln. Beliebter Fruehjahrstraining-Radmarathon mit Vereinstradition.",
   "distanceKm": 218,
-  "elevationGainM": 2500
+  "elevationGainM": 2500,
+  "imageUrl": "https://vendre-son-velo.com/wp-content/uploads/2026/03/vsv-cyclo-423553-1024x538.jpg"
 }

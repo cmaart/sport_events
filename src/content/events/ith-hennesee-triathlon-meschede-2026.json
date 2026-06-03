@@ -1,0 +1,25 @@
+{
+  "id": "ith-hennesee-triathlon-meschede-2026",
+  "name": "ITH Hennesee Triathlon Meschede",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Meschede",
+    "lat": 51.3601,
+    "lng": 8.2857,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.trifunhennesee.de/ith-hennesee-triathlon/",
+  "description": "Der 17. ITH-Hennesee-Triathlon am malerischen Hennesee im Sauerland. Olympische Distanz: 1.500 m Schwimmen, 40 km Rad, 10 km Lauf. Volksdistanz: 500 m / 20 km / 5 km sowie Sprintdistanz: 200 m / 20 km / 5 km und Nachwuchsbewerbe. Idyllische Kulisse im Naturpark Arnsberger Wald mit Blick auf den Stausee.",
+  "distanceKm": 51,
+  "imageUrl": "https://dam.destination.one/3448680/929f36d360019bebdd0f1667e0797705e5ed1280985f92e30516270171ce86ef/2025_triathlon_003-jpg.jpg"
+}
