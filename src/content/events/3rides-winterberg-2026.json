@@ -17,7 +17,8 @@
     "lng": 8.524,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://3rides.de/winterberg",
-  "description": "3RIDES Winterberg – UCI Gravel World Series Event im Hochsauerland. Dreitägiges Gravel-Rennen in der Mittelgebirgslandschaft rund um Winterberg mit anspruchsvollen Schotter- und Waldwegen. UCI-lizenziertes Rennen mit Gran-Fondo-Wertung und internationalen Teilnehmern im Skigebiet des Sauerlandes.",
-  "distanceKm": 120
+  "websiteUrl": "https://winterberg.3rides.de",
+  "description": "3RIDES Gravel Winterberg – dreitägiges UCI Gravel World Series Event und offizieller European Championship Qualifier im Hochsauerland. Drei Stages (17.–19. Juli) auf Schotter- und Waldwegen rund um das Ski- und Bikegebiet Winterberg. Stage 3 (43 km / 1.000 Hm, 88 % Offroad) ist das UCI-Wertungsrennen zur Qualifikation für die Gravel-Weltmeisterschaften.",
+  "distanceKm": 43,
+  "elevationGainM": 1000
 }
