@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.brv-breitensport.de/termine/rund-um-berlin/",
   "description": "Der BRV-Radmarathon Rund um Berlin ist das traditionelle Saisonfinale des BDR-Radmarathon-Cups und startet am Berliner Olympiastadion. Die einzige Streckenvariante umfasst 228 Kilometer mit rund 700 Höhenmetern auf überwiegend flachem Terrain rund um die Bundeshauptstadt. Die Teilnehmerzahl ist auf 400 Startende begrenzt; Voranmeldung bis 31. August 2026 erforderlich.",
   "distanceKm": 228,
-  "elevationGainM": 700
+  "elevationGainM": 700,
+  "imageUrl": "https://berlincycling.com/wp-content/uploads/2025/09/RuB2025_1.jpg"
 }
