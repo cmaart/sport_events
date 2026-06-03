@@ -1,0 +1,24 @@
+{
+  "id": "wanzleber-sparkassen-triathlon-2026",
+  "name": "Wanzleber Sparkassen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wanzleben-Börde",
+    "lat": 52.0617,
+    "lng": 11.4392,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.triathlon-wanzleben.de/",
+  "description": "13. Wanzleber Sparkassen Triathlon in der Magdeburger Börde – Triathlon auf Olympischer und Sprintdistanz westlich von Magdeburg. Schwimmen, Radkurs durch das Börde-Hügelland, Lauf rund um Wanzleben. Etablierter Sparkassen-Triathlon im Flachland Sachsen-Anhalts.",
+  "distanceKm": 51
+}

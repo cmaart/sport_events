@@ -1,0 +1,23 @@
+{
+  "id": "lauchringer-triathlon-nacht-2026",
+  "name": "Lauchringer Triathlon-Nacht",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-26",
+    "end": "2026-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lauchringen",
+    "lat": 47.6397,
+    "lng": 8.3061,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.sct-lauchringen.de/",
+  "description": "9. Lauchringer Triathlon-Nacht – Abendtriathlon am Hochrhein nahe Waldshut-Tiengen. Schwimmen im Lauchringer Waldsee, Radstrecke durch die Hochrheinlandschaft, Laufkurs am Abend. Besondere Atmosphäre beim abendlichen Wettkampf an der Schweizer Grenze.",
+  "distanceKm": 25
+}

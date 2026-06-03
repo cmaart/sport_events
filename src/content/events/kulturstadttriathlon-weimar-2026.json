@@ -1,0 +1,24 @@
+{
+  "id": "kulturstadttriathlon-weimar-2026",
+  "name": "Kulturstadttriathlon Weimar",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weimar",
+    "lat": 50.9789,
+    "lng": 11.3307,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://www.kulturstadttriathlon.de/",
+  "description": "Kulturstadttriathlon Weimar – Triathlon in der Goethe- und Schillerstadt. Schwimmen im Schwanseebad, Radkurs durch die thüringische Kulturlandschaft, Lauf vorbei an historischen Bauwerken Weimars. Event auf Olympischer Distanz und Sprintdistanz in einer der bedeutendsten Kulturstädte Deutschlands.",
+  "distanceKm": 51
+}

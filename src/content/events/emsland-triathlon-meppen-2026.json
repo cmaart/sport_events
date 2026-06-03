@@ -18,7 +18,8 @@
     "lng": 7.2931,
     "region": "Niedersachsen"
   },
-  "websiteUrl": "https://www.triathlondeutschland.de/",
+  "websiteUrl": "https://www.susdarme-triathlon.de/emsland-triathlon",
   "description": "Der Emsland Triathlon Meppen findet an der Ems statt und bietet Sprint- und Olympische Distanz. Schwimmen in der Ems, Radfahren durch das flache Emsland, Laufen entlang des Flussufers.",
-  "distanceKm": 51
+  "distanceKm": 51,
+  "imageUrl": "https://static.wixstatic.com/media/11062b_a98746960726430d86a3624c75751d0ff000.jpg/v1/fill/w_1200,h_675,al_c,q_80/11062b_a98746960726430d86a3624c75751d0ff000.jpg"
 }

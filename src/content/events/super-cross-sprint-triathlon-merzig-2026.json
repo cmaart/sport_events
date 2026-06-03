@@ -1,0 +1,23 @@
+{
+  "id": "super-cross-sprint-triathlon-merzig-2026",
+  "name": "Super-Cross-Sprint Triathlon Merzig",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Merzig",
+    "lat": 49.445,
+    "lng": 6.638,
+    "region": "Saarland"
+  },
+  "websiteUrl": "https://www.tri-club-merzig.de/",
+  "description": "9. Super-Cross-Sprint Triathlon Merzig – Crossduathlon und Cross-Triathlon im Saarland an der Saar. Naturnaher Geländekurs auf Wald- und Schotterwegen in der hügeligen Saarlandschaft rund um Merzig. Sprint-Crossdistanz für Einsteiger und Erfahrene.",
+  "distanceKm": 15
+}

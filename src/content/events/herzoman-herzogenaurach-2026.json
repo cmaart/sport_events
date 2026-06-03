@@ -1,0 +1,24 @@
+{
+  "id": "herzoman-herzogenaurach-2026",
+  "name": "PUMA Herzoman Herzogenaurach",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Herzogenaurach",
+    "lat": 49.5663,
+    "lng": 10.8844,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.herzoman.de/",
+  "description": "PUMA Herzoman in der Sneaker-Stadt Herzogenaurach – Triathlon auf Olympischer Distanz und Sprintdistanz. Schwimmen im Aurachsee, Radkurs durch die fränkische Landschaft, Lauf durch die Stadt der Weltmarken PUMA und adidas. Einer der traditionsreichen Franken-Triathlons.",
+  "distanceKm": 51
+}
