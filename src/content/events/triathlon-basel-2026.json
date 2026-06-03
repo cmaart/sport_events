@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://triathlonbasel.ch/",
   "description": "Der 3. Triathlon Basel am Rheinufer in Basel. Olympische Distanz und Sprint mit Schwimmen im Rhein, Radkurs durch das Basler Umland und Lauf entlang des Rheins durch die Stadt. Dreiländer-Flair mit Blick auf Deutschland, Frankreich und die Schweiz.",
-  "distanceKm": 52
+  "distanceKm": 52,
+  "imageUrl": "https://triathlonbasel.ch/wp-content/uploads/2026/02/Triahtlon_Basel-swim-start2-abgedunkelt-scaled.png"
 }
