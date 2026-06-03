@@ -1,0 +1,21 @@
+{
+  "id": "kriterium-grafenstein-2026",
+  "name": "Kriterium Grafenstein",
+  "sport": "cycling",
+  "categories": ["Kriterium"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-04",
+    "end": "2026-06-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grafenstein – Alfa-Metall-Straße",
+    "lat": 46.6108,
+    "lng": 14.4642,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://kriterium-grafenstein-2026.jimdosite.com/",
+  "imageUrl": "https://media04.meinbezirk.at/article/2026/05/20/7/50826647_L.webp?1779271350",
+  "description": "2. Rennrad-Kriterium in Grafenstein – gleichzeitig 2. Offene Kärntner und Steirische Meisterschaft. Das Straßenrennen auf dem Rundkurs in Grafenstein (Südkärnten) startet um 12:00 Uhr und bietet Rennklassen von U11 bis Elite. Zählt zum ARBÖ Kärnten Sport Nachwuchscup Straße."
+}

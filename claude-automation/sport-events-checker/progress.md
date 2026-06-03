@@ -316,3 +316,43 @@ Triathlon Niederbayern, Desafío Castilla y León, Fünf-Seen-Rundfahrt Dießen,
 - Triathlon Austria (triathlon-austria.at) used for Austrian triathlon events
 - finishers.com / Cloudinary images: OK for imageUrl (1600×550px banner crops)
 - endurance.biz: good source for official IRONMAN press photos
+
+## Session date: 2026-06-03 (Session 11)
+
+## Current state (after Session 11):
+- **Total events: 858** (851 from Session 10 + 7 net new)
+- Events with imageUrl: **844** (98.4%)
+- Build: 893 pages
+
+## Changes made this session (Session 11):
+
+### Agent run (Session 11a):
+- Added 5 new events: TenneT POWERTRIATHLON Trebgast, Wemdinger Waldsee Triathlon, TriaHatz Finsterwalde, 5. Waidhofner Thayatal-Triathlon, Hallig-Dreeathlon Langenhorn
+- Added imageUrls for: 3RIDES Winterberg, Desafío Castilla y León, Kulturstadttriathlon Weimar, Lauchringer Triathlon-Nacht, Wanzleber Sparkassen Triathlon
+- Fixed websiteUrls: Lauchringer (→ triathlon-lauchringen.de), Malteser Heitersheim (→ maltesertriathlon.de), Raiffeisentriathlon Hamm (→ raiffeisentriathlon.de/hamm/), Merzig (→ racepedia)
+
+### Session 11 direct work:
+- Added ARBÖ Kärnten Radmarathon Bad Kleinkirchheim (07.06.2026, AT, Kärnten, verified kaernten-radmarathon.at)
+- Added Kriterium Grafenstein (04.06.2026, AT, Kärnten, verified meinbezirk.at + bikeboard.at)
+- Added imageUrls: TriaHatz Finsterwalde (fotos.verwaltungsportal.de/events Banner.webp), TenneT POWERTRIATHLON Trebgast (finishers.com Cloudinary), Wemdinger Waldsee Triathlon (finishers.com Cloudinary), Schlaubetal Triathlon Müllrose (finishers.com Cloudinary)
+
+### Events still without imageUrl (upcoming):
+Super-Cross-Sprint Merzig, Niedensteiner Volkstriathlon, Löwensteiner Bergen, Cross Triathlon Karlstadt,
+Raiffeisentriathlon Hamm (Sieg), Malteser Triathlon Heitersheim, Sparkasse Passau Triathlon Niederbayern,
+Hallig-Dreeathlon Langenhorn, Fünf-Seen-Rundfahrt Dießen, Sugar Gravel Stuttgart,
+plus 4 past events (Gran Fondo Amsterdam, Taunus-Vogelsberg, City Tri Paderborn, Waidhofner Thayatal)
+
+### Research findings (Session 11):
+- IRONMAN 70.3 European calendar: 21 events, all in DB
+- Challenge Family European calendar: all in DB
+- T100 2026: all European events in DB (Pamplona May 23, French Riviera Sep 19)
+- XTERRA European calendar: all in DB
+- UCI Gran Fondo World Series: all European events in DB
+- DTU calendar (pages 1-17): 99% coverage, only very small local events missing
+- ÖTRV calendar July-September: all in DB
+
+## Known Cancelled / Paused Events – Do Not Re-Add:
+- **Leitha.Berg Radmarathon** (Purbach, AT) — 2025 abgesagt, keine 2026-Ausgabe
+- **Ost-Seen-Roller Radmarathon** (Schwerin, DE) — 2026 cancelled
+- **Marmotte Granfondo Pyrénées** (Argelès-Gazost, FR) — 2026 cancelled
+- **IRONMAN 70.3 Maastricht-Limburg** — 2026 cancelled
