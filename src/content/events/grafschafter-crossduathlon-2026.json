@@ -1,0 +1,21 @@
+{
+  "id": "grafschafter-crossduathlon-2026",
+  "name": "18. Grafschafter Sparkassen Cross-Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-26",
+    "end": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grafschaft-Bölingen",
+    "lat": 50.5244,
+    "lng": 7.0478,
+    "region": "Rheinland-Pfalz"
+  },
+  "description": "18. Grafschafter Sparkassen Cross-Duathlon in Grafschaft-Bölingen im Ahrtal, Rheinland-Pfalz. Geländeduathlon mit Laufen, Mountainbike und Laufen auf naturnahen Offroad-Strecken. Veranstaltung des TV Bölingen, Sponsor Grafschafter Sparkasse."
+}

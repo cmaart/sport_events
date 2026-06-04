@@ -1,0 +1,23 @@
+{
+  "id": "gravel-to-hell-barsbuettel-2026",
+  "name": "Gravel to Hell",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Barsbüttel",
+    "lat": 53.5928,
+    "lng": 10.1575,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://fcstpauli-radsport.de/",
+  "description": "Gravel to Hell – 79 km Gravel-Ride des FC St. Pauli Radsport in Barsbüttel bei Hamburg. Hügeliges Profil südöstlich von Hamburg, Start an der Erich-Kästner-Schule (09:00–11:00 Uhr). Streng limitiert auf 100 Teilnehmer. GPS-Track geführte Tour unter Hamburger Radsportverband.",
+  "distanceKm": 79
+}
