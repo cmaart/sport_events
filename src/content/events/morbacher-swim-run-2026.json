@@ -1,0 +1,23 @@
+{
+  "id": "morbacher-swim-run-2026",
+  "name": "20. Morbacher Swim and Run",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Morbach",
+    "lat": 49.8125,
+    "lng": 7.1147,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "http://schwimmenlaufenmorbach.blogspot.com/",
+  "description": "20. Morbacher Swim and Run am Freibad Morbach im Hunsrück, Rheinland-Pfalz. Aquathlon-Format für alle Altersklassen: Erwachsene starten über 300 m Schwimmen und 3 km Laufen, Kinder und Jugendliche über kürzere Distanzen. Staffeln möglich. Organisiert von TV 09 Morbach e.V.",
+  "distanceKm": 3
+}

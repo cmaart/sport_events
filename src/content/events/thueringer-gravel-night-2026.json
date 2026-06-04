@@ -1,0 +1,22 @@
+{
+  "id": "thueringer-gravel-night-2026",
+  "name": "6. Thüringer Gravel Night",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-04",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eisenach",
+    "lat": 50.9741,
+    "lng": 10.3249,
+    "region": "Thüringen"
+  },
+  "description": "6. Thüringer Gravel Night – Nacht-Gravel-Abenteuer von Eisenach (Wartburgstadt) nach Altenburg (Skatstadt): ca. 255 km durch Thüringen. Start am Abend des 4. Juli 2026 (20:00 Uhr) am Marktplatz Eisenach. Nicht-kompetitives Nacht-Ride-Format für Gravel-Enthusiasten.",
+  "distanceKm": 255
+}

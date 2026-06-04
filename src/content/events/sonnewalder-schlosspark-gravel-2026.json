@@ -1,0 +1,23 @@
+{
+  "id": "sonnewalder-schlosspark-gravel-2026",
+  "name": "Sonnewalder Schlosspark-Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sonnewalde",
+    "lat": 51.5747,
+    "lng": 13.6397,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://gravel.rsv-finsterwalde.de/",
+  "description": "2. Sonnewalder Schlosspark-Gravel des RSV Finsterwalde in der Niederlausitz. Vier Distanzen (3,5 / 30 / 55 / 110 km) durch Wälder, Heidelandschaft und das historische Schlosspark-Areal Sonnewalde – Highlight: Einfahrt durch das historische Schlosstor direkt in den Schlosspark.",
+  "distanceKm": 110
+}
