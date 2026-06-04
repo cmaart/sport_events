@@ -1,0 +1,22 @@
+{
+  "id": "crossduathlon-huensborn-2026",
+  "name": "12. Hünsborn 2 be wild – Cross-Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-20",
+    "end": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wenden-Hünsborn",
+    "lat": 51.0158,
+    "lng": 7.8589,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://h2bw.de/",
+  "description": "12. Hünsborn 2 be wild – Crossduathlon-Challenge im südwestfälischen Hünsborn bei Wenden, organisiert vom RSV Osthelden. Technischer Geländekurs durch das Heestal mit Feld-, Asphalt- und Biotoppassagen. Zwei Distanzen: Jedermann und Kurzdistanz. Über 250 Starter aus ganz Deutschland, von der Jugend bis zur Elite."
+}

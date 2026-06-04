@@ -1,0 +1,22 @@
+{
+  "id": "herbsttriathlon-gimbsheim-2026",
+  "name": "Herbsttriathlon Gimbsheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-06",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gimbsheim",
+    "lat": 49.7622,
+    "lng": 8.3792,
+    "region": "Rheinland-Pfalz"
+  },
+  "description": "Herbsttriathlon Gimbsheim im rheinhessischen Gimbsheim – Sprintdistanz (500 m Schwimmen / 20 km Rad / 5 km Laufen) im Freibad Gimbsheim. Start 09:00 Uhr. Traditioneller Volkstriathlon zum Saisonabschluss in Rheinhessen.",
+  "distanceKm": 25
+}

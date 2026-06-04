@@ -1,0 +1,25 @@
+{
+  "id": "gravel-ultra-850-raca-2026",
+  "name": "Gravel Ultra 850 – Race Across Austria",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-25",
+    "end": "2026-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nickelsdorf",
+    "lat": 47.9262,
+    "lng": 17.0702,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.raceacrossaustria.com/gravelultra850",
+  "description": "Gravel Ultra 850 – Race Across Austria (RACA): 850 km selbstgestützte Gravelbike-Reise von Nickelsdorf (Burgenland, Österreichs östlichster Punkt) quer durch sechs Bundesländer bis Feldkirch (Vorarlberg). 16.000 Höhenmeter, 40 % unbefestigte Wege. Zwei Kategorien: Race (max. 88 h) und Adventure (max. 112 h). Nur 200 Startplätze pro Kategorie. Premiere der Gravel-Variante des RACA-Rennens in 2026.",
+  "distanceKm": 850,
+  "elevationGainM": 16000,
+  "imageUrl": "https://static.wixstatic.com/media/nsplsh_f75eecd0abef45b6be46bc94f98352f5~mv2.jpg"
+}

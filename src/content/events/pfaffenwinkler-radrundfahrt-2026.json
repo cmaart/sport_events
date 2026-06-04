@@ -1,0 +1,24 @@
+{
+  "id": "pfaffenwinkler-radrundfahrt-2026",
+  "name": "Pfaffenwinkler Radrundfahrt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peiting",
+    "lat": 47.7963,
+    "lng": 10.9268,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://pfaffenwinkelradrundfahrt.de/",
+  "description": "41. Pfaffenwinkler Radrundfahrt ab Peiting, organisiert vom RC 72 Peiting. Fünf Touroptionen: 160 km, 125 km, 85 km, Familientour 55 km und neu Gravel80 (80 km auf unbefestigten Feld- und Waldwegen). Start an der Dreifachturnhalle des TSV Peiting. Landschaftlich reizvolle Strecken durch das Pfaffenwinkel und die bayerischen Voralpen.",
+  "distanceKm": 160
+}

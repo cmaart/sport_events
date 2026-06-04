@@ -1,0 +1,25 @@
+{
+  "id": "gravel-ground-herten-2026",
+  "name": "Gravel Ground by Maxxis",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-11",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Herten (Zeche Ewald)",
+    "lat": 51.598,
+    "lng": 7.1334,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.radrevier.ruhr/mountainbike-gravel-und-rennrad/gravel/gravel-ground/",
+  "description": "Gravel Ground by Maxxis – dreitägiges Gravel-Festival auf der Zeche Ewald und Halde Hoheward in Herten (Ruhrgebiet). 2. Auflage nach dem erfolgreichen Debüt 2025 mit ca. 15.000 Besuchern. Renndistanz: 45 km / 750 Hm. Dazu King-of-the-Halde-Bergzeitfahren, Kids Race, Gravel-Expo, Workshops und Camping unter dem Malakow-Turm der historischen Zeche.",
+  "distanceKm": 45,
+  "elevationGainM": 750,
+  "imageUrl": "https://media.delius-klasing.de/images/dpr_auto,fl_progressive,f_auto,c_fill,g_face:auto,h_900,w_1600/q_auto:eco/tour/gravel-ground-2025-c-mathiaszyk-print-4978_6cafed01d81d57a763b1519f91accf9c/das-gravel-ground-festival-findet-vom-11-bis-13-september-2026-zum-zweiten-mal-auf-der-zeche-ewald-in-herten-statt-"
+}
