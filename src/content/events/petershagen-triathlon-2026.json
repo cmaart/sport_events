@@ -16,6 +16,8 @@
     "lng": 8.9686,
     "region": "Nordrhein-Westfalen"
   },
-  "description": "Petershagen Triathlon an der Weser in Nordrhein-Westfalen. Beliebter Volkstriathlon auf der Sprintdistanz in der Kulturlandschaft des Weserberglandes.",
-  "imageUrl": "https://tus-wasserstrasse.de/wp-content/uploads/2018/03/Triathlon-header-neu.jpg"
+  "websiteUrl": "https://tus-wasserstrasse.de/",
+  "description": "40. Volks- und Staffeltriathlon des TuS Wasserstraße an der Weser: 550 m Schwimmen im Freibad Uchte, 22,5 km Rad, 5,75 km Laufen. Start um 14:00 Uhr, Ziel am Sportplatz Wasserstraße in Petershagen. Kleines familiäres Event mit max. 150 Startern im Weserbergland.",
+  "imageUrl": "https://tus-wasserstrasse.de/wp-content/uploads/2018/03/Triathlon-header-neu.jpg",
+  "distanceKm": 29
 }
