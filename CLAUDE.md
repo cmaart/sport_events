@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Static site listing amateur cycling races and triathlons in Austria for the 2026 season, deployed to GitHub Pages at `https://cmaart.github.io/sport_events/`. UI is German with strings externalized; site is client-rendered interactive (filter + Leaflet map) on top of a fully prerendered Astro build.
+Static site listing amateur cycling races and triathlons for the 2026 season (AT, DE, EU), deployed at `https://events.endure-cycling.com/` via GitHub Pages with custom domain. UI is German with strings externalized; site is client-rendered interactive (filter + Leaflet map) on top of a fully prerendered Astro build.
 
 ## Common Commands
 
