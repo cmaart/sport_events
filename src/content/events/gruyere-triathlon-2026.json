@@ -1,0 +1,24 @@
+{
+  "id": "gruyere-triathlon-2026",
+  "name": "Gruyère Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gumefens",
+    "lat": 46.6781,
+    "lng": 7.0757
+  },
+  "websiteUrl": "https://gruyere-triathlon.wixsite.com/home",
+  "description": "6. Gruyère Triathlon am Greyerzersee in Gumefens, Kanton Freiburg. Schwimmen im Stausee umgeben von Voralpenlandschaft, Radfahren durch das Greyerzerland, Laufen am Seeufer. Drei Kategorien: Olympische Distanz, Sprintdistanz und Populaire (Einsteigerformat). Ausverkauft mit Warteliste – beliebte Veranstaltung des Tri-Club Gruyère.",
+  "distanceKm": 51,
+  "imageUrl": "https://bo.mso-chrono.ch/userfiles/Image_courses/2024/Gruy%C3%A8re-Triathlon/Gruyere-Triathlon---Corps2.jpg"
+}

@@ -19,5 +19,6 @@
   },
   "websiteUrl": "https://tri-sport-2026.racepedia.de/",
   "description": "9. Super-Cross-Sprint Triathlon Merzig – Crossduathlon und Cross-Triathlon im Saarland an der Saar. Naturnaher Geländekurs auf Wald- und Schotterwegen in der hügeligen Saarlandschaft rund um Merzig. Sprint-Crossdistanz für Einsteiger und Erfahrene.",
-  "distanceKm": 15
+  "distanceKm": 15,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_900,g_auto,q_auto:low/events/europe/allemagne/sarre/super-cross-sprint-triathlon/x4nbfat0x7rgqsreg42r"
 }
