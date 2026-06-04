@@ -1,5 +1,56 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-04 (Session 12) – FINAL
+
+## Current state (after Session 12):
+- **Total events: 855** (858 from Session 11 - 7 duplicates + 4 new)
+- Events with imageUrl: **842** (98.5%)
+- Upcoming events without imageUrl: **10** (all blocked/no image available)
+- Build: 890 pages (4 new event pages)
+
+## Changes made this session (Session 12):
+
+### Duplicates removed (7 events):
+- `thayatal-triathlon-waidhofen-2026` (dup of waidhofner-thayatal-triathlon-2026)
+- `arbo-radmarathon-bad-kleinkirchheim-2026` (dup of kaernten-radmarathon-2026)
+- `halle-triathlon-2026` (dup of stadtwerke-halle-triathlon-2026)
+- `3rides-gravel-winterberg-2026` (dup of 3rides-winterberg-2026)
+- `berlinwoman-triathlon-2026` + `berlinman-triathlon-2026` (dups of berlin-wo-man-2026)
+- `aquarius-woman-loehne-2026` (dup of aquariusman-loehne-2026)
+
+### New events added (4):
+- `sauwaldgiro-2026` — AT, Radmarathon, 105km/1600Hm, Aug 30, St. Roman/Schärding (sauwaldgiro.at)
+- `welt-kult-tour-regensburg-2026` — DE, Radmarathon, 205km/2500Hm, Sep 13, Regensburg (biketeam-regensburg.de)
+- `gainfeldclassic-bischofshofen-2026` — AT, Berg+Zeitfahren, 3.4km/281Hm, Aug 15, Bischofshofen (radmarathon.at)
+- `poettschinger-aquathlon-2026` — AT, Aquathlon, Aug 29, Pöttsching/Burgenland (triathlon-poettsching.at)
+
+### Date fixes (from ÖTRV official calendar):
+- `triathlon-bregenz-2026`: start corrected to Jun 20 (was Jun 21), now Jun 20-21
+- `swim-run-swim-laengsee-2026`: corrected to Aug 7 (was Aug 8)
+
+### websiteUrl additions (12 events — all were missing):
+Meller Volks-Triathlon, Reiling-Triathlon Harsewinkel, SCI Triathlon Schenefeld, VR Triathlon Lauingen,
+Oste-Triathlon Bremervörde, StadtTriathlon Forchheim, Heinz Beierstorf Triathlon Stutensee,
+Hückeswagener Triathlon, Rigolator Triathlon Riegel, Sparkassen Triathlon Tag Schopfheim,
+Ratekau Triathlon (now linked to offendorf-triathlon.de), Petershagen Triathlon (tus-wasserstrasse.de)
+
+### imageUrl additions (5 events):
+- `raiffeisentriathlon-hamm-sieg-2026`: 1920×1080 from raiffeisentriathlon.de/fileadmin/
+- `malteser-triathlon-heitersheim-2026`: 1920×1282 hero from maltesertriathlon.de
+- `sauwaldgiro-2026`: race photo from sauwaldgiro.at
+- `welt-kult-tour-regensburg-2026`: header banner from biketeam-regensburg.de
+- `aquariusman-loehne-2026`: upgraded to Cloudinary imageUrl (from finishers.com)
+
+### Data improvements:
+- `kaernten-radmarathon-2026`: better location name + improved description (Strecke A/B)
+- `petershagen-triathlon-2026`: added detailed description (40th edition, TuS Wasserstraße)
+
+### Remaining events without imageUrl (upcoming):
+Sites blocking crawlers or no image found: Super-Cross-Sprint Merzig, Niedensteiner Volkstriathlon,
+Löwensteiner Bergen Radmarathon, Cross Triathlon Karlstadt, Sparkasse Passau Triathlon Niederbayern,
+GainfeldClassic Bischofshofen, Hallig-Dreeathlon, Pöttschinger Aquathlon, Fünf-Seen-Rundfahrt Dießen,
+Sugar Gravel Stuttgart
+
 ## Session date: 2026-06-02 (Session 9)
 
 ## Current state (after Session 9 – IN PROGRESS):
