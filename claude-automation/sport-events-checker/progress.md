@@ -1,5 +1,53 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-04 (Session 14)
+
+## Current state (after Session 14):
+- **Total events: 886** (877 from previous + 11 new this session)
+- Build: 918 pages
+
+## Changes made this session (Session 14):
+
+### New triathlon events added (4):
+- `guestrow-cross-duathlon-2026` — DE/MV, Duathlon+Cross-Triathlon, Oct 10, Mühl Rosin bei Güstrow
+- `lorsbacher-cross-duathlon-2026` — DE/HE, Duathlon, Nov 21, Hofheim am Taunus-Lorsbach
+- `kaiserstuhl-duathlon-2026` — DE/BW, Duathlon, Dec 13, Vogtsburg im Kaiserstuhl-Achkarren
+- `ruesselcross-duathlon-2026` — DE/HE, Duathlon, Nov 14, Rüsselsheim
+- `kraichgauman-crossduathlon-2026` — DE/BW, Duathlon+Cross-Triathlon, Oct 24, Östringen
+- `esslinger-insel-swimrun-2026` — DE/BW, Aquathlon, Sep 12, Esslingen am Neckar
+- `hoelle-von-q-triathlon-2026` — DE/ST, Mitteldistanz, Aug 30, Ditfurt/Quedlinburg (2km/83km/21.1km, 1600Hm)
+- `goettinger-stadtwerke-volkstriathlon-2026` — DE/NI, Sprintdistanz, Aug 30, Göttingen
+
+### New cycling events added (3 from DE/NO):
+- `giro-stormarn-2026` — DE/SH, Radmarathon+Gran Fondo, Jun 14, Bad Oldesloe
+- `styrkeproven-trondheim-oslo-2026` — NO, Gran Fondo+Radmarathon, Jun 20, Trondheim→Oslo, 540km
+
+### New cycling events from European research (7):
+- `falling-leaves-lahti-2026` — FI, Gravel+Gran Fondo, Sep 12-13, Lahti (UCI qualifier)
+- `vatternrundan-gravel-2026` — SE, Gravel, Sep 12, Motala, 120km
+- `gran-fondo-bratislava-2026` — SK, Gran Fondo, Aug 2, Bratislava
+- `letape-slovakia-2026` — SK, Gran Fondo, Aug 23, Bratislava
+- `gravel-grit-n-grind-halmstad-2026` — SE, Gravel, Aug 15-16, Halmstad (UCI qualifier)
+- `hansens-cykelloeb-2026` — DK, Gravel, Aug 22, Jægerspris, 153km
+
+### imageUrl additions:
+- `gravel-to-hell-barsbuettel-2026`: FC St. Pauli Kaperfahrt race photo
+- `herbsttriathlon-gimbsheim-2026`: jimcdn hero photo
+- `guestrow-cross-duathlon-2026`: hdsports.org
+- `lorsbacher-cross-duathlon-2026`: hdsports.org webp
+- `kraichgauman-crossduathlon-2026`: kraichgauman.de
+- `esslinger-insel-swimrun-2026`: Wixstatic CDN
+- `hoelle-von-q-triathlon-2026`: hdsports.org
+- `goettinger-stadtwerke-volkstriathlon-2026`: triathlon-goettingen.de
+
+### Duplicates removed:
+- `berlinman-triathlon-2026` (duplicate of berlin-wo-man-2026)
+
+### Known cancelled/paused confirmed:
+- Ost-Seen-Roller Radmarathon 2026 cancelled (announced Jun 2, 2026 on ostseenroller.de)
+
+---
+
 ## Session date: 2026-06-04 (Session 12) – FINAL
 
 ## Current state (after Session 12):

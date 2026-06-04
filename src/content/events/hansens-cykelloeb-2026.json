@@ -1,0 +1,22 @@
+{
+  "id": "hansens-cykelloeb-2026",
+  "name": "Hansens Cykelløb",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DK",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jægerspris",
+    "lat": 55.8499,
+    "lng": 11.9997
+  },
+  "websiteUrl": "https://hansenscykelloeb.com/",
+  "distanceKm": 153,
+  "description": "Hansens Cykelløb in Jægerspris auf Seeland, Dänemark. 153 km Gravel-Kurs durch die Wälder und Feldwege rund um den Roskilde-Fjord. Traditionelles dänisches Radfahrevent im Gravel-Format mit malerischer Naturkulisse Nordseelandens."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "goettinger-stadtwerke-volkstriathlon-2026",
+  "name": "Göttinger Stadtwerke-Volkstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Göttingen",
+    "lat": 51.5412,
+    "lng": 9.9158,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.triathlon-goettingen.de/",
+  "imageUrl": "https://www.triathlon-goettingen.de/files/triathlon/images/Seitenbilder/20250819_Artboard_Triathlon_Homepage_Swim.jpg",
+  "description": "Göttinger Stadtwerke-Volkstriathlon am Kiessee in Göttingen. Volkstriathlon-Format mit Schwimmen, Radfahren und Laufen rund um den stadtnahen Kiessee. Organisiert vom TSC Göttingen. Beliebte Breitensportveranstaltung im Göttinger Süden."
+}

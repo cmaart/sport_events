@@ -1,0 +1,21 @@
+{
+  "id": "letape-slovakia-2026",
+  "name": "L'Etape Slovakia by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bratislava",
+    "lat": 48.1486,
+    "lng": 17.1077
+  },
+  "websiteUrl": "https://slovakia.letapebytourdefrance.com/",
+  "description": "L'Etape Slovakia by Tour de France in Bratislava. Drei Distanzen: 20 km (Family), 65 km und 117 km. Das internationale L'Etape-Format ermöglicht Amateuren, auf originalgetreuen Tour-de-France-Etappen-Erfahrungen zu fahren. Start im Herzen Bratislavas mit Ausflügen in die Kleinkarpaten."
+}
