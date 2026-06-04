@@ -1,0 +1,24 @@
+{
+  "id": "guestrow-cross-duathlon-2026",
+  "name": "34. Güstrower Cross-Duathlon Das Härteste im Norden",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon",
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-10",
+    "end": "2026-10-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mühl Rosin bei Güstrow",
+    "lat": 53.8153,
+    "lng": 12.1832,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.trifun.de/events/cross-duathlon",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/80/a9/56/fielmann-cross-duathlon-das-haerteste-im-norden-40-1676914091.jpg",
+  "description": "34. Güstrower Cross-Duathlon (Das Härteste im Norden) im Forstgelände bei Mühl Rosin nahe Güstrow, organisiert von Tri Fun Güstrow. Zwei Distanzen: Kurzdistanz (2,5 km Laufen / 14 km Radfahren / 2,5 km Laufen) und Jedermann (5 km / 27 km / 5 km). Technischer Geländekurs durch Mecklenburger Waldwege. Meldefrist: 3. Oktober 2026, Limit 100 Starter."
+}

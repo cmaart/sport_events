@@ -1,0 +1,22 @@
+{
+  "id": "kaiserstuhl-duathlon-2026",
+  "name": "Kaiserstuhl Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-12-13",
+    "end": "2026-12-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vogtsburg im Kaiserstuhl-Achkarren",
+    "lat": 48.0632,
+    "lng": 7.6418,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.mrturner61.de/",
+  "description": "Kaiserstuhl Duathlon im Weinort Achkarren am Kaiserstuhl bei Breisach. Zwei Streckenoptionen: Langdistanz (5 km Laufen / 12 km Radfahren / 8 km Laufen) und Kurzdistanz (4 km / 12 km / 5 km). Dezember-Duathlon in der Weinlandschaft zwischen Schwarzwald und Rhein. Circa 100 Teilnehmer erwartet."
+}

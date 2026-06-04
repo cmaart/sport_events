@@ -1,0 +1,23 @@
+{
+  "id": "esslinger-insel-swimrun-2026",
+  "name": "6. Esslinger Insel Swim & Run",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Esslingen am Neckar",
+    "lat": 48.7431,
+    "lng": 9.3105,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.esslinger-swim-run.de/",
+  "imageUrl": "https://static.wixstatic.com/media/8cc7be_b0c255b365ed41b3ae4959b7a19f33ad~mv2.jpg",
+  "description": "6. Esslinger Insel Swim & Run auf der Neckarinsel in Esslingen am Neckar. Swim-and-Run-Format mit Schwimmen im Neckar und Laufen entlang der historischen Altstadt. Organisiert vom Schwimmsportverein Esslingen und Nachbarschaftssporthilfe Esslingen. Attraktives Stadtambiente zwischen mittelalterlichen Türmen und Fachwerkhäusern."
+}

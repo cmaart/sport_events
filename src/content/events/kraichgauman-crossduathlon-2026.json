@@ -1,0 +1,24 @@
+{
+  "id": "kraichgauman-crossduathlon-2026",
+  "name": "Kraichgauman Crossduathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon",
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-24",
+    "end": "2026-10-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Östringen",
+    "lat": 49.2046,
+    "lng": 8.7116,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.kraichgauman.de/",
+  "imageUrl": "https://www.kraichgauman.de/wp-content/uploads/2025/11/Hintergrund_KM2025-1024x494.jpg",
+  "description": "Kraichgauman Crossduathlon des TSV Baden Östringen im Kraichgau. Kurzdistanz: 7 km Laufen / 28,5 km Radfahren / 3,5 km Laufen. Sprintdistanz: 3,5 km / 9,5 km / 3,5 km. Technischer Kurs durch den Östringer Brettwald auf Feld- und Waldwegen. Parallel: Kraichgau KidsCross für Kinder der Schulklassen A, B und C."
+}
