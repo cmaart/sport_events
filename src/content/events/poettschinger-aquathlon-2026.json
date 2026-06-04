@@ -1,0 +1,22 @@
+{
+  "id": "poettschinger-aquathlon-2026",
+  "name": "16. Pöttschinger Aquathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pöttsching",
+    "lat": 47.8467,
+    "lng": 16.5803,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.triathlon-poettsching.at/",
+  "description": "16. Pöttschinger Aquathlon im burgenländischen Pöttsching des Tri Teams Pöttsching. Fun-Bewerb (200 m Schwimmen / 3 km Laufen) und Speed-Bewerb (266 m / 4 km) sowie Nachwuchs-Aquathlon für Kinder und Jugendliche auf verschiedenen Distanzen."
+}

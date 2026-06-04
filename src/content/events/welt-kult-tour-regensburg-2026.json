@@ -1,0 +1,24 @@
+{
+  "id": "welt-kult-tour-regensburg-2026",
+  "name": "Regensburger Welt-Kult-Tour",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Regensburg",
+    "lat": 49.0134,
+    "lng": 12.1016,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.biketeam-regensburg.de/welt-kult-tour",
+  "description": "19. Regensburger Welt-Kult-Tour durch die UNESCO-Welterbestadt Regensburg, organisiert vom Biketeam Regensburg e.V. Neun wählbare Strecken von der Familienstrecke (40 km) bis zum Marathon (205 km / 2.500 Hm), teilweise mit Donaufähre bei Kloster Weltenburg. Start und Ziel in Regensburg-Burgweinting.",
+  "distanceKm": 205,
+  "elevationGainM": 2500
+}
