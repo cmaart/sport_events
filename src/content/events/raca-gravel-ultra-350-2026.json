@@ -1,0 +1,24 @@
+{
+  "id": "raca-gravel-ultra-350-2026",
+  "name": "Gravel Ultra 350 – Race Across Austria",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gerlos, Zillertal",
+    "lat": 47.2319,
+    "lng": 12.0408,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.raceacrossaustria.com/gravelultra350",
+  "imageUrl": "https://static.wixstatic.com/media/77f44e_371d69b311aa4c9fb3ececf49fe8f318~mv2.png/v1/fill/w_968,h_528,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/GRAVEL350NEU.png",
+  "description": "Gravel Ultra 350 – Race Across Austria: 350 km von Gerlos im Zillertal (Tirol) nach Feldkirch (Vorarlberg). 8.800 Höhenmeter auf 50 % Schotter, Waldwegen und Wiesenpfaden durch Tirol und Vorarlberg. Zwei Kategorien: Race (max. 35 h) und Adventure (max. 45 h). Kürzere Geschwister-Veranstaltung des Gravel Ultra 850; beide enden in Feldkirch.",
+  "distanceKm": 350,
+  "elevationGainM": 8800
+}
