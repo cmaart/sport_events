@@ -1,0 +1,26 @@
+{
+  "id": "gravendel-trail-seefeld-2026",
+  "name": "Gravendel Trail Seefeld",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-18",
+    "end": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seefeld in Tirol",
+    "lat": 47.3298,
+    "lng": 11.1842,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.gravendel-trail.de",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/6979ee50e9e88923f28d4873/ab9c58ba-de08-4836-a3ab-81f2f1017b0a/DSC08094.jpg",
+  "description": "Dreitägiges geführtes Gravel-Bikepacking-Abenteuer von Seefeld durch das Karwendelgebirge mit Hüttenübernachtungen. 170 km Gesamtstrecke mit 3.790 Höhenmetern über drei Etappen, geführt mit Übernachtung auf der Soiernhaus- und Plumsjochalm. Preis inklusive zwei Frühstücken.",
+  "distanceKm": 170,
+  "elevationGainM": 3790
+}

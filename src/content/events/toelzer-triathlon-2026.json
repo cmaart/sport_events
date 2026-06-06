@@ -1,10 +1,10 @@
 {
   "id": "toelzer-triathlon-2026",
-  "name": "Tölzer Triathlon",
+  "name": "35. Tölzer Triathlon",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
-    "Sprintdistanz"
+    "Sprintdistanz",
+    "Olympische Distanz"
   ],
   "country": "DE",
   "dates": {
@@ -12,13 +12,13 @@
     "confirmed": true
   },
   "location": {
-    "name": "Sachsenkam",
-    "lat": 47.7575,
-    "lng": 11.7106,
+    "name": "Kirchsee, Sachsenkam",
+    "lat": 47.7505,
+    "lng": 11.5723,
     "region": "Bayern"
   },
   "websiteUrl": "https://wsv-toelz.de/toelzer-triathlon/",
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/baviere/district-de-haute-baviere/tolzer-triathlon/uenstnbll0wkcyltujsl",
-  "description": "Der 35. Tölzer Triathlon startet am Kirchsee in Sachsenkam und endet im Sportstadion Bad Tölz. Olympische Distanz: 1,5 km Freiwasserschwimmen, 39,5 km Radfahren, 9,7 km Laufen; Volkstriathlon (Sprint): 0,5 km/24,9 km/5 km. Veranstaltet vom WSV Bad Tölz im bayerischen Alpenvorland, Anmeldung über Startnummerntausch ausgebucht.",
-  "distanceKm": 51
+  "description": "Traditionsreicher Triathlon am idyllischen Kirchsee bei Sachsenkam – bereits in der 35. Auflage. Gestartet wird in der Olympischen Distanz (1,5 km/40 km/10 km) und der Sprintdistanz, organisiert vom WSV Bad Tölz. Der Kirchsee liegt am Fuß der Bayerischen Voralpen und bietet ein malerisches Rennambiente.",
+  "distanceKm": 52
 }

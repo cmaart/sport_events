@@ -1,0 +1,23 @@
+{
+  "id": "rheiner-channel-triathlon-2026",
+  "name": "25. Rheiner Channel Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dortmund-Ems-Kanal, Rheine",
+    "lat": 52.2810,
+    "lng": 7.4408,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.sc-altenrheine.de/ausdauer/channel-triathlon",
+  "description": "Das 25-jährige Jubiläum des Rheiner Channel Triathlons am Dortmund-Ems-Kanal. Organisiert vom SC Altenrheine e.V. bietet die Veranstaltung mehrere Distanzen vom Schnuppertriathlon bis zur Olympischen Distanz. Gestartet wird immer am zweiten Sonntag im August.",
+  "distanceKm": 52
+}

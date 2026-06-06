@@ -1,5 +1,61 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-06 (Session 15)
+
+## Current state (after Session 15):
+- **Total events: 889** (884 from previous + merged 3 feature-branch commits + 6 new this session)
+- Events with imageUrl: **868** (~97.6%)
+- Build: 0 errors
+
+## Changes made this session (Session 15):
+
+### Merged from feature branch claude/tender-carson-GsyxF:
+- 11 new events + 1 duplicate removal (berlinman-triathlon) from Session 14
+
+### New triathlon events added (4):
+- `nordhauser-triathlon-2026` — DE/TH, Olympische+Sprint, Jun 20-21, Nordhausen
+- `moewathlon-morfelden-walldorf-2026` — DE/HE, Sprint, Jul 12, Mörfelden-Walldorf (17. ksp MöWathlon)
+- `rheiner-channel-triathlon-2026` — DE/NRW, Olympische+Sprint, Aug 9, Rheine (25. Jubiläum)
+- `sohrenberg-triathlon-waiblingen-2026` — DE/BW, Sprint, Oct 3, Waiblingen (12. Neustädter Söhrenberg)
+
+### New cycling events added (2):
+- `gravendel-trail-seefeld-2026` — AT/Tirol, Gravel+Etappenrennen, Sep 18-20, Seefeld (170km/3790Hm)
+- `gravel-n-groestl-walchsee-2026` — AT/Tirol, Gravel, Oct 8-11, Walchsee/Kaiserwinkl (540km/11000Hm)
+
+### Events updated (3 improved):
+- `koeln-triathlon-2026` — corrected name ("6. Köln Triathlon"), distanceKm (→112), description, websiteUrl
+- `powerman-wuerselen-2026` — improved description (DM-Titel), websiteUrl zu mc-eschweiler.de
+- `toelzer-triathlon-2026` — corrected coordinates (→Kirchsee), improved name, description
+
+### imageUrl additions (10 events):
+- `falling-leaves-lahti-2026`: squarespace-cdn.com race photo
+- `gran-fondo-bratislava-2026`: granfondobratislava.sk banner
+- `gravel-grit-n-grind-halmstad-2026`: gravelgritngrind.se header
+- `hansens-cykelloeb-2026`: squarespace-cdn.com route image
+- `vatternrundan-gravel-2026`: cdn.sanity.io 2048×1152
+- `styrkeproven-trondheim-oslo-2026`: styrkeproven.no race photo
+- `moewathlon-morfelden-walldorf-2026`: moewathlon.de logo
+- `sohrenberg-triathlon-waiblingen-2026`: triathlon-neustadt.de slider
+- `crossduathlon-huensborn-2026`: h2bw.de 2026 header
+- `pfaffenwinkler-radrundfahrt-2026`: pfaffenwinkelradrundfahrt.de header
+
+### Sources used:
+- DTU Veranstaltungskalender pages 1-18 (all of 2026)
+- ÖTRV Terminkalender 2026
+- Challenge Family / UCI Gran Fondo World Series (both fully covered)
+- Rumpelwege DACH Gravel Calendar 2026
+- en.triatlonnoticias.com for IRONMAN full + 70.3 Europe verification
+
+### Events still without imageUrl (21):
+Permanently blocked: aarau-triathlon, city-tri-paderborn, cross-triathlon-karlstadt, fuenf-seen-rundfahrt-diessen, 
+grafschafter-crossduathlon, gran-fondo-bratislava (added), granfondo-amsterdam (ECONNREFUSED), kaiserstuhl-duathlon, 
+letape-slovakia (503), loewensteiner-berge-radmarathon, morbacher-swim-run, niedensteiner-volkstriathlon, 
+nordhauser-triathlon (logo only), rheiner-channel-triathlon (not tried), ruesselcross-duathlon, 
+sonnewalder-schlosspark-gravel (redirect), sugar-gravel-stuttgart, taunus-vogelsberg-radmarathon, 
+thueringer-gravel-night, triathlon-niederbayern (403), vatternrundan-gravel (added)
+
+---
+
 ## Session date: 2026-06-04 (Session 14)
 
 ## Current state (after Session 14):

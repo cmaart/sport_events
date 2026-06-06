@@ -1,6 +1,6 @@
 {
   "id": "koeln-triathlon-2026",
-  "name": "Köln Triathlon",
+  "name": "6. Köln Triathlon",
   "sport": "triathlon",
   "categories": [
     "Mitteldistanz",
@@ -10,18 +10,16 @@
   "country": "DE",
   "dates": {
     "start": "2026-09-06",
-    "end": "2026-09-06",
     "confirmed": true
   },
   "location": {
-    "name": "Köln",
-    "lat": 50.9333,
-    "lng": 6.95,
+    "name": "Rhein, Köln-Innenstadt",
+    "lat": 50.9378,
+    "lng": 6.9562,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://koeln-triathlon.com",
-  "description": "Stadtrand-Triathlon in Koeln mit drei Distanzen am Rhoenufer: Mitteldistanz (~3,8 km / ~130 km / ~21 km), Olympische Distanz (~2,2 km / ~45 km / ~10 km) und Sprint (~1,5 km / ~25 km / ~6 km) sowie Staffeloptionen. Rheinmetropolen-Triathlon mit Schwimmen in der Rheinaue, Radkurs durch das Koelner Umland.",
-  "distanceKm": 155,
-  "elevationGainM": 400,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-cologne/carglass-r-koeln-triathlon/zr50yo49uew13lh6cfdl"
+  "websiteUrl": "https://www.koeln-triathlon.com/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-cologne/carglass-r-koeln-triathlon/zr50yo49uew13lh6cfdl",
+  "description": "Stadttriatlon im Herzen Kölns mit Schwimmen im Rhein, Radfahren an den Rheinufern und Laufen mit Blick auf den Kölner Dom und die Hohenzollernbrücke. Angeboten werden die Mitteldistanz (1,9/90/21 km), Olympische Distanz und Sprintdistanz sowie Staffeln. Das Startzentrum liegt im Rheinauhafen.",
+  "distanceKm": 112
 }

@@ -1,6 +1,6 @@
 {
   "id": "powerman-wuerselen-2026",
-  "name": "POWERMAN Würselen",
+  "name": "POWERMAN Würselen – Deutsche Meisterschaften Kurzdistanz",
   "sport": "triathlon",
   "categories": [
     "Duathlon"
@@ -12,12 +12,12 @@
   },
   "location": {
     "name": "Würselen",
-    "lat": 50.8237,
-    "lng": 6.1325,
+    "lat": 50.8220,
+    "lng": 6.1329,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://powerman.org/wurselen/",
-  "description": "Deutsche Kurzdistanz-Duathlon-Meisterschaft in Würselen bei Aachen, ausgetragen am Aquana Aquatic Center. Kurzdistanz: 10 km Laufen, 40 km Radfahren, 5 km Laufen; Sprintdistanz: 5/20/5 km. Erstmalige Austragung des POWERMAN-Formats in der Aachener Region als Ergänzung zum etablierten POWERMAN Alsdorf.",
-  "distanceKm": 55,
-  "imageUrl": "https://powerman.org/wp-content/uploads/2026/03/brunnee-scaled.jpg"
+  "websiteUrl": "https://mc-eschweiler.de/veranstaltungen/powerman-wuerselen/",
+  "imageUrl": "https://powerman.org/wp-content/uploads/2026/03/brunnee-scaled.jpg",
+  "description": "Deutsche Meisterschaften der Kurzdistanz beim POWERMAN Würselen, organisiert vom Marathon Club Eschweiler. Das Run-Bike-Run-Format bietet die Kurzdistanz (10 km/40 km/5 km) und die Sprintdistanz (5 km/20 km/5 km). Würselen ist Austragungsort der nationalen Titelkämpfe des Powerman Germany 2026.",
+  "distanceKm": 55
 }

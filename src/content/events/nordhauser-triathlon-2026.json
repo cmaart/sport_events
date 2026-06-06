@@ -1,0 +1,24 @@
+{
+  "id": "nordhauser-triathlon-2026",
+  "name": "Nordhäuser Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nordhausen OT Sundhausen",
+    "lat": 51.5033,
+    "lng": 10.8153,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://triathlon-nordhausen.de/",
+  "description": "Zweitägige Triathlon-Veranstaltung am Scheunenhof in Nordhausen-Sundhausen. Am Samstag findet der Firmentriathlon (400 m/10 km/2,5 km) statt, am Sonntag die Olympische Distanz (1.500 m/40 km/10 km) sowie Schüler- und Jugendbewerbe.",
+  "distanceKm": 51
+}
