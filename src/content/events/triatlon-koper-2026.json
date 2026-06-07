@@ -1,0 +1,21 @@
+{
+  "id": "triatlon-koper-2026",
+  "name": "Triatlon Koper – Slovensko Državno Prvenstvo",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Koper, Žusterna",
+    "lat": 45.5469,
+    "lng": 13.7299
+  },
+  "websiteUrl": "https://triatlonslovenije.si/",
+  "description": "Triatlon Koper an der slowenischen Adriaküste – Slowenische Staatsmeisterschaft (Državno Prvenstvo). Standard-Distanz: 1.500 m Schwimmen im Meer, 38 km Radfahren durch die Istrien-Hügel, 10 km Laufen entlang der Küste von Žusterna. Zusätzlich Sprint-Distanz und Nachwuchskategorien.",
+  "distanceKm": 50
+}

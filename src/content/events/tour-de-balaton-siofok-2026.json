@@ -1,0 +1,21 @@
+{
+  "id": "tour-de-balaton-siofok-2026",
+  "name": "Cofidis Tour de Balaton",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Siófok",
+    "lat": 46.9068,
+    "lng": 18.0474
+  },
+  "websiteUrl": "https://vuelta.hu/",
+  "description": "Cofidis Tour de Balaton – Ungarns größter Amateur-Radmarathon mit ~3.200 Teilnehmern (2026). Komplette Umrundung des Plattensees (Balaton) in vier Distanzen: XL 206 km, L 168 km, M 78 km und S 27 km plus Kinderrennen. Start und Ziel am Strand von Siófok. Offizielles Event der Veszprém-Balaton Europäischen Sportregion 2026.",
+  "distanceKm": 206
+}

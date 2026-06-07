@@ -1,0 +1,21 @@
+{
+  "id": "extrememan-nagyatad-2026",
+  "name": "eXtremeMan Nagyatád – Ungarische Langdistanz-Meisterschaft",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nagyatád",
+    "lat": 46.2298,
+    "lng": 17.3581
+  },
+  "websiteUrl": "https://www.extrememan.hu/",
+  "description": "eXtremeMan Nagyatád – Ungarische Langdistanz-Meisterschaft (3,8 km Schwimmen / 180 km Radfahren / 42,2 km Laufen). Schwimmen am Gyékényes-Kotró-Strand, Radkurs durch Südtransdanubien (Somogy-Komitat), Ziel am eXtremeMan-Platz in Nagyatád. Einer der härtesten Triathlons Ungarns.",
+  "distanceKm": 226
+}

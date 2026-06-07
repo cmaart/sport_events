@@ -1,0 +1,21 @@
+{
+  "id": "ajka-triathlon-2026",
+  "name": "Ajka Triathlon – Ungarische Meisterschaft",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ajka",
+    "lat": 47.1009,
+    "lng": 17.5649
+  },
+  "websiteUrl": "https://triatlon.hu/",
+  "description": "Ajka Triathlon – Ungarische Meisterschaft am Csónakázó-tó (Bootssee) in Ajka. Sprint-Distanz (750 m / 20 km / 5 km) als Elite-Staatsmeisterschaft sowie Amateurkategorien. Austragungsort im Bakony-Mittelgebirge zwischen Plattensee und Veszprém.",
+  "distanceKm": 26
+}
