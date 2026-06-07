@@ -1,8 +1,65 @@
 # Sport Events Checker – Session Progress
 
-## Session date: 2026-06-07 (Session 16)
+## Session date: 2026-06-07 (Session 16, continued)
 
-## Current state (after Session 16):
+## Current state (after Session 16 continuation):
+- **Total events: 933** (905 from previous + 28 new this continuation)
+- Romania (RO) added as new country (was missing from types.ts)
+- Build: 0 errors (validated via npm run check)
+- Latest push: commit d8973cd to master
+
+## Changes made this continuation:
+
+### New country added:
+- Romania (RO) — added to `src/lib/types.ts` (COUNTRIES + COUNTRY_LABELS) and `src/lib/landing.ts`
+
+### New events added (this continuation):
+
+**Romania (RO) — 4 events:**
+- `letape-romania-bucharest-2026` — RO, Gran Fondo, Aug 30, Bukarest (85km, L'Étape by TdF)
+- `transylvania-triathlon-festival-2026` — RO, Multi-Distanz, Jun 27-28, Sângeorgiu de Pădure (112km max)
+- `maratonul-vinului-urlati-2026` — RO, Gran Fondo (MTB), Apr 25, Urlați/Prahova (50km)
+- `bikeathon-tara-fagarasului-2026` — RO, Gran Fondo, Jun 6-7, Făgăraș (47km/1167Hm)
+
+**Lithuania (LT) — 4 events:**
+- `trakai-triathlon-2026` — LT, Oly+Sprint triathlon, Jun 28, Trakai (Burgensee)
+- `ukmerge-gran-fondo-2026` — LT, Gran Fondo, May 10, Ukmergė (155km)
+- `elektrenu-gran-fondo-2026` — LT, Gran Fondo, Sep 27, Elektrėnai (175km)
+- `lietuvos-gravel-cempionatas-2026` — LT, Gravel, Jun 13, Pivašiūnai (140km Lithuanian Gravel Championship)
+
+**Other new events from prior session work (carried over from Session 16 start):**
+- `duathlon-brettmuehlenteich-zschorna-2026` — DE/Sachsen, Duathlon, Sep 4, Zschorna
+- `cross-duathlon-wendelstein-2026` — DE/Bayern, Duathlon+Cross-Triathlon, Oct 10, Wendelstein
+- `wtcs-alghero-2026` — IT, Olympische Distanz, May 30, Alghero/Sardinien
+- `berner-triathlon-2026` — CH, Sprintdistanz, May 31, Münchenbuchsee
+- `gran-fondo-il-lombardia-bergamo-2026` — IT, Gran Fondo, Oct 11, Bergamo (110km/2000Hm)
+- `ba-sportive-kinlochewe-2026` — GB, Gran Fondo, Sep 5, Kinlochewe/Schottland (145km)
+- `bealach-na-ba-sportive-shieldaig-2026` — GB, Gran Fondo, May 16, Shieldaig (70km)
+- `hardman-waterville-half-triathlon-2026` — IE, Mitteldistanz, Jul 11, Waterville/Kerry (116km)
+- `hardman-killarney-full-triathlon-2026` — IE, Langdistanz, Aug 29, Killarney/Kerry (226km)
+- `dublin-city-triathlon-2026` — IE, Sprintdistanz, Aug 22, Phoenix Park Dublin (26km)
+- `hageland-classic-2026` — BE, Gran Fondo, Apr 25, Tielt-Winge (185km)
+- `triatlon-koper-2026` — SI, Olympische Distanz, May 30, Koper/Žusterna
+- `triatlon-bled-2026` — SI, Olympische Distanz, Sep 26, Bled (Europe Triathlon Junior Cup)
+- `triatlon-murska-sobota-2026` — SI, Sprintdistanz, Jun 21, Murska Sobota
+- `tour-de-balaton-siofok-2026` — HU, Radmarathon, May 30, Siófok (206km)
+- `extrememan-balatonszemes-2026` — HU, Mitteldistanz, May 31, Balatonszemes (112km)
+- `ajka-triathlon-2026` — HU, Sprintdistanz, Jun 21, Ajka (Hungarian championship)
+- `extrememan-nagyatad-2026` — HU, Langdistanz, Aug 9, Nagyatád (226km)
+- `world-triathlon-cup-tiszaujvaros-2026` — HU, Olympische Distanz, Jun 27-28, Tiszaújváros
+
+### Pending (agent running):
+- 5 missing UCI Gravel World Series events: The Gralloch (GB), Flanders Legacy Gravel (BE), Monaco Gravel Race (MC), Marly Grav Race (NL), Alentejo Gravel (PT)
+
+### Next steps:
+- Process UCI Gravel World Series agent results when done
+- Continue coverage expansion in underrepresented countries
+
+---
+
+## Session date: 2026-06-07 (Session 16, original start)
+
+## Current state (after Session 16 original):
 - **Total events: ~905** (889 + 16 new this session)
 - Events with imageUrl: improved (10 new imageUrls added to existing events)
 - Build: 0 errors (validated via npm run check)
