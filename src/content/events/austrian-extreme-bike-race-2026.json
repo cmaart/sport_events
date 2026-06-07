@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.austrianextremebikerace.at/",
   "description": "Austrian Extreme Bike Race: 2.500 km und 52.000 Höhenmeter quer durch Österreichs Bergwelt – selbstgestütztes Ultrarennen über Großglockner, Nockalmstraße, Salzkammergut und Karawanken. Start 16. August 2026 in Graz, Finish-Deadline 30. August. Rookie-Option: 800 km / 18.000 Hm. Keine Startgebühr (Tracking-/Versicherungs-Fee €100). Organisiert vom Abenteuer- und Bergsportklub Graz.",
   "distanceKm": 2500,
-  "elevationGainM": 52000
+  "elevationGainM": 52000,
+  "imageUrl": "https://bikepacking.com/wp-content/uploads/2020/10/austrian-extreme-bike-race-2000x1333.jpg"
 }
