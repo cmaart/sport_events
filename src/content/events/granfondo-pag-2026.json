@@ -1,0 +1,21 @@
+{
+  "id": "granfondo-pag-2026",
+  "name": "Granfondo Pag – Cycling on the Moon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-10-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pag",
+    "lat": 44.4393,
+    "lng": 15.0583
+  },
+  "websiteUrl": "https://www.granfondopag.com/",
+  "description": "Granfondo Pag – Cycling on the Moon: 7. Auflage des internationalen Radmarathons auf der kroatischen Insel Pag. 107 km durch die karge, mondähnliche Karstlandschaft der Insel mit Panoramablick auf die Adria. Bekannt für einzigartige Stimmung auf menschenleeren Straßen durch weißen Kalkstein – vergleichbar dem Mont Ventoux.",
+  "distanceKm": 107
+}

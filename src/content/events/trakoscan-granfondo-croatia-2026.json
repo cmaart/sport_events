@@ -1,0 +1,21 @@
+{
+  "id": "trakoscan-granfondo-croatia-2026",
+  "name": "Trakošćan Granfondo Croatia",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trakošćan",
+    "lat": 46.2533,
+    "lng": 16.1811
+  },
+  "websiteUrl": "https://trakoscangranfondo.com/",
+  "description": "Trakošćan Granfondo Croatia im Zagorje-Hügelland Nordkroatiens. 117 km um das pittoreske Schloss Trakošćan auf dem gleichnamigen Stausee. Gran-Fondo-Granfondo mit Start und Ziel am Burgfuß. Limitiert auf 400 Teilnehmer; eines der schönsten Hügellandrennen Kroatiens.",
+  "distanceKm": 117
+}
