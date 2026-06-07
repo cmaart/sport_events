@@ -1,0 +1,23 @@
+{
+  "id": "bikeathon-tara-fagarasului-2026",
+  "name": "Bikeathon Țara Făgărașului",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2026-06-06",
+    "end": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Făgăraș, Brașov",
+    "lat": 45.841,
+    "lng": 24.973
+  },
+  "websiteUrl": "https://bikeathon.ro/",
+  "description": "Bikeathon Țara Făgărașului – Charity-Radmarathon am Fuße des Fogarascher Gebirges, 13. Auflage. Strecken: 47 km / 1.167 Hm, 29 km / 593 Hm sowie Familien- und Kindergrouten. Start und Ziel in Făgăraș, Südsiebenbürgen; Erlöse gehen an lokale soziale Projekte.",
+  "distanceKm": 47,
+  "elevationGainM": 1167
+}

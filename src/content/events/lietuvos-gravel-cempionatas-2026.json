@@ -1,0 +1,21 @@
+{
+  "id": "lietuvos-gravel-cempionatas-2026",
+  "name": "Lietuvos Gravel Čempionatas",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "LT",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pivašiūnai, Alytaus raj.",
+    "lat": 54.262,
+    "lng": 24.151
+  },
+  "websiteUrl": "https://grunto.lt/",
+  "description": "Lietuvos Gravel Čempionatas – Litauische Gravel-Meisterschaft in der Dzūkija-Region (Nationalpark). Wettkampfdistanzen 50 km, 100 km und 140 km; offenes Jedermann-Format \"Grunto\" für alle. Im offiziellen Kalender des Litauischen Radsportverbandes (LDSF).",
+  "distanceKm": 140
+}

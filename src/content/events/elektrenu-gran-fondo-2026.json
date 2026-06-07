@@ -1,0 +1,21 @@
+{
+  "id": "elektrenu-gran-fondo-2026",
+  "name": "Elektrėnų Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LT",
+  "dates": {
+    "start": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Elektrėnai",
+    "lat": 54.785,
+    "lng": 24.663
+  },
+  "websiteUrl": "https://www.dviratai.lt/elektrenu-lenktynes.html",
+  "description": "Elektrėnų Gran Fondo – Herbst-Radmarathon durch die Seenlandschaft rund um Elektrėnai westlich von Vilnius. Drei Streckenvarianten: 99 km, 130 km und 175 km ausschließlich auf Asphalt. Jährliche Veranstaltung von dviratai.lt.",
+  "distanceKm": 175
+}

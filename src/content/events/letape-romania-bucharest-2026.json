@@ -1,0 +1,21 @@
+{
+  "id": "letape-romania-bucharest-2026",
+  "name": "L'Étape Romania by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bukarest",
+    "lat": 44.4268,
+    "lng": 26.1025
+  },
+  "websiteUrl": "https://romania.letapeseries.com/",
+  "description": "L'Étape Romania by Tour de France – Massenstart-Granfondo auf gesperrten Straßen mitten in Bukarest, Teil der weltweiten L'Étape-Rennserie. Drei Strecken: 85 km / 200 Hm (The Race), 42 km (The Ride) und 14 km (City Adventure). Einziges offizielles Tour-de-France-Jedermannevent in Rumänien.",
+  "distanceKm": 85
+}

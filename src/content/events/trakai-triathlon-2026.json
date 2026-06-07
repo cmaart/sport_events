@@ -1,0 +1,22 @@
+{
+  "id": "trakai-triathlon-2026",
+  "name": "InRento Trakų Triatlonas",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "LT",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trakai",
+    "lat": 54.649,
+    "lng": 24.931
+  },
+  "websiteUrl": "https://www.trakutriatlonas.lt/",
+  "description": "InRento Trakų Triatlonas – Litauens größter Triathlon am Galvė-See mit Blick auf die historische Wasserburg Trakai. Olympische Distanz (1,5 km / 40 km / 10 km), Sprint (750 m / 20 km / 5 km) und Super-Sprint. Schwimmen im glasklaren Burgensee, Radkurs durch die Seenlandschaft Aukštaitija.",
+  "distanceKm": 51
+}

@@ -1,0 +1,24 @@
+{
+  "id": "transylvania-triathlon-festival-2026",
+  "name": "Transylvania Triathlon Festival",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sângeorgiu de Pădure, Mureș",
+    "lat": 46.419,
+    "lng": 24.895
+  },
+  "websiteUrl": "https://transylvaniatriathlonfestival.ro/",
+  "description": "Transylvania Triathlon Festival am malerischen Bezid-See in der siebenbürgischen Region Mureș. Mitteldistanz (1,9 km / 90 km / 20 km), Olympische Distanz, Sprint und Super-Sprint über zwei Tage. Offiziell im Kalender der rumänischen Triathlon-Verbandes (triatlonromania.ro).",
+  "distanceKm": 112
+}

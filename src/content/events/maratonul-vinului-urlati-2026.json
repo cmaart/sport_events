@@ -1,0 +1,21 @@
+{
+  "id": "maratonul-vinului-urlati-2026",
+  "name": "Maratonul Vinului",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Urlați, Prahova",
+    "lat": 44.988,
+    "lng": 26.238
+  },
+  "websiteUrl": "https://maratonulvinului.ro/",
+  "description": "Maratonul Vinului (Weinmarathon) – MTB-Granfondo durch die Weinberge und Hügel des Prahova-Kreises nahe Urlați. Strecken: 50 km, 30 km, 18 km sowie Familien- und Kinderrouten. Traditionsveranstaltung in den rumänischen Weinanbaugebieten nördlich von Bukarest.",
+  "distanceKm": 50
+}
