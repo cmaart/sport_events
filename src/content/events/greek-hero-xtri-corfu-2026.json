@@ -1,0 +1,22 @@
+{
+  "id": "greek-hero-xtri-corfu-2026",
+  "name": "Greek Hero Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GR",
+  "dates": {
+    "start": "2026-10-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Korfu (Kerkyra)",
+    "lat": 39.6051,
+    "lng": 19.9252
+  },
+  "websiteUrl": "https://greekheroxtri.com/",
+  "description": "Greek Hero Xtreme Triathlon – XTRI World Tour auf Korfu: 4,0 km Schwimmen (Ionisches Meer, Mon-Repos-Strand) / 186 km Rad (3.750 Hm, komplette Inselumrundung inkl. Paleokastritsa) / 40 km Trailrun (1.850 Hm, Ziel Angelokastro-Burg). ~5.600 Hm gesamt. Wärmste Wassertemperatur aller XTRI-Events (~22–24°C).",
+  "distanceKm": 230,
+  "elevationGainM": 5600
+}
