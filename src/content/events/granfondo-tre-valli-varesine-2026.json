@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-tre-valli-varesine-2026",
+  "name": "Gran Fondo Tre Valli Varesine – UEC European Championship",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Varese",
+    "lat": 45.82,
+    "lng": 8.825
+  },
+  "websiteUrl": "https://trevallivaresine.info/en/gran-fondo-tre-valli-varesine-uci-world-series/",
+  "description": "Gran Fondo Tre Valli Varesine – 10. Auflage als Austragungsort der UEC Gran Fondo Europameisterschaft 2026 und UCI-World-Series-Qualifier für die WM 2027 in Frankreich. Granfondo 130 km / 1.993 Hm und Mediofondo 100 km / 1.447 Hm durch die Seenlandschaft der Tre Laghi (Lago Lugano, Maggiore, Varese). Zeitfahren 22 km am Samstag.",
+  "distanceKm": 130,
+  "elevationGainM": 1993
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gran-fondo-il-lombardia-bergamo-2026",
+  "name": "Gran Fondo Il Lombardia – Felice Gimondi Memorial",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-10-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bergamo",
+    "lat": 45.6983,
+    "lng": 9.6773
+  },
+  "websiteUrl": "https://gfilombardia.it/en/",
+  "description": "Gran Fondo Il Lombardia – Amateurrundfahrt am Wochenende des Profi-Monuments Il Lombardia. 110 km / 2.000 Hm mit neuem Start in Bergamo und Ziel in der Città Alta. Schlüsselanstiege: Valico di Valcava (17 % Max.), Miragolo San Salvatore, Passo Salmezza und Kopfsteinpflaster-Finale Boccola (12 %). Felice-Gimondi-Gedächtnisfahrt in der Bergamasker Hügellandschaft.",
+  "distanceKm": 110,
+  "elevationGainM": 2000
+}
