@@ -1,5 +1,77 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-07 (Session 19)
+
+## Current state (after Session 19):
+- **Total events: 982** (977 from previous sessions + 8 new - 3 duplicates = 982)
+- Build: 1026 pages, 0 errors
+- Latest push: commit 94c81dd to master
+
+## Changes made this session (Session 19):
+
+### New events added (8):
+- `starlim-city-triathlon-festiwels-2026` — AT/OÖ, Oly+Sprint, Jun 26-28, Wels (Europe Triathlon Cup, committed from prior session)
+- `bm-crossduathlon-deining-2026` — DE/Bayern, Cross Duathlon, Oct 3, Deining (DTU-confirmed BM)
+- `monaco-di-baviera-classic-muenchen-2026` — DE/Bayern, Radmarathon, Jun 20-27, München (1537km ultra challenge)
+- `fuemmelsee-triathlon-wolfenbuettel-2026` — DE/NI, Sprint, Jun 28, Wolfenbüttel (31st edition)
+- `geiseltal-triathlon-rossbach-2026` — DE/ST, Oly+Sprint, Jun 28, Roßbach/Hasse (TC Merseburg)
+- `kraigerseetriathlon-launsdorf-2026` — AT/Kärnten, Sprint, Aug 22, Kraigersee (10th edition)
+- `runswimrepeat-oberursel-2026` — DE/HE, Aquathlon, Aug 30, Oberursel (alternating run-swim)
+- `wedemark-spass-triathlon-2026` — DE/NI, Sprint, Jun 28, Wedemark-Mellendorf
+
+### Duplicates removed (3):
+- `moewathlon-morfelden-walldorf-2026` (kept `moewathlon-moerfelden-walldorf-2026`)
+- `nordhauser-triathlon-2026` (kept `nordhaeuser-triathlon-2026`)
+- `sohrenberg-triathlon-waiblingen-2026` (kept `neustaedter-soehrenberg-triathlon-2026`)
+
+### Data fixes:
+- `triatlon-murska-sobota-2026`: date corrected Jun 21 → Aug 9 (from official triatlonslovenije.si homepage)
+- `fuenf-seen-rundfahrt-diessen-2026`: websiteUrl updated to official organizer site (ascyclingteam.com)
+
+### imageUrl additions (2):
+- `race-across-germany-aachen-goerlitz-2026`: official website hero image
+- `triatlon-murska-sobota-2026`: 2026 event poster from triatlonslovenije.si
+
+### Events still without imageUrl (25):
+bm-crossduathlon-deining, bops-gravel-bad-salzdetfurth, cross-triathlon-karlstadt,
+elektrenu-gran-fondo, fuemmelsee-triathlon-wolfenbuettel, fuenf-seen-rundfahrt-diessen,
+geiseltal-triathlon-rossbach, giro-stormarn, granfondo-amsterdam, gravel-primavera-borga,
+hageland-classic, kraigerseetriathlon-launsdorf, la-purito-andorra, loewensteiner-berge,
+monaco-di-baviera-classic, niedensteiner-volkstriathlon, reither-kogel-trophy,
+runswimrepeat-oberursel, sugar-gravel-stuttgart, taunus-vogelsberg-radmarathon,
+thueringer-gravel-night, triathlon-niederbayern, ukmerge-gran-fondo, velowino-weinheim,
+wedemark-spass-triathlon
+
+### Research findings:
+- DTU calendar pages 10-18: fully checked, comprehensive coverage confirmed
+- Cycloworld.cc: Monaco di Baviera Classic found and added
+- Radmarathon.at calendar: Bergzeitfahren Altmühltalcup (Jun 11, Walting DE) noted (no accessible website)
+- Granfondo Guide: All known Austrian/German gran fondo events confirmed in DB
+- Slovenian triathlon calendar: 4 additional events exist (Ljubljana Jun 7, Kočevje Aug 22, Jeklenih Aug 29, Vogrsko Sep 5) but dates uncertain; not added
+
+---
+
+## Session date: 2026-06-07 (Session 18 – partial/summary from prior context)
+
+## Changes in Session 18 (recovered from context summary):
+
+### New events added (7):
+- `fichkona-radmarathon-2026` — DE/Sachsen, 601km ultra, Jun 13-15
+- `fuga-300-heiligenblut-2026` — AT/Kärnten, 300km Großglockner→Grado, Jun 19
+- `bops-gravel-bad-salzdetfurth-2026` — DE/NI, Gravel, Jun 22 (German Gravel League)
+- `race-across-germany-aachen-goerlitz-2026` — DE/NRW, 800km ultra, Aug 27-30
+- `oem-zeitfahren-weissenbach-2026` — AT/OÖ, Zeitfahren, Jun 27 (ÖM Zeitfahren)
+- `reither-kogel-trophy-2026` — AT/Tirol, Zeitfahren, Jun 14 (unconfirmed date)
+- `starlim-city-triathlon-festiwels-2026` — AT/OÖ, Jun 26-28, Wels (created, committed Session 19)
+
+### imageUrl additions (Session 18 – 14 events):
+city-tri-paderborn, granfondo-montefeltro-gubbio, plus 12 others (see prior session summary)
+
+### Corrections:
+- schleizer-dreieck-jedermann: date corrected to Jun 21, websiteUrl fixed
+
+---
+
 ## Session date: 2026-06-07 (Session 17)
 
 ## Current state (after Session 17):
