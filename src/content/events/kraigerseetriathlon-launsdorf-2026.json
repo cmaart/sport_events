@@ -1,0 +1,20 @@
+{
+  "id": "kraigerseetriathlon-launsdorf-2026",
+  "name": "10. Kraigerseetriathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kraigersee / Launsdorf",
+    "lat": 46.8404,
+    "lng": 14.4157,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.kraigerseetriathlon.at/",
+  "description": "10. Kraigerseetriathlon am Kraigersee in Launsdorf (Kärnten). Jubiläumsausgabe mit Sprint-Triathlon (750 m/20 km/5 km), Volksbewerb (300 m/7,5 km/2,5 km), Staffel-Triathlon sowie Kids Triathlon. Veranstalter: AC St. Veit/Glan.",
+  "distanceKm": 26
+}
