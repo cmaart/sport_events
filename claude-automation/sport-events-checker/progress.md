@@ -1,5 +1,65 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-07 (Session 17)
+
+## Current state (after Session 17):
+- **Total events: 966** (956 from previous + 10 new this session)
+- Build: 1010 pages, 0 errors
+- Latest push: commit 823ab44 to master
+
+## Changes made this session (Session 17):
+
+### Research summary:
+- DTU calendar (all 18 pages): Comprehensive, only 1 new event found (Ketziner Fischerman)
+- ÖTRV calendar: All 55 AT events confirmed already in DB
+- European IRONMAN/Challenge/T100: All confirmed, no missing events
+- New AT cycling events found: 3 (Grieskirchen 24h, NostalRad, Tour d'Alba)
+- New DE cycling events found: 5 (RAD RACE ONE TWENTY, Rodenkirchen, Velowino, Cycling for Charity, Hochfranken Cycling)
+- imageUrls found for 6 events (Tour de Balaton, 2x Scottish sportive, Hardman Killarney, Maratonul Vinului, Triatlon Koper)
+
+### New events added (10):
+- `ketziner-fischerman-triathlon-2026` — DE/BB, Sprint Triathlon, Jun 28, Ketzin/Havel (DTU-confirmed)
+- `rad-race-one-twenty-sonthofen-2026` — DE/BY, Gran Fondo, Jun 14, Sonthofen (127km/2300hm, 3300 participants)
+- `rodenkirchener-eifelmarathon-2026` — DE/NRW, Radmarathon, Jun 21, Köln-Rodenkirchen (54-202km)
+- `velowino-weinheim-2026` — DE/BW, Gran Fondo, Jun 14, Weinheim (vintage/retro bikes, 42-126km)
+- `cycling-for-charity-bensheim-2026` — DE/HE, Gran Fondo+Gravel, Jun 20, Bensheim (charity event)
+- `hochfranken-cycling-hof-2026` — DE/BY, Gran Fondo+Gravel, Jul 19, Hof an der Saale
+- `center-triathlon-neubrandenburg-2026` — DE/MV, Triathlon, Sep 13, Neubrandenburg (DTU-confirmed)
+- `24h-radmarathon-grieskirchen-2026` — AT/OÖ, Radmarathon, Jul 11-12, Grieskirchen (24h/6h/3h format)
+- `nostalrad-zell-am-see-2026` — AT/SBG, Gran Fondo, Jul 18, Zell am See (Nostalgie-Radrennen vintage bikes)
+- `tour-dalba-schwarzach-2026` — AT/VBG, Gran Fondo, Jul 11, Schwarzach (vintage bikes pre-1990)
+
+### imageUrl additions (6):
+- `tour-de-balaton-siofok-2026`: cloudfront.net gallery image of cyclists along Balaton
+- `bealach-na-ba-sportive-shieldaig-2026`: wixstatic.com 1420×640 Bealach na Ba road panorama
+- `ba-sportive-kinlochewe-2026`: wixstatic.com 1420×751 Highland aerial photo
+- `hardman-killarney-full-triathlon-2026`: hardman.ie panoramic swim start at Killarney Lakes
+- `maratonul-vinului-urlati-2026`: maratonulvinului.ro MTB group in vineyards
+- `triatlon-koper-2026`: triatlon-istra.com cyclists on Adriatic coast road
+- `cycling-for-charity-bensheim-2026`: cycling-for-charity.de slider_2026.jpg
+
+### Events still without imageUrl (31):
+Permanently blocked or no accessible image: 24h-radmarathon-grieskirchen, ajka-triathlon,
+berner-triathlon, bikeathon-tara-fagarasului, center-triathlon-neubrandenburg,
+city-tri-paderborn, cross-triathlon-karlstadt, dublin-city-triathlon, elektrenu-gran-fondo,
+fuenf-seen-rundfahrt-diessen, giro-stormarn, granfondo-amsterdam, gravel-primavera-borga,
+hageland-classic, hochfranken-cycling-hof, ketziner-fischerman-triathlon, loewensteiner-berge,
+marly-grav-race-valkenburg, niedensteiner-volkstriathlon, nostalrad-zell-am-see,
+oettinger-triathlon, sugar-gravel-stuttgart, t100-triathlon-pamplona-spain,
+taunus-vogelsberg-radmarathon, thueringer-gravel-night, triathlon-niederbayern,
+triatlon-murska-sobota, ukmerge-gran-fondo, velowino-weinheim, wtcs-alghero
+
+### Sources confirmed complete (Session 17):
+- DTU Veranstaltungskalender: complete coverage, only Ketziner Fischerman missing
+- ÖTRV Terminkalender: complete coverage (all 55 AT events in DB)
+- European IRONMAN/70.3/5150: complete (all 17 full + 35+ 70.3 events confirmed)
+- Challenge Family Europe: complete (16 events)
+- T100 World Tour Europe: complete (Spain/Pamplona, French Riviera, London)
+- XTERRA/XTRI Europe: complete (20 events)
+- UCI Gran Fondo World Series: complete
+
+---
+
 ## Session date: 2026-06-07 (Session 16, continued)
 
 ## Current state (after Session 16 continuation):
