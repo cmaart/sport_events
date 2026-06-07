@@ -1,0 +1,21 @@
+{
+  "id": "nostalrad-zell-am-see-2026",
+  "name": "23. NostalRad Zell am See",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zell am See",
+    "lat": 47.3248,
+    "lng": 12.8000,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.nostalrad.com/",
+  "description": "23. NostalRad Zell am See – Europas größtes Nostalgie-Radrennen rund um den Zeller See mit Originalfahrrädern aus der Zeit vor 1960. Teilnehmer aus Deutschland, Österreich, der Schweiz, Italien, Slowenien und Tschechien tragen historische Rennkleidung. Gemeinschaftliches Erlebnis mit Festivalcharakter, keine moderne Carbon-Technik erlaubt."
+}

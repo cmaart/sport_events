@@ -1,0 +1,22 @@
+{
+  "id": "ketziner-fischerman-triathlon-2026",
+  "name": "8. Ketziner Fischerman Volkstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ketzin/Havel",
+    "lat": 52.4781,
+    "lng": 12.8453,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "http://ketzin-fischerman.de/",
+  "description": "8. Ketziner Fischerman Volkstriathlon am Havel-Ufer in Ketzin/Havel, Brandenburg. Sprintdistanz: 600 m Schwimmen in der Havel, 20 km Radfahren und 5 km Laufen. Vom Deutschen Triathlon Verband (DTU) ausgeschriebener Breitensportwettkampf für Einzelstarter und Staffeln.",
+  "distanceKm": 25.6
+}

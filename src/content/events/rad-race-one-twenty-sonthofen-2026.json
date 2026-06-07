@@ -1,0 +1,24 @@
+{
+  "id": "rad-race-one-twenty-sonthofen-2026",
+  "name": "RAD RACE ONE TWENTY",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sonthofen",
+    "lat": 47.5089,
+    "lng": 10.2797,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.rad-race.com/onetwenty-2026",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/652e5fda918ed33c257c1fdf/1749046735460-E4191I1QD7VISTCZOFOD/RR_120_Raceday_Bjoern-Reschabek_001-min.jpg",
+  "description": "RAD RACE ONE TWENTY – 127 km Granfondo auf gesperrten Bergstraßen durch das Oberallgäu von Sonthofen bis ins Bregenzerwald (Vorarlberg). Reine Teamveranstaltung: mindestens 3 Fahrer starten gemeinsam und werden als Team in der Zielzeit gewertet. Prolog/TTT am 12./13. Juni, Renntag am 14. Juni. ~3.300 Teilnehmer, 2.300 Hm.",
+  "distanceKm": 127,
+  "elevationGainM": 2300
+}
