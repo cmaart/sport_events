@@ -1,0 +1,22 @@
+{
+  "id": "monaco-gravel-race-peille-2026",
+  "name": "Monaco Gravel Race",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-04-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peille, Alpes-Maritimes",
+    "lat": 43.804,
+    "lng": 7.403
+  },
+  "websiteUrl": "https://monacogravelrace.fr/en/",
+  "description": "Monaco Gravel Race – UCI Gravel World Series Qualifier in den Seealpen nahe Monaco. Hauptstrecke 120 km / 2.400 Hm ab Peille durch den Mercantour-Nationalpark über den Col de Braus. Anspruchsvollstes Gravel-Profil der UCI-Serie; Start im Dorf Peille auf 650 m Höhe.",
+  "distanceKm": 120,
+  "elevationGainM": 2400
+}
