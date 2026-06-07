@@ -1,0 +1,22 @@
+{
+  "id": "bealach-na-ba-sportive-shieldaig-2026",
+  "name": "Bealach Na Ba Sportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Shieldaig, Highland",
+    "lat": 57.518,
+    "lng": -5.640
+  },
+  "websiteUrl": "https://www.sientries.co.uk/event.php?event_id=16310",
+  "description": "Bealach Na Ba Sportive in den schottischen Highlands: 70 km auf gesperrten Straßen über den legendären Bealach na Bà-Pass (626 m Höhe) – einer der steilsten asphaltierten Bergstraßen Großbritanniens. Spektakuläres Panorama auf Skye und die Inneren Hebriden. Teil der schottischen Highlands-Sportivereihe.",
+  "distanceKm": 70,
+  "elevationGainM": 1200
+}

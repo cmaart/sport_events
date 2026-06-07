@@ -1,0 +1,21 @@
+{
+  "id": "dublin-city-triathlon-2026",
+  "name": "RDJ Dublin City Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Phoenix Park, Dublin",
+    "lat": 53.3558,
+    "lng": -6.3257
+  },
+  "websiteUrl": "https://www.dublincitytriathlon.com/",
+  "description": "RDJ Dublin City Triathlon im Phoenix Park – Irlands größtes Triathlon-Stadtfestival in einem der größten Stadtparks Europas. Sprint-Distanz (750 m / 20 km / 5 km), Try-a-Tri, Aquabike und Corporate Relay in historischer Kulisse. Einsteigerfreundliches Format, kostenlose Besucherzonen entlang der Strecke.",
+  "distanceKm": 26
+}

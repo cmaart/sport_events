@@ -1,0 +1,21 @@
+{
+  "id": "hageland-classic-2026",
+  "name": "Hageland Classic",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tielt-Winge, Flemish Brabant",
+    "lat": 50.897,
+    "lng": 4.949
+  },
+  "websiteUrl": "https://www.hagelandclassic.be/",
+  "description": "Hageland Classic – 26. Auflage des größten belgischen Freizeitradmarathons durch die Hügellandschaft der Hageland-Region in Flämisch-Brabant. Sechs Distanzen von 75 bis 185 km über die typisch flämischen Ardennen-Ausläufer. Organisiert von WT Millegem; Start und Ziel in Tielt-Winge.",
+  "distanceKm": 185
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ba-sportive-kinlochewe-2026",
+  "name": "The Bà Sportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kinlochewe, Highland",
+    "lat": 57.609,
+    "lng": -5.069
+  },
+  "websiteUrl": "https://www.sientries.co.uk/event.php?elid=Y&event_id=16478",
+  "description": "The Bà Sportive (ehemals Bealach Mor) in den schottischen Highlands – ca. 145 km (90 Meilen) durch die spektakuläre Berglandschaft rund um Kinlochewe. Highlights: Torridon Mountains, Beinn Eighe, Loch Maree. Zu den härtesten Bergfahrten Britanniens zählend, mit über 2.000 Hm auf gesperrten Bergstraßen.",
+  "distanceKm": 145,
+  "elevationGainM": 2000
+}
