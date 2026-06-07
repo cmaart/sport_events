@@ -1,0 +1,23 @@
+{
+  "id": "fichkona-radmarathon-2026",
+  "name": "Fichkona – 601 km Ultra-Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "end": "2026-06-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fichtelberg / Oberwiesenthal",
+    "lat": 50.4519,
+    "lng": 12.9544,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.fichkona-sports.de/",
+  "imageUrl": "https://fichkona.de/files/themenbild_start.jpg",
+  "description": "26. Auflage des legendären Ultra-Radmarathons: 601 km nonstop vom Fichtelberg (1.214 m) in den Erzgebirgen bis zum Kap Arkona (45 m) auf Rügen an der Ostsee – innerhalb von 24 Stunden. Die Route führt über Chemnitz, Grimma, Wittenberg, Potsdam, Neustrelitz und Stralsund mit rund 2.600 Hm Gesamtanstieg. Startpflicht mit Blick aufs Starterfeld und Sicherheitsfahrzeug.",
+  "distanceKm": 601,
+  "elevationGainM": 2600
+}

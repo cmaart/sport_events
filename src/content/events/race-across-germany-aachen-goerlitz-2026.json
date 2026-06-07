@@ -1,0 +1,22 @@
+{
+  "id": "race-across-germany-aachen-goerlitz-2026",
+  "name": "Race Across Germany – Aachen–Görlitz",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-27",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aachen",
+    "lat": 50.7753,
+    "lng": 6.0839,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://raceacrossgermany.de/",
+  "description": "Ultra-Radrennen quer durch Deutschland: 800 km und 7.800 Hm vom historischen Marktplatz Aachen bis zum Blauen See in Görlitz an der polnischen Grenze. Start am 27. August in zwei Phasen (18:00 und 08:00 Uhr), maximal 200 Teilnehmer (Solo, Duo, Quartett, mit/ohne Begleitung). Gehört zu Europas größten Ultracycling-Events.",
+  "distanceKm": 800,
+  "elevationGainM": 7800
+}

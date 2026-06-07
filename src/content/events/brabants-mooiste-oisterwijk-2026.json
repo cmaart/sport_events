@@ -18,5 +18,6 @@
   },
   "websiteUrl": "https://www.brabantsmooiste.nl/",
   "description": "Brabants Mooiste – 'Die schönste Radtour Süd-Niederlandes' in der Provinz Noord-Brabant. Strecken: 120 km und 80 km (Straße) sowie 90 km Gravel. Gut ausgeschilderte Routen ab De Lind in Oisterwijk durch Wälder und die typisch brabantische Landschaft. NTFU-Mitglieder erhalten Rabatt, Teil des Erlöses geht an Stichting Heartsafe Oisterwijk.",
-  "distanceKm": 120
+  "distanceKm": 120,
+  "imageUrl": "https://www.brabantsmooiste.nl/wp-content/uploads/2026/03/Brabantsmooiste_banner_2026.jpg"
 }

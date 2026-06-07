@@ -18,5 +18,6 @@
   "websiteUrl": "https://granfondogubbio.it/",
   "description": "Granfondo del Montefeltro – Radmarathon durch die umbrisch-marchigesischen Apenninen. Strecken: 138 km / 2.095 Hm (lang) und 80 km / 1.440 Hm (medio). Anstiege u.a. Nogna, Valico Pantani, Valico di Scheggia und Madonna della Cima. Start in Gubbio (Viale del Teatro Romano, 8:30 Uhr). Teil des Circuito Prestigio und Granfondo-Marche-Series.",
   "distanceKm": 138,
-  "elevationGainM": 2095
+  "elevationGainM": 2095,
+  "imageUrl": "https://granfondogubbio.it/wp-content/uploads/2024/10/montagne-1024x219.png"
 }
