@@ -14,13 +14,13 @@
   },
   "location": {
     "name": "Berlin – Wannsee",
-    "lat": 52.4218,
-    "lng": 13.1666,
+    "lat": 52.4388,
+    "lng": 13.1794,
     "region": "Berlin"
   },
   "websiteUrl": "https://www.berlin-wo-man.de",
-  "description": "Triathlon-Challenge am Großen Wannsee in Berlin: 1,9 km Schwimmen im Wannsee, 90 km Rad durch Berliner Stadtränder, 21,1 km Laufen entlang des Sees. Zusätzlich Sprint-Distanz, AquaBike und MiniWoMan-Kinderaquathlon. Zweitages-Festival mit besonderer Wannsee-Atmosphäre; Sprint bereits ausgebucht.",
-  "distanceKm": 113,
-  "elevationGainM": 300,
-  "imageUrl": "https://cdn.prod.website-files.com/687760de305374318ea280b5/6877703f24e393bd31c80c84_1188f187960c23cb076f6825090db9ed_393144501_307500995368733_3670500777852182340_n.avif"
+  "description": "BerlinWoMan – Triathlon-Festival am Strandbad Wannsee in Berlin: Mitteldistanz (2 km Schwimmen im Wannsee, 80 km Radfahren durch den Grunewald mit dem legendären Willi-Anstieg, 20 km Laufen inkl. Schwanenwerder-Umrundung) sowie Sprint-Distanz und AquaBike. Zweitages-Event (Sa Mitteldistanz, So Sprint), Gleichzeitig Berliner Landesmeisterschaften auf der Mitteldistanz; Sprint seit Wochen ausgebucht.",
+  "distanceKm": 102,
+  "elevationGainM": 700,
+  "imageUrl": "https://cdn.prod.website-files.com/687760de305374318ea280b5/68dd4b6bc77494de6f1fc4e1_7cbef0da0f5faa5b5cfa23864acac0e8_Header_1920-520_mittel.avif"
 }

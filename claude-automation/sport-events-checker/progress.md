@@ -1,5 +1,61 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-07 (Session 16)
+
+## Current state (after Session 16):
+- **Total events: ~905** (889 + 16 new this session)
+- Events with imageUrl: improved (10 new imageUrls added to existing events)
+- Build: 0 errors (validated via npm run check)
+
+## Changes made this session (Session 16):
+
+### New events added (16):
+
+**Triathlon (3):**
+- `ironman-5150-erkner-2026` — DE/Brandenburg, Olympische Distanz, Sep 12, Erkner (ironman.com/im5150-erkner)
+- `oettinger-triathlon-2026` — DE/Bayern, Sprintdistanz, Aug 2, Oettingen i. Bayern (triathlon-oettingen.de)
+- `jag-de-wuidsau-burglengenfeld-2026` — DE/Bayern, Duathlon+Cross-Triathlon, Sep 26, Burglengenfeld (jagdewuidsau.de) — 2026 Bayerische Meisterschaft Cross-Duathlon
+- `ironman-5150-cervia-2026` — IT, Olympische Distanz, Sep 20, Cervia (Adria)
+
+**Cycling – Gravel (9):**
+- `raca-gravel-ultra-350-2026` — AT/Tirol, Gravel, Aug 27, Gerlos→Feldkirch (350km/8800Hm)
+- `rooted-secrets-magdeburg-2026` — DE/Sachsen-Anhalt, Gravel, Jul 30–Aug 4, Magdeburg (730km/11000Hm)
+- `grand-escape-austria-innsbruck-2026` — AT/Tirol, Gravel, Sep 5, Innsbruck (500km/4500Hm)
+- `lakes-n-knoedel-fuschl-2026` — AT/Salzburg, Gravel, Sep 7–13, Fuschl am See (725km/14000Hm)
+- `shelter-attack-flensburg-2026` — DE/Schleswig-Holstein, Gravel, Sep 3–6, Flensburg (600km via Denmark)
+- `bodensee-gravel-giro-horgenzell-2026` — DE/Baden-Württemberg, Gravel, Jul 11, Horgenzell (110km/1200Hm)
+- `nuffna-horb-am-neckar-2026` — DE/Baden-Württemberg, Gravel, Sep 4–6, Horb am Neckar (500km/9000Hm)
+- `gotland360-visby-2026` — SE, Gran Fondo, Sep 4–6, Visby/Gotland (360km multi-day)
+- `trakoscan-granfondo-croatia-2026` — HR, Gran Fondo, Jun 20, Trakošćan (117km)
+- `granfondo-pag-2026` — HR, Gran Fondo, Oct 10, Pag Island (107km)
+
+**Cycling – Other (3):**
+- `austrian-extreme-bike-race-2026` — AT/Steiermark, Radmarathon, Aug 16–30, Graz (2500km/52000Hm ultra)
+- `transcontinental-race-no12-2026` — NO, Radmarathon, Jul 19–Aug 8, Trondheim→Kalamata (~4000km)
+
+### imageUrl additions (10 existing events):
+- `rheiner-channel-triathlon-2026`: hdsports.org photo
+- `letape-slovakia-2026`: slovakia.letapeseries.com banner
+- `grafschafter-crossduathlon-2026`: tus-ahrweiler-triathlon.de
+- `gravel-n-groestl-walchsee-2026`: gravelngroestl.com Kaiserwinkl landscape
+- `ruesselcross-duathlon-2026`: tg-tria-ruesselsheim.de header
+- `kaiserstuhl-duathlon-2026`: mrturner61.de header
+- `aarau-triathlon-2026`: staticflickr.com race photo
+- `nordhauser-triathlon-2026`: triathlon-nordhausen.de header
+- `morbacher-swim-run-2026`: blogger CDN photo
+- `sonnewalder-schlosspark-gravel-2026`: timing.rsv-finsterwalde.de poster
+
+### Challenge Family 2026 coverage verified:
+All 16 Challenge Family European events confirmed in database (Roth, Walchsee, Lisbon, Barcelona, Paguera, Salou, Sète, Weymouth, Kraichgau, Majorca, Heilbronn, Cervia, Sandefjord, Forte Village, Samorin, Zell am See)
+
+### Events investigated but NOT added:
+- Büffel-Cross Triathlon Püttlingen — only children's event in 2026 (STU calendar)
+
+### Next: 
+- Process 7 missing German triathlon events from DTU (BerlinMan, Mörsbach, Neubrandenburg Center Triathlon, Duathlon Brettmühlenteich, Duathlon Wendelstein, BM Cross Duathlon Deining)
+
+---
+
 ## Session date: 2026-06-06 (Session 15)
 
 ## Current state (after Session 15):
