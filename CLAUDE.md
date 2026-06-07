@@ -113,3 +113,4 @@ These events have been removed because the official organiser has confirmed they
 - **RideLondon 100** (London, GB) — nach 10. und letzter Ausgabe Mai 2024 dauerhaft eingestellt. Kein 2026-Event. Quelle: sportive.com, Feb 2026.
 - **Velothon Wales** (Wales, GB) — eingestellt nach 2018. Nicht mehr vorhanden.
 - **IRONMAN 70.3 Edinburgh** (Edinburgh, GB) — aus dem Kalender 2019 gestrichen, nicht wieder aufgenommen.
+- **Challenge Lisboa** (Lissabon, PT) — offiziell eingestellt; challenge-lisboa.com zeigt: "Please note that the organisation of this Challenge Family event has been discontinued." Kein 2026-Event vorhanden.
