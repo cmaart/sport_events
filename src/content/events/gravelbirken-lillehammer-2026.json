@@ -1,0 +1,22 @@
+{
+  "id": "gravelbirken-lillehammer-2026",
+  "name": "GravelBirken",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lillehammer",
+    "lat": 61.115,
+    "lng": 10.466
+  },
+  "websiteUrl": "https://birken.no/en/cycling/gravelbirken",
+  "description": "GravelBirken – Gravel-Ausgabe des legendären Birkenbeiner-Festivals in Lillehammer. Zwei Distanzen: GravelBirken 100 (~110 km / 1.800 Hm) und GravelBirken 200 (~195 km / 3.000 Hm). Start und Ziel am Birkebeineren-Skistadion; gemischte Wege durch die Innlandet-Landschaft.",
+  "distanceKm": 195,
+  "elevationGainM": 3000
+}

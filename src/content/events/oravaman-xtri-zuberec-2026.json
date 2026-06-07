@@ -1,0 +1,22 @@
+{
+  "id": "oravaman-xtri-zuberec-2026",
+  "name": "Oravaman XTRI Solo Point Five",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zuberec, Westtatra",
+    "lat": 49.264,
+    "lng": 19.617
+  },
+  "websiteUrl": "https://oravaman.sk/",
+  "description": "Oravaman XTRI Solo Point Five – 15. Auflage des extremen Triathlons in den Westtatras: 2 km Schwimmen (Liptovská-Mara-Stausee) / 86 km Rad (1.850 Hm) / 20 km Trailrun (1.050 Hm) = ~2.900 Hm gesamt. Teil der XTRI World Tour. Nur 250 Startplätze; eindrucksvolle Bergkulisse in der Orava-Region.",
+  "distanceKm": 108,
+  "elevationGainM": 2900
+}

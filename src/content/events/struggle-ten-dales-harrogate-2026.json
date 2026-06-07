@@ -1,0 +1,22 @@
+{
+  "id": "struggle-ten-dales-harrogate-2026",
+  "name": "STRUGGLE:TEN Dales",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Harrogate, North Yorkshire",
+    "lat": 53.992,
+    "lng": -1.541
+  },
+  "websiteUrl": "https://ridethestruggle.com/",
+  "description": "STRUGGLE:TEN Dales – Jubiläumsausgabe (10. Jahrgang) mit drei Distanzen: 120 km Classic, 165 km / ~2.875 Hm über sechs Yorkshire-Anstiege sowie das 250-km-Ultra über alle zehn Yorkshire-Dales-Pässe. Start in Harrogate. Gilt als härtestes Sportive in Yorkshire.",
+  "distanceKm": 250,
+  "elevationGainM": 4500
+}

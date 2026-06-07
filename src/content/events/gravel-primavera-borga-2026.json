@@ -1,0 +1,22 @@
+{
+  "id": "gravel-primavera-borga-2026",
+  "name": "Gravel Primavera Borgå",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Porvoo (Borgå)",
+    "lat": 60.392,
+    "lng": 25.664
+  },
+  "websiteUrl": "https://nordicgravel.com/collections/gravel-primavera-borga-may-16th-2026",
+  "description": "Gravel Primavera Borgå – Frühlingsgravelrennen in der historischen Altstadt-Umgebung von Porvoo (Borgå), 40 km östlich von Helsinki. Teil der Nordic Gravel Series 2026. Distanzen: 50 km / 400 Hm, 100 km / 900 Hm, 150 km / 1.300 Hm und 300 km / 2.500 Hm.",
+  "distanceKm": 150,
+  "elevationGainM": 1300
+}

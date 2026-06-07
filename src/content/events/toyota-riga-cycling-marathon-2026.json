@@ -1,0 +1,21 @@
+{
+  "id": "toyota-riga-cycling-marathon-2026",
+  "name": "Toyota Riga Cycling Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LV",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riga",
+    "lat": 56.949,
+    "lng": 24.106
+  },
+  "websiteUrl": "https://velo.lv/en/toyota-riga-cycling-marathon/",
+  "description": "Toyota Riga Cycling Marathon – Lettlands größtes Massenstart-Radrennen am Ufer der Daugava in Riga. Strecken: 64 km (Sport), 32 km (Volksfahrt), 16 km (Familie) und 2 km (Kinder). Flaches Profil im Zentrum der lettischen Hauptstadt; veranstaltet von velo.lv.",
+  "distanceKm": 64
+}

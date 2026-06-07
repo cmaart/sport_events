@@ -1,0 +1,22 @@
+{
+  "id": "dirty-sipoo-2026",
+  "name": "Dirty Sipoo",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nikkilä, Sipoo",
+    "lat": 60.364,
+    "lng": 25.282
+  },
+  "websiteUrl": "https://dirtysipoo.com/en",
+  "description": "Dirty Sipoo – Finnische Gravel-Meisterschaft in Sipoo (25 km östlich von Helsinki), 4. Auflage. Teil der Nordic Gravel Series 2026. Drei Distanzen: 50 km (geführt), 100 km / ~900 Hm und 160 km / ~1.400 Hm (Zeitfahren). Waldwege und Schotterpisten in der Sipoo-Landschaft.",
+  "distanceKm": 160,
+  "elevationGainM": 1400
+}

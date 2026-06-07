@@ -1,0 +1,22 @@
+{
+  "id": "gravely-fest-tartu-2026",
+  "name": "Grävely Fest",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "EE",
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tartu",
+    "lat": 58.378,
+    "lng": 26.729
+  },
+  "websiteUrl": "https://gravely.ee/home_eng",
+  "description": "Grävely Fest – Gravel-Festival in Tartu (Estnisches Nationalmuseum als Startpunkt) mit Zeitnehmung und offiziellen Ergebnissen. Strecken: 92 km und 159 km über Schotterwege in der Tartu–Peipsiääre-Region. Dreitägiges Festival mit Rennen, Workshops und Lagerfeueratmosphäre.",
+  "distanceKm": 159
+}

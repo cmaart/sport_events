@@ -1,0 +1,22 @@
+{
+  "id": "letape-trondheim-2026",
+  "name": "L'Étape Trondheim by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trondheim",
+    "lat": 63.43,
+    "lng": 10.395
+  },
+  "websiteUrl": "https://trondheim.letapeseries.com/",
+  "description": "L'Étape Trondheim by Tour de France – erstes offizielles L'Étape-Rennen in Norwegen, anlässlich des Tour-de-France-Starts 2025 in Trondheim. Gesperrte Straßen durch Trondheims Hügellandschaft; Strecken: 130 km / 1.570 Hm und 75 km / 1.058 Hm. Über 3.000 Voranmeldungen; Teil der weltweiten L'Étape-Serie.",
+  "distanceKm": 130,
+  "elevationGainM": 1570
+}

@@ -1,0 +1,22 @@
+{
+  "id": "birkebeinerrittet-2026",
+  "name": "Birkebeinerrittet",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rena → Lillehammer",
+    "lat": 61.135,
+    "lng": 11.381
+  },
+  "websiteUrl": "https://birken.no/en/cycling/birkebeinerrittet-84-km",
+  "description": "Birkebeinerrittet – Norwegens legendäres 84-km-MTB-Rennen von Rena nach Lillehammer (Birkebeineren-Stadion) über Gebirgswege und Forstwege. Benannt nach den Birkenbein-Kriegern des Mittelalters; Teil des renommierten Birken-Festivals. Mehrere tausend Teilnehmer, hohe atmosphärische Bedeutung in Skandinavien.",
+  "distanceKm": 84,
+  "elevationGainM": 1250
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ride-across-britain-2026",
+  "name": "Deloitte Ride Across Britain",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Land's End → John o'Groats",
+    "lat": 50.065,
+    "lng": -5.715
+  },
+  "websiteUrl": "https://www.rideacrossbritain.com/",
+  "description": "Deloitte Ride Across Britain – geführte 9-Tages-Etappenfahrt von Land's End (Cornwall) bis John o'Groats (Schottland): ~1.577 km / 980 Meilen. Vollunterstützt mit Übernachtungen in Basiscamps; kein Zeitdruck, gemeinschaftliches Format. Eine der bekanntesten LEJOG-Radveranstaltungen Großbritanniens.",
+  "distanceKm": 1577
+}
