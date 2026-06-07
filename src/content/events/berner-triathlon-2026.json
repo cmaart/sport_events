@@ -1,0 +1,21 @@
+{
+  "id": "berner-triathlon-2026",
+  "name": "Berner Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Münchenbuchsee / Zollikofen",
+    "lat": 47.0126,
+    "lng": 7.4662
+  },
+  "websiteUrl": "https://www.bernertriathlon.ch/",
+  "description": "Berner Triathlon – Volkstriathlon-Format auf der Sprintdistanz (0,5 km / 22 km / 5 km) im Großraum Bern. Schwimmen im Wald-See Münchenbuchsee, Radkurs durch das bernische Mittelland, Lauf durch Zollikofen. Familien- und Breitensport-orientierter Anlass mit Schüler- und Jugendrennen.",
+  "distanceKm": 27
+}

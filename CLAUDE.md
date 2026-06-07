@@ -107,3 +107,4 @@ Equally: when removing an event because no 2026 edition exists, document it in t
 These events have been removed because the official organiser has confirmed they are not happening in 2026, even though aggregator sites still list them. Do not re-add them unless the official site explicitly announces a 2026 edition.
 
 - **Leitha.Berg Radmarathon** (Purbach am Neusiedler See, AT) — 2025 abgesagt, keine 2026-Ausgabe angekündigt. Aggregatoren wie Endure-Cycling und Battistrada führen 07.06.2026 spekulativ. Offizielle Quelle: https://www.leithaberg-radmarathon.at/.
+- **IRONMAN 70.3 Budapest** (Budapest, HU) — zuletzt 2016 ausgetragen; seitdem kein Start mehr. Aggregator triafreunde.com führt spekulativ "20.04.2026" basierend auf Altdaten. Offizieller IRONMAN-Europäischer Kalender für 2026 enthält Budapest nicht. Nicht hinzufügen, es sei denn, ironman.com kündigt eine Neuauflage offiziell an.
