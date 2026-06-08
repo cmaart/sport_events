@@ -1,0 +1,22 @@
+{
+  "id": "eroica-germania-2026",
+  "name": "Eroica Germania",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eltville am Rhein",
+    "lat": 50.0278,
+    "lng": 8.1189,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.eroica.cc/en/events/germania/",
+  "imageUrl": "https://www.eroica.cc/wp-content/uploads/2025/07/Screenshot-2025-07-17-alle-10.59.07-1920x1080.png",
+  "description": "Eroica Germania im Rheingau – Hommage an den klassischen Radsport auf historischen Straßen und Schotterwegen rund um Eltville am Rhein. Vintage-Rennräder (Baujahr vor 1987) und authentische Kleidung Pflicht. Drei Distanzen: Kurz (42,8 km/600 Hm), Mittel (80 km/1.290 Hm), Lang (122 km/2.150 Hm).",
+  "distanceKm": 122,
+  "elevationGainM": 2150
+}

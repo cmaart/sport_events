@@ -1,0 +1,23 @@
+{
+  "id": "ebm-united-erzgebirgs-bike-marathon-2026",
+  "name": "EBM United – Erzgebirgs-Bike-Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seiffen",
+    "lat": 50.6544,
+    "lng": 13.4531,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.ebm-united.de/",
+  "imageUrl": "https://www.ebm-united.de/pix/heads/00002025_03.jpg",
+  "description": "34. Erzgebirgs-Bike-Marathon im Erzgebirge rund um Seiffen (Sachsen). Sonntag: MTB-Marathon in drei Distanzen – Gold 100 km, Silver 70 km, Bronze 40 km. Samstag: Gravel Cracker Race ca. 50 km/1.200 Hm sowie EBM Light (30 km) und eEBM für E-Bikes.",
+  "distanceKm": 100,
+  "elevationGainM": 2500
+}
