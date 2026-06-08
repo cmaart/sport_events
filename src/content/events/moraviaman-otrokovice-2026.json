@@ -1,0 +1,19 @@
+{
+  "id": "moraviaman-otrokovice-2026",
+  "name": "MoraviaMan Triathlon Otrokovice",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Otrokovice",
+    "lat": 49.2008,
+    "lng": 17.5263
+  },
+  "websiteUrl": "https://www.moraviaman.cz/",
+  "description": "MoraviaMan Triathlon Otrokovice (Mähren, CZ) – tschechischer Langdistanz-Triathlon: 226 km Gesamtdistanz mit 1 Schwimmrunde, 5 Radkurs-Schleifen (à ~45 km) und 4 Laufkurs-Schleifen. Zusätzlich 50-km-Distanz und Staffelwertung. Veranstalter: Triatlón Club Otrokovice.",
+  "distanceKm": 226
+}
