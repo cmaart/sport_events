@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.elbspitze.de/",
   "description": "Ultra-Bergmarathon von Dresden nach Passo di Giau in den Dolomiten: 778 km mit 11.900 Höhenmetern nonstop. Gemeinsame Ausfahrt ohne Rennatmosphäre – stärkere Fahrer unterstützen schwächere Teamkameraden. Jährlich wechselnde Route, immer mit Bergankunft in den Alpen.",
   "distanceKm": 778,
-  "elevationGainM": 11900
+  "elevationGainM": 11900,
+  "imageUrl": "https://www.elbspitze.de/2025/pictures/3_small.jpg"
 }
