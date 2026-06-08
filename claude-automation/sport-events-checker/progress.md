@@ -1,11 +1,57 @@
 # Sport Events Checker – Session Progress
 
-## Session date: 2026-06-08 (Session 22)
+## Session date: 2026-06-08 (Session 22, continued in Session 23)
+
+## Current state (after Session 23):
+- **Total events: 1031** (1013 from Session 22 → +13 new − 1 duplicate removed + date fix = 1031)
+- Build: 0 errors, 0 warnings
+- Latest push: commit 2826ab1 to master
+
+## Changes made this session (Session 23 continuation):
+
+### Data fixes:
+- `triatlon-murska-sobota-2026`: date corrected 2026-08-09 → 2026-06-21 (official TZS calendar; imageUrl path `/2026/06/` confirms June date; previous "correction" to Aug 9 in Session 19 was wrong)
+
+### New events added (12 net, 13 created − 1 duplicate removed):
+**Slovenian triathlon:**
+- `triatlon-kocevje-2026` — SI, Sprintdistanz, Aug 22, Kočevje (Slovenian national championship, Kočevsko jezero)
+
+**Austrian cycling — Thermenregion-Cup series (NÖ):**
+- `thermenregion-cup-seibersdorf-2026` — AT/NÖ, Zeitfahren, Apr 24 (Round 1)
+- `thermenregion-cup-pottendorf-2026` — AT/NÖ, Zeitfahren, May 8 (Round 2, Tattendorf)
+- `thermenregion-cup-alland-2026` — AT/NÖ, Zeitfahren, May 22 (Round 3, Alland-Holzschlag)
+- `thermenregion-cup-klausen-2026` — AT/NÖ, Zeitfahren, May 29 (Round 4, Klausen-Leopoldsdorf)
+- `thermenregion-cup-grub-2026` — AT/NÖ, Zeitfahren, Jun 12 (Round 5 finale, Grub — UPCOMING)
+
+**Austrian cycling — Weinviertler Radcup (NÖ):**
+- `weinviertler-radcup-mistelbach-2026` — AT/NÖ, Zeitfahren, Apr 26, Mistelbach
+- `weinviertler-bergzeitfahren-munichstal-2026` — AT/NÖ, Berg+Zeitfahren, May 9, Münichsthal (3.8 km/130 Hm)
+
+**Austrian cycling — ZeitFahr-CUP 1600HM (OÖ):**
+- `zeitfahr-cup-perg-2026` — AT/OÖ, Zeitfahren, May 1, Perg
+- `bike-the-lies-2026` — AT/OÖ, Zeitfahren, May 17, Neukirchen bei Lambach (21.8 km on closed former railway, team TT also)
+
+**Austrian cycling — national championships (NÖ):**
+- `om-pzf-gross-enzersdorf-2026` — AT/NÖ, Zeitfahren, May 31, Groß Enzersdorf (Austrian pair+team TT championship)
+
+**Austrian cycling — unique team TT (OÖ):**
+- `mannschaftszeitfahren-grossalm-2026` — AT/OÖ, Zeitfahren, Aug 5, Stadl Paura→Großalm (4-person team TT, 37 km/500 Hm)
+
+### Duplicate found and removed:
+- `om-ezf-grosshartmannsdorf-2026` — duplicate of `alois-kainer-gedenkrennen-ezf-2026` (same race, better file already exists with imageUrl and May 31 date)
+
+### Agent research results processed:
+- **Slovenia/Croatia research** (agent `addcdb4730755cdb6`): DB already comprehensive; found Kočevje missing; confirmed Dachsteinblick already exists; confirmed Mörbischer TT already covered by neusiedlersee-radmarathon event; confirmed Thayarunde TT embedded in existing radmarathon event
+- **Austrian Baranski Zeitfahrkalender** (agent `abed8101a7dacad15`): 18 events identified; Mörbischer already covered; Dachsteinblick already in DB; Thayarunde embedded; ÖM EZF (Großhartmannsdorf) already exists; Rad am Salzburgring skipped (only aggregator source); 12 new events added
+
+### Sources confirmed complete (Session 23):
+- Triatlon zveza Slovenije 2026 calendar: Slovenia comprehensive (Kočevje added)
+- Croatian cycling + triathlon: all in DB (no new events found)
+- Baranski Zeitfahrkalender 2026 (derbaranski.de/bikeboard.at): all AT TT events now in DB
+
+---
 
 ## Current state (after Session 22):
-- **Total events: 1013** (1001 from Session 21 + 13 new − 1 duplicate removed)
-- Build: 0 errors, 0 warnings
-- Latest push: commit a0deca5 to master
 
 ## Changes made this session (Session 22):
 
