@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://www.wels-triathlon.at/",
   "description": "starlim City Triathlon FestiWELS – Stadtspektakel mit Europe Triathlon Cup und Junioren Europacup in Wels (OÖ). Schwimmen in der kristallklaren Traun, komplett gesperrter Radkurs durch Wels, mehrere Laufrunden durch den Pollheimerpark und das historische Stadtzentrum bis zum Stadtplatz. Freitag: Kick-off Run; Samstag: Kids Run + Oberbank Nightrace (Europacup Elite/Junior); Sonntag: Open Race Fun Races und Staffeln.",
-  "imageUrl": "https://www.wels-triathlon.at/wp-content/themes/wels-triathlon/img/logo-starlim-citytriathlon-weiss.png"
+  "distanceKm": 26,
+  "elevationGainM": 80
 }
