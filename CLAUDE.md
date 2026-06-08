@@ -114,3 +114,4 @@ These events have been removed because the official organiser has confirmed they
 - **Velothon Wales** (Wales, GB) — eingestellt nach 2018. Nicht mehr vorhanden.
 - **IRONMAN 70.3 Edinburgh** (Edinburgh, GB) — aus dem Kalender 2019 gestrichen, nicht wieder aufgenommen.
 - **Challenge Lisboa** (Lissabon, PT) — offiziell eingestellt; challenge-lisboa.com zeigt: "Please note that the organisation of this Challenge Family event has been discontinued." Kein 2026-Event vorhanden.
+- **Gran Fondo Bratislava** (Bratislava, SK) — Veranstalter hat auf der offiziellen Website (granfondobratislava.sk) angekündigt: "V roku 2026 si dávame pauzu" (In 2026 machen wir eine Pause). Kein 2026-Event vorhanden. Nicht erneut hinzufügen, es sei denn, die offizielle Seite kündigt wieder eine 2026- oder 2027-Ausgabe an.
