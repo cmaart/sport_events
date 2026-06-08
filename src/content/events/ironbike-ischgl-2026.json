@@ -1,0 +1,23 @@
+{
+  "id": "ironbike-ischgl-2026",
+  "name": "Ischgl Ironbike",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-07",
+    "end": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ischgl",
+    "lat": 47.012,
+    "lng": 10.291,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.ischgl.com/en/events-experiences/ischgl-ironbike",
+  "imageUrl": "https://www.ischgl.com/002_ISCHGL/SOMMER/EVENTS/IRONBIKE/2026%20KEY/155797461/image-thumb__155797461__hero/00_KEY_IRONBIKE_2026%20%281%29.jpg",
+  "description": "31. Ischgl Ironbike – extremer MTB-Marathon im Paznauntal (Tirol). Freitag: Kids & Juniors Trophy + Short Track. Samstag: Marathon in vier Distanzen – Light (30 km/700 Hm), Medium (53 km/1.900 Hm), Hard (65 km/2.600 Hm), Extreme (82 km/3.350 Hm) auf alpinen Trails und Schotterstraßen.",
+  "distanceKm": 82,
+  "elevationGainM": 3350
+}

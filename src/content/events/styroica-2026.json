@@ -1,0 +1,22 @@
+{
+  "id": "styroica-2026",
+  "name": "Styroica",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fehring",
+    "lat": 46.938,
+    "lng": 15.907,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.styroica.at/",
+  "imageUrl": "https://www.styroica.at/wp-content/uploads/2026/01/PS_5699.jpg",
+  "description": "Styroica in Fehring (Südoststeiermark) – Hommage an den historischen Radsport mit Stahlrädern (Baujahr vor 1990) und zeitgenössischer Kleidung in der Vulkanlandschaft Südoststeiermarks. Drei Strecken: Genussroute (50–60 km/500 Hm), Sportliche Route (110–129 km/1.100 Hm) und Heroische Route (~200 km/2.200 Hm).",
+  "distanceKm": 200,
+  "elevationGainM": 2200
+}
