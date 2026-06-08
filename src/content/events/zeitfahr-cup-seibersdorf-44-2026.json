@@ -17,5 +17,6 @@
   "websiteUrl": "https://zeitfahr-cup.at/",
   "description": "Einzelzeitfahren bei Seibersdorf (NÖ) über 44 km mit 128 Höhenmetern. Teil des ZeitFahr-CUP Speed 2026, gleichzeitig findet das 4er-Mannschaftszeitfahren (44 km) statt. Beschrieben als ideales Vorbereitungsrennen für den King of the Lake.",
   "distanceKm": 44,
-  "elevationGainM": 128
+  "elevationGainM": 128,
+  "imageUrl": "https://zeitfahr-cup.at/wp-content/uploads/2022/02/speed_gr_1024x768.jpg"
 }
