@@ -1,0 +1,21 @@
+{
+  "id": "dirndltal-race-frankenfels-2026",
+  "name": "Dirndltal Race",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Frankenfels",
+    "lat": 47.9458,
+    "lng": 15.3397,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.dirndltal-race.at/",
+  "description": "Dirndltal Race – Gravel- und MTB-Event im Naturpark Ötscher-Tormäuer in Niederösterreich. Drei Formate: Fun Race 20 km / 800 Hm, Trophy Race 40 km / 1.600 Hm und Adventure Race ~73 km / 1.900 Hm (Start in St. Pölten → Frankenfels über Gravel- und MTB-Trails). Finale am historischen Bahnhof Laubenbachmühle der Mariazellerbahn.",
+  "distanceKm": 73,
+  "elevationGainM": 1900
+}

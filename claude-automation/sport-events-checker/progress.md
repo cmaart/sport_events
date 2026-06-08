@@ -1,5 +1,52 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-08 (Session 20)
+
+## Current state (after Session 20):
+- **Total events: 987** (982 from previous + 2 new - 5 duplicates + backwaterman/riverthlon = 987)
+- Build: 1034 pages, 0 errors
+- Latest push: commit 834bb9d to master
+
+## Changes made this session (Session 20):
+
+### New events added (2):
+- `backwaterman-ottenstein-2026` — AT/NÖ, Aquathlon (SwimRun), Jun 26-28, Ottensteiner Stausee (20. und letzte Auflage, My SwimRun World Championships)
+- `riverthlon-waidhofen-2026` — AT/NÖ, Aquathlon (SwimRun), Aug 15, Waidhofen an der Ybbs (10. Jubiläum)
+
+### Duplicates removed (5):
+- `kraigersee-triathlon-2026` (kept `kraigerseetriathlon-launsdorf-2026` with better 2026 info)
+- `starlim-city-triathlon-wels-2026` (kept `starlim-city-triathlon-festiwels-2026` with correct 3-day dates)
+- `birkebeinerrittet-2026` (kept `birkebeinerrittet-lillehammer-2026`, more complete)
+- `granfondo-il-lombardia-2026` (kept `gran-fondo-il-lombardia-bergamo-2026`, Felice Gimondi Memorial)
+- `marmotte-granfondo-valais-2026` (kept `tour-des-stations-verbier-2026`, better description)
+
+### imageUrl additions (1):
+- `swimrun-rheinsberg-2026`: 1920×1080 race photo from swimrun-rheinsberg.de/fileadmin/
+
+### Data fixes:
+- `starlim-city-triathlon-festiwels-2026`: added distanceKm: 26, elevationGainM: 80 (merged from wels duplicate)
+- `tour-des-stations-verbier-2026`: removed portrait imageUrl (768×960, ratio 0.80:1 — not suitable)
+- `starlim-city-triathlon-festiwels-2026`: removed logo imageUrl (white PNG on transparent background)
+
+### Events still without imageUrl (pending — all blocked or inaccessible):
+bm-crossduathlon-deining, bops-gravel-bad-salzdetfurth, cross-triathlon-karlstadt,
+elektrenu-gran-fondo, fuemmelsee-triathlon-wolfenbuettel, fuenf-seen-rundfahrt-diessen,
+geiseltal-triathlon-rossbach, giro-stormarn, granfondo-amsterdam, gravel-primavera-borga,
+hageland-classic, kraigerseetriathlon-launsdorf, la-purito-andorra, loewensteiner-berge,
+moehnesee-triathlon, monaco-di-baviera-classic, niedensteiner-volkstriathlon, reither-kogel-trophy,
+runswimrepeat-oberursel, sugar-gravel-stuttgart, taunus-vogelsberg-radmarathon,
+thueringer-gravel-night, triathlon-niederbayern, ukmerge-gran-fondo, velowino-weinheim,
+wedemark-spass-triathlon, backwaterman-ottenstein, riverthlon-waidhofen
+
+### Research findings:
+- DTU calendar pages 13-17: fully checked, comprehensive coverage confirmed (no new events)
+- IRONMAN/Challenge/T100 European events: all confirmed in database (no new events)
+- Austrian triathlon calendar (ÖTRV): 2 new AT SwimRun events found and added
+- AQUADAYS Langenzersdorf: correctly skipped (Aug 2025 was final edition per official site)
+- UCI Gran Fondo World Series: complete coverage confirmed
+
+---
+
 ## Session date: 2026-06-07 (Session 19)
 
 ## Current state (after Session 19):
