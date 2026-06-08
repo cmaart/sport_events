@@ -1,0 +1,20 @@
+{
+  "id": "thermenregion-cup-klausen-2026",
+  "name": "Thermenregion-Cup 4. EZF Klausen-Leopoldsdorf",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Klausen-Leopoldsdorf",
+    "lat": 48.081,
+    "lng": 15.933,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_cup.php?rmlang=de&id=46",
+  "description": "4. Runde des Thermenregion-Cups 2026: Einzelzeitfahren in Klausen-Leopoldsdorf (NÖ) im Wienerwald. Vorletztes Rennen der Thermenregion-Cup-Serie 2026.",
+  "distanceKm": 16
+}

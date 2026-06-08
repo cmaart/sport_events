@@ -1,0 +1,20 @@
+{
+  "id": "om-ezf-grosshartmannsdorf-2026",
+  "name": "ÖM EZF Großhartmannsdorf",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Großhartmannsdorf",
+    "lat": 47.083,
+    "lng": 15.700,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.oerv.at/",
+  "description": "Österreichische Meisterschaft im Einzelzeitfahren (Amateure und Masters) in Großhartmannsdorf (Steiermark): ca. 16,4 km mit Turnaround bei Neustift. Nationaler Titelkampf im EZF für alle Altersklassen außer Elite, veranstaltet im Rahmen des ÖRV-Rennkalenders.",
+  "distanceKm": 16
+}

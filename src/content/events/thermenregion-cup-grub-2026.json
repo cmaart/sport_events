@@ -1,0 +1,20 @@
+{
+  "id": "thermenregion-cup-grub-2026",
+  "name": "Thermenregion-Cup 5. EZF Grub",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grub",
+    "lat": 47.980,
+    "lng": 16.270,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_cup.php?rmlang=de&id=46",
+  "description": "Saisonfinale des Thermenregion-Cups 2026: 5. Einzelzeitfahren in Grub (NÖ). Für die Gesamtwertung des Cups ist die Teilnahme am Finale Pflicht. Zeitfahrserie im Raum Thermenregion/Baden südlich von Wien, veranstaltet vom ARBÖ Thermenregion.",
+  "distanceKm": 16
+}

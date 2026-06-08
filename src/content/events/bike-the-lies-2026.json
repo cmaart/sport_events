@@ -1,0 +1,21 @@
+{
+  "id": "bike-the-lies-2026",
+  "name": "Bike the Lies",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neukirchen bei Lambach",
+    "lat": 48.057,
+    "lng": 13.778,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://rfv-weibern.at/bike-the-lies/",
+  "description": "Bike the Lies: 21,8 km Einzelzeitfahren auf dem Haager Lies Radweg – einer ehemaligen Bahntrasse zwischen Neukirchen bei Lambach und Haag am Hausruck (OÖ). Vollständig gesperrte Strecke, ca. 240 Hm. Einzel- und 3-Personen-Teamwertung. Teil des ZeitFahr-CUP 1600HM 2026.",
+  "distanceKm": 22,
+  "elevationGainM": 240
+}

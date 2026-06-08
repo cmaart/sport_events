@@ -1,0 +1,19 @@
+{
+  "id": "triatlon-kocevje-2026",
+  "name": "Triatlon Kočevje",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "SI",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kočevje",
+    "lat": 45.6397,
+    "lng": 14.8626
+  },
+  "websiteUrl": "https://triatlon-klub-ribnica.si/triatlon-kocevje.html",
+  "description": "Triatlon Kočevje am Kočevsko jezero (Kočevjer See) im südslowenischen Kočevje: Sprint-Triathlon über 750 m Schwimmen, 20 km Radfahren und 5 km Laufen. Slowenische Staatsmeisterschaft auf der Sprintdistanz. Veranstalter: Triatlon klub Ribnica.",
+  "distanceKm": 25
+}

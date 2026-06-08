@@ -1,0 +1,20 @@
+{
+  "id": "thermenregion-cup-seibersdorf-2026",
+  "name": "Thermenregion-Cup 1. EZF Seibersdorf",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-04-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seibersdorf",
+    "lat": 47.974,
+    "lng": 16.524,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_cup.php?rmlang=de&id=46",
+  "description": "1. Runde des Thermenregion-Cups 2026: Einzelzeitfahren in Seibersdorf (NÖ) über ca. 16 km auf flacher Strecke. Turnaround-Kurs durch die Thermenregion südlich von Wien. Veranstaltet vom ARBÖ Thermenregion im Rahmen der niederösterreichischen Zeitfahrserie.",
+  "distanceKm": 16
+}

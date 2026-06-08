@@ -1,0 +1,21 @@
+{
+  "id": "mannschaftszeitfahren-grossalm-2026",
+  "name": "Mannschaftszeitfahren auf die Großalm",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stadl Paura",
+    "lat": 48.017,
+    "lng": 13.883,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.atterbiker.at/13-mannschaftszeitfahren-grossalm/",
+  "description": "13. Mannschaftszeitfahren auf die Großalm: 37 km und ca. 500 Hm von Stadl Paura zur Großalm (OÖ). Teamformat mit 4 Personen – gewertet wird die Zeit des viertschnellsten Fahrers. Jährlicher Traditionsbewerb des Attersee Bikers, jeweils am ersten Mittwoch im August.",
+  "distanceKm": 37,
+  "elevationGainM": 500
+}

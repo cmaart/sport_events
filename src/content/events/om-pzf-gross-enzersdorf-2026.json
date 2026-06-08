@@ -1,0 +1,20 @@
+{
+  "id": "om-pzf-gross-enzersdorf-2026",
+  "name": "ÖM Paar- und Mannschaftszeitfahren Groß Enzersdorf",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Groß Enzersdorf",
+    "lat": 48.193,
+    "lng": 16.558,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.oerv.at/",
+  "description": "Österreichische Meisterschaft im Paar- und Mannschaftszeitfahren in Groß Enzersdorf (NÖ), östlich von Wien im Marchfeld. Nationaler Titelkampf in der Teamdisziplin – Zweier- und Dreierteams auf flachem Streckenabschnitt im Marchfeld.",
+  "distanceKm": 20
+}
