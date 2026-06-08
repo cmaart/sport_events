@@ -1,0 +1,21 @@
+{
+  "id": "kampenkoenig-2026",
+  "name": "Kampenkönig",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bernau am Chiemsee",
+    "lat": 47.806,
+    "lng": 12.377,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://rfv-prien.de/aktivitaeten/kampenkoenig/",
+  "description": "Bergrennen auf den Kampenwand-Massiv: ca. 6 km / 610 Hm vom Wanderparkplatz Hintergschwendt hinauf zur Steinlingalm im Chiemgau. Limitiert auf ca. 100 Teilnehmer. Veranstalter: RFV 1893 Prien e.V.",
+  "distanceKm": 6,
+  "elevationGainM": 610
+}

@@ -1,0 +1,21 @@
+{
+  "id": "drei-talsperren-marathon-2026",
+  "name": "31. Drei-Talsperren-Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eibenstock",
+    "lat": 50.485,
+    "lng": 12.600,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://drei-talsperren-marathon.de/",
+  "description": "31. Drei-Talsperren-Marathon in Eibenstock im Erzgebirge (Sachsen): Radstrecken 96,5 km/~1.140 Hm (Rad 100), 50,7 km (Rad 50) und 30 km (Rad 30). Die Strecke führt über die Staumauern der Talsperren Carlsfeld, Sosa und Eibenstock sowie zweimal auf den Auersberg (1.018 m) auf 70 % Forst- und Waldwegen.",
+  "distanceKm": 97,
+  "elevationGainM": 1140
+}
