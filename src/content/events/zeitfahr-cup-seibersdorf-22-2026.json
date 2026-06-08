@@ -1,0 +1,20 @@
+{
+  "id": "zeitfahr-cup-seibersdorf-22-2026",
+  "name": "ZeitFahr-CUP Speed Seibersdorf 22",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seibersdorf",
+    "lat": 47.974,
+    "lng": 16.524,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://zeitfahr-cup.at/",
+  "description": "Einzelzeitfahren in der Ebene bei Seibersdorf (NÖ) über 22 km. Teil des ZeitFahr-CUP Speed 2026 – einer österreichischen Zeitfahrserie mit Fokus auf Tempo und flache Strecken. Gut als Vorbereitungsrennen geeignet, veranstaltet vom ZeitFahr-CUP-Team.",
+  "distanceKm": 22
+}
