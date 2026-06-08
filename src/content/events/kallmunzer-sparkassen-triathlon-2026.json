@@ -1,0 +1,19 @@
+{
+  "id": "kallmunzer-sparkassen-triathlon-2026",
+  "name": "Kallmünzer Sparkassen-Triathlon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kallmünz",
+    "lat": 49.162,
+    "lng": 11.949,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/termine/veranstaltungskalender",
+  "description": "39. Kallmünzer Sparkassen-Triathlon im mittelalterlichen Markt Kallmünz (Bayern) – traditionelle Triathlonveranstaltung an der Naab. Einer der ältesten Triathlons in der Oberpfalz."
+}

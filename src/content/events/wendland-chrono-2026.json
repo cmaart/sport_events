@@ -1,0 +1,20 @@
+{
+  "id": "wendland-chrono-2026",
+  "name": "Wendland-Chrono",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Prezelle",
+    "lat": 53.025,
+    "lng": 11.005,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.igaswendland.de/",
+  "description": "Wendland-Chrono Einzelzeitfahren in Prezelle (Niedersachsen) – 2. Austragung dieses Zeitfahrens im Wendland. Distanzen: 45,6 km (zwei Runden) oder 22,8 km (eine Runde). Separate Wertung für Zeitfahrräder und Rennräder ohne TT-Ausstattung. Veranstalter: IGAS Wendland.",
+  "distanceKm": 46
+}
