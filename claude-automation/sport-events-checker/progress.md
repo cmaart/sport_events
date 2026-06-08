@@ -1,5 +1,81 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-08 (Session 22)
+
+## Current state (after Session 22):
+- **Total events: 1013** (1001 from Session 21 + 13 new − 1 duplicate removed)
+- Build: 0 errors, 0 warnings
+- Latest push: commit a0deca5 to master
+
+## Changes made this session (Session 22):
+
+### New events added (13):
+- `aquathlon-fuerstenfeld-2026` — AT/Steiermark, Aquathlon, Jul 5 (ÖTRV confirmed)
+- `albstadt-bike-marathon-2026` — DE/BW, Radmarathon, Jul 11 (30th UCI MTB, 2500 starters)
+- `ebm-united-erzgebirgs-bike-marathon-2026` — DE/Sachsen, Radmarathon, Aug 1-2, Seiffen (34th, 1000+ starters)
+- `eroica-germania-2026` — DE/Hessen, Gran Fondo, Aug 22, Eltville/Rheingau (vintage steel bikes)
+- `kampenkoenig-2026` — DE/Bayern, Berg, Jul 16, Bernau am Chiemsee (~6 km/610 Hm hillclimb)
+- `alb-gold-trophy-2026` — DE/BW, Radmarathon, Sep 26, Trochtelfingen (30th MTB marathon, 90/60/30 km)
+- `lautertal-bikemarathon-2026` — DE/BW, Radmarathon, Oct 11, Spiegelberg (19th, 83/55/28 km MTB)
+- `drei-talsperren-marathon-2026` — DE/Sachsen, Radmarathon, Sep 19, Eibenstock (31st, 97 km/1140 Hm)
+- `wendelsteinrundfahrt-2026` — DE/Bayern, Radmarathon, Aug 22, Au/Bad Feilnbach (4 routes up to 205 km)
+- `albstadt-mtb-classic-2026` — DE/BW, Rundstreckenrennen, Sep 25-27 (legendary Bullentäle XCO course)
+- `styroica-2026` — AT/Steiermark, Gran Fondo, Sep 5, Fehring (vintage steel, 50-200 km)
+- `ironbike-ischgl-2026` — AT/Tirol, Radmarathon, Aug 7-8 (31st, extreme MTB 82 km/3350 Hm)
+- `mosttour-kuerrberg-2026` — AT/NÖ, Radmarathon+Zeitfahren, Jun 12-14, Kürnberg/St. Peter in der Au
+
+### Duplicates removed (1):
+- `kallmunzer-sparkassen-triathlon-2026` — duplicate of `kallmuenzer-triathlon-2026` (the latter is more complete)
+
+### imageUrl additions (9):
+- `eisenbahnerzeitfahren-weichstetten`: race TT photo (800×531, esv-linz.net)
+- `riverthlon-waidhofen`: 2026 event graphic (1200×849)
+- `runswimrepeat-oberursel`: gallery race photo (1800×1200)
+- `slovakman-226-piestany`: course photo (1920×1280)
+- `reither-kogel-trophy`: mountain scenery (1164×644)
+- `elbspitze-dresden`: 2025 peloton race photo (1400×933)
+- `zeitfahr-cup-seibersdorf-22`: TT race photo (1024×678)
+- `zeitfahr-cup-seibersdorf-44`: same TT race photo (1024×678)
+- `styroica-2026`: vintage cyclist on Styrian hills (professional photo)
+- `ironbike-ischgl-2026`: 2026 key visual MTB hero image (515 KB)
+- `eroica-germania-2026`: Rhine valley panorama with vintage cyclists (1920×1080)
+- `alb-gold-trophy-2026`: MTB in terrain action shot
+- `lautertal-bikemarathon-2026`: 2024 race photo (1024×683)
+- `ebm-united-erzgebirgs-bike-marathon-2026`: race with smoke flare (2000×700 panoramic)
+- `mosttour-kuerrberg-2026`: 2026 event graphic (1200×885)
+
+### Data fixes:
+- `kallmuenzer-triathlon-2026`: renamed to full "Sparkassen" title
+- `fuenf-seen-rundfahrt-diessen-2026`: corrected websiteUrl (/team/ → root)
+
+### CLAUDE.md updates:
+- Added IRONMAN 70.3 Wiesbaden to cancelled list (discontinued since Sep 2016)
+- Added IRONMAN Haugesund to cancelled list (70.3 → full since 2018, both formats now defunct)
+
+### Confirmed still missing imageUrls (blocked/inaccessible):
+la-purito-andorra (JS SPA), gravel-epic-switzerland (503), sugar-gravel-stuttgart (Jimdo blocked),
+thueringer-gravel-night (Instagram only), sudkarntner-triathlon (403), bops-gravel-bad-salzdetfurth (logo only),
+cross-triathlon-karlstadt (503), niedensteiner-volkstriathlon (JS lazy-load), giro-stormarn (Jimdo 403),
+loewensteiner-berge-radmarathon (too small), backwaterman-ottenstein (Jimdo 403),
+rodltal-bergkaiser (only flyer 600×400), wendland-chrono (no cycling image), albstadt-bike-marathon (Jimdo CDN blocked)
+
+### Research findings:
+- ÖTRV Austrian triathlon Jul-Oct 2026: all covered; no new events found
+- German triathlon DTU Jul-Sep 2026: database fully covers all major events
+- IRONMAN/Challenge Europe: database comprehensive; IRONMAN 70.3 Wiesbaden (dead domain) and Haugesund confirmed cancelled
+- German cycling radmarathon.at: found 8 new events; EBM United and 4 major ones added
+- Austrian cycling radmarathon.at (129 events): found Styroica, Mosttour, Ironbike Ischgl as missing
+
+### Sources verified complete this session:
+- ÖTRV Austrian triathlon calendar Jul-Oct 2026 ✓
+- DTU German triathlon calendar Jul-Sep 2026 ✓  
+- IRONMAN European calendar ✓ (comprehensive)
+- Challenge Family European calendar ✓ (comprehensive)
+- radmarathon.at German July-December ✓ (partially; ~40+ events verified in DB)
+- radmarathon.at Austrian 2026 ✓ (129 events checked, most already in DB)
+
+---
+
 ## Session date: 2026-06-08 (Session 21)
 
 ## Current state (after Session 21):
