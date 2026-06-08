@@ -1,0 +1,22 @@
+{
+  "id": "fanningberg-einzelzeitfahren-2026",
+  "name": "Fanningberg Einzelzeitfahren",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mariapfarr",
+    "lat": 47.149,
+    "lng": 13.747,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.rc-tamsweg.at/bergzeitfahren-fanningberg/",
+  "imageUrl": "https://media04.meinbezirk.at/article/2026/06/05/1/51083571_L.webp",
+  "description": "Bergzeitfahren auf den Fanningberg im Salzburger Lungau: 3,9 km / 350 Hm vom Feriendorf Edelweiß in Fanning hinauf zum Skigebiet Fanningberg. Start ab 17:30 Uhr, Einzelstart-Modus. Kategorien Rennrad und E-Bike. Veranstalter: RC ASVÖ Tamsweg.",
+  "distanceKm": 4,
+  "elevationGainM": 350
+}

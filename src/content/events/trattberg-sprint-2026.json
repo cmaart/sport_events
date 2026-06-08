@@ -1,0 +1,20 @@
+{
+  "id": "trattberg-sprint-2026",
+  "name": "Trattberg-Sprint",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Koloman",
+    "lat": 47.693,
+    "lng": 13.202,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.rc-arboe-hallein.at/trattberg-sprint/",
+  "description": "Trattberg-Sprint im Tennengau (Salzburg): Bergzeitfahren auf die Trattberg Panoramastraße hinauf zur Enzianhütte. Keine Straßensperrung (kein Rennen, sondern Rad-Touristikveranstaltung), E-Bikes nicht zugelassen. Veranstalter: RC ARBÖ Hallein.",
+  "elevationGainM": 375
+}
