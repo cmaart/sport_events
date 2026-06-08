@@ -1,0 +1,18 @@
+{
+  "id": "tri-im-trog-hohenwarthe-2026",
+  "name": "2. Tri im Trog",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hohenwarthe (Wasserstraßenkreuz Magdeburg)",
+    "lat": 52.2056,
+    "lng": 11.7219,
+    "region": "Sachsen-Anhalt"
+  },
+  "description": "2. Tri im Trog an der Trogbrücke des Wasserstraßenkreuzes Magdeburg – einzigartiger Triathlon auf dem berühmten Kanalviadukt, wo der Mittellandkanal auf einer Trogbrücke über die Elbe führt. Schwimmen im Trog, Radfahren und Laufen rund um das technische Weltwunder bei Hohenwarthe. Veranstalter: Riemer MTC. Sachsen-Anhalt-Landesmeisterschaft."
+}
