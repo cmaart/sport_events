@@ -2,24 +2,19 @@
   "id": "moehnesee-triathlon-2026",
   "name": "Möhnesee Triathlon",
   "sport": "triathlon",
-  "categories": [
-    "Mitteldistanz",
-    "Olympische Distanz",
-    "Sprintdistanz"
-  ],
+  "categories": ["Sprintdistanz", "Olympische Distanz"],
   "country": "DE",
   "dates": {
     "start": "2026-07-18",
     "confirmed": true
   },
   "location": {
-    "name": "Möhnesee – Seepark Körbecke",
-    "lat": 51.496,
-    "lng": 8.131,
+    "name": "Möhnesee",
+    "lat": 51.4854,
+    "lng": 8.2088,
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://moehnesee-triathlon.de/",
-  "description": "Möhnesee Triathlon im Seepark Körbecke (NRW): Grand Prix Mitteldistanz 2,0 km / 70 km / 15 km, Olympische Distanz 1,5 km / 40 km / 10 km sowie Sprint 0,5 km / 20 km / 5 km. Populäre Mehrdistanz-Veranstaltung am Möhnesee im Sauerland; alle Distanzen bereits ausgebucht.",
-  "distanceKm": 87,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-darnsberg/bhtc-moehnesee-triathlon/at2dnu1lt39lswahwffy"
+  "description": "Möhnesee Triathlon am Möhnesee-Staudamm im Sauerland (NRW). Vier Wertungen: Volkstriathlon (0,5/20/5 km), Staffel, Olympische Distanz (1,5/40/10 km) und Grand Prix (2,0/70/15 km). Seit Jahren ausgebucht (932 Startplätze), offizieller NW-Triathlon-Verbandskalender. Veranstalter: AUOMSC Möhnesee.",
+  "distanceKm": 56
 }
