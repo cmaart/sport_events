@@ -1,0 +1,21 @@
+{
+  "id": "gravel-epic-switzerland-champex-2026",
+  "name": "Gravel Epic Switzerland",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-23",
+    "end": "2026-09-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Champex-Lac",
+    "lat": 45.9836,
+    "lng": 7.1285
+  },
+  "websiteUrl": "https://www.gravelepic.com/epic-switzerland",
+  "description": "Gravel Epic Switzerland – Zweitägiges Gravel-Rennen in den Walliser Alpen rund um Champex-Lac. Long Route: 108 km / 3.800 Hm; Short Route: 63 km / 2.080 Hm. Nur die Anstiege werden gezähtet; Zeitnahme mit Rally-Wertung. Alpine Kulisse zwischen Val Ferret, Grandes Jorasses und Mont Blanc.",
+  "distanceKm": 108,
+  "elevationGainM": 3800
+}

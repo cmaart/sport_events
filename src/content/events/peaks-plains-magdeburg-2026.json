@@ -1,0 +1,22 @@
+{
+  "id": "peaks-plains-magdeburg-2026",
+  "name": "Peaks & Plains",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-05-29",
+    "end": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Magdeburg",
+    "lat": 52.1205,
+    "lng": 11.6276,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://my.raceresult.com/363843/",
+  "description": "Peaks & Plains – Ultracycling-Challenge von Magdeburg durch den Harz und zurück in die Magdeburger Börde: 555 km / 7.300 Hm in max. 48 Stunden. Unsupported, solo oder als 2er-Team, max. 100 Startplätze. Strecke traversiert Harz-Gipfel und flache Börde-Ebene als charakteristischer Kontrast.",
+  "distanceKm": 555,
+  "elevationGainM": 7300
+}

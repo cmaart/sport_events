@@ -1,0 +1,19 @@
+{
+  "id": "gravel-festival-bern-2026",
+  "name": "Gravel Festival Bern",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-10-17",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Bern",
+    "lat": 46.9480,
+    "lng": 7.4474
+  },
+  "websiteUrl": "https://ridegravel.ch/bern/",
+  "description": "Gravel Festival Bern – Grösstes Schweizer Gravel-Event für Erwachsene, Kinder und Familien im Bremgartenwald. Race- und Ride-Format auf 25 km (ausschliesslich Bremgartenwald) oder 50 km (mit Frauenkappelen/Mühleberg). Dazu Family Ride und Kids Cross. Veranstalter: RideGravel.ch seit 2018.",
+  "distanceKm": 50
+}
