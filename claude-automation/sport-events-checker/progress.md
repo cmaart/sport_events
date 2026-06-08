@@ -1,11 +1,67 @@
 # Sport Events Checker – Session Progress
 
-## Session date: 2026-06-08 (Session 20)
+## Session date: 2026-06-08 (Session 21)
 
-## Current state (after Session 20):
-- **Total events: 987** (982 from previous + 2 new - 5 duplicates + backwaterman/riverthlon = 987)
-- Build: 1034 pages, 0 errors
-- Latest push: commit 834bb9d to master
+## Current state (after Session 21):
+- **Total events: 990** (987 from Session 20 + 3 new events)
+- Build: 1036+ pages, 0 errors
+- Latest push: commit 9114839 to master
+
+## Changes made this session (Session 21):
+
+### New events added (3):
+- `dirndltal-race-frankenfels-2026` — AT/NÖ, Gravel, Sep 12, Frankenfels (MTB/Gravel 20/40/73km)
+- `backyard-gravel-camp-carinthia-2026` — AT/Kärnten, Gravel, Sep 18-20, Rosegg (camping gravel adventure 200-325km)
+- `unterberg-duathlon-koessen-2026` — AT/Tirol, Duathlon, Jul 11, Kössen (mountain cross-duathlon 5.4km MTB + 3.4km run)
+
+### Duplicates removed (1):
+- `xterra-austria-bad-aussee-2026` (duplicate of `xterra-austria-2026`)
+
+### imageUrl additions (9):
+- `starlim-city-triathlon-festiwels-2026`: race winner at finish line (2048×1365)
+- `tour-des-stations-verbier-2026`: solo climber in Alps (1500×1000 webp)
+- `peaks-plains-magdeburg-2026`: Harz landscape hero (3840×2560)
+- `gravel-festival-bern-2026`: gravel race in autumn forest (2560×1707)
+- `aurora-gravel-rally-neuchatel-2026`: gallery race photo (2880×1920)
+- `triathlon-niederbayern-2026`: event thumbnail (1200×630 webp)
+- `hageland-classic-2026`: event banner (1500×844)
+- `kraigerseetriathlon-launsdorf-2026`: upgraded to bike course action shot (2400×1505)
+- `unterberg-duathlon-koessen-2026`: kaiserwinkl.com event photo
+
+### imageUrl upgrades (1):
+- `kraigerseetriathlon-launsdorf-2026`: replaced youth podium photo with bike course action shot (2400×1505)
+
+### Data fixes:
+- `reither-kogel-trophy-2026`: date corrected Jun 14 → Jun 15 (historical Sunday pattern; still `confirmed: false`)
+- `xterra-austria-2026`: description updated to mention ÖM Crosstriathlon Championship 2026
+
+### Events still without imageUrl (25 → now ~20 upcoming ones, all confirmed blocked):
+Cross Triathlon Karlstadt (ECONNREFUSED), Sugar Gravel Stuttgart (ECONNREFUSED),
+Möhnesee Triathlon (no suitable image), Fünf-Seen-Rundfahrt Dießen (ECONNREFUSED),
+Löwensteiner Berge (ECONNREFUSED), Giro Stormarn (ECONNREFUSED),
+Thüringer Gravel Night (ECONNREFUSED), Taunus-Vogelsberg (ECONNREFUSED),
+BOPs Gravel Bad Salzdetfurth (not yet tried), Backwaterman Ottenstein (new),
+Riverthlon Waidhofen (new), Dirndltal Race (new), Backyard Gravel Carinthia (new),
+Slovakman (uncertain image from different event), Ukmergė Gran Fondo (not yet tried),
+Elektrėnai Gran Fondo (not yet tried), Tri im Trog (ECONNREFUSED),
+BM Cross Duathlon Deining (ECONNREFUSED), Niedensteiner Volkstriathlon (past, no image),
+Reither Kogel (ECONNREFUSED), RunSwimRepeat Oberursel (branding backdrop only),
+Gravel Primavera Borgå (past), Granfondo Amsterdam (DNS), Gravel Epic Switzerland (503)
+
+### Research findings:
+- Austrian/German cycling events Jul-Oct: all major events already in DB (Ötztaler, Kitzbühel Radmarathon, Wachau, Salzkammergut Trophy all confirmed)
+- ÖTRV triathlon calendar Jul-Sep: complete coverage confirmed (all 26 AT events verified)
+- Powerman Duathlon Series: additional past events found (Alsdorf Apr 12, Trier Mar 1, Halle Apr 25-26, Maissau Apr 25) — not added (past events)
+- Cross-Duathlon Bad Aussee: actually = XTERRA Austria (Crosstriathlon at same venue); already in DB
+- Banyoles Multisport Championships: Jul 11-19, covers Cross Duathlon Championship (Jul 16); already in DB
+
+### Sources confirmed complete (Session 21):
+- ÖTRV 2026 calendar Jul-Sep: verified complete
+- German/Austrian cycling events Jul-Oct: verified comprehensive (all major events present)
+
+---
+
+## Session date: 2026-06-08 (Session 20)
 
 ## Changes made this session (Session 20):
 
