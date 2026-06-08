@@ -17,5 +17,6 @@
   "websiteUrl": "https://www.radtreff.tirol/reither-kogel-trophy/",
   "description": "Bergzeitfahren auf den Reither Kogel im malerischen Alpbachtal (Tirol): 6,4 km Anstieg mit 560 Höhenmetern im Einzelstart-Modus (30-Sekunden-Intervalle). Start im Dorfzentrum Reith im Alpbachtal. Sechs Wertungsklassen (U35/U50/Ü50 Damen und Herren), Mannschafts- und Mixed-Wertung. Max. 400 Starter – Anmeldung erforderlich.",
   "distanceKm": 6,
-  "elevationGainM": 560
+  "elevationGainM": 560,
+  "imageUrl": "https://www.radtreff.tirol/wp-content/uploads/imagevideo-shootandstyle-placeholder.jpg"
 }
