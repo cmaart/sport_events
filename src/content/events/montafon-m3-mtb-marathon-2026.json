@@ -1,0 +1,20 @@
+{
+  "id": "montafon-m3-mtb-marathon-2026",
+  "name": "M³ Montafon Mountainbike Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schruns",
+    "lat": 47.0793,
+    "lng": 9.9213,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.montafon.at/m3/",
+  "description": "M³ Montafon Mountainbike Marathon in Schruns (Vorarlberg): MTB-Rennen durch das Montafon-Tal mit verschiedenen Streckenvarianten inkl. E-MTB-Bergbaurunde. Alpine Kulisse zwischen Silvretta und Rätikon. Eines der bekanntesten MTB-Rennen in Vorarlberg.",
+  "imageUrl": "https://montafon.at/montafon/bilder/events/m3/86111/image-thumb__86111__headerImageFrontpage/m3-titelfoto-sportograf%20%281%29.1d73a5c5.jpg"
+}

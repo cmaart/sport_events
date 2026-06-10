@@ -1,0 +1,22 @@
+{
+  "id": "mostviertler-bike-marathon-2026",
+  "name": "28. Mostviertler Bike Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mank",
+    "lat": 48.1126,
+    "lng": 15.3355,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "http://www.gsuf.at",
+  "description": "28. Mostviertler Bike Marathon in Mank (Niederösterreich): gleichzeitig Österreichische Staatsmeisterschaft im MTB-Marathon 2026. Start in Mank, Ziel in Großaigen. Drei Distanzen: Classic 78 km/2.700 Hm, Small 41 km/1.100 Hm und Fun 25 km/680 Hm durch das hügelige Mostviertel. Veranstalter: G.S.U.F.",
+  "distanceKm": 78,
+  "elevationGainM": 2700,
+  "imageUrl": "https://www.radmarathon.at/gallery/event_pics/411_2025_09_19_14_18_50.jpg"
+}

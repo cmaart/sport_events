@@ -1,0 +1,21 @@
+{
+  "id": "ars-natura-mtb-marathon-2026",
+  "name": "Ars Natura MTB Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Morschen-Neumorschen",
+    "lat": 51.1637,
+    "lng": 9.7364,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.tsv-neumorschen.de/radsport/ars-natura-mtb-marathon/",
+  "description": "Ars Natura MTB Marathon in Neumorschen (Nordhessen): Teil der Nutrixxion-MTB-Trophy-Serie. Drei Strecken – 35 km, 70 km und 105 km – durch die Fuldatal-Mittelgebirgslandschaft. Ausfahrt für alle Könnensklassen auf naturnahen Forstwegen der hessischen Mittelgebirge.",
+  "distanceKm": 105,
+  "imageUrl": "https://www.tsv-neumorschen.de/s/img/emotionheader23259233.JPG"
+}

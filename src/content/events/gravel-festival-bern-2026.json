@@ -6,7 +6,7 @@
   "country": "CH",
   "dates": {
     "start": "2026-10-17",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Bern",

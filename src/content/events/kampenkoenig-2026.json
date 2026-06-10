@@ -17,5 +17,6 @@
   "websiteUrl": "https://rfv-prien.de/aktivitaeten/kampenkoenig/",
   "description": "Bergrennen auf den Kampenwand-Massiv: ca. 6 km / 610 Hm vom Wanderparkplatz Hintergschwendt hinauf zur Steinlingalm im Chiemgau. Limitiert auf ca. 100 Teilnehmer. Veranstalter: RFV 1893 Prien e.V.",
   "distanceKm": 6,
-  "elevationGainM": 610
+  "elevationGainM": 610,
+  "imageUrl": "https://rfv-prien.de/wp-content/uploads/2023/07/Kampenwandblick-750x406.jpg"
 }

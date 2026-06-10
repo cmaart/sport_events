@@ -17,5 +17,6 @@
   "websiteUrl": "https://www.wendelsteinrundfahrt.de/",
   "description": "Wendelsteinrundfahrt im Chiemgau/Inntal (Bayern): vier Strecken – Familienstrecke 50 km/625 Hm, Strecke B 120 km/1.700 Hm, Strecke A 165 km/2.230 Hm und Marathon ~205 km/3.050 Hm. Die genaue Route wird erst eine Woche vor dem Event veröffentlicht. Veranstalter: Ski-Club Au e.V.",
   "distanceKm": 205,
-  "elevationGainM": 3050
+  "elevationGainM": 3050,
+  "imageUrl": "https://www.wendelsteinrundfahrt.de/fileadmin/daten-wrf/WRF_Bilder_2025/Enge_Auswahl/Wendelsteinrundfahrt_2025-55.jpg"
 }
