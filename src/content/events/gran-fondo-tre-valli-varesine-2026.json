@@ -1,0 +1,25 @@
+{
+  "id": "gran-fondo-tre-valli-varesine-2026",
+  "name": "10° Gran Fondo Tre Valli Varesine",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Zeitfahren"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-10-03",
+    "end": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Varese",
+    "lat": 45.8206,
+    "lng": 8.8257
+  },
+  "websiteUrl": "https://trevallivaresine.info/en/gran-fondo-tre-valli-varesine-uci-world-series/",
+  "description": "10° Gran Fondo Tre Valli Varesine als UCI Gran Fondo World Series Qualifikation in Varese (Lombardei). Samstag: Einzelzeitfahren (22 km / 175 Hm); Sonntag: Gran Fondo (130 km / 1.993 Hm) oder Medio Fondo (100 km / 1.447 Hm). Gesamtsperrung der Straßen; Veranstaltungsort der Weltmeisterschaften 2018. Qualifikationslauf für die UCI Granfondo-WM 2027.",
+  "distanceKm": 130,
+  "elevationGainM": 1993,
+  "imageUrl": "https://trevallivaresine.info/wp-content/uploads/2024/11/Box-blu_tre-Valli_2026.jpg"
+}
