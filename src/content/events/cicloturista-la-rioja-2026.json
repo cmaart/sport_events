@@ -18,5 +18,6 @@
   "websiteUrl": "https://cicloturismolarioja.com/",
   "description": "IX Cicloturista La Rioja – Gran Fondo durch die Weinberge und Bodegas-Landschaft der Rioja: 126 km mit 1.222 Höhenmetern, Start und Ziel in Logroño. Drei Verpflegungsstationen; sportives Erlebnis inmitten der bekanntesten Weinbauregion Spaniens.",
   "distanceKm": 126,
-  "elevationGainM": 1222
+  "elevationGainM": 1222,
+  "imageUrl": "https://cicloturismolarioja.com/img/Poster%20IX%20Cicloturista%20a%20la%20rioja.jpg"
 }
