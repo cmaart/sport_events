@@ -1,0 +1,23 @@
+{
+  "id": "timisoara-triathlon-2026",
+  "name": "Timișoara Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Timișoara",
+    "lat": 45.7597,
+    "lng": 21.23
+  },
+  "websiteUrl": "https://timisoaratriathlon.ro/en/",
+  "description": "Timișoara Triathlon (5. Ausgabe) – der einzige Stadttriathlon Rumäniens, der vollständig im Stadtzentrum stattfindet: Schwimmen im Flussbett der Bega, Rad auf gesperrten Stadtboulevards, Laufen durch die Parkalleen der Innenstadt. Halbdistanz (1,9 km / 90 km / 22 km), Olympische Distanz, Sprint und Supersprint an einem Wochenende."
+}
