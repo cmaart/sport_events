@@ -1,0 +1,21 @@
+{
+  "id": "krakonosov-cyklomaraton-trutnov-2026",
+  "name": "Krakonošův cyklomaraton",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trutnov",
+    "lat": 50.5607,
+    "lng": 15.9088
+  },
+  "websiteUrl": "https://krakonosuvcyklomaraton.cz/",
+  "description": "Krakonošův cyklomaraton – 13. Ausgabe des Riesengebirgs-Radmarathons mit Start und Ziel am UFFO-Kulturzentrum in Trutnov (Trautenau): Lange Strecke ca. 148 km und kurze ca. 101 km durch das östliche Riesengebirge und auf die polnisch-tschechische Bergkamm-Route. Fanzone in Pec pod Sněžkou.",
+  "distanceKm": 148
+}

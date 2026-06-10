@@ -1,0 +1,20 @@
+{
+  "id": "bike-maraton-jelenia-gora-2026",
+  "name": "Bike Maraton Jelenia Góra",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "PL",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jelenia Góra",
+    "lat": 50.9046,
+    "lng": 15.7216
+  },
+  "websiteUrl": "https://bikemaraton.com.pl/jelenia-gora/",
+  "description": "Bike Maraton Jelenia Góra – Saisonfinale der Bike Maraton Series 2026 im Riesengebirge (Karkonosze): MTB-Radmarathon rund um Hirschberg/Jelenia Góra mit mehreren Distanzen durch das polnisch-tschechische Grenzgebirge. Streckendetails werden vom Veranstalter noch bekanntgegeben."
+}
