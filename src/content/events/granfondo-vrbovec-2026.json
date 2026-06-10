@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-vrbovec-2026",
+  "name": "Granfondo Vrbovec",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-05-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vrbovec",
+    "lat": 45.8778,
+    "lng": 16.4266
+  },
+  "websiteUrl": "https://www.utrka.com/utrke/biciklivrbovec/2026/info/",
+  "description": "Granfondo Vrbovec (3. Auflage) führt 98 km (974 Hm) durch das hügelige Prigorje östlich von Zagreb mit Start und Ziel am Trg Petra Zrinskog im Stadtzentrum. Zusätzlich steht ein Medio Fondo über 61 km (621 Hm) zur Wahl. Kein Lizenznachweis erforderlich; alle Finisher erhalten eine Medaille.",
+  "distanceKm": 98,
+  "elevationGainM": 974
+}
