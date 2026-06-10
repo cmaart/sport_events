@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.lelexpaysdegexcyclo.com/",
   "description": "Lélex Pays de Gex Cyclo – 5. Auflage der Cyclosportive in den Monts Jura an der Schweizer Grenze: 130 km / 2.495 Hm oder 75 km / 1.320 Hm über Côte de Lajoux, Côte de Giron und Col de Menthières mit Panoramablick auf Alpen und Mont-Blanc. Reguläre Etappenstraßen des Tour de l'Ain.",
   "distanceKm": 130,
-  "elevationGainM": 2495
+  "elevationGainM": 2495,
+  "imageUrl": "https://static.wixstatic.com/media/3946d8_538aa8e382164cca94aab2e8247d9997~mv2.jpg"
 }
