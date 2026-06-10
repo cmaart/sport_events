@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://bikeservice.pt/en/event/ourem-fatima-granfondo/",
   "description": "Ourém Fátima Granfondo in Ourém (Centro-Portugal): Granfondo (137 km), Mediofondo (101 km) und Minifondo (68 km) durch das Hügelland rund um die Pilgerstadt Fátima. Max. 1.500 Teilnehmer. Veranstalter: BikeService.",
-  "distanceKm": 137
+  "distanceKm": 137,
+  "imageUrl": "https://cdn-images.bikeservice.pt/pc_Amarante_GF_100_de842ad808.jpg"
 }

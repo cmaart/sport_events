@@ -1,0 +1,22 @@
+{
+  "id": "letape-bulgaria-2026",
+  "name": "L'Étape Bulgaria by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BG",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peshtera",
+    "lat": 42.0319,
+    "lng": 24.2983
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape Bulgaria by Tour de France – dritte Ausgabe des UCI-Jedermann-Rennens in den westlichen Rhodopen rund um Peschtera: The Race (112 km / ca. 2.140 Hm) und The Ride (58 km / ca. 1.090 Hm) über die charakteristischen Bergpässe des bulgarischen Mittelgebirges. Teil der offiziellen Tour-de-France-Streckenreihe L'Étape Series.",
+  "distanceKm": 112,
+  "elevationGainM": 2140
+}
