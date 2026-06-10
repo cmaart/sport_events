@@ -1,0 +1,23 @@
+{
+  "id": "rennsteig-gravel-oberhof-2026",
+  "name": "Rennsteig Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-11",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oberhof",
+    "lat": 50.6713,
+    "lng": 10.7316,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://germangravelleague.de/",
+  "description": "Rennsteig Gravel in Oberhof (Thüringen): Gravel-Mehrtagesveranstaltung am Rennsteig als Teil der German Gravel League 2026. Drei Tage mit Gravel-Biathlon (Freitag), Jedermann-Rennen (Samstag) und Gravel-Tour (Sonntag) auf dem berühmten Rennsteig-Höhenweg. Drei Klassen: PRO, AGEGROUP und OPEN. Veranstalter: gravelmania.",
+  "imageUrl": "https://www.radsport-sah.de/wp-content/uploads/2026/04/2026_German-Grave-League_Header.jpg"
+}

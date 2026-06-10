@@ -1,0 +1,23 @@
+{
+  "id": "adelsberger-bike-marathon-2026",
+  "name": "21. Adelsberger Bike Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Chemnitz",
+    "lat": 50.793,
+    "lng": 12.869,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.adelsberger-bike-marathon.de/",
+  "description": "21. Adelsberger Bike Marathon in Chemnitz-Adelsberg: MTB-Marathon rund um das Naherholungsgebiet Adelsberg südlich von Chemnitz. Drei Streckenvarianten: 8 km, 20 km und 40 km. Laufradrennen (300 m) für die jüngsten Teilnehmer sowie ABM-Duo-Wertung für Zweierteams. Teil des MTB Sachsen Cup.",
+  "distanceKm": 40,
+  "imageUrl": "https://www.adelsberger-bike-marathon.de/wp-content/uploads/2026/02/ABM_Anmeldungstart-890x664.jpg"
+}

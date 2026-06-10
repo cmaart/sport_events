@@ -1,0 +1,25 @@
+{
+  "id": "cinque-mila-marche-2026",
+  "name": "Gran Fondo 5MILA Marche",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Gravel"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-18",
+    "end": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Porto Recanati",
+    "lat": 43.4394,
+    "lng": 13.6604
+  },
+  "websiteUrl": "https://www.5milamarche.com/",
+  "description": "Gran Fondo 5MILA Marche in Porto Recanati (MC): dreitägiges Radfahrfestival als größtes Cicloturismo-Event der Marken. Drei Formate: Gran Fondo 5MILA (115 km / 1.700 Hm oder 87 km / 1.240 Hm), 5MILA Extreme (274 km Endurance) und 5MILA Gravel (69 km). Teil der Gran Fondo World Tour. Einziger italienischer GFWT-Austragungsort.",
+  "distanceKm": 115,
+  "elevationGainM": 1700,
+  "imageUrl": "https://www.quicicloturismo.it/wp-content/uploads/2025/06/5Mila-Marche.jpg"
+}

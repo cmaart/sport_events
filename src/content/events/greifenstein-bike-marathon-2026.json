@@ -1,0 +1,21 @@
+{
+  "id": "greifenstein-bike-marathon-2026",
+  "name": "26. Greifenstein Bike-Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Geyer",
+    "lat": 50.607,
+    "lng": 12.893,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://der-sportmacher.de/",
+  "description": "26. Greifenstein Bike-Marathon in Geyer im Erzgebirge: MTB-Marathon auf dem 23-km-Rundkurs rund ums Greifensteinmassiv, wählbar als 1-, 2- oder 3-Runden-Variante (23, 46 oder 69 km). Teil des MTB Sachsen Cup. Start in Geyer, mit Kategorien für Kinder (U5–U17), Erwachsene und E-Bike-Fahrer."
+}

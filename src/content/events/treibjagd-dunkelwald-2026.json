@@ -1,0 +1,25 @@
+{
+  "id": "treibjagd-dunkelwald-2026",
+  "name": "Treibjagd im Dunkelwald",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen",
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-23",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Breitenbrunn (Erzgebirge)",
+    "lat": 50.4878,
+    "lng": 12.6662,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.mtb-dunkelwald.de/",
+  "description": "Treibjagd im Dunkelwald: viertägiges MTB-Etappenrennen im Erzgebirge rund um das TrailCenter Rabenberg (Breitenbrunn) und Johanngeorgenstadt. Vier Etappen: Prolog-Zeitfahren (5 km), MTB-Marathon, KAMM-BIKE-CROSS und Erzgebirgsradrennen. Distanzoptionen: 30 oder 60 km. Start für alle Kategorien von U15 bis Masters 4. Einziges mehrtägiges MTB-Etappenrennen Deutschlands.",
+  "distanceKm": 60,
+  "imageUrl": "https://www.mtb-dunkelwald.de/assets/images/x/Treibjagd_im_Dunkelwald_10-qj2yheq7zj1n3n4.jpg"
+}
