@@ -1,0 +1,23 @@
+{
+  "id": "balaton-gravel-derby-2026",
+  "name": "Balaton Gravel Derby",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Badacsonytomaj",
+    "lat": 46.7972,
+    "lng": 17.5358
+  },
+  "websiteUrl": "https://balatongravelderby.com/",
+  "description": "Balaton Gravel Derby in Badacsonytomaj: Gravel-Umrundung des Balatons – mit 370 km / 4.000 Hm (Challenge) oder 100 km / 1.200 Hm (Explore). Ungarns längste Gravel-Veranstaltung rund um Zentraleuropas größten See durch Weinberge, Waldwege und Seeufer.",
+  "distanceKm": 370,
+  "elevationGainM": 4000,
+  "imageUrl": "https://balatongravelderby.com/wp-content/uploads/2025/09/Balaton-Gravel-Derby-20.jpg"
+}

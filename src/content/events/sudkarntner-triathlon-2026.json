@@ -2,10 +2,11 @@
   "id": "sudkarntner-triathlon-2026",
   "name": "Südkärntner Triathlon",
   "sport": "triathlon",
-  "categories": ["Olympische Distanz", "Sprintdistanz"],
+  "categories": ["Olympische Distanz", "Mitteldistanz", "Sprintdistanz"],
   "country": "AT",
   "dates": {
     "start": "2026-09-12",
+    "end": "2026-09-13",
     "confirmed": true
   },
   "location": {
@@ -15,5 +16,6 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.suedkaerntner-triathlon.at/",
-  "description": "8. Südkärntner Triathlon am Klopeinersee in Südkärnten – Triathlon im türkisblauen Klopeinersee, dem wärmsten Badesee Österreichs. Veranstaltet in der idyllischen Seenlandschaft rund um St. Kanzian."
+  "description": "8. Südkärntner Triathlon am Klopeinersee (St. Kanzian, Südkärnten): Sa. 12.9. Fun-Triathlon und Kinder-Triathlon; So. 13.9. Olympische Distanz (1,5 km / 45 km / 10,5 km) und Halbdistanz (1,9 km / 90 km / 21 km). Schwimmen im türkisblauen Klopeinersee – Österreichs wärmstem Badesee.",
+  "imageUrl": "https://www.suedkaernten.at/fileadmin/_dc_klopein_processed_folder/7/c/csm_Suedkaernten_Triathlon_Sport_Aktiv_96d2c5f4f5.jpg"
 }

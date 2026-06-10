@@ -1,0 +1,23 @@
+{
+  "id": "lousa-granfondo-2026",
+  "name": "Lousã Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lousã",
+    "lat": 40.1124,
+    "lng": -8.2478
+  },
+  "websiteUrl": "https://cabreirasolutions.com/evento/lousa-granfondo/",
+  "description": "Lousã Granfondo in Lousã (Centro-Portugal, Serra da Lousã): Granfondo (135 km / 2.590 Hm), Mediofondo (97 km / 1.780 Hm) und Minifondo (70 km / 782 Hm) durch Bergwälder und Schieferdörfer der Serra da Lousã. Veranstalter: Cabreira Solutions.",
+  "distanceKm": 135,
+  "elevationGainM": 2590,
+  "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/03/lousa-granfondo.png"
+}

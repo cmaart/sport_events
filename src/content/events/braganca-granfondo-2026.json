@@ -1,0 +1,23 @@
+{
+  "id": "braganca-granfondo-2026",
+  "name": "Bragança Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bragança",
+    "lat": 41.8061,
+    "lng": -6.7588
+  },
+  "websiteUrl": "https://bikeservice.pt/en/event/braganca-granfondo/",
+  "description": "8. Bragança Granfondo in Bragança (Nordostportugal / Trás-os-Montes): Drei Distanzen (123 km / 88 km / 49 km) durch die wilde Berglandschaft des Nordostens nahe der spanischen Grenze. Veranstalter: BikeService.",
+  "distanceKm": 123,
+  "elevationGainM": 2187,
+  "imageUrl": "https://cdn-images.bikeservice.pt/Braganca_GF_2x_15731e02ba.png"
+}

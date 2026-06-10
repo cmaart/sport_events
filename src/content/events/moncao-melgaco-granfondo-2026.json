@@ -1,0 +1,23 @@
+{
+  "id": "moncao-melgaco-granfondo-2026",
+  "name": "Monção e Melgaço Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Monção",
+    "lat": 42.0748,
+    "lng": -8.4768
+  },
+  "websiteUrl": "https://bikeservice.pt/en/event/moncao-e-melgaco-granfondo/",
+  "description": "Monção e Melgaço Granfondo in Monção (Nordportugal, Minho-Grenzregion): 130 km / 2.560 Hm (Granfondo), 96 km / 1.560 Hm (Mediofondo) oder 73 km / 1.050 Hm (Minifondo) durch das Alvarinho-Weinland an der spanischen Grenze. Veranstalter: BikeService.",
+  "distanceKm": 130,
+  "elevationGainM": 2560,
+  "imageUrl": "https://cdn-images.bikeservice.pt/MMGF_2x_1eae5a17a3.png"
+}

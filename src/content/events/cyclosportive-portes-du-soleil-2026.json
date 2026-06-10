@@ -17,5 +17,6 @@
   "websiteUrl": "https://cyclosportive-portesdusoleil.com/en/",
   "description": "Cyclosportive des Portes du Soleil in Champéry (Wallis): Samstag Gravel-Distanz (54 km/1.810 Hm), Sonntag Straße in Kurz (69 km/1.630 Hm) oder Lang (138 km/2.535 Hm) durch die grenzüberschreitenden Portes du Soleil-Alpen an der Schweizer-Französischen Grenze. Ca. 1.000 Teilnehmer.",
   "distanceKm": 138,
-  "elevationGainM": 2535
+  "elevationGainM": 2535,
+  "imageUrl": "https://api.cloudly.space/resize/clip/1200/760/75/aHR0cHM6Ly9zdGF0aWMuYXBpZGFlLXRvdXJpc21lLmNvbS9maWxlc3RvcmUvb2JqZXRzLXRvdXJpc3RpcXVlcy9pbWFnZXMvMTg3LzEwMS8zNjc5MTczOS5qcGc=/image.jpg"
 }

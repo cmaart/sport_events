@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-tavira-2026",
+  "name": "Granfondo Tavira",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tavira",
+    "lat": 37.1245,
+    "lng": -7.6504
+  },
+  "websiteUrl": "https://clubebiketeamtavira.com/tavira-granfondo/",
+  "description": "Granfondo Tavira an der östlichen Algarve-Küste: Granfondo (132 km), Mediofondo (92 km) und Minifondo (54 km) durch die Hügel und Küstenlandschaft der Algarve rund um Tavira. Veranstalter: Clube Bike Team Tavira.",
+  "distanceKm": 132,
+  "imageUrl": "https://stopandgo.com.pt/files/tavira-granfondo-2026/69bb369248260_484853132_1068636998636047_530074880686103691_n.jpg"
+}

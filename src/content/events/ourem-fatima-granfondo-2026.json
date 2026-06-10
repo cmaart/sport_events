@@ -1,0 +1,21 @@
+{
+  "id": "ourem-fatima-granfondo-2026",
+  "name": "Ourém Fátima Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-10-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ourém",
+    "lat": 39.6567,
+    "lng": -8.5796
+  },
+  "websiteUrl": "https://bikeservice.pt/en/event/ourem-fatima-granfondo/",
+  "description": "Ourém Fátima Granfondo in Ourém (Centro-Portugal): Granfondo (137 km), Mediofondo (101 km) und Minifondo (68 km) durch das Hügelland rund um die Pilgerstadt Fátima. Max. 1.500 Teilnehmer. Veranstalter: BikeService.",
+  "distanceKm": 137
+}
