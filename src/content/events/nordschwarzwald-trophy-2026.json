@@ -1,0 +1,23 @@
+{
+  "id": "nordschwarzwald-trophy-2026",
+  "name": "9. Nordschwarzwald Trophy",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-31",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schömberg",
+    "lat": 48.7778,
+    "lng": 8.7478,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/",
+  "description": "Nordschwarzwald Trophy in Schömberg (Baden-Württemberg): dreitägiges MTB-Marathonevent mit Einzeletappen durch den Nordschwarzwald. Verschiedene Distanzen und Schwierigkeitsgrade für Hobbyfahrer und ambitionierte Sportler. Veranstalter: Eventservice Stahl.",
+  "distanceKm": 69,
+  "elevationGainM": 2100,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=990x10000:format=jpg/path/s8477a5a2c1adcd9d/image/icb5638e22a6e6996/version/1762860181/image.jpg"
+}
