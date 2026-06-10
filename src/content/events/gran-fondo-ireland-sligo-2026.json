@@ -1,0 +1,25 @@
+{
+  "id": "gran-fondo-ireland-sligo-2026",
+  "name": "UCI Gran Fondo Ireland",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Zeitfahren"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sligo",
+    "lat": 54.2697,
+    "lng": -8.4694
+  },
+  "websiteUrl": "https://ucigranfondoworldseries.com/en/sligo/",
+  "description": "UCI Gran Fondo Ireland (erstmalig in Irland) in Sligo (Connacht): Sa. Einzelzeitfahren (26 km / 56 Hm), So. Gran Fondo (153 km / 1.171 Hm) oder Medio Fondo (112 km / 807 Hm) entlang der Wild Atlantic Way-Küste und durch die Hügel der irischen Westküste. UCI Gran Fondo World Series Qualifikation.",
+  "distanceKm": 153,
+  "elevationGainM": 1171,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/irlande/connacht/sligo/uci-gran-fondo-ireland/ekqfoan8rc6ys8e1dml2"
+}
