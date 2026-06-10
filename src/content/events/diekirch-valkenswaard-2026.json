@@ -1,0 +1,21 @@
+{
+  "id": "diekirch-valkenswaard-2026",
+  "name": "Diekirch–Valkenswaard",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "LU",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Diekirch",
+    "lat": 49.8675,
+    "lng": 6.1594
+  },
+  "websiteUrl": "https://diekirch-valkenswaard.nl/",
+  "description": "Diekirch–Valkenswaard: Langstrecken-Cyclosportive über rund 255 km von Diekirch (Luxemburg) nach Valkenswaard (Niederlande), durch Teile Deutschlands, Belgiens und des niederländischen Limburg. Freizeitcharakter mit max. 450 Teilnehmern; Rücktransport per Bus nach Diekirch inbegriffen.",
+  "distanceKm": 255
+}

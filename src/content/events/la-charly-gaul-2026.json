@@ -1,0 +1,22 @@
+{
+  "id": "la-charly-gaul-2026",
+  "name": "La Charly Gaul",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LU",
+  "dates": {
+    "start": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Echternach",
+    "lat": 49.8116,
+    "lng": 6.4175
+  },
+  "websiteUrl": "https://lacharlygaul.lu/",
+  "description": "La Charly Gaul in Echternach (Luxemburg) – 36. Auflage des Gran Fondo zu Ehren von Charly Gaul, Luxemburgs legendärem Kletterkönig der 1950er Jahre: Kurs A (150 km / 2.200 Hm) und Kurs B (100 km / 1.380 Hm) durch das Müllerthal und die luxemburgischen Ardennen. Seit 1990 veranstaltet vom ACC Contern.",
+  "distanceKm": 150,
+  "elevationGainM": 2200
+}
