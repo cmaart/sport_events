@@ -1,0 +1,22 @@
+{
+  "id": "nirvana-gran-fondo-antalya-2026",
+  "name": "UCI Nirvana Gran Fondo Antalya",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "TR",
+  "dates": {
+    "start": "2026-11-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Antalya",
+    "lat": 36.8841,
+    "lng": 30.7056
+  },
+  "websiteUrl": "https://ucigranfondoworldseries.com/en/antalya/",
+  "description": "UCI Nirvana Gran Fondo Antalya – UCI Gran Fondo World Series Qualifikationsrennen an der türkischen Riviera im milden Novemberklima: Hauptstrecke 98 km / 517 Hm sowie Kurzstrecke 66 km entlang der Mittelmeerküste rund um die Hafenstadt Antalya. Ausgetragen unter dem Titel-Sponsor Nirvana Travel.",
+  "distanceKm": 98,
+  "elevationGainM": 517
+}

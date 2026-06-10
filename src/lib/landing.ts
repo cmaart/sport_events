@@ -44,6 +44,7 @@ export const COUNTRY_SLUGS: Record<Country, string> = {
   RO: 'rumaenien',
   ME: 'montenegro',
   AD: 'andorra',
+  TR: 'tuerkei',
 };
 
 export const COUNTRY_BY_SLUG: Record<string, Country> = Object.fromEntries(
