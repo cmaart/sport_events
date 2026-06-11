@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'preact/hooks';
+import { useEffect, useMemo, useState } from 'preact/hooks';
 import type { EventData } from '../../lib/filters';
 import { sortEvents } from '../../lib/filters';
 import { formatDateRange, t } from '../../lib/i18n';
@@ -13,9 +13,29 @@ interface Props {
 
 type SortKey = 'dateAsc' | 'dateDesc' | 'nameAsc';
 
+const PAGE_SIZE = 30;
+
 export default function EventList({ events, selectedId, onSelect, baseUrl }: Props) {
   const [sort, setSort] = useState<SortKey>('dateAsc');
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const sorted = useMemo(() => sortEvents(events, sort), [events, sort]);
+
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [events, sort]);
+
+  // A map-marker selection may point at a card beyond the rendered slice —
+  // grow the slice so the card exists and the explorer's scroll can find it.
+  useEffect(() => {
+    if (!selectedId) return;
+    const idx = sorted.findIndex((e) => e.slug === selectedId);
+    if (idx >= visibleCount) {
+      setVisibleCount(Math.ceil((idx + 1) / PAGE_SIZE) * PAGE_SIZE);
+    }
+  }, [selectedId, sorted, visibleCount]);
+
+  const visible = sorted.slice(0, visibleCount);
+  const remaining = sorted.length - visible.length;
 
   if (events.length === 0) {
     return (
@@ -46,7 +66,7 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
         </label>
       </div>
       <ul class="grid grid-cols-1 gap-3">
-        {sorted.map((e) => {
+        {visible.map((e) => {
           const start = new Date(e.dates.start);
           const end = e.dates.end ? new Date(e.dates.end) : undefined;
           const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
@@ -133,6 +153,18 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
           );
         })}
       </ul>
+      {remaining > 0 && (
+        <div class="mt-5 flex justify-center">
+          <button
+            type="button"
+            onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-white border border-[var(--color-ink-300)] hover:border-[var(--color-brand-500)] hover:text-[var(--color-brand-700)] font-medium text-sm shadow-sm transition"
+          >
+            {t('list.loadMore', { count: remaining })}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+          </button>
+        </div>
+      )}
     </div>
   );
 }

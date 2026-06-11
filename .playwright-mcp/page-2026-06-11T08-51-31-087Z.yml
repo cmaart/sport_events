@@ -1,0 +1,929 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "ENDURE Events" [ref=e4] [cursor=pointer]:
+        - /url: ""
+        - img "ENDURE" [ref=e5]
+        - generic [ref=e6]: Events
+      - navigation [ref=e7]:
+        - generic [ref=e8]:
+          - button "Radrennen 2026" [ref=e9]:
+            - text: Radrennen 2026
+            - img [ref=e10]
+          - list [ref=e876]:
+            - listitem [ref=e877]:
+              - link "Radrennen in Deutschland 2026" [ref=e878] [cursor=pointer]:
+                - /url: /radrennen/deutschland/2026
+                - generic [ref=e879]: 🇩🇪
+                - text: Radrennen in Deutschland 2026
+            - listitem [ref=e880]:
+              - link "Radrennen in Österreich 2026" [ref=e881] [cursor=pointer]:
+                - /url: /radrennen/oesterreich/2026
+                - generic [ref=e882]: 🇦🇹
+                - text: Radrennen in Österreich 2026
+            - listitem [ref=e883]:
+              - link "Radrennen in Italien 2026" [ref=e884] [cursor=pointer]:
+                - /url: /radrennen/italien/2026
+                - generic [ref=e885]: 🇮🇹
+                - text: Radrennen in Italien 2026
+            - listitem [ref=e886]:
+              - link "Radrennen in Frankreich 2026" [ref=e887] [cursor=pointer]:
+                - /url: /radrennen/frankreich/2026
+                - generic [ref=e888]: 🇫🇷
+                - text: Radrennen in Frankreich 2026
+            - listitem [ref=e889]:
+              - link "Radrennen in Schweiz 2026" [ref=e890] [cursor=pointer]:
+                - /url: /radrennen/schweiz/2026
+                - generic [ref=e891]: 🇨🇭
+                - text: Radrennen in Schweiz 2026
+            - listitem [ref=e892]:
+              - link "Radrennen in Spanien 2026" [ref=e893] [cursor=pointer]:
+                - /url: /radrennen/spanien/2026
+                - generic [ref=e894]: 🇪🇸
+                - text: Radrennen in Spanien 2026
+            - listitem [ref=e895]:
+              - link "Radrennen in Großbritannien 2026" [ref=e896] [cursor=pointer]:
+                - /url: /radrennen/grossbritannien/2026
+                - generic [ref=e897]: 🇬🇧
+                - text: Radrennen in Großbritannien 2026
+            - listitem [ref=e898]:
+              - link "Radrennen in Belgien 2026" [ref=e899] [cursor=pointer]:
+                - /url: /radrennen/belgien/2026
+                - generic [ref=e900]: 🇧🇪
+                - text: Radrennen in Belgien 2026
+        - button "Triathlons 2026" [ref=e13]:
+          - text: Triathlons 2026
+          - img [ref=e14]
+        - generic [ref=e16]: 1082 Events
+        - link "Mitmachen" [ref=e20] [cursor=pointer]:
+          - /url: /event-vorschlagen
+  - main [ref=e22]:
+    - generic [ref=e23]:
+      - generic:
+        - img
+        - img
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e28]: Saison 2026 · live kuratiert
+          - heading "Radrennen & Triathlons 2026 Dein Rennkalender für Europa." [level=1] [ref=e32]
+          - paragraph [ref=e33]: Amateur-Radrennen, Jedermannrennen, Radmarathons und Triathlons – von Sprintdistanz bis Ironman, von Gran Fondo bis Etappenrennen. Österreich, Deutschland und Europa auf einer Karte.
+          - generic [ref=e34]:
+            - link "Events entdecken" [ref=e35] [cursor=pointer]:
+              - /url: "#explore"
+              - text: Events entdecken
+              - img [ref=e36]
+            - link "Event vorschlagen" [ref=e38] [cursor=pointer]:
+              - /url: /event-vorschlagen
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - term [ref=e41]: Events
+            - definition [ref=e42]: "1082"
+          - generic [ref=e43]:
+            - term [ref=e44]: Radrennen
+            - definition [ref=e45]: "549"
+          - generic [ref=e46]:
+            - term [ref=e47]: Triathlons
+            - definition [ref=e48]: "533"
+    - generic [ref=e51]:
+      - complementary [ref=e52]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - heading "Filter" [level=2] [ref=e55]
+            - button "Alle zurücksetzen" [ref=e56]
+          - generic [ref=e57]:
+            - generic [ref=e58]: Suche
+            - searchbox "Name, Ort, Beschreibung…" [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e61]: Sportart
+            - generic [ref=e62]:
+              - button "Alle" [ref=e63]
+              - button "Radrennen" [ref=e64]
+              - button "Triathlon" [ref=e65]
+          - generic [ref=e66]:
+            - generic [ref=e67]: Kategorie
+            - generic [ref=e68]:
+              - button "Kriterium" [ref=e69]
+              - button "Gran Fondo" [ref=e70]
+              - button "Radmarathon" [ref=e71]
+              - button "Gravel" [ref=e72]
+              - button "Rundstreckenrennen" [ref=e73]
+              - button "Etappenrennen" [ref=e74]
+              - button "Berg" [ref=e75]
+              - button "Zeitfahren" [ref=e76]
+              - button "Sprintdistanz" [ref=e77]
+              - button "Olympische Distanz" [ref=e78]
+              - button "Mitteldistanz" [ref=e79]
+              - button "Langdistanz" [ref=e80]
+              - button "Cross-Triathlon" [ref=e81]
+              - button "Aquathlon" [ref=e82]
+              - button "Duathlon" [ref=e83]
+          - generic [ref=e84]:
+            - generic [ref=e85]: Land
+            - button "Alle Länder" [ref=e87]:
+              - generic [ref=e88]: Alle Länder
+              - img [ref=e89]
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]: Datum von
+              - textbox [ref=e94]
+            - generic [ref=e95]:
+              - generic [ref=e96]: Datum bis
+              - textbox [ref=e97]
+          - generic [ref=e98] [cursor=pointer]:
+            - checkbox "Nur kommende Events" [checked] [ref=e99]
+            - text: Nur kommende Events
+          - generic [ref=e100]: 826 / 1082 Events
+      - generic [ref=e102]:
+        - generic "Karte mit Sportevents in Österreich und Deutschland" [ref=e851]:
+          - generic:
+            - generic:
+              - button "16" [ref=e852] [cursor=pointer]:
+                - generic [ref=e853]: "16"
+              - button "15" [ref=e854] [cursor=pointer]:
+                - generic [ref=e855]: "15"
+              - button "52" [ref=e856] [cursor=pointer]:
+                - generic [ref=e857]: "52"
+              - button "742" [ref=e858] [cursor=pointer]:
+                - generic [ref=e859]: "742"
+              - button "🚴" [ref=e860] [cursor=pointer]:
+                - generic [ref=e861]: 🚴
+          - generic:
+            - generic [ref=e862]:
+              - button "Zoom in" [ref=e863] [cursor=pointer]: +
+              - button "Zoom out" [ref=e864] [cursor=pointer]: −
+            - generic [ref=e865]:
+              - link "Leaflet" [ref=e866] [cursor=pointer]:
+                - /url: https://leafletjs.com
+                - img [ref=e867]
+                - text: Leaflet
+              - text: "| ©"
+              - link "OpenStreetMap" [ref=e871] [cursor=pointer]:
+                - /url: https://www.openstreetmap.org/copyright
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - paragraph [ref=e106]: 826 Events
+            - generic [ref=e107]:
+              - generic [ref=e108]: "Sortierung:"
+              - combobox "Sortierung:" [ref=e109]:
+                - option "Datum aufsteigend" [selected]
+                - option "Datum absteigend"
+                - option "Name A–Z"
+          - list [ref=e110]:
+            - listitem [ref=e111] [cursor=pointer]:
+              - img "L'Ardéchoise" [ref=e113]
+              - generic [ref=e114]:
+                - generic [ref=e115]:
+                  - generic [ref=e116]: Radrennen
+                  - generic [ref=e117]: 9.–13. Juni 2026
+                - heading "L'Ardéchoise" [level=3] [ref=e118]
+                - paragraph [ref=e119]: 🇫🇷 Saint-Félicien
+                - generic [ref=e120]:
+                  - generic [ref=e121]: Gran Fondo
+                  - generic [ref=e122]: Radmarathon
+                - generic [ref=e123]:
+                  - generic [ref=e125]:
+                    - strong [ref=e126]: "200"
+                    - text: km
+                  - generic [ref=e127]:
+                    - 'link "Website: L''Ardéchoise" [ref=e128]':
+                      - /url: https://www.ardechoise.com/
+                      - text: Website
+                      - img [ref=e129]
+                    - link "Details ansehen →" [ref=e132]:
+                      - /url: /events/ardechoise-cyclosportive-2026/
+            - listitem [ref=e133] [cursor=pointer]:
+              - img "Altmühltalcup Bergzeitfahren Walting" [ref=e135]
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - generic [ref=e138]: Radrennen
+                  - generic [ref=e139]: 11. Juni 2026
+                - heading "Altmühltalcup Bergzeitfahren Walting" [level=3] [ref=e140]
+                - paragraph [ref=e141]: 🇩🇪 Walting · Bayern
+                - generic [ref=e142]:
+                  - generic [ref=e143]: Berg
+                  - generic [ref=e144]: Zeitfahren
+                - generic [ref=e145]:
+                  - generic [ref=e146]:
+                    - generic [ref=e147]:
+                      - strong [ref=e148]: "3"
+                      - text: km
+                    - generic [ref=e149]:
+                      - strong [ref=e150]: "140"
+                      - text: hm
+                  - generic [ref=e151]:
+                    - 'link "Website: Altmühltalcup Bergzeitfahren Walting" [ref=e152]':
+                      - /url: https://radsport-gaimersheim.de/altmuhltalcup
+                      - text: Website
+                      - img [ref=e153]
+                    - link "Details ansehen →" [ref=e156]:
+                      - /url: /events/altmuehltalcup-walting-2026/
+            - listitem [ref=e157] [cursor=pointer]:
+              - img "Vätternrundan" [ref=e159]
+              - generic [ref=e160]:
+                - generic [ref=e161]:
+                  - generic [ref=e162]: Radrennen
+                  - generic [ref=e163]: 12.–13. Juni 2026
+                - heading "Vätternrundan" [level=3] [ref=e164]
+                - paragraph [ref=e165]: 🇸🇪 Motala
+                - generic [ref=e167]: Gran Fondo
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - generic [ref=e170]:
+                      - strong [ref=e171]: "315"
+                      - text: km
+                    - generic [ref=e172]:
+                      - strong [ref=e173]: "1800"
+                      - text: hm
+                  - generic [ref=e174]:
+                    - 'link "Website: Vätternrundan" [ref=e175]':
+                      - /url: https://www.vatternrundan.se/en
+                      - text: Website
+                      - img [ref=e176]
+                    - link "Details ansehen →" [ref=e179]:
+                      - /url: /events/vatternrundan-motala-2026/
+            - listitem [ref=e180] [cursor=pointer]:
+              - img "Mosttour" [ref=e182]
+              - generic [ref=e183]:
+                - generic [ref=e184]:
+                  - generic [ref=e185]: Radrennen
+                  - generic [ref=e186]: 12.–14. Juni 2026
+                - heading "Mosttour" [level=3] [ref=e187]
+                - paragraph [ref=e188]: 🇦🇹 Kürnberg / St. Peter in der Au · Niederösterreich
+                - generic [ref=e189]:
+                  - generic [ref=e190]: Radmarathon
+                  - generic [ref=e191]: Zeitfahren
+                - generic [ref=e192]:
+                  - generic [ref=e193]:
+                    - generic [ref=e194]:
+                      - strong [ref=e195]: "59"
+                      - text: km
+                    - generic [ref=e196]:
+                      - strong [ref=e197]: "2380"
+                      - text: hm
+                  - generic [ref=e198]:
+                    - 'link "Website: Mosttour" [ref=e199]':
+                      - /url: https://www.mosttour.at/
+                      - text: Website
+                      - img [ref=e200]
+                    - link "Details ansehen →" [ref=e203]:
+                      - /url: /events/mosttour-kuerrberg-2026/
+            - listitem [ref=e204] [cursor=pointer]:
+              - generic [ref=e205]:
+                - generic [ref=e206]:
+                  - generic [ref=e207]: Radrennen
+                  - generic [ref=e208]: 12. Juni 2026
+                - heading "Thermenregion-Cup 5. EZF Grub" [level=3] [ref=e209]
+                - paragraph [ref=e210]: 🇦🇹 Grub · Niederösterreich
+                - generic [ref=e212]: Zeitfahren
+                - generic [ref=e213]:
+                  - generic [ref=e215]:
+                    - strong [ref=e216]: "16"
+                    - text: km
+                  - generic [ref=e217]:
+                    - 'link "Website: Thermenregion-Cup 5. EZF Grub" [ref=e218]':
+                      - /url: https://www.radmarathon.at/termine/detail_cup.php?rmlang=de&id=46
+                      - text: Website
+                      - img [ref=e219]
+                    - link "Details ansehen →" [ref=e222]:
+                      - /url: /events/thermenregion-cup-grub-2026/
+            - listitem [ref=e223] [cursor=pointer]:
+              - img "7-Türme-Triathlon Lübeck" [ref=e225]
+              - generic [ref=e226]:
+                - generic [ref=e227]:
+                  - generic [ref=e228]: Triathlon
+                  - generic [ref=e229]: 13.–14. Juni 2026
+                - heading "7-Türme-Triathlon Lübeck" [level=3] [ref=e230]
+                - paragraph [ref=e231]: 🇩🇪 Lübeck · Schleswig-Holstein
+                - generic [ref=e232]:
+                  - generic [ref=e233]: Olympische Distanz
+                  - generic [ref=e234]: Sprintdistanz
+                - generic [ref=e235]:
+                  - generic [ref=e236]:
+                    - generic [ref=e237]:
+                      - strong [ref=e238]: "56"
+                      - text: km
+                    - generic [ref=e239]:
+                      - strong [ref=e240]: "300"
+                      - text: hm
+                  - generic [ref=e241]:
+                    - 'link "Website: 7-Türme-Triathlon Lübeck" [ref=e242]':
+                      - /url: https://7-tuerme-triathlon.de
+                      - text: Website
+                      - img [ref=e243]
+                    - link "Details ansehen →" [ref=e246]:
+                      - /url: /events/7-tuerme-triathlon-luebeck-2026/
+            - listitem [ref=e247] [cursor=pointer]:
+              - img "Beast of Bramsche" [ref=e249]
+              - generic [ref=e250]:
+                - generic [ref=e251]:
+                  - generic [ref=e252]: Radrennen
+                  - generic [ref=e253]: 13. Juni 2026
+                - heading "Beast of Bramsche" [level=3] [ref=e254]
+                - paragraph [ref=e255]: 🇩🇪 Bramsche · Niedersachsen
+                - generic [ref=e256]:
+                  - generic [ref=e257]: Radmarathon
+                  - generic [ref=e258]: Gran Fondo
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - generic [ref=e261]:
+                      - strong [ref=e262]: "240"
+                      - text: km
+                    - generic [ref=e263]:
+                      - strong [ref=e264]: "2400"
+                      - text: hm
+                  - generic [ref=e265]:
+                    - 'link "Website: Beast of Bramsche" [ref=e266]':
+                      - /url: https://beastofbramsche.de
+                      - text: Website
+                      - img [ref=e267]
+                    - link "Details ansehen →" [ref=e270]:
+                      - /url: /events/beast-of-bramsche-2026/
+            - listitem [ref=e271] [cursor=pointer]:
+              - img "Chiemgau Bike Trophy" [ref=e273]
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - generic [ref=e276]: Radrennen
+                  - generic [ref=e277]: 13. Juni 2026
+                - heading "Chiemgau Bike Trophy" [level=3] [ref=e278]
+                - paragraph [ref=e279]: 🇩🇪 Ruhpolding · Bayern
+                - generic [ref=e280]:
+                  - generic [ref=e281]: Gran Fondo
+                  - generic [ref=e282]: Gravel
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - generic [ref=e285]:
+                      - strong [ref=e286]: "85"
+                      - text: km
+                    - generic [ref=e287]:
+                      - strong [ref=e288]: "1500"
+                      - text: hm
+                  - generic [ref=e289]:
+                    - 'link "Website: Chiemgau Bike Trophy" [ref=e290]':
+                      - /url: https://www.chiemgaubiketrophy.de
+                      - text: Website
+                      - img [ref=e291]
+                    - link "Details ansehen →" [ref=e294]:
+                      - /url: /events/chiemgau-bike-trophy-ruhpolding-2026/
+            - listitem [ref=e295] [cursor=pointer]:
+              - img "Erich-Fill-Triathlon Taunusstein" [ref=e297]
+              - generic [ref=e298]:
+                - generic [ref=e299]:
+                  - generic [ref=e300]: Triathlon
+                  - generic [ref=e301]: 13. Juni 2026
+                - heading "Erich-Fill-Triathlon Taunusstein" [level=3] [ref=e302]
+                - paragraph [ref=e303]: 🇩🇪 Taunusstein · Hessen
+                - generic [ref=e304]:
+                  - generic [ref=e305]: Olympische Distanz
+                  - generic [ref=e306]: Sprintdistanz
+                - generic [ref=e307]:
+                  - generic [ref=e309]:
+                    - strong [ref=e310]: "51"
+                    - text: km
+                  - generic [ref=e311]:
+                    - 'link "Website: Erich-Fill-Triathlon Taunusstein" [ref=e312]':
+                      - /url: https://erich-fill-triathlon.de
+                      - text: Website
+                      - img [ref=e313]
+                    - link "Details ansehen →" [ref=e316]:
+                      - /url: /events/erich-fill-triathlon-taunusstein-2026/
+            - listitem [ref=e317] [cursor=pointer]:
+              - img "In Velo Veritas – Korneuburg" [ref=e319]
+              - generic [ref=e320]:
+                - generic [ref=e321]:
+                  - generic [ref=e322]: Radrennen
+                  - generic [ref=e323]: 13.–14. Juni 2026
+                - heading "In Velo Veritas – Korneuburg" [level=3] [ref=e324]
+                - paragraph [ref=e325]: 🇦🇹 Korneuburg · Niederösterreich
+                - generic [ref=e327]: Gran Fondo
+                - generic [ref=e328]:
+                  - generic [ref=e329]:
+                    - generic [ref=e330]:
+                      - strong [ref=e331]: "210"
+                      - text: km
+                    - generic [ref=e332]:
+                      - strong [ref=e333]: "1500"
+                      - text: hm
+                  - generic [ref=e334]:
+                    - 'link "Website: In Velo Veritas – Korneuburg" [ref=e335]':
+                      - /url: https://www.inveloveritas.at
+                      - text: Website
+                      - img [ref=e336]
+                    - link "Details ansehen →" [ref=e339]:
+                      - /url: /events/in-velo-veritas-korneuburg-2026/
+            - listitem [ref=e340] [cursor=pointer]:
+              - img "Kallmünzer Sparkassen-Triathlon" [ref=e342]
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - generic [ref=e345]: Triathlon
+                  - generic [ref=e346]: 13. Juni 2026
+                - heading "Kallmünzer Sparkassen-Triathlon" [level=3] [ref=e347]
+                - paragraph [ref=e348]: 🇩🇪 Kallmünz · Bayern
+                - generic [ref=e349]:
+                  - generic [ref=e350]: Olympische Distanz
+                  - generic [ref=e351]: Sprintdistanz
+                - generic [ref=e352]:
+                  - generic [ref=e354]:
+                    - strong [ref=e355]: "52"
+                    - text: km
+                  - generic [ref=e356]:
+                    - 'link "Website: Kallmünzer Sparkassen-Triathlon" [ref=e357]':
+                      - /url: https://www.atsv-kallmuenz.de/triathlon
+                      - text: Website
+                      - img [ref=e358]
+                    - link "Details ansehen →" [ref=e361]:
+                      - /url: /events/kallmuenzer-triathlon-2026/
+            - listitem [ref=e362] [cursor=pointer]:
+              - img "Keszthely Triathlon – My575 Challenge" [ref=e364]
+              - generic [ref=e365]:
+                - generic [ref=e366]:
+                  - generic [ref=e367]: Triathlon
+                  - generic [ref=e368]: 13. Juni 2026
+                - heading "Keszthely Triathlon – My575 Challenge" [level=3] [ref=e369]
+                - paragraph [ref=e370]: 🇭🇺 Keszthely
+                - generic [ref=e372]: Mitteldistanz
+                - generic [ref=e373]:
+                  - generic [ref=e375]:
+                    - strong [ref=e376]: "109"
+                    - text: km
+                  - generic [ref=e377]:
+                    - 'link "Website: Keszthely Triathlon – My575 Challenge" [ref=e378]':
+                      - /url: https://www.my575challenge.hu/en/
+                      - text: Website
+                      - img [ref=e379]
+                    - link "Details ansehen →" [ref=e382]:
+                      - /url: /events/keszthely-triathlon-2026/
+            - listitem [ref=e383] [cursor=pointer]:
+              - img "MyEifelRide" [ref=e385]
+              - generic [ref=e386]:
+                - generic [ref=e387]:
+                  - generic [ref=e388]: Radrennen
+                  - generic [ref=e389]: 13.–14. Juni 2026
+                - heading "MyEifelRide" [level=3] [ref=e390]
+                - paragraph [ref=e391]: 🇩🇪 Mayen · Rheinland-Pfalz
+                - generic [ref=e392]:
+                  - generic [ref=e393]: Radmarathon
+                  - generic [ref=e394]: Gravel
+                - generic [ref=e395]:
+                  - generic [ref=e396]:
+                    - generic [ref=e397]:
+                      - strong [ref=e398]: "209"
+                      - text: km
+                    - generic [ref=e399]:
+                      - strong [ref=e400]: "2700"
+                      - text: hm
+                  - generic [ref=e401]:
+                    - 'link "Website: MyEifelRide" [ref=e402]':
+                      - /url: https://www.myeifelride.de/
+                      - text: Website
+                      - img [ref=e403]
+                    - link "Details ansehen →" [ref=e406]:
+                      - /url: /events/myeifelride-mayen-2026/
+            - listitem [ref=e407] [cursor=pointer]:
+              - img "Nordsjørittet" [ref=e409]
+              - generic [ref=e410]:
+                - generic [ref=e411]:
+                  - generic [ref=e412]: Radrennen
+                  - generic [ref=e413]: 13. Juni 2026
+                - heading "Nordsjørittet" [level=3] [ref=e414]
+                - paragraph [ref=e415]: 🇳🇴 Egersund
+                - generic [ref=e417]: Gravel
+                - generic [ref=e418]:
+                  - generic [ref=e419]:
+                    - generic [ref=e420]:
+                      - strong [ref=e421]: "87"
+                      - text: km
+                    - generic [ref=e422]:
+                      - strong [ref=e423]: "780"
+                      - text: hm
+                  - generic [ref=e424]:
+                    - 'link "Website: Nordsjørittet" [ref=e425]':
+                      - /url: https://www.nordsjorittet.no/
+                      - text: Website
+                      - img [ref=e426]
+                    - link "Details ansehen →" [ref=e429]:
+                      - /url: /events/nordsjorittet-egersund-2026/
+            - listitem [ref=e430] [cursor=pointer]:
+              - img "Schloss-Triathlon Moritzburg" [ref=e432]
+              - generic [ref=e433]:
+                - generic [ref=e434]:
+                  - generic [ref=e435]: Triathlon
+                  - generic [ref=e436]: 13.–14. Juni 2026
+                - heading "Schloss-Triathlon Moritzburg" [level=3] [ref=e437]
+                - paragraph [ref=e438]: 🇩🇪 Moritzburg · Sachsen
+                - generic [ref=e439]:
+                  - generic [ref=e440]: Langdistanz
+                  - generic [ref=e441]: Mitteldistanz
+                  - generic [ref=e442]: Olympische Distanz
+                  - generic [ref=e443]: Sprintdistanz
+                - generic [ref=e444]:
+                  - generic [ref=e446]:
+                    - strong [ref=e447]: "113"
+                    - text: km
+                  - generic [ref=e448]:
+                    - 'link "Website: Schloss-Triathlon Moritzburg" [ref=e449]':
+                      - /url: https://schlosstriathlon.de/
+                      - text: Website
+                      - img [ref=e450]
+                    - link "Details ansehen →" [ref=e453]:
+                      - /url: /events/schlosstriathlon-moritzburg-2026/
+            - listitem [ref=e454] [cursor=pointer]:
+              - img "Seaside Ride Gravel Rerik" [ref=e456]
+              - generic [ref=e457]:
+                - generic [ref=e458]:
+                  - generic [ref=e459]: Radrennen
+                  - generic [ref=e460]: 13. Juni 2026
+                - heading "Seaside Ride Gravel Rerik" [level=3] [ref=e461]
+                - paragraph [ref=e462]: 🇩🇪 Ostseebad Rerik · Mecklenburg-Vorpommern
+                - generic [ref=e464]: Gravel
+                - generic [ref=e466]:
+                  - 'link "Website: Seaside Ride Gravel Rerik" [ref=e467]':
+                    - /url: https://seasideride.de
+                    - text: Website
+                    - img [ref=e468]
+                  - link "Details ansehen →" [ref=e471]:
+                    - /url: /events/seaside-ride-gravel-rerik-2026/
+            - listitem [ref=e472] [cursor=pointer]:
+              - img "Sparkassen-GravelKap Zwenkau" [ref=e474]
+              - generic [ref=e475]:
+                - generic [ref=e476]:
+                  - generic [ref=e477]: Radrennen
+                  - generic [ref=e478]: 13. Juni 2026
+                - heading "Sparkassen-GravelKap Zwenkau" [level=3] [ref=e479]
+                - paragraph [ref=e480]: 🇩🇪 Zwenkau · Sachsen
+                - generic [ref=e482]: Gravel
+                - generic [ref=e483]:
+                  - generic [ref=e485]:
+                    - strong [ref=e486]: "140"
+                    - text: km
+                  - generic [ref=e487]:
+                    - 'link "Website: Sparkassen-GravelKap Zwenkau" [ref=e488]':
+                      - /url: https://sparkassen-gravelkap.de/gravelkap
+                      - text: Website
+                      - img [ref=e489]
+                    - link "Details ansehen →" [ref=e492]:
+                      - /url: /events/sparkassen-gravelkap-zwenkau-2026/
+            - listitem [ref=e493] [cursor=pointer]:
+              - img "TradeINN Zarauzko Triatloia" [ref=e495]
+              - generic [ref=e496]:
+                - generic [ref=e497]:
+                  - generic [ref=e498]: Triathlon
+                  - generic [ref=e499]: 13. Juni 2026
+                - heading "TradeINN Zarauzko Triatloia" [level=3] [ref=e500]
+                - paragraph [ref=e501]: 🇪🇸 Zarautz
+                - generic [ref=e503]: Mitteldistanz
+                - generic [ref=e504]:
+                  - generic [ref=e506]:
+                    - strong [ref=e507]: "104"
+                    - text: km
+                  - generic [ref=e508]:
+                    - 'link "Website: TradeINN Zarauzko Triatloia" [ref=e509]':
+                      - /url: https://www.zarauzkotriatloia.com/
+                      - text: Website
+                      - img [ref=e510]
+                    - link "Details ansehen →" [ref=e513]:
+                      - /url: /events/zarauzko-triatloia-2026/
+            - listitem [ref=e514] [cursor=pointer]:
+              - img "Ars Natura MTB Marathon" [ref=e516]
+              - generic [ref=e517]:
+                - generic [ref=e518]:
+                  - generic [ref=e519]: Radrennen
+                  - generic [ref=e520]: 13. Juni 2026
+                - heading "Ars Natura MTB Marathon" [level=3] [ref=e521]
+                - paragraph [ref=e522]: 🇩🇪 Morschen-Neumorschen · Hessen
+                - generic [ref=e524]: Radmarathon
+                - generic [ref=e525]:
+                  - generic [ref=e527]:
+                    - strong [ref=e528]: "105"
+                    - text: km
+                  - generic [ref=e529]:
+                    - 'link "Website: Ars Natura MTB Marathon" [ref=e530]':
+                      - /url: https://www.tsv-neumorschen.de/radsport/ars-natura-mtb-marathon/
+                      - text: Website
+                      - img [ref=e531]
+                    - link "Details ansehen →" [ref=e534]:
+                      - /url: /events/ars-natura-mtb-marathon-2026/
+            - listitem [ref=e535] [cursor=pointer]:
+              - img "CELTMAN! Extreme Scottish Triathlon" [ref=e537]
+              - generic [ref=e538]:
+                - generic [ref=e539]:
+                  - generic [ref=e540]: Triathlon
+                  - generic [ref=e541]: 13. Juni 2026
+                - heading "CELTMAN! Extreme Scottish Triathlon" [level=3] [ref=e542]
+                - paragraph [ref=e543]: 🇬🇧 Torridon / Shieldaig, Scottish Highlands
+                - generic [ref=e545]: Langdistanz
+                - generic [ref=e546]:
+                  - generic [ref=e547]:
+                    - generic [ref=e548]:
+                      - strong [ref=e549]: "245"
+                      - text: km
+                    - generic [ref=e550]:
+                      - strong [ref=e551]: "3769"
+                      - text: hm
+                  - generic [ref=e552]:
+                    - 'link "Website: CELTMAN! Extreme Scottish Triathlon" [ref=e553]':
+                      - /url: https://cxtri.com/
+                      - text: Website
+                      - img [ref=e554]
+                    - link "Details ansehen →" [ref=e557]:
+                      - /url: /events/celtman-xtri-scotland-2026/
+            - listitem [ref=e558] [cursor=pointer]:
+              - img "Fichkona – 601 km Ultra-Radmarathon" [ref=e560]
+              - generic [ref=e561]:
+                - generic [ref=e562]:
+                  - generic [ref=e563]: Radrennen
+                  - generic [ref=e564]: 13.–15. Juni 2026
+                - heading "Fichkona – 601 km Ultra-Radmarathon" [level=3] [ref=e565]
+                - paragraph [ref=e566]: 🇩🇪 Fichtelberg / Oberwiesenthal · Sachsen
+                - generic [ref=e568]: Radmarathon
+                - generic [ref=e569]:
+                  - generic [ref=e570]:
+                    - generic [ref=e571]:
+                      - strong [ref=e572]: "601"
+                      - text: km
+                    - generic [ref=e573]:
+                      - strong [ref=e574]: "2600"
+                      - text: hm
+                  - generic [ref=e575]:
+                    - 'link "Website: Fichkona – 601 km Ultra-Radmarathon" [ref=e576]':
+                      - /url: https://www.fichkona-sports.de/
+                      - text: Website
+                      - img [ref=e577]
+                    - link "Details ansehen →" [ref=e580]:
+                      - /url: /events/fichkona-radmarathon-2026/
+            - listitem [ref=e581] [cursor=pointer]:
+              - img "Flare Bicycle Festival Heidelberg" [ref=e583]
+              - generic [ref=e584]:
+                - generic [ref=e585]:
+                  - generic [ref=e586]: Radrennen
+                  - generic [ref=e587]: 13. Juni 2026
+                - heading "Flare Bicycle Festival Heidelberg" [level=3] [ref=e588]
+                - paragraph [ref=e589]: 🇩🇪 Heidelberg · Baden-Württemberg
+                - generic [ref=e590]:
+                  - generic [ref=e591]: Gran Fondo
+                  - generic [ref=e592]: Gravel
+                - generic [ref=e593]:
+                  - generic [ref=e594]:
+                    - generic [ref=e595]:
+                      - strong [ref=e596]: "140"
+                      - text: km
+                    - generic [ref=e597]:
+                      - strong [ref=e598]: "1800"
+                      - text: hm
+                  - generic [ref=e599]:
+                    - 'link "Website: Flare Bicycle Festival Heidelberg" [ref=e600]':
+                      - /url: https://flare.bike/
+                      - text: Website
+                      - img [ref=e601]
+                    - link "Details ansehen →" [ref=e604]:
+                      - /url: /events/flare-bicycle-festival-heidelberg-2026/
+            - listitem [ref=e605] [cursor=pointer]:
+              - img "Gran Fondo Sierra Morena" [ref=e607]
+              - generic [ref=e608]:
+                - generic [ref=e609]:
+                  - generic [ref=e610]: Radrennen
+                  - generic [ref=e611]: 13. Juni 2026
+                - heading "Gran Fondo Sierra Morena" [level=3] [ref=e612]
+                - paragraph [ref=e613]: 🇪🇸 Córdoba
+                - generic [ref=e615]: Gran Fondo
+                - generic [ref=e616]:
+                  - generic [ref=e617]:
+                    - generic [ref=e618]:
+                      - strong [ref=e619]: "150"
+                      - text: km
+                    - generic [ref=e620]:
+                      - strong [ref=e621]: "2500"
+                      - text: hm
+                  - generic [ref=e622]:
+                    - 'link "Website: Gran Fondo Sierra Morena" [ref=e623]':
+                      - /url: https://granfondosierramorena.com/
+                      - text: Website
+                      - img [ref=e624]
+                    - link "Details ansehen →" [ref=e627]:
+                      - /url: /events/gran-fondo-sierra-morena-2026/
+            - listitem [ref=e628] [cursor=pointer]:
+              - img "GRAVALLO" [ref=e630]
+              - generic [ref=e631]:
+                - generic [ref=e632]:
+                  - generic [ref=e633]: Radrennen
+                  - generic [ref=e634]: 13. Juni 2026
+                - heading "GRAVALLO" [level=3] [ref=e635]
+                - paragraph [ref=e636]: 🇦🇹 Linz – Mühlviertel · Oberösterreich
+                - generic [ref=e638]: Gravel
+                - generic [ref=e639]:
+                  - generic [ref=e640]:
+                    - generic [ref=e641]:
+                      - strong [ref=e642]: "107"
+                      - text: km
+                    - generic [ref=e643]:
+                      - strong [ref=e644]: "1880"
+                      - text: hm
+                  - generic [ref=e645]:
+                    - 'link "Website: GRAVALLO" [ref=e646]':
+                      - /url: https://www.gravallo.bike/
+                      - text: Website
+                      - img [ref=e647]
+                    - link "Details ansehen →" [ref=e650]:
+                      - /url: /events/gravallo-linz-2026/
+            - listitem [ref=e651] [cursor=pointer]:
+              - img "Hackenpedder Bikepacking" [ref=e653]
+              - generic [ref=e654]:
+                - generic [ref=e655]:
+                  - generic [ref=e656]: Radrennen
+                  - generic [ref=e657]: 13. Juni 2026
+                - heading "Hackenpedder Bikepacking" [level=3] [ref=e658]
+                - paragraph [ref=e659]: 🇩🇪 Kiel · Schleswig-Holstein
+                - generic [ref=e661]: Gravel
+                - generic [ref=e662]:
+                  - generic [ref=e664]:
+                    - strong [ref=e665]: "650"
+                    - text: km
+                  - generic [ref=e666]:
+                    - 'link "Website: Hackenpedder Bikepacking" [ref=e667]':
+                      - /url: https://hackenpedder-bikepacking.de/
+                      - text: Website
+                      - img [ref=e668]
+                    - link "Details ansehen →" [ref=e671]:
+                      - /url: /events/hackenpedder-bikepacking-2026/
+            - listitem [ref=e672] [cursor=pointer]:
+              - generic [ref=e673]:
+                - generic [ref=e674]:
+                  - generic [ref=e675]: Radrennen
+                  - generic [ref=e676]: 13. Juni 2026
+                - heading "Krakonošův cyklomaraton" [level=3] [ref=e677]
+                - paragraph [ref=e678]: 🇨🇿 Trutnov
+                - generic [ref=e680]: Radmarathon
+                - generic [ref=e681]:
+                  - generic [ref=e683]:
+                    - strong [ref=e684]: "148"
+                    - text: km
+                  - generic [ref=e685]:
+                    - 'link "Website: Krakonošův cyklomaraton" [ref=e686]':
+                      - /url: https://krakonosuvcyklomaraton.cz/
+                      - text: Website
+                      - img [ref=e687]
+                    - link "Details ansehen →" [ref=e690]:
+                      - /url: /events/krakonosov-cyklomaraton-trutnov-2026/
+            - listitem [ref=e691] [cursor=pointer]:
+              - generic [ref=e692]:
+                - generic [ref=e693]:
+                  - generic [ref=e694]: Radrennen
+                  - generic [ref=e695]: 13. Juni 2026
+                - heading "L'Étape Trondheim by Tour de France" [level=3] [ref=e696]
+                - paragraph [ref=e697]: 🇳🇴 Trondheim
+                - generic [ref=e699]: Gran Fondo
+                - generic [ref=e700]:
+                  - generic [ref=e701]:
+                    - generic [ref=e702]:
+                      - strong [ref=e703]: "130"
+                      - text: km
+                    - generic [ref=e704]:
+                      - strong [ref=e705]: "1570"
+                      - text: hm
+                  - generic [ref=e706]:
+                    - 'link "Website: L''Étape Trondheim by Tour de France" [ref=e707]':
+                      - /url: https://trondheim.letapeseries.com/
+                      - text: Website
+                      - img [ref=e708]
+                    - link "Details ansehen →" [ref=e711]:
+                      - /url: /events/letape-trondheim-2026/
+            - listitem [ref=e712] [cursor=pointer]:
+              - img "Lietuvos Gravel Čempionatas" [ref=e714]
+              - generic [ref=e715]:
+                - generic [ref=e716]:
+                  - generic [ref=e717]: Radrennen
+                  - generic [ref=e718]: 13. Juni 2026
+                - heading "Lietuvos Gravel Čempionatas" [level=3] [ref=e719]
+                - paragraph [ref=e720]: 🇱🇹 Pivašiūnai, Alytaus raj.
+                - generic [ref=e722]: Gravel
+                - generic [ref=e723]:
+                  - generic [ref=e725]:
+                    - strong [ref=e726]: "140"
+                    - text: km
+                  - generic [ref=e727]:
+                    - 'link "Website: Lietuvos Gravel Čempionatas" [ref=e728]':
+                      - /url: https://grunto.lt/
+                      - text: Website
+                      - img [ref=e729]
+                    - link "Details ansehen →" [ref=e732]:
+                      - /url: /events/lietuvos-gravel-cempionatas-2026/
+            - listitem [ref=e733] [cursor=pointer]:
+              - img "Lion Heart Utopia" [ref=e735]
+              - generic [ref=e736]:
+                - generic [ref=e737]:
+                  - generic [ref=e738]: Triathlon
+                  - generic [ref=e739]: 13. Juni 2026
+                - heading "Lion Heart Utopia" [level=3] [ref=e740]
+                - paragraph [ref=e741]: 🇧🇬 Burgas (Rosenets)
+                - generic [ref=e743]: Cross-Triathlon
+                - generic [ref=e745]:
+                  - 'link "Website: Lion Heart Utopia" [ref=e746]':
+                    - /url: https://utopia.lionheart.bg/
+                    - text: Website
+                    - img [ref=e747]
+                  - link "Details ansehen →" [ref=e750]:
+                    - /url: /events/lion-heart-utopia-burgas-2026/
+            - listitem [ref=e751] [cursor=pointer]:
+              - img "XTERRA Nouvelle-Aquitaine" [ref=e753]
+              - generic [ref=e754]:
+                - generic [ref=e755]:
+                  - generic [ref=e756]: Triathlon
+                  - generic [ref=e757]: 13.–14. Juni 2026
+                - heading "XTERRA Nouvelle-Aquitaine" [level=3] [ref=e758]
+                - paragraph [ref=e759]: 🇫🇷 Peyrat-le-Château
+                - generic [ref=e761]: Cross-Triathlon
+                - generic [ref=e762]:
+                  - generic [ref=e764]:
+                    - strong [ref=e765]: "45"
+                    - text: km
+                  - generic [ref=e766]:
+                    - 'link "Website: XTERRA Nouvelle-Aquitaine" [ref=e767]':
+                      - /url: https://www.xterra-nouvelle-aquitaine.com/
+                      - text: Website
+                      - img [ref=e768]
+                    - link "Details ansehen →" [ref=e771]:
+                      - /url: /events/xterra-nouvelle-aquitaine-2026/
+          - button "Mehr anzeigen (796 weitere)" [ref=e773]:
+            - text: Mehr anzeigen (796 weitere)
+            - img [ref=e774]
+  - contentinfo [ref=e776]:
+    - generic [ref=e777]:
+      - navigation "Übersichten" [ref=e778]:
+        - generic [ref=e779]:
+          - heading "Radrennen 2026" [level=2] [ref=e780]
+          - list [ref=e781]:
+            - listitem [ref=e782]:
+              - link "Radrennen in Deutschland 2026" [ref=e783] [cursor=pointer]:
+                - /url: /radrennen/deutschland/2026
+            - listitem [ref=e784]:
+              - link "Radrennen in Österreich 2026" [ref=e785] [cursor=pointer]:
+                - /url: /radrennen/oesterreich/2026
+            - listitem [ref=e786]:
+              - link "Radrennen in Italien 2026" [ref=e787] [cursor=pointer]:
+                - /url: /radrennen/italien/2026
+            - listitem [ref=e788]:
+              - link "Radrennen in Frankreich 2026" [ref=e789] [cursor=pointer]:
+                - /url: /radrennen/frankreich/2026
+            - listitem [ref=e790]:
+              - link "Radrennen in Schweiz 2026" [ref=e791] [cursor=pointer]:
+                - /url: /radrennen/schweiz/2026
+            - listitem [ref=e792]:
+              - link "Radrennen in Spanien 2026" [ref=e793] [cursor=pointer]:
+                - /url: /radrennen/spanien/2026
+        - generic [ref=e794]:
+          - heading "Triathlons 2026" [level=2] [ref=e795]
+          - list [ref=e796]:
+            - listitem [ref=e797]:
+              - link "Triathlons in Deutschland 2026" [ref=e798] [cursor=pointer]:
+                - /url: /triathlon/deutschland/2026
+            - listitem [ref=e799]:
+              - link "Triathlons in Österreich 2026" [ref=e800] [cursor=pointer]:
+                - /url: /triathlon/oesterreich/2026
+            - listitem [ref=e801]:
+              - link "Triathlons in Frankreich 2026" [ref=e802] [cursor=pointer]:
+                - /url: /triathlon/frankreich/2026
+            - listitem [ref=e803]:
+              - link "Triathlons in Schweiz 2026" [ref=e804] [cursor=pointer]:
+                - /url: /triathlon/schweiz/2026
+            - listitem [ref=e805]:
+              - link "Triathlons in Spanien 2026" [ref=e806] [cursor=pointer]:
+                - /url: /triathlon/spanien/2026
+            - listitem [ref=e807]:
+              - link "Triathlons in Großbritannien 2026" [ref=e808] [cursor=pointer]:
+                - /url: /triathlon/grossbritannien/2026
+      - generic [ref=e809]:
+        - link "ENDURE" [ref=e810] [cursor=pointer]:
+          - /url: https://endure-cycling.com
+          - img "ENDURE" [ref=e811]
+        - paragraph [ref=e812]: Driven by data. Built to endure.
+      - generic [ref=e813]:
+        - paragraph [ref=e814]: Kartendaten © OpenStreetMap-Mitwirkende · Daten unter ODbL, Code unter MIT.
+        - generic [ref=e815]:
+          - link "endure-cycling.com" [ref=e816] [cursor=pointer]:
+            - /url: https://endure-cycling.com
+          - link "Event hinzufügen" [ref=e817] [cursor=pointer]:
+            - /url: /event-vorschlagen
+  - generic [ref=e819]:
+    - generic [ref=e820]:
+      - heading "Wir verwenden Cookies" [level=3] [ref=e821]
+      - paragraph [ref=e822]:
+        - text: Wir verwenden Cookies und Google AdSense, um relevante Anzeigen auszuspielen. Du kannst Werbe-Cookies akzeptieren oder ablehnen.
+        - link "Zur Datenschutzerklärung" [ref=e823] [cursor=pointer]:
+          - /url: https://endure-cycling.com/privacy
+    - generic [ref=e824]:
+      - button "Ablehnen" [ref=e825]
+      - button "Akzeptieren" [ref=e826]
+  - generic [ref=e829]:
+    - button "Menu" [ref=e830]:
+      - img [ref=e832]
+      - generic: Menu
+    - button "Inspect" [ref=e836]:
+      - img [ref=e838]
+      - generic: Inspect
+    - button "Audit" [ref=e840]:
+      - generic [ref=e841]:
+        - img [ref=e842]
+        - img [ref=e873]
+      - generic: Audit
+    - button "Settings" [ref=e845]:
+      - img [ref=e847]
+      - generic: Settings

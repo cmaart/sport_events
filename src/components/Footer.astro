@@ -26,7 +26,7 @@ const triathlonLandings = landings.filter((l) => l.sport === 'triathlon').slice(
                 <li>
                   <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
                     class="text-[var(--color-ink-700)] hover:text-[var(--color-brand-600)]">
-                    {COUNTRY_LABELS[l.country].name}
+                    {t('landing.title.cycling', { country: COUNTRY_LABELS[l.country].name })}
                   </a>
                 </li>
               ))}
@@ -43,7 +43,7 @@ const triathlonLandings = landings.filter((l) => l.sport === 'triathlon').slice(
                 <li>
                   <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
                     class="text-[var(--color-ink-700)] hover:text-[var(--color-brand-600)]">
-                    {COUNTRY_LABELS[l.country].name}
+                    {t('landing.title.triathlon', { country: COUNTRY_LABELS[l.country].name })}
                   </a>
                 </li>
               ))}

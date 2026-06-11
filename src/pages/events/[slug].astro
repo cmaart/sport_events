@@ -5,6 +5,7 @@ import EventDetailMap from '../../components/islands/EventDetailMap';
 import ShareButton from '../../components/islands/ShareButton';
 import { formatDateRange, t } from '../../lib/i18n';
 import { COUNTRY_LABELS } from '../../lib/types';
+import { collectLandingPaths } from '../../lib/landing';
 
 export async function getStaticPaths() {
   const entries = await getCollection('events');
@@ -104,13 +105,32 @@ if (e.registrationUrl) {
   };
 }
 
+// Landing page for this sport+country (only exists when the country has
+// enough events) — linked from the breadcrumb so every event page passes a
+// keyword-anchored internal link to its country landing page.
+const allEntries = await getCollection('events');
+const landing = collectLandingPaths(allEntries).find(
+  (l) => l.sport === e.sport && l.country === e.country,
+);
+const landingTitle = t(
+  e.sport === 'cycling' ? 'landing.title.cycling' : 'landing.title.triathlon',
+  { country: country.name },
+);
+const landingUrl = landing ? `${base}/${landing.sportSlug}/${landing.countrySlug}/2026` : undefined;
+const landingAbsUrl = landing
+  ? `${siteUrl}/${landing.sportSlug}/${landing.countrySlug}/2026`
+  : undefined;
+
 // Breadcrumbs help Google show the "ENDURE Events › Event" trail in results.
 const breadcrumbsLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: t('site.title'), item: `${siteUrl}/` },
-    { '@type': 'ListItem', position: 2, name: e.name, item: pageUrl },
+    ...(landing
+      ? [{ '@type': 'ListItem', position: 2, name: landingTitle, item: landingAbsUrl }]
+      : []),
+    { '@type': 'ListItem', position: landing ? 3 : 2, name: e.name, item: pageUrl },
   ],
 };
 ---
@@ -127,10 +147,26 @@ const breadcrumbsLd = {
     set:html={JSON.stringify(breadcrumbsLd)}
   />
   <article class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8">
-    <a href={`${base}/`} class="inline-flex items-center gap-1.5 text-sm text-[var(--color-brand-600)] hover:underline mb-6">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4"><path d="m15 18-6-6 6-6"/></svg>
-      {t('event.back')}
-    </a>
+    <nav aria-label="Breadcrumb" class="mb-6 text-sm">
+      <ol class="flex flex-wrap items-center gap-1.5">
+        <li>
+          <a href={`${base}/`} class="inline-flex items-center gap-1.5 text-[var(--color-brand-600)] hover:underline">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="w-4 h-4"><path d="m15 18-6-6 6-6"/></svg>
+            {t('landing.breadcrumb.home')}
+          </a>
+        </li>
+        {landing && (
+          <>
+            <li aria-hidden="true" class="text-[var(--color-ink-300)]">/</li>
+            <li>
+              <a href={landingUrl} class="text-[var(--color-brand-600)] hover:underline">
+                {landingTitle}
+              </a>
+            </li>
+          </>
+        )}
+      </ol>
+    </nav>
 
     <div class="flex flex-wrap items-center gap-2 mb-3">
       <span class={`inline-flex items-center text-xs uppercase tracking-wide font-medium px-2.5 py-1 rounded-full ${sportColor}`}>

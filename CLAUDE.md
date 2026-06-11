@@ -10,8 +10,8 @@ Static site listing amateur cycling races and triathlons for the 2026 season (AT
 
 ```bash
 npm install         # install
-npm run dev         # dev server → http://localhost:4321/sport_events/
-npm run build       # production build → ./dist (24+ pages: index + one per event)
+npm run dev         # dev server → http://localhost:4321/
+npm run build       # production build → ./dist (1000+ pages: index + one per event)
 npm run preview     # preview the production build
 npm run check       # astro check (type + content schema validation)
 ```
@@ -56,7 +56,7 @@ Filter state is mirrored to URL query params (`?sport=…&kat=…&region=…&fro
 ### Map gotchas
 
 - Leaflet's CSS and `leaflet.markercluster` CSS are imported in `EventMap.tsx`.
-- Marker icons are rendered as `L.divIcon` HTML to avoid default-icon 404s under the `/sport_events` base path.
+- Marker icons are rendered as `L.divIcon` HTML to avoid Leaflet's default-icon asset-path 404s.
 - The map fits bounds to currently filtered events; selecting a marker calls `cluster.zoomToShowLayer()` before opening the popup.
 
 ### i18n
@@ -65,7 +65,7 @@ All UI strings are in `src/i18n/de.json` (flat key-value), accessed via `t(key, 
 
 ### Base path
 
-`astro.config.mjs` sets `site: 'https://cmaart.github.io'` + `base: '/sport_events'`. All internal links must use `import.meta.env.BASE_URL` (in `.astro` files) or the `baseUrl` prop passed into islands. The dev server serves under `/sport_events/`, not `/`.
+`astro.config.mjs` sets `site: 'https://events.endure-cycling.com'` with no `base` (custom domain at root), so `import.meta.env.BASE_URL` resolves to `/`. Internal links still go through `import.meta.env.BASE_URL` (in `.astro` files) or the `baseUrl` prop passed into islands — keep that pattern so a base path could be reintroduced without hunting hardcoded URLs. The dev server serves under `/`.
 
 ## Adding an Event
 

@@ -1,11 +1,27 @@
 ---
 import { t } from '../lib/i18n';
 import { getCollection } from 'astro:content';
+import { COUNTRY_LABELS } from '../lib/types';
+import { collectLandingPaths } from '../lib/landing';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const lockup = `${base}/assets/endure-lockup.png`;
 const events = await getCollection('events');
 const count = events.length;
+
+const landings = collectLandingPaths(events).sort((a, b) => b.count - a.count);
+const navGroups = [
+  {
+    label: t('hero.stat.cycling'),
+    titleKey: 'landing.title.cycling',
+    landings: landings.filter((l) => l.sport === 'cycling').slice(0, 8),
+  },
+  {
+    label: t('hero.stat.triathlon'),
+    titleKey: 'landing.title.triathlon',
+    landings: landings.filter((l) => l.sport === 'triathlon').slice(0, 8),
+  },
+].filter((g) => g.landings.length > 0);
 ---
 
 <header class="sticky top-0 z-40 backdrop-blur-xl bg-white/75 border-b border-[var(--color-ink-100)]/80">
@@ -18,7 +34,30 @@ const count = events.length;
     </a>
 
     <nav class="flex items-center gap-1.5 sm:gap-3 text-sm">
-      <span class="hidden md:inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-ink-100)] text-[var(--color-ink-700)] font-medium text-xs">
+      {navGroups.map((g) => (
+        <div class="relative group hidden md:block">
+          <button type="button"
+            class="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-white border border-[var(--color-ink-200)] hover:border-[var(--color-brand-500)] hover:text-[var(--color-brand-700)] text-sm font-semibold text-[var(--color-ink-900)] shadow-sm transition">
+            {g.label} 2026
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-3.5 h-3.5 text-[var(--color-brand-600)]" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+          </button>
+          <div class="absolute right-0 top-full pt-2 hidden group-hover:block group-focus-within:block z-50">
+            <ul class="bg-white border border-[var(--color-ink-100)] rounded-xl shadow-lg p-2 min-w-[240px]">
+              {g.landings.map((l) => (
+                <li>
+                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                    class="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-[var(--color-ink-700)] hover:bg-[var(--color-brand-50)] hover:text-[var(--color-brand-700)] transition">
+                    <span aria-hidden="true">{COUNTRY_LABELS[l.country].flag}</span>
+                    {t(g.titleKey, { country: COUNTRY_LABELS[l.country].name })}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      ))}
+
+      <span class="hidden lg:inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--color-ink-100)] text-[var(--color-ink-700)] font-medium text-xs">
         <span class="relative flex w-1.5 h-1.5">
           <span class="absolute inline-flex w-full h-full rounded-full bg-[var(--color-brand-500)] opacity-60 animate-ping"></span>
           <span class="relative inline-flex w-1.5 h-1.5 rounded-full bg-[var(--color-brand-500)]"></span>

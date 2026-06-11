@@ -46,13 +46,22 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
     setSelectedId(id);
   };
 
+  // The card may not be in the DOM yet (EventList grows its rendered slice in
+  // an effect after selection, and rendering hundreds of cards can take a
+  // moment), so retry for up to ~2s.
+  const scrollToCard = (id: string, attempts = 20) => {
+    const el = document.getElementById(`event-${id}`);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    } else if (attempts > 0) {
+      setTimeout(() => scrollToCard(id, attempts - 1), 100);
+    }
+  };
+
   const handleShowInList = (id: string) => {
     setSelectedId(id);
     if (view === 'map') setView('list');
-    requestAnimationFrame(() => {
-      const el = document.getElementById(`event-${id}`);
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    });
+    requestAnimationFrame(() => scrollToCard(id));
   };
 
   return (

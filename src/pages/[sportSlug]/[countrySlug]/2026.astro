@@ -79,6 +79,19 @@ const sameCountryOtherSport = allLandings.filter(
   (l) => l.country === country && l.sport !== sport,
 );
 
+// Group by start month: adds "Radrennen im April 2026"-style subheadings,
+// which structure the long list and capture month-based longtail queries.
+const monthGroups: { month: number; events: EventData[] }[] = [];
+for (const ev of events) {
+  const m = new Date(ev.dates.start).getMonth() + 1;
+  const last = monthGroups[monthGroups.length - 1];
+  if (last && last.month === m) {
+    last.events.push(ev);
+  } else {
+    monthGroups.push({ month: m, events: [ev] });
+  }
+}
+
 const itemListLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
@@ -140,9 +153,16 @@ const breadcrumbsLd = {
     <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-5">
       {t('landing.heading.list', { count: events.length })}
     </h2>
-    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {events.map((event) => <EventCard event={event} />)}
-    </div>
+    {monthGroups.map((g) => (
+      <div class="mb-8">
+        <h3 class="text-lg font-semibold tracking-tight mb-4 text-[var(--color-ink-700)]">
+          {t('landing.heading.month', { sport: sportLabelPlural, month: t(`month.${g.month}`) })}
+        </h3>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {g.events.map((event) => <EventCard event={event} />)}
+        </div>
+      </div>
+    ))}
   </section>
 
   {(sameSportOtherCountries.length > 0 || sameCountryOtherSport.length > 0) && (
