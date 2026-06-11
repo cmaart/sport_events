@@ -1,0 +1,23 @@
+{
+  "id": "volcano-granfondo-la-palma-2026",
+  "name": "Volcano GranFondo La Palma",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Los Cancajos (La Palma)",
+    "lat": 28.652,
+    "lng": -17.761
+  },
+  "websiteUrl": "https://volcanogranfondo.com/",
+  "description": "Volcano GranFondo La Palma: UCI-lizenziertes Gran Fondo auf den Kanarischen Inseln durch die vulkanische Landschaft der Insel La Palma. Zwei Distanzen: Gran Fondo (98 km / 2.600 Hm) und Medio Fondo (50 km / 1.600 Hm). Zeitneutrale Veranstaltung, Start in Los Cancajos (Breña Baja), Überfahrt durch Lavalandschaft und Hochwald. UCI Gran Fondo World Series Qualifikation.",
+  "distanceKm": 98,
+  "elevationGainM": 2600,
+  "imageUrl": "https://volcanogranfondo.com/wp-content/uploads/2021/03/TCG_3064_2-scaled.jpg"
+}

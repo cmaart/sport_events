@@ -1,0 +1,22 @@
+{
+  "id": "la-purito-andorra-2026",
+  "name": "La Purito Andorra",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AD",
+  "dates": {
+    "start": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sant Julià de Lòria",
+    "lat": 42.4638,
+    "lng": 1.4919
+  },
+  "websiteUrl": "https://lapuritoandorra.com/",
+  "description": "La Purito Andorra – beliebte Granfondo im Hochgebirge Andorras, gegründet von Radprofi Joaquim 'Purito' Rodríguez. Drei Strecken: 115 km, 80 km und 30 km, alle mit Ziel am Bergpass Els Cortals d'Encamp. Start in Sant Julià de Lòria, spektakuläre Pyrenäenpässe, kein Wettkampfcharakter.",
+  "distanceKm": 115,
+  "imageUrl": "https://www.grandvalira.com/sites/default/files/styles/article_detail_big/public/2025-05/purito-andorra.jpg.webp?itok=0FRAFgvw"
+}

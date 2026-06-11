@@ -1,0 +1,22 @@
+{
+  "id": "costa-del-sol-gran-fondo-2026",
+  "name": "Costa del Sol Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Estepona",
+    "lat": 36.4264,
+    "lng": -5.1486
+  },
+  "websiteUrl": "https://costadelsolgranfondo.com/en/",
+  "description": "Costa del Sol Gran Fondo in Estepona (Andalucía): 126 km Rundkurs mit Start und Ziel im Messegelände Estepona durch das Sierra Bermeja-Gebirge und malerische Bergdörfer. Highlights: Gaucín, Jimera de Líbar, Genalguacil und der Schlussanstieg Peñas Blancas (115 km). Startkampf um 8:00 Uhr. Pflicht: Helm und geladenes Mobiltelefon.",
+  "distanceKm": 126,
+  "imageUrl": "https://costadelsolgranfondo.com/wp-content/uploads/2025/10/JAF2349-scaled-e1768208325289.jpg"
+}

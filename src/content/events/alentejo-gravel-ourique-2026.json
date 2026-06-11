@@ -1,0 +1,23 @@
+{
+  "id": "alentejo-gravel-ourique-2026",
+  "name": "Alentejo Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-10-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ourique, Alentejo",
+    "lat": 37.651,
+    "lng": -8.224
+  },
+  "websiteUrl": "https://cabreirasolutions.com/evento/uci-alentejo-gravel/",
+  "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/01/uci-alentejo-gravel.png",
+  "description": "Alentejo Gravel – UCI Gravel World Series Qualifier in der weitläufigen Alentejo-Landschaft Südportugals. Hauptstrecke 119 km / 1.750 Hm ab dem Städtchen Ourique durch Korkeichen-Wälder und hügeliges Gelände. Zweite Ausgabe des Events (Premiere 2025).",
+  "distanceKm": 119,
+  "elevationGainM": 1750
+}

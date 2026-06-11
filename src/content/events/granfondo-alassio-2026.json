@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-alassio-2026",
+  "name": "XIII GranFondo Internazionale Alassio",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alassio",
+    "lat": 44.0054,
+    "lng": 8.1704
+  },
+  "websiteUrl": "https://granfondoalassio.it/",
+  "description": "XIII GranFondo Internazionale Alassio an der ligurischen Riviera – 13. Auflage der FCI/ACSI-zugelassenen Granfondo. Strecken: 113 km (lang) und 72 km (kurz) mit rollenden Hügeln und kurzen steilen Anstiegen entlang der Küste zwischen Alassio und dem Hinterland.",
+  "distanceKm": 113,
+  "imageUrl": "https://granfondoalassio.it/wp-content/uploads/Alassio2024-768x432.jpg"
+}

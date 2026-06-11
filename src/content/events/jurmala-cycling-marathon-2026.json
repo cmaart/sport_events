@@ -1,0 +1,21 @@
+{
+  "id": "jurmala-cycling-marathon-2026",
+  "name": "Jūrmala Cycling Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LV",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jūrmala",
+    "lat": 56.9685,
+    "lng": 23.7708
+  },
+  "websiteUrl": "https://baltijasmaratoni.lv/",
+  "description": "Jūrmala Cycling Marathon – eine der größten Radsportveranstaltungen im Baltikum, auf gesperrten Straßen durch die Kurstadt Jūrmala (60 km westlich von Riga). Drei Distanzen für alle Niveaus, Hauptstrecke ca. 62 km. Veranstalter: Baltijas Maratoni.",
+  "distanceKm": 62
+}

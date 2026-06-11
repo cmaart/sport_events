@@ -1,0 +1,25 @@
+{
+  "id": "unterberg-duathlon-koessen-2026",
+  "name": "7. Unterberg Duathlon Kössen",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-11",
+    "end": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kössen, Unterberg (Start: Sigi's Sportklause)",
+    "lat": 47.6536,
+    "lng": 12.4216,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.unterberg-duathlon.at/",
+  "description": "7. Auflage des Bergduathlons am Unterberg bei Kössen im Tiroler Kaiserwinkl. Off-Road Cross-Duathlon: 5,4 km MTB-Strecke (überwiegend Schotterstraße, 541 Hm) und 3,4 km Berglauf (336 Hm) mit Wechselzone an der Scheibenwaldhütte (1.160 m) und Ziel an der Bärenhütte (1.490 m). Start 11:00 Uhr vor Sigi's Sportklause Thurnbichl. Auch als Staffel (Bike & Run) möglich.",
+  "distanceKm": 9,
+  "elevationGainM": 877,
+  "imageUrl": "https://tourism.kaiserwinkl.com/media/event/gallery/duathlon.jpg"
+}

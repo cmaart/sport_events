@@ -1,0 +1,23 @@
+{
+  "id": "janosik-xtri-slovakia-2026",
+  "name": "Jánošík Slovak Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oravská Priehrada → Terchová",
+    "lat": 49.4015,
+    "lng": 19.5099
+  },
+  "websiteUrl": "https://svkxtri.com/",
+  "imageUrl": "https://svkxtri.com/wp-content/uploads/2017/07/janosik-5.jpg",
+  "description": "Jánošík Slovak Xtreme Triathlon – 10. Jubiläum der XTRI World Tour in der Kleinen Fatra: 3,8 km Schwimmen (Orava-Stausee, Mitternacht-Start vom Boot) / 185 km Rad (2.600 Hm, 8 Anstiege) / 42 km Trailrun (3.200 Hm) bis zur Jánošík-Statue in Terchová. ~5.800 Hm gesamt. Nur 65 Startplätze – das selektivste XTRI Europas.",
+  "distanceKm": 231,
+  "elevationGainM": 5800
+}

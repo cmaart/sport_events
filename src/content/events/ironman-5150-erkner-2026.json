@@ -1,0 +1,23 @@
+{
+  "id": "ironman-5150-erkner-2026",
+  "name": "IRONMAN 5150 Erkner",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erkner",
+    "lat": 52.4316,
+    "lng": 13.7528,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.ironman.com/im5150-erkner",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/brandebourg/5150-erkner/igp4y8avv9aqyxwjybx6",
+  "description": "IRONMAN 5150 Erkner am Dämeritzsee bei Berlin. Olympische Distanz: 1,5 km Schwimmen im Dämeritzsee, 40 km Radfahren durch Brandenburgs flache Seenlandschaft, 10 km Laufen. Parallel zum IRONMAN 70.3 Erkner-Wochenende am gleichen Veranstaltungsort. Zusätzlich Super-Sprint XS (0,4/18/4 km). Bestzeit-Kurs dank minimalem Höhenunterschied nahe Berlin.",
+  "distanceKm": 51
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cicloturista-la-rioja-2026",
+  "name": "Cicloturista La Rioja",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Logroño",
+    "lat": 42.4661,
+    "lng": -2.4396
+  },
+  "websiteUrl": "https://cicloturismolarioja.com/",
+  "description": "IX Cicloturista La Rioja – Gran Fondo durch die Weinberge und Bodegas-Landschaft der Rioja: 126 km mit 1.222 Höhenmetern, Start und Ziel in Logroño. Drei Verpflegungsstationen; sportives Erlebnis inmitten der bekanntesten Weinbauregion Spaniens.",
+  "distanceKm": 126,
+  "elevationGainM": 1222,
+  "imageUrl": "https://cicloturismolarioja.com/img/Poster%20IX%20Cicloturista%20a%20la%20rioja.jpg"
+}

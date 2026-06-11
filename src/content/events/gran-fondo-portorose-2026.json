@@ -1,0 +1,21 @@
+{
+  "id": "gran-fondo-portorose-2026",
+  "name": "Gran Fondo Portorož",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2026-03-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Portorož",
+    "lat": 45.5118,
+    "lng": 13.5935
+  },
+  "websiteUrl": "https://www.sportoroz.eu/gran-fondo/",
+  "description": "Gran Fondo Portorož (7. Ausgabe) – traditioneller Saisonauftakt des slowenischen Straßenradsports an der Adriaküste: vier Distanzen (42/56/85/135 km) entlang der slowenisch-kroatischen Küste mit Start und Ziel in der Badestadt Portorož. Die Königsdistanz von 135 km führt durch Istrien bis in die kroatische Küstenlandschaft. Veranstalter: Sportoroz Portorož.",
+  "distanceKm": 135
+}

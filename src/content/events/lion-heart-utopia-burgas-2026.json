@@ -1,0 +1,21 @@
+{
+  "id": "lion-heart-utopia-burgas-2026",
+  "name": "Lion Heart Utopia",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "BG",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Burgas (Rosenets)",
+    "lat": 42.5048,
+    "lng": 27.4626
+  },
+  "websiteUrl": "https://utopia.lionheart.bg/",
+  "description": "Lion Heart Utopia – Olympischer Cross-Triathlon im Naturpark Rosenets bei Burgas am Schwarzen Meer: 1,5 km Schwimmen, 40 km Off-Road-Rad und 10 km Geländelauf rund um den Fischerhafen Chengene Skele. Schwesterevent zum Lion Heart Ultra Cross Triathlon in Primorsko.",
+  "imageUrl": "https://lionheart.bg/wp-content/uploads/2026/01/Lion-Heart-Utopia-2026.jpg"
+}

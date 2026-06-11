@@ -1,0 +1,22 @@
+{
+  "id": "aisttal-zeitfahren-2026",
+  "name": "Aisttal Zeitfahren",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tragwein",
+    "lat": 48.249,
+    "lng": 14.577,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://sctk.net/rad/zeitfahren.html",
+  "imageUrl": "http://sctk.net/wp-content/uploads/2026/02/Zeitfahren_2026_header.png",
+  "description": "Einzelzeitfahren im Waldaisttal (OÖ): 14,5 km mit 270 Höhenmetern vom Start nahe der Pfahnlmühle bis zum Ziel in Erdleiten. Wertung für Rennrad, Vintage-Rennrad (vor 1988) und Zeitfahrrad. Maximal 120 Starter mit 30-Sekunden-Abstand. Preisgeld für Streckenrekord sowie schnellste Frau und schnellsten Mann.",
+  "distanceKm": 15,
+  "elevationGainM": 270
+}

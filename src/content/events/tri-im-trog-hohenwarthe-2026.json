@@ -1,0 +1,21 @@
+{
+  "id": "tri-im-trog-hohenwarthe-2026",
+  "name": "2. Tri im Trog",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hohenwarthe (Wasserstraßenkreuz Magdeburg)",
+    "lat": 52.2056,
+    "lng": 11.7219,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.magdeburgertc.de/tri-im-trog.html",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Magdeburg_Kanalbr%C3%BCcke_aerial_view_11.jpg",
+  "description": "2. Tri im Trog an der Trogbrücke des Wasserstraßenkreuzes Magdeburg – einzigartiger Dreifach-Supersprint-Triathlon (3 × 300 m Schwimmen, 9 km Rad, 2 km Laufen) auf dem berühmten Kanalviadukt, wo der Mittellandkanal auf einer Trogbrücke über die Elbe führt. Gleichzeitig Sachsen-Anhalt-Landesmeisterschaft im Triathlon. Veranstalter: Magdeburger Triathlon Club e.V.",
+  "distanceKm": 11
+}

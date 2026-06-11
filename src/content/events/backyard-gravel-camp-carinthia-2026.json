@@ -1,0 +1,23 @@
+{
+  "id": "backyard-gravel-camp-carinthia-2026",
+  "name": "Backyard Gravel Camp Carinthia",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-18",
+    "end": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rosegg",
+    "lat": 46.5870,
+    "lng": 14.0217,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://kaernten.backyardgravel.com/en",
+  "imageUrl": "https://static.wixstatic.com/media/ea0abf_c47b24fc68ba4ace8b0273d667cecd85~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EF_250903_Backyard-72_websize.jpg",
+  "description": "Backyard Gravel Camp Carinthia – Camping-basiertes Gravel-Abenteuer im Rosental/Kärnten. Nicht kompetitiv, eigenes Tempo auf 200–325 km / 3.500–7.500 Hm durch die Kärntner Seenlandschaft. Optionale Abkürzungen für verschiedene Fitnesslevel. Übernachtung im Zeltlager mit Grillabend; max. Teilnehmeranzahl begrenzt.",
+  "distanceKm": 325,
+  "elevationGainM": 7500
+}

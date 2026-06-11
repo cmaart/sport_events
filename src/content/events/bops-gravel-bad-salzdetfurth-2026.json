@@ -1,0 +1,21 @@
+{
+  "id": "bops-gravel-bad-salzdetfurth-2026",
+  "name": "BOPs Gravel Bad Salzdetfurth",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Salzdetfurth",
+    "lat": 52.0606,
+    "lng": 10.0009,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://sportstadt.bad-salzdetfurth.de/BOP/",
+  "description": "Gravel-Rennen im Bike- und Outdoorpark (BOP) Bad Salzdetfurth, Teil der German Gravel League. Start und Ziel am legendären Bikepark mit drei Distanzen: 44 km (Einsteiger), 66 km (Erfahrene) und 110 km (Alle). Feiner Schotter, knackige Anstiege und Naturerlebnisse in der hügligen Landschaft des Niedersächsischen Hügellandes. Eigene Frauenstarts für mehr Sichtbarkeit.",
+  "distanceKm": 110,
+  "elevationGainM": 1200
+}

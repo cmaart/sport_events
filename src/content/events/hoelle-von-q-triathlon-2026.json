@@ -1,0 +1,25 @@
+{
+  "id": "hoelle-von-q-triathlon-2026",
+  "name": "10. Hölle von Q Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ditfurt/Quedlinburg",
+    "lat": 51.8689,
+    "lng": 11.1619,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.hoelle-von-q.de/",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/eb/ce/82/hoelle-von-q-ditfurt-57-1542708889.jpg",
+  "distanceKm": 106,
+  "elevationGainM": 1600,
+  "description": "10. Hölle von Q Triathlon in Ditfurt nahe Quedlinburg im Harz-Vorland. Mitteldistanz: 2 km Schwimmen im Harzbad Ditfurt, 83 km Radfahren (1.600 Hm) durch das UNESCO-Welterbe Quedlinburg und den Ostharz, 21,1 km Laufen. Anspruchsvoller Kurs mit Anstiegen auf den Großen Zielberg. Organisiert vom SV Ditfurt."
+}

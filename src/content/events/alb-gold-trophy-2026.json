@@ -1,0 +1,22 @@
+{
+  "id": "alb-gold-trophy-2026",
+  "name": "ALB-GOLD Trophy",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trochtelfingen",
+    "lat": 48.308,
+    "lng": 9.244,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.alb-gold.de/aktiv/trophy.html",
+  "imageUrl": "https://www.alb-gold.de/fileadmin/sites/www/files/_processed_/c/4/csm_Trophy-fahrer-im-gelaende-alb-gold_d20c65a538.jpg",
+  "description": "30. ALB-GOLD Trophy auf der Schwäbischen Alb rund um Trochtelfingen: MTB-Rundenrennen in 1–3 Schleifen à ~30 km/350 Hm. Trophy Single (30 km), Trophy Double/Gravel Challenge (60 km) und Trophy Triple (90 km). Start und Ziel am ALB-GOLD Kundenzentrum.",
+  "distanceKm": 90,
+  "elevationGainM": 1050
+}

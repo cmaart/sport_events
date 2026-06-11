@@ -1,0 +1,23 @@
+{
+  "id": "icon-xtri-livigno-2026",
+  "name": "ICON Livigno Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Livigno, Lombardy Alps",
+    "lat": 46.5363,
+    "lng": 10.1335
+  },
+  "websiteUrl": "https://www.iconxtri.com/",
+  "imageUrl": "https://www.livigno.eu/hubfs/Icon.jpg",
+  "description": "ICON Livigno Xtreme Triathlon – XTRI World Tour auf 1.816 m Höhe in Livigno (Lombardei): 3,8 km Schwimmen (Lago di Livigno, 1.766 m) / 195 km Rad (5.000 Hm, Stilfserjoch) / 42,2 km Lauf (1.500 Hm, Ziel Carosello 3000). ~6.500 Hm gesamt. Weltweit höchste Schwimmstrecke und höchster Pass im XTRI-Kalender. 250 Startplätze.",
+  "distanceKm": 241,
+  "elevationGainM": 6500
+}

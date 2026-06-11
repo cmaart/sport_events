@@ -1,0 +1,22 @@
+{
+  "id": "fuga-300-heiligenblut-2026",
+  "name": "FUGA 300 – Vom Gletscher zum Meer",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heiligenblut / Großglockner",
+    "lat": 47.0375,
+    "lng": 12.8456,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.fuga300.com/",
+  "imageUrl": "https://www.fuga300.com/wp-content/uploads/2017/10/route.png",
+  "description": "Legendäres Jedermann-Radrennen: 300 km und 5.300 Hm in einem Tag, von der Kaiser-Franz-Josefs-Höhe auf 2.550 m Seehöhe hinab ans Adriatische Meer in Grado (IT). Die Route führt durch Heiligenblut, Spittal an der Drau, Villach, Tarvis, Kanaltal und die Friauler Ebene – ein einzigartiges Gefälle-Erlebnis. Limitiertes Teilnehmerfeld (2026 ausgebucht), Warteliste möglich.",
+  "distanceKm": 300,
+  "elevationGainM": 5300
+}

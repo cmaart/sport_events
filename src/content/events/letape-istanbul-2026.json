@@ -1,0 +1,21 @@
+{
+  "id": "letape-istanbul-2026",
+  "name": "L'Étape Istanbul by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "TR",
+  "dates": {
+    "start": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Istanbul",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape Istanbul by Tour de France – 3. Auflage des ASO-Jedermann-Rennens in der Weltstadt am Bosporus: Lange Strecke (109 km) und kurze Strecke (59 km) über die Bosporusbrücke von der asiatischen in die europäische Seite Istanbuls. Teil der offiziellen globalen L'Étape-Series von Tour de France-Veranstalter ASO.",
+  "distanceKm": 109
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jag-de-wuidsau-burglengenfeld-2026",
+  "name": "Jag de Wuidsau – Cross Duathlon Burglengenfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon",
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Burglengenfeld",
+    "lat": 49.2019,
+    "lng": 12.0472,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://jagdewuidsau.de/",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/8a/fa/53/jag-de-wuidsau-29-1479854210.jpg",
+  "description": "Jag de Wuidsau – 12. Burglengenfelder Cross-Duathlon am Lanzenanger. Format Run-Bike-Run auf naturnahem Gelände: Kurzstrecke 4,2 + 14 + 2,1 km, Langstrecke 6,3 + 21 + 4,2 km, ca. 490 Hm. 2026 Austragungsort der Bayerischen Meisterschaft Cross-Duathlon & Nachwuchs-Cup. Auch der XTERRA German Tour angeschlossen.",
+  "distanceKm": 32
+}

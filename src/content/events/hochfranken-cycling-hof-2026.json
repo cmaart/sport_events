@@ -1,0 +1,25 @@
+{
+  "id": "hochfranken-cycling-hof-2026",
+  "name": "Hochfranken Cycling (HFC)",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hof an der Saale",
+    "lat": 50.3133,
+    "lng": 11.9178,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://pfeil-hof.de/hochfranken-cycling-2026/",
+  "description": "Hochfranken Cycling (HFC) in Hof an der Saale – nicht-gewertete Freizeitveranstaltung mit sechs Strecken: 15 km Familientour, 50 km MTB, 50 km Gravel, 80 km Gravel, 80 km Rennrad und 120 km Rennrad. Geführte Gruppen für die meisten Strecken verfügbar. GPX-Tracks für alle Teilnehmer.",
+  "distanceKm": 120,
+  "elevationGainM": 1440,
+  "imageUrl": "https://pfeil-hof.de/wp-content/uploads/2026/02/cropped-DSC_4926-1536x1024-1.jpg"
+}

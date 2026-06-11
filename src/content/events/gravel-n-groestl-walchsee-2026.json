@@ -1,0 +1,25 @@
+{
+  "id": "gravel-n-groestl-walchsee-2026",
+  "name": "Gravel 'n' Gröstl – Kaiserwinkl",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-10-08",
+    "end": "2026-10-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Walchsee, Kaiserwinkl",
+    "lat": 47.6543,
+    "lng": 12.3308,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://gravelngroestl.com/",
+  "imageUrl": "https://gravelngroestl.com/wp-content/uploads/2026/03/Kaiserwinkl-Urlaub-Aktivitaeten-Rettenschoess-Sommer-Sommerlandschaft-Radfahren-1-scaled.jpg",
+  "description": "Semi-unterstütztes Gravel-Abenteuer über vier Tage im Kaiserwinkl in Tirol mit 540 km und 11.000 Höhenmetern. Kein Rennen – Spaß und Gemeinschaft im Fokus, durch die Tiroler Bergwelt auf Schotterwegen. Eigenes Tempo, freie Routenwahl, unvergessliches Herbsterlebnis.",
+  "distanceKm": 540,
+  "elevationGainM": 11000
+}

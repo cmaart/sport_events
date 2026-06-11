@@ -1,0 +1,24 @@
+{
+  "id": "rodenkirchener-eifelmarathon-2026",
+  "name": "17. Rodenkirchener Eifelmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Köln-Rodenkirchen",
+    "lat": 50.8829,
+    "lng": 6.9574,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://rtc-rodenkirchen.de/unsere-rtf-2026",
+  "imageUrl": "https://rtc-rodenkirchen.de/wp-content/uploads/38022994-c272-42c0-9b0a-e1769d72e043-1024x768.jpg",
+  "description": "17. Rodenkirchener Eifelmarathon – nicht gewertete Radtourenfahrt (RTF) des RTC Rodenkirchen e.V. durch die Eifel. Fünf Distanzen: 54, 80, 115, 152 und 202 km (Eifelmarathon). Start und Ziel am Berufsbildungswerk Michaelshoven in Köln-Rodenkirchen. Ideal für Amateure, die die abwechslungsreiche Eifellandschaft mit dem Rennrad oder Gravelbike erkunden möchten.",
+  "distanceKm": 202,
+  "elevationGainM": 2200
+}

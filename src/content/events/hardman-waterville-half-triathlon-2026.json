@@ -1,0 +1,23 @@
+{
+  "id": "hardman-waterville-half-triathlon-2026",
+  "name": "Hardman Waterville Half Distance Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waterville, County Kerry",
+    "lat": 51.831,
+    "lng": -10.146
+  },
+  "websiteUrl": "https://hardman.ie/take-on-irelands-most-spectacular-half-distance-triathlon-hardman-waterville/",
+  "imageUrl": "https://hardman.ie/wp-content/uploads/2022/11/waterville-triathlon-gallery-3-1.jpg",
+  "description": "Hardman Waterville Half Distance – Irlands spektakulärster Mitteldistanz-Triathlon am Wild Atlantic Way in County Kerry. 1,9 km Schwimmen im Atlantik, 94 km Radfahren auf dem Ring of Kerry mit imposanter Bergkulisse, 21,1 km Laufen entlang der Küste. Gilt als einer der schönsten und härtesten Half-IRONMANs Irlands.",
+  "distanceKm": 116,
+  "elevationGainM": 1400
+}

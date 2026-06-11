@@ -1,0 +1,23 @@
+{
+  "id": "swedeman-xtri-are-2026",
+  "name": "Swedeman Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2026-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Åre, Jämtland",
+    "lat": 63.399,
+    "lng": 13.0815
+  },
+  "websiteUrl": "https://www.swextri.com/",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/64b7a3c46207f46e436e8974/21af3780-62ae-4f93-b9ac-5ddbe49f2d8e/swedeman25_all_arielwojciechowski.com_2025-0179.jpg",
+  "description": "Swedeman Xtreme Triathlon – XTRI World Tour in den schwedischen Alpen nahe Åre: 3,8 km Schwimmen (See Öster-Noren / Tännforsen-Wasserfall) / 205 km Rad / 43 km Trail (Besteigung Åreskutan). ~4.077 Hm gesamt; steiler 400-m-Aufstieg zu T1; Pflichtunterstützer auf 12 km. 250 Startplätze.",
+  "distanceKm": 252,
+  "elevationGainM": 4077
+}

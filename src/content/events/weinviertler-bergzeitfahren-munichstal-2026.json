@@ -1,0 +1,21 @@
+{
+  "id": "weinviertler-bergzeitfahren-munichstal-2026",
+  "name": "Weinviertler Radcup Bergzeitfahren Münichsthal",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Münichsthal",
+    "lat": 48.419,
+    "lng": 16.726,
+    "region": "Niederösterreich"
+  },
+  "description": "Bergzeitfahren Münichsthal (Pfösinger Berg) im Weinviertel (NÖ): ca. 3,8 km mit 130 Höhenmetern. Runde des Weinviertler Radcups 2026 – Zeitfahrserie im niederösterreichischen Weinviertel.",
+  "distanceKm": 4,
+  "elevationGainM": 130,
+  "imageUrl": "https://www.muenichsthal.at/wp-content/uploads/2026/05/2026_05_09_einzelzeitfahren_006.jpg"
+}

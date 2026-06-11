@@ -1,0 +1,22 @@
+{
+  "id": "triatlon-murska-sobota-2026",
+  "name": "Triatlon Murska Sobota",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Murska Sobota",
+    "lat": 46.6638,
+    "lng": 16.1663
+  },
+  "websiteUrl": "https://triatlonslovenije.si/",
+  "imageUrl": "https://triatlonslovenije.si/wp-content/uploads/2026/06/MS2026.jpg",
+  "description": "Triatlon Murska Sobota im nordostslowenischen Prekmurje – offizieller Wettkampf im Kalender der Triatlon zveza Slovenije. Volkstümlicher Triathlon in der pannonischen Tiefebene nahe der österreichischen und ungarischen Grenze.",
+  "distanceKm": 25
+}

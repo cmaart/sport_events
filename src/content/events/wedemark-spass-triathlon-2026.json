@@ -1,0 +1,21 @@
+{
+  "id": "wedemark-spass-triathlon-2026",
+  "name": "Wedemark Spass-Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wedemark-Mellendorf",
+    "lat": 52.5231,
+    "lng": 9.8133,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.wedemark-spass-triathlon.de/",
+  "imageUrl": "https://www.wedemark-spass-triathlon.de/s/img/emotionheader.jpg",
+  "description": "Wedemark Spass-Triathlon – bewusst unprofessioneller Volkstriathlon in der Region Hannover. Start im Mellendorfer Schwimmbad (500 m), Radkurs (20 km) und Laufen (5 km) nach Berkhof. Benannt nach Ralf Dumann, der 2006 bei einem Training verunglückte. Event ist seit Jahren ausgebucht; Warteliste vorhanden.",
+  "distanceKm": 25
+}

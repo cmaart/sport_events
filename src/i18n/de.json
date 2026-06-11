@@ -118,6 +118,8 @@
   "landing.crosslinks.sport": "Mehr Events in {country}:",
   "landing.cta.map": "Alle Events auf der Karte ansehen",
   "landing.breadcrumb.home": "Übersicht",
+  "list.loadMore": "Mehr anzeigen ({count} weitere)",
+  "landing.heading.month": "{sport} im {month} 2026",
   "month.1": "Januar",
   "month.2": "Februar",
   "month.3": "März",

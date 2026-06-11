@@ -1,0 +1,24 @@
+{
+  "id": "bodensee-gravel-giro-horgenzell-2026",
+  "name": "Bodensee Gravel Giro",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Horgenzell",
+    "lat": 47.8614,
+    "lng": 9.5745,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.vpace.de/bodensee-gravel-giro-2026-ticket/",
+  "description": "Bodensee Gravel Giro – 10. Auflage des Deutschen Schotterpisten-Klassikers ab VPACE-Zentrale in Horgenzell. Ca. 110 km / 1.200 Hm auf Wald- und Feldwegen durch Oberschwaben mit Panoramablick auf den Bodensee und Badepause am See. Auf 110 Teilnehmer limitiert für kleines Gemeinschaftsgefühl. Baristakaffee, Pasta und Abendtreffen inklusive.",
+  "distanceKm": 110,
+  "elevationGainM": 1200,
+  "imageUrl": "https://kirby.vpace.de/media/pages/blog/bodensee-gravel-giro-2023-die-hitzeschlacht/89d6063d20-1758031696/pxl_20230714_144531108-1593x1200.jpeg"
+}

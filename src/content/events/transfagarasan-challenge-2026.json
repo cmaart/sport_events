@@ -1,0 +1,22 @@
+{
+  "id": "transfagarasan-challenge-2026",
+  "name": "Transfăgărășan Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2026-07-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Albota (Transfăgărășan)",
+    "lat": 45.652,
+    "lng": 24.617
+  },
+  "websiteUrl": "https://t-challenge.ro/",
+  "description": "6. Transfăgărășan Challenge: 37 km / 1.763 Hm Bergzeitfahren auf Rumäniens ikonischster Bergstraße – von Albota hinauf zum Bâlea-See (2.042 m ü.M.). Teil der Sibiu Cycling Tour. Offen für alle Amateure ab 17 Jahren, nationale und internationale Teilnehmer.",
+  "distanceKm": 37,
+  "elevationGainM": 1763
+}

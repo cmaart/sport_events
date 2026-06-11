@@ -1,0 +1,22 @@
+{
+  "id": "rodltal-bergkaiser-2026",
+  "name": "Rodltal-Bergkaiser",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rottenegg",
+    "lat": 48.352,
+    "lng": 14.21,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.radclub-walding.at/",
+  "description": "Jedermann-Bergzeitfahren von Rottenegg nach Wieshof (OÖ-Landesmeisterschaft Berg für Amateure). Rennrad: 7,6 km/290 Hm (Einzelstart im 1-Minuten-Abstand). MTB: 6,3 km/340 Hm (Massenstart). Wertung für Lizenzfahrer und Hobbysportler in allen Altersklassen. Veranstalter: RC ARBÖ/ASKÖ Naturfreunde Auto Eder Walding.",
+  "distanceKm": 8,
+  "elevationGainM": 290,
+  "imageUrl": "https://media04.meinbezirk.at/article/2019/09/28/3/21278823_L.jpg?1569690634"
+}

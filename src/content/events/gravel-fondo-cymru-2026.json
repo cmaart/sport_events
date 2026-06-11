@@ -1,0 +1,22 @@
+{
+  "id": "gravel-fondo-cymru-2026",
+  "name": "Gravel Fondo Cymru",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Llandovery",
+    "lat": 52.0032,
+    "lng": -3.7939
+  },
+  "websiteUrl": "https://gravelfondo.com/",
+  "description": "Gravel Fondo Cymru im Crychan Forest nahe Llandovery (Carmarthenshire, Wales): 95% Off-Road-Gravel-Kurs durch Crychan und Halfway Forest, ca. 100 km auf zwei Runden (auch eine Runde möglich). Offizielle Welsh Cycling Gravel Championships integriert. Kompetitives und nicht-kompetitives Format, ab 16 Jahren.",
+  "distanceKm": 100,
+  "imageUrl": "https://gravelfondo.com/wp-content/uploads/2026/06/gfc-gallery-route26-2.png"
+}

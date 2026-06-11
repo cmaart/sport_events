@@ -1,0 +1,22 @@
+{
+  "id": "bike-maraton-szklarska-2026",
+  "name": "Bike Maraton Szklarska Poręba-Jakuszyce",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "PL",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Szklarska Poręba",
+    "lat": 50.823,
+    "lng": 15.513
+  },
+  "websiteUrl": "https://bikemaraton.com.pl/szklarska-poreba-jakuszyce/",
+  "description": "Bike Maraton Szklarska Poręba–Jakuszyce – Runde 4 der größten polnischen MTB-Marathonserie, Teil des Izery Bike Festivals: neue ULTRA-Distanz über 103 km / 1.960 Hm ab Polana Jakuszycka durch die Isergebirgs-Wälder nahe der tschechischen Grenze. Weitere Optionen: MEGA 55 km, CLASSIC 32 km, FUN 18 km.",
+  "distanceKm": 103,
+  "elevationGainM": 1960
+}

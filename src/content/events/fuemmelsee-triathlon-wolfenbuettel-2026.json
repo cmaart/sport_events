@@ -1,0 +1,21 @@
+{
+  "id": "fuemmelsee-triathlon-wolfenbuettel-2026",
+  "name": "31. Fümmelsee-Triathlon",
+  "sport": "triathlon",
+  "categories": ["Sprintdistanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wolfenbüttel",
+    "lat": 52.1646,
+    "lng": 10.538,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://fuemmelsee-triathlon.de/",
+  "imageUrl": "https://fuemmelsee-triathlon.de/wp-content/uploads/sites/7/2026/02/2026_Fuemmelsee_Triathlon.png",
+  "description": "31. Fümmelsee-Triathlon am Natur- und Familienbad Fümmelsee in Wolfenbüttel. Jedermann-Distanz und Jugendwettbewerbe (Schüler D bis Junioren). Jedermann-Strecke: 400 m Schwimmen – 20 km Rad – 5 km Laufen. Veranstalter: Wolfenbütteler Schwimmverein von 1921 e.V.",
+  "distanceKm": 25
+}

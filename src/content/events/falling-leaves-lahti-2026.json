@@ -1,0 +1,23 @@
+{
+  "id": "falling-leaves-lahti-2026",
+  "name": "Falling Leaves Lahti",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Gran Fondo"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lahti",
+    "lat": 60.9827,
+    "lng": 25.6612
+  },
+  "websiteUrl": "https://www.fallingleaveslahti.eu/",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/68ff549b36c63458cd10a80e/1eb9b671-efce-434f-bc2b-5b5643d08828/20250906-20250906-20250906-christer-adahl-_christeradahl--20535349.jpg",
+  "description": "Falling Leaves Lahti – zweitägiges Gravel-Renn-Festival in der finnischen Seenlandschaft bei Lahti. Samstag: UCI-Gravel-World-Series-Qualifier mit 100 km und 175 km; Sonntag: Nordic Gravel Series (NGS) mit 50 / 80 / 145 km. Herbstlicher Kurs durch Wälder und am Vesijärvi-See. Teil beider internationaler Gravel-Serien."
+}

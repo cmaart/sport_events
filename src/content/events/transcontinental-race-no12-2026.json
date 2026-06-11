@@ -1,0 +1,23 @@
+{
+  "id": "transcontinental-race-no12-2026",
+  "name": "Transcontinental Race No. 12",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2026-07-19",
+    "end": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trondheim",
+    "lat": 63.4305,
+    "lng": 10.3951
+  },
+  "websiteUrl": "https://www.lostdot.cc/race/tcrno12",
+  "description": "Transcontinental Race No. 12 – legendäres selbstgestütztes Ultra-Radrennen von Trondheim (Norwegen) nach Kalamata (Griechenland). Erstmals in Nord-Süd-Richtung durch vier Kontrollpunkte: Flåm (NO), Tatra (SK), Sarajevo (BA), Leskovac (AL). Ca. 4.000 km ohne Teamunterstützung. Start: 19. Juli 2026 um 20:00 CEST. Finish-Deadline: 8. August 2026.",
+  "distanceKm": 4000,
+  "imageUrl": "https://cdn.prod.website-files.com/63ee6ea8bfad7f3aea16831b/691db8ef15d6bb0fb837b6ac_DSC09206.jpg"
+}

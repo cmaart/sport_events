@@ -1,0 +1,23 @@
+{
+  "id": "la-provencale-cyclo-2026",
+  "name": "La Provençale Cyclo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Manosque",
+    "lat": 43.8349,
+    "lng": 5.7877
+  },
+  "websiteUrl": "https://laprovencale-cyclo.fr/",
+  "description": "La Provençale Cyclo – 2. Ausgabe der Cyclosportive inmitten der Lavendelfelder der Provence: La Lure (166 km / 3.100 Hm) mit Auffahrt zur Montagne de Lure, La Papou (106 km / 1.800 Hm) und La Rando (74 km / 1.200 Hm), alle mit Start und Ziel in Manosque (Alpes-de-Haute-Provence). Veranstaltungspatron: Radprofi Julien El Fares.",
+  "distanceKm": 166,
+  "elevationGainM": 3100,
+  "imageUrl": "https://laprovencale-cyclo.fr/wp-content/uploads/2025/10/TopDepartCyclosportive.webp"
+}

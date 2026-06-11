@@ -1,0 +1,24 @@
+{
+  "id": "velowino-weinheim-2026",
+  "name": "10. Velowino Weinheim",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weinheim",
+    "lat": 49.5530,
+    "lng": 8.6637,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.velowino.de/",
+  "imageUrl": "https://www.velowino.de/wp-content/uploads/2024/06/40-scaled.jpg",
+  "description": "10. Velowino Weinheim – Retro-Radveranstaltung auf historischen Stahlrädern (Baujahr bis 1988) mit Perioden-Rennkleidung. Vier Routen: 42 km (eben), 54 km, 80 km und 126 km (mit Schotteranteilen im Odenwald). Start/Ziel am Schlossplatz in Weinheim. Gemeinschaftserlebnis mit mediterranem Flair.",
+  "distanceKm": 126,
+  "elevationGainM": 2500
+}

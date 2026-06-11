@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-serra-dossa-2026",
+  "name": "Granfondo Serra d'Ossa",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alandroal",
+    "lat": 38.7021,
+    "lng": -7.4036
+  },
+  "websiteUrl": "https://cabreirasolutions.com/evento/granfondo-serra-dossa/",
+  "description": "4. Granfondo Serra d'Ossa in Alandroal (Alentejo): Granfondo (143,9 km / 1.800 Hm), Mediofondo (108,3 km / 1.330 Hm) und Minifondo (60,8 km / 612 Hm) durch den Alentejo und die Serra d'Ossa. Veranstalter: Cabreira Solutions.",
+  "distanceKm": 144,
+  "elevationGainM": 1800,
+  "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/01/gf-serra-ossa.png"
+}

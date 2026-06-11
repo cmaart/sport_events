@@ -1,0 +1,22 @@
+{
+  "id": "aurora-gravel-rally-neuchatel-2026",
+  "name": "Aurora Gravel Rally Switzerland",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "CH",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neuenburg (Neuchâtel)",
+    "lat": 46.9900,
+    "lng": 6.9293
+  },
+  "websiteUrl": "https://aurora-gravel.com/en/switzerland/summary/",
+  "imageUrl": "https://aurora-gravel.com/wp-content/uploads/2025/08/1-dsc06664.jpg",
+  "description": "Aurora Gravel Rally Switzerland – Premiere 2026: Zweitägiges Gravel-Rally-Rennen im Schweizer Jura nahe Neuchâtel. Full Course: 179 km / 3.637 Hm; Discovery: 133 km / 2.958 Hm. Rally-Zeitnahme auf 2–3 Sektoren pro Etappe; max. 300 Starter. Festivalabend mit Live-Musik und Food Trucks am Samstag.",
+  "distanceKm": 179,
+  "elevationGainM": 3637
+}

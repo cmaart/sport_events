@@ -1,0 +1,22 @@
+{
+  "id": "in-flanders-fields-cyclo-2026",
+  "name": "In Flanders Fields Cyclo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2026-03-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wevelgem",
+    "lat": 50.7038,
+    "lng": 3.1742
+  },
+  "websiteUrl": "https://inflandersfieldscyclo.be/en/",
+  "description": "In Flanders Fields Cyclo in Wevelgem verbindet fünf Distanzen (70–225 km) mit der Kriegsgedenkstätten-Landschaft Westflanderns und ikonischen Anstiegen wie Kemmelberg und Plugstreet-Kopfsteinpflasterpassagen. Die 225-km-Variante führt bis Middelkerke an der Küste. Die Cyclosportive findet einen Tag vor dem UCI-Monument Gent-Wevelgem statt.",
+  "distanceKm": 225,
+  "elevationGainM": 1100
+}

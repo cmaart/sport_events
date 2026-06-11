@@ -1,0 +1,23 @@
+{
+  "id": "ruesselcross-duathlon-2026",
+  "name": "22. RüsselCross Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-11-14",
+    "end": "2026-11-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rüsselsheim",
+    "lat": 49.9894,
+    "lng": 8.4136,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.tg-tria-ruesselsheim.de/ruesselcross-start/",
+  "imageUrl": "https://www.tg-tria-ruesselsheim.de/wp-content/uploads/2020/03/header-bild-mobil-compress.jpg",
+  "description": "22. RüsselCross Duathlon der TG 1862 Rüsselsheim im Herbst. Strecke: 5 km Laufen, 20 km Radfahren, 2,5 km Laufen. Auch als Staffel (Läufer + Radfahrer) und Kids-Duathlon. Gelände-Kurs auf Wald- und Feldwegen in der Rhein-Main-Region. Hessische Triathlon-Verband-Meisterschaft Duathlon."
+}

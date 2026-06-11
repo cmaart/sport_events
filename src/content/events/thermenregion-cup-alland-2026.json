@@ -1,0 +1,20 @@
+{
+  "id": "thermenregion-cup-alland-2026",
+  "name": "Thermenregion-Cup 3. EZF Alland",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alland",
+    "lat": 48.055,
+    "lng": 16.074,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_cup.php?rmlang=de&id=46",
+  "description": "3. Runde des Thermenregion-Cups 2026: Einzelzeitfahren in Alland-Holzschlag (NÖ) im Wienerwald. Rolliges Gelände in der Niederösterreichischen Thermenregion südwestlich von Wien.",
+  "distanceKm": 16
+}

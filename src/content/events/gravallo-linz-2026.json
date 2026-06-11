@@ -1,0 +1,22 @@
+{
+  "id": "gravallo-linz-2026",
+  "name": "GRAVALLO",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Linz – Mühlviertel",
+    "lat": 48.3122,
+    "lng": 14.2996,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.gravallo.bike/",
+  "description": "GRAVALLO – Gravelbike-Adventure im Mühlviertel und böhmischen Hochland, Start an der Tabak Fabrik Linz. Drei Strecken: GRVLO CORE (70 km/1.270 Hm), GRVLO FONDO (107 km/1.880 Hm) und GRVLO SUPERCORE (300 km Mehrtagesstrecke). Gemeinschaftliches Fahrerlebnis ohne Rennambienz auf Schotter-, Wald- und Wiesenwegen. Veranstalter: EC1 Gravel Linz RC.",
+  "distanceKm": 107,
+  "elevationGainM": 1880,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/sbac4bfbdfbe47725/image/ifee58aec95405c7e/version/1779815643/image.png"
+}

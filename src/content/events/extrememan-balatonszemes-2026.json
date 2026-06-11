@@ -1,0 +1,22 @@
+{
+  "id": "extrememan-balatonszemes-2026",
+  "name": "eXtremeMan113 Balatonszemes",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-05-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Balatonszemes",
+    "lat": 46.8071,
+    "lng": 17.8113
+  },
+  "websiteUrl": "https://www.extrememan.hu/",
+  "imageUrl": "https://www.extrememan.hu/filekezelorendszer/kep/kozos/rajt.jpg",
+  "description": "eXtremeMan113 Balatonszemes am Südufer des Balatons – Mitteldistanz-Triathlon (1,9 km Schwimmen / 90 km Radfahren / 21 km Laufen). Organisiert von eXtremeMan, dem führenden ungarischen Langdistanz-Triathlon-Veranstalter. Auch kürzere Try-Triathlon-Formate für Einsteiger.",
+  "distanceKm": 112
+}

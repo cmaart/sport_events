@@ -1,0 +1,22 @@
+{
+  "id": "salzkammergut-gravel-marathon-2026",
+  "name": "Salzkammergut Gravel-Marathon",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Ischl – Bad Goisern",
+    "lat": 47.7114,
+    "lng": 13.6197,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.salzkammergut-trophy.at/gravel-marathon-pid2133",
+  "description": "10. Salzkammergut Gravel-Marathon im UNESCO-Welterbe Salzkammergut: Drei Distanzen – 93 km/2.141 Hm, 54 km/1.236 Hm und 22 km/567 Hm. Start in Bad Ischl und Bad Goisern, Strecke über Gravel-, Forst- und Asphalt-Nebenwege durch die Bergseenlandschaft des Salzkammerguts. Separate Veranstaltung im Rahmen der Salzkammergut Trophy Organisation.",
+  "distanceKm": 93,
+  "elevationGainM": 2141,
+  "imageUrl": "https://www.salzkammergut-trophy.at/_uploads/_fotos_thumbs/thumb_10162_w2552h1276.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "oberurseler-bike-marathon-2026",
+  "name": "Oberurseler Bike Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oberursel (Taunus)",
+    "lat": 50.2016,
+    "lng": 8.5780,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://mountain-sports-ev.de/bike-marathon/",
+  "description": "Oberurseler Bike Marathon im Taunus: MTB-Rennen mit vier Streckenvarianten (32/47/71 km) und neuem Gipfelstürmer-TRAIL bis 881 m Höhe. Veranstalter: Mountain Sports e.V. Strecken führen durch die bewaldeten Taunushänge rund um Oberursel und bieten Flow und Fahrspaß für alle Levels.",
+  "distanceKm": 71,
+  "elevationGainM": 1650,
+  "imageUrl": "https://mountain-sports-ev.de/wp-content/uploads/2025/07/Pressefoto-OBM-2025-Biker-Gruppe-2-e1767726456598-1024x466.jpg"
+}

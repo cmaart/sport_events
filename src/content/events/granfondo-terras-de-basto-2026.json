@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-terras-de-basto-2026",
+  "name": "Granfondo Terras de Basto",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Celorico de Basto",
+    "lat": 41.3879,
+    "lng": -8.0002
+  },
+  "websiteUrl": "https://cabreirasolutions.com/evento/granfondo-terras-de-basto/",
+  "description": "4. Granfondo Terras de Basto in Celorico de Basto (Nordportugal): Granfondo (125 km / 3.150 Hm), Mediofondo (98 km / 2.100 Hm) und Minifondo (62 km / 1.150 Hm) durch die grünen Hügel der Terra de Basto. Veranstalter: Cabreira Solutions.",
+  "distanceKm": 125,
+  "elevationGainM": 3150,
+  "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/01/gf-terras-basto.png"
+}

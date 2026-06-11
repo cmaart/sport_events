@@ -1,0 +1,23 @@
+{
+  "id": "gralloch-gravel-gatehouse-2026",
+  "name": "The Gralloch",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gatehouse of Fleet, Galloway",
+    "lat": 54.883,
+    "lng": -4.184
+  },
+  "websiteUrl": "https://www.grallochgravel.com/",
+  "imageUrl": "https://cdn.prod.website-files.com/68cd1e5ff3f7af1900efef67/68d155e00a6ff7ca2ecb8901__DSC8364.avif",
+  "description": "The Gralloch – UCI Gravel World Series Qualifier in der Galloway-Wildnis Schottlands. Hauptstrecke 111 km / 1.761 Hm über grobe Schotterstraßen und Forstwege mit über 80 % Gravel-Anteil. Start und Ziel im Garries Park in Gatehouse of Fleet, Dumfries & Galloway.",
+  "distanceKm": 111,
+  "elevationGainM": 1761
+}

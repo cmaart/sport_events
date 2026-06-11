@@ -1,0 +1,20 @@
+{
+  "id": "aquathlon-fuerstenfeld-2026",
+  "name": "Aquathlon Fürstenfeld",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fürstenfeld",
+    "lat": 47.050,
+    "lng": 16.084,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://wp.thermentriathlon.at/",
+  "description": "Aquathlon Fürstenfeld im Rahmen der Thermentriathlon-Veranstaltung am Freibad Fürstenfeld (Steiermark). Swim-Run-Format im Begleitprogramm des Haupttriathlons. Veranstaltet von dertriathlon.com.",
+  "imageUrl": "https://wp.thermentriathlon.at/wp-content/uploads/2025/08/DSC04993-1024x683.jpeg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "center-triathlon-neubrandenburg-2026",
+  "name": "4. neu.sw Center Triathlon Neubrandenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neubrandenburg",
+    "lat": 53.5547,
+    "lng": 13.2603,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "description": "4. neu.sw Center Triathlon Neubrandenburg am Tollensesee, Mecklenburg-Vorpommern. Vom Deutschen Triathlon Verband (DTU) ausgeschriebener Wettkampf mit mehreren Distanzen. Der Tollensesee bietet ideale Bedingungen für den Schwimmstart, die Radstrecken führen durch die mecklenburgische Seenlandschaft.",
+  "imageUrl": "https://triathlon-mv.de/wp-content/uploads/2022/11/107.jpg"
+}

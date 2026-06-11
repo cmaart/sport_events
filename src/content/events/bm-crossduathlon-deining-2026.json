@@ -1,0 +1,19 @@
+{
+  "id": "bm-crossduathlon-deining-2026",
+  "name": "Bayerische Meisterschaft Cross Duathlon Deining",
+  "sport": "triathlon",
+  "categories": ["Duathlon", "Cross-Triathlon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Deining",
+    "lat": 49.217,
+    "lng": 11.646,
+    "region": "Bayern"
+  },
+  "description": "Bayerische Meisterschaft im Cross Duathlon 2026 in Deining (Landkreis Neumarkt i. d. Opf., Bayern). Offizieller Meisterschaftswettkampf des Bayerischen Triathlon-Verbandes auf der Cross-Duathlon-Strecke. Geländegängiger Rad- und Laufkurs. Titelkampf für alle Altersklassen.",
+  "imageUrl": "https://triathlonbayern.de/wp-content/uploads/20210925_deining_duathlon_198-1030x687.jpeg"
+}

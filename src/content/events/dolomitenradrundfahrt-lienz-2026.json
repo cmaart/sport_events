@@ -1,0 +1,22 @@
+{
+  "id": "dolomitenradrundfahrt-lienz-2026",
+  "name": "38. Dolomitenradrundfahrt & SuperGiroDolomiti",
+  "sport": "cycling",
+  "categories": ["Gran Fondo", "Radmarathon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lienz",
+    "lat": 46.829,
+    "lng": 12.768,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.dolomitensport.at/de/events/dolomitenradrundfahrt.html",
+  "imageUrl": "https://www.dolomitensport.at/templates/yootheme/cache/f6/13508_20250608_064917_507018572_socialmediaCSportograf-f6621842.jpeg",
+  "description": "Der älteste Radmarathon Österreichs, feiert 2026 sein 75-jähriges Jubiläum. Dolomitenradrundfahrt (Classic): 112 km mit 1.870 Hm über zwei Pässe. SuperGiroDolomiti (Extreme): 218 km mit 5.060 Hm über fünf Pässe inklusive Monte Zoncolan. Zieleinlauf in der historischen Altstadt von Lienz.",
+  "distanceKm": 218,
+  "elevationGainM": 5060
+}

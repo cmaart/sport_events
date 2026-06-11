@@ -1,0 +1,22 @@
+{
+  "id": "gravel-grit-n-grind-halmstad-2026",
+  "name": "Gravel Grit 'n' Grind",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Halmstad",
+    "lat": 56.6745,
+    "lng": 12.8578
+  },
+  "websiteUrl": "https://gravelgritngrind.se/",
+  "imageUrl": "https://gravelgritngrind.se/wp-content/uploads/2023/11/ggg_header_2024.jpg",
+  "description": "Gravel Grit 'n' Grind in Halmstad (Halland, Schweden) – UCI-Gravel-World-Series-Qualifikationsrennen über zwei Tage. Samstag: 90 km und 150 km; Sonntag: 90 km und 125 km auf schottergem Gelände in der südwestschwedischen Küstenregion. Kombiniertes Wochenendformat für Gravel-Enthusiasten."
+}

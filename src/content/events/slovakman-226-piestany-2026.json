@@ -1,0 +1,21 @@
+{
+  "id": "slovakman-226-piestany-2026",
+  "name": "Slovakman 226 Triathlon",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "SK",
+  "dates": {
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Piešťany",
+    "lat": 48.5908,
+    "lng": 17.8341
+  },
+  "websiteUrl": "https://www.slovakman.sk/",
+  "description": "Slovakman 226 Triathlon in Piešťany – Slowakische und Tschechische Langdistanz-Meisterschaft. 3,8 km Schwimmen (4 Runden) im Fluss Váh bei der Lodenica, 180 km Rad (6 Runden) und 42,2 km Laufen (6 Runden) in der traditionsreichen Kurstadt in Westslowakien. Über 20 Jahre Geschichte; gilt als legendäres Rennen in der Region.",
+  "distanceKm": 226,
+  "imageUrl": "https://www.slovakman.sk/images/trate-main24.JPEG"
+}

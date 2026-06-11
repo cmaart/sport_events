@@ -1,0 +1,23 @@
+{
+  "id": "duathlon-brettmuehlenteich-zschorna-2026",
+  "name": "Jedermann Duathlon am Brettmühlenteich",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zschorna bei Großenhain",
+    "lat": 51.2514,
+    "lng": 13.7507,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.sv-motor-grossenhain.de/triathlon-duathlon/duathlon/",
+  "description": "Jedermann Duathlon am Brettmühlenteich im Naherholungszentrum Zschorna bei Großenhain – Freitagabend-Rennen des SV Motor Großenhain. Format: 2 km Laufen – 18 km Radfahren – 4 km Laufen auf flachem Terrain am Naherholungssee. Volksbreitensport ohne Wettkampfdruck, ideal für Einsteiger und aktive Mehrkämpfer.",
+  "distanceKm": 24,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/8c/9f/fd/jedermann-duathlon-am-brettmuehlenteich-66-1570562006.jpg"
+}

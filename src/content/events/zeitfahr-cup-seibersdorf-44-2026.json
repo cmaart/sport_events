@@ -1,0 +1,22 @@
+{
+  "id": "zeitfahr-cup-seibersdorf-44-2026",
+  "name": "ZeitFahr-CUP Speed Seibersdorf 44",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seibersdorf",
+    "lat": 47.974,
+    "lng": 16.524,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://zeitfahr-cup.at/",
+  "description": "Einzelzeitfahren bei Seibersdorf (NÖ) über 44 km mit 128 Höhenmetern. Teil des ZeitFahr-CUP Speed 2026, gleichzeitig findet das 4er-Mannschaftszeitfahren (44 km) statt. Beschrieben als ideales Vorbereitungsrennen für den King of the Lake.",
+  "distanceKm": 44,
+  "elevationGainM": 128,
+  "imageUrl": "https://zeitfahr-cup.at/wp-content/uploads/2022/02/speed_gr_1024x768.jpg"
+}

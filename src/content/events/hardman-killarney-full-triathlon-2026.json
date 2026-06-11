@@ -1,0 +1,23 @@
+{
+  "id": "hardman-killarney-full-triathlon-2026",
+  "name": "Hardman Killarney Full Distance Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Killarney, County Kerry",
+    "lat": 52.0597,
+    "lng": -9.5044
+  },
+  "websiteUrl": "https://hardman.ie/take-on-irelands-only-full-distance-triathlon-2026/",
+  "description": "Hardman Killarney Full Distance – Irlands einziger Full-Triathlon auf der Langdistanz (3,8 km / 180 km / 42,2 km) in der dramatischen Bergseenlandschaft von County Kerry. Schwimmen in den Killarney Lakes, Radkurs durch den Killarney-Nationalpark, Marathon-Lauf mit Blick auf MacGillycuddy's Reeks. Irlands härtster Ausdauertag.",
+  "distanceKm": 226,
+  "elevationGainM": 2000,
+  "imageUrl": "https://hardman.ie/wp-content/uploads/2022/11/the-hardman-killarney.jpg"
+}

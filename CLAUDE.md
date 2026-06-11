@@ -10,8 +10,8 @@ Static site listing amateur cycling races and triathlons for the 2026 season (AT
 
 ```bash
 npm install         # install
-npm run dev         # dev server → http://localhost:4321/sport_events/
-npm run build       # production build → ./dist (24+ pages: index + one per event)
+npm run dev         # dev server → http://localhost:4321/
+npm run build       # production build → ./dist (1000+ pages: index + one per event)
 npm run preview     # preview the production build
 npm run check       # astro check (type + content schema validation)
 ```
@@ -56,7 +56,7 @@ Filter state is mirrored to URL query params (`?sport=…&kat=…&region=…&fro
 ### Map gotchas
 
 - Leaflet's CSS and `leaflet.markercluster` CSS are imported in `EventMap.tsx`.
-- Marker icons are rendered as `L.divIcon` HTML to avoid default-icon 404s under the `/sport_events` base path.
+- Marker icons are rendered as `L.divIcon` HTML to avoid Leaflet's default-icon asset-path 404s.
 - The map fits bounds to currently filtered events; selecting a marker calls `cluster.zoomToShowLayer()` before opening the popup.
 
 ### i18n
@@ -65,7 +65,7 @@ All UI strings are in `src/i18n/de.json` (flat key-value), accessed via `t(key, 
 
 ### Base path
 
-`astro.config.mjs` sets `site: 'https://cmaart.github.io'` + `base: '/sport_events'`. All internal links must use `import.meta.env.BASE_URL` (in `.astro` files) or the `baseUrl` prop passed into islands. The dev server serves under `/sport_events/`, not `/`.
+`astro.config.mjs` sets `site: 'https://events.endure-cycling.com'` with no `base` (custom domain at root), so `import.meta.env.BASE_URL` resolves to `/`. Internal links still go through `import.meta.env.BASE_URL` (in `.astro` files) or the `baseUrl` prop passed into islands — keep that pattern so a base path could be reintroduced without hunting hardcoded URLs. The dev server serves under `/`.
 
 ## Adding an Event
 
@@ -107,3 +107,14 @@ Equally: when removing an event because no 2026 edition exists, document it in t
 These events have been removed because the official organiser has confirmed they are not happening in 2026, even though aggregator sites still list them. Do not re-add them unless the official site explicitly announces a 2026 edition.
 
 - **Leitha.Berg Radmarathon** (Purbach am Neusiedler See, AT) — 2025 abgesagt, keine 2026-Ausgabe angekündigt. Aggregatoren wie Endure-Cycling und Battistrada führen 07.06.2026 spekulativ. Offizielle Quelle: https://www.leithaberg-radmarathon.at/.
+- **IRONMAN 70.3 Budapest** (Budapest, HU) — zuletzt 2016 ausgetragen; seitdem kein Start mehr. Aggregator triafreunde.com führt spekulativ "20.04.2026" basierend auf Altdaten. Offizieller IRONMAN-Europäischer Kalender für 2026 enthält Budapest nicht. Nicht hinzufügen, es sei denn, ironman.com kündigt eine Neuauflage offiziell an.
+- **IRONMAN Ireland** (Youghal/Cork, IE) — nach tödlichen Unfällen 2023 wurden 2024/2025 nicht ausgetragen. Stand Juni 2026 aktiver Rechtsstreit zwischen Triathlon Ireland und IRONMAN über unveröffentlichten Sicherheitsbericht; Oireachtas-Ausschuss eingeschaltet. Kein offiziell bestätigtes 2026-Renndatum auf ironman.com. Nicht hinzufügen bis offizielle IRONMAN-Bestätigung vorliegt.
+- **T100 Triathlon Pamplona (alte Seite)** — Die alte Event-URL /events/pamplona/ war 2025 ein 404. Für 2026 wurde Pamplona Navarra offiziell als neuer Spain-T100-Austragungsort bestätigt (Ankündigung Nov 2025). Das Event ist nun unter `t100-triathlon-pamplona-spain-2026.json` korrekt erfasst.
+- **RideLondon 100** (London, GB) — nach 10. und letzter Ausgabe Mai 2024 dauerhaft eingestellt. Kein 2026-Event. Quelle: sportive.com, Feb 2026.
+- **Velothon Wales** (Wales, GB) — eingestellt nach 2018. Nicht mehr vorhanden.
+- **IRONMAN 70.3 Edinburgh** (Edinburgh, GB) — aus dem Kalender 2019 gestrichen, nicht wieder aufgenommen.
+- **Challenge Lisboa** (Lissabon, PT) — offiziell eingestellt; challenge-lisboa.com zeigt: "Please note that the organisation of this Challenge Family event has been discontinued." Kein 2026-Event vorhanden.
+- **Gran Fondo Bratislava** (Bratislava, SK) — Veranstalter hat auf der offiziellen Website (granfondobratislava.sk) angekündigt: "V roku 2026 si dávame pauzu" (In 2026 machen wir eine Pause). Kein 2026-Event vorhanden. Nicht erneut hinzufügen, es sei denn, die offizielle Seite kündigt wieder eine 2026- oder 2027-Ausgabe an.
+- **IRONMAN 70.3 Wiesbaden** (Wiesbaden, DE) — offiziell im September 2016 eingestellt. Domain ironman703wiesbaden.com ist tot. Aggregatoren (hdsports.org, triafreunde.com) führen das Event mit fiktiven Daten (Mai 2026) weiter. Kein 2026-Event auf dem offiziellen IRONMAN-Europakalender.
+- **IRONMAN Haugesund** (Haugesund, NO) — als 70.3 nach 2017 auf Volldistanz umgestellt; als Volldistanz nur 2018 und 2019 ausgetragen. Seit 2020 nicht mehr stattgefunden; kein 2026-Event auf dem offiziellen IRONMAN-Europakalender. Domain ironman703haugesund.no nicht erreichbar.
+- **Styrkeprøven Trondheim-Oslo** (Trondheim, NO) — 540 km Ultra-Granfondo 2026 offiziell abgesagt; Norwegische Straßenverkehrsbehörde lehnte Genehmigungsantrag im Mai 2026 ab. Kürzere Alternativen (Lillehammer-Oslo, Eidsvoll-Oslo) existieren als separate Veranstaltungen. Kein Trondheim-Oslo 2026. Quellen: styrkeproven.no, cyclenorway.com.

@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-portimao-2026",
+  "name": "Granfondo Portimão",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-11-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Portimão",
+    "lat": 37.136,
+    "lng": -8.5376
+  },
+  "websiteUrl": "https://cabreirasolutions.com/evento/granfondo-portimao/",
+  "description": "3. Granfondo Portimão an der Algarve: Granfondo (139 km / 2.194 Hm), Mediofondo (100 km / 1.611 Hm) und Minifondo (67,5 km / 708 Hm) entlang der Algarve-Küste und durch das Hinterland rund um Portimão. Veranstalter: Cabreira Solutions.",
+  "distanceKm": 139,
+  "elevationGainM": 2194,
+  "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/01/gf-portimao.png"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "albstadt-bike-marathon-2026",
+  "name": "ASSA ABLOY Albstadt Bike Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Albstadt-Ebingen",
+    "lat": 48.2094,
+    "lng": 9.0254,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.albstadt-bike-marathon.de/",
+  "description": "30. ASSA ABLOY Albstadt Bike Marathon – UCI-klassifizierter MTB-Marathon auf der Schwäbischen Alb, bekannt als \"das schönste Radrennen der Welt\". Marathon: 82 km mit ca. 2.000 Hm; Kurzstrecke: 45 km; E-MTB Fun Race und Sparkassen-Kids-Cup. Bis zu 2.500 Teilnehmer.",
+  "distanceKm": 82,
+  "elevationGainM": 2000,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=940x10000:format=jpg/path/s796c1da3432bdbc3/image/i3a0ccb62e84ecb98/version/1753030041/image.jpg"
+}

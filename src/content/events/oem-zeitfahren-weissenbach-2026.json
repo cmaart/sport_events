@@ -1,0 +1,20 @@
+{
+  "id": "oem-zeitfahren-weissenbach-2026",
+  "name": "Österreichische Meisterschaften Einzelzeitfahren 2026",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weißenbach am Attersee",
+    "lat": 47.7998,
+    "lng": 13.5361,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://cyclingaustria.at/",
+  "description": "Österreichische Staatsmeisterschaften im Einzelzeitfahren 2026 in Weißenbach am Attersee (Salzkammergut/OÖ). Alle Klassen von U13/U17 über Junioren bis U23 und Elite (Damen und Herren) sowie Paracycling. Der Kurs führt am Ufer des idyllischen Attersees entlang. Parallel zur ÖM Straßenrennen am Folgetag in Schwanenstadt. Veranstalter: Cycling Austria (ÖRV).",
+  "imageUrl": "https://cyclingaustria.at/images/Beitragsbilder/2025/4.%20quartal/Dezember/1211_OM%20Landingpage/OM-Bilder_Cycling%20Austria_St_0002_2025%2006%2029%20oem%20ms%20hr%20podest%2002%20250.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "grand-escape-austria-innsbruck-2026",
+  "name": "The Grand Escape Austria",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Innsbruck",
+    "lat": 47.2682,
+    "lng": 11.3917,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.thegrandescape.cc/germany-austria-bikepacking/",
+  "description": "The Grand Escape Austria: ~500 km Bikepacking-Loop ab Innsbruck durch Tirol und Bayern. Ca. 4.500 Höhenmeter, überwiegend auf Radwegen und Nebenstraßen. Nicht-kompetitives Format ohne Zeitlimits oder Wertung – eigenes Tempo, freie Tagesgestaltung. Teil der europäischen Grand-Escape-Serie (20.000+ Teilnehmer seit 2014).",
+  "distanceKm": 500,
+  "elevationGainM": 4500,
+  "imageUrl": "https://i.ytimg.com/vi/4WITFqRd7RE/maxresdefault.jpg"
+}

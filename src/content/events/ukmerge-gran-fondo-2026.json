@@ -1,0 +1,21 @@
+{
+  "id": "ukmerge-gran-fondo-2026",
+  "name": "Ukmergės Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LT",
+  "dates": {
+    "start": "2026-05-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ukmergė",
+    "lat": 55.247,
+    "lng": 24.772
+  },
+  "websiteUrl": "https://www.dviratai.lt/jonava-ukmerge-grand-fondo.html",
+  "description": "Ukmergės Gran Fondo – Jedermann-Radmarathon durch die hügelige Landschaft Zentrallitauens rund um Ukmergė. Drei Distanzen: 95 km, 125 km und 155 km auf Asphaltstraßen. Organisiert von dviratai.lt, dem führenden litauischen Radsportveranstalter.",
+  "distanceKm": 155
+}

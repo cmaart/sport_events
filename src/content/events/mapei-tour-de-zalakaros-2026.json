@@ -1,0 +1,24 @@
+{
+  "id": "mapei-tour-de-zalakaros-2026",
+  "name": "Mapei Tour de Zalakaros",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HU",
+  "dates": {
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zalakaros",
+    "lat": 46.6506,
+    "lng": 17.1318
+  },
+  "websiteUrl": "https://tourdezalakaros.hu/en/",
+  "description": "19. Mapei Tour de Zalakaros in Zalakaros (Westungarn): Samstag Bergzeitfahren (Sprint alla Cima), Sonntag Road Marathon (137 km / 1.084 Hm) durch die Zala-Region mit drei Anstiegen (Gelse, Börzönce, Szelemi), Start am Gyógyfürdő-Platz. 6-Stunden-Zeitlimit.",
+  "distanceKm": 137,
+  "elevationGainM": 1084,
+  "imageUrl": "https://tourdezalakaros.hu/wp-content/uploads/2025/01/Spirit_felso_kep.jpg"
+}

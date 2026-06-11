@@ -1,0 +1,20 @@
+{
+  "id": "zeitfahr-cup-perg-2026",
+  "name": "ZeitFahr-CUP EZF Perg",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Perg",
+    "lat": 48.252,
+    "lng": 14.635,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://zeitfahr-cup.at/",
+  "description": "Einzelzeitfahren in Perg (Oberösterreich). Teil des ZeitFahr-CUP 1600HM 2026 – einer österreichischen Zeitfahrserie mit Höhenmeter-Wertung. Herausfordernder Kurs mit Steigungsanteil im Mühlviertel.",
+  "distanceKm": 16
+}

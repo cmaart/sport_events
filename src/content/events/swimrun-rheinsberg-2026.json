@@ -1,0 +1,21 @@
+{
+  "id": "swimrun-rheinsberg-2026",
+  "name": "SwimRun Rheinsberg",
+  "sport": "triathlon",
+  "categories": ["Aquathlon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rheinsberg",
+    "lat": 53.0996,
+    "lng": 12.8921,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.swimrun-rheinsberg.de/",
+  "imageUrl": "https://www.swimrun-rheinsberg.de/fileadmin/_processed_/f/9/csm_Schwimmen-Einstieg-Masse_884b42c1bc.jpg",
+  "description": "10. SwimRun Rheinsberg – Deutschlands größtes SwimRun-Event in der Seenlandschaft der Prignitz nördlich von Berlin. Wechselndes Schwimmen und Laufen durch Seen und Wälder auf drei Distanzen: SuperSprint (4,4 km Lauf / 1,0 km Schwimmen), Sprint (~11,3 km / 2 km) und SwimRun (21,4 km / 3,5 km). Qualifikationsevent für SwimRun-WM.",
+  "distanceKm": 25
+}

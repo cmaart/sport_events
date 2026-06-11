@@ -1,0 +1,22 @@
+{
+  "id": "t100-triathlon-pamplona-spain-2026",
+  "name": "Spain T100 Triathlon Pamplona",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pamplona, Navarra",
+    "lat": 42.8169,
+    "lng": -1.6432
+  },
+  "websiteUrl": "https://t100triathlon.com/spain/",
+  "imageUrl": "https://www.triatlonnoticias.com/wp-content/uploads/2026/04/spain-t100-pamplona-navarra-2026-circuitos-recorridos-scaled.jpg",
+  "description": "Spain T100 Triathlon Pamplona – Profi- und Amateurrennen über die T100-Distanz (100 km gesamt): 2 km Schwimmen im Alloz-Stausee / 80 km Rad bis nach Pamplona / 18 km Laufen durch die mittelalterliche Altstadt mit Ziel am Plaza del Castillo. Beinhaltet die Spanische Meisterschaft Mitteldistanz. Pamplona ist ab 2026 Gastgeber der T100 Spain als Teil der globalen PTO T100 World Tour.",
+  "distanceKm": 100
+}

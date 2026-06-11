@@ -1,0 +1,23 @@
+{
+  "id": "mosttour-kuerrberg-2026",
+  "name": "Mosttour",
+  "sport": "cycling",
+  "categories": ["Radmarathon", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-12",
+    "end": "2026-06-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kürnberg / St. Peter in der Au",
+    "lat": 48.0054,
+    "lng": 14.5538,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.mosttour.at/",
+  "imageUrl": "https://www.mosttour.at/wp-content/uploads/2026/05/Header_Samstag_2026-1200x885.png",
+  "description": "Mosttour im Mostviertel (NÖ): Freitag Einzelzeitfahren (15,7 km / 410 Hm, Start Stadtbad Steyr); Samstag MTB-Marathon in drei Distanzen – Extrem 59 km/2.380 Hm, Medium 38 km/1.520 Hm, Light 17,5 km/670 Hm; Sonntag Kinderprogramm und Bike-Biathlon. Neue Strecke 2026. Veranstalter: Sportunion Kürnberg.",
+  "distanceKm": 59,
+  "elevationGainM": 2380
+}

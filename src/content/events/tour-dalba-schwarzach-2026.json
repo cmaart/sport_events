@@ -1,0 +1,23 @@
+{
+  "id": "tour-dalba-schwarzach-2026",
+  "name": "14. Tour d'Alba Schwarzach",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schwarzach",
+    "lat": 47.4677,
+    "lng": 9.7744,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://tourdalba.com/",
+  "registrationUrl": "https://tourdalba.com/anmeldung/",
+  "imageUrl": "https://tourdalba.com/wp-content/uploads/2026/03/tda25_0166.jpg.webp?w=1024",
+  "description": "14. Tour d'Alba Schwarzach – entspannte Radausfahrt durch das Vorarlberger Rheintal auf Vintage-Stahlrädern (Baujahr bis ca. 1990). Große und kleine Route in idyllischer Voralpenlandschaft. Kein Zeitdruck, Fokus auf Gemeinschaft und nostalgisches Radfahren. Erwachsenenkleidung aus den 70er/80er Jahren erwünscht."
+}

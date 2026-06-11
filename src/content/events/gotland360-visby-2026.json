@@ -1,0 +1,23 @@
+{
+  "id": "gotland360-visby-2026",
+  "name": "Gotland360",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2026-09-04",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Visby, Gotland",
+    "lat": 57.6348,
+    "lng": 18.2948
+  },
+  "websiteUrl": "https://gotland360.se",
+  "description": "Gotland360 – dreitägiges Radelevent auf der schwedischen Insel Gotland mit Start und Ziel in Visby. Freie Tagesdistanzwahl: Freitag 80 km (Fårörundan), Samstag 90–200 km, Sonntag 90–160 km. Flache, nahezu autofreie Küstenstraßen durch Kalkstein-Landschaft und mittelalterliche Dörfer. Bis 650 Teilnehmer, nicht-kompetitiv, lokale Verpflegung inklusive.",
+  "distanceKm": 360,
+  "imageUrl": "https://gotland360.se/wp-content/uploads/elementor/thumbs/Gotland360-250913-186-scaled-1-rf9naahu0ekxsngu6j93c20dko9swm56wkjv3uc580.jpg"
+}

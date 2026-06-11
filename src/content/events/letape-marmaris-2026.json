@@ -1,0 +1,23 @@
+{
+  "id": "letape-marmaris-2026",
+  "name": "L'Étape Marmaris by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "TR",
+  "dates": {
+    "start": "2026-06-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Marmaris",
+    "lat": 36.8556,
+    "lng": 28.2664
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape Marmaris by Tour de France – erste Ausgabe des ASO-Jedermann-Rennens an der türkischen Ägäisküste: Lange Strecke (97 km / ca. 1.900 Hm) und kurze Strecke (66 km) rund um die Badestadt Marmaris in der Provinz Muğla. Teil der offiziellen globalen L'Étape-Series von Tour de France-Veranstalter ASO.",
+  "distanceKm": 97,
+  "elevationGainM": 1900,
+  "imageUrl": "https://www.letapeseries.com/uploads/news/2026/06/07/letapemarmaris-10_simple.jpg"
+}

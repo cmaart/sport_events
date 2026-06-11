@@ -1,0 +1,23 @@
+{
+  "id": "vatternrundan-gravel-2026",
+  "name": "Vätternrundan Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Motala",
+    "lat": 58.5356,
+    "lng": 15.0367
+  },
+  "websiteUrl": "https://www.vatternrundan.se/en",
+  "distanceKm": 120,
+  "imageUrl": "https://cdn.sanity.io/images/pfyexgj4/production-v2/991421416c66afcb3f1bcd999b5a9d9b445c1ae3-2048x1152.jpg",
+  "description": "Vätternrundan Gravel – eigenständige Gravel-Edition der legendären schwedischen Veranstaltung rund um den Vätternsee. 120 km Gravel-Kurs durch Wälder und an Seen entlang in der Heimregion um Motala. Qualifikationsveranstaltung für internationale Gravel-Serien."
+}

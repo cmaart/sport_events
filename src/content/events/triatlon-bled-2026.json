@@ -1,0 +1,22 @@
+{
+  "id": "triatlon-bled-2026",
+  "name": "Triatlon Bled – Europe Triathlon Junior Cup",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bled",
+    "lat": 46.3683,
+    "lng": 14.1146
+  },
+  "websiteUrl": "https://triatlonslovenije.si/",
+  "imageUrl": "https://www.bled.si/img/2019111115203383/mid/triatlon2.jpg?m=1725616033",
+  "description": "Triatlon Bled am legendären Bleder See – Europa Triathlon Junior Cup 2026 und Slowenische Staatsmeisterschaft. Super Sprint und Standard-Distanz mit Schwimmen im glasklaren Bleder See, Rad durch die Gorenjska-Region, Lauf entlang des Sees mit Blick auf Burg Bled und die Julischen Alpen.",
+  "distanceKm": 51
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bilbao-bilbao-cicloturista-2026",
+  "name": "Marcha Cicloturista Bilbao-Bilbao",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-03-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bilbao",
+    "lat": 43.263,
+    "lng": -2.935
+  },
+  "websiteUrl": "https://www.bilbaobilbao.com/en/home-en/",
+  "description": "Marcha Cicloturista Internacional Bilbao-Bilbao – 37. Auflage des traditionsreichen baskischen Cicloturistas: drei Strecken (85 km / 800 Hm, Clásica 115 km / 1.200 Hm, Vivero 125 km / 1.600 Hm) durch das Bilbaoer Umland und die baskischen Bergzüge. Keine Zeitnahme, reines Cicloturismo-Erlebnis; Start an der Puente de Deusto.",
+  "distanceKm": 125,
+  "elevationGainM": 1600
+}

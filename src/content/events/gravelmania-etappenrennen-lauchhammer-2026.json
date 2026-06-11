@@ -1,0 +1,24 @@
+{
+  "id": "gravelmania-etappenrennen-lauchhammer-2026",
+  "name": "Gravelmania Etappenrennen",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Etappenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-03",
+    "end": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lauchhammer-Kostebrau",
+    "lat": 51.5046,
+    "lng": 13.78,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://germangravelleague.de/",
+  "description": "Gravelmania Etappenrennen in Lauchhammer-Kostebrau (Brandenburg): dreitägiges Gravel-Etappenrennen als Teil der German Gravel League 2026. Drei Etappen (Freitag-Sonntag) mit technisch anspruchsvollem Prolog am Freitagabend sowie zwei schnellen Kursen an Samstag und Sonntag. Klassen: PRO, AGEGROUP und OPEN; Einzelstart an einem Tag möglich. Veranstalter: gravelmania.",
+  "imageUrl": "https://www.radsport-sah.de/wp-content/uploads/2026/04/2026_German-Grave-League_Header.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cross-duathlon-wendelstein-2026",
+  "name": "3. Cross Duathlon Wendelstein",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon",
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-10-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wendelstein",
+    "lat": 49.354,
+    "lng": 11.151,
+    "region": "Bayern"
+  },
+  "websiteUrl": "http://teamoptimum.de/",
+  "description": "3. Cross Duathlon Wendelstein – erstmals im Cross-Format auf Gravel und Trail: 6 km Laufen – 20 km Mountainbike – 4 km Laufen, organisiert vom RC Wendelstein 1913. Zusätzlich Jugendrennen und Bambini Run. Saisonabschluss des BTV Memmert Youth Cups, ca. 20 km südöstlich von Nürnberg.",
+  "distanceKm": 30,
+  "imageUrl": "https://teamoptimum.de/wp-content/uploads/2023/11/20230917_duathlon_wendelstein_ogo_0253-1024x660.jpg"
+}

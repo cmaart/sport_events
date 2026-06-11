@@ -1,0 +1,25 @@
+{
+  "id": "lakes-n-knoedel-fuschl-2026",
+  "name": "Lakes 'n' Knödel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-07",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fuschl am See",
+    "lat": 47.7999,
+    "lng": 13.2996,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://lakesnknoedel.com/",
+  "description": "Lakes 'n' Knödel: Selbstgestütztes Bikepacking-Abenteuer von Fuschl am See durch die Salzburger Alpen, Bayern und Tirol bis zum Bodensee. Ca. 725 km und 14.000 Höhenmeter. Checkpoint-basiertes Format mit GPX-Track. Briefing 6. September 2026, Start 7. September, Finish-Deadline 13. September. Alpine Kulisse vom Salzkammergut über Karwendel bis Vorarlberg.",
+  "distanceKm": 725,
+  "elevationGainM": 14000,
+  "imageUrl": "https://bikepacking.com/wp-content/uploads/2026/04/Lakes-n-Knodel-2026-2000x1333.jpg"
+}

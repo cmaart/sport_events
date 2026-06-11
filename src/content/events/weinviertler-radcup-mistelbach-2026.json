@@ -1,0 +1,19 @@
+{
+  "id": "weinviertler-radcup-mistelbach-2026",
+  "name": "Weinviertler Radcup EZF Mistelbach",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-04-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mistelbach",
+    "lat": 48.572,
+    "lng": 16.591,
+    "region": "Niederösterreich"
+  },
+  "description": "Einzelzeitfahren in Mistelbach (Weinviertel, NÖ). Runde des Weinviertler Radcups 2026 – einer Zeitfahrserie im niederösterreichischen Weinviertel nördlich von Wien.",
+  "distanceKm": 16
+}

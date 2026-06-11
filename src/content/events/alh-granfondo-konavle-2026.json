@@ -1,0 +1,21 @@
+{
+  "id": "alh-granfondo-konavle-2026",
+  "name": "ALH Granfondo Konavle",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2026-03-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Čilipi (Konavle)",
+    "lat": 42.5838,
+    "lng": 18.3133
+  },
+  "websiteUrl": "https://www.stoperica.live/races/406",
+  "description": "ALH Granfondo Konavle führt 90 km durch die historische Konavle-Region südlich von Dubrovnik, organisiert vom BK Konavle in Partnerschaft mit Adriatic Luxury Hotels. Neben der Gran-Fondo-Distanz (90 km) steht eine Classic-Runde (30 km) für Freizeitfahrer zur Verfügung. Über 100 Teilnehmer aus 11 Nationen bei der 2026er Ausgabe.",
+  "distanceKm": 90
+}

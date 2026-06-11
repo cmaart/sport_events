@@ -1,0 +1,20 @@
+{
+  "id": "thermenregion-cup-pottendorf-2026",
+  "name": "Thermenregion-Cup 2. EZF Pottendorf",
+  "sport": "cycling",
+  "categories": ["Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-05-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tattendorf",
+    "lat": 47.959,
+    "lng": 16.390,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.radmarathon.at/termine/detail_cup.php?rmlang=de&id=46",
+  "description": "2. Runde des Thermenregion-Cups 2026: Einzelzeitfahren in Pottendorf-Tattendorf (NÖ) auf flachem Turnaround-Kurs durch die Thermenregion. Gut geeignet als Tempokurs für Rennrad und Zeitfahrmaschinen.",
+  "distanceKm": 16
+}
