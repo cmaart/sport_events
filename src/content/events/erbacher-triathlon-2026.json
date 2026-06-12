@@ -1,0 +1,21 @@
+{
+  "id": "erbacher-triathlon-2026",
+  "name": "Erbacher Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erbach (Donau)",
+    "lat": 48.3303,
+    "lng": 9.9195,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.dtu-kalender.de/event/sport/show/6435",
+  "description": "Erbacher Triathlon im Donauwinkelstadion Erbach (Alb-Donau-Kreis), veranstaltet vom TSV Erbach. Sprintdistanz und Volkstri am Ufer der Donau südöstlich von Ulm. Traditionsreiche Vereinsveranstaltung."
+}

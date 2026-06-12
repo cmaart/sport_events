@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://baltijasmaratoni.lv/",
   "description": "Jūrmala Cycling Marathon – eine der größten Radsportveranstaltungen im Baltikum, auf gesperrten Straßen durch die Kurstadt Jūrmala (60 km westlich von Riga). Drei Distanzen für alle Niveaus, Hauptstrecke ca. 62 km. Veranstalter: Baltijas Maratoni.",
-  "distanceKm": 62
+  "distanceKm": 62,
+  "imageUrl": "https://www.latvia.travel/sites/default/files/styles/mobile_promo/public/media_image/Jurmalas_velomaratons.jpg?itok=FqLnugtL"
 }

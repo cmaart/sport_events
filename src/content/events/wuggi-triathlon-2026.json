@@ -1,0 +1,22 @@
+{
+  "id": "wuggi-triathlon-2026",
+  "name": "11. Wuggi-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Höllensteinsee, Prackenbach",
+    "lat": 49.012,
+    "lng": 12.797,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://bayronman.com",
+  "description": "11. Wuggi-Triathlon am Höllensteinsee bei Prackenbach/Kollnburg im Bayerischen Wald. Cross-Triathlon mit 1 km Schwimmen, 24 km MTB-Strecke und 10 km Laufen durch den Bayerischen Wald. Veranstalter: Bayronman e.V.",
+  "distanceKm": 35
+}
