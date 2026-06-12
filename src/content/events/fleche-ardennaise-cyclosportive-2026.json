@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.cycloworld.cc/en/gran-fondo/belgium/fleche-ardennaise/39023",
   "description": "Flèche Ardennaise Cyclosportive in Baelen (Provinz Lüttich) bietet vier Strecken (60–170 km / 850–2.900 Hm) durch die Hautes Fagnes und das Hohe Venn. Die 170-km-Königsdistanz überwindet 2.900 Höhenmeter und gilt als eines der schwersten Amateurrenden Belgiens. Teil des offiziellen Brevet Cyclo-Coteur Belge (BCCB); Veranstalter: C.C. Dolhain.",
   "distanceKm": 170,
-  "elevationGainM": 2900
+  "elevationGainM": 2900,
+  "imageUrl": "https://wbt.azureedge.net/sites/default/files/51736.jpg"
 }

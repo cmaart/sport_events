@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.utrka.com/utrke/granfondokrizevci/2026/info/",
   "description": "Granfondo Križevci startet am historischen Trg J. J. Strossmayera in der mittelalterlichen Kleinstadt Križevci und führt 105 km (1.157 Hm) durch das Hügelland des Bilogorje. Zusätzlich steht ein Medio Fondo über 73 km (784 Hm) zur Auswahl. Zeitlimit 4:30 Stunden; Veranstalter: Radsportverband Križevci.",
   "distanceKm": 105,
-  "elevationGainM": 1157
+  "elevationGainM": 1157,
+  "imageUrl": "https://cloudpowered.blob.core.windows.net/images/2025-Križevci.png"
 }

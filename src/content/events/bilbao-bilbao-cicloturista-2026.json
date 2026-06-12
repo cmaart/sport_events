@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.bilbaobilbao.com/en/home-en/",
   "description": "Marcha Cicloturista Internacional Bilbao-Bilbao – 37. Auflage des traditionsreichen baskischen Cicloturistas: drei Strecken (85 km / 800 Hm, Clásica 115 km / 1.200 Hm, Vivero 125 km / 1.600 Hm) durch das Bilbaoer Umland und die baskischen Bergzüge. Keine Zeitnahme, reines Cicloturismo-Erlebnis; Start an der Puente de Deusto.",
   "distanceKm": 125,
-  "elevationGainM": 1600
+  "elevationGainM": 1600,
+  "imageUrl": "https://www.bilbaobilbao.com/wp-content/uploads/2025/10/fnd-introduccion-1024x499.jpg"
 }
