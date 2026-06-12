@@ -18,5 +18,6 @@
   "websiteUrl": "https://inflandersfieldscyclo.be/en/",
   "description": "In Flanders Fields Cyclo in Wevelgem verbindet fünf Distanzen (70–225 km) mit der Kriegsgedenkstätten-Landschaft Westflanderns und ikonischen Anstiegen wie Kemmelberg und Plugstreet-Kopfsteinpflasterpassagen. Die 225-km-Variante führt bis Middelkerke an der Küste. Die Cyclosportive findet einen Tag vor dem UCI-Monument Gent-Wevelgem statt.",
   "distanceKm": 225,
-  "elevationGainM": 1100
+  "elevationGainM": 1100,
+  "imageUrl": "https://inflandersfieldscyclo.be/wp-content/uploads/sites/77/2025/11/K2025_1831_GWC-banners_1920-x-1005_10.jpg"
 }
