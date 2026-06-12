@@ -1,0 +1,22 @@
+{
+  "id": "dreikirchener-triathlon-2026",
+  "name": "28. Dreikirchener systemceram Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dreikirchen / Hundsangen",
+    "lat": 50.4333,
+    "lng": 7.95,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.sc-dreikirchen.de/triathlon/systemceram-triathlon-duathlon/",
+  "description": "28. Dreikirchener systemceram Triathlon/Duathlon im Westerwald, veranstaltet vom SC Alemannia Dreikirchen. Sprint-Triathlon: 300 m Hallenbad-Schwimmen im Freibad Hundsangen, 21,8 km Rad, 5,18 km Laufen. Zusätzlich Duathlon und Staffelwettbewerb. Max. 135 Einzelstarter.",
+  "distanceKm": 27
+}

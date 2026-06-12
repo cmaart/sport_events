@@ -1,0 +1,23 @@
+{
+  "id": "riesenbecker-triathlon-2026",
+  "name": "43. Riesenbecker-Polyvlies-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Torfmoorsee, Hörstel-Bevergern",
+    "lat": 52.283,
+    "lng": 7.571,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.riesenbecker-triathlon.de/",
+  "description": "43. Riesenbecker-Polyvlies-Triathlon am Torfmoorsee in Hörstel-Bevergern (NRW), organisiert vom SV Teuto Riesenbeck. Olympische Distanz (1,5/40/10 km) und Volksdistanz-Sprint (0,6/20/5 km) sowie Schnuppertriathlon und Jugendkategorien. Traditioneller Vereinstriathlon im Münsterland.",
+  "distanceKm": 51
+}
