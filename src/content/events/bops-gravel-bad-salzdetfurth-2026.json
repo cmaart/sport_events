@@ -17,5 +17,6 @@
   "websiteUrl": "https://sportstadt.bad-salzdetfurth.de/BOP/",
   "description": "Gravel-Rennen im Bike- und Outdoorpark (BOP) Bad Salzdetfurth, Teil der German Gravel League. Start und Ziel am legendären Bikepark mit drei Distanzen: 44 km (Einsteiger), 66 km (Erfahrene) und 110 km (Alle). Feiner Schotter, knackige Anstiege und Naturerlebnisse in der hügligen Landschaft des Niedersächsischen Hügellandes. Eigene Frauenstarts für mehr Sichtbarkeit.",
   "distanceKm": 110,
-  "elevationGainM": 1200
+  "elevationGainM": 1200,
+  "imageUrl": "https://germangravelleague.de/wp-content/uploads/2026/02/lbepnkjnkkckhkpd-2-scaled.jpg"
 }

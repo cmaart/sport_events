@@ -1,0 +1,23 @@
+{
+  "id": "laacher-see-mtb-marathon-2026",
+  "name": "Laacher See MTB Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nickenich",
+    "lat": 50.4116,
+    "lng": 7.3479,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://laachersee-mtb-marathon.de/",
+  "description": "Der Laacher See MTB Marathon führt über Schotter- und Waldwege rund um den vulkanischen Laacher See in der Eifel, unweit von Mendig und Andernach. Vier Distanzen von 30 bis 80 Kilometern mit bis zu 1.300 Höhenmetern bieten für alle Leistungsstufen die passende Herausforderung im faszinierenden Vulkanland Eifel.",
+  "distanceKm": 80,
+  "elevationGainM": 1300
+}

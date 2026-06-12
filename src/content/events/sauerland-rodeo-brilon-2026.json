@@ -1,0 +1,23 @@
+{
+  "id": "sauerland-rodeo-brilon-2026",
+  "name": "Sauerland Rodeo",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Brilon",
+    "lat": 51.3964,
+    "lng": 8.5699,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://natureholix.de/",
+  "description": "Das Sauerland Rodeo in Brilon ist ein Gravel-Abenteuer mitten im Hochsauerland: 200 km schroffe Schotterwege, verwunschene Waldpfade und rauschende Bäche durch eine der wildesten Mittelgebirgslandschaften Deutschlands. Selbstversorgerprinzip, keine Zeitnahme – pures Erlebnis im Sattel.",
+  "distanceKm": 200,
+  "elevationGainM": 3500
+}

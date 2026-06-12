@@ -1,0 +1,25 @@
+{
+  "id": "world-games-mountainbiking-saalbach-2026",
+  "name": "World Games of Mountainbiking Saalbach",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-11",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saalbach-Hinterglemm",
+    "lat": 47.3917,
+    "lng": 12.6428,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.saalbach.com/en/events/worldgames",
+  "description": "Die 27. World Games of Mountainbiking in Saalbach-Hinterglemm bringen das internationale MTB-Festival zurück ins Salzburger Glemmtal. Herzstück ist der MTB-Marathon am 12./13. September mit Distanzen von 21 bis 80 km durch die spektakuläre Bergwelt der Glemmtaler Alpen. Dazu Cross-Country, Enduro und Downhill – eines der ältesten und größten Mountainbike-Events Österreichs.",
+  "distanceKm": 80,
+  "elevationGainM": 2200,
+  "imageUrl": "https://www.saalbach.com/fotos-event/sommer/world-games-of-mountainbiking/2024/image-thumb__8265252__box-img/WGOM24%20Marathon%20c%20Martin%20Steiger%20%28098%29.jpg"
+}

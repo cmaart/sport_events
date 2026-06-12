@@ -1,0 +1,24 @@
+{
+  "id": "rosa200-faak-am-see-2026",
+  "name": "ROSA200",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Faak am See",
+    "lat": 46.5695,
+    "lng": 13.9092,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.rosa200.at/",
+  "description": "Die ROSA200 startet am Faaker See in Kärnten und führt durch die sonnige Bergwelt Südkärntens und Kanaltal bis nach Tarvis (IT). Vier Distanzen von 70 bis 215 km erschließen das Dreiländereck Österreich–Italien–Slowenien mit alpinen Pässen, smaragdgrünen Seen und traumhaften Weitblicken. Besonderheit: komplett auf asphaltierten Straßen, keine Zeitnahme.",
+  "distanceKm": 215,
+  "elevationGainM": 2800,
+  "imageUrl": "https://www.rosa200.at/wp-content/uploads/2026/02/Stabentheiner_FHD-126.jpg"
+}
