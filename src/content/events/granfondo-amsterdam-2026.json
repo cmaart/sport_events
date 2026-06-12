@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://www.granfondoamsterdam.nl/",
   "description": "Gran Fondo Amsterdam: Granfondo 115 km, Mediofondo 85 km oder Kurzstrecke 65 km durch die Provinz Noord-Holland und die Polder der Randstad. Start im Herzen von Amsterdam.",
-  "distanceKm": 115
+  "distanceKm": 115,
+  "imageUrl": "https://www.nltourrides.nl/wp-content/uploads/2022/04/foto-gf-adam--1030x513.png"
 }
