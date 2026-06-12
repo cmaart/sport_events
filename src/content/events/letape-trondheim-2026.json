@@ -18,5 +18,6 @@
   "websiteUrl": "https://trondheim.letapeseries.com/",
   "description": "L'Étape Trondheim by Tour de France – erstes offizielles L'Étape-Rennen in Norwegen, anlässlich des Tour-de-France-Starts 2025 in Trondheim. Gesperrte Straßen durch Trondheims Hügellandschaft; Strecken: 130 km / 1.570 Hm und 75 km / 1.058 Hm. Über 3.000 Voranmeldungen; Teil der weltweiten L'Étape-Serie.",
   "distanceKm": 130,
-  "elevationGainM": 1570
+  "elevationGainM": 1570,
+  "imageUrl": "https://trondheim.letapeseries.com/uploads/static/2026/05/05/l-e-tape-trondheim-hero-web-v4_simple.jpg"
 }
