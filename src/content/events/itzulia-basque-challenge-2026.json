@@ -18,5 +18,6 @@
   "websiteUrl": "https://itzuliabasquechallenge.com/en/",
   "description": "Itzulia Basque Challenge – offizieller Gran Fondo der Itzulia Basque Country (Vuelta al País Vasco): World-Tour-Route (133,8 km / 3.000 Hm, Anstiege Asentzio, Gorla, Azkarate je zweimal) und Medio Fondo (70,2 km / 1.650 Hm), Start und Ziel in Bergara. Jedermann fahren am Tag nach der Abschlussetappe dieselbe Königsetappe wie die WorldTour-Profis.",
   "distanceKm": 134,
-  "elevationGainM": 3000
+  "elevationGainM": 3000,
+  "imageUrl": "https://itzuliabasquechallenge.com/wp-content/uploads/2026/04/ITZULIA_BCH__NK80604-1-1024x682.jpg"
 }
