@@ -18,5 +18,6 @@
   "websiteUrl": "https://www.utrka.com/utrke/biciklivrbovec/2026/info/",
   "description": "Granfondo Vrbovec (3. Auflage) führt 98 km (974 Hm) durch das hügelige Prigorje östlich von Zagreb mit Start und Ziel am Trg Petra Zrinskog im Stadtzentrum. Zusätzlich steht ein Medio Fondo über 61 km (621 Hm) zur Wahl. Kein Lizenznachweis erforderlich; alle Finisher erhalten eine Medaille.",
   "distanceKm": 98,
-  "elevationGainM": 974
+  "elevationGainM": 974,
+  "imageUrl": "https://wp-radiovrbovec-mediaoffload.storage.googleapis.com/wp-content/uploads/2026/05/CJ8A8056.jpg"
 }
