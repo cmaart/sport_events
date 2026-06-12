@@ -18,5 +18,6 @@
   "websiteUrl": "https://bikemaraton.com.pl/szklarska-poreba-jakuszyce/",
   "description": "Bike Maraton Szklarska Poręba–Jakuszyce – Runde 4 der größten polnischen MTB-Marathonserie, Teil des Izery Bike Festivals: neue ULTRA-Distanz über 103 km / 1.960 Hm ab Polana Jakuszycka durch die Isergebirgs-Wälder nahe der tschechischen Grenze. Weitere Optionen: MEGA 55 km, CLASSIC 32 km, FUN 18 km.",
   "distanceKm": 103,
-  "elevationGainM": 1960
+  "elevationGainM": 1960,
+  "imageUrl": "https://bikemaraton.com.pl/wp-content/uploads/2026/05/jakuszyce-foto5.jpg"
 }
