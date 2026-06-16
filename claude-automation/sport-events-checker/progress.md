@@ -1,5 +1,68 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-06-16 (Session 27)
+
+## Current state (after Session 27):
+- **Total events: 1120** (1093 → +27 new events = 1120)
+- Build: 0 errors, 0 warnings (astro check)
+- Latest push: commit 977154d to master ✓ (deployment triggered)
+
+## Changes made this session (Session 27):
+
+### imageUrls added to existing events (3):
+- `zeitfahr-cup-perg-2026` ← official 2026 Perg race photo (zeitfahr-cup.at, 1024×683)
+- `loewensteiner-berge-radmarathon-2026` ← group photo on road (rsv-heidelberg.de, 1024×768)
+- `laacher-see-mtb-marathon-2026` ← YouTube race thumbnail (1280×720, verified 200 OK)
+
+### New triathlon events (6, DTU/ÖTRV confirmed):
+- `piratentriathlon-amberg-2026` — DE/Bayern, Olympische Distanz, Jul 11, Amberg
+- `koog-kollektiv-2026` — DE/Schleswig-Holstein, Olympische Distanz, Jul 25, Risum-Lindholm
+- `hugenotten-duathlon-2026` — DE/Hessen, Duathlon, Nov 1, Neu-Isenburg
+- `crossduathlon-naturfreunde-klaus-2026` — AT/OÖ, Duathlon, Jun 20, Klaus an der Pyhrnbahn
+- `gaishorner-bergduathlon-2026` — AT/Steiermark, Duathlon, Sep 5, Gaishorn am See
+- `kosiak-loewe-2026` — AT/Kärnten, Duathlon, Oct 3, Feistritz im Rosental
+
+### New cycling events AT (8, radmarathon.at/ÖRV calendar):
+- `lochau-bergzeitfahren-2026` — AT/Vorarlberg, Berg+Zeitfahren, Jun 18, Lochau (6km/590Hm)
+- `mucki-bergrennen-lilienfeld-2026` — AT/NÖ, Berg+Zeitfahren, Jul 18, Lilienfeld
+- `muehldorfer-almtrophy-2026` — AT/Kärnten, Berg, Aug 22, Lurnfeld
+- `landsthalsprint-hainfeld-2026` — AT/NÖ, Berg+Zeitfahren, Aug 22, Hainfeld
+- `oestm-gravel-pama-2026` — AT/Burgenland, Gravel, Sep 12, Pama (Austrian Gravel Championship)
+- `kurt-honisch-gedenkrennen-2026` — AT/NÖ, Gran Fondo, Sep 13, Dornbach/Wienerwald
+- `lhistorica-bad-wimsbach-2026` — AT/OÖ, Gran Fondo, Aug 29, Bad Wimsbach-Neydharting (vintage bikes)
+- `vintage-tour-donau-2026` — AT/NÖ, Gran Fondo, Aug 30, Rohrendorf/Krems (Donau, vintage bikes)
+
+### New cycling events DE (13, cycloworld.cc/research confirmed):
+- `saarlandschwein-radmarathon-2026` — DE/Saarland, Radmarathon, Jun 20, Überherrn (400km ultra)
+- `gran-gravelfondo-ueberrherrn-2026` — DE/Saarland, Gran Fondo+Gravel, Jun 20, Überherrn (130km)
+- `duesseldorf-300-2026` — DE/NRW, Radmarathon, Jun 19-20, Düsseldorf (300km overnight)
+- `cycling-paradise-sylt-2026` — DE/Schleswig-Holstein, Gran Fondo, Aug 29, Wenningstedt-Braderup (100km)
+- `bayrisch-lettn-2026` — DE/Bayern, Gravel, Jun 18, Nürnberg (387km/7360Hm bikepacking)
+- `ultra-500-leipzig-2026` — DE/Sachsen, Gravel, Jun 20, Leipzig (500km/5000Hm bikepacking)
+- `kanalfahrt-westerroenfeld-2026` — DE/Schleswig-Holstein, Radmarathon, Jul 5, Westerrönfeld (207km)
+- `black-forest-ultra-bike-marathon-kirchzarten-2026` — DE/BW, Radmarathon, Jul 26, Kirchzarten (118km MTB)
+- `sauerland-marathon-schmallenberg-2026` — DE/NRW, Radmarathon, Aug 15, Schmallenberg-Grafschaft (116km MTB)
+- `miriquidi-bike-challenge-2026` — DE/Sachsen, Radmarathon, Aug 22, Marienberg/Erzgebirge (90km MTB)
+- `duensberg-bike-marathon-2026` — DE/Hessen, Gravel+Radmarathon, Aug 30, Biebertal (85km)
+- `flatlands-spreewald-2026` — DE/Brandenburg, Gravel, Jul 25, Schlepzig
+- `cycling-paradise-sylt-2026` — DE/Schleswig-Holstein, Gran Fondo, Aug 29
+
+### Already in DB (confirmed during check — no action needed):
+- race-across-the-alps (525km ultra, exists with imageUrl)
+- Alpentour Trophy Schladming, Fuga 300 Heiligenblut, Ironbike Ischgl, Montafon M3, Mostviertler Bike Marathon, Race Across Germany, Rodenkirchener Eifelmarathon, Schwalm-Tal Marathon, Schwarzwald Bike Marathon Furtwangen, VulkanBike Eifel, 3RIDES Winterberg, Black Forest Ultra Gravel, Saarschleifen Bike Mettlach, Bodensee Gravel Giro, Schwetzinger Höllgrund, EBM Erzgebirgs Bike Marathon, NordSchwarzwald Trophy, Lautertal Bikemarathon, Gravel Rallye Black Forest, Shades of Speed Bad Feilnbach, Dirndltal Race Frankenfels, World Games MTB Saalbach, Monaco di Baviera Classic München
+
+### Coverage confirmed complete (Session 27):
+- IRONMAN Full Distance Europe 2026: all 17 events in DB ✓
+- IRONMAN 70.3 Europe 2026: all ~35 events in DB ✓
+- Challenge Family Europe 2026: all 17 events in DB ✓
+- T100 World Tour Europe 2026: all 3 events in DB ✓
+- Austrian cycling (radmarathon.at): comprehensive, 8 new events added
+
+### Cancelled/paused events confirmed (not added):
+- Hexenturm-Radmarathon Idstein: date conflict between sources (cycloworld: Jun 28, research agent: Aug 16) — needs verification before adding
+
+---
+
 ## Session date: 2026-06-09 (Session 25)
 
 ## Current state (after Session 25):
