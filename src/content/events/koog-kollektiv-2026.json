@@ -1,0 +1,18 @@
+{
+  "id": "koog-kollektiv-2026",
+  "name": "Koog Kollektiv Triathlon",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Risum-Lindholm",
+    "lat": 54.7493,
+    "lng": 8.9072,
+    "region": "Schleswig-Holstein"
+  },
+  "description": "Der Koog Kollektiv Triathlon findet in Risum-Lindholm in der nordfriesischen Marschenlandschaft an der dänischen Grenze statt. Schwimmen in der flachen Nordseeregion, Radfahren durch die weitläufigen Köge und Laufen durch das charakteristische Küstendorf. DTU-lizenzierte Veranstaltung im Nordfriesland."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vintage-tour-donau-2026",
+  "name": "Vintage-Tour Donau",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rohrendorf",
+    "lat": 48.4011,
+    "lng": 15.6225,
+    "region": "Niederösterreich"
+  },
+  "description": "Die Vintage-Tour Donau startet in Rohrendorf bei Krems und führt auf historischen Rennrädern entlang der Donau durch die Wachau und das Kremstal. Veranstaltung für Liebhaber klassischer Fahrräder und Retro-Radsport in einer der schönsten Flusslandschaften Österreichs, UNESCO-Welterbe Wachau."
+}

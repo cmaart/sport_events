@@ -1,0 +1,18 @@
+{
+  "id": "landsthalsprint-hainfeld-2026",
+  "name": "Landsthalsprint Hainfeld",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hainfeld",
+    "lat": 48.0322,
+    "lng": 15.7689,
+    "region": "Niederösterreich"
+  },
+  "description": "Der Landsthalsprint Hainfeld ist ein Bergzeitfahren durch das malerische Landsthal bei Hainfeld in den niederösterreichischen Voralpen. Kurzes, aber steiles Bergprofil durch das enge Tal südlich der Bezirksstadt. Veranstaltung im ÖRV-Kalender Niederösterreichs."
+}

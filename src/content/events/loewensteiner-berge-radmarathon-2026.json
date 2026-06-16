@@ -19,5 +19,6 @@
   "websiteUrl": "https://www.rsv-rot.de/",
   "description": "Radmarathon Zu den Löwensteiner Bergen des RSV Victoria Rot führt von St. Leon-Rot in die hügelige Landschaft des Kraichgaus und der Löwensteiner Berge. Vier Streckenvarianten von 70 bis 200 Kilometern stehen zur Wahl. BDR-Radmarathon-Cup-Wertungslauf im Premierenjahr des Vereins im nationalen Cup.",
   "distanceKm": 200,
-  "elevationGainM": 1800
+  "elevationGainM": 1800,
+  "imageUrl": "https://rsv-heidelberg.de/wordpress/wp-content/uploads/2018/06/IMG_20180624_075347_722.jpg"
 }

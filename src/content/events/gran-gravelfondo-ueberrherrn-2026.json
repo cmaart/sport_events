@@ -1,0 +1,20 @@
+{
+  "id": "gran-gravelfondo-ueberrherrn-2026",
+  "name": "Gran & Gravelfondo Überherrn",
+  "sport": "cycling",
+  "categories": ["Gran Fondo", "Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Überherrn",
+    "lat": 49.2467,
+    "lng": 6.69,
+    "region": "Saarland"
+  },
+  "websiteUrl": "https://www.rsc-ueberrherrn.de",
+  "description": "Gran & Gravelfondo Überherrn bietet zwei parallele Strecken durch die hügelige Saarland-Mosel-Landschaft nahe der französischen Grenze: 130 km Road Gran Fondo und 130 km Gravel-Variante. Gemeinschaftsveranstaltung des RSC Überherrn zusammen mit dem Saarlandschwein-Radmarathon.",
+  "distanceKm": 130
+}

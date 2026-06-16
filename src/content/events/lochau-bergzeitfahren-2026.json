@@ -1,0 +1,20 @@
+{
+  "id": "lochau-bergzeitfahren-2026",
+  "name": "Lochau Bergzeitfahren",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lochau",
+    "lat": 47.5267,
+    "lng": 9.7589,
+    "region": "Vorarlberg"
+  },
+  "description": "Das Lochau Bergzeitfahren führt von Lochau am Bodensee hinauf auf die Höhe über dem Rheindelta – 6 Kilometer und 590 Höhenmeter reines Bergzeitfahren mit Blick auf den Bodensee und die Bregenzer Acht. Lokale Breitensport-Veranstaltung im ÖRV-Kalender Vorarlbergs.",
+  "distanceKm": 6,
+  "elevationGainM": 590
+}

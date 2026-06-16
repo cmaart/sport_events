@@ -1,0 +1,20 @@
+{
+  "id": "sauerland-marathon-schmallenberg-2026",
+  "name": "Sauerland Marathon Schmallenberg",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schmallenberg-Grafschaft",
+    "lat": 51.1667,
+    "lng": 8.2667,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://radsport-grafschaft.de",
+  "description": "Der Sauerland Marathon Schmallenberg führt durch die bewaldeten Mittelgebirgslandschaften des Hochsauerlandes rund um Schmallenberg. Vier Distanzen von 35 bis 116 Kilometern bieten vom Einsteiger bis zum erfahrenen MTB-Marathonfahrer das passende Profil durch Täler und Höhenzüge des Rothaargebirges.",
+  "distanceKm": 116
+}

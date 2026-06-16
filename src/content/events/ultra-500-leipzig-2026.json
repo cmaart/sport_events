@@ -1,0 +1,21 @@
+{
+  "id": "ultra-500-leipzig-2026",
+  "name": "Ultra 500 Leipzig",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://ultra500.de",
+  "description": "Der Ultra 500 Leipzig ist ein mehrtägiges Gravel-Bikepacking-Event mit 500 Kilometern und 5.000 Höhenmetern durch Sachsen und Thüringen. Start in Leipzig, die Route führt über Schotterwege durch den Erzgebirgsvorraum, Thüringer Wald und das Vogtland zurück. Selbstversorgerprinzip, keine offizielle Zeitnahme.",
+  "distanceKm": 500,
+  "elevationGainM": 5000
+}

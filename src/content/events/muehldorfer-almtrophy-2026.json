@@ -1,0 +1,18 @@
+{
+  "id": "muehldorfer-almtrophy-2026",
+  "name": "Mühldorfer Almtrophy",
+  "sport": "cycling",
+  "categories": ["Berg"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lurnfeld",
+    "lat": 46.8978,
+    "lng": 13.4733,
+    "region": "Kärnten"
+  },
+  "description": "Die Mühldorfer Almtrophy führt von Lurnfeld im Drautal auf die Mühldorfer Alm im Kärntner Hochgebirge. Bergrennen mit erheblichem Höhengewinn durch die Almwiesen und Wälder des Lesachtal-Vorlandes. Veranstaltung im ÖRV-Kalender Kärntens."
+}

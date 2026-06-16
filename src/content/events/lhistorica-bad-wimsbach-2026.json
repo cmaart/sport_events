@@ -1,0 +1,18 @@
+{
+  "id": "lhistorica-bad-wimsbach-2026",
+  "name": "L'Historica Bad Wimsbach",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Wimsbach-Neydharting",
+    "lat": 48.0369,
+    "lng": 13.9744,
+    "region": "Oberösterreich"
+  },
+  "description": "L'Historica in Bad Wimsbach-Neydharting ist eine Radveranstaltung für historische Fahrräder und Vintage-Radsport in der oberösterreichischen Voralpenregion zwischen Wels und dem Traunsee. Liebhaber klassischer Rennräder fahren in historischer Rennkleidung durch die sanft hügelige Landschaft des oberösterreichischen Almtals."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "piratentriathlon-amberg-2026",
+  "name": "Piratentriathlon Amberg",
+  "sport": "triathlon",
+  "categories": ["Olympische Distanz"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Amberg",
+    "lat": 49.4447,
+    "lng": 11.8647,
+    "region": "Bayern"
+  },
+  "description": "Der Piratentriathlon Amberg findet in der historischen Oberpfälzer Stadt Amberg statt. Schwimmen, Radfahren und Laufen in piratiger Atmosphäre rund um die mittelalterliche Altstadt an der Vils. DTU-lizenzierter Triathlon im bayerischen Wettkampfkalender."
+}

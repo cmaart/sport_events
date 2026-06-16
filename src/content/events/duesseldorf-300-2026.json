@@ -1,0 +1,20 @@
+{
+  "id": "duesseldorf-300-2026",
+  "name": "Düsseldorf 300",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Düsseldorf",
+    "lat": 51.2217,
+    "lng": 6.7762,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.dus300.de",
+  "description": "Der Düsseldorf 300 ist ein Nacht-Ultra-Radmarathon mit Start Freitagabend in Düsseldorf: Strecken von 200, 300 oder 400 Kilometern durch das Bergische Land, den Niederrhein und die Eifel-Ausläufer. Kein Rennen, kein Zeitlimit – alle Distanzen als Einzelstart nach dem Audax-Prinzip.",
+  "distanceKm": 300
+}

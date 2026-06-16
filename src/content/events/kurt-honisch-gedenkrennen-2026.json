@@ -1,0 +1,18 @@
+{
+  "id": "kurt-honisch-gedenkrennen-2026",
+  "name": "Kurt Honisch Gedenkrennen",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dornbach",
+    "lat": 48.2183,
+    "lng": 16.1333,
+    "region": "Niederösterreich"
+  },
+  "description": "Das Kurt Honisch Gedenkrennen ist eine jährliche Gedenkveranstaltung im niederösterreichischen Wienerwald, benannt nach dem österreichischen Radsportpionier Kurt Honisch. Die Strecke führt durch die bewaldeten Hügel des Wienerwaldes westlich von Wien. Breitensportveranstaltung im ÖRV-Kalender Niederösterreichs."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "kosiak-loewe-2026",
+  "name": "Kosiak Löwe",
+  "sport": "triathlon",
+  "categories": ["Duathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feistritz im Rosental",
+    "lat": 46.4972,
+    "lng": 14.2078,
+    "region": "Kärnten"
+  },
+  "description": "Der Kosiak Löwe ist ein Crossduathlon im Rosental südlich von Ferlach in Kärnten, benannt nach dem Koschuta-Bergmassiv an der slowenischen Grenze. Gelände-Duathlon mit Trailrunning und Off-Road-Radfahren durch die bewaldeten Karawanken-Ausläufer. ÖTRV-lizenzierte Herbstveranstaltung."
+}

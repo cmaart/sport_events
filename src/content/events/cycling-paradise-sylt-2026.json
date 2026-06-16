@@ -1,0 +1,20 @@
+{
+  "id": "cycling-paradise-sylt-2026",
+  "name": "Cycling Paradise Sylt",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wenningstedt-Braderup",
+    "lat": 54.9352,
+    "lng": 8.3267,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://cycling-paradise.com",
+  "description": "Cycling Paradise Sylt ist eine geführte Radsportveranstaltung auf der Nordseeinsel Sylt mit Streckenvarianten von 40 bis 100 Kilometern entlang der gesamten Insel. Start in Wenningstedt-Braderup, vorbei an Watt, Dünen und Weststrand – einzigartige Insulaner-Atmosphäre bei flachem bis leicht hügeligem Profil.",
+  "distanceKm": 100
+}

@@ -1,0 +1,18 @@
+{
+  "id": "oestm-gravel-pama-2026",
+  "name": "ÖSTM/ÖM Gravel Pama",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pama",
+    "lat": 47.9969,
+    "lng": 17.0261,
+    "region": "Burgenland"
+  },
+  "description": "Die Österreichische Staatsmeisterschaft und Österreichische Meisterschaft im Gravel-Radsport findet in Pama im nördlichen Burgenland statt. Eigenständige Staatsmeisterschafts-Veranstaltung in der pannonischen Tiefebene nahe dem Neusiedler See – nicht zu verwechseln mit dem Pama Energie Gravel-Rennen im Mai desselben Jahres."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hugenotten-duathlon-2026",
+  "name": "Hugenotten Duathlon",
+  "sport": "triathlon",
+  "categories": ["Duathlon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-11-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neu-Isenburg",
+    "lat": 50.0473,
+    "lng": 8.6953,
+    "region": "Hessen"
+  },
+  "description": "Der Hugenotten Duathlon in Neu-Isenburg am Rand der Rhein-Main-Metropole verbindet Laufen und Radfahren in einem Herbst-Wettkampf südlich von Frankfurt. Durch die Hugenotten-Geschichte der Stadt geprägte Veranstaltung im DTU-Kalender, flaches bis leicht hügeliges Profil im Frankfurter Umland."
+}

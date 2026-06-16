@@ -1,0 +1,20 @@
+{
+  "id": "duensberg-bike-marathon-2026",
+  "name": "Celtic Race Dünsberg Bike Marathon",
+  "sport": "cycling",
+  "categories": ["Gravel", "Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Biebertal",
+    "lat": 50.64,
+    "lng": 8.635,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://duensberg-bike-marathon.de",
+  "description": "Der Celtic Race Dünsberg Bike Marathon in Biebertal führt über Waldwege, Schotter und Singletrails rund um den 494 m hohen Dünsberg in der mittelhessischen Kuppenlandschaft. Vier Streckenlängen von 29 bis 85 Kilometern für MTB- und Gravelbiker auf keltisch geprägten Historikpfaden.",
+  "distanceKm": 85
+}

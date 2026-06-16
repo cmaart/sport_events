@@ -1,0 +1,18 @@
+{
+  "id": "flatlands-spreewald-2026",
+  "name": "Flatlands Spreewald",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schlepzig",
+    "lat": 51.9403,
+    "lng": 14.0297,
+    "region": "Brandenburg"
+  },
+  "description": "Flatlands Spreewald ist ein Gravel-Event durch die weitläufige Biosphärenreservat-Landschaft des brandenburgischen Spreewaldes – flache Feldwege, Waldpfade und Schotterstraßen durch Kahnfahrtkanäle, Wiesen und Erlenbrüche. Einzigartiges Flachlandabenteuer auf Schutzgebiets-Wegen südlich von Cottbus."
+}

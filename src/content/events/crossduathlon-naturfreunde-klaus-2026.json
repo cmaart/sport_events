@@ -1,0 +1,18 @@
+{
+  "id": "crossduathlon-naturfreunde-klaus-2026",
+  "name": "Crossduathlon Naturfreunde Klaus",
+  "sport": "triathlon",
+  "categories": ["Duathlon"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Klaus an der Pyhrnbahn",
+    "lat": 47.8617,
+    "lng": 14.1783,
+    "region": "Oberösterreich"
+  },
+  "description": "Der Crossduathlon Naturfreunde Klaus findet in Klaus an der Pyhrnbahn im oberösterreichischen Steyrtal statt. Gelände-Duathlon mit Trailrunning und Mountainbike durch die waldreiche Voralpenlandschaft südlich von Kirchdorf an der Krems. ÖTRV-lizenzierte Veranstaltung in der Nähe des Pyhrnpasses."
+}

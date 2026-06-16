@@ -1,0 +1,20 @@
+{
+  "id": "saarlandschwein-radmarathon-2026",
+  "name": "Saarlandschwein Radmarathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Überherrn",
+    "lat": 49.2467,
+    "lng": 6.69,
+    "region": "Saarland"
+  },
+  "websiteUrl": "https://www.rsc-ueberrherrn.de",
+  "description": "Das Saarlandschwein ist ein Ultra-Radmarathon im Saarland mit Strecken von 200 bis 400 Kilometern, ausgehend von Überherrn nahe der französischen und luxemburgischen Grenze. Die Routen führen durch die hügelige Moselle-Landschaft und den Saarländischen Pfälzerwald – ein Nachtrennen mit Selbstversorgerprinzip.",
+  "distanceKm": 400
+}

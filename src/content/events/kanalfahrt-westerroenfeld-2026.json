@@ -1,0 +1,20 @@
+{
+  "id": "kanalfahrt-westerroenfeld-2026",
+  "name": "Kanalfahrt",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Westerrönfeld",
+    "lat": 54.29,
+    "lng": 9.61,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://rbc-1894.de",
+  "description": "Die Kanalfahrt in Westerrönfeld führt entlang des Nord-Ostsee-Kanals durch die flache Schleswig-Holsteinische Seenlandschaft zwischen Nordsee und Ostsee. Fünf Streckenoptionen von 43 bis 207 Kilometern durch sanfte Hügel, Alleen und die charakteristische norddeutsche Küstenlandschaft.",
+  "distanceKm": 207
+}

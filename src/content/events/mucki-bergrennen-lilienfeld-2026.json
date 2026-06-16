@@ -1,0 +1,18 @@
+{
+  "id": "mucki-bergrennen-lilienfeld-2026",
+  "name": "Mucki Bergrennen Lilienfeld",
+  "sport": "cycling",
+  "categories": ["Berg", "Zeitfahren"],
+  "country": "AT",
+  "dates": {
+    "start": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lilienfeld",
+    "lat": 48.0078,
+    "lng": 15.5936,
+    "region": "Niederösterreich"
+  },
+  "description": "Das Mucki Bergrennen in Lilienfeld ist ein Bergzeitfahren in der niederösterreichischen Voralpenlandschaft des Traisental. Die Strecke führt von der Stadtgemeinde Lilienfeld hinauf in das bewaldete Berggelände des Wienerwald-Vorlandes. Breitensportveranstaltung im ÖRV-Kalender Niederösterreichs."
+}

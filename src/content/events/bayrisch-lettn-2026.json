@@ -1,0 +1,21 @@
+{
+  "id": "bayrisch-lettn-2026",
+  "name": "Bayrisch Lettn",
+  "sport": "cycling",
+  "categories": ["Gravel"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-06-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nürnberg",
+    "lat": 49.4521,
+    "lng": 11.0767,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://bayrischlettn.de",
+  "description": "Bayrisch Lettn ist ein Gravel-Bikepacking-Event von Nürnberg durch die fränkische Schweiz, den Frankenwald und den Fichtelgebirge – 387 Kilometer und über 7.300 Höhenmeter durch das ländliche Bayern. Kein Rennen, kein Support – reine Eigenständigkeit auf unbefestigten Wegen und Schotterpisten.",
+  "distanceKm": 387,
+  "elevationGainM": 7360
+}

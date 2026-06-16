@@ -1,0 +1,20 @@
+{
+  "id": "black-forest-ultra-bike-marathon-kirchzarten-2026",
+  "name": "Black Forest Ultra Bike Marathon",
+  "sport": "cycling",
+  "categories": ["Radmarathon"],
+  "country": "DE",
+  "dates": {
+    "start": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kirchzarten",
+    "lat": 47.9603,
+    "lng": 7.9553,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://ultra-bike.de",
+  "description": "Der Black Forest Ultra Bike Marathon in Kirchzarten im Dreisamtal ist einer der härtesten MTB-Marathons im Schwarzwald: Strecken von 118 bis 46 Kilometern über Waldpfade, Schotterwege und Waldstraßen mit bis zu 4.000 Höhenmetern. Der Wettkampf findet parallel zum Black Forest Ultra Gravel am Tag davor statt.",
+  "distanceKm": 118
+}
