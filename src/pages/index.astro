@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import EventsExplorer from '../components/islands/EventsExplorer';
+import AppPromo from '../components/AppPromo.astro';
 import { t } from '../lib/i18n';
 import type { EventData } from '../lib/filters';
 
@@ -172,6 +173,8 @@ const jsonLd = {
       </div>
     </div>
   </section>
+
+  <AppPromo class="mt-6 mb-2" />
 
   <div id="explore"></div>
   <EventsExplorer client:load events={events} baseUrl={base} />

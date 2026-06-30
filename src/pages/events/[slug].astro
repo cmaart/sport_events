@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import EventDetailMap from '../../components/islands/EventDetailMap';
 import ShareButton from '../../components/islands/ShareButton';
+import AppPromo from '../../components/AppPromo.astro';
 import { formatDateRange, t } from '../../lib/i18n';
 import { COUNTRY_LABELS } from '../../lib/types';
 import { collectLandingPaths } from '../../lib/landing';
@@ -310,4 +311,6 @@ const breadcrumbsLd = {
       </div>
     </section>
   </article>
+
+  <AppPromo class="mb-12" />
 </BaseLayout>
