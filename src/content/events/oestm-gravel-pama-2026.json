@@ -14,5 +14,9 @@
     "lng": 17.0261,
     "region": "Burgenland"
   },
-  "description": "Die Österreichische Staatsmeisterschaft und Österreichische Meisterschaft im Gravel-Radsport findet in Pama im nördlichen Burgenland statt. Eigenständige Staatsmeisterschafts-Veranstaltung in der pannonischen Tiefebene nahe dem Neusiedler See – nicht zu verwechseln mit dem Pama Energie Gravel-Rennen im Mai desselben Jahres."
+  "websiteUrl": "https://rc-awr.at/oe-gravel-staatsmeisterschaft-2026",
+  "description": "Die Österreichische Staatsmeisterschaft und Meisterschaft im Gravel-Radsport 2026 wird vom RC AWR im Auftrag von Cycling Austria rund um Pama im nördlichen Burgenland ausgetragen. Start und Ziel sind beim SK Pama (Heidesiedlung, 2422 Pama) in der pannonischen Tiefebene nahe dem Neusiedler See. Drei Streckenoptionen führen über schnelle Schotterwege, Feldwege und Waldpassagen: 132 km mit 1.347 Höhenmetern für Men Elite und U23, 88 km mit 989 Höhenmetern für Women Elite und U23 bzw. 898 Höhenmetern für Amateur- und Altersklassen sowie 44 km mit 449 Höhenmetern für Touristik und E-Bike. Titel werden in allen Elite-, U23- und Altersklassen vergeben; die Zeitmessung erfolgt per Chip. Nicht zu verwechseln mit dem Pama Energie Gravel-Rennen im Mai desselben Jahres am selben Austragungsort.",
+  "distanceKm": 132,
+  "elevationGainM": 1347,
+  "imageUrl": "https://content.app-sources.com/s/45899027445378854/uploads/Gravel/AWR-Gravel-Rennen-1-2026-0403893.webp"
 }

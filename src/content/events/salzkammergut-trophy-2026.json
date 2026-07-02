@@ -18,8 +18,8 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://www.salzkammergut-trophy.at/",
-  "description": "Österreichs größter MTB-Marathon im UNESCO-Welterbegebiet Hallstatt–Dachstein mit über 3.500 internationalen Teilnehmern. Sieben Strecken zwischen 22 und 209 km sowie drei Gravel-Routen; die Route A bietet 209 km und rund 9.000 Höhenmeter durch das alpine Salzkammergut.",
-  "distanceKm": 209,
-  "elevationGainM": 9000,
+  "description": "Die Salzkammergut Trophy in Bad Goisern am Hallstättersee ist seit 1998 Österreichs größter MTB-Marathon und gilt als eines der härtesten Mountainbike-Rennen Europas. Sieben Marathon-Strecken stehen zur Wahl (22, 37, 55, 57, 75, 119 und 201 km), dazu drei Gravel-Routen; die Extremstrecke A misst 201 km mit rund 7.020 Höhenmetern und führt in einem Ritt durch das UNESCO-Welterbegebiet Hallstatt–Dachstein. Startgelände ist Bad Goisern, die Routen queren das Innere Salzkammergut mit Blicken auf den Hallstättersee, den Dachstein und die Umgebung des Wolfgangsees. Regelmäßig kämpfen über 3.500 internationale Teilnehmerinnen und Teilnehmer um Platzierungen; die 201-km-Route ist zeitlich streng limitiert und Kult unter Ultra-Marathonfahrern.",
+  "distanceKm": 201,
+  "elevationGainM": 7020,
   "imageUrl": "https://www.salzkammergut-trophy.at/_uploads/_fotos/10113_0358_Salzkammergut_Trophy25_Bernd_Schrckelsberger_Presse.jpg"
 }

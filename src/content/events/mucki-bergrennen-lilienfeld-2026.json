@@ -14,5 +14,8 @@
     "lng": 15.5936,
     "region": "Niederösterreich"
   },
-  "description": "Das Mucki Bergrennen in Lilienfeld ist ein Bergzeitfahren in der niederösterreichischen Voralpenlandschaft des Traisental. Die Strecke führt von der Stadtgemeinde Lilienfeld hinauf in das bewaldete Berggelände des Wienerwald-Vorlandes. Breitensportveranstaltung im ÖRV-Kalender Niederösterreichs."
+  "websiteUrl": "https://alpenteamcup.at/rennen/mucki-bergrennen/",
+  "description": "Das Mucki Bergrennen ist ein Bergsprint auf den Muckenkogel im Traisental und Namensgeber der Mucki Alpen Team Cup-Serie (sieben Bergrennen für MTB und Rennrad in Niederösterreich und der Steiermark). Start ist am Almgasthaus Billensteiner in der Kolmstraße oberhalb von Lilienfeld, Ziel bei der Traisnerhütte. Die aktuelle Streckenlänge wird auf radmarathon.at mit rund 10,5 km und 930 Höhenmetern angegeben (ältere Angaben zur Erstauflage 2022 nennen 6,4 km/640 Hm für eine kürzere Variante). Offen für Rennrad, Mountainbike, Gravel und E-Bike. Veranstalter ist ISO-TECH Renner in Kooperation mit dem URC Hainfeld; Wertung erfolgt im ÖRV-Kalender Niederösterreichs sowie im Gesamtranking des Alpen Team Cup.",
+  "distanceKm": 10,
+  "elevationGainM": 930
 }

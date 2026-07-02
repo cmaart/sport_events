@@ -1,5 +1,73 @@
 # Sport Events Checker – Session Progress
 
+## Session date: 2026-07-02 (Session 28 – Enrichment-first Wartungslauf)
+
+## Current state (after Session 28):
+- **Total events: 1116** (1119 → −3 Duplikate = 1116)
+- **Upcoming (>= 2026-07-02): 634 | Past (indexiert via noindex): 482**
+- Build: 1164 pages, 0 errors, 0 warnings
+- Sitemap: 682 URLs — vergangene Events korrekt ausgeschlossen (noindex-Feature aus Session 27 aktiv)
+- Latest push: (this session) — push auf master triggert Deployment
+
+## Kontext dieses Laufs
+Fokus lag ausschließlich auf **Enrichment und Datenqualität**, keine Neuanlagen (Ziel: Google-Throttle-Aufhebung durch Qualität statt Menge, nicht neuerliches Fluten).
+
+## Enrichment (23 künftige Events angereichert)
+
+**Große/bekannte Events — Beschreibungen faktenreich verdichtet und Distanzen/Höhenmeter belegt oder korrigiert:**
+- `challenge-roth-2026` — Beschreibung von 1 Satz auf 6+ Sätze verdichtet (Geschichte seit 1984, Volunteers 7500, Solarer Berg, Zieleinlauf, Slot-Rush)
+- `wachau-radmarathon-2026` — Beschreibung von 133 Zeichen auf ~7 Sätze, Rassinger-Zitat "2000+ Teilnehmer", drei Distanzen (Light/Power/Krone Champions) belegt
+- `salzkammergut-trophy-2026` — Distanz von falsch 209 km/9000 Hm auf **korrekt 201 km/7020 Hm** gefixt, 7 Strecken (22/37/55/57/75/119/201) belegt, seit 1998
+- `sauerland-marathon-schmallenberg-2026` — Distanz 116→117 km, elevationGainM **3863 m ergänzt**, Ultra Rothaarsteig / Marathon / Wilzenberg-Klassiker / Studenten belegt, imageUrl ergänzt
+- `black-forest-ultra-bike-marathon-kirchzarten-2026` — elevationGainM **4000 ergänzt**, Streckenbeschreibung um Schauinsland/Höhenzüge erweitert
+- `flugfeld-giro-boeblingen-2026` — distanceKm **208 + elevationGainM 2590 ergänzt**, alle 6 Tour-Varianten (208/161/132/87/40/15 km) mit Hm belegt
+- `montafon-m3-mtb-marathon-2026` — distanceKm **75 ergänzt**, 5 Streckenvarianten (M¹/M²/M³ + 2x E-MTB) belegt
+- `rad-marathon-tannheimer-tal-2026` — Beschreibung verdichtet, alle 4 Distanzen (66/103/138/214) mit Hm belegt, Ausverkaufsstatus 2026
+
+**Kleine/spezialisierte AT-Events — websiteUrl + distanceKm + elevationGainM + faktenreiche Beschreibung ergänzt (Research-Agent + eigene Recherche):**
+- `mucki-bergrennen-lilienfeld-2026` — 10 km/930 m, alpenteamcup.at, Muckenkogel/Traisnerhütte, Mucki-Alpen-Team-Cup-Serie
+- `landsthalsprint-hainfeld-2026` — 6 km/510 m, urchainfeld.sportunion.at, Kirchenberg/Wirtshaus Landsthal, Saisonfinale ATC
+- `muehldorfer-almtrophy-2026` — 12 km/980 m, eisenwadl.com, 14. Ausgabe, Möllbrücke→Klinghütte, MTB/Gravel/E-Bike/Handbike, imageUrl
+- `lhistorica-bad-wimsbach-2026` — lhistorica.at, drei Kategorien (Traditional/Vintage Tweed/Classic Racer), Moorlandschaft Neydharting
+- `vintage-tour-donau-2026` — vintage-tour.at, 99 km/820 m, Start Weingut Lenz Moser Rohrendorf, imageUrl, Schloss Gobelsburg
+- `kurt-honisch-gedenkrennen-2026` — 61 km/873 m, radclub-moedling.at, Wienerwald-Rundkurs Dornbach, 10:00 Uhr Start
+- `oestm-gravel-pama-2026` — 132 km/1347 m, rc-awr.at, ÖSTM Gravel im Auftrag Cycling Austria, 3 Distanzen (132/88/44), imageUrl
+
+**Sonstige DE Events — Beschreibungen erweitert / Fakten korrigiert:**
+- `kanalfahrt-westerroenfeld-2026` — 6 Distanzen (Familie/43/79/129/160/207 km), Start OTSV Osterrönfeld 7:30 Uhr, Anmeldeschluss 2. Juli 23:59
+- `aluman-triathlon-grevesmuehlen-2026` — Edition-Fix (14.→18.), distanceKm 28 ergänzt, exakte 500/21,5/6,5 km + Startgebühren + Ort
+- `iok-triathlon-verl-2026` — 21. Ausgabe, Verler See (Vinkenbach-Areal), Beschreibung von 130 Zeichen auf 6 Sätze
+- `sparkassen-triathlon-schopfheim-2026` — 15. Ausgabe (seit 2012), Kategorien detailliert, TSCH Langenau
+- `gealan-triathlon-hof-2026` — 43. Ausgabe + 27. Stadtwerke Youth Triathlon parallel, Untreusee-Kulisse, Frühbucher-Deadline
+- `karlsfelder-triathlon-2026` — Beschreibung von 205 Zeichen auf 7 Sätze, Dachauer Moos + Amper-Auwälder + Rundkurs am See
+- `welzheimer-triathlon-2026` — 41. Ausgabe, Naturpark Schwäbisch-Fränkischer Wald, TSF Welzheim, 6 Sätze
+- `tour-dalba-schwarzach-2026` — distanceKm **50 + elevationGainM 1000 ergänzt**, kleine (20/500)/große (50/1000) Route
+
+## Duplikate entfernt (3)
+- `muhldorfer-almtrophy-2026.json` — dublette von `muehldorfer-almtrophy-2026.json` (gleicher Termin 22.08., Kärnten)
+- `horstel-triathlon-2026.json` — dublette von `riesenbecker-triathlon-2026.json` (43. Riesenbecker-Polyvlies-Triathlon am 30.08., Hörstel-Bevergern; besser gepflegte Version behalten)
+- `sudkarntner-triathlon-2026.json` — dublette von `suedkaerntner-triathlon-2026.json` (8. Südkärntner Triathlon 12./13.09. am Klopeinersee; version mit distanceKm+elevationGainM behalten)
+
+## Datenfixes (1)
+- `altwarmbuchener-triathlon-hannover-2026.json` — `id` von `"altwarmbüchener-…"` (mit Umlaut) auf `"altwarmbuchener-…"` korrigiert, damit slug == filename == id.
+
+## Verbleibende Enrichment-Backlog (Snapshot nach diesem Lauf)
+- Missing image (upcoming): **20** (war 24) — meist Aggregator-blockierte Sites (Piratentriathlon Amberg keine offizielle Site auffindbar, Koog Kollektiv/Hugenotten kein DNS, Cross Triathlon Karlstadt 503, thueringer-gravel-night, flatlands-spreewald, miriquidi-mtb.de blockt WebFetch für Detail-Pages)
+- Missing distanceKm (upcoming cycling): **77** (war 88)
+- Missing elevationGainM (upcoming cycling): **318** (war 330)
+- Thin descriptions (<200 Zeichen ODER <3 Sätze): **166** (war 184)
+- **Backlog für Session 29:** Piratentriathlon Amberg offizielle Site aufspüren (bikeboard-Umleitung o.ä.), Koog Kollektiv Triathlon Risum-Lindholm (DTU-Detailseite tote Deep-Links), Cross Triathlon Karlstadt (503 wiederholt), miriquidi-mtb.de Detail-Pages (nur via Facebook-Feed erreichbar), Sauerland Rodeo Brilon (05.09.), Duensberg Bike Marathon (30.08.), flatlands-spreewald (Streckenlängen).
+
+## SEO / Sitemap
+- Build grün (1164 Seiten, 52s)
+- Sitemap enthält 682 URLs (nur indexierbare Seiten, keine noindex/vergangenen Events)
+- noindex-Feature aus Session 27 (commit e12215f) läuft stabil — 482 vergangene Events werden korrekt aus dem Sitemap ausgeschlossen und mit `noindex, follow` gerendert.
+
+## Keine Neuanlagen
+Bewusster Verzicht auf neue Events in diesem Lauf (Anti-Flut-Regel + noch hoher Bedarf an Enrichment bei Bestandsevents). Backlog neuer Kandidaten aus letzten Sessions bleibt in Aggregator-Quellen abrufbar; Priorität nächster Lauf bleibt Enrichment (>= 20 künftige Events veredeln, Titel/Beschreibungen inhaltlich verdichten).
+
+---
+
 ## Session date: 2026-06-16 (Session 27)
 
 ## Current state (after Session 27):

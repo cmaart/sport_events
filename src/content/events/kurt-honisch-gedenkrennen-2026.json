@@ -14,5 +14,8 @@
     "lng": 16.1333,
     "region": "Niederösterreich"
   },
-  "description": "Das Kurt Honisch Gedenkrennen ist eine jährliche Gedenkveranstaltung im niederösterreichischen Wienerwald, benannt nach dem österreichischen Radsportpionier Kurt Honisch. Die Strecke führt durch die bewaldeten Hügel des Wienerwaldes westlich von Wien. Breitensportveranstaltung im ÖRV-Kalender Niederösterreichs."
+  "websiteUrl": "https://www.radclub-moedling.at/kurt-honisch-gedenkrennen-2026/",
+  "description": "Das Kurt Honisch Gedenkrennen ist ein traditionsreiches Straßenrennen zum Gedenken an den Radsportler Kurt Honisch, ausgetragen auf einem Wienerwald-Rundkurs bei Dornbach im Süden Wiens. Startort ist der Dornbacherhof / Gasthaus Schöny (Ortsstraße 15) in Dornbach, Startzeit 10:00 Uhr. Der Rundkurs ist bis Sittendorf neutralisiert und führt anschließend über Hochroterd und die L128 zurück über Sulz nach Dornbach. Gefahren werden zwei Distanzen: 42 km mit 611 Höhenmetern (2 Runden) für Damen D1–D2, Herren M5–M6 und Ü65 sowie 61 km mit 873 Höhenmetern (3 Runden) für Herren M1–M4. Ausrichter ist der RC Mödling; das Rennen zählt zum ÖRV-Kalender Niederösterreichs.",
+  "distanceKm": 61,
+  "elevationGainM": 873
 }

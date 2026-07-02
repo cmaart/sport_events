@@ -15,6 +15,8 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://radsport-grafschaft.de",
-  "description": "Der Sauerland Marathon Schmallenberg führt durch die bewaldeten Mittelgebirgslandschaften des Hochsauerlandes rund um Schmallenberg. Vier Distanzen von 35 bis 116 Kilometern bieten vom Einsteiger bis zum erfahrenen MTB-Marathonfahrer das passende Profil durch Täler und Höhenzüge des Rothaargebirges.",
-  "distanceKm": 116
+  "description": "Der SKS Sauerland Marathon startet in Schmallenberg-Grafschaft (Schulstraße 20) und führt über überwiegend Wald- und Schotterwege durch das Hochsauerland und das Rothaargebirge. Vier Kategorien stehen zur Wahl: Ultra Rothaarsteig über 117 km mit 3.863 Höhenmetern, Marathon über 80 km mit 2.942 Höhenmetern, Wilzenberg-Klassiker über 44 km mit 1.100 Höhenmetern sowie eine 8,2-km-Studentenwertung. Alle längeren Distanzen beinhalten eine 8-km-Einführungsrunde vor dem Hauptrennen. Start der MTB-Rennen ist um 9:15 Uhr, Studenten- und Gravel-Kategorien um 9:20 Uhr; entlang der Strecken werden mehrere Labestationen mit Elektrolytgetränken, Wasser, Snacks und Obst versorgt. Startgebühren im Early-Bird-Tarif (bis 30. April) liegen zwischen 10 und 30 Euro je nach Kategorie. Veranstalter sind DJK RS Grafschaft e.V. und SC Wilzenberg e.V.",
+  "distanceKm": 117,
+  "elevationGainM": 3863,
+  "imageUrl": "https://www.radsport-grafschaft.de/wp-content/uploads/2026/01/210221_WebseiteIndex-Seite001.png"
 }

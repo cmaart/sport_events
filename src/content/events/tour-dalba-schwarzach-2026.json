@@ -19,5 +19,7 @@
   "websiteUrl": "https://tourdalba.com/",
   "registrationUrl": "https://tourdalba.com/anmeldung/",
   "imageUrl": "https://tourdalba.com/wp-content/uploads/2026/03/tda25_0166.jpg.webp?w=1024",
-  "description": "14. Tour d'Alba Schwarzach – entspannte Radausfahrt durch das Vorarlberger Rheintal auf Vintage-Stahlrädern (Baujahr bis ca. 1990). Große und kleine Route in idyllischer Voralpenlandschaft. Kein Zeitdruck, Fokus auf Gemeinschaft und nostalgisches Radfahren. Erwachsenenkleidung aus den 70er/80er Jahren erwünscht."
+  "description": "Die 14. Tour d'Alba Schwarzach ist eine nostalgische Vintage-Radausfahrt auf Stahlrennrädern (Baujahr bis ca. 1990) durch das Vorarlberger Rheintal und die angrenzende Voralpenlandschaft. Zwei Routen stehen zur Wahl: die kleine Runde über rund 20 km mit etwa 500 Höhenmetern und die große Runde über rund 50 km mit rund 1.000 Höhenmetern; beide führen zum Teil über unbefestigte Schotterabschnitte. Fokus liegt auf Gemeinschaft, historischer Radbekleidung aus den 1970er/80er Jahren und dem entspannten Miteinander ohne Zeitmessung. Nach dem Ergebnisunfall bei der Ausgabe 2025 empfehlen die Veranstalter ausdrücklich Helm sowie Ersatzschlauch und Werkzeug. Frühbucher können sich bis 30. April 2026 zu vergünstigten Konditionen anmelden.",
+  "distanceKm": 50,
+  "elevationGainM": 1000
 }

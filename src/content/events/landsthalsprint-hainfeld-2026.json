@@ -14,5 +14,8 @@
     "lng": 15.7689,
     "region": "Niederösterreich"
   },
-  "description": "Der Landsthalsprint Hainfeld ist ein Bergzeitfahren durch das malerische Landsthal bei Hainfeld in den niederösterreichischen Voralpen. Kurzes, aber steiles Bergprofil durch das enge Tal südlich der Bezirksstadt. Veranstaltung im ÖRV-Kalender Niederösterreichs."
+  "websiteUrl": "https://urchainfeld.sportunion.at/",
+  "description": "Der Landsthalsprint ist ein kurzer, steiler Bergsprint auf den Kirchenberg oberhalb von Hainfeld in den niederösterreichischen Voralpen. Die Strecke misst 6,1 km und weist 510 Höhenmeter auf; Ziel ist das Wirtshaus Landsthal auf der Anhöhe südlich der Bezirksstadt. Traditionell bildet das Rennen das Saisonfinale des Mucki Alpen Team Cup — die Gesamtsiegerehrung und die Preisverlosung erfolgen direkt im Anschluss beim Wirtshaus. Zugelassen sind Rennrad, MTB und Gravel; ausgetragen wird der Sprint vom URC RAIBA Hainfeld gemeinsam mit dem ULC St. Veit. Teil des ÖRV-Kalenders Niederösterreichs.",
+  "distanceKm": 6,
+  "elevationGainM": 510
 }

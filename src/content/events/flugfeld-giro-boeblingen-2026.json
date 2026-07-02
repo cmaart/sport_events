@@ -17,6 +17,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://flugfeld-giro.de",
-  "description": "Flugfeld Giro Böblingen – Gran-Fondo-Radmarathon auf dem historischen Böblinger Flugfeld mit Strecken durch den Schwarzwald und Schönbuch. Start und Ziel im Herzen der Technologieregion Stuttgart.",
+  "description": "Der Flugfeld Giro Böblingen ist eine Rad-Breitensportveranstaltung auf dem historischen Böblinger Flugfeld, das Sindelfingen und Böblingen verbindet. Sechs Streckenvarianten stehen zur Wahl: Tour A durch das Hecken- und Strohgäu mit 208 km und 2.590 Höhenmetern, Tour B (161 km/2.000 Hm) und Tour C (132 km/1.360 Hm) durch das Heckengäu, Tour D (87 km/1.040 Hm) sowie die kürzeren Tour E (40 km/350 Hm) und Familientour F (15 km/140 Hm). Vier Startorte in der Technologieregion Stuttgart – darunter Stahl Sport Shop in Sindelfingen – dienen zugleich als Ziel. Ergänzt wird das Programm durch ein Laufradrennen für die Jüngsten am Sensapolis. Charakteristisch ist der Kontrast zwischen dem urbanen Flugfeld-Areal und den bewaldeten Höhenzügen von Schönbuch, Heckengäu und Strohgäu.",
+  "distanceKm": 208,
+  "elevationGainM": 2590,
   "imageUrl": "https://flugfeld-giro.de/wp-content/uploads/go-x/u/28b29968-4fc6-4066-8d6a-62d9ec79ebd0/l57,t16,w1689,h814/image.png"
 }

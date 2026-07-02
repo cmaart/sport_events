@@ -14,5 +14,9 @@
     "lng": 15.6225,
     "region": "Niederösterreich"
   },
-  "description": "Die Vintage-Tour Donau startet in Rohrendorf bei Krems und führt auf historischen Rennrädern entlang der Donau durch die Wachau und das Kremstal. Veranstaltung für Liebhaber klassischer Fahrräder und Retro-Radsport in einer der schönsten Flusslandschaften Österreichs, UNESCO-Welterbe Wachau."
+  "websiteUrl": "https://www.vintage-tour.at/",
+  "description": "Die Vintage-Tour Donau startet beim traditionsreichen Weingut Lenz Moser (gegründet 1849) in Rohrendorf bei Krems und führt auf klassischen Stahlrahmen-Rädern (Baujahr 1990 oder älter) durch die Weingärten des Kremstals und die UNESCO-Welterbelandschaft Wachau. Zwei Routen stehen zur Wahl: die Vintage-Tour über 69 km mit 570 Höhenmetern und die Vintage-Tour+ über 99 km mit 820 Höhenmetern. Die Strecken verlaufen über idyllische Wirtschaftswege, Schottersektionen und Weingärten und führen unter anderem am Schloss Gobelsburg vorbei. Passendes Retro-Outfit (Wollpullover, Kappen, Sonnenbrillen im Stil der 60er/70er Jahre) ist erwünscht, es gibt keine Zeitnahme und keinen Rennmodus. Veranstalter ist der Vintage Rad Verein rund um Bernhard Rassinger.",
+  "distanceKm": 99,
+  "elevationGainM": 820,
+  "imageUrl": "https://static.wixstatic.com/media/89d41b_91fd18c493564c368040542d3dce4f10~mv2.jpg"
 }

@@ -14,5 +14,9 @@
     "lng": 13.4733,
     "region": "Kärnten"
   },
-  "description": "Die Mühldorfer Almtrophy führt von Lurnfeld im Drautal auf die Mühldorfer Alm im Kärntner Hochgebirge. Bergrennen mit erheblichem Höhengewinn durch die Almwiesen und Wälder des Lesachtal-Vorlandes. Veranstaltung im ÖRV-Kalender Kärntens."
+  "websiteUrl": "https://www.eisenwadl.com/",
+  "imageUrl": "https://www-static.eisenwadl.com/wp-content/uploads/IMG_9389.jpeg",
+  "description": "Die 14. Mühldorfer Almtrophy ist ein Bergzeitfahren von Möllbrücke im Drautal über den Mühldorfer Almweg hinauf zur Mühldorfer Alm / Klinghütte im Kärntner Hochgebirge nahe der Reißeck-Gruppe. Die Strecke misst 12 km und weist 980 Höhenmeter auf und führt über einen einspurigen Almweg mit Serpentinen durch Bergwald und offene Almflächen. Zugelassen sind Rennrad, Mountainbike, Gravel, E-Bike und Handbike; die Anmeldung erfolgt über raceresult. Veranstalter ist der RC-MTB ASKÖ ARBÖ Möllbrücke, das Rennen zählt zum ÖRV-Kalender Kärntens und ist Teil der Bergzeitfahren-Serie im Oberkärntner Raum.",
+  "distanceKm": 12,
+  "elevationGainM": 980
 }
