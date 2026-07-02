@@ -14,9 +14,11 @@ interface Props {
   ogImageAlt?: string;
   /** Override the canonical URL. Defaults to the current request URL resolved against site. */
   canonical?: string;
+  /** Emit robots noindex (e.g. for past events) so Google concentrates index budget on live pages. */
+  noindex?: boolean;
 }
 
-const { title, description = t('site.description'), ogImage, ogImageAlt, canonical } = Astro.props;
+const { title, description = t('site.description'), ogImage, ogImageAlt, canonical, noindex = false } = Astro.props;
 const pageTitle = title ? `${title} | ${t('site.title')}` : `${t('site.tagline')} | ${t('site.title')}`;
 const base = import.meta.env.BASE_URL;
 
@@ -52,7 +54,7 @@ const faviconSvg = `${base}favicon.svg`.replace(/\/+/g, '/');
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'} />
     <meta name="generator" content={Astro.generator} />
 
     <meta property="og:title" content={pageTitle} />

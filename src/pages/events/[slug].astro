@@ -21,6 +21,12 @@ const e = entry.data;
 const start = new Date(e.dates.start);
 const end = e.dates.end ? new Date(e.dates.end) : undefined;
 const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
+
+// Past confirmed events: noindex so Google concentrates index budget on live races.
+// TBA/unconfirmed events stay indexable (their date is a best guess, likely upcoming).
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+const isPast = e.dates.confirmed && (end ?? start) < today;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const mapUrl = `https://www.google.com/maps/search/?api=1&query=${e.location.lat},${e.location.lng}`;
 const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
@@ -136,7 +142,7 @@ const breadcrumbsLd = {
 };
 ---
 
-<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl} ogImageAlt={e.imageUrl ? e.name : undefined}>
+<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl} ogImageAlt={e.imageUrl ? e.name : undefined} noindex={isPast}>
   <script
     slot="head"
     type="application/ld+json"
