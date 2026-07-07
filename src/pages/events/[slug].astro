@@ -142,7 +142,7 @@ const breadcrumbsLd = {
 };
 ---
 
-<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl} ogImageAlt={e.imageUrl ? e.name : undefined} noindex={isPast}>
+<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl} ogImageAlt={e.imageUrl ? e.name : undefined} noindex={isPast} titleSuffix={t('event.titleSuffix')}>
   <script
     slot="head"
     type="application/ld+json"

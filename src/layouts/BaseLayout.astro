@@ -16,10 +16,21 @@ interface Props {
   canonical?: string;
   /** Emit robots noindex (e.g. for past events) so Google concentrates index budget on live pages. */
   noindex?: boolean;
+  /**
+   * Keyword suffix for the <title> on content pages, e.g. "Rennkalender & Termine".
+   * When set it replaces the "| ENDURE Events" brand suffix — the leading keyword stays
+   * first (what matters for ranking) and the suffix signals the neutral-calendar scope
+   * instead of an unknown brand. The brand still lives in og:site_name + JSON-LD.
+   */
+  titleSuffix?: string;
 }
 
-const { title, description = t('site.description'), ogImage, ogImageAlt, canonical, noindex = false } = Astro.props;
-const pageTitle = title ? `${title} | ${t('site.title')}` : `${t('site.tagline')} | ${t('site.title')}`;
+const { title, description = t('site.description'), ogImage, ogImageAlt, canonical, noindex = false, titleSuffix } = Astro.props;
+const pageTitle = title
+  ? titleSuffix
+    ? `${title} – ${titleSuffix}`
+    : `${title} | ${t('site.title')}`
+  : `${t('site.tagline')} | ${t('site.title')}`;
 const base = import.meta.env.BASE_URL;
 
 const ensureAbsolute = (path: string) => {
