@@ -30,7 +30,7 @@ const pageTitle = title
   ? titleSuffix
     ? `${title} – ${titleSuffix}`
     : `${title} | ${t('site.title')}`
-  : `${t('site.tagline')} | ${t('site.title')}`;
+  : t('site.homeTitle');
 const base = import.meta.env.BASE_URL;
 
 const ensureAbsolute = (path: string) => {
