@@ -18,5 +18,7 @@
   },
   "websiteUrl": "https://slovakia.letapebytourdefrance.com/",
   "imageUrl": "https://slovakia.letapeseries.com/uploads/blocks/letape-slovakia-2023-102_original.jpg",
-  "description": "L'Etape Slovakia by Tour de France in Bratislava. Drei Distanzen: 20 km (Family), 65 km und 117 km. Das internationale L'Etape-Format ermöglicht Amateuren, auf originalgetreuen Tour-de-France-Etappen-Erfahrungen zu fahren. Start im Herzen Bratislavas mit Ausflügen in die Kleinkarpaten."
+  "description": "6. L'Étape Slovakia by Tour de France in Bratislava — hügeliges Terrain in den Kleinen Karpaten. Zwei Hauptdistanzen am 23.08.: THE RACE 112 km/1.700 Hm (Start 07:00) und THE RIDE 60 km/900 Hm (Start 07:10). Rahmenprogramm am Vortag 22.08. mit FAMILY RIDE (23 km und 40 km, Start 15:00) sowie KIDS RACE über 1,6 km. Botschafter sind die Slowakei-Radlegenden der Familie Velits (Peter und Martin, beide ehemalige Tour-de-France-Teilnehmer). Registrierung ab 10.12.2025 auf slovakia.letapeseries.com; Teil der weltweiten L'Étape-by-Tour-de-France-Serie.",
+  "distanceKm": 112,
+  "elevationGainM": 1700
 }

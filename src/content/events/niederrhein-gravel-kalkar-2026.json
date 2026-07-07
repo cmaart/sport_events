@@ -17,6 +17,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.niederrhein-gravel.de",
-  "description": "Niederrhein Gravel (NRG) in Kalkar – Gravel-Rennen durch die flache Niederrheinlandschaft. Verschiedene Strecken auf schottrigen Wegen entlang des Rheins.",
+  "description": "2. Niederrhein Gravel (NRG) in Kalkar am Unteren Niederrhein — drei Distanzen mit Start und Ziel am Landhaus Beckmann: NRG110 (110 km, ~65–70% Gravel), NRG160 (160 km) und die Ultra NRG300 über 300 km mit ~55–60% Gravelanteil. Kurs durch die weite Rheinebene mit Feldwegen, Deichen und Frohnenbruch-Auwäldern. Nach der Premiere 2025 (schwierige Wetterbedingungen) geht die 2026er-Ausgabe mit neu gelegten Strecken an den Start. Regional angesiedelt zwischen Kleve, Xanten und der niederländischen Grenze.",
+  "distanceKm": 110,
   "imageUrl": "https://www.niederrhein-gravel.de/wp-content/uploads/2025/02/01_frohnenbruch.png"
 }

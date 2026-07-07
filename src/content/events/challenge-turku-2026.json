@@ -7,7 +7,8 @@
   ],
   "country": "FI",
   "dates": {
-    "start": "2026-07-26",
+    "start": "2026-07-25",
+    "end": "2026-07-26",
     "confirmed": true
   },
   "location": {
@@ -15,8 +16,8 @@
     "lat": 60.4518,
     "lng": 22.2666
   },
-  "websiteUrl": "https://challengefamily.com/races/challenge-turku/",
-  "description": "Challenge Turku – Mitteldistanz-Triathlon in Finnlands ältester Stadt: 1,9 km Schwimmen im Aurajoki (Aura-Fluss) mitten in Turku, 90 km Rad durch den finnischen Schärengarten und Südwestfinnlands Wälder, 21,1 km Laufen entlang der Flusspromenaden und durch die mittelalterliche Innenstadt.",
+  "websiteUrl": "https://challenge-turku.com/",
+  "description": "Challenge Turku — Mitteldistanz-Triathlon in Finnlands ältester Stadt an der Südwestküste. Hauptrennen am Sonntag 26.07.2026: 1,9 km Schwimmen im Aurajoki mitten in der Turkuer Altstadt, 90 km Rad durch den weltberühmten finnischen Schärengarten und die Wälder Südwestfinnlands, 21,1 km Laufen entlang der Flusspromenaden vorbei an mittelalterlichen Bauwerken. Samstag 25.07. Rahmenprogramm mit Junior Challenge (11–15 J., 150 m / 4,5 km / 1 km) sowie Super Sprint Youth und Elite/Agegroup (jeweils 300 m / 10 km / 3,5 km). Offizieller Qualifier für 'The Championship'; sanktioniert von Suomen Triathlonliitto und Stadt Turku. Veranstalter: SBR Finland Oy.",
   "distanceKm": 113,
   "imageUrl": "https://challenge-turku.com/wp-content/uploads/sites/21/2025/10/nz85273.jpg"
 }

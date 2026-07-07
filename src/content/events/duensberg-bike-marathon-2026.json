@@ -15,6 +15,7 @@
     "region": "Hessen"
   },
   "websiteUrl": "https://duensberg-bike-marathon.de",
-  "description": "Der Celtic Race Dünsberg Bike Marathon in Biebertal führt über Waldwege, Schotter und Singletrails rund um den 494 m hohen Dünsberg in der mittelhessischen Kuppenlandschaft. Vier Streckenlängen von 29 bis 85 Kilometern für MTB- und Gravelbiker auf keltisch geprägten Historikpfaden.",
-  "distanceKm": 85
+  "description": "20. Celtic Race Dünsberg Bike Marathon in Biebertal (Hessen) auf einem Rundkurs rund um den keltisch geprägten 494 m hohen Dünsberg in der mittelhessischen Kuppenlandschaft. Fünf Streckenvarianten am 30.08.: Langstrecke 124 km/2.610 Hm (3 Runden), Mittelstrecke 82 km/1.749 Hm (2 Runden), Kurzstrecke 41 km/870 Hm, Gravelstrecke 57 km/1.030 Hm (2 Runden) sowie Minimarathon 30 km/560 Hm. Zugleich Austragungsort der Deutschen MTB-Meisterschaft; MTB-, E-Bike- und Gravel-Kategorien.",
+  "distanceKm": 124,
+  "elevationGainM": 2610
 }

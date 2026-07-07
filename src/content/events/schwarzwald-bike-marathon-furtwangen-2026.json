@@ -18,6 +18,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.schwarzwald-bike-marathon.de",
-  "description": "Schwarzwald Bike Marathon Furtwangen im Herzen des Schwarzwalds. Gran-Fondo-Event mit MTB und Rennrad über die schönsten Trails und Straßen rund um die Uhrenmacherstadt Furtwangen.",
+  "description": "28. Schwarzwald Bike Marathon in Furtwangen im Herzen des Uhrenmacherlands (Hochschwarzwald, BW): sechs Strecken am Renntag Sonntag 13.09. — Rothaus Cup 94 km/1.900 Hm (Königsdistanz Bio-Biker), Ketterer Ket-Lift4Bike Cup 59 km/1.000 Hm, Singer Cup 46 km/700 Hm, EGT Jugend Cup 46 km, dazu Scherzinger Gravel Cup 56 km/880 Hm für Gravelbikes und Magna E-Cup 46 km/700 Hm für E-Biker. Samstags 12.09. Rahmenprogramm mit Kids-Rennen und Expo. Fünf Euro der Startgebühr fließen in die Rehabilitationsklinik Katharinenhöhe für schwerkranke Kinder. MTB-Klassiker seit 1998, seit Jahren Anlaufpunkt für die MTB-Szene im Süddeutschen Raum.",
+  "distanceKm": 94,
+  "elevationGainM": 1900,
   "imageUrl": "https://www.schwarzwald-bike-marathon.de/media/rex_media_large/schwarzwald-bike-marathon-mountainbike-rennen-furtwangen.jpg"
 }

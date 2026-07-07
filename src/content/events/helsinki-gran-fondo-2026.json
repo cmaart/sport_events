@@ -7,7 +7,7 @@
   ],
   "country": "FI",
   "dates": {
-    "start": "2026-08-29",
+    "start": "2026-08-30",
     "confirmed": true
   },
   "location": {
@@ -16,7 +16,7 @@
     "lng": 24.9384
   },
   "websiteUrl": "https://helsinkigranfondo.fi/en/",
-  "description": "Helsinki Gran Fondo am Velodrom Helsinki: 160 km oder 100 km durch die Küstenlandschaft der finnischen Hauptstadtregion. UCI Gran Fondo World Series Qualifikationsrennen für die Weltmeisterschaften.",
+  "description": "Helsinki Gran Fondo mit Start und Ziel am Helsinki Velodrome — Sonntag, 30. August 2026. Zwei Distanzen zur Auswahl: 100 km und 160 km durch die Küstenlandschaft und Wälder der finnischen Hauptstadtregion. Von den Veranstaltern ausdrücklich als 'celebration of the joy of cycling' und nicht als Wettkampf konzipiert; offen für alle Fitness-Niveaus. Startgebühren gestaffelt von 85 € (Frühbucher bis 30.04.) bis 125 € (Late Entry 24.–29.08.). Genauer Streckenverlauf 2026 wird zeitnah veröffentlicht.",
   "distanceKm": 160,
   "imageUrl": "https://helsinkigranfondo.pyoraily.fi/wp-content/uploads/sites/2/2025/04/mika-on-gran-fondo.webp"
 }

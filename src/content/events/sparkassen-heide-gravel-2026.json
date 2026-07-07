@@ -12,12 +12,14 @@
     "confirmed": true
   },
   "location": {
-    "name": "Taura",
-    "lat": 50.8614,
-    "lng": 12.8061,
+    "name": "Taura (Belgern-Schildau)",
+    "lat": 51.454,
+    "lng": 13.101,
     "region": "Sachsen"
   },
   "websiteUrl": "https://heide-gravel.de",
-  "description": "Sparkassen HeideGravel in Taura bei Chemnitz: Gravel-Event auf der Strecke der Deutschen Gravel-Meisterschaft. Verschiedene Distanzen durch die sächsische Heidelandschaft, inkl. UCI-Gravel-World-Series-Qualifikation.",
+  "description": "Sparkassen HeideGravel in Taura (Ortsteil von Belgern-Schildau) in der Dahlener Heide (Nordsachsen). Drei Distanzen: 30 km/300 Hm (Einsteiger), 60 km/600 Hm und 100 km/900 Hm auf dem Kurs der Deutschen Gravel-Meisterschaft 2025. Team-Wertung ab 3 Fahrern, Einzel- und Altersklassen-Wertungen nach Geschlecht. Mindestalter 14 Jahre; Anmeldeschluss 26.08. 12:00 Uhr. Rollende Schotterwege und Waldpisten durch das größte Heidegebiet Sachsens.",
+  "distanceKm": 100,
+  "elevationGainM": 900,
   "imageUrl": "https://heide-gravel.de/wp-content/uploads/sites/8/2026/05/HZG-Header-Webseite-1024-x-471-px-1-1024x471.png"
 }

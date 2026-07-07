@@ -18,7 +18,8 @@
     "lng": 1.8992
   },
   "websiteUrl": "https://cyclosportive-rondepicarde.fr/en/",
-  "description": "La Ronde Picarde – Henri Sannier in Eaucourt-sur-Somme (Somme): Samstag Gravel 75 km / 580 Hm; Sonntag Gran Fondo 150 km / 110 km / 70 km / 41 km entlang der Baie de Somme. Flache bis leicht hügelige Küstenlandschaft der Picardie.",
-  "distanceKm": 150,
+  "description": "La Ronde Picarde – Henri Sannier in Eaucourt-sur-Somme (Département Somme, Picardie) — zweitägiges Cyclosportive-Wochenende an der Baie de Somme. Samstag 19.09. Gravel-Ausgabe 78 km/+700 Hm auf Asphalt/Schotter-Mix. Sonntag 20.09. Straßenrennen mit vier Distanzen: Touring 38 km/+284 Hm, Kurz 85 km/+880 Hm, Mitte 117 km/+1.000 Hm, Lang 158 km/+1.450 Hm — durchgängig Asphalt. Trikots kostenlos für die ersten 2.500 Anmeldungen; Preissteigerung ab 19.07.2026. Ärztliches Attest nicht erforderlich; Anmeldungsschluss 30 Minuten vor Startzeit.",
+  "distanceKm": 158,
+  "elevationGainM": 1450,
   "imageUrl": "https://cyclosportive-rondepicarde.fr/wp-content/uploads/2025/09/2025_Ronde_Picarde_prio-14-1920x906.jpg"
 }

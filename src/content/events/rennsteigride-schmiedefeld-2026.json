@@ -17,6 +17,8 @@
     "region": "Thüringen"
   },
   "websiteUrl": "https://rennsteigride.de",
-  "description": "RennsteigRide Schmiedefeld – MTB- und Gravel-Marathon auf dem thüringischen Kamm des Rennsteigs. Strecken durch den Thüringer Wald mit atemberaubenden Ausblicken.",
+  "description": "10. RennsteigRide in Schmiedefeld am Rennsteig — MTB-Marathon auf dem Kamm des Thüringer Waldes. Sechs Streckenvarianten: Supermarathon 100 km/2.666 Hm (Königsdistanz), Marathon 67 km/1.820 Hm, Halbmarathon 36 km/950 Hm, dazu E-Bike-, BasicRIDE- und JuniorRIDE-Kategorien. Start ab 09:30 Uhr; höchster Punkt Schneekopf (978 m), tiefster Freibachtal (661 m). Rundkurs mit steilen Rennsteig-Anstiegen und rasanten Waldabfahrten; Anlaufpunkt für die MTB-Marathonszene in Mitteldeutschland.",
+  "distanceKm": 100,
+  "elevationGainM": 2666,
   "imageUrl": "https://rennsteigride.de/wp-content/uploads/1_170902kv0555_1120x508-1120x508.jpg"
 }
