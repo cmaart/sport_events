@@ -6,9 +6,9 @@
 > 3 Sessions stehen darunter; alles Ältere liegt in `progress-archive.md`.
 
 ### Kennzahlen (Stand: 2026-07-09)
-- Events gesamt: **1116** | upcoming (>= heute): **578** | past (noindex): **538**
-- Letzter Lauf: Session 29 (2026-07-07) — Enrichment-first, keine Neuanlagen/Löschungen
-- Build zuletzt grün: 1164 pages, 0 errors; Sitemap ohne past-URLs (noindex ab Session 27)
+- Events gesamt: **1117** | upcoming (>= heute): **579** | past (noindex): **538**
+- Letzter Lauf: k226.com-Quellendurchgang (2026-07-09) — +1 Event (Hölle von Q); davor Session 29 (2026-07-07)
+- Build zuletzt grün: 1165 pages, 0 errors; Sitemap ohne past-URLs (noindex ab Session 27)
 
 ### BLACKLIST — NICHT (wieder) anlegen (abgesagt/eingestellt/nicht verifizierbar)
 - IRONMAN 70.3 Wiesbaden — eingestellt seit 2016, EM 2026 nach Jönköping verlegt
@@ -38,7 +38,16 @@
 | ironman.com Kalender (europaweit) | 2026-07-07 |
 | challenge-family.com Kalender | 2026-07-07 |
 | UCI Gran Fondo World Series | 2026-07-07 |
-| **k226.com/events/events.aspx (Tri, europaweit)** | **NEU — noch nie geprüft** |
+| k226.com/events/events.aspx (Tri, europaweit) | 2026-07-09 |
+
+---
+
+## Quellen-Durchgang: 2026-07-09 (k226.com)
+- **k226.com** vollständig durchgegangen (globaler Tri-Aggregator); Scope-Filter DE/AT + Ironman/Challenge Europa angewandt.
+- Fast alle in-scope-Events bereits im Bestand (Ostseeman, KnappenMan, Allgäu-Immenstadt, Köln, Trumer, Podersdorf, Südkärntner, Uster, Extrememan Nagyátád, alle Ironman/Challenge Europa).
+- **+1 neu:** `hoelle-von-q-quedlinburg-2026` (DE, Mitteldistanz, 30.08., Quedlinburg/Harz) — offiziell über hoelle-von-q.de verifiziert (10. Auflage, 2,0/83/21,1 km, 1600 Hm, Ziel Rathaus).
+- Datum-Abgleich bestehender DE/AT-Events gegen k226: nur 1–2-Tage-Abweichungen nach Muster „Wochenendstart (DB) vs. Haupttag (k226)" → keine Änderung.
+- Build grün: 1165 pages, 0 errors.
 
 ---
 

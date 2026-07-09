@@ -1,0 +1,23 @@
+{
+  "id": "hoelle-von-q-quedlinburg-2026",
+  "name": "Hölle von Q",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-08-30",
+    "end": "2026-08-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Quedlinburg",
+    "lat": 51.7899,
+    "lng": 11.1394
+  },
+  "websiteUrl": "https://www.hoelle-von-q.de",
+  "description": "10. Hölle von Q – anspruchsvoller Mitteldistanz-Triathlon im Harz mit Ziel am historischen Rathaus der UNESCO-Welterbestadt Quedlinburg. 2,0 km Schwimmen, 83 km Rad mit rund 1.400 Höhenmetern durch Ditfurt, Thale und Quedlinburg sowie 21,1 km Laufen (ca. 200 Hm), Start am Sonntagmorgen gegen 6:40 Uhr. Rund 350 Einzelstartplätze plus Staffeln (Damen, Herren, Mixed). Findet traditionell am ersten Septembersonntag statt – 2026 wegen einer Landtagswahl ausnahmsweise am 30. August. Besonderheit sind die 'Pfoschten'-Trophäen aus 300 Jahre altem Holz; Streckenrekorde 4:06:11 (Herren, 2024) und 4:49:06 (Damen, 2022).",
+  "distanceKm": 106,
+  "elevationGainM": 1600
+}
