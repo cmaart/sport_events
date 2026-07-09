@@ -73,6 +73,7 @@ Discovery-Quellen (Erst-Metadaten, dann offiziell gegenprüfen):
 - Rad AT/DE + Zeitfahren: https://www.cycloworld.cc/de/kalender-de
 - Triathlon DE: https://www.triathlondeutschland.de/termine/veranstaltungskalender
 - Triathlon AT: https://www.triathlon-austria.at/de/service-termine
+- Triathlon europaweit (Discovery, gegen offizielle Quelle prüfen): https://www.k226.com/events/events.aspx
 - **Ironman & Challenge (europaweit, Mittel- + Langdistanz):** offizielle Übersichts-/Kalenderseiten
   von ironman.com und challenge-family.com, die Rennen direkt auflisten.
 - **Große bekannte Radrennen europaweit:** UCI Gran Fondo World Series, etablierte Marathons/Etappenrennen.
@@ -94,10 +95,26 @@ inhaltlich nötig, nicht spekulativ.
   auf Landingpages, `Organization`/`WebSite` auf Startseite. Bei neuen Feldern/Kategorien mitziehen.
 - `npm run build` muss grün sein (Zod-Validierung). Bei Schema-Fehler: fixen, nicht umgehen.
 
-## Gedächtnis zwischen Läufen
+## Gedächtnis zwischen Läufen (rollender Memory)
 
-- `claude-automation/sport-events-checker/progress.md` führen: was gemacht, Backlog offener Kandidaten,
-  welche Events angereichert/entfernt, noindex-Umstellungen, offene SEO-Punkte für nächsten Lauf.
+Memory-Datei: `claude-automation/sport-events-checker/progress.md`. Sie ist **rollend** aufgebaut —
+nicht unbegrenzt anhängen, sondern aktuell halten:
+
+**Zu Beginn lesen:** den Block `## STATE (rolling)` am Dateikopf. Er steuert den Lauf:
+- **Kennzahlen** (Event-Gesamtzahl, upcoming/past, letzter Lauf/Commit) — als Ausgangsbasis.
+- **BLACKLIST** — abgesagte/eingestellte/nicht verifizierbare Events. Diese **nicht** neu anlegen.
+- **ZU PRÜFEN** — Phantom-Verdachtsfälle: vorhandene Events gegen offizielle Quelle verifizieren,
+  bei bestätigtem Nicht-Stattfinden entfernen und in die BLACKLIST verschieben.
+- **BACKLOG** — offene Enrichment-/Kandidaten-Aufgaben zuerst abarbeiten.
+- **QUELLEN-STAND** — die am längsten nicht geprüften Discovery-Quellen bevorzugt re-checken.
+
+**Am Ende fortschreiben (rollend halten):**
+- STATE-Block aktualisieren: Kennzahlen neu, BLACKLIST um neu entfernte/abgesagte Events ergänzen
+  (mit Grund), ZU-PRÜFEN abarbeiten, BACKLOG abhaken/ergänzen, QUELLEN-STAND mit heutigem Datum je
+  tatsächlich geprüfter Quelle.
+- Kurzes Lauf-Summary **oberhalb** der bisherigen Session-Einträge einfügen.
+- **Nur die letzten 3 Session-Summaries im Detail behalten.** Ältere nach
+  `progress-archive.md` auslagern, damit `progress.md` kompakt bleibt (Richtwert < 300 Zeilen).
 
 ## Abschluss
 
