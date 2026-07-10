@@ -1,0 +1,23 @@
+{
+  "id": "estrela-xtreme-manteigas-2026",
+  "name": "Estrela Xtreme",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-09-12",
+    "end": "2026-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Manteigas",
+    "lat": 40.402,
+    "lng": -7.535
+  },
+  "websiteUrl": "https://www.estrelaxtreme.pt/",
+  "description": "XTRI-Extrem-Triathlon im höchsten Gebirge Portugals, der Serra da Estrela. Volldistanz mit 4 km Schwimmen, 105 km Rad (rund 2.600 Höhenmeter) und 41 km Laufen zwischen Manteigas und Gouveia. Rennwochenende 12.–13. September 2026, 2026 bereits ausverkauft.",
+  "distanceKm": 150,
+  "elevationGainM": 2600
+}

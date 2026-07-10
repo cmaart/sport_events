@@ -1,0 +1,22 @@
+{
+  "id": "cotswold-classic-2026",
+  "name": "Cotswold Classic",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-07-12",
+    "end": "2026-07-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ashton Keynes",
+    "lat": 51.646,
+    "lng": -1.938
+  },
+  "websiteUrl": "https://www.113events.com/cotswold-classic/",
+  "description": "Mitteldistanz-Triathlon des Veranstalters 113 Events im Cotswold Water Park bei Ashton Keynes (Wiltshire). 1,9 km Schwimmen, 90 km Rad und 21 km Laufen auf nahezu flachem, schnellem Kurs. Termin 12. Juli 2026.",
+  "distanceKm": 113
+}

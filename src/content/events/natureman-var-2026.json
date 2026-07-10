@@ -1,0 +1,24 @@
+{
+  "id": "natureman-var-2026",
+  "name": "Natureman Var",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Cross-Triathlon"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-26",
+    "end": "2026-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Les Salles-sur-Verdon",
+    "lat": 43.7736,
+    "lng": 6.2081
+  },
+  "websiteUrl": "https://natureman-var.fr/",
+  "description": "Naturnaher Langdistanz-Triathlon rund um den türkisen Lac de Sainte-Croix im Herzen des Verdon. L-Format am Samstag mit 2,0 km Schwimmen, 92 km Rad (rund 1.450 Höhenmeter) und 20 km Laufen, die M-Distanz am Sonntag. Bergige, landschaftlich spektakuläre Strecke durch den Regionalen Naturpark Verdon.",
+  "distanceKm": 114,
+  "elevationGainM": 1450
+}

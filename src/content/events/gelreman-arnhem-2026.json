@@ -1,0 +1,23 @@
+{
+  "id": "gelreman-arnhem-2026",
+  "name": "Gelreman",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Langdistanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arnhem",
+    "lat": 51.945,
+    "lng": 5.9
+  },
+  "websiteUrl": "https://www.gelreman.nl/",
+  "description": "7. Ausgabe des Gelreman bei Arnhem (Gelderland). Halbdistanz mit 1,9 km Schwimmen, 90 km Rad und 21,1 km Laufen; zusätzlich wird die Volldistanz (3,8/180/42,2 km) angeboten. Termin Samstag, 22. August 2026 am Rijkerswoerdse Plas.",
+  "distanceKm": 113
+}

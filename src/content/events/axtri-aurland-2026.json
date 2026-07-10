@@ -1,0 +1,23 @@
+{
+  "id": "axtri-aurland-2026",
+  "name": "AXtri",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aurland",
+    "lat": 60.907,
+    "lng": 7.19
+  },
+  "websiteUrl": "https://www.axtri.no/",
+  "description": "Aurlandsfjellet Xtreme Triathlon – anspruchsvoller Extrem-Triathlon auf Mitteldistanz im norwegischen Fjordland, Teilnehmerfeld auf rund 150 Athlet:innen begrenzt. 1,9 km Fjordschwimmen, 94 km Rad mit rund 3.050 Höhenmetern über den Aurlandsfjellet und 21 km Laufen. Termin 15. August 2026.",
+  "distanceKm": 117,
+  "elevationGainM": 3050
+}

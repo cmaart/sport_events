@@ -1,0 +1,23 @@
+{
+  "id": "vercorsman-saint-nazaire-en-royans-2026",
+  "name": "VercorsMan",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-08-22",
+    "end": "2026-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saint-Nazaire-en-Royans",
+    "lat": 45.0656,
+    "lng": 5.2494
+  },
+  "websiteUrl": "http://vercorsman.com/",
+  "description": "7. Ausgabe des VercorsMan im Massif du Vercors (Drôme). Das XL-Format startet am Samstag um 8:30 Uhr im Schlosspark von Saint-Nazaire-en-Royans: 2,25 km Schwimmen, 121 km Rad mit rund 3.000 Höhenmetern und 22 km Laufen. Eine der höhenmeterreichsten Langdistanzen Frankreichs, Veranstaltungswochenende 21.–23. August.",
+  "distanceKm": 145,
+  "elevationGainM": 3000
+}

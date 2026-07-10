@@ -1,0 +1,23 @@
+{
+  "id": "olympos-x-2026",
+  "name": "Olympos X",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GR",
+  "dates": {
+    "start": "2026-08-29",
+    "end": "2026-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Olympic Beach",
+    "lat": 40.271,
+    "lng": 22.507
+  },
+  "websiteUrl": "https://triman.gr/olympos-x/",
+  "description": "XTRI-Extrem-Triathlon auf Volldistanz rund um den Olymp in Griechenland. Nachtschwimmen mit Bootsstart (4 km), 191 km Rad mit rund 4.800 Höhenmetern und 40 km Laufen bis in die Höhen des Götterbergs. Veranstalter Triman, Termin 29. August 2026 mit Start am Olympic Beach bei Katerini.",
+  "distanceKm": 235,
+  "elevationGainM": 4800
+}

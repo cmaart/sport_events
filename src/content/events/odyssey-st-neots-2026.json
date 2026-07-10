@@ -1,0 +1,22 @@
+{
+  "id": "odyssey-st-neots-2026",
+  "name": "Odyssey Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St Neots",
+    "lat": 52.228,
+    "lng": -0.263
+  },
+  "websiteUrl": "https://www.odysseytriathlon.co.uk/stneots",
+  "description": "Mitteldistanz-Triathlon im Riverside Park von St Neots (Cambridgeshire) an der Great Ouse. 1,9 km Schwimmen, 90 km Rad und 21,1 km Laufen. Termin Samstag, 8. August 2026 auf der Regatta Meadow.",
+  "distanceKm": 113
+}

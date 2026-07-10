@@ -1,0 +1,22 @@
+{
+  "id": "ican-gandia-2026",
+  "name": "ICAN Gandia",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-17",
+    "end": "2026-10-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gandía",
+    "lat": 38.968,
+    "lng": -0.181
+  },
+  "websiteUrl": "https://www.icantriathlon.com/",
+  "description": "Ausgabe der ICAN-Triathlonserie im valencianischen Küstenort Gandía. Volldistanz 3,8/180/42,2 km sowie Half-, Short- und Aquabike-Formate; flache, schnelle Radstrecke entlang der Mittelmeerküste. Termin laut offizieller Ausschreibung 17. Oktober 2026.",
+  "distanceKm": 226
+}

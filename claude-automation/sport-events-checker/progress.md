@@ -6,9 +6,9 @@
 > 3 Sessions stehen darunter; alles Ältere liegt in `progress-archive.md`.
 
 ### Kennzahlen (Stand: 2026-07-09)
-- Events gesamt: **1117** | upcoming (>= heute): **579** | past (noindex): **538**
-- Letzter Lauf: k226.com-Quellendurchgang (2026-07-09) — +1 Event (Hölle von Q); davor Session 29 (2026-07-07)
-- Build zuletzt grün: 1165 pages, 0 errors; Sitemap ohne past-URLs (noindex ab Session 27)
+- Events gesamt: **1132** | upcoming (>= heute): **594** | past (noindex): **538**
+- Letzter Lauf: k226.com-Batch 1 (2026-07-09) — +15 europäische Tris (scope erweitert auf EU-Breite auf Userwunsch)
+- Build zuletzt grün: 1182 pages, 0 errors; Sitemap ohne past-URLs (noindex ab Session 27)
 
 ### BLACKLIST — NICHT (wieder) anlegen (abgesagt/eingestellt/nicht verifizierbar)
 - IRONMAN 70.3 Wiesbaden — eingestellt seit 2016, EM 2026 nach Jönköping verlegt
@@ -22,12 +22,17 @@
 - `mallorca-312-2026` — Seite zeigt nur April 2027; 2026-Austragung gegenprüfen
 
 ### BACKLOG (offene Aufgaben aus letztem Lauf)
-- imageUrl/Enrichment blockiert (Retry, evtl. wieder erreichbar): piratentriathlon-amberg,
-  cross-triathlon-karlstadt, sauerland-rodeo-brilon, miriquidi-bike-challenge,
-  hugenotten-duathlon (DNS), fuenf-seen-rundfahrt-diessen (403), granfondo-tavira (Hosting),
-  exmoor-beast-sportive, bike-maraton-jelenia-gora, ironman-703-luxembourg
-- Datenqualität (upcoming): 9 fehlende distanceKm, 69 fehlende elevationGainM,
-  126 dünne Beschreibungen (<200 Zeichen / <3 Sätze)
+- **k226-Batch 2 (bereits offiziell verifiziert, nur noch anlegen — je start=end):**
+  - `triathlon-lac-du-bouchet-2026` (FR, Langdistanz, 2026-07-12, Cayres/Lac du Bouchet, 44.9139/3.7906, 2,7/107/21,7, 1908 Hm, triathlon-lac-du-bouchet.fr)
+  - `triathlon-saint-cirq-lapopie-2026` (FR, Langdistanz, 2026-09-26, Saint-Cirq-Lapopie, 44.4658/1.6717, 3,8/180/42,2, ~2000 Hm, triathlondulot.com)
+  - `openlakes-atlantique-royan-2026` (FR, Mitteldistanz, 2026-09-06, Royan, 45.628/-1.028, 1,9/90/21, 750 Hm, openlakes.eu/openlakesatlantique)
+  - `100x100half-el-vendrell-2026` (ES, Mitteldistanz, 2026-09-20, El Vendrell/Coma-ruga, 41.176/1.531, 1,9/80/21, 648 Hm, 100x100half.com/en/vendrell)
+  - `100x100half-platja-daro-2026` (ES, Mitteldistanz, 2026-10-04, Platja d'Aro, 41.817/3.066, 1,9/80/21, 100x100half.com/en/platja-daro)
+  - `spirit-of-78-porto-2026` (PT, Mitteldistanz, 2026-10-10, Porto/Freixo, 41.148/-8.556, Distanzen n.v., spiritof78.com)
+  - `ocean-lava-montenegro-kotor-2026` (ME, Mitteldistanz, 2026-10-11, Kotor, 42.424/18.771, 1,9/90/21, 500 Hm, oceanlava.me)
+  - `olympusman-paphos-2026` (CY, Langdistanz, 2026-11-07, Paphos→Troodos, 34.775/32.424, 3,8/178/43, ~4920 Hm, xtri-series.com/olympusman) — **erst `CY` zu COUNTRIES in src/lib/types.ts hinzufügen!**
+- k226 NICHT bestätigt (nur Aggregator-Datum, nicht anlegen): Lost Sheep Kenmare (IE), Balatonman Kenese (HU — offiziell nur Fűzfő 2026)
+- Datenqualität (upcoming): fehlende distanceKm/elevationGainM, dünne Beschreibungen (siehe Session 29)
 
 ### QUELLEN-STAND (zuletzt geprüft — älteste zuerst re-checken)
 | Quelle | zuletzt |
@@ -39,6 +44,16 @@
 | challenge-family.com Kalender | 2026-07-07 |
 | UCI Gran Fondo World Series | 2026-07-07 |
 | k226.com/events/events.aspx (Tri, europaweit) | 2026-07-09 |
+
+---
+
+## Quellen-Durchgang: 2026-07-09 (k226.com – Batch 1, EU-Scope)
+- **Scope auf Userwunsch erweitert:** nicht mehr nur DE/AT + Ironman/Challenge, sondern europaweite Tris aus k226 (weiterhin kein USA/Japan/Australien).
+- Lückenanalyse: ~23 fehlende EU-Tris offiziell verifiziert (4 Research-Agents). **+15 diesen Lauf angelegt** (Anti-Flut-Grenze eingehalten), 8 verifizierte im BACKLOG als „Batch 2".
+- **Neu (15):** bayman-mont-saint-michel, natureman-var, vercorsman-saint-nazaire-en-royans (FR); ican-gandia, half-madrid (ES); estrela-xtreme-manteigas (PT); vitruvian-rutland, sandman-newborough, odyssey-st-neots, cotswold-classic (GB); gelreman-arnhem (NL); eaglexman-gran-sasso, aronamen-arona (IT); axtri-aurland (NO); olympos-x (GR).
+- Alle Daten gegen offizielle Veranstalter-/FFTRI-Seiten verifiziert; elevationGainM nur wo offiziell belegt; keine imageUrls (keine tauglichen Hero-Bilder gefunden).
+- Nicht bestätigt/übersprungen: Lost Sheep (IE), Balatonman Kenese (HU).
+- Build grün: 1182 pages, 0 errors.
 
 ---
 

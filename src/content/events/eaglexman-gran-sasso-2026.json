@@ -1,0 +1,22 @@
+{
+  "id": "eaglexman-gran-sasso-2026",
+  "name": "eagleXman",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-07-18",
+    "end": "2026-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Assergi",
+    "lat": 42.417,
+    "lng": 13.51
+  },
+  "websiteUrl": "https://eaglexman.com/",
+  "description": "XTRI-Extrem-Triathlon auf Volldistanz im Gran-Sasso-Massiv der Abruzzen. Schwimmstart im Lago di Campotosto, 180 km Rad und Marathon mit Bergankunft am Campo Imperatore auf rund 2.100 m. Termin 18. Juli 2026; zusätzlich werden eagleXman113 und ein X-Olympic-Format angeboten.",
+  "distanceKm": 226
+}

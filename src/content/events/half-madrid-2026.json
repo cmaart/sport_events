@@ -1,0 +1,22 @@
+{
+  "id": "half-madrid-2026",
+  "name": "Half Madrid",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-27",
+    "end": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Madrid",
+    "lat": 40.417,
+    "lng": -3.741
+  },
+  "websiteUrl": "https://halfmadrid.com/",
+  "description": "15. Ausgabe des Mitteldistanz-Triathlons Half Madrid mitten im Stadtpark Casa de Campo. Geschwommen wird im See der Casa de Campo (1,85 km), gefolgt von 83 km Rad und 18,6 km Laufen. Großstadt-Triathlon mit Start und Ziel am See, Termin 27. September 2026.",
+  "distanceKm": 103
+}

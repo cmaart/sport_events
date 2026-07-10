@@ -1,0 +1,22 @@
+{
+  "id": "sandman-newborough-2026",
+  "name": "Sandman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-27",
+    "end": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Newborough",
+    "lat": 53.152,
+    "lng": -4.373
+  },
+  "websiteUrl": "https://alwaysaimhighevents.com/events/sandman-triathlon/",
+  "description": "Mitteldistanz-Triathlon des Veranstalters Always Aim High im Newborough Forest auf der walisischen Insel Anglesey. Format 'Legend' (70.3) mit 1,9 km Meeresschwimmen, 93 km Rad und 20 km Laufen entlang der Küste. Termin Sonntag, 27. September 2026.",
+  "distanceKm": 115
+}

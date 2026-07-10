@@ -1,0 +1,22 @@
+{
+  "id": "aronamen-arona-2026",
+  "name": "AronaMen",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arona",
+    "lat": 45.756,
+    "lng": 8.56
+  },
+  "websiteUrl": "http://www.aronamen.it/",
+  "description": "16. Ausgabe des AronaMen am Ufer des Lago Maggiore in Arona (Piemont). Mitteldistanz mit 1,9 km Schwimmen, 90 km Rad und 21 km Laufen ('112,9 km'). Termin Sonntag, 26. Juli 2026.",
+  "distanceKm": 113
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bayman-mont-saint-michel-2026",
+  "name": "BayMan",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-10-10",
+    "end": "2026-10-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Le Mont-Saint-Michel",
+    "lat": 48.6361,
+    "lng": -1.5115
+  },
+  "websiteUrl": "https://www.bayman.fr/",
+  "description": "Extrem-Triathlon auf Langdistanz mit der Kulisse des Mont-Saint-Michel (Normandie). 3,8 km Schwimmen, 180 km Rad und 42,195 km Laufen; das XXL- und L-Format starten am Samstag, die M-Distanz folgt am Sonntag. Anspruchsvolle, wellige Radstrecke durch die Bucht und das Hinterland der Manche. Von der französischen Föderation FFTRI im offiziellen Kalender geführt.",
+  "distanceKm": 226
+}

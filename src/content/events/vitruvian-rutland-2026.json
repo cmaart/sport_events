@@ -1,0 +1,22 @@
+{
+  "id": "vitruvian-rutland-2026",
+  "name": "Vitruvian",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2026-09-13",
+    "end": "2026-09-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rutland Water",
+    "lat": 52.659,
+    "lng": -0.622
+  },
+  "websiteUrl": "https://www.thevitruviantriathlon.com/",
+  "description": "Beliebter Mitteldistanz-Triathlon am Stausee Rutland Water in den englischen East Midlands. 1,9 km Schwimmen, 89 km Rad und 21 km Laufen auf flachem, schnellem Kurs bei Whitwell. Termin Sonntag, 13. September 2026.",
+  "distanceKm": 112
+}
