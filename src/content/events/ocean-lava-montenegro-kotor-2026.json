@@ -1,0 +1,22 @@
+{
+  "id": "ocean-lava-montenegro-kotor-2026",
+  "name": "Ocean Lava Montenegro",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ME",
+  "dates": {
+    "start": "2026-10-11",
+    "end": "2026-10-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kotor",
+    "lat": 42.4247,
+    "lng": 18.7712
+  },
+  "websiteUrl": "https://www.oceanlava.me/",
+  "registrationUrl": "https://www.oceanlava.me/register",
+  "description": "Ocean Lava Montenegro in der UNESCO-Weltnaturerbe-Bucht von Kotor – Mitteldistanz (1,9 / 90 / 21 km) im Fjord-artigen Kotor-Golf an der Adria. Schwimmen im ruhigen Küstenwasser vor der Altstadt, Radstrecke entlang der Küste vor der Kulisse der Lovćen-Berge, abschließender Halbmarathon durch das mittelalterliche Kotor. Zusätzlich läuft eine olympische Distanz (1,5 / 50 / 10) am selben Tag. Kleines internationales Teilnehmerfeld, Herbsttermin, Veranstalter Igor Majer."
+}

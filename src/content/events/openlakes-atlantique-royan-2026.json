@@ -1,0 +1,23 @@
+{
+  "id": "openlakes-atlantique-royan-2026",
+  "name": "Openlakes Atlantique Royan",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Royan",
+    "lat": 45.6237,
+    "lng": -1.0294
+  },
+  "websiteUrl": "https://www.openlakes.eu/openlakesatlantique",
+  "registrationUrl": "https://www.openlakes.eu/inscriptions-royan",
+  "imageUrl": "https://www.openlakes.eu/web/image/120350-41718c23/OL_Atlantique.webp",
+  "description": "Openlakes Atlantique Royan – erste Ausgabe unter der Regie von Openlakes am Atlantik in der Charente-Maritime. Das Half-Format (1,9 / 93 / 21 km) findet am Samstag den 5. September 2026 statt, am Sonntag folgen kürzere Distanzen und Junior-Rennen. Geschwommen wird an der Küste bei Royan, der Radkurs führt durch die flache Marschlandschaft und die Weinberge des Hinterlands, der Halbmarathon zurück an den Strand. Openlakes hat das frühere lokale Royan-Triathlon-Format neu aufgestellt und auf ein Multi-Distanz-Wochenende erweitert."
+}

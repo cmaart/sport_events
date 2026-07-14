@@ -67,6 +67,7 @@ export const COUNTRIES = [
   'RO', 'ME',
   'AD',
   'TR',
+  'CY',
 ] as const;
 export type Country = (typeof COUNTRIES)[number];
 
@@ -104,4 +105,5 @@ export const COUNTRY_LABELS: Record<Country, { name: string; flag: string }> = {
   ME: { name: 'Montenegro', flag: '🇲🇪' },
   AD: { name: 'Andorra', flag: '🇦🇩' },
   TR: { name: 'Türkei', flag: '🇹🇷' },
+  CY: { name: 'Zypern', flag: '🇨🇾' },
 };

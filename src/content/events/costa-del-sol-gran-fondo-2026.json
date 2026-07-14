@@ -16,7 +16,8 @@
     "lng": -5.1486
   },
   "websiteUrl": "https://costadelsolgranfondo.com/en/",
-  "description": "Costa del Sol Gran Fondo in Estepona (Andalucía): 126 km Rundkurs mit Start und Ziel im Messegelände Estepona durch das Sierra Bermeja-Gebirge und malerische Bergdörfer. Highlights: Gaucín, Jimera de Líbar, Genalguacil und der Schlussanstieg Peñas Blancas (115 km). Startkampf um 8:00 Uhr. Pflicht: Helm und geladenes Mobiltelefon.",
-  "distanceKm": 126,
+  "description": "Costa del Sol Gran Fondo mit Start und Ziel in Estepona (Málaga) – 130 km Rundkurs mit rund 3.300 Höhenmetern durch die Sierra Bermeja und das Hinterland der Costa del Sol. Die Route führt über Casares, Gaucín, Cortes de la Frontera, Jimera de Líbar, Atajate, Benadalid, Algatocín und Genalguacil, bevor mit dem Schlussanstieg zur Peñas Blancas der Höhepunkt vor der Abfahrt nach Estepona wartet. Anmeldung mit 15 % Rabatt für Finisher der Ausgabe 2025. Startzeit um 8:00 Uhr; Helm und geladenes Mobiltelefon sind Pflicht.",
+  "distanceKm": 130,
+  "elevationGainM": 3300,
   "imageUrl": "https://costadelsolgranfondo.com/wp-content/uploads/2025/10/JAF2349-scaled-e1768208325289.jpg"
 }

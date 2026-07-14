@@ -8,16 +8,16 @@
   ],
   "country": "ES",
   "dates": {
-    "start": "2026-10-17",
+    "start": "2026-10-04",
     "confirmed": true
   },
   "location": {
-    "name": "Sanlúcar de Barrameda",
-    "lat": 36.7759,
-    "lng": -6.3534
+    "name": "Matalascañas",
+    "lat": 36.9862,
+    "lng": -6.5560
   },
   "websiteUrl": "https://desafiodonana.com/",
-  "description": "Andalucía Desafío Doñana bei Sanlúcar de Barrameda: Spanische Langdistanz-Meisterschaft (ironman-distanz) sowie Mitteldistanz in der Kulisse des Nationalparks Doñana. Start und Ziel in der Mündung des Guadalquivir, direkte Atlantikkulisse.",
-  "distanceKm": 226,
+  "description": "XV. Andalucía Desafío Doñana 2026 – nach der kurzfristigen Absage in Sanlúcar de Barrameda 2025 wegen fehlender kommunaler Genehmigung wurde die Austragung offiziell nach Matalascañas (Gemeinde Almonte, Provinz Huelva) verlegt. Mitteldistanz mit Schwimmen am Playa Torre de la Higuera (Atlantik), 75-km-Radstrecke als Doppelschleife zwischen Matalascañas und Mazagón sowie Halbmarathon am Strand und am Rand des Nationalparks Doñana. Zeitgleich wird die spanische Langdistanz-Meisterschaft (3 / 120 / 30 km) ausgetragen. Gesamtdistanz Mitteldistanz: 1,9 / 75 / 20 km.",
+  "distanceKm": 97,
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/espagne/andalousie/cadix/desafio-donana/yt4s2xde3h0kr5bfeuvv"
 }

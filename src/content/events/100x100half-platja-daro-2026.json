@@ -1,0 +1,24 @@
+{
+  "id": "100x100half-platja-daro-2026",
+  "name": "100x100 Half Platja d'Aro",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-10-04",
+    "end": "2026-10-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Platja d'Aro",
+    "lat": 41.8155,
+    "lng": 3.0644
+  },
+  "websiteUrl": "https://100x100half.com/en/platja-daro",
+  "registrationUrl": "https://100x100half.com/en/registrations/platja-daro",
+  "description": "100x100 Half Platja d'Aro – Herbst-Mitteldistanz der 100x100half-Serie an der Costa Brava, Katalonien. Schwimmen im Mittelmeer (1,9 km), 86 km Rad mit rund 1.160 Höhenmetern durch die Hügel des Massís de les Gavarres, abschließender Halbmarathon (21 km) entlang der Uferpromenade. Deutlich anspruchsvolleres Höhenprofil als das Schwesterrennen El Vendrell; ergänzend werden Sprint (0,75/22/5), Olympic (1,5/44/10) und Aquabike (1,9/86) angeboten.",
+  "distanceKm": 109,
+  "elevationGainM": 1160
+}

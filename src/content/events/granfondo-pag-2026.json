@@ -16,7 +16,8 @@
     "lng": 15.0583
   },
   "websiteUrl": "https://www.granfondopag.com/",
-  "description": "Granfondo Pag – Cycling on the Moon: 7. Auflage des internationalen Radmarathons auf der kroatischen Insel Pag. 107 km durch die karge, mondähnliche Karstlandschaft der Insel mit Panoramablick auf die Adria. Bekannt für einzigartige Stimmung auf menschenleeren Straßen durch weißen Kalkstein – vergleichbar dem Mont Ventoux.",
+  "description": "7. Granfondo Pag – Cycling on the Moon: 107 km mit 1.210 Höhenmetern durch die karge, mondähnliche Karstlandschaft der kroatischen Insel Pag. Start und Ziel am Busbahnhof Rotor in Novalja um 10:00 Uhr; die Route läuft über Žigljen, Kolan, Šimuni, Pag, Gorica und Fortica zurück. Bekannt für einzigartige Stimmung auf menschenleeren Straßen durch weißen Kalkstein mit Panoramablick auf die Adria. Kombiniert mit optionalen Panorama- und Familienrunden zu einem ganztägigen Rad-Wochenende auf der Insel.",
   "distanceKm": 107,
+  "elevationGainM": 1210,
   "imageUrl": "https://www.granfondopag.com/wp-content/uploads/2021/11/IMG_0492.jpg"
 }

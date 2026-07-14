@@ -1,0 +1,24 @@
+{
+  "id": "spirit-of-78-porto-2026",
+  "name": "Spirit of 78 Porto",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2026-10-10",
+    "end": "2026-10-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Porto",
+    "lat": 41.1391,
+    "lng": -8.5717
+  },
+  "websiteUrl": "https://spiritof78.com/",
+  "registrationUrl": "https://www.spiritof78.pt/inscricoesso78.html",
+  "imageUrl": "https://www.spiritof78.pt/images/posterso78-inicial26.png",
+  "description": "Spirit of 78 Porto – Volldistanz-Triathlon (4,2 / 180 / 42 km) an der Marina do Freixo am Douro-Fluss in Porto. Die 10. Auflage 2026 ist eine Hommage an den ersten Hawaii-Ironman von 1978, komplett auf die 226-km-Distanz beschränkt und stilistisch als Wiederbelebung des ursprünglichen Ironman-Gedankens inszeniert. Geschwommen wird im Douro, Radkurs entlang der Weinregion Vinho Verde und Rückkehr durch die Altstadt Portos. Parallel läuft am selben Wochenende die Schwester-Veranstaltung Spirit Xtreme mit ähnlichem Fokus auf lange Distanzen.",
+  "distanceKm": 226
+}

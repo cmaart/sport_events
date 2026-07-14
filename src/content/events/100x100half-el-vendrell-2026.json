@@ -1,0 +1,25 @@
+{
+  "id": "100x100half-el-vendrell-2026",
+  "name": "100x100 Half El Vendrell",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2026-09-20",
+    "end": "2026-09-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "El Vendrell",
+    "lat": 41.1878,
+    "lng": 1.5300
+  },
+  "websiteUrl": "https://100x100half.com/en/vendrell",
+  "registrationUrl": "https://100x100half.com/en/registrations/vendrell",
+  "imageUrl": "https://100x100half.com/uploads/_CGSmartImage/img-25ed659d0aab7e7b92b2ca8218ba66e3.jpg",
+  "description": "100x100 Half El Vendrell an der Costa Dorada – etablierte Mitteldistanz aus der 100x100half-Serie südwestlich von Barcelona. Schwimmen am Strand von Coma-ruga (1,9 km), Rad 80 km mit rund 648 Höhenmetern durch die Weinregion Penedès, abschließender Halbmarathon zurück an die Promenade. Zusätzlich starten Sprint-, Olympic-, Short- und Aquabike-Rennen; die Serie ist für zuverlässige Organisation und familienfreundliche Rahmenveranstaltungen an der katalanischen Küste bekannt.",
+  "distanceKm": 103,
+  "elevationGainM": 648
+}

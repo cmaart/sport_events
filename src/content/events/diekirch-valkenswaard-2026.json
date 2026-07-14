@@ -16,7 +16,8 @@
     "lng": 6.1594
   },
   "websiteUrl": "https://diekirch-valkenswaard.nl/",
-  "description": "Diekirch–Valkenswaard: Langstrecken-Cyclosportive über rund 255 km von Diekirch (Luxemburg) nach Valkenswaard (Niederlande), durch Teile Deutschlands, Belgiens und des niederländischen Limburg. Freizeitcharakter mit max. 450 Teilnehmern; Rücktransport per Bus nach Diekirch inbegriffen.",
-  "distanceKm": 255,
+  "description": "46. Auflage des grenzüberschreitenden Klassikers Diekirch–Valkenswaard – Langstrecken-Cyclosportive über rund 250 km und 2.700 Höhenmeter von Diekirch (Luxemburg) durch die deutsche Eifel, Belgien und das niederländische Limburg bis nach Valkenswaard. Fest im Kalender am zweitletzten August-Samstag; Startplätze ab Diekirch sind auf 450 Teilnehmer limitiert und in der Regel schnell vergeben. Alternativ 150-km-Kurzstrecke ab Valkenswaard über Deutschland und zurück. Startgeld 40 € (37 € für NTFU-Mitglieder), Anmeldestart 1. Mai 2026; Rücktransport per Bus nach Diekirch inklusive.",
+  "distanceKm": 250,
+  "elevationGainM": 2700,
   "imageUrl": "https://diekirch-valkenswaard.nl/wp-content/uploads/2025/08/20250823-Diekirch-Valkenswaard-174.jpg"
 }

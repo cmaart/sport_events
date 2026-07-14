@@ -15,6 +15,7 @@
   },
   "websiteUrl": "https://ridegravel.ch/bern/",
   "imageUrl": "https://ridegravel.ch/wp/wp-content/uploads/sites/7/2025/10/MS201895-2-scaled.jpg",
-  "description": "Gravel Festival Bern – Grösstes Schweizer Gravel-Event für Erwachsene, Kinder und Familien im Bremgartenwald. Race- und Ride-Format auf 25 km (ausschliesslich Bremgartenwald) oder 50 km (mit Frauenkappelen/Mühleberg). Dazu Family Ride und Kids Cross. Veranstalter: RideGravel.ch seit 2018.",
-  "distanceKm": 50
+  "description": "Gravel Festival Bern – ältestes und grösstes Schweizer Gravel-Event (seit 2018) auf dem Gemeindegebiet von Bern, Frauenkappelen und Mühleberg. Die Ausgabe 2026 richtet erstmals die offiziellen Schweizer Meisterschaften im Gravel aus. Race-Kurs 50 km / 940 Höhenmeter, Ride-Kurs 23,5 km / 290 Höhenmeter; zusätzlich VCS Family Ride und Kids Gravel Cross. Start am Rasenmähermuseum in Frauenkappelen mit welligem Waldstrecken-Charakter.",
+  "distanceKm": 50,
+  "elevationGainM": 940
 }

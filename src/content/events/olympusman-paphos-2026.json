@@ -1,0 +1,25 @@
+{
+  "id": "olympusman-paphos-2026",
+  "name": "OlympusMan Paphos",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "CY",
+  "dates": {
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Paphos",
+    "lat": 34.7768,
+    "lng": 32.4245
+  },
+  "websiteUrl": "https://xtri-series.com/olympusman/",
+  "registrationUrl": "https://www.activatecyprus.com/o3-olympusman-1",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/64be5e35e7234c5aed764e83/2d61175f-bbfb-4a5a-b3c6-1c2724b4a867/xtreme%281%29.jpeg",
+  "description": "OlympusMan Paphos – XTRI-Series-Extremtriathlon von der Küste bei Paphos hinauf ins Troodos-Gebirge auf den Mount Olympus (1.952 m). Standard-Format 1,9 / 84 / 21 km mit rund 2.940 Höhenmetern auf dem Radkurs, Start am Meer und Ziel oben auf dem höchsten Punkt Zyperns. Am selben Tag läuft die OlympusMan Xtreme (3,8 / 178 / 43 km, ~5.720 Hm) als voll ausgebautes XTRI-Full-Distance-Rennen. November-Termin nutzt die zyprische Nachsaison mit angenehmen Küstentemperaturen und kühleren Bergabschnitten, Veranstalter Activate Cyprus.",
+  "distanceKm": 107,
+  "elevationGainM": 2940
+}

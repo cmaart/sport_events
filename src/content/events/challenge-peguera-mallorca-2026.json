@@ -16,7 +16,8 @@
     "lng": 2.4566
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-peguera/",
-  "description": "Challenge Peguera Mallorca – Mitteldistanz im Südwesten der Insel: 1,9 km Schwimmen im Mittelmeer in Pegueras idyllischer Bucht (Calvià), 90 km Rad durch Mallorcas Tramuntana-Hügel, 21,1 km Laufen. Oktobertriathlon im milden mallorquinischen Herbstklima, beliebter Saisonabschluss für europäische Triathleten.",
+  "description": "Challenge Peguera Mallorca – Mitteldistanz in Peguera (Gemeinde Calvià) im Südwesten der Insel. Start mit dem Schwimmen im Mittelmeer in Pegueras idyllischer Bucht, Radkurs zwei Runden à 45 km durch die Ausläufer der Serra de Tramuntana (UNESCO-Weltkulturerbe) über Es Capdellà und Calvià mit rund 500 Höhenmetern pro Runde (~1.000 Hm gesamt), technischen Anstiegen und schnellen Abfahrten; abschließend 21,1 km Laufen. Offizieller Challenge-Family-Qualifier für The Championship. Die 2026-Edition erweitert das Rahmenprogramm um Staffel, Challenge Women Mallorca (Kurzdistanz-Frauenlauf 4,3 km) sowie Junior Challenge und Junior Aquathlon am Folgetag.",
   "distanceKm": 113,
+  "elevationGainM": 1000,
   "imageUrl": "https://challenge-mallorca.com/wp-content/uploads/sites/11/2019/10/sin-titulo-1_0001_challenge_paguera-38.jpg"
 }

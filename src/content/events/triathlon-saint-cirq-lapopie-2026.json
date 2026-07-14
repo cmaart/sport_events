@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-saint-cirq-lapopie-2026",
+  "name": "Triathlon du Lot – Saint-Cirq-Lapopie",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2026-09-26",
+    "end": "2026-09-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saint-Cirq-Lapopie",
+    "lat": 44.4667,
+    "lng": 1.6811
+  },
+  "websiteUrl": "https://www.triathlondulot.com/",
+  "registrationUrl": "https://www.triathlondulot.com/inscriptions",
+  "imageUrl": "https://static.wixstatic.com/media/b17a4f_ca851b45610d4c2bb84a8285b8f051dd~mv2.jpeg/v1/crop/x_0,y_583,w_5120,h_2247/fill/w_1269,h_557,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WhatsApp%20Image%202025-09-27%20at%2019_15_44.jpeg",
+  "description": "Triathlon du Lot in einem der schönsten Dörfer Frankreichs – Saint-Cirq-Lapopie thront über dem Fluss Lot in Okzitanien. Das Herzstück ist die XXL-Distanz (3,8 / 180 / 42,2 km) mit rund 2.000 Höhenmetern auf zwei Runden durch die Täler von Lot und Célé. Geschwommen wird direkt im Fluss Lot, der flache Marathon führt entlang des Flussufers. Am selben Wochenende laufen zusätzlich Half (1,9 / 90 / 21), M (1,5 / 38 / 10) und Sprint (0,75 / 20 / 5). Dorf und Klippen bilden eine spektakuläre Kulisse für die letzte Langdistanz-Saison-Etappe in Südwestfrankreich.",
+  "distanceKm": 226,
+  "elevationGainM": 2000
+}
