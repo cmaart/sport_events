@@ -3,7 +3,8 @@
   "name": "Rund um den Solling",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {

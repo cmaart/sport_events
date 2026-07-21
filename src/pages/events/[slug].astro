@@ -5,7 +5,7 @@ import EventDetailMap from '../../components/islands/EventDetailMap';
 import ShareButton from '../../components/islands/ShareButton';
 import AppPromo from '../../components/AppPromo.astro';
 import { formatDateRange, t } from '../../lib/i18n';
-import { COUNTRY_LABELS } from '../../lib/types';
+import { COUNTRY_LABELS, isRtf } from '../../lib/types';
 import { collectLandingPaths } from '../../lib/landing';
 
 export async function getStaticPaths() {
@@ -29,7 +29,12 @@ today.setHours(0, 0, 0, 0);
 const isPast = e.dates.confirmed && (end ?? start) < today;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const mapUrl = `https://www.google.com/maps/search/?api=1&query=${e.location.lat},${e.location.lng}`;
-const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+const sportLabel =
+  e.sport === 'cycling'
+    ? isRtf(e.categories)
+      ? t('sport.cycling.rtf')
+      : t('filter.sport.cycling')
+    : t('filter.sport.triathlon');
 const sportColor = e.sport === 'cycling' ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-pink-100 text-pink-700';
 const country = COUNTRY_LABELS[e.country];
 
@@ -257,7 +262,7 @@ const breadcrumbsLd = {
     </section>
 
     <section aria-labelledby="about" class="mb-10">
-      <h2 id="about" class="text-xl sm:text-2xl font-semibold tracking-tight mb-3">{t('event.section.about')}</h2>
+      <h2 id="about" class="text-xl sm:text-2xl font-semibold tracking-tight mb-3">{isRtf(e.categories) ? t('event.section.about.rtf') : t('event.section.about')}</h2>
       <div class="prose prose-slate max-w-none">
         <p class="text-[var(--color-ink-700)] whitespace-pre-line leading-relaxed">{e.description}</p>
       </div>

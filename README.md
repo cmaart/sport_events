@@ -71,7 +71,7 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 ### Erlaubte Werte
 
 - **`sport`**: `cycling`, `triathlon`
-- **`categories`** (Radrennen): `Kriterium`, `Gran Fondo`, `Radmarathon`, `Rundstreckenrennen`, `Etappenrennen`, `Berg`
+- **`categories`** (Radrennen): `Kriterium`, `Gran Fondo`, `Radmarathon`, `RTF`, `Gravel`, `Rundstreckenrennen`, `Etappenrennen`, `Berg`, `Zeitfahren`. `RTF` kennzeichnet Radtourenfahrten und andere Breitensport-Events ohne Zeitnahme/Wertung — solche Events werden in der UI als „Radtourenfahrt" statt „Radrennen" ausgewiesen.
 - **`categories`** (Triathlon): `Sprintdistanz`, `Olympische Distanz`, `Mitteldistanz`, `Langdistanz`, `Cross-Triathlon`
 - **`country`**: `AT` oder `DE` (Pflichtfeld)
 - **`location.region`** (optional, nur für AT-Bundesländer): `Wien`, `Niederösterreich`, `Oberösterreich`, `Salzburg`, `Steiermark`, `Kärnten`, `Tirol`, `Vorarlberg`, `Burgenland`. Für DE-Events weglassen.

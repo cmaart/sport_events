@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'preact/hooks';
 import type { EventData } from '../../lib/filters';
 import { sortEvents } from '../../lib/filters';
 import { formatDateRange, t } from '../../lib/i18n';
-import { COUNTRY_LABELS } from '../../lib/types';
+import { COUNTRY_LABELS, isRtf } from '../../lib/types';
 
 interface Props {
   events: EventData[];
@@ -94,7 +94,11 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
               <div class="block p-4">
                 <div class="flex items-start justify-between gap-3 mb-2">
                   <span class={`inline-flex items-center text-[10px] uppercase tracking-wide font-medium px-2 py-0.5 rounded-full ${sportColor}`}>
-                    {e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon')}
+                    {e.sport === 'cycling'
+                      ? isRtf(e.categories)
+                        ? t('sport.cycling.rtf')
+                        : t('filter.sport.cycling')
+                      : t('filter.sport.triathlon')}
                   </span>
                   <span class="text-xs text-[var(--color-ink-500)] text-right shrink-0">{dateLabel}</span>
                 </div>

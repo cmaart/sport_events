@@ -2,7 +2,10 @@
   "id": "flatlands-spreewald-2026",
   "name": "Flatlands Spreewald",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel",
+    "RTF"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-07-25",

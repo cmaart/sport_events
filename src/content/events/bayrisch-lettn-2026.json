@@ -2,7 +2,10 @@
   "id": "bayrisch-lettn-2026",
   "name": "Bayrisch Lettn",
   "sport": "cycling",
-  "categories": ["Gravel"],
+  "categories": [
+    "Gravel",
+    "RTF"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-18",

@@ -2,7 +2,10 @@
   "id": "trattberg-sprint-2026",
   "name": "Trattberg-Sprint",
   "sport": "cycling",
-  "categories": ["Berg"],
+  "categories": [
+    "Berg",
+    "RTF"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-07-17",

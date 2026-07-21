@@ -5,6 +5,7 @@ export const CYCLING_CATEGORIES = [
   'Kriterium',
   'Gran Fondo',
   'Radmarathon',
+  'RTF',
   'Gravel',
   'Rundstreckenrennen',
   'Etappenrennen',
@@ -24,6 +25,9 @@ export const TRIATHLON_CATEGORIES = [
 
 export const CATEGORIES = [...CYCLING_CATEGORIES, ...TRIATHLON_CATEGORIES] as const;
 export type Category = (typeof CATEGORIES)[number];
+
+/** Radtourenfahrt/Breitensport ohne Zeitnahme — kein Rennen. */
+export const isRtf = (categories: readonly string[]): boolean => categories.includes('RTF');
 
 export const REGIONS = [
   'Wien',

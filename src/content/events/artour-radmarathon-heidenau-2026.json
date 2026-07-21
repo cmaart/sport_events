@@ -3,7 +3,8 @@
   "name": "ARTOUR RTF & Radmarathon",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {

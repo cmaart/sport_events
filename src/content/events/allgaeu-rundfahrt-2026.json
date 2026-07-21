@@ -3,7 +3,8 @@
   "name": "Allgäu Rundfahrt",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {

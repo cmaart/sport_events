@@ -3,7 +3,8 @@
   "name": "Sauerland Rodeo",
   "sport": "cycling",
   "categories": [
-    "Gravel"
+    "Gravel",
+    "RTF"
   ],
   "country": "DE",
   "dates": {

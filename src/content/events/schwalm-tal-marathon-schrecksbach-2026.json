@@ -3,7 +3,8 @@
   "name": "Schwalm-Tal und Höhen-Marathon",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {
