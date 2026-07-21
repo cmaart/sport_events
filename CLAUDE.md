@@ -70,7 +70,7 @@ All UI strings are in `src/i18n/de.json` (flat key-value), accessed via `t(key, 
 ## Adding an Event
 
 1. Copy `src/content/events/_template.json` to `src/content/events/<kebab-slug>-2026.json`.
-2. Fill in fields. Allowed values for `sport`, `categories`, `location.region` are enumerated in `src/lib/types.ts`. Set `dates.confirmed: false` if the 2026 date is not officially announced yet — the UI then renders "Datum noch offen".
+2. Fill in fields. Allowed values for `sport`, `categories`, `location.region` are enumerated in `src/lib/types.ts`. Add the `RTF` category for Radtourenfahrten and other non-competitive rides (no timing/ranking — BDR RTF/CTF, Audax/brevet, charity or adventure rides, "keine Zeitnahme"); the UI then labels the event "Radtourenfahrt" instead of "Radrennen" and the detail page says "Über das Event". Don't combine `RTF` with `Gran Fondo` (a Gran Fondo implies timed competition). Set `dates.confirmed: false` if the 2026 date is not officially announced yet — the UI then renders "Datum noch offen".
 3. Get `lat`/`lng` from openstreetmap.org (right-click → "Show address").
 4. Optional: set `imageUrl` to a hero image from the official event website. This becomes the OpenGraph preview when the event detail page is shared on WhatsApp/LinkedIn/Facebook. Recommended size: at least 1200×630 px in 1.91:1 aspect ratio; 16:9 (e.g. 1920×1080) crops acceptably. Omit the field rather than using a low-quality or mis-shaped image. Cycling/triathlon promo material is usually fine to hotlink, but if the host blocks it (Referer check) the field has no effect and should be removed.
 5. `npm run build` to validate the schema. CI will also block invalid events.

@@ -2,7 +2,10 @@
   "id": "kanalfahrt-westerroenfeld-2026",
   "name": "Kanalfahrt",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon",
+    "RTF"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-07-05",

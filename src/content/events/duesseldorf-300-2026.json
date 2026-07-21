@@ -2,7 +2,10 @@
   "id": "duesseldorf-300-2026",
   "name": "Düsseldorf 300",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": [
+    "Radmarathon",
+    "RTF"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-06-19",

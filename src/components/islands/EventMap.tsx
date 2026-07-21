@@ -6,6 +6,7 @@ import 'leaflet.markercluster/dist/MarkerCluster.css';
 import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 import type { EventData } from '../../lib/filters';
 import { formatDateRange, t } from '../../lib/i18n';
+import { isRtf } from '../../lib/types';
 
 interface Props {
   events: EventData[];
@@ -102,7 +103,11 @@ export default function EventMap({ events, selectedId, onSelect, onShowInList, b
       const start = new Date(e.dates.start);
       const end = e.dates.end ? new Date(e.dates.end) : undefined;
       const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
-      const sportLabel = e.sport === 'cycling' ? t('filter.sport.cycling') : t('filter.sport.triathlon');
+      const sportLabel = e.sport === 'cycling'
+        ? isRtf(e.categories)
+          ? t('sport.cycling.rtf')
+          : t('filter.sport.cycling')
+        : t('filter.sport.triathlon');
       const placeLine = e.location.region ? `${e.location.name} · ${e.location.region}` : e.location.name;
       marker.bindPopup(`
         <div style="min-width:200px">

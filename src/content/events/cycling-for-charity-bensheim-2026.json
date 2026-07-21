@@ -3,7 +3,7 @@
   "name": "Cycling for Charity Bensheim",
   "sport": "cycling",
   "categories": [
-    "Gran Fondo",
+    "RTF",
     "Gravel"
   ],
   "country": "DE",
@@ -19,6 +19,6 @@
   },
   "websiteUrl": "https://www.cycling-for-charity.de/",
   "imageUrl": "https://www.cycling-for-charity.de/files/Cycling%20for%20Charity/Headerbilder/slider_2026.jpg",
-  "description":"Cycling for Charity Bensheim – jährliche Wohltätigkeits-Radveranstaltung mit sieben Strecken: E-Bike/Familientour (40 km), zwei Gravel-Routen (46/61 km), drei Straßenrouten (61–117 km) und eine Radmarathon-Kombination bis 224 km. Erlös geht an lokale soziale Projekte. Nicht-gewertete Tourenfahrt in der Bergstraßen-Region zwischen Darmstadt und Heidelberg.",
+  "description": "Cycling for Charity Bensheim – jährliche Wohltätigkeits-Radveranstaltung mit sieben Strecken: E-Bike/Familientour (40 km), zwei Gravel-Routen (46/61 km), drei Straßenrouten (61–117 km) und eine Radmarathon-Kombination bis 224 km. Erlös geht an lokale soziale Projekte. Nicht-gewertete Tourenfahrt in der Bergstraßen-Region zwischen Darmstadt und Heidelberg.",
   "distanceKm": 224
 }

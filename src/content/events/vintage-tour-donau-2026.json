@@ -2,7 +2,9 @@
   "id": "vintage-tour-donau-2026",
   "name": "Vintage-Tour Donau",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "RTF"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-08-30",
