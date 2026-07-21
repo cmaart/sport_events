@@ -8,7 +8,7 @@
   ],
   "country": "DE",
   "dates": {
-    "start": "2026-07-26",
+    "start": "2026-07-25",
     "end": "2026-07-26",
     "confirmed": true
   },
@@ -19,7 +19,7 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://leipziger-triathlon.de",
-  "description": "43. Ausgabe des Leipziger Triathlons, einer der laengsten laufenden Triathlon-Veranstaltungen Mitteldeutschlands. Olympische Distanz (1.500 m / 40 km / 10 km) und Fitness-Triathlon in Leipzig mit Schwimmen in einem Baggersee. Familienaeres Vereinsevent in der Musikstadt Leipzig.",
+  "description": "43. Ausgabe des Leipziger Triathlons, einer der ältesten und größten Triathlonveranstaltungen Mitteldeutschlands (traditionell mehr als 1.400 Aktive). Renntage sind Samstag 25. und Sonntag 26. Juli: Am Samstag läuft der Nachwuchsbewerb (400 m / 10 km / 2,5 km), am Sonntag folgen die Olympische Distanz (1,5 km / 42 km / 10 km) und die Fitness-Distanz (590 m / 21 km / 5 km), jeweils auch als Staffel möglich. Geschwommen wird im Kulkwitzer See – einem der klarsten Badeseen Deutschlands – die Radstrecke ist komplett gesperrt, die Laufstrecke rollt entlang des Ufers. Für 2026 sind streckenbedingte Anpassungen wegen Baumaßnahmen angekündigt; die Anmeldung öffnete am 1. Dezember 2025.",
   "distanceKm": 52,
   "elevationGainM": 200,
   "imageUrl": "https://leipziger-triathlon.de/picpool/slidervisuals/start_triathlon.jpg"

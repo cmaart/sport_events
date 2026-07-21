@@ -17,9 +17,8 @@
     "lng": 7.9541,
     "region": "Baden-Württemberg"
   },
-  "websiteUrl": "https://ultra-bike.de",
-  "description": "Gravel-Marathon im suedlichen Schwarzwald startend in Kirchzarten bei Freiburg, Teil des Veranstaltungsrahmens des Black Forest Ultra Bike Marathons. Schotterrouten durch dichten Schwarzwald-Tannenwald, Flusstal-Schotterwege und Forstwege mit erheblichem Hoehengewinn. Anspruchsvolles Gravelrennen im traditionsreichsten Schwarzwald-Bikeevent.",
+  "websiteUrl": "https://www.ultra-gravel.de/",
+  "description": "3. Ausgabe des Black Forest ULTRA Gravel am Samstag vor dem großen Ultra-Bike-Wochenende in Kirchzarten. Zwei Distanzen führen über Schotterpisten, Waldwege und Asphaltverbinder durch den Hochschwarzwald: Xplorer ~65 km und Xtensive ~120 km, ohne Zeitwertung – der Veranstalter versteht das Rennen ausdrücklich als Erlebnisfahrt (no race, no clock, no pressure) und stellt die Community in den Mittelpunkt. Der Kurs streift die Tannenwälder südöstlich Freiburgs, Höfe im Dreisamtal und die typischen Schwarzwald-Waldwege; Verpflegung und Feiergelände werden mit dem parallel laufenden Bike-Marathon geteilt. Anmeldung öffnete am 1. Dezember 2025 über ultra-gravel.de zum Startgeld von 80 € (Early-Bird 70 €).",
   "distanceKm": 120,
-  "elevationGainM": 3500,
   "imageUrl": "https://black-forest-ultra-bike-marathon.de/clips/uci-hero.png"
 }

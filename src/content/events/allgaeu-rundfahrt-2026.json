@@ -18,7 +18,8 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.rsc-kempten.de/allgaeu-rundfahrt/",
-  "description": "44. Allgäu Rundfahrt des RSC Kempten in Durach: Radmarathon 200 km, 140 km oder 80 km durch die Allgäuer Voralpenlandschaft rund um Kempten. Zusätzlich Gravel-Strecke 75 km und Familienrunde 40 km. Start und Ziel in Durach bei Kempten (Bayern).",
+  "description": "44. Allgäu Rundfahrt des RSC Kempten mit Start und Ziel in Durach bei Kempten. Fünf Streckenvarianten mit offiziellen Kernwerten: Rennrad 200 km / 2.419 Hm (Start 6–7 Uhr), 140 km / 1.069 Hm (7–8 Uhr) und 80 km / 840 Hm (8–10 Uhr) durch die Allgäuer Voralpenlandschaft, dazu eine 75 km Gravel-/MTB-Runde mit 836 Hm (8–9 Uhr) sowie eine Family & Kids-Runde 40 km / 240 Hm (8–10 Uhr). Kinder unter 14 fahren kostenlos mit, Zielschluss ist um 16 Uhr, Siegerehrung 16:30 Uhr. Unterwegs versorgt Partner AMAXC die Fahrenden an den Labestellen mit frischem Obst, Sportnahrung und regionalen Spezialitäten; die Gravelrunde wird von Enduro-Weltmeisterin Ines Thoma begleitet.",
   "distanceKm": 200,
+  "elevationGainM": 2419,
   "imageUrl": "https://www.rsc-kempten.de/media/galerie_large/tha02867-verbessert-rr_1.jpg"
 }

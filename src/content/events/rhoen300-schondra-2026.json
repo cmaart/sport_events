@@ -19,7 +19,8 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.rhoen300.de",
-  "description": "10. Jubilaeumsauflage des RHOEN 300 durch das Land der offenen Fernen - Strecken queren die hessische, bayerische und thueringische Rhoen. Erstmals zwei Gravel-Routen (70 und 100 km mit ca. 2.000 Hm) neben den Rennradstrecken 100-300 km. Start ab 6 Uhr in Schondra an der Rhoen-Grenze.",
+  "description": "10-Jahres-Jubiläum des RHÖN 300 mit Start und Ziel am Sportzentrum Schondra (Schulstraße 21) im hessisch-bayerisch-thüringischen Dreiländereck. Vier Rennrad-Routen mit offiziellen Kernwerten: 300 km / 5.200 Hm und 230 km / 4.500 Hm (Start 6:00–7:00 Uhr) sowie 170 km / 2.500 Hm und 100 km / 1.700 Hm (Start 7:00–8:00 Uhr); dazu zwei Gravel-Runden 70 km / 1.400 Hm und 120 km / 2.000 Hm (Start 8:00–8:30 Uhr). Das Teilnehmerfeld ist auf 1.000 Startende begrenzt, Anmeldung läuft über Datasport; Teilnehmende mit Handicap erhalten 50 % Rabatt gegen Nachweis. Veranstalter Peter Baumgart konzipiert die Rundfahrt als touristische Ausfahrt durchs Land der offenen Fernen ohne Zeitnahme.",
   "distanceKm": 300,
+  "elevationGainM": 5200,
   "imageUrl": "https://www.rhoen300.de/rhoen300_de/wp-content/uploads/2024/04/RHOEN300_2023_262-scaled.jpg"
 }

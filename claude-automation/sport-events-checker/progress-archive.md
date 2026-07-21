@@ -1,7 +1,57 @@
 # Sport Events Checker – Session Progress (Archiv)
 
-> Ausgelagertes Langzeit-Archiv älterer Läufe (Session 25 und davor).
-> Aktueller rollender Memory: `progress.md`.
+> Ausgelagertes Langzeit-Archiv älterer Läufe. Aktueller rollender Memory: `progress.md`.
+
+---
+
+## Quellen-Durchgang: 2026-07-09 (k226.com – erster Durchgang)
+- **k226.com** vollständig durchgegangen (globaler Tri-Aggregator); Scope-Filter DE/AT + Ironman/Challenge Europa angewandt.
+- Fast alle in-scope-Events bereits im Bestand (Ostseeman, KnappenMan, Allgäu-Immenstadt, Köln, Trumer, Podersdorf, Südkärntner, Uster, Extrememan Nagyátád, alle Ironman/Challenge Europa).
+- **+1 neu:** `hoelle-von-q-quedlinburg-2026` (DE, Mitteldistanz, 30.08., Quedlinburg/Harz) — offiziell über hoelle-von-q.de verifiziert (10. Auflage, 2,0/83/21,1 km, 1600 Hm, Ziel Rathaus).
+- Datum-Abgleich bestehender DE/AT-Events gegen k226: nur 1–2-Tage-Abweichungen nach Muster Wochenendstart (DB) vs. Haupttag (k226) → keine Änderung.
+- Build grün: 1165 pages, 0 errors.
+
+---
+
+## Session date: 2026-07-07 (Session 29 – Enrichment-first Wartungslauf)
+
+## Current state (after Session 29):
+- **Total events: 1116** (unverändert; keine Neuanlagen, keine Löschungen)
+- **Upcoming (>= 2026-07-07): 579 | Past (indexiert via noindex): 537**
+- Build: 1164 pages, 0 errors, 0 warnings, ~72 s
+- Sitemap: 627 URLs (579 künftige Event-Detailseiten + Landing/Country/Category-Seiten), keine vergangenen Events (noindex-Filter aus Session 27 aktiv)
+- Latest push: (this session) — push auf master triggert Deployment
+
+## Kontext dieses Laufs
+Fokus wieder ausschließlich auf **Enrichment und Datenqualität**, keine Neuanlagen — Anti-Flut-Regel gilt. Ziel: künftige Event-Detailseiten so faktenreich machen, dass Google sie indexiert (statt "Gecrawlt/Gefunden – nicht indexiert").
+
+## Enrichment (20 künftige Events angereichert)
+
+**Große/bekannte Events — Beschreibungen faktenreich verdichtet und/oder Fakten korrigiert:**
+- `schwarzwald-bike-marathon-furtwangen-2026` — distanceKm 94 + elevationGainM 1900 ergänzt; 28. Ausgabe, 6 Strecken (Rothaus 94/1900, Ketterer 59/1000, Scherzinger Gravel 56/880, Singer 46/700, Magna E-Cup 46/700, Jugend 46) belegt, Spendenanteil Katharinenhöhe.
+- `bootshaus-gravel-bonn-2026` — distanceKm 100 ergänzt; 5. Edition, alle Strecken (100/60/Family 28/24/300), Ultra 400 km/6500 Hm am Vortag, Start Bootshaus OWV Oberkassel.
+- `niederrhein-gravel-kalkar-2026` — distanceKm 110 ergänzt; 2. Edition, drei Distanzen 110/160/300 km mit Gravel-Anteil, Landhaus Beckmann als Start-Ziel.
+- `rennsteigride-schmiedefeld-2026` — distanceKm 100 + elevationGainM 2666 ergänzt; 10. Auflage, 6 Strecken (Supermarathon 100/2666, Marathon 67/1820, Halbmarathon 36/950, E-Bike, BasicRIDE, JuniorRIDE) je einzeln recherchiert.
+- `duensberg-bike-marathon-2026` — distanceKm auf 124 korrigiert + elevationGainM 2610 ergänzt; 20. Auflage, alle 5 Streckenvarianten (30/560, 41/870, 57/1030, 82/1749, 124/2610) belegt, Deutsche Meisterschaft.
+- `greifenstein-bike-marathon-2026` — distanceKm 69 ergänzt; 24-jährige Historie, 23-km-Rundkurs 1-2-3 Runden, MTB Sachsen Cup.
+- `sparkassen-heide-gravel-2026` — Koordinaten korrigiert (Taura b. Chemnitz → Taura Belgern-Schildau, 51.454°/13.101°); distanceKm 100 + elevationGainM 900 ergänzt; alle 3 Distanzen 30/300, 60/600, 100/900 belegt, DGM-Kurs 2025.
+- `letape-slovakia-2026` — distanceKm 112 + elevationGainM 1700 ergänzt; 6. Edition, THE RACE 112/1700, THE RIDE 60/900, Family Ride, Kids Race, Botschafter Velits-Brüder.
+- `gfny-grand-ballon-2026` — distanceKm auf 138 korrigiert (offizielle Angabe 2026); Beschreibung um Vogesen-Klassiker (Wasserbourg 21 %, Petit Ballon, Viel Armand), FFC Gold Label und Post-Race-Feier erweitert.
+- `ronde-picarde-2026` — distanceKm auf 158 + elevationGainM 1450 korrigiert; alle 5 Strecken belegt, Trikot-Regel, Preissteigerung 19.07.
+- `teuto-muensterland-trophy-2026` — distanceKm auf 239 korrigiert; Marathon 239 + Halbmarathon 142 (ab Ibbenbüren) bzw. 149 (ab Warendorf), Startgebühren 30/15 €, Anmeldeschluss 29.07. 18:00 Uhr.
+- `challenge-turku-2026` — Datum-Erweiterung (07-26 → 07-25/07-26); alle Junior-/Youth-/Elite-Kategorien belegt, Qualifier für The Championship, Suomen Triathlonliitto sanktioniert.
+
+**Datenfehler behoben:**
+- `helsinki-gran-fondo-2026` — Datum korrigiert 2026-08-29 → 2026-08-30; Startgebühren 85–125 €, Start/Ziel am Helsinki Velodrome.
+- `gravel-grit-n-grind-halmstad-2026` — Datum verschoben wegen Genehmigungsproblemen: 15–16.08. → 26–27.09.2026. UCI Gravel World Series + NGS + EM-Qualifikation Lahti 2027.
+- `altwarmbuchener-triathlon-hannover-2026` — Rebranding: heißt jetzt "Hannover-Lahe Triathlon"; websiteUrl aktualisiert.
+- `flatlands-spreewald-2026` — websiteUrl ergänzt (gravelmania.cc), distanceKm 150, Adventure Ride, BBQ im STORK CLUB.
+
+## Datenqualität-Delta Session 29
+- Missing distanceKm (upcoming cycling): 17 → 9 (−8)
+- Missing elevationGainM (upcoming cycling): 75 → 69 (−6)
+- Thin descriptions: 138 → 126 (−12)
+- Build grün: 1164 pages, 0 errors, Sitemap 627 URLs.
 
 ---
 
