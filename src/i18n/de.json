@@ -125,8 +125,6 @@
   "event.titleSuffix": "Rennkalender",
   "landing.title.cycling": "Radrennen in {country} 2026",
   "landing.title.triathlon": "Triathlons in {country} 2026",
-  "landing.intro.cycling": "{count} Radrennen, Radmarathons und Gran Fondo in {country} für die Saison 2026 — kuratierte Übersicht mit Datum, Ort, Distanz und Direktlink zur Anmeldung. Sortiert nach Datum, von der ersten bis zur letzten Veranstaltung im Jahr.",
-  "landing.intro.triathlon": "{count} Triathlons in {country} für die Saison 2026 — von Sprintdistanz über Olympische und Mitteldistanz bis Langdistanz. Kuratierte Übersicht mit Datum, Ort, Distanz und Direktlink zur Anmeldung, sortiert nach Datum.",
   "landing.heading.list": "Alle {count} Events",
   "landing.crosslinks.country": "Mehr {sport} in:",
   "landing.crosslinks.sport": "Mehr Events in {country}:",

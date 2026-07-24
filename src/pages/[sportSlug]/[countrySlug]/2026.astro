@@ -5,6 +5,7 @@ import EventCard from '../../../components/EventCard.astro';
 import { t } from '../../../lib/i18n';
 import { COUNTRY_LABELS, type Country, type Sport } from '../../../lib/types';
 import { SPORT_SLUGS, COUNTRY_SLUGS, collectLandingPaths } from '../../../lib/landing';
+import { buildLandingIntro } from '../../../lib/landing-intro';
 import type { EventData } from '../../../lib/filters';
 
 export async function getStaticPaths() {
@@ -58,9 +59,8 @@ const sportLabel = sport === 'cycling' ? t('filter.sport.cycling') : t('filter.s
 const sportLabelPlural = sport === 'cycling' ? t('hero.stat.cycling') : t('hero.stat.triathlon');
 
 const titleKey = sport === 'cycling' ? 'landing.title.cycling' : 'landing.title.triathlon';
-const introKey = sport === 'cycling' ? 'landing.intro.cycling' : 'landing.intro.triathlon';
 const h1 = t(titleKey, { country: countryLabel });
-const intro = t(introKey, { country: countryLabel, count: events.length });
+const intro = buildLandingIntro(sport, countryLabel, events);
 const seoTitle = h1;
 const seoDescription = intro.length > 200 ? intro.slice(0, 197).replace(/[.,;:\s]+$/, '') + '…' : intro;
 
