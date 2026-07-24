@@ -177,11 +177,15 @@ const jsonLd = {
 
   <AppPromo class="mt-6 mb-2" />
 
+  <div id="explore"></div>
+  <EventsExplorer client:load baseUrl={base} />
+
   {/* Server-rendered upcoming events: real, crawlable HTML content — the
-      interactive explorer below loads its data client-side, so this section
-      is what search engines (and no-JS visitors) actually see. */}
+      interactive explorer above loads its data client-side, so this section
+      is what search engines (and no-JS visitors) actually see. Placed below
+      the explorer on purpose: crawlers don't care about position, users do. */}
   {upcoming.length > 0 && (
-    <section aria-labelledby="upcoming-heading" class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
+    <section aria-labelledby="upcoming-heading" class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 border-t border-[var(--color-ink-100)]">
       <div class="flex flex-wrap items-baseline justify-between gap-2 mb-5">
         <h2 id="upcoming-heading" class="text-xl sm:text-2xl font-semibold tracking-tight">
           {t('home.upcoming.title')}
@@ -190,12 +194,9 @@ const jsonLd = {
           {t('home.upcoming.cta', { count: total })}
         </a>
       </div>
-      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {upcoming.slice(0, 24).map((event) => <EventCard event={event} />)}
+      <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        {upcoming.slice(0, 24).map((event) => <EventCard event={event} compact />)}
       </div>
     </section>
   )}
-
-  <div id="explore"></div>
-  <EventsExplorer client:load baseUrl={base} />
 </BaseLayout>
