@@ -10,22 +10,31 @@ import { t } from '../../lib/i18n';
 const EventMap = lazy(() => import('./EventMap'));
 
 interface Props {
-  events: EventData[];
   baseUrl: string;
 }
 
 type View = 'list' | 'map' | 'both';
 
-export default function EventsExplorer({ events, baseUrl }: Props) {
+export default function EventsExplorer({ baseUrl }: Props) {
   const [filters, setFilters] = useState<Filters>(defaultFilters);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false);
   const [view, setView] = useState<View>('both');
   const [isClient, setIsClient] = useState(false);
+  // Events are fetched from the static /events.json endpoint instead of being
+  // serialized into the page as island props — that kept ~1.4 MB of JSON in
+  // the homepage HTML and buried the crawlable content.
+  const [events, setEvents] = useState<EventData[]>([]);
+  const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
     setIsClient(true);
     setFilters(filtersFromSearch(window.location.search));
+    fetch(`${baseUrl}/events.json`)
+      .then((r) => r.json())
+      .then((data: EventData[]) => setEvents(data))
+      .catch(() => {})
+      .finally(() => setLoaded(true));
   }, []);
 
   useEffect(() => {
@@ -130,7 +139,15 @@ export default function EventsExplorer({ events, baseUrl }: Props) {
             )}
             {(view === 'list' || view === 'both') && (
               <div class={view === 'both' ? 'xl:order-1' : ''}>
-                <EventList events={filtered} selectedId={selectedId} onSelect={handleSelect} baseUrl={baseUrl} />
+                {loaded ? (
+                  <EventList events={filtered} selectedId={selectedId} onSelect={handleSelect} baseUrl={baseUrl} />
+                ) : (
+                  <div class="grid gap-4">
+                    {[0, 1, 2, 3].map((i) => (
+                      <div key={i} class="rounded-2xl bg-[var(--color-ink-100)] animate-pulse h-36" />
+                    ))}
+                  </div>
+                )}
               </div>
             )}
           </div>

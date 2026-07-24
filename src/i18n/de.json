@@ -14,6 +14,8 @@
   "hero.subtitle": "Amateur-Radrennen, Jedermannrennen, Radmarathons und Triathlons – von Sprintdistanz bis Ironman, von Gran Fondo bis Etappenrennen. Österreich, Deutschland und Europa auf einer Karte.",
   "hero.cta.explore": "Events entdecken",
   "hero.cta.contribute": "Event vorschlagen",
+  "home.upcoming.title": "Die nächsten Events",
+  "home.upcoming.cta": "Alle {count} Events mit Filtern & Karte →",
   "hero.stat.events": "Events",
   "hero.stat.cycling": "Radrennen",
   "hero.stat.triathlon": "Triathlons",
