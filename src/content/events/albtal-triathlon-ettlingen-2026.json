@@ -17,6 +17,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.swe-albtal-triathlon.de",
-  "description": "SWE Albtal-Triathlon in Ettlingen südlich von Karlsruhe. Olympische Distanz im Naturpark Schwarzwald mit anspruchsvollem Radkurs ins Albtal.",
-  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/12/cb/swe-albtal-triathlon-37-1680700526.png"
+  "description": "Der 4. SWE Albtal-Triathlon findet am 13. September 2026 in Ettlingen südlich von Karlsruhe statt und wird über die olympische Distanz ausgetragen: 1,5 km Schwimmen im und um den Buchtzigsee, 40 km Rad und 9,8 km Lauf. Der Radkurs besteht aus drei Runden à 13,2 km und führt auf jeder Runde hinauf nach Schöllbronn in den Naturpark Schwarzwald Mitte/Nord. Mit rund 750 Höhenmetern zählt die Radstrecke zu den anspruchsvollsten der olympischen Distanz in Deutschland – laut Veranstalter sind es sogar mehr Höhenmeter als beim Allgäu Triathlon. Das Event ist Teil des Baden Tri Cup 2026. Alle Startplätze für 2026 (Einzel und Staffel) sind bereits vergeben, es gibt nur noch eine Warteliste.",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/12/cb/swe-albtal-triathlon-37-1680700526.png",
+  "distanceKm": 51,
+  "elevationGainM": 750
 }

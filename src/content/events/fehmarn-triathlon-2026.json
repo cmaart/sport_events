@@ -18,6 +18,7 @@
     "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://fehmarn-triathlon.de",
-  "description": "Fehmarn-Triathlon auf der Ostseeinsel Fehmarn. Sprint- und Olympische Distanz mit Schwimmen in der Ostsee und Radkurs über die windgepeitschte Insel.",
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/schleswig-holstein/fehmarn-triathlon/yjgk7k93ofgmoyyktfcd"
+  "description": "Der Fehmarn-Triathlon findet 2026 am 13. September auf der Ostseeinsel Fehmarn an der Strandpromenade statt. Angeboten werden mehrere Distanzen: die olympische Distanz (1,5 km Schwimmen, 43 km Rad, 10 km Lauf), der Volkstriathlon (0,5/20/5,4 km) und der Supertriathlon (0,25/13/3,1 km); zusätzlich ist Fehmarn 2026 Austragungsort des Quadrathlon-Deutschland-Cups. Geschwommen wird in der Ostsee auf einem Dreieckskurs – bei der olympischen Distanz um die Ostmole herum, bei den kürzeren Bewerben auf einem verkürzten Dreieck. Für Wassersicherung und Streckenmarkierung sorgt die DLRG Ortsgruppe Fehmarn mit Booten und Boards. Der Bewerb ist Teil der PALM-SERIE mit eigener Finisher-Medaille. Starts sind gestaffelt zwischen 09:00 und 11:40 Uhr, die Anmeldung öffnet am 15. Januar 2026.",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/schleswig-holstein/fehmarn-triathlon/yjgk7k93ofgmoyyktfcd",
+  "distanceKm": 55
 }

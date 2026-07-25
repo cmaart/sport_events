@@ -17,6 +17,7 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.triathlon-alzenau.de",
-  "description": "30. Alzenauer Triathlon am Kahl-See im bayerischen Spessart. Sprintdistanz-Volkstriathlon mit familiärer Atmosphäre nahe Frankfurt.",
-  "imageUrl": "https://www.triathlon-alzenau.de/pages/home/images/banner.jpg"
+  "description": "Der 30. Alzenauer Triathlon wird am Sonntag, den 20. September 2026 am Meerhofsee in Alzenau im bayerischen Untermain (Nähe Frankfurt) ausgetragen. Geschwommen wird über 500 m im Meerhofsee, gefolgt von 22 km Radfahren und 4,6 km Laufen. Neben der Einzelwertung gibt es einen Staffelwettbewerb, bei dem sich zwei oder drei Teilnehmende die Disziplinen teilen, mit getrennten Wertungen für Männer-, Frauen- und Mixed-Staffeln. Das Teilnehmerfeld ist auf 460 Startplätze begrenzt. Die Startgebühr beträgt 30 Euro für die Einzelwertung und 54 Euro für Staffeln. Das Event ist für 2026 bereits ausgebucht und wird über eine Warteliste geführt.",
+  "imageUrl": "https://www.triathlon-alzenau.de/pages/home/images/banner.jpg",
+  "distanceKm": 27
 }

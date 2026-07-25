@@ -5,6 +5,36 @@
 
 ---
 
+## Quellen-Durchgang: 2026-07-09 (k226.com)
+- **k226.com** vollständig durchgegangen (globaler Tri-Aggregator); Scope-Filter DE/AT + Ironman/Challenge Europa angewandt.
+- Fast alle in-scope-Events bereits im Bestand (Ostseeman, KnappenMan, Allgäu-Immenstadt, Köln, Trumer, Podersdorf, Südkärntner, Uster, Extrememan Nagyátád, alle Ironman/Challenge Europa).
+- **+1 neu:** `hoelle-von-q-quedlinburg-2026` (DE, Mitteldistanz, 30.08., Quedlinburg/Harz) — offiziell über hoelle-von-q.de verifiziert (10. Auflage, 2,0/83/21,1 km, 1600 Hm, Ziel Rathaus).
+- Datum-Abgleich bestehender DE/AT-Events gegen k226: nur 1–2-Tage-Abweichungen nach Muster „Wochenendstart (DB) vs. Haupttag (k226)" → keine Änderung.
+- Build grün: 1165 pages, 0 errors.
+
+---
+
+## Session date: 2026-07-07 (Session 29 – Enrichment-first Wartungslauf)
+
+## Current state (after Session 29):
+- **Total events: 1116** (unverändert; keine Neuanlagen, keine Löschungen)
+- **Upcoming (>= 2026-07-07): 579 | Past (indexiert via noindex): 537**
+- Build: 1164 pages, 0 errors, 0 warnings, ~72 s
+- Sitemap: 627 URLs (579 künftige Event-Detailseiten + Landing/Country/Category-Seiten), keine vergangenen Events (noindex-Filter aus Session 27 aktiv)
+- Latest push: (Session 29) — push auf master triggert Deployment
+
+## Kontext dieses Laufs
+Fokus wieder ausschließlich auf **Enrichment und Datenqualität**, keine Neuanlagen — Anti-Flut-Regel gilt. Ziel: künftige Event-Detailseiten so faktenreich machen, dass Google sie indexiert (statt "Gecrawlt/Gefunden – nicht indexiert").
+
+## Enrichment (20 künftige Events angereichert)
+20 Events mit distanceKm/elevationGainM und faktenreichen Beschreibungen versehen (u. a. schwarzwald-bike-marathon-furtwangen, bootshaus-gravel-bonn, niederrhein-gravel-kalkar, rennsteigride-schmiedefeld, duensberg-bike-marathon, sparkassen-heide-gravel, letape-slovakia, gfny-grand-ballon, ronde-picarde, teuto-muensterland-trophy, challenge-turku); Datums-/Namens-/URL-Korrekturen (helsinki-gran-fondo 29.→30.08.; gravel-grit-n-grind-halmstad 15./16.08.→26./27.09.; altwarmbuchener→Hannover-Lahe Triathlon Rebranding).
+
+## Datenqualität-Delta (Session 29): Missing distanceKm 17→9, Missing elevationGainM 75→69, Thin descriptions 138→126.
+
+## SEO / Sitemap – Session 29 verifiziert: Build grün 1164 pages; Sitemap 627 URLs, 0 Past-URLs; noindex + JSON-LD intakt.
+
+---
+
 ## Session date: 2026-06-09 (Session 25)
 
 ## Current state (after Session 25):

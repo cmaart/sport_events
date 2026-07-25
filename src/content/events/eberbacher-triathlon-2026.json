@@ -18,5 +18,7 @@
   },
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/arrondissement-de-karlsruhe/eberbacher-sprint-und-jedermanntriathlon/exelkmmj4qqoj5wdceyw",
   "websiteUrl": "https://www.triathlon-eberbach.de",
-  "description": "31. Eberbacher Sprint- und Jedermanntriathlon am Neckar im badischen Odenwald. Familienfreundliche Sprintdistanz mit Einsteigeroption."
+  "description": "Der 31. Eberbacher Sprint- und Jedermanntriathlon findet am 6. September 2026 im Sportgebiet „In der Au\" in Eberbach im badischen Odenwald statt. Das Schwimmen führt über 700 m im Neckar, gefolgt von 22,2 km Radfahren mit rund 310 Höhenmetern und 6 km Laufen entlang des Neckars. Die Streckenführung im Flusslauf und die welligen Radkilometer verleihen dem Wettkampf einen sportlichen Charakter, er bleibt aber familienfreundlich und einsteigergeeignet. Neben Einzelstartern sind Staffeln zugelassen. Das Feld ist limitiert (zuletzt rund 250 Einzelstarter und 25 Staffeln); die Einzelplätze sind früh ausgebucht, sodass zeitweise nur noch wenige Staffelstartplätze verfügbar sind.",
+  "distanceKm": 29,
+  "elevationGainM": 310
 }
