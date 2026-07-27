@@ -2,7 +2,9 @@
   "id": "zeitfahr-cup-seibersdorf-22-2026",
   "name": "ZeitFahr-CUP Speed Seibersdorf 22",
   "sport": "cycling",
-  "categories": ["Zeitfahren"],
+  "categories": [
+    "Zeitfahren"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-08-08",
@@ -15,7 +17,8 @@
     "region": "Niederösterreich"
   },
   "websiteUrl": "https://zeitfahr-cup.at/",
-  "description": "Einzelzeitfahren in der Ebene bei Seibersdorf (NÖ) über 22 km. Teil des ZeitFahr-CUP Speed 2026 – einer österreichischen Zeitfahrserie mit Fokus auf Tempo und flache Strecken. Gut als Vorbereitungsrennen geeignet, veranstaltet vom ZeitFahr-CUP-Team.",
+  "description": "Einzelzeitfahren über 22 km mit nur 64 Höhenmetern bei Seibersdorf (NÖ), am 8. August 2026. Der flache, schnelle Kurs führt von Seibersdorf über Reisenberg nach Hof an der Leitha und ist Teil der ZeitFahr-CUP-SPEED-Serie mit Fokus auf Tempo und flache Strecken. Check-in ist von 10:00 bis 11:30 Uhr, gestartet wird ab 12:00 Uhr. Das Schwesterrennen „Seibersdorf 44“ über 44 km (zwei Runden) findet am 22. August 2026 statt.",
   "distanceKm": 22,
-  "imageUrl": "https://zeitfahr-cup.at/wp-content/uploads/2022/02/speed_gr_1024x768.jpg"
+  "imageUrl": "https://zeitfahr-cup.at/wp-content/uploads/2022/02/speed_gr_1024x768.jpg",
+  "elevationGainM": 64
 }

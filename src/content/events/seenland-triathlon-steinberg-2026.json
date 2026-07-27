@@ -17,6 +17,7 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.seenland-triathlon.de",
-  "description": "Seenland Triathlon am Steinberger See in der Oberpfalz. Sprintdistanz-Event im Naturpark Oberpfälzer Seenland mit klarem Badewasser.",
-  "imageUrl": "https://seenland-triathlon.de/wp-content/uploads/2025/04/1ace2fa6-fbba-46c3-81ae-09a6fe0e692f.jpg"
+  "description": "Der Seenland Triathlon des Ski-Club Schwandorf wird am 13. September 2026 im InMotion Park in Steinberg am See im Oberpfälzer Seenland ausgetragen. Geschwommen wird im Steinberger See, einem klaren Badesee im Naturpark. Zur Wahl stehen ein Supersprint (0,32/13/3,2 km) und eine Sprintdistanz (0,75/22/5,5 km), dazu Zweier- und Dreier-Staffeln. Das Teilnehmerfeld ist auf 450 Startplätze begrenzt; Meldeschluss ist der 5. September 2026. Der Wettkampf ist Teil des Rennwochenendes vom 12. bis 13. September.",
+  "imageUrl": "https://seenland-triathlon.de/wp-content/uploads/2025/04/1ace2fa6-fbba-46c3-81ae-09a6fe0e692f.jpg",
+  "distanceKm": 28
 }

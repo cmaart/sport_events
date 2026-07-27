@@ -3,11 +3,12 @@
   "name": "Ratekau Triathlon",
   "sport": "triathlon",
   "categories": [
-    "Sprintdistanz"
+    "Sprintdistanz",
+    "Olympische Distanz"
   ],
   "country": "DE",
   "dates": {
-    "start": "2026-08-02",
+    "start": "2026-07-12",
     "confirmed": true
   },
   "location": {
@@ -16,7 +17,8 @@
     "lng": 10.6394,
     "region": "Schleswig-Holstein"
   },
-  "description": "Ratekau Triathlon in der Nähe von Lübeck. Sprintdistanz-Event in der Holsteinischen Schweiz mit Schwimmen in einem der malerischen Seen der Region.",
-  "imageUrl": "https://palm-sports.de/site/assets/files/1032/fb_rur_titelbild_2026.jpg",
-  "websiteUrl": "https://offendorf-triathlon.de/"
+  "description": "Der Offendorf-Triathlon (Ratekau) der Agentur PALM Sports wird im Ortsteil Offendorf der Gemeinde Ratekau bei Lübeck ausgetragen. Geschwommen wird im Hemmelsdorfer See mit Wechselzone direkt an der Badeanstalt Offendorf. Angeboten werden ein Supertriathlon (0,25/8,5/2,5 km), ein Volkstriathlon (0,5/20/5 km) und – erstmals 2026 – die Olympische Distanz (1,5/37/10 km) sowie ein Quadrathlon-Sprint mit Kajak-/SUP-Passage. Die Veranstaltung gehört zur PALM-Serie und ist 2026 Austragungsort des Deutschland-Cups Quadrathlon. Die Erstauflage fand 2023 statt.",
+  "imageUrl": "https://offendorf-triathlon.de/site/assets/files/1015/dji_0017.jpg",
+  "websiteUrl": "https://offendorf-triathlon.de/",
+  "distanceKm": 48
 }

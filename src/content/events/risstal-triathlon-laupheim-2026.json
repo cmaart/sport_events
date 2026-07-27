@@ -3,8 +3,7 @@
   "name": "Rißtal Triathlon Laupheim",
   "sport": "triathlon",
   "categories": [
-    "Sprintdistanz",
-    "Olympische Distanz"
+    "Sprintdistanz"
   ],
   "country": "DE",
   "dates": {
@@ -18,8 +17,8 @@
     "lng": 9.88,
     "region": "Baden-Württemberg"
   },
-  "websiteUrl": "https://www.triathlondeutschland.de/",
-  "description": "Der Risstal Triathlon Laupheim am Oberlauf der Riss bietet Schwimmen im Stausee, Radfahren durch das Risstal und Laufen durch die Laupheimer Innenstadt in Oberschwaben.",
-  "distanceKm": 51,
+  "websiteUrl": "https://risstaltriathlon.de",
+  "description": "Der 3. Rißtal Triathlon wird am 23. August 2026 ab 9:00 Uhr am Mobi Park in Laupheim in Oberschwaben ausgetragen. Über die Sprintdistanz stehen 500 m Schwimmen im Obersulmetinger Baggersee (Surfsee), 20 km Rad durch das Rißtal und 5 km Laufen in zwei Runden um den See an. Der Volkstriathlon startet als Einzel- und Dreier-Staffelwettbewerb mit 550 Startplätzen (400 Einzel, 50 Staffeln); Anmeldeschluss ist der 15. August 2026. Bei der zweiten Auflage 2025 gingen rund 450 Teilnehmer an den Start. Der ausrichtende SV Sulmetingen bietet mit dem Projekt „Rißtal-Rookies 2026“ ein eigenes Einsteigerprogramm an.",
+  "distanceKm": 26,
   "imageUrl": "https://risstaltriathlon.de/media/pages/home/855cd6de7e-1741710351/hero-home-1024x.jpg"
 }
