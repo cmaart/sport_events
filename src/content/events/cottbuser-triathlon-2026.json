@@ -17,6 +17,7 @@
     "region": "Brandenburg"
   },
   "websiteUrl": "https://www.tsv-cottbus.de",
-  "description": "32. Cottbuser Triathlon des TSV Cottbus. Sprintdistanz-Triathlon in der Lausitzer Spreewaldregion mit langjähriger Tradition.",
-  "imageUrl": "https://tsv-cottbus.de/wp-content/uploads/2022/06/IMG_12751.jpg"
+  "description": "Der 32. Cottbuser Triathlon des TSV Cottbus wird am 5. September 2026 in Cottbus (Niederlausitz) ausgetragen. Er ist der Herbst-Wettkampf des Vereins und gemeinsam mit dem 18. eG Wohnen Schüler-Triathlon vor allem ein Nachwuchsevent. Für Altersklassen und Jedermann gibt es eine Supersprintdistanz über 0,4 km Schwimmen, 10,2 km Rad und 2,5 km Laufen, wahlweise als Staffel. Daneben starten zahlreiche Schüler- und Jugendklassen mit kürzeren Distanzen. Nicht zu verwechseln mit dem im Juni ausgetragenen Ostsee Triathlon desselben Vereins am Cottbuser Ostsee.",
+  "imageUrl": "https://tsv-cottbus.de/wp-content/uploads/2022/06/IMG_12751.jpg",
+  "distanceKm": 13
 }

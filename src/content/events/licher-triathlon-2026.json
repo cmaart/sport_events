@@ -3,6 +3,8 @@
   "name": "19. Licher Triathlon",
   "sport": "triathlon",
   "categories": [
+    "Cross-Triathlon",
+    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -19,6 +21,6 @@
   },
   "websiteUrl": "https://www.triathlon-lich.de/",
   "imageUrl": "https://www.triathlon-lich.de/images/fullscreen/lct-fullscreen-radfahren.jpg",
-  "description": "Der Licher Triathlon in der mittelhessischen Kleinstadt Lich bietet Schwimmen im Leunebach-Stausee, Rad durch die Wetterau und Laufen durch die Stadtidylle. 19. Auflage.",
-  "distanceKm": 25
+  "description": "Der 19. Licher Cross-Triathlon (LCT) des Licher Triathlonvereins wird am 8. August 2026 rund um das Licher Waldschwimmbad in Mittelhessen ausgetragen. Es ist ein Gelände-/Cross-Triathlon: Geschwommen wird im Waldschwimmbad, die 11 km lange Radrunde führt über Wald- und Feldwege Richtung Steinbach, unter dem Viadukt hindurch in den Licher und Hattenröder Wald. Die Hauptdistanz umfasst 1,5 km Schwimmen, 44 km Rad (vier Runden, rund 250 Höhenmeter) und knapp 10 km Laufen; dazu gibt es einen Volkstriathlon über 0,6/22/4 km sowie Staffel-, Schüler- und Jugendklassen. Der Wettkampf ist Wertungslauf im HTV-Cup des Hessischen Triathlon Verbands. Die Anmeldung erfolgt per Formular an den Verein, Meldeschluss ist der 30. Juli.",
+  "distanceKm": 55
 }

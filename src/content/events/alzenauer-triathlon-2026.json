@@ -17,6 +17,7 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.triathlon-alzenau.de",
-  "description": "30. Alzenauer Triathlon am Kahl-See im bayerischen Spessart. Sprintdistanz-Volkstriathlon mit familiärer Atmosphäre nahe Frankfurt.",
-  "imageUrl": "https://www.triathlon-alzenau.de/pages/home/images/banner.jpg"
+  "description": "Der 30. Alzenauer Triathlon des LA-Team Alzenau 01 findet am 20. September 2026 im unterfränkischen Alzenau im Spessart nahe Frankfurt statt. Geschwommen wird über 500 m im Meerhofsee, danach folgen 22 km Rad und 4,6 km Laufen rund um das Prischoß-Stadion. Der Volkstriathlon wird als Einzel- und Staffelwettbewerb ausgetragen und von der Wasserwacht Alzenau abgesichert. Alle Startplätze sind vergeben, 94 Interessierte stehen auf der Warteliste. Die Ergebnislisten des Klassikers reichen bis ins Jahr 2001 zurück. Die Folgetermine sind bereits bis 2030 festgelegt (u. a. 19. September 2027).",
+  "imageUrl": "https://www.triathlon-alzenau.de/pages/home/images/banner.jpg",
+  "distanceKm": 27
 }
