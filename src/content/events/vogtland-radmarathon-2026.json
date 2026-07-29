@@ -3,12 +3,13 @@
   "name": "Vogtland Radmarathon",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {
-    "start": "2026-08-02",
-    "end": "2026-08-02",
+    "start": "2026-07-26",
+    "end": "2026-07-26",
     "confirmed": true
   },
   "location": {
@@ -17,8 +18,8 @@
     "lng": 12.134,
     "region": "Sachsen"
   },
-  "websiteUrl": "https://www.cycloworld.cc/gran-fondo/germany/vogtland-radmarathon",
-  "description": "Radmarathon im Vogtland rund um Plauen in Sachsen mit 201 km Laenge und rund 3.300 m Hoehengewinn. Anspruchsvolle Strecke durch das mitteldeutsche Mittelgebirge des Vogtlands mit typischen Talsperren und Waldlandschaften. Traditionsveranstaltung im suedlichsten Zipfel Sachsens nahe der tschechischen Grenze.",
+  "websiteUrl": "https://www.vrt-plauen.de/",
+  "description": "Der Vogtland-Rad-Marathon des Vogtländischen Radsport-Teams Plauen (VRT) fand 2026 in seiner 27. Auflage am Sonntag, 26. Juli, mit Start am Sportplatz in Plauen-Großfriesen statt. Die Königsdistanz führt über rund 200 Kilometer mit etwa 3.300 Höhenmetern vom Vogtland tief ins Erzgebirge – über den Aschberg (861 m) und den Auersberg (1.007 m) bis hinauf zum Fichtelberg (1.215 m), dem höchsten Berg Sachsens, und zurück. Zusätzlich stehen kürzere Varianten über rund 135 und 75 Kilometer zur Wahl. Die Veranstaltung ist ein Breitensport-Event ohne Rennwertung: Teilnehmen kann, wer ausreichend trainiert ist, es gelten Helmpflicht und Straßenverkehrsordnung. Die Strecke verläuft durch das mitteldeutsche Mittelgebirge mit seinen Talsperren und Wäldern nahe der tschechischen Grenze.",
   "distanceKm": 201,
   "elevationGainM": 3300,
   "imageUrl": "https://www.vrt-plauen.de/wp-content/gallery/25-vogtlandradmarathon/20240728_080058.jpg"

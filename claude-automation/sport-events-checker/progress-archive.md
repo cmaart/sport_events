@@ -5,6 +5,16 @@
 
 ---
 
+## Quellen-Durchgang: 2026-07-09 (k226.com – Batch 1, EU-Scope)
+- **Scope auf Userwunsch erweitert:** nicht mehr nur DE/AT + Ironman/Challenge, sondern europaweite Tris aus k226 (weiterhin kein USA/Japan/Australien).
+- Lückenanalyse: ~23 fehlende EU-Tris offiziell verifiziert (4 Research-Agents). **+15 diesen Lauf angelegt** (Anti-Flut-Grenze eingehalten), 8 verifizierte im BACKLOG als „Batch 2".
+- **Neu (15):** bayman-mont-saint-michel, natureman-var, vercorsman-saint-nazaire-en-royans (FR); ican-gandia, half-madrid (ES); estrela-xtreme-manteigas (PT); vitruvian-rutland, sandman-newborough, odyssey-st-neots, cotswold-classic (GB); gelreman-arnhem (NL); eaglexman-gran-sasso, aronamen-arona (IT); axtri-aurland (NO); olympos-x (GR).
+- Alle Daten gegen offizielle Veranstalter-/FFTRI-Seiten verifiziert; elevationGainM nur wo offiziell belegt; keine imageUrls (keine tauglichen Hero-Bilder gefunden).
+- Nicht bestätigt/übersprungen: Lost Sheep (IE), Balatonman Kenese (HU).
+- Build grün: 1182 pages, 0 errors.
+
+---
+
 ## Quellen-Durchgang: 2026-07-09 (k226.com)
 - **k226.com** vollständig durchgegangen (globaler Tri-Aggregator); Scope-Filter DE/AT + Ironman/Challenge Europa angewandt.
 - Fast alle in-scope-Events bereits im Bestand (Ostseeman, KnappenMan, Allgäu-Immenstadt, Köln, Trumer, Podersdorf, Südkärntner, Uster, Extrememan Nagyátád, alle Ironman/Challenge Europa).

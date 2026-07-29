@@ -18,6 +18,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.kamen-triathlon.de/",
-  "description": "Der 38. Kamener Sparkassentriathlon am Kuhsee bietet Olympische Distanz und Sprint für alle Leistungsklassen. Traditionsveranstaltung des ASC Triathlon Kamen im östlichen Ruhrgebiet mit idyllischem Badewassersee im Stadtpark.",
-  "imageUrl": "https://kamen-triathlon.de/wp-content/uploads/2025/02/pic-header-triathlon.webp"
+  "description": "Der 38. Kamener Sparkassentriathlon wird am 2. August 2026 ab 7:00 Uhr am Freibad Kamen ausgetragen; Veranstalter ist der TV Germania 1876 Kaiserau e.V. Geschwommen wird im Freibad Kamen, nicht in einem See. Angeboten werden vier Distanzen: Olympische Distanz, Sprintdistanz, eine Schnupperdistanz für Einsteiger sowie ein Kinder- und Schülertriathlon. Über die Sprintdistanz wird die NRW-Meisterschaft ausgetragen. Die Startunterlagen werden am 1. und 2. August ausgegeben, das Rennen ist im östlichen Ruhrgebiet fest etabliert.",
+  "imageUrl": "https://kamen-triathlon.de/wp-content/uploads/2025/02/pic-header-triathlon.webp",
+  "distanceKm": 52
 }

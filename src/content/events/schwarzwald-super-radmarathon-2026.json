@@ -3,7 +3,8 @@
   "name": "Schwarzwald Super! Rennradmarathon",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {
@@ -18,8 +19,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://schwarzwald-super.de",
-  "description": "Rennradmarathon im suedlichen Schwarzwald startend in Muenstertal mit anspruchsvollen Paessen durch das Hochschwarzwald-Massiv. Strecken fuehren ueber bekannte Schwarzwaldpaesse mit erheblichen Hoehenprofilen. Beeindruckende Landschaft zwischen Freiburg und dem Dreilaendereck Deutschland-Frankreich-Schweiz.",
-  "distanceKm": 160,
-  "elevationGainM": 4000,
+  "description": "Der Schwarzwald Super! Rennradmarathon startet 2026 in seiner 11. Auflage am Sonntag, 9. August, an der Belchenhalle in Münstertal im südlichen Hochschwarzwald. Drei Distanzen stehen zur Wahl: Gold über 255 Kilometer mit rund 6.500 Höhenmetern (Start 5:30 Uhr), Silber über 195 Kilometer mit etwa 4.800 Höhenmetern und Bronze über 130 Kilometer mit rund 3.300 Höhenmetern. Bewusst wird der Schwarzwald Super! nicht als Rennen gefahren – es gibt keine Zeitnahme und keine Wertung, dafür durchgehend freie Routenwahl, sodass die Strecke unterwegs verlängert oder verkürzt werden kann. Entlang der Strecke versorgen sechs Verpflegungsstationen die Fahrer mit regionalen Spezialitäten. Die begehrten Startplätze werden per Losverfahren vergeben. Die Route erschließt den Hochschwarzwald zwischen Freiburg und dem Dreiländereck Deutschland-Frankreich-Schweiz.",
+  "distanceKm": 255,
+  "elevationGainM": 6500,
   "imageUrl": "https://www.schwarzwald-super.de/wp-content/uploads/2025/12/Copy-of-20240811_sws-2024_2003-e1767121682441.jpg"
 }

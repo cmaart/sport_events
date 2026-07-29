@@ -17,8 +17,7 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.velorace-dresden.de/",
-  "description": "SKODA Velorace Dresden – 13. Ausgabe des Jedermann-Radrennens in Deutschlands barocker Prachtstädte: Vier Streckenoptionen 103 km, 62 km, 42 km und 21 km auf gesperrten Straßen mit Rundkurs durch die Dresdner Innenstadt und das Umland. Zuvor Kids-Velorace und Inklusions-Sonderstart am 8. August.",
-  "distanceKm": 103,
-  "elevationGainM": 600,
+  "description": "Das SKODA Velorace Dresden geht 2026 in seine 13. Ausgabe und findet am zweiten Augustwochenende statt (Hauptrennen Sonntag, 9. August). Auf einem rund 17 Kilometer langen, für den Verkehr gesperrten Innenstadtrundkurs vorbei an Zwinger, Semperoper und der berühmten Runde um die Frauenkirche werden vier Distanzen angeboten: 102 km (6 Runden), 51 km (3 Runden), 34 km (2 Runden) und die 17-km-Schnupperrunde. Für die einzelnen Distanzen gelten gestaffelte Mindestgeschwindigkeiten von 23 bis 28 km/h. Am Samstag zuvor stehen Kinderangebote für 3- bis 14-Jährige sowie ein Inklusions-Specialrace für Menschen mit Beeinträchtigung auf dem Programm. Das Jedermann-Rennen führt mitten durch die barocke Altstadt Dresdens.",
+  "distanceKm": 102,
   "imageUrl": "https://www.velorace-dresden.de/wp-content/uploads/2024/08/2024_velorace_start.jpg"
 }

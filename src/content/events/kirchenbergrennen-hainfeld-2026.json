@@ -1,6 +1,6 @@
 {
   "id": "kirchenbergrennen-hainfeld-2026",
-  "name": "Kirchenbergrennen Hainfeld",
+  "name": "Landsthalsprint Hainfeld",
   "sport": "cycling",
   "categories": [
     "Berg"
@@ -16,8 +16,8 @@
     "lng": 15.7684,
     "region": "Niederösterreich"
   },
-  "websiteUrl": "https://urchainfeld.sportunion.at",
-  "description": "Kirchenbergrennen in Hainfeld (NÖ): Bergrennen 6,1 km mit 510 Höhenmetern. Teil des Mucki Alpen Team Cups 2026 in den niederösterreichischen Kalkalpen. Massenstart bergauf durch den Hainfelder Kirchenwald.",
+  "websiteUrl": "https://alpenteamcup.at/landsthalsprint/",
+  "description": "Der Landsthalsprint in Hainfeld (Niederösterreich) – vormals „Kirchenbergrennen“ – ist ein Berg-Sprint als Offroad-/Mountainbike-Rennen mit Start beim Parkplatz des Wirtshauses Landsthal. Gewertet wird in den Klassen MTB Herren, MTB Damen und E-Bike; eine Rennrad-Klasse gibt es nicht. Das Rennen ist Teil des „Mucki“ Alpen Team Cups 2026 und wird vom URC Hainfeld veranstaltet. Ausgetragen wird der Bergsprint am 22. August 2026.",
   "distanceKm": 6,
   "elevationGainM": 510,
   "imageUrl": "https://urchainfeld.sportunion.at/wp-content/uploads/IMG-20240428-WA0041.jpg"
