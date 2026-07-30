@@ -1,8 +1,10 @@
 {
   "id": "althofner-radrennen-2026",
-  "name": "22. Althofner Radrennen",
+  "name": "23. Althofner Radrennen",
   "sport": "cycling",
-  "categories": ["Rundstreckenrennen"],
+  "categories": [
+    "Zeitfahren"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-08-16",
@@ -15,7 +17,7 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.rc-althofen.at/",
-  "description": "22. Althofner Radrennen in Althofen (Kärnten): Rundstreckenrennen über 11 km / 50 Hm. Runde 6 des Kärnten Sport Jedermannradcups 2026. Veranstalter: ÖAMTC Raika ASVÖ Althofen.",
+  "description": "23. Althofner Radrennen in Althofen (Kärnten): Einzelzeitfahren mit 30-Sekunden-Startintervall über 11 km mit flachem Streckenprofil, von Althofen (Freizeitzentrum) Richtung Guttaring zur Wende bei der Tankstelle Kuss und retour. Start beim Freizeitzentrum ab ca. 09:30 Uhr auf abgesperrter öffentlicher Straße. Das Rennen zählt zur Kärntner Meisterschaft der Master-Lizenzfahrer und zum Kärnten Sport Jedermann Cup 2026. Veranstalter ist der Radclub ÖAMTC Raika Althofen; die Anmeldung läuft über raceresult.",
   "distanceKm": 11,
   "elevationGainM": 50,
   "imageUrl": "https://www.rc-althofen.at/images/events/althofen/2025/image001.jpg"

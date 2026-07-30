@@ -1,6 +1,6 @@
 {
   "id": "wobachbergrennen-2026",
-  "name": "Wobachbergrennen St. Veit an der Gölsen",
+  "name": "Wobachrennen St. Veit an der Gölsen",
   "sport": "cycling",
   "categories": [
     "Berg"
@@ -16,9 +16,9 @@
     "lng": 15.5883,
     "region": "Niederösterreich"
   },
-  "websiteUrl": "https://my.raceresult.com/380243/",
+  "websiteUrl": "https://alpenteamcup.at/wobach/",
   "imageUrl": "https://my.raceresult.com/graphics/share/myraceresultShare11.jpg",
-  "description": "Wobachbergrennen in St. Veit an der Gölsen (NÖ): Bergrennen 5,2 km mit 420 Höhenmetern. Abschlussrennen des Mucki Alpen Team Cups 2026 in den niederösterreichischen Voralpen.",
+  "description": "Das Wobachrennen in St. Veit an der Gölsen (Niederösterreich) – vormals als „Wobachbergrennen“ geführt – bildet am 12. September 2026 das Finale des „Mucki“ Alpen Team Cups. Im Anschluss an das Bergrennen findet die Siegerehrung der gesamten Cup-Serie statt. Veranstalter ist die Sportunion St. Veit an der Gölsen. Der Berganstieg liegt in den niederösterreichischen Voralpen.",
   "distanceKm": 5,
   "elevationGainM": 420
 }

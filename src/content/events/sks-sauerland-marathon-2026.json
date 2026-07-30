@@ -17,9 +17,9 @@
     "lng": 8.2958,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://www.mega-sports.de/",
-  "description": "MTB- und Gravel-Marathon im Rothaargebirge, Teil des Nutrixxion Marathon Trophy-Circuits. Strecken von 44 bis 117 km (Ultra Rothaarsteig mit 3.863 Hm), Start in Schmallenberg-Grafschaft auf Wald- und Schotterwegen des Naturparks Sauerland-Rothaargebirge.",
-  "distanceKm": 117,
-  "elevationGainM": 3863,
+  "websiteUrl": "https://www.radsport-grafschaft.de/bike-marathon/",
+  "description": "Der SKS Sauerland Marathon findet 2026 am Samstag, 15. August, in Schmallenberg-Grafschaft im Sauerländer Rothaargebirge statt und ist Teil der Nutrixxion Marathon Trophy. Angeboten werden drei Hauptstrecken: der Ultra Rothaarsteig über 105 Kilometer mit 2.740 Höhenmetern (nach BDR-Reglement Marathon Langdistanz), der 73 Kilometer lange Marathon mit 1.890 Höhenmetern (zugleich als Gravel-Strecke ausgeschrieben) sowie der Wilzenberg-Klassiker über 41 Kilometer mit 1.040 Höhenmetern. Hinzu kommt eine 8,2 Kilometer lange Schülerstrecke für den Nachwuchs. Start und Ziel liegen an der Schulstraße im Bundesgolddorf Grafschaft, von wo die Routen über Wald- und Schotterwege durch das Schmallenberger Sauerland und das Rothaargebirge führen. Veranstalter sind die DJK RS Grafschaft und der SC Wilzenberg.",
+  "distanceKm": 105,
+  "elevationGainM": 2740,
   "imageUrl": "https://static.wixstatic.com/media/52b97f_17d9a26e3e6d4692b1fdc9e53c597c47~mv2.jpg/v1/fill/w_980,h_453,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7455_JUP1_00098_JPG.jpg"
 }

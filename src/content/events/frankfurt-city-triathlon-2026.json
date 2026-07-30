@@ -20,8 +20,8 @@
     "region": "Hessen"
   },
   "websiteUrl": "https://frankfurt-city-triathlon.de",
-  "description": "Groesster Triathlon in der Rhein-Main-Metropole Frankfurt mit vier Distanzen: Mitteldistanz (2 km / 80 km / 20 km), Olympische Distanz, Sprint und SuperSprint. Schwimmen im Langener Waldsee sued von Frankfurt, Radstrecke durch den Frankfurter Sueden und Laufkurs. Ausrichter der Hessischen Meisterschaft Mitteldistanz.",
-  "distanceKm": 103,
+  "description": "Der Frankfurt City Triathlon am Langener Waldsee findet am 2. August 2026 statt und ist für 2026 bereits ausgebucht. Angeboten werden fünf Formate: die Mitteldistanz über 2 km Schwimmen, 80 km Rad und 20 km Laufen, die Olympische Distanz (1,5/45/10 km), die Sprintdistanz (0,75/28/5 km) sowie die Jedermann-Distanz als SuperSprint (0,4/12/5 km). Ergänzend gibt es ein Swim-&-Bike-/Aquabike-Format über 2 km Schwimmen und 80 km Rad. Geschwommen wird im Langener Waldsee südlich von Frankfurt, die Radstrecke führt durch den Frankfurter Süden.",
+  "distanceKm": 102,
   "elevationGainM": 500,
   "imageUrl": "https://www.frankfurt-city-triathlon.de/wp-content/uploads/2022/10/IKW_9668-scaled.jpg"
 }

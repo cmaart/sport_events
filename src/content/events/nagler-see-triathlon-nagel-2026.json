@@ -16,7 +16,8 @@
     "lng": 11.8254,
     "region": "Bayern"
   },
-  "websiteUrl": "https://www.naglersee-triathlon.de/",
-  "description": "Der Nagler See Jedermanntriathlon in Nagel im Fichtelgebirge, Bayern. Volkstriathlon am idyllischen Nagler See im oberfränkisch-oberpfälzischen Mittelgebirge mit lizenzfreier Distanz für Einsteiger und erfahrene Athleten.",
-  "imageUrl": "https://www.frankenpost.de/media.media.d050938f-f687-40af-a4df-5e52b4b1eea2.original1024.jpg"
+  "websiteUrl": "https://runningconcepts.de/nagler-see-jedermann-triathlon",
+  "description": "Der 2. Nagler See Jedermanntriathlon findet am 2. August 2026 ab 10:00 Uhr am Nagler See in Nagel im Fichtelgebirge statt; Veranstalter ist runningConcepts. Nach der Premiere 2025 werden 500 m Schwimmen im See, 20 km Rad und 5 km Laufen absolviert. Die Distanz ist als lizenzfreier Volks- bzw. Jedermanntriathlon für Einsteiger und erfahrene Athleten ausgelegt. Der Wettkampf kann auch als Staffel mit mindestens zwei Teilnehmern gestartet werden. Der Nagler See liegt im oberfränkisch-oberpfälzischen Mittelgebirge und bietet eine idyllische Kulisse für den Einstieg in den Triathlonsport.",
+  "imageUrl": "https://www.frankenpost.de/media.media.d050938f-f687-40af-a4df-5e52b4b1eea2.original1024.jpg",
+  "distanceKm": 26
 }

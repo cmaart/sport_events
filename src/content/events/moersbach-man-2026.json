@@ -3,8 +3,7 @@
   "name": "mörsbachmän",
   "sport": "triathlon",
   "categories": [
-    "Sprintdistanz",
-    "Olympische Distanz"
+    "Sprintdistanz"
   ],
   "country": "DE",
   "dates": {
@@ -17,7 +16,8 @@
     "lng": 7.8,
     "region": "Rheinland-Pfalz"
   },
-  "websiteUrl": "https://www.moersbach-man.de/",
+  "websiteUrl": "https://sg-moersbach.de/",
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-palatinat/morsbachman/zuabye1wqvvwobqh4mey",
-  "description": "Der mörsbachmän in Mörsbach im Westerwald, Rheinland-Pfalz. Triathlon auf Sprint- und Olympischer Distanz mit Schwimmen im Wiesensee, Radkurs durch die hügelige Westerwaldlandschaft und Laufstrecke durch Wald und Wiesen."
+  "description": "Der Mörsbachmän ist ein reiner Sprint-Triathlon der SG Mörsbach und wird 2026 am 8. August im Westerwald ausgetragen. Das Schwimmen findet nicht in einem See, sondern im Freibad Dickendorf statt: Auf 240 m im Becken folgen 20 km auf dem Rad durch den Westerwald und ein 5,5 km langer Abschlusslauf durch die Kroppacher Schweiz. Eine Olympische Distanz gibt es nicht. Die familiäre Veranstaltung richtet sich sowohl an Einsteiger als auch an ambitionierte Sprinter und ist fest im regionalen Breitensportkalender verankert.",
+  "distanceKm": 26
 }
