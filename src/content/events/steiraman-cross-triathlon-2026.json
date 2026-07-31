@@ -12,14 +12,14 @@
     "confirmed": true
   },
   "location": {
-    "name": "Murtal",
+    "name": "St. Margarethen bei Knittelfeld, Murtal",
     "lat": 47.2167,
     "lng": 14.8333,
     "region": "Steiermark"
   },
   "websiteUrl": "https://www.steiraman.at",
-  "description": "Extrem-Triathlon auf alpinem Terrain im steirischen Murtal: 1 km Schwimmen, 38 km Rad mit 1.200 Hm, 12,9 km Trailrun mit 1.100 Hm (Classic) oder 10,9 km / 670 Hm (Speed). Nur 175 Startplätze – frühe Anmeldung empfohlen.",
-  "distanceKm": 52,
-  "elevationGainM": 2300,
+  "description": "Der Steiraman – Styrian X-treme Triathlon steigt am 9. August 2026 im steirischen Murtal und zählt zu den härtesten Cross-Triathlons Österreichs. Geschwommen wird 1 km in der Grünen Lagune in St. Margarethen bei Knittelfeld. Anschließend führen 38 km auf dem Rad mit über 1.200 Höhenmetern über Apfelberg, Großlobming und Weißkirchen bis Judenburg und hinauf zur Wechselzone auf der Schmelz. Der abschließende Traillauf über 12 km sammelt nochmals über 1.000 Höhenmeter – vorbei an der Winterleitenhütte und dem Winterleitensee bis knapp unter den Kreiskogel und zurück zur Schmelzhütte. Das Teilnehmerfeld ist auf rund 125 Startplätze limitiert, eine frühzeitige Anmeldung ist daher empfohlen.",
+  "distanceKm": 51,
+  "elevationGainM": 2200,
   "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7bbb0daf11e3716a/image/i380c177fe84efae9/version/1540625836/image.jpg"
 }

@@ -3,7 +3,7 @@
   "name": "Göttinger Dreiländermarathon",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "RTF"
   ],
   "country": "DE",
   "dates": {
@@ -17,8 +17,8 @@
     "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.rsc-goettingen.de/rtf/rtf-start.html",
-  "description": "Der Göttinger Dreiländermarathon führt vom Vereinszentrum Geismar aus durch die Mittelgebirgslandschaft an den Grenzen von Niedersachsen, Hessen und Thüringen. Die Marathonstrecke umfasst rund 222 Kilometer mit 2.800 Höhenmetern und gilt als bergiges Highlight im deutschen Radmarathon-Kalender. Fünf Streckenvarianten zwischen 45 und 222 Kilometern ermöglichen die Teilnahme auf allen Leistungsstufen.",
-  "distanceKm": 222,
-  "elevationGainM": 2800,
+  "description": "Der Göttinger Dreiländermarathon ist die Marathon-Distanz der 8. Göttinger Radtourenfahrt (RTF) des RSC Göttingen und startet am Samstag, 1. August 2026, an der Sporthalle Geismar 1 (Schulweg 18). Die Königsrunde über 230 Kilometer mit rund 3.200 Höhenmetern führt durch die Mittelgebirgslandschaft im Dreiländereck von Niedersachsen, Hessen und Thüringen – entlang der Weser bis ins Eichsfeld. Insgesamt stehen fünf GPS-geführte Strecken zur Wahl: 45 km/430 Hm (Göttingens Süden), 70 km/850 Hm (Ab in die Natur), 115 km/1.430 Hm (Entlang der Weser), 155 km/1.920 Hm (Von der Weser bis ins Eichsfeld) sowie der Marathon über 230 km/3.200 Hm. Als Radtourenfahrt ist die Veranstaltung nicht zeitgemessen; die Routen sind nicht ausgeschildert, sondern per GPS-Track zu fahren. Damit richtet sich das bergige Ausdauer-Event an Tourenfahrer ebenso wie an marathonerprobte Rennradfahrer.",
+  "distanceKm": 230,
+  "elevationGainM": 3200,
   "imageUrl": "https://rsc-goettingen.de/images/rtf.jpg"
 }

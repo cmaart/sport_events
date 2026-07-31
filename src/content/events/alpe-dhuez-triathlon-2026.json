@@ -15,8 +15,7 @@
     "lng": 6.0716
   },
   "websiteUrl": "https://www.alpetriathlon.com/",
-  "description": "Der Alpe d'Huez Triathlon gilt als einer der ikonischsten und schwersten Triathlons der Welt: 3,9 km Schwimmen im Lac du Verney, 177 km Rad mit dem legendären Aufstieg nach Alpe d'Huez (21 Kehren, 1.120 m Höhenunterschied) und 40 km Geländelauf in den Belledonne-Alpen. Die Vollendistanz übertrifft mit rund 5.000 Höhenmetern jeden regulären Ironman.",
-  "distanceKm": 221,
-  "elevationGainM": 5000,
+  "description": "Der Alpe d'Huez Triathlon gilt als einer der härtesten Bergtriathlons Europas und wird 2026 vom 2. bis 6. August im Isère-Skiort Huez auf 1.860 m Höhe ausgetragen. Das Hauptrennen, der Triathlon L, umfasst 2,2 km Schwimmen im Lac du Verney, 118 km Rad mit rund 3.200 Höhenmetern und 19 km Laufen über drei Höhenrunden. Herzstück der Radstrecke sind die legendären 21 Kehren der Tour-de-France-Auffahrt nach Alpe d'Huez – 13,9 km mit durchschnittlich 8 % Steigung und 1.120 Höhenmetern. Daneben gibt es den kürzeren Triathlon M (1,5/28/6,4 km) sowie einen Duathlon S und ein Kinderprogramm. Erstmals 2006 vom Triathleten Cyrille Neveu ins Leben gerufen, ist die Veranstaltung heute Kult; die Startplätze des Triathlon L sind meist innerhalb weniger Stunden nach Anmeldestart vergriffen. Das Wasser des Lac du Verney liegt im August bei etwa 16 bis 18 Grad.",
+  "distanceKm": 139,
   "imageUrl": "https://www.alpedhuez.com/wp-content/uploads/2025/12/2023-Lionel_Royet-OT_Alpe_dHuez_009_8350-1024x576.jpg"
 }

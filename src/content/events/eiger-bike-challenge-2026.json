@@ -3,7 +3,7 @@
   "name": "Eiger Bike Challenge",
   "sport": "cycling",
   "categories": [
-    "Gravel"
+    "Radmarathon"
   ],
   "country": "CH",
   "dates": {
@@ -17,7 +17,7 @@
     "lng": 8.0412
   },
   "websiteUrl": "https://www.eigerbike.ch/",
-  "description": "Eiger Bike Challenge in Grindelwald (Berner Oberland) unter der Eiger-Nordwand: Marathon MTB 80 km / 4.200 Hm, 50 km / 2.500 Hm, Gravel 45 km / 2.124 Hm und 30 km. Teil der Bike Marathon Classics; spektakuläre Hochgebirgslandschaft im Jungfrau-UNESCO-Welterbe.",
+  "description": "Die Eiger Bike-Challenge ist einer der bekanntesten und härtesten Mountainbike-Marathons der Schweiz und wird am 8. und 9. August 2026 in Grindelwald im Berner Oberland ausgetragen. Alle Rennen starten am Bärplatz vor der Kulisse der Eiger-Nordwand. Die Königsdistanz Marathon 80 km bringt es auf 4.200 Höhenmeter, die 50-km-Marathonstrecke auf 2.500 Höhenmeter; beide gelten als klassisch und technisch anspruchsvoll. Weniger fordernd sind die Fun-Strecken über 45 km (2.124 Hm), 30 km (1.500 Hm) und 20 km (900 Hm), die teils auch mit dem Gravelbike befahren werden können. Für die kürzeren Distanzen gibt es zudem eine ELKI-Kategorie (1 Erwachsener + 1 Kind) über 20 km. Die Veranstaltung liegt inmitten des UNESCO-Welterbes Schweizer Alpen Jungfrau-Aletsch und zählt mit über 1.000 Teilnehmenden zu den größten Bike-Events des Landes.",
   "distanceKm": 80,
   "elevationGainM": 4200,
   "imageUrl": "https://www.eigerbike.ch/wp-content/uploads/background/bg-12.jpg"

@@ -3,7 +3,7 @@
   "name": "Cykelvasan 90",
   "sport": "cycling",
   "categories": [
-    "Gravel"
+    "Radmarathon"
   ],
   "country": "SE",
   "dates": {
@@ -16,8 +16,7 @@
     "lng": 13.2626
   },
   "websiteUrl": "https://vasaloppet.se/en/bike/cykelvasan-90/",
-  "description": "Cykelvasan 90 – Schwedischer Gravel-Klassiker auf dem Vasaloppet-Weg von Sälen nach Mora: 92 km auf Waldwegen und Forstwegen (ca. 820 Hm) entlang der Originalroute des berühmten Skimarathons. Teil der Vasaloppet-Woche; offen für Road-, Gravel- und Mountainbikes.",
+  "description": "Cykelvasan 90 ist der große Radmarathon der Vasaloppet-Sommerwoche und wird am 8. August 2026 auf der historischen Vasaloppet-Route von Sälen nach Mora ausgetragen. Die 92 km lange Strecke folgt fast vollständig Wald- und Schotterwegen (rund 90 km Naturweg, nur etwa 1 km Asphalt) durch lichte Kiefernwälder, über Moor-Bohlenwege und vorbei an den sieben klassischen Vasaloppet-Kontrollen Smågan, Mångsbodarna, Risberg, Evertsberg, Oxberg, Hökberg und Eldris. Da Sälen höher liegt als Mora, ist das Profil netto abfallend und damit auch für ambitionierte Einsteiger machbar; gefahren wird wahlweise in einer Wettkampf- oder einer Tourenklasse. Das Rennen ist für Rennrad, Gravel- und Mountainbike offen, das Mindestalter beträgt 12 Jahre. Für 2026 wird bei der Cykelvasan 90 erstmals eine neue Spurtpris-Wertung eingeführt. Als Teil der Vasaloppet-Woche verbindet die Veranstaltung sportlichen Anspruch mit dem Mythos des berühmten Skimarathons.",
   "distanceKm": 92,
-  "elevationGainM": 820,
   "imageUrl": "https://vasaloppet.se/en/wp-content/uploads/sites/3/2025/12/cykel_90_v2_1920x1280.jpg"
 }
