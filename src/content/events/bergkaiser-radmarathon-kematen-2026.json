@@ -3,7 +3,7 @@
   "name": "Bergkaiser Radmarathon Kematen",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Berg"
   ],
   "country": "AT",
   "dates": {
@@ -17,9 +17,9 @@
     "lng": 11.2295,
     "region": "Tirol"
   },
-  "websiteUrl": "https://www.bergkaiser.at",
-  "description": "Radmarathon im Inntal bei Innsbruck mit Start in Kematen in Tirol und anspruchsvollen Bergwertungen durch die Tiroler Voralpen. Mehrere Streckenvarianten durch das Inntal und die umliegenden Bergtaeler. Typisches Hochsommerrennen mit Alpenkulisse und den Nordketten-Bergen als Hintergrund.",
-  "distanceKm": 155,
-  "elevationGainM": 3000,
+  "websiteUrl": "https://www.radsportevents.com/bergkaiser-radrennen",
+  "description": "Der Bergkaiser ist ein kurzes, aber extrem forderndes Bergrennen des Radclubs Radsportevents Tirol und findet am 8. August 2026 statt. Vom Start beim Bäcker Ruetz in Kematen in Tirol geht es um 9:00 Uhr auf rund 25 Kilometern und etwa 1.400 Höhenmetern bergauf bis ins hochgelegene Kühtai. Die Strecke führt über Sellrain, Gries im Sellrain, St. Sigmund und Haggen und endet auf 2.020 Metern Seehöhe. Auf so kurzer Distanz sind die 1.400 Höhenmeter ununterbrochen zu bewältigen, was den Bergkaiser zu einem reinen Kletterwettkampf ohne Erholungsphasen macht. Gewertet wird in mehreren Klassen; die Anmeldung läuft über die RaceResult-Plattform. Ein Gepäckservice bringt die Kleidung ins Ziel, wo Verpflegung und die Siegerehrung auf 2.020 Metern warten – Hochgebirgskulisse der Sellrain- und Kühtai-Berge inklusive.",
+  "distanceKm": 25,
+  "elevationGainM": 1400,
   "imageUrl": "https://www.kuehtai.info/imagetypes/headerImage/dsc_4494.jpg"
 }
