@@ -5,11 +5,11 @@
 > Kompaktes Gedächtnis zwischen den Läufen. Immer aktuell halten. Details der letzten
 > 3 Sessions stehen darunter; alles Ältere liegt in `progress-archive.md`.
 
-### Kennzahlen (Stand: 2026-07-31)
-- Events gesamt: **1138** | upcoming (>= heute): **474** | past (noindex): **664**
-- Letzter Lauf: Enrichment + Verifikation (2026-07-31) — 24 Bestandsevents veredelt/korrigiert, 0 Neuanlagen (Anti-Flut), 1 Code-Fix (fehlender CY-Landing-Slug), mehrere Datenfehler behoben (u.a. 1 komplett halluziniertes Event korrigiert)
+### Kennzahlen (Stand: 2026-08-01)
+- Events gesamt: **1138** | upcoming (>= heute): **473** | past (noindex): **665**
+- Letzter Lauf: Enrichment + Verifikation (2026-08-01) — 24 Bestandsevents veredelt/korrigiert, 0 Neuanlagen (Anti-Flut), 0 Code-Fixes (SEO-Infra intakt), mehrere Datenfehler behoben (3 falsche Schwimm-Venues, 2 spurious „Olympische Distanz", mehrere unbelegte Höhenmeter/Distanzen korrigiert)
 - Build zuletzt grün: 1188 pages, 0 errors; `astro check` 0 errors/0 warnings; Sitemap 526 URLs (nur indexierbar, keine past-URLs)
-- Datenqualität (Heuristik <4 Sätze / <40 Wörter): dünne Beschreibungen 294→**271** (−23); missing distanceKm (upcoming) **43** (unverändert); missing elevationGainM (upcoming) 231→**235** (+4: unbelegte Werte entfernt statt geraten); missing imageUrl (upcoming) **27**
+- Datenqualität (Heuristik <4 Sätze / <40 Wörter): dünne Beschreibungen 243→**219** (−24); missing distanceKm (upcoming) 43→**42**; missing elevationGainM (upcoming) 234→**241** (+7: unbelegte Werte entfernt statt geraten); missing imageUrl (upcoming) 27→**28** (+1: 1 Nicht-Offiziell-Bild entfernt)
 
 ### BLACKLIST — NICHT (wieder) anlegen (abgesagt/eingestellt/nicht verifizierbar)
 - IRONMAN 70.3 Wiesbaden — eingestellt seit 2016, EM 2026 nach Jönköping verlegt
@@ -25,16 +25,17 @@
 - (leer) — alle diesen Lauf angefassten Events wurden gegen offizielle Quellen bestätigt.
 
 ### BACKLOG (offene Aufgaben)
-- **laacher-see-mtb-marathon (WEITERHIN OFFEN):** offizielle Seite (laachersee-mtb-marathon.de) am 31.07. erneut 503/bot-blocked → Distanzen/Hm unverändert (80 km/1300 Hm) belassen. Registrierung runtix.com + Co-Veranstalter sig-koblenz.de bestätigen aber 5. Auflage So 09.08.2026 in Nickenich (Datum stimmt). Aggregatoren nennen eine ~80-km-Runde mit ~1600 Hm (widerspricht gespeicherten 1300) → beim nächsten Lauf gegen offizielle Seite prüfen, wenn erreichbar.
-- **Discovery-Kandidaten 2026-07-29 (offiziell verifizieren, DANN erst anlegen — Anti-Flut, diesen Lauf NICHT bearbeitet):** SURM – Schwarzwald Ultra Radmarathon (Alpirsbach, 20.09), Salt&Lake Trail (Salzburg, Gravel/Bikepacking, 26.09), Südkärntner Triathlon (St. Kanzian/Klopeinersee, 12.09), RügenChallenge (Sellin, 11.10). Alle vier noch nicht angelegt — nächster Lauf mit Neuanlage-Budget priorisieren, sofern Enrichment-Rückstand (271 dünne) es zulässt.
-- **Elevation offiziell nicht publiziert (nicht schätzen):** frankfurt-city (500), city-bremen (100), datagroup-nuernberg (300) — Stadt-Tris, flach; Bestandswerte unbelegt, aber plausibel belassen. Ratekau-Muster: bei nächster Runde entscheiden ob entfernen.
-- **rad-am-salzburgring:** distanceKm 25 / elevationGainM 100 offiziell NICHT belegt (Seite nennt keine Streckenlänge/Runden) — plausibel belassen, nicht neu geraten; bei Gelegenheit offiziell nachverifizieren.
-- **Enrichment-Backlog (upcoming):** noch ~271 dünne Beschreibungen; August/September-Events (soonest-first) weiter priorisieren.
+- **laacher-see-mtb-marathon (WEITERHIN OFFEN):** offizielle Seite (laachersee-mtb-marathon.de) am 01.08. erneut HTTP 503/bot-blocked (auch /marathon/ausschreibung.htm) → Distanzen/Hm unverändert (80 km/1300 Hm) belassen. 5. Auflage So 09.08.2026 in Nickenich bestätigt (sig-koblenz.de). Aggregatoren widersprechen sich (80/1600, 80/2240) → NICHT übernommen. imageUrl ist YouTube-Thumbnail (i.ytimg.com), kein offizieller Hero — bei nächster erreichbarer Runde ersetzen.
+- **Discovery-Kandidaten 2026-07-29 (offiziell verifizieren, DANN erst anlegen — Anti-Flut, weiterhin NICHT bearbeitet):** SURM – Schwarzwald Ultra Radmarathon (Alpirsbach, 20.09), Salt&Lake Trail (Salzburg, Gravel/Bikepacking, 26.09), Südkärntner Triathlon (St. Kanzian/Klopeinersee, 12.09), RügenChallenge (Sellin, 11.10). Erst anlegen wenn Enrichment-Rückstand (noch 219 dünne) es zulässt.
+- **Nicht-offizielle imageUrls (Aggregator/Logo — bei Gelegenheit ersetzen, kein Muss):** `stadtwerke-halle-triathlon` (hdsports.org), `edermuender-triathlon` (DLRG-Foto, Maße/Aspect unklar). `taegi-tri-wettingen` imageUrl diesen Lauf entfernt (hdsports.org + nur Logo-og:image). `valais-triathlon-festival` nutzt Wallis-**Tourismus**-Keyvisual statt Event-Hero (lädt, drin gelassen).
+- **Schwimm-Venue-Audit (neu):** In diesem Lauf waren 3/6 DE-Tri-Venues falsch gespeichert (Regensburg „Baggersee"→Schleusenkanal, Edermünde „Freiheit-See"→Freibad Holzhausen, Meppen „Ems"→Möllersee). Muster aus früheren Läufen bestätigt → bei künftigen Enrichment-Läufen Schwimm-Venue immer explizit gegen die offizielle Seite prüfen.
+- **Elevation offiziell nicht publiziert (nicht schätzen):** frankfurt-city (500), city-bremen (100), datagroup-nuernberg (300) — Stadt-Tris, flach; Bestandswerte unbelegt, aber plausibel belassen.
+- **rad-am-salzburgring:** distanceKm 25 / elevationGainM 100 offiziell NICHT belegt — plausibel belassen, nicht neu geraten; bei Gelegenheit nachverifizieren.
+- **Enrichment-Backlog (upcoming):** noch ~219 dünne Beschreibungen; August/September-Events (soonest-first) weiter priorisieren.
 
 ### ERLEDIGT diesen Lauf (aus früherem BACKLOG)
-- **sks-sauerland-marathon:** Kategorie `Gravel` → `Radmarathon` (offiziell MTB-Marathon; nur die 73-km-Strecke ist Gravel). Distanzen 105/2740 bestätigt.
-- **podersdorf-triathlon vs. „39. Austria Triathlon":** identisch — Bestand bereits korrekt als „Austria Triathlon Podersdorf", 39. Auflage, 04.–06.09.2026. Kein separates Event nötig.
-- **AT-Bergrennen-Reste:** bergkaiser-radmarathon-kematen war komplett falsch beschrieben (fiktiver 155 km/3000 Hm Inntal-Marathon) → korrigiert auf realen Bergsprint **25 km/1400 Hm** nach Kühtai, Kat. `Radmarathon`→`Berg`, tote websiteUrl bergkaiser.at (DNS) → radsportevents.com.
+- **laacher-see-mtb-marathon:** erneut geprüft — offizielle Seite weiterhin 503/bot-blocked, Distanzen unverändert belassen (bleibt im BACKLOG; Beschreibung aber mit bestätigten Fakten angereichert).
+- **ironman-leeds Phantom-Verdacht ausgeräumt:** bestätigt als Englands einziger Volldistanz-IRONMAN 2026 (Roundhay Park), Termin von Juli (2025) auf **16.08.2026** verschoben — der Juli→August-Wechsel ist KEIN Phantom/Duplikat.
 
 ### QUELLEN-STAND (zuletzt geprüft — älteste zuerst re-checken)
 | Quelle | zuletzt |
@@ -44,9 +45,22 @@
 | k226.com/events/events.aspx (Tri, europaweit) | 2026-07-14 |
 | cycloworld.cc/de/kalender-de (Rad AT/DE) | 2026-07-29 (403 für Fetch-Tool → via Browser-UA gecrawlt) |
 | triathlondeutschland.de / dtu-kalender.de | 2026-07-29 |
-| triathlon-austria.at/de/service-termine | 2026-07-31 (Ferlach/Poettsching/Steiraman/Längsee event-DB direkt gegengeprüft) |
-| ironman.com Kalender (europaweit) | 2026-07-31 (Krakow direkt bestätigt; ironman.com blockt teils Fetch) |
-> Hinweis: 2026-07-31 war ein reiner Enrichment-/Verifikationslauf über offizielle Veranstalterseiten (~24 Events); die Discovery-Aggregatoren wurden NICHT flächig re-gecrawlt — challenge-family / UCI-GF / k226 am längsten offen, nächster Lauf bevorzugt.
+| triathlon-austria.at/de/service-termine | 2026-07-31 |
+| ironman.com Kalender (europaweit) | 2026-08-01 (Kalmar/Copenhagen/Leeds/Tallinn/Duisburg-703 direkt bestätigt; blockt teils Fetch) |
+> Hinweis: 2026-08-01 war ein reiner Enrichment-/Verifikationslauf über offizielle Veranstalter-/Serienseiten (24 Events, soonest-first Aug 2026); Discovery-Aggregatoren NICHT flächig re-gecrawlt — **challenge-family / UCI-GF / cycloworld / k226 am längsten offen (seit 07-07…07-29), nächster Lauf bevorzugt** (ggf. mit Neuanlage-Budget für die 4 Backlog-Kandidaten).
+
+---
+
+## Quellen-Durchgang: 2026-08-01 (Enrichment- & Verifikations-Wartungslauf)
+
+Reiner Qualitäts-/Tiefen-Lauf: **0 Neuanlagen** (Anti-Flut — bei 243 dünnen Beschreibungen ausschließlich veredelt). 4 Research-Agents haben 24 künftige Events (soonest-first, überwiegend 15.–22. August 2026, AT/DE/CH + große internationale IRONMAN) gegen offizielle Veranstalter-/Verbands-/Serienquellen (ironman.com, ÖTRV/Swiss/DTU, Organizer-Sites) verifiziert und angereichert; Aggregatoren nur Discovery, kein prommer.net. Jedes angefasste Event hat ein offiziell bestätigtes 2026-Datum. **0 entfernt / 0 neu.**
+
+- **24 Bestandsevents veredelt/korrigiert** (Beschreibung 4–8 Sätze, faktenreich; Datenfehler behoben):
+  - **AT/DE-Cycling (6):** `sommerholz-bergsprint` (3,43 km/205 Hm bestätigt; Geo-Fehler „Hausruckviertel"→Irrsee/Salzkammergut), `laacher-see-mtb-marathon` (Seite 503-blocked → Distanzen unverändert, nur Beschreibung angereichert; s. BACKLOG), `gainfeldclassic-bischofshofen` (distanceKm 4→**3,4**; websiteUrl bischofshofen.at tot → radmarathon.at), `hahnenkamm-mtb-kitzbuehel` (**Fehler:** ist Massenstart-MTB-Rennen, nicht „Teamwertung/Rennrad-Kat." → korrigiert; 9 km/940 Hm), `gaisberg-vertical-salzburg` (distanceKm 9→**8,5**, elevationGainM 800→**641**; Kat. `Berg` ergänzt), `cyclassics-hamburg` (30. Ausgabe, ADAC-Sponsor; unbelegte elevationGainM 400 **entfernt** — flache Route).
+  - **DE-Triathlon (6):** `ostseeman-triathlon-gluecksburg` (Venue Kurstrand Sandwig/Flensburger Förde; unbelegte 1200 Hm **entfernt**), `regensburger-triathlon` (**Venue-Fehler:** „Baggersee"→Schleusenkanal unter der Oberpfalzbrücke; unbelegte 300 Hm entfernt), `edermuender-triathlon` (**Venue-Fehler:** „Freiheit-See"→Freibad Holzhausen; **Geo-Fehler:** nicht am Nationalpark Kellerwald-Edersee; distanceKm 16 ergänzt), `rodgau-triathlon` (Strandbad Nieder-Roden, beide Distanzen ausverkauft), `stadtwerke-halle-triathlon` (**Kat.-Fehler:** „Olympische Distanz" entfernt = 2026 nur Sprint + DM Swim&Run → `Sprintdistanz`/`Aquathlon`; distanceKm 51→26; Schwimmen in der Saale), `emsland-triathlon-meppen` (**Venue-Fehler:** „Ems"→Möllersee; **Kat.-Fehler:** nur 1 Format → „Olympische Distanz" entfernt; distanceKm 51→30).
+  - **AT/CH-Triathlon (6):** `aloha-tri-traun` (**Datum:** 01.08.→**01.–02.08.**; Venue „Trauner Badesee"→Oedter See; Domain→alohasport.at; Indoor-Wechselzone Eishalle; unbelegte 150 Hm entfernt), `thiersee-triathlon` (8. Auflage; elevationGainM 500→**440**; Tiroler Meisterschaft), `jannersee-triathlon` (32. Auflage, Abendrennen 17:30; unbelegte 100 Hm entfernt), `kraigerseetriathlon-launsdorf` (10. Jubiläum, Kraigersee), `taegi-tri-wettingen` (33. Auflage, Schwimmen im Tägi-Freibad; distanceKm 52→**45**; imageUrl hdsports.org **entfernt**), `valais-triathlon-festival` (3. Auflage, Domaine des Îles Sion; alle Distanzen bestätigt).
+  - **International IRONMAN (6):** `ironman-kalmar` (Ölandbrücke-2-Runden, ~500 Hm bestätigt), `ironman-copenhagen` (elevationGainM 400→**650**), `ironman-leeds` (Phantom-Verdacht ausgeräumt: einziger Volldistanz-IRONMAN Englands, Juli→**16.08.** verschoben; elevationGainM 1600→**2500** Yorkshire), `ironman-tallinn` (Volldistanz + 70.3-EM bestätigt; unbelegte 700 Hm **entfernt**), `ironman-703-duisburg` (**Rad-Distanz 88→90 km**; unbelegte 700 Hm entfernt — flacher Kurs), `dublin-city-triathlon` (Venue River Liffey oberhalb Islandbridge-Wehr; **offiziell keine Standard-Distanz 2026**, nur Sprint).
+- **SEO / Sitemap:** `astro build` grün, 1188 pages, 0 errors; `astro check` 0 errors/0 warnings. Sitemap 526 URLs (nur indexierbar, keine past-URLs). noindex-Feature (past → `noindex, follow` + Sitemap-Ausschluss, date-driven) und JSON-LD (`SportsEvent`/`ItemList`/`BreadcrumbList`/`Organization`/`WebSite`) intakt — **keine Code-Änderung nötig**.
 
 ---
 
@@ -77,16 +91,4 @@ Fokus streng auf Qualität/Tiefe + Datenkorrektheit, **0 Neuanlagen** (Anti-Flut
 
 ---
 
-## Quellen-Durchgang: 2026-07-27 (Enrichment- & Verifikations-Wartungslauf)
-
-Fokus streng auf Qualität/Tiefe + Datenkorrektheit, **keine Neuanlagen** (Anti-Flut). 7 Research-Agents haben ~42 künftige Events gegen offizielle Veranstalter-/Verbandsseiten verifiziert; alle Fakten aus offiziellen Quellen, keine prommer.net, Aggregatoren nur zur Discovery.
-
-- **26 Bestandsevents veredelt/korrigiert** (Beschreibung 4–8 Sätze, faktenreich; Struktur-/Datenfehler behoben):
-  - **Triathlon (18):** `sika-triathlon-kornwestheim` (Fehler behoben: Schwimmen im Alfred-Kercher-**Hallenbad**, nicht „See"), `eberbacher-triathlon` (Neckar, ausverkauft, Limit 250+25), `albtal-triathlon-ettlingen` (Buchtzigsee, Limit 350, neue Staffelwertungen), `alzenauer-triathlon` (**Fehler:** See heißt **Meerhofsee**, nicht „Kahl-See"), `risstal-triathlon-laupheim` (**Fehler:** „Olympische Distanz" entfernt = nur Sprint; distanceKm 51→26; websiteUrl von DTU-Aggregator auf risstaltriathlon.de), `schwarzachtal-triathlon-ertingen` (distanceKm 25→36, 3×10-km-Rad, Helmpflicht), `wanderup-triathlon` (websiteUrl generisch→triathlon-wanderup.de, Triple Events, Badesee Norderfeld), `ratekau-triathlon` (**Datum-Fehler:** 02.08.→**12.07.2026** offiziell → damit korrekt Past/noindex; imageUrl war Bild des Laufevents „Rund um Ratekau" → offizielles Offendorf-Bild; identisch mit Offendorf-Triathlon, PALM Sports), `kanal-triathlon-rendsburg` (Kanal-Schwimmen, Breiholz, Kopfsteinpflaster-Passage), `fehmarn-triathlon` (Burgtiefe/Südstrand, Ostsee-Dreieckskurs, offizielles Bild), `hachede-triathlon-geesthacht` (Menzer-Werft-Platz, 4 Formate, PALM Sports), `otterndorf-triathlon` (websiteUrl→otterndorf-triathlon.de; **Fehler:** Schwimmen im **See Achtern Diek**, nicht „Meerwasserfreibad"), `cottbuser-triathlon` (Format ist **Supersprint** 0,4/10,2/2,5, jugenddominiert), `bad-sobernheimer-triathlon` (Volksdistanz 0,3/20/5; unbelegtes „Schwimmen in der Nahe" entfernt), `seenland-triathlon-steinberg` (Supersprint + Sprint, Limit 450), `willicher-triathlon` (Willich-333-Distanz; unbelegtes „Nierskanal"-Schwimmen entfernt, Schwimmen im Freizeitbad De Bütt), `licher-triathlon` (**Fehler:** ist **Cross-Triathlon**, Schwimmen im **Waldschwimmbad** statt „Leunebach-Stausee"; Kategorien + distanceKm 25→55 korrigiert), `apolda-triathlon` (websiteUrl→ac-apolda.de, 50-m-Becken, Hans-Geupel-Stadion).
-  - **Cycling (8):** `riderman-bad-duerrheim` (offizielle Etappen-Zahlen: distanceKm 180→224, elevationGainM 3200→2985, 3 Etappen, 26. Auflage), `kitzbueheler-radmarathon` (6. Auflage, ausgebucht), `colnago-gf-luberon` (+elevationGainM 2500 offiziell), `zeitfahr-cup-seibersdorf-22` (+elevationGainM 64), `montafon-m3-mtb-marathon` (+elevationGainM 2500 offiziell M³), `la-purito-andorra` (**Datenfehler:** veraltete Distanzen 115/80/30 → offizielle 2026er **116/75/26 km**, Ziel Encamp), `granfondo-alberto-contador` (Coll de Rates/Vall d'Ebo, Limit 4.000), `ironman-70-3-zell-am-see` (Filzensattel 1.280 m, Global Athletes' Choice Award 2025).
-- **1 Event entfernt:** `granfondo-tavira-2026` — offizielle Domain (clubebiketeamtavira.com) löst nicht auf (DNS), nur Aggregatoren führen ein 2026-Datum. Nicht verifizierbar → gelöscht + BLACKLIST + CLAUDE.md „Known Cancelled".
-- **SEO / Sitemap:** `astro build` grün, 1188 pages, 0 errors. Sitemap 528 URLs (nur indexierbar). noindex-Feature und JSON-LD intakt — keine Code-Änderung. ratekau + tavira korrekt aus der Sitemap gefallen.
-
----
-
-> Ältere Sessions (07-14, k226-Batch 07-09, Session 29 und davor) ausgelagert nach `progress-archive.md`.
+> Ältere Sessions (07-27, 07-14, k226-Batch 07-09, Session 29 und davor) ausgelagert nach `progress-archive.md`.

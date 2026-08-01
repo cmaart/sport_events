@@ -16,8 +16,8 @@
     "lng": 12.5683
   },
   "websiteUrl": "https://www.ironman.com/im-copenhagen",
-  "description": "IRONMAN Copenhagen: 3,8 km Schwimmen in der künstlichen Lagune am Amager Strand, flache 180 km Rad durch das Kopenhagener Stadtzentrum und Seelands Landschaft, 42,2 km dreifacher Lauf an der Waterfront. Idealer Flachkurs mit begeistert jubelnden Dänen entlang der gesamten Strecke.",
+  "description": "IRONMAN Copenhagen ist eine der größten Langdistanzen Europas mit mehreren Tausend Startern. Das 3,8-km-Schwimmen findet im geschützten, ruhigen Salzwasser der künstlichen Lagune im Amager Strandpark statt (Öresund). Die 180-km-Radstrecke folgt zunächst der Küste der „dänischen Riviera“ und führt anschließend in die wellige Landschaft Nordseelands; trotz des flach-schnellen Rufs summieren sich über zahlreiche falsche Flachstücke rund 650 Höhenmeter. Der abschließende Marathon (42,2 km) verläuft als Mehrrundenkurs an der Waterfront durch das Kopenhagener Zentrum. Entlang der gesamten Strecke sorgen begeisterte dänische Zuschauer für Stimmung. Das Rennen vergibt Qualifikationsslots für die IRONMAN-Weltmeisterschaft in Kona.",
   "distanceKm": 226,
-  "elevationGainM": 400,
+  "elevationGainM": 650,
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/danemark/ironman-de-copenhague/362958190_595950642702216_1015734375010064706_n_t9amgt"
 }

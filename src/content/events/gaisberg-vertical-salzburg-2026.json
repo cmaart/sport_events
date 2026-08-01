@@ -3,6 +3,7 @@
   "name": "Gaisberg Vertical Salzburg",
   "sport": "cycling",
   "categories": [
+    "Berg",
     "Zeitfahren"
   ],
   "country": "AT",
@@ -18,8 +19,8 @@
     "region": "Salzburg"
   },
   "websiteUrl": "https://www.radmarathon.at",
-  "description": "Bergzeitfahren auf den Gaisberg, den Hausberg Salzburgs, mit rund 9 km Laenge und erheblichem Hoehengewinn. Klassisches Bergrennen mit Start in der Naehe der Salzburger Stadtteile und Ziel auf dem 1.287 m hohen Gaisbergplateau mit Panoramablick auf die Stadt und das Salzburger Becken.",
-  "distanceKm": 9,
-  "elevationGainM": 800,
+  "description": "Das Gaisberg Vertical lässt 2026 das legendäre Gaisbergrennen (2002–2014) am Salzburger Hausberg in neuem Format wieder aufleben. Das Bergeinzelzeitfahren startet in Guggenthal und führt über 8,5 Kilometer und rund 641 Höhenmeter auf durchgehend asphaltierter Straße hinauf zur 1.287 m hohen Gaisbergspitze mit Panoramablick über Stadt und Salzburger Becken. Ausgetragen am autofreien Tag, dem 16. August 2026, verbindet die Veranstaltung ein Rennen der Road Cycling League Austria mit einem Jedermann-Zeitfahren, in dem zugleich die Salzburger Landesmeisterschaft im Bergzeitfahren vergeben wird. Das Startgeld beträgt 39 Euro inklusive Chipmiete (Nachnennung 49 Euro), Ausrichter ist der ASVÖ-Verein Bikefriends Salzburg.",
+  "distanceKm": 8.5,
+  "elevationGainM": 641,
   "imageUrl": "https://lrv-salzburg.at/wp-content/uploads/2026/04/gaisberg_vertical.jpg"
 }

@@ -3,8 +3,8 @@
   "name": "Stadtwerke Halle Triathlon",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
-    "Sprintdistanz"
+    "Sprintdistanz",
+    "Aquathlon"
   ],
   "country": "DE",
   "dates": {
@@ -18,7 +18,7 @@
     "region": "Sachsen-Anhalt"
   },
   "websiteUrl": "https://www.sv-halle-triathlon.de/",
-  "description": "Der 35. Stadtwerke Halle Triathlon mit Deutschen Swim & Run Meisterschaften in Schkopau bei Halle (Saale), Start und Ziel an der Berliner Straße 100. Angebot von mehreren Distanzen inklusive Olympischer Distanz, Sprintdistanz und Staffel sowie DM Swim & Run.",
-  "distanceKm": 51,
+  "description": "Der 35. Stadtwerke Halle Triathlon findet am 16. August 2026 mit Start und Ziel an der Berliner Straße 100 in Schkopau bei Halle (Saale) statt und wird vom SV Halle-Triathlon ausgerichtet. Geschwommen wird in der Saale; das Hauptrennen ist als Sprintdistanz mit 0,75 km Schwimmen, 20 km Rad und 5 km Laufen ausgeschrieben. Herzstück der Jubiläumsausgabe sind die zeitgleich ausgetragenen Deutschen Meisterschaften im Swim & Run (0,4 km Schwimmen, 3 km Laufen). Ergänzt wird das Programm um zahlreiche Wettbewerbe für Kinder, Jugendliche, Einsteiger und Volkssportler sowie Staffeln. Die flache Rad- und Laufstrecke im Saaletal macht die Veranstaltung zu einem der ältesten und größten Breitensport-Triathlons Sachsen-Anhalts.",
+  "distanceKm": 26,
   "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/93/d4/3c/halle-triathlon-9-1716376002.webp"
 }

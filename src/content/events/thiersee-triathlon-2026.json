@@ -19,8 +19,8 @@
     "region": "Tirol"
   },
   "websiteUrl": "https://www.thiersee-triathlon.at",
-  "description": "Internationaler Triathlon am türkisblauen Thiersee im Kufsteiner Land. Olympische Distanz (1,5 + 40 + 10 km) und Sprint (0,75 + 20 + 5 km) sowie Staffeln und Kinder-Triathlon. Radstrecke mit Anstieg zum Seebichl durch Bergpanorama.",
+  "description": "Der 8. Internationale Thiersee Triathlon findet am 16. August 2026 am kristallklaren Thiersee im Kufsteinerland (Tirol) statt; geschwommen wird im Strandbad des Bergsees. Der ARMONA Kurztriathlon über die Olympische Distanz (1,5 km Schwimmen, 40 km Rad mit rund 440 Höhenmetern, 10 km Laufen) wird als Tiroler Meisterschaft gewertet. Daneben gibt es den JOLSPORT Sprinttriathlon (0,75 km Schwimmen, 20 km Rad mit ca. 220 hm, 5 km Laufen), einen RAIKA Kids-Cross-Triathlon (ebenfalls Tiroler Meisterschaft) sowie den AUTOPARK Jedermann-Triathlon für Einsteiger. Die anspruchsvolle Radstrecke mit Anstieg vor alpinem Bergpanorama prägt den Charakter des Rennens. Für ausgebuchte Bewerbe besteht die Möglichkeit, über eine Warteliste nachzurücken.",
   "distanceKm": 52,
-  "elevationGainM": 500,
+  "elevationGainM": 440,
   "imageUrl": "https://www.thiersee-triathlon.at/wp-content/uploads/2026/04/ThierseeTriathlon25%C2%A9Kufsteinerland_gphoto-031-scaled.jpg"
 }
