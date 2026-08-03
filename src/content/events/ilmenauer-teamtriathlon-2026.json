@@ -16,7 +16,8 @@
     "lng": 10.9174,
     "region": "Thüringen"
   },
-  "websiteUrl": "https://www.tri-club-ilmenau.de/",
-  "description": "Der 31. Ilmenauer Teamtriathlon in Ilmenau im Thüringer Wald. Staffeltriathlon mit Einzel- und Teamwertung am Rennsteig, mit Schwimmen in der Ilmenauer Talsperre, Radkurs durch den Thüringer Wald und Laufstrecke im Umland der Universitätsstadt.",
+  "websiteUrl": "https://www.teamtria.de/",
+  "description": "Der 31. Ilmenauer Teamtriathlon steigt am 19. August 2026 an der Talsperre Heyda südlich von Ilmenau im Thüringer Wald. Als einziger Teamtriathlon Thüringens wird er in Zweierteams ausgetragen: Beide Partner schwimmen nacheinander, fahren dann gemeinsam Rad und laufen zusammen ins Ziel. Die Distanzen betragen 400 m Schwimmen in der Talsperre, 20 km Rad und 6 km Laufen; die Wechselzone liegt an der Staumauer. Das Event richtet sich betont an Studierende, Einsteiger und Breitensportler und pflegt eine familiäre, wettkampfarme Atmosphäre.",
+  "distanceKm": 26,
   "imageUrl": "https://www.teamtria.de/wp-content/uploads/Tria20182.png"
 }

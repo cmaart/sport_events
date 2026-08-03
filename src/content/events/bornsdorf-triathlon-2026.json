@@ -3,6 +3,7 @@
   "name": "Bornsdorf-Triathlon",
   "sport": "triathlon",
   "categories": [
+    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -16,7 +17,8 @@
     "lng": 13.41,
     "region": "Brandenburg"
   },
-  "websiteUrl": "https://www.tri-club-luckau.de/",
+  "websiteUrl": "https://www.bornsdorf-triathlon.de/",
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/brandebourg/bornsdorf-triathlon/idhw4jfelr5oh4tkz73v",
-  "description": "Der Bornsdorf-Triathlon in Heideblick-Bornsdorf im Fläming, Brandenburg, veranstaltet vom Tri-Club Luckau. Sprinttriathlon am Bornsdorfer See inmitten des brandenburgischen Naturparks Niederlausitzer Landrücken."
+  "description": "Der 39. Bornsdorf-Triathlon findet am 15. August 2026 im Waldbad Bornsdorf in Heideblick im brandenburgischen Fläming statt, ausgerichtet vom Luckauer Läuferbund. Geschwommen wird im Naturbad, die Radstrecke führt wieder über die traditionelle Runde durch Crinitz. Der Kurz-Triathlon als Hauptwettbewerb geht über 1,5 km Schwimmen, 44 km Rad und 10 km Laufen. Daneben gibt es den Jedermann-Triathlon über 0,75 km / 23 km / 5 km (auch als Staffel) sowie einen Schnuppertriathlon über 0,3 km / 10 km / 2,5 km für Einsteiger. Das Teilnehmerfeld ist auf 244 Startplätze begrenzt.",
+  "distanceKm": 56
 }
