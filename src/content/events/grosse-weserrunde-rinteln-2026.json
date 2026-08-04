@@ -18,8 +18,7 @@
     "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.weserrunde.de/",
-  "description": "Langstrecken-Radmarathon entlang der Weser mit Distanzen von 80 bis 350 km durch Weserbergland, Solling und Teutoburger Wald. Die 350-km-Ultradistanz mit ca. 5.800 Hm gilt als eine der anspruchsvollsten Radmarathonstrecken Deutschlands. Start sehr frueh um 5:00 Uhr, Pasta-Party am Vorabend.",
+  "description": "Die Große Weserrunde ist ein Langstrecken-Radmarathon mit Start und Ziel am Gymnasium Ernestinum in Rinteln im Weserbergland. Die 16. Auflage am 22. August 2026 bietet sechs Distanzen: 80, 150, 200, 250, 300 und die 350-km-Ultrarunde, die zu den längsten eintägigen Radmarathonstrecken Deutschlands zählt. Gefahren wird auf welligem Terrain durch das Weserbergland entlang der Weser. Das Teilnehmerfeld ist limitiert und stark nachgefragt: Ende Juli 2026 lagen bereits rund 1.300 Anmeldungen vor, nur noch etwa 200 Startplätze waren frei.",
   "distanceKm": 350,
-  "elevationGainM": 5800,
   "imageUrl": "https://www.weserrunde.de/cdn/uploads/gwr-ziel2025.jpg"
 }

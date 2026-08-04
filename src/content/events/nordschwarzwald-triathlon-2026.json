@@ -4,7 +4,7 @@
   "sport": "triathlon",
   "categories": [
     "Langdistanz",
-    "Mitteldistanz"
+    "Sprintdistanz"
   ],
   "country": "DE",
   "dates": {
@@ -20,7 +20,7 @@
   },
   "websiteUrl": "https://nordschwarzwald-triathlon.de",
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/arrondissement-de-karlsruhe/nordschwarzwald-triathlon/rhdsk5fnm3yzuttr1wyy",
-  "description": "Deutsche Meisterschaft Langdistanz (Elite & Altersklassen) in Nagold im noerdlichen Schwarzwald: 3,8 km Schwimmen im Nagoldsee, 180 km Radstrecke durch den Schwarzwald, 42,2 km Laufen. Zweitages-Event mit Mittel- und Langdistanz. Nationaler Titelkampf in atemberaubender Schwarzwaldkulisse.",
+  "description": "Der 3. Nordschwarzwald Triathlon am 15./16. August 2026 trägt erneut die Deutsche Meisterschaft Langdistanz aus (Elite und Altersklassen), veranstaltet von der TriEvents Baden-Württemberg gGmbH. Geschwommen wird über 3,8 km in zwei Runden mit Landgang in der Nagoldtalsperre (Erzgrube) bei Seewald. Die 180-km-Radstrecke führt von der Talsperre über Altensteig nach Nagold und dann in drei Runden über Mindersbach, Wart, Simmersfeld und Rohrdorf mit rund 1.484 Höhenmetern im Anstieg. Den Abschluss bildet ein Marathon über 42,195 km in fünf Runden. Als Rahmenwettbewerbe werden eine Sprintdistanz (400 m / 20 km / 5 km), Aquabike sowie Einzelzeitfahren über 50 und 100 km angeboten. Es war 2024 die erste Langdistanz in der Geschichte des Triathlons in Baden-Württemberg.",
   "distanceKm": 226,
-  "elevationGainM": 3500
+  "elevationGainM": 1484
 }

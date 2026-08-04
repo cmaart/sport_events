@@ -3,7 +3,8 @@
   "name": "Odyssey Triathlon",
   "sport": "triathlon",
   "categories": [
-    "Mitteldistanz"
+    "Mitteldistanz",
+    "Langdistanz"
   ],
   "country": "GB",
   "dates": {
@@ -17,6 +18,6 @@
     "lng": -0.263
   },
   "websiteUrl": "https://www.odysseytriathlon.co.uk/stneots",
-  "description": "Mitteldistanz-Triathlon im Riverside Park von St Neots (Cambridgeshire) an der Great Ouse. 1,9 km Schwimmen, 90 km Rad und 21,1 km Laufen. Termin Samstag, 8. August 2026 auf der Regatta Meadow.",
+  "description": "Der Odyssey Triathlon findet am 8. August 2026 im Riverside Park von St Neots (Cambridgeshire) an der Great Ouse statt und ist Teil des ATW-Triathlon-Festivals „First To Full\". Angeboten werden eine Mitteldistanz (1,9/90/21,1 km) sowie eine Langdistanz (3,8/180/42,2 km). Geschwommen wird im ruhig mäandernden Fluss Great Ouse. Die flache Radstrecke führt durch die ländliche Landschaft von Cambridgeshire. Der Lauf verläuft entlang der Uferparks der Regatta Meadow im Riverside Park von St Neots. Das familiäre Rennen richtet sich an Ausdauersportler aller Leistungsstufen.",
   "distanceKm": 113
 }
