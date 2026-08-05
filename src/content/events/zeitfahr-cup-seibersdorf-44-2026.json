@@ -14,9 +14,8 @@
     "lng": 16.524,
     "region": "Niederösterreich"
   },
-  "websiteUrl": "https://zeitfahr-cup.at/",
-  "description": "Einzelzeitfahren bei Seibersdorf (NÖ) über 44 km mit 128 Höhenmetern. Teil des ZeitFahr-CUP Speed 2026, gleichzeitig findet das 4er-Mannschaftszeitfahren (44 km) statt. Beschrieben als ideales Vorbereitungsrennen für den King of the Lake.",
+  "websiteUrl": "https://zeitfahr-cup.at/seibersdorf44/",
+  "description": "Einzelzeitfahren des ZeitFahr-CUP Speed bei Seibersdorf im südlichen Niederösterreich über 44 km. Die Strecke führt über zwei Runden auf dem flachen, schnellen Kurs Seibersdorf - Reisenberg - Hof. Start ist ab 12:00 Uhr; die Startnummernausgabe erfolgt von 10:00 bis 11:30 Uhr am Parkplatz Hauptstraße 9 in 2444 Seibersdorf. Die Startgebühr beträgt 23 Euro (Überweisung), Anmeldeschluss ist der 19. August 2026 um 22:00 Uhr. Das Rennen zählt zur ZeitFahr-CUP-Speed-Serie 2026 und eignet sich als schnelles Vorbereitungsrennen der Zeitfahrsaison. Termin: Samstag, 22. August 2026 in Seibersdorf (Niederösterreich).",
   "distanceKm": 44,
-  "elevationGainM": 128,
   "imageUrl": "https://zeitfahr-cup.at/wp-content/uploads/2022/02/speed_gr_1024x768.jpg"
 }

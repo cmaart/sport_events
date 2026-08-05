@@ -18,6 +18,7 @@
     "lng": 5.9
   },
   "websiteUrl": "https://www.gelreman.nl/",
-  "description": "Siebte Ausgabe des Gelreman bei Arnhem in der Provinz Gelderland, ausgetragen am Rijkerswoerdse Plas. Angeboten werden drei Distanzen: die Volldistanz (3,8 km Schwimmen / 180 km Rad / 42,2 km Laufen), die Halbdistanz (1,9 / 90 / 21,1 km) sowie die 'Eigenwijze Halve' mit verlängertem Radsplit (1,9 / 135 / 21,1 km). Geschwommen wird im Badesee Rijkerswoerdse Plas, der Rad- und Laufkurs verläuft durch die Flusslandschaft der Region ('strijden tussen de rivieren' - Kampf zwischen den Flüssen). Termin ist Samstag, der 22. August 2026; die Halbdistanz ist bereits ausgebucht, für die Volldistanz sind noch Plätze verfügbar.",
-  "distanceKm": 113
+  "registrationUrl": "https://www.gelreman.nl/nl/aanmelden",
+  "description": "Siebte Ausgabe des Gelreman am Stadtrand von Arnhem in der Provinz Gelderland, ausgetragen am Badesee Rijkerswoerdse Plas am Samstag, 22. August 2026. Herzstück ist die Volldistanz über 3,8 km Schwimmen, 180 km Rad und 42,2 km Laufen; daneben starten eine klassische Halbdistanz (1,9 / 90 / 21,1 km) sowie die 'Eigenwijze Halve' mit verlängertem Radsplit (1,9 / 135 / 21,1 km). Der Rad- und Laufkurs führt unter dem Motto 'strijden tussen de rivieren' durch die flache Flusslandschaft zwischen Rhein, Waal und Nederrijn, was schnelle Zeiten begünstigt. Der Anstieg über die Posbank im Nationalpark Veluwezoom setzt auf dem Radabschnitt den einzigen nennenswerten Höhenakzent. Für 2026 sind sowohl die Voll- als auch beide Halbdistanzen ausverkauft; für die Halbdistanzen wird eine Warteliste geführt. Als eintägiger Volldistanz-Triathlon in Vereinsregie hat sich der Gelreman zu einem festen Termin im niederländischen Langdistanz-Kalender entwickelt.",
+  "distanceKm": 226
 }

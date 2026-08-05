@@ -9,12 +9,12 @@
     "confirmed": true
   },
   "location": {
-    "name": "Stężyca (Kaszubien)",
-    "lat": 54.2180,
-    "lng": 18.1055
+    "name": "Stężyca (Lubelskie)",
+    "lat": 51.5803,
+    "lng": 21.7767
   },
   "websiteUrl": "https://triathlontour.pl/",
-  "description": "Garmin Triathlon Tour Stężyca – Flaggschiff-Stopp Polens größter Triathlon-Serie (XV. Jubiläum) in der Kaschubischen Seenplatte: Halbdistanz 1,9 km Schwimmen / 90 km Rad / 21,1 km Lauf sowie ¼- und ⅛-Distanz. Malerische Umgebung der Kashubian Lakes nahe Trójmiasto (Dreistadt); eine der beliebtesten Triathlon-Veranstaltungen Polens.",
+  "description": "Der Garmin Triathlon Tour Stężyca ist ein Saisonstopp der größten polnischen Triathlon-Serie und findet 2026 in Stężyca im Powiat Rycki (Woiwodschaft Lublin) statt – nicht zu verwechseln mit dem gleichnamigen Ort in Kaschubien. Ausgetragen wird das Rennen am Erholungskomplex „Wyspa Wisła\" direkt an der Weichsel. Angeboten werden die Halbdistanz (1,9 km Schwimmen, 90 km Rad, 21,1 km Lauf), die ¼-Distanz (0,95 / 45 / 10,55 km) und die ⅛-Distanz (0,475 / 22,5 / 5,275 km), jeweils auch als Staffel. Am Vortag (22. August) steigt am selben Ort das Finale der Aqua Speed Open Water Series 2026. Die Veranstaltung gehört zur Jubiläumssaison zum 15. Bestehen der Serie und wird von Kinderwettbewerben begleitet.",
   "distanceKm": 113,
   "imageUrl": "https://triathlontour.pl/wp-content/uploads/2025/11/WPISY-GTT-WWW-2025-6-768x512.png"
 }

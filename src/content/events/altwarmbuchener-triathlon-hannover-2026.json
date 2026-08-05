@@ -1,6 +1,6 @@
 {
   "id": "altwarmbuchener-triathlon-hannover-2026",
-  "name": "Altwarmbüchener Triathlon",
+  "name": "Hannover-Lahe Triathlon",
   "sport": "triathlon",
   "categories": [
     "Sprintdistanz",
@@ -18,7 +18,7 @@
     "lng": 9.8799,
     "region": "Niedersachsen"
   },
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/basse-saxe/altwarmbuchener-triathlon-am/bbqaocyn4jucjskusnp7",
   "websiteUrl": "https://hannover-lahe-triathlon.de/",
-  "description": "Hannover-Lahe Triathlon (vormals Altwarmbüchener Triathlon) am Altwarmbüchener See im Hannoveraner Osten — traditionsreiche Triathlon-Veranstaltung in ihrer neuen Namensform. Sprint- und Olympische Distanz mit Freiwasserschwimmen im Altwarmbüchener See, Radkurs durch das flache bis leicht wellige Umland von Hannover und Laufkurs um den See. Zweitägiges Wochenendformat 15.–16.08.2026; für 2026 offiziell zugelassen und bereits geöffnet zur Anmeldung. Video-Guides für die Radstrecke zur Orientierung auf der offiziellen Seite. Veranstalter: SC-Altwarmbüchen von 2005 e.V."
+  "description": "Der Hannover-Lahe Triathlon (vormals Altwarmbüchener Triathlon) geht 2026 in seine 12. Auflage und wird vom Schwimmclub Altwarmbüchen von 2005 e.V. am Altwarmbüchener See im Osten von Hannover ausgetragen. Das Wochenende vom 15. bis 16. August 2026 umfasst eine Kurz-/Sprintdistanz (750 m Schwimmen, 20 km Rad, 5 km Lauf) und eine Olympische Distanz (1.500 m / 40 km / 10 km) sowie Kinder-, Jugend-, Volks- und Staffelbewerbe. Geschwommen wird im Freiwasser des Altwarmbüchener Sees. Die Radstrecke ist als Rundkurs mit Wendepunkt am Kreisel nahe der Deponie angelegt und wird je nach Distanz drei- (Sprint) bzw. sechsmal (Olympisch) befahren; das Umland ist flach bis leicht wellig. Der Laufkurs verläuft rund um den See. Zur Orientierung stellt der Veranstalter Video-Guides der Radstrecke online.",
+  "distanceKm": 51.5
 }
