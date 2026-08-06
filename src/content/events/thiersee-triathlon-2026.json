@@ -19,8 +19,8 @@
     "region": "Tirol"
   },
   "websiteUrl": "https://www.thiersee-triathlon.at",
-  "description": "Internationaler Triathlon am türkisblauen Thiersee im Kufsteiner Land. Olympische Distanz (1,5 + 40 + 10 km) und Sprint (0,75 + 20 + 5 km) sowie Staffeln und Kinder-Triathlon. Radstrecke mit Anstieg zum Seebichl durch Bergpanorama.",
-  "distanceKm": 52,
-  "elevationGainM": 500,
+  "description": "Der 8. Internationale Thiersee Triathlon steigt am 16. August 2026 am kristallklaren Thiersee im Kufsteinerland (Tirol). Auf der Kurz-/Olympischen Distanz sind 1,5 km Schwimmen (2 Runden), 40 km Rad mit rund 440 Höhenmetern und 10 km Laufen zu bewältigen; der Sprint umfasst 750 m Schwimmen, 20 km Rad (ca. 220 Hm) und 5 km Laufen. Gestartet und geschwommen wird am Thiersee Strandbad in ausgezeichneter Wasserqualität. Die Radstrecke bietet ein abwechslungsreiches, welliges Profil durch die umliegenden Berge, während der abschließende Lauf flach rund um den See an Schilf und Seerosen vorbeiführt. Ergänzt wird das Programm durch Staffeln, einen Kinder-Cross-Triathlon (Kindercross) sowie eine Jedermann-Distanz (200 m / 2,35 km / 1,8 km). Die Einzelbewerbe 2026 sind bereits ausgebucht.",
+  "distanceKm": 51.5,
+  "elevationGainM": 440,
   "imageUrl": "https://www.thiersee-triathlon.at/wp-content/uploads/2026/04/ThierseeTriathlon25%C2%A9Kufsteinerland_gphoto-031-scaled.jpg"
 }

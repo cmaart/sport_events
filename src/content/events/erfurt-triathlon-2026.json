@@ -14,12 +14,12 @@
   },
   "location": {
     "name": "Erfurt",
-    "lat": 51.0504,
-    "lng": 11.021,
+    "lat": 51.036,
+    "lng": 11.057,
     "region": "Thüringen"
   },
   "websiteUrl": "https://erfurt-triathlon.de/",
-  "description": "Triathlon am Strandbad Stotternheim nordoestlich von Erfurt, Schwimmen als Rundkurs im Stotternheimer See, Radstrecke auf asphaltierten Strassen mit welligem Profil. Waldlaufkurs mit natuerlichen Wegen fuer Sprint und Olympische Distanz (1,5/40/10 km).",
-  "distanceKm": 52,
+  "description": "Der Erfurt-Triathlon geht 2026 in seine 38. Auflage und wird vom Lauf- und Triathlon-Verein Erfurt am Strandbad Stotternheim nordöstlich der Stadt ausgetragen. Geschwommen wird im Stotternheimer See, die Radstrecke verläuft auf asphaltierten Straßen mit welligem Profil, der abschließende Lauf über naturnahe Waldwege. Angeboten werden die Olympische Distanz (1,5 km Schwimmen, 40 km Radfahren, 10 km Laufen) und die Sprintdistanz (0,75 / 20 / 5 km) sowie Staffeln und zahlreiche Schüler- und Jugendklassen. Damit zählt die Veranstaltung zu den traditionsreichsten Triathlons Thüringens. Die Anmeldung erfolgt online über my.raceresult.com. Termin: Sonntag, 23. August 2026 in Erfurt-Stotternheim (Thüringen).",
+  "distanceKm": 51.5,
   "imageUrl": "https://erfurt-triathlon.de/img/Banner_1.jpg"
 }

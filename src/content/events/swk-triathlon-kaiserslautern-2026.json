@@ -17,8 +17,8 @@
     "lng": 7.77,
     "region": "Rheinland-Pfalz"
   },
-  "websiteUrl": "https://fck-triathlon.alzura.shop/swk-triathlon",
-  "description": "Stadttriathlon des 1. FC Kaiserslautern-Triathlon mit Sprint- und Super-Sprintdistanz sowie Jugendkategorien in der Pfalz. Die Triathlonsparte der Roten Teufel veranstaltet das zugaengliche Breitensportevent bereits seit Jahren. Anmeldeschluss 12. August 2026.",
-  "distanceKm": 25,
+  "websiteUrl": "https://fck-triathlon.de/swk-triathlon",
+  "description": "Nach vielen Jahren ohne Triathlon in Kaiserslautern kehrt der Wettkampf 2026 mit dem SWK Triathlon der Triathlonsparte des 1. FC Kaiserslautern zurück. Ausgetragen wird am Warmfreibad Kaiserslautern mit Wechselzone an der Schule am Beilstein. Angeboten werden eine Sprintdistanz (0,5 km Schwimmen, 20 km Radfahren, 5 km Laufen) als Einzel- und Staffelwertung, eine Super-Sprintdistanz (0,3 / 10 / 2,5 km) sowie Schülerklassen (Jugend B und C). Die Radstrecke ist vollständig gesperrt; das Teilnehmerfeld ist auf 400 Starter begrenzt. Die Anmeldung öffnet am 10. April 2026. Termin: Sonntag, 23. August 2026 in Kaiserslautern (Rheinland-Pfalz).",
+  "distanceKm": 25.5,
   "imageUrl": "https://fck-triathlon.alzura.shop/api/dam/download/c06b60b3-6c54-4f20-887b-1ddd7d5f8b89/1500/1500"
 }
