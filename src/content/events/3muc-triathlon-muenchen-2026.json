@@ -19,8 +19,6 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.3muc.com",
-  "description": "Zweitages-Triathlonanlas an der historischen Olympia-Regattastrecke in Oberschleißheim (Olympia 1972). Samstag: Sprint-Distanz (400 m/20 km/5 km). Sonntag: Olympische Distanz (1,5 km/40 km/10 km). Einer der beliebtesten Stadtrand-Triathlons in Bayern.",
-  "distanceKm": 51,
-  "elevationGainM": 200,
-  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/a8/68/ae/3muc-triathlon-muenchen-oberschleissheim-58-1542300975.jpg"
+  "description": "Zweitägiger Triathlon an der historischen Regattastrecke Oberschleißheim, dem Ruder- und Kanuschauplatz der Olympischen Spiele 1972 vor den Toren Münchens. Am Samstag wird eine Volksdistanz über 400 m Schwimmen, 20 km Rad und 5 km Laufen ausgetragen, die vom Veranstalter ausdrücklich als einsteigerfreundlicher Bewerb (und nicht als Sprintdistanz für Routiniers) angelegt ist. Am Sonntag folgt die Olympische Distanz über 1,5 km Schwimmen, 40 km Rad und 10 km Laufen, jeweils auch als Firmenstaffel. Geschwommen wird im stehenden Gewässer der Regattaanlage, die flache Rad- und Laufstrecke macht den Kurs schnell. Der 3MUC zählt zu den beliebtesten Stadtrand-Triathlons Bayerns.",
+  "distanceKm": 51
 }
