@@ -3,8 +3,7 @@
   "name": "ARBÖ Helvetia Bergpreis Afritz-Verditz",
   "sport": "cycling",
   "categories": [
-    "Berg",
-    "Zeitfahren"
+    "Berg"
   ],
   "country": "AT",
   "dates": {
@@ -18,8 +17,7 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.rc-feldamsee.at/events/arboe-bergrennen-verditz/",
-  "description": "ARBÖ Helvetia Bergpreis Afritz-Verditz in Kärnten: Bergzeitfahren (EZF) 6,2 km / 540 Hm sowie Massenstart 2,1 km / 198 Hm. Teil des Kärnten Sport Jedermannradcups. Veranstalter: RC ARBÖ Feld am See. Kulisse am Feldsee und im Gurktal.",
-  "distanceKm": 6,
-  "elevationGainM": 540,
-  "imageUrl": "https://www.radsport-news.com/files/fotos/1630478392_1_max.jpg"
+  "description": "Der 28. Bergpreis Afritz-Verditz ist ein Bergrennen mit Massenstart über 6,2 km und 540 Höhenmeter auf durchgehend asphaltierter Straße. Gestartet wird bei der Naturoase am Sporthotel Mirnock in Afritz am See, hinauf zur Mittelstation der Liftstation III am Verditz in den Nockbergen. Rennrad und Mountainbike werden getrennt gewertet; der Streckenrekord steht seit 2024 bei 19:33 Minuten (René Pammer). Für den Nachwuchs gibt es kürzere Distanzen über 2,1 km / 198 Hm und 1,1 km / 90 Hm. Das Rennen zählt zugleich zur Kärntner Bergmeisterschaft, zum Kärnten Sport Jedermannradcup und zum ARBÖ Kärnten Sport Nachwuchscup Straße. Veranstalter ist der ARBÖ ASKÖ Raiffeisen Radclub Feld am See; die Strecke ist nicht gesperrt, es gilt die österreichische Straßenverkehrsordnung.",
+  "distanceKm": 6.2,
+  "elevationGainM": 540
 }
