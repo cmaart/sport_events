@@ -2,7 +2,7 @@
   "id": "lhistorica-bad-wimsbach-2026",
   "name": "L'Historica Bad Wimsbach",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": ["RTF"],
   "country": "AT",
   "dates": {
     "start": "2026-08-29",
@@ -15,5 +15,6 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://lhistorica.at/",
-  "description": "L'Historica ist eine nostalgische Genuss-Rad-Trophy rund um die Moorlandschaft Neydharting zwischen Traun und Alm in der oberösterreichischen Voralpenregion. Gefahren wird ausschließlich auf klassischen Stahlrahmen-Rädern im Retro-Outfit; drei Kategorien werden gewertet: Traditional (Waffenrad in Dirndl/Lederhose), Vintage Tweed Style und Classic Racer (Stahl-Rennräder aus den 1970er/80er Jahren). Der Fokus liegt bewusst auf Gemeinschaft und Retro-Ästhetik statt auf Zeitmessung; deshalb veröffentlicht der Veranstalter keine offizielle Streckenlänge oder Höhenmeter. Ausgangspunkt ist Bad Wimsbach-Neydharting mit seinem historischen Moorkurbetrieb; die Route führt über sanft hügelige Landstraßen zwischen Wels und dem Traunsee. Anmeldung und Details unter lhistorica.at."
+  "description": "L'Historica ist eine nostalgische Genuss-Rad-Trophy rund um die Moorlandschaft Neydharting zwischen Traun und Alm in der oberösterreichischen Voralpenregion. Gefahren wird die rund 17 km lange Route mit Start und Ziel am Moorbad Neydharting und drei gemütlichen Labstationen unterwegs, mit Blick auf die Alpen. Zugelassen sind ausschließlich klassische Stahlrahmen-Räder mit Pedalhaken und Lederriemen; Zeitmessung und sportliche Höchstleistung sind bewusst nicht Teil des Konzepts, es zählen Gemeinschaft, Genuss und Retro-Flair. Gewertet werden drei Stil-Kategorien: Traditional (Waffenrad in Dirndl/Lederhose), Vintage Tweed Style und Classic Racer (Stahl-Rennräder der 1970er/80er-Jahre), ergänzt durch Hochräder und Draisinen im Feld. Verpflichtend sind zeittypische Baumwolltrikots und Radkappen. Ausgangspunkt ist Bad Wimsbach-Neydharting mit seinem historischen Moorkurbetrieb. Anmeldung und Details unter lhistorica.at.",
+  "distanceKm": 17
 }

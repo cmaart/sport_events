@@ -17,6 +17,7 @@
   },
   "websiteUrl": "https://romania.letapeseries.com/",
   "imageUrl": "https://romania.letapeseries.com/uploads/blocks/HOME%20PAGE%20PHOTO-ATMOSFERA%20copy.png",
-  "description": "L'Étape Romania by Tour de France – Massenstart-Granfondo auf gesperrten Straßen mitten in Bukarest, Teil der weltweiten L'Étape-Rennserie. Drei Strecken: 85 km / 200 Hm (The Race), 42 km (The Ride) und 14 km (City Adventure). Einziges offizielles Tour-de-France-Jedermannevent in Rumänien.",
-  "distanceKm": 85
+  "description": "L'Étape Romania by Tour de France geht 2026 in seine fünfte Auflage und ist das einzige offizielle Tour-de-France-Jedermannrennen in Rumänien. Gestartet wird mitten in Bukarest am Verfassungsplatz (Piața Constituției), von wo aus die Strecken auf vollständig gesperrten Straßen durch das Zentrum der Hauptstadt führen. Angeboten werden drei Distanzen: „The Race“ über 85 km mit rund 200 Höhenmetern, „The Ride“ über 42 km (ca. 100 Hm) und das „City Adventure“ über 14 km (ca. 50 Hm). Der Start ist gestaffelt – City Adventure um 07:30, The Ride um 08:30 und The Race um 10:00 Uhr. Als Teil der weltweiten L'Étape-Serie von A.S.O. bietet das Event Amateuren die Möglichkeit, im Stil des Tour-de-France-Pelotons durch eine europäische Metropole zu fahren.",
+  "distanceKm": 85,
+  "elevationGainM": 200
 }
