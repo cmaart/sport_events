@@ -21,7 +21,6 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.knappenman.com/",
-  "description": "Sparkassen KnappenMan Triathlon am Dreiweiberner See im Lausitzer Seenland: Langdistanz, Mitteldistanz, Olympische Distanz und Sprint. Das renommierte Mehrdistanz-Triathlon-Festival in Sachsen nutzt die renaturierten Tagebauseen der Lausitz als Kulisse. Einzel- und Staffelstart möglich.",
-  "distanceKm": 226,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/saxe/knappenman-triathon/wkrytjcaqbebhdhzullu"
+  "description": "Der 38. Sparkassen KnappenMan wird am 29./30. August 2026 am Dreiweiberner See bei Lohsa im Lausitzer Seenland ausgetragen und ist eines der ältesten und größten Mehrdistanz-Triathlon-Festivals Ostdeutschlands. Das Programm reicht von der Langdistanz über 3,8 km Schwimmen, 180 km Rad und 42,2 km Laufen über die Mitteldistanz (1,9/90/21,1 km) und die Kurzdistanz/Olympisch (1,5/40/10 km) bis zur Sprintdistanz (0,75/20/5 km) und einer Jedermann-Distanz (0,3/10/3 km). Alle Distanzen sind als Einzelstart oder Staffel buchbar, dazu kommen Juniorenwettbewerbe. Geschwommen wird mit Strand- und Wasserstart im Dreiweiberner See, einem renaturierten ehemaligen Braunkohle-Tagebausee, dessen flache Uferregion und das ebene Umland flotte Radzeiten ermöglichen. Start- und Zielbereich liegen an der Hipos Beachbar am Strand Weißkollm.",
+  "distanceKm": 226
 }
