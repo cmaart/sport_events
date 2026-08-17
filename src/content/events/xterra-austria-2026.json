@@ -18,8 +18,6 @@
     "region": "Steiermark"
   },
   "websiteUrl": "https://www.xterraplanet.com/event/xterra-austria",
-  "description": "XTERRA Austria am Altausseer See im UNESCO-Welterbe Salzkammergut – gleichzeitig Österreichische Crosstriathlon-Meisterschaft (ÖM) 2026. Schwimmen im Altausseer See, anspruchsvolle Mountainbike- und Laufstrecken durch alpines Gelände zwischen Loser und Trisselwand. Drei Distanzen vom Super-Sprint bis zur Vollendistanz an zwei Wettkampftagen.",
-  "distanceKm": 37,
-  "elevationGainM": 1200,
-  "imageUrl": "https://www.trinews.at/wp-content/uploads/2024/10/xterraaustria.jpg"
+  "description": "XTERRA Austria kehrt 2026 zur zweiten Auflage nach der Wiederbelebung an den Altausseer See im UNESCO-Welterbe Salzkammergut zurück und wird am 28./29. August ausgetragen. Auf der Full Distance (1,5 km Schwimmen, 34 km Mountainbike, 11 km Traillauf; gesamt rund 46,5 km) wird zugleich die österreichische Staatsmeisterschaft im Crosstriathlon vergeben. Daneben gibt es die Sprintdistanz (0,75 km / 17 km / 5 km) und die Super-Sprint-Distanz (0,2 km / 6 km / 2 km) sowie einen Kids Run. Geschwommen wird im glasklaren Altausseer See, Start und Ziel liegen im Seepark Altaussee; die neu gelegten Mountainbike- und Laufstrecken führen durch alpines Gelände zwischen Loser und Trisselwand. Der 11 km lange Laufkurs weist rund 300 Höhenmeter auf Trails und schnellen Wegabschnitten auf. Die Sieger der Altersklassen können sich Startplätze für die XTERRA-Weltmeisterschaft 2026 in Ruidoso sichern.",
+  "distanceKm": 47
 }

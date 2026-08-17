@@ -15,8 +15,7 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.wendelsteinrundfahrt.de/",
-  "description": "Wendelsteinrundfahrt im Chiemgau/Inntal (Bayern): vier Strecken – Familienstrecke 50 km/625 Hm, Strecke B 120 km/1.700 Hm, Strecke A 165 km/2.230 Hm und Marathon ~205 km/3.050 Hm. Die genaue Route wird erst eine Woche vor dem Event veröffentlicht. Veranstalter: Ski-Club Au e.V.",
-  "distanceKm": 205,
-  "elevationGainM": 3050,
+  "description": "Die Wendelsteinrundfahrt ist eine traditionsreiche Genuss-Radrundfahrt im Chiemgau und Inntal mit Start und Ziel in Au bei Bad Feilnbach (Bayern), organisiert vom Ski-Club Au e.V. 2026 findet am 22. August die 36. Auflage statt. Angeboten werden vier Distanzen: eine Familienstrecke über 50 km, die Strecke B über 120 km, die Strecke A über 165 km rund um den Chiemgau sowie der Marathon über rund 210 km, der zusätzlich eine große Schleife um Tegernsee, Spitzingsee und Schliersee einschließt. Gefahren wird auf verkehrsarmen Straßen über das Sudelfeld durch den Landkreis Miesbach; der namensgebende Wendelstein prägt die Kulisse. Die genaue Streckenführung inklusive GPX-Dateien wird traditionell erst eine Woche vor der Veranstaltung veröffentlicht. Für 2026 sind die Distanzen 120 km, 165 km und Marathon bereits ausverkauft – Restplätze gibt es nur für die 50-km-Strecke sowie über die Ticketbörse.",
+  "distanceKm": 210,
   "imageUrl": "https://www.wendelsteinrundfahrt.de/fileadmin/daten-wrf/WRF_Bilder_2025/Enge_Auswahl/Wendelsteinrundfahrt_2025-55.jpg"
 }

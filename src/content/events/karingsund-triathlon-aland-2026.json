@@ -3,7 +3,8 @@
   "name": "Käringsund Triathlon",
   "sport": "triathlon",
   "categories": [
-    "Mitteldistanz"
+    "Olympische Distanz",
+    "Sprintdistanz"
   ],
   "country": "FI",
   "dates": {
@@ -16,8 +17,8 @@
     "lat": 60.221,
     "lng": 19.551
   },
-  "websiteUrl": "https://www.karingsund.ax/en/event/karingsund-triathlon-28-29082026",
-  "description": "Käringsund Triathlon in Eckerö (Åland-Inseln, Finnland): 16. Auflage; Mitteldistanz und kürzere Distanzen im Ostsee-Schärengarten der autonomen Åland-Region. Schwimmen in der Ostsee; Rad und Lauf durch die flache Insellandschaft.",
-  "distanceKm": 113,
+  "websiteUrl": "https://www.triathlon.ax/",
+  "description": "Der Käringsund Triathlon in Eckerö auf den Åland-Inseln findet 2026 am 28./29. August in seiner 16. Auflage statt (ausgetragen seit 2009, mit einer Pause 2022–2023). Neu ist 2026 die olympische Distanz mit 1,5 km Schwimmen, 40 km Radfahren und 10 km Laufen (gesamt 51,5 km), die zugleich die längste Strecke des Programms bildet. Zusätzlich werden eine Sprintdistanz (0,75 km / 20 km / 5 km) sowie eine Super-Sprint- und Staffeldistanz (0,2 km / 5 km / 2 km) angeboten. Geschwommen wird in der Ostsee im Schärengarten der autonomen finnischen Region Åland; Rad- und Laufstrecke verlaufen durch die flache Insellandschaft rund um das Fischerdorf Käringsund. Am Freitag stehen die Staffel und die Super-Sprint-Bewerbe auf dem Programm, der Samstag ist den Einzelstarts vorbehalten. Die Veranstaltung versteht sich als breitensportliches Event für alle Alters- und Leistungsklassen.",
+  "distanceKm": 51.5,
   "imageUrl": "https://www.triathlon.ax/sites/default/files/styles/hero_fullwidth_quote/public/2024-12/41509697_1848314848557543_5591786092106874880_n.jpg.webp"
 }

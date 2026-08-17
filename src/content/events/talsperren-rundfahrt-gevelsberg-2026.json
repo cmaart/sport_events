@@ -3,7 +3,8 @@
   "name": "Internationale 16-Talsperren-Rundfahrt",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {
@@ -16,9 +17,8 @@
     "lng": 7.338,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://skiclubgevelsberg.de/",
-  "description": "Die Internationale 16-Talsperren-Rundfahrt des Skiclubs Gevelsberg führt auf 203 Kilometern durch das Sauerland und das Bergische Land, vorbei an bis zu 16 Talsperren. Die Strecke überwindet rund 3.100 Höhenmeter und zählt zu den schwersten Radmarathons in NRW. Fünf Streckenvarianten von 42 bis 203 Kilometern stehen zur Wahl; die Wiehltalsperre mit der sogenannten K-Insel ist ein Strecken-Highlight.",
+  "websiteUrl": "https://skiclub-gevelsberg.de/",
+  "description": "Die 29. Internationale 16-Talsperren-Rundfahrt des Ski-Clubs Gevelsberg 1963 findet am 29. August 2026 statt und führt auf bis zu 203 Kilometern durch das Sauerland und das Bergische Land, vorbei an bis zu 16 Talsperren. Die Marathonstrecke ist mit zahlreichen Anstiegen bis zu 15 Prozent gespickt und zählt zu den anspruchsvollsten Radmarathons in Nordrhein-Westfalen. Insgesamt stehen fünf Streckenvarianten von rund 42 bis 203 Kilometern zur Wahl, dazu eine CTF (Sportalm Tour) für Gravel- und Mountainbikes. Als Radtouristikfahrt (RTF) ohne Zeitnahme wird im eigenen Tempo gefahren; die Marathondistanz zählt zum Radmarathon-Cup Deutschland. Landschaftliches Highlight ist die Wiehltalsperre mit der sogenannten K-Insel, der \"Perle der Natur\", die aus einer bekannten TV-Bierwerbung stammt. Auch die 1893 erbaute Panzertalsperre, eine der ältesten Trinkwassertalsperren Deutschlands, liegt an der Strecke.",
   "distanceKm": 203,
-  "elevationGainM": 3100,
-  "imageUrl": "https://skiclubgevelsberg.de/wp-content/uploads/2026/03/023-Header-Homepage.webp"
+  "imageUrl": "https://skiclub-gevelsberg.de/wp-content/uploads/2026/03/023-Header-Homepage.webp"
 }

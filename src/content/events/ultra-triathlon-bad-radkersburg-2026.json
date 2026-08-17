@@ -8,7 +8,7 @@
   "country": "AT",
   "dates": {
     "start": "2026-08-28",
-    "end": "2026-08-28",
+    "end": "2026-08-30",
     "confirmed": true
   },
   "location": {
@@ -17,9 +17,8 @@
     "lng": 15.9856,
     "region": "Steiermark"
   },
-  "websiteUrl": "https://www.triathlon-austria.at",
-  "description": "Ultra-Langdistanz-Triathlon im südoststeirischen Kurort Bad Radkersburg an der slowenischen Grenze. Spektakuläre Strecke durch die Weinbauregion Südsteiermark. Volle Langdistanz (3,8 km/180 km/42,2 km) mit Ziel im Thermalbad-Ortszentrum. Anspruchsvoller Hügelkurs für erfahrene Ausdauersportler.",
+  "websiteUrl": "https://www.ultratriathlon.at",
+  "description": "Ultra-Triathlon im südoststeirischen Kurort Bad Radkersburg nahe der slowenischen Grenze, ausgetragen als IUTA World Championship über die Triple-Ultra-Distanz. Geschwommen wird im 50-Meter-Freibecken der Parktherme Bad Radkersburg, Rad- und Laufstrecke verlaufen als flache, schnelle Rundkurse am Sportzentrum: eine 10,6 km lange Radschleife und ein exakt 2,1 km langer, überwiegend schattiger Laufkurs. Angeboten werden Single Ultra (3,8/180/42,2 km), Double Ultra und Triple Ultra sowie Double- und Triple-Ultra-Aquabike. Die Teilnehmerfelder sind streng limitiert (40 Startplätze je Ultra-Distanz, 10 je Aquabike-Bewerb), was den familiären Charakter der Veranstaltung prägt. Trotz der extremen Gesamtdistanzen ist der Kurs selbst gänzlich flach – die Herausforderung liegt in der Dauer, nicht im Höhenprofil. Start und Ziel liegen zentral im Ortsgebiet des Thermenorts an der Mur.",
   "distanceKm": 226,
-  "elevationGainM": 2500,
   "imageUrl": "https://www.ultratriathlon.at/wp-content/uploads/2021/08/240924560_167793502131700_7919732727666404658_n-1024x684.jpeg"
 }

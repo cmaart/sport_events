@@ -18,6 +18,7 @@
     "region": "Hamburg"
   },
   "websiteUrl": "https://www.elbetriathlon.de/",
-  "description": "Der Elbe-Triathlon am Wassersportzentrum Hamburg-Allermöhe bietet Olympische Distanz (1,5 km/40 km/10 km) und Sprint (500 m/20 km/5 km) sowie Jugendkategorien. Traditionsveranstaltung des Hamburger Triathlonsports mit Schwimmen im Allermöher See.",
+  "description": "Der Elbe-Triathlon geht 2026 in seine 14. Auflage und findet am Wasserpark Dove-Elbe im Hamburger Stadtteil Allermöhe statt, dem Olympiastützpunkt der Ruderer und Kanuten am Allermöher Deich. Geschwommen wird im ruhigen Wasser der Dove-Elbe, ehe Rad- und Laufstrecke durch die flache Marschlandschaft der Vier- und Marschlande führen. Angeboten werden die Olympische Distanz (1,5 km Schwimmen / 40 km Rad / 10 km Laufen), die Sprint- bzw. Jedermann-Distanz (500 m / 20 km / 5 km) sowie ein Teamsprint für Staffeln aus zwei Frauen und zwei Männern (je 250 m / 7,3 km / 2,3 km) und eigene Jugendkategorien. Als feste Größe im Hamburger Triathlonkalender sind die rund 1.900 Startplätze regelmäßig frühzeitig ausverkauft. Die flache Streckenführung im Naherholungsgebiet macht das Rennen besonders für Einsteiger und Bestzeitjäger attraktiv.",
+  "distanceKm": 51.5,
   "imageUrl": "https://www.elbetriathlon.de/wp-content/uploads/2023/11/elbe_background.jpg"
 }
