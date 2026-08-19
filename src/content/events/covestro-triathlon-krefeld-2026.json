@@ -19,8 +19,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://krefeld05.de",
-  "description": "Triathlonevent in Krefeld am Niederrhein im Erholungsgebiet Elfrather See. Olympische (1,5 km / 38,5 km / 10 km), Sprint und SuperSprint-Distanz auf flachem, gesperrtem Radkurs. Praesentiert von Covestro, einem der groessten deutschen Chemiekonzerne. Anmeldeschluss: 31. Mai 2026.",
-  "distanceKm": 50,
-  "elevationGainM": 150,
+  "description": "Der Covestro Triathlon rund um den Elfrather See ist mit bis zu 1.500 Aktiven und über 5.000 Zuschauern die größte Sportveranstaltung Krefelds und wird bereits seit 1988 ausgetragen; die Ausgabe 2026 steigt am 30. August. Geschwommen wird im Elfrather See, der Radkurs führt über eine vollständig gesperrte, rund 10 km lange Autobahnzubringer-Schleife am Niederrhein, und gelaufen wird auf einem 2,5-km-Rundkurs am Seeufer (4 Runden Olympisch, 2 Runden Volks-, 1 Runde Schnupperdistanz). Angeboten werden Olympische Distanz (1,5/40/10 km), Volkstriathlon (0,5/20/5 km), Schnuppertriathlon (0,2/10/2,5 km), ein Swim & Run für den Nachwuchs sowie Staffeln. Es gelten die Wettkampfregeln der DTU inklusive Helmpflicht und – außer in der NRW-Liga – Windschattenverbot; auf der Olympischen Distanz besteht ein Schwimmlimit von 50 Minuten. Die Anmeldung erfolgt ausschließlich online, die Startgebühren steigen nach dem 31. Mai monatlich.",
+  "distanceKm": 52,
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-dusseldorf/covestro-triathlon/d22b3dtuccl1qptv8mp1"
 }
