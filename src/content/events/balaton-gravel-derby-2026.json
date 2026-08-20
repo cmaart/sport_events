@@ -8,6 +8,7 @@
   "country": "HU",
   "dates": {
     "start": "2026-08-28",
+    "end": "2026-08-30",
     "confirmed": true
   },
   "location": {
@@ -16,7 +17,7 @@
     "lng": 17.5358
   },
   "websiteUrl": "https://balatongravelderby.com/",
-  "description": "Balaton Gravel Derby in Badacsonytomaj: Gravel-Umrundung des Balatons – mit 370 km / 4.000 Hm (Challenge) oder 100 km / 1.200 Hm (Explore). Ungarns längste Gravel-Veranstaltung rund um Zentraleuropas größten See durch Weinberge, Waldwege und Seeufer.",
+  "description": "Gravel-Umrundung des Balaton mit Start und Ziel am Weingut Pátzay Borbirtok in der Weinregion Badacsony am Nordufer. Die Königsdistanz \"Challenge\" führt über 370 km und 4.000 Höhenmeter rund um Zentraleuropas größten See und ist mit einem Zeitlimit von 42 Stunden versehen; wer ohne Limit fahren möchte, wählt die identische \"Adventure\"-Strecke. Für kürzer Entschlossene gibt es die \"Explore\" über 100 km und 1.200 Höhenmeter. Die Route ist überwiegend Off-Road über Schotter, Wald- und Uferwege durch die Weinberge des Balaton-Oberlands; rund 10 % gelten als technisch anspruchsvoll, empfohlen werden Reifen ab 45 mm Breite. Das Teilnehmerfeld ist auf 1.000 Startende limitiert, Challenge und Adventure sind solo oder als Zweierteam fahrbar. Anmeldeschluss ist der 30. Juni 2026 (Early-Bird bis 31. März 2026).",
   "distanceKm": 370,
   "elevationGainM": 4000,
   "imageUrl": "https://balatongravelderby.com/wp-content/uploads/2025/09/Balaton-Gravel-Derby-20.jpg"
