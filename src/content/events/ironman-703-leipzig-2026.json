@@ -18,8 +18,6 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.ironman.com/im703-leipzig",
-  "description": "Premiere des neuen IRONMAN 70.3 Leipzig im Leipziger Neuseenland: 1,9 km Schwimmen im nördlichen Cospudener See, 90 km Radfahren durch den Landkreis Leipzig, 21,1 km Lauf mit Zieleinlauf am Sportforum. Durchschnittstemperaturen von rund 24 °C. General Registration ab Oktober 2025.",
-  "distanceKm": 113,
-  "elevationGainM": 600,
-  "imageUrl": "https://endurance.biz/wp-content/uploads/2025/10/251023_IRONMAN-70.3-Leipzig.jpg"
+  "description": "Der IRONMAN 70.3 Leipzig feiert 2026 seine Premiere im Leipziger Neuseenland und wird neu in den europäischen IRONMAN-Kalender aufgenommen. Auf dem Programm stehen 1,9 km Schwimmen im Cospudener See südlich der Stadt, 90,1 km Radfahren durch das Umland des Landkreises Leipzig und ein abschließender Halbmarathon über 21,1 km mit Zieleinlauf im Stadtgebiet. Der Start erfolgt am frühen Morgen gegen 6:30 Uhr; erwartet werden rund 2.400 Athletinnen und Athleten. Das weitgehend flache Seenland und spätsommerliche Durchschnittstemperaturen um 24 °C machen die Strecke zu einem schnellen Kurs. Als Mitteldistanz der IRONMAN-70.3-Serie vergibt das Rennen Age-Group-Startplätze im offiziellen Wertungssystem.",
+  "distanceKm": 113
 }

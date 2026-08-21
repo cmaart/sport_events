@@ -2,7 +2,7 @@
   "id": "wendelsteinrundfahrt-2026",
   "name": "Wendelsteinrundfahrt",
   "sport": "cycling",
-  "categories": ["Radmarathon"],
+  "categories": ["RTF"],
   "country": "DE",
   "dates": {
     "start": "2026-08-22",
@@ -15,8 +15,7 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.wendelsteinrundfahrt.de/",
-  "description": "Wendelsteinrundfahrt im Chiemgau/Inntal (Bayern): vier Strecken – Familienstrecke 50 km/625 Hm, Strecke B 120 km/1.700 Hm, Strecke A 165 km/2.230 Hm und Marathon ~205 km/3.050 Hm. Die genaue Route wird erst eine Woche vor dem Event veröffentlicht. Veranstalter: Ski-Club Au e.V.",
-  "distanceKm": 205,
-  "elevationGainM": 3050,
+  "description": "Die Wendelsteinrundfahrt (35. Ausgabe 2026) ist eine nicht gewertete Radtourenfahrt ohne Zeitnahme im Chiemgau und Inntal, ausgerichtet vom Ski-Club Au e.V. Angeboten werden vier Distanzen: die Familienstrecke über 50 km, die B-Strecke über 120 km, die A-Strecke über 165 km sowie die Marathonstrecke über 208 km. Die Routen führen über verkehrsarme Straßen rund um den namensgebenden Wendelstein und queren unter anderem das Sudelfeld sowie die Seenregion um Spitzingsee, Schliersee und Tegernsee. Die genaue Streckenführung wird traditionell erst rund eine Woche vor dem Termin veröffentlicht. Die 120-, 165- und Marathonstrecke sind für 2026 bereits ausgebucht (mit Ticketbörse für Absagen), während die 50-km-Strecke ohne Teilnehmerlimit auch vor Ort anmeldbar ist. Da es sich ausdrücklich nicht um ein Rennen handelt, stehen das gesellige Miteinander und die Einhaltung der Straßenverkehrsordnung im Vordergrund.",
+  "distanceKm": 208,
   "imageUrl": "https://www.wendelsteinrundfahrt.de/fileadmin/daten-wrf/WRF_Bilder_2025/Enge_Auswahl/Wendelsteinrundfahrt_2025-55.jpg"
 }

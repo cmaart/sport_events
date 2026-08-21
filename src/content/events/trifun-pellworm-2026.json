@@ -17,8 +17,7 @@
     "lng": 8.6478,
     "region": "Schleswig-Holstein"
   },
-  "websiteUrl": "https://www.triathlondeutschland.de/",
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/schleswig-holstein/trifun-pellworm/jhqfs9lrho1uw9xsdcpb",
-  "description": "Der Trifun Pellworm auf der nordfriesischen Insel Pellworm ist ein einzigartiger Triathlon mit Schwimmen im Wattenmeer. Die besondere Insellage und das Wattenmeer machen diesen Wettbewerb zu einem Erlebnis. 22. Auflage.",
-  "distanceKm": 25
+  "websiteUrl": "https://www.pellworm-trifun.de/",
+  "description": "Der 22. Trifun Pellworm auf der nordfriesischen Nordseeinsel Pellworm ist ein Triathlon der besonderen Art, ausgerichtet vom TSV Pellworm. Geschwommen werden gut 500 Meter direkt in der Nordsee, wo je nach Wetter raue Bedingungen herrschen. Es folgen 20 Kilometer mit dem Rad einmal rund um die Insel, wo der Wind auf den Deichstraßen zum Gegner werden kann, sowie 5 Kilometer Laufen vom Wechselbereich zum Fähranleger und zurück ins Ziel am Hafen. Neben dem Hauptbewerb gibt es einen Schüler- und Familientriathlon über 200 m Schwimmen, 7 km Rad und 2,5 km Laufen sowie eine Staffelwertung. Das Starterfeld ist limitiert und meist frühzeitig ausgebucht; Nachrücker werden über eine Warteliste vergeben. Gestartet wird am Samstag, 29. August, um 14:00 Uhr.",
+  "distanceKm": 25.5
 }

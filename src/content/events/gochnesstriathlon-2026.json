@@ -17,7 +17,6 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "http://www.nesstri.de/",
-  "description": "Der GochNESSTRIathlon am Freizeitbad GochNess in Goch am Niederrhein, mit rund 800 Athleten aus NRW und den Niederlanden. Sprinttriathlon mit Freiwasserschwimmen im GochNess-See, Radkurs durch das Kleverland und Lauf am See. Zuschauer haben freien Eintritt.",
-  "distanceKm": 26,
-  "imageUrl": "https://www.nesstri.de/images/NessTri-20151.jpg"
+  "description": "Der GochNESSTRIathlon am Freizeitbad GochNess in Goch am Niederrhein zieht Athleten aus NRW und den benachbarten Niederlanden an. Der Hauptbewerb (Jedermann und Staffel) umfasst 500 m Freiwasserschwimmen im GochNess-See, 18 km Radfahren durch das flache Kleverland und 5 km Laufen rund um den See. Für Einsteiger gibt es den kürzeren TRY-athlon über 200 m Schwimmen, 10 km Rad und 2,5 km Laufen. Ein umfangreiches Nachwuchsprogramm mit Schüler-, Nachwuchscup- und Schnupperklassen rundet das Angebot ab. Für Zuschauer ist der Eintritt frei.",
+  "distanceKm": 23.5
 }
