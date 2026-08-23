@@ -21,8 +21,6 @@
     "region": "Burgenland"
   },
   "websiteUrl": "https://www.austria-triathlon.at/",
-  "description": "Traditionsreichster Triathlon Österreichs in der 39. Auflage am Neusiedlersee. Vier Distanzen von Sprint bis Langdistanz plus Aquabike und Aquathlon; flache, windige Bedingungen und einzigartige Seeatmosphäre am 4. bis 6. September 2026.",
-  "distanceKm": 226,
-  "elevationGainM": 100,
-  "imageUrl": "https://www.tri2b.com/wp-content/uploads/2025/08/austria_triathlon_frauenpower.jpg"
+  "description": "Ältester und traditionsreichster Triathlon Österreichs, 2026 in der 39. Auflage (erstmals 1988) am Ostufer des Neusiedlersees. Über das Wochenende vom 4. bis 6. September 2026 werden vier Einzeldistanzen ausgetragen – Langdistanz (3,8 km Schwimmen / 180 km Rad / 42,2 km Laufen), Mitteldistanz, Olympische und Sprintdistanz – ergänzt um Aquabike- und Aquathlon-Bewerbe. Der flache, schnelle und mehrrundige Radkurs sowie der berüchtigte, oft stark windige Laufabschnitt prägen das Rennen. Geschwommen wird im seichten, warmen Steppensee, was dem Bewerb seine einzigartige Atmosphäre verleiht. Vermarktet wird das Event unter dem Motto „Fast. Hard. Legendary.“",
+  "distanceKm": 226
 }

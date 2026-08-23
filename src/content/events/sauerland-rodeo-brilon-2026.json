@@ -18,7 +18,6 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://natureholix.de/",
-  "description": "Das Sauerland Rodeo in Brilon ist ein Gravel-Abenteuer mitten im Hochsauerland: 200 km schroffe Schotterwege, verwunschene Waldpfade und rauschende Bäche durch eine der wildesten Mittelgebirgslandschaften Deutschlands. Selbstversorgerprinzip, keine Zeitnahme – pures Erlebnis im Sattel.",
-  "distanceKm": 200,
-  "elevationGainM": 3500
+  "description": "Das Sauerland Rodeo ist ein Gravel-Abenteuer des Kollektivs natureholix mit Start in Brilon im Hochsauerland. Auf rund 200 km führt die Strecke über Schotterwege, Forstpisten und Waldpfade durch eine der waldreichsten Mittelgebirgslandschaften Nordrhein-Westfalens. Das Rodeo folgt dem Selbstversorgerprinzip ohne Verpflegungsstationen und wird ohne Zeitnahme und ohne Wertung ausgetragen – im Vordergrund steht das gemeinsame Erlebnis, nicht das Rennen. Navigation, Verpflegung und Tempo liegen komplett in der Verantwortung der Teilnehmenden.",
+  "distanceKm": 200
 }

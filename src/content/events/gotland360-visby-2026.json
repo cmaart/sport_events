@@ -3,7 +3,7 @@
   "name": "Gotland360",
   "sport": "cycling",
   "categories": [
-    "Gran Fondo"
+    "RTF"
   ],
   "country": "SE",
   "dates": {
@@ -17,7 +17,7 @@
     "lng": 18.2948
   },
   "websiteUrl": "https://gotland360.se",
-  "description": "Gotland360 – dreitägiges Radelevent auf der schwedischen Insel Gotland mit Start und Ziel in Visby. Freie Tagesdistanzwahl: Freitag 80 km (Fårörundan), Samstag 90–200 km, Sonntag 90–160 km. Flache, nahezu autofreie Küstenstraßen durch Kalkstein-Landschaft und mittelalterliche Dörfer. Bis 650 Teilnehmer, nicht-kompetitiv, lokale Verpflegung inklusive.",
+  "description": "Gotland360 ist ein dreitägiges, nicht zeitgemessenes Rad-Motionslopp auf der schwedischen Ostseeinsel Gotland mit Start, Übernachtungen und Ziel in Visby. Am Freitag steht die 80 km lange Fårörundan an, am Samstag stehen 90, 160 oder 200 km und am Sonntag 90, 120 oder 160 km zur Wahl. Aus den Tagesetappen ergeben sich die Pakete Gotland360 (200+160 = 360 km), Gotland280 (160+120 = 280 km) und Gotland180 (90+90 = 180 km). Gefahren wird auf weitgehend flachen, nahezu autofreien Asphaltstraßen entlang der Küste und durch die Kalkstein- und Weidelandschaft des Inselinneren. An gut ausgestatteten Depots gibt es lokale gotländische Spezialitäten regionaler Produzenten. Das Event ist bewusst nicht kompetitiv und richtet sich an Freizeitradlerinnen und -radler jeden Niveaus.",
   "distanceKm": 360,
   "imageUrl": "https://gotland360.se/wp-content/uploads/elementor/thumbs/Gotland360-250913-186-scaled-1-rf9naahu0ekxsngu6j93c20dko9swm56wkjv3uc580.jpg"
 }

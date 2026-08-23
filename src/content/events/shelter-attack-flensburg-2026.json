@@ -18,7 +18,8 @@
     "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://hackenpedder-bikepacking.de/shelter-attack/",
-  "description": "Shelter Attack: Bikepacking-Abenteuer von Flensburg durch Dänemarks Süden entlang der Ostseefjorde und Sanddünen. 600 km (oder 470 km Shortcut) auf Schotter, Sand und Strand. Gruppenstart mit max. 90 Teilnehmern (€115) oder selbstgestützter Individualstart (€45). Organisiert von Hackenpedder Bikepacking.",
+  "description": "Shelter Attack ist ein selbstgestütztes Bikepacking-Abenteuer über vier Tage (3.–6. September 2026) von Flensburg durch Süddänemark – entlang der Ostseefjorde, über endlose Schotterpisten, durch Sanddünen und über Strandabschnitte bis zum höchsten Punkt des Landes. Die Hauptroute misst rund 600 km (Etappen mit 990, 1.090, 390 und 470 Höhenmetern, zusammen ca. 2.940 hm), alternativ gibt es eine 470-km-Kurzvariante. Übernachtet wird im dänischen Shelter-Netz; für den gemeinsamen Start sind rund acht bis zehn Shelter vorgebucht. Zwei Formate stehen zur Wahl: ein gemeinsamer Gruppenstart limitiert auf 90 Plätze (115 €, ermäßigt 85 €, Startplätze paritätisch zwischen Männern und FLINTA aufgeteilt, Anmeldung ab 1. Februar 2026) oder ein jederzeit fahrbarer Individualstart auf eigene Faust (45 €, mit GPX/Roadbook und Brevetkarte). Organisiert wird das nicht-kompetitive Event von Hackenpedder Bikepacking.",
   "distanceKm": 600,
-  "imageUrl": "https://hackenpedder-bikepacking.de/wordpress/wp-content/uploads/2025/01/DSC00249-web2-scaled.jpg"
+  "imageUrl": "https://hackenpedder-bikepacking.de/wordpress/wp-content/uploads/2025/01/DSC00249-web2-scaled.jpg",
+  "elevationGainM": 2940
 }
