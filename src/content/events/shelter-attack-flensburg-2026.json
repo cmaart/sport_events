@@ -3,7 +3,7 @@
   "name": "Shelter Attack",
   "sport": "cycling",
   "categories": [
-    "Gravel"
+    "RTF"
   ],
   "country": "DE",
   "dates": {
@@ -18,7 +18,6 @@
     "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://hackenpedder-bikepacking.de/shelter-attack/",
-  "description": "Shelter Attack: Bikepacking-Abenteuer von Flensburg durch Dänemarks Süden entlang der Ostseefjorde und Sanddünen. 600 km (oder 470 km Shortcut) auf Schotter, Sand und Strand. Gruppenstart mit max. 90 Teilnehmern (€115) oder selbstgestützter Individualstart (€45). Organisiert von Hackenpedder Bikepacking.",
-  "distanceKm": 600,
-  "imageUrl": "https://hackenpedder-bikepacking.de/wordpress/wp-content/uploads/2025/01/DSC00249-web2-scaled.jpg"
+  "description": "Die Shelter Attack ist ein selbstunterstütztes Bikepacking-Abenteuer des Kieler Kollektivs Hackenpedder – ohne Zeitnahme und ohne Wertung. Von Flensburg aus führt die offroad-lastige Route durch den Süden Dänemarks entlang der Ostseefjorde, über endlose Schotterwege, Sanddünen und teils direkt über den Strand bis zum höchsten Punkt des Landes und wieder zurück nach Flensburg. Zur Wahl stehen die volle Distanz über rund 600 km oder ein Shortcut über 470 km, jeweils im Selbstversorgermodus mit Übernachtung in dänischen Sheltern. Der gemeinsame Start findet vom 3. bis 6. September 2026 statt und ist auf 90 Teilnehmer begrenzt (115 €, ermäßigt 85 €); wer lieber allein fährt, kann die Strecke jederzeit selbstständig anhand des Roadbooks in Angriff nehmen (45 €, ermäßigt 35 €). Finisher werden in einer Hall of Fame verewigt – eine sportliche Rangliste gibt es bewusst nicht.",
+  "distanceKm": 600
 }

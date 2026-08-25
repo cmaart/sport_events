@@ -18,8 +18,7 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://www.sauwaldgiro.at/",
-  "description": "Radmarathon im oberösterreichischen Sauwald mit Start und Ziel in St. Roman bei Schärding. Route A (105 km / 1.600 Hm) führt durch die beeindruckende Hügellandschaft zwischen Donauschlucht und Böhmerwald, Route B (61 km / 900 Hm) als kompaktere Variante. Abschlussveranstaltung des Macherhammer Jedermann Rad-Cups 2026.",
+  "description": "Der SauwaldGiro ist ein Radmarathon im oberösterreichischen Sauwald mit Start und Ziel in St. Roman bei Schärding im Innviertel. Zur Wahl stehen die Route A (105 km / 1.600 Hm, Start 8:45 Uhr) durch die markante Hügellandschaft zwischen Donauschlucht und Böhmerwald sowie die kompaktere Route B (61 km / 900 Hm, Start 9:00 Uhr). Gefahren wird auf der Straße; der Wertungsschluss für beide Strecken ist um 13:45 Uhr. Die Startgebühr ist mit 45 bis 65 Euro nach Anmeldezeitpunkt gestaffelt, Nachmeldungen sind am Renntag bis 15 Minuten vor dem Start möglich; im Ziel warten Pasta und ein Getränk auf die Finisher. Der SauwaldGiro bildet zugleich die Abschlussveranstaltung des Macherhammer Jedermann Rad-Cups 2026 und wird vom Team Alpha Radsportteam organisiert.",
   "distanceKm": 105,
-  "elevationGainM": 1600,
-  "imageUrl": "https://www.sauwaldgiro.at/wp-content/uploads/2025/03/1bb66048-luksch.jpg"
+  "elevationGainM": 1600
 }

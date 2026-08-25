@@ -17,7 +17,6 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "http://www.nesstri.de/",
-  "description": "Der GochNESSTRIathlon am Freizeitbad GochNess in Goch am Niederrhein, mit rund 800 Athleten aus NRW und den Niederlanden. Sprinttriathlon mit Freiwasserschwimmen im GochNess-See, Radkurs durch das Kleverland und Lauf am See. Zuschauer haben freien Eintritt.",
-  "distanceKm": 26,
-  "imageUrl": "https://www.nesstri.de/images/NessTri-20151.jpg"
+  "description": "Der GochNESSTRIathlon wird am 30. August 2026 rund um das Freizeitbad GochNess in Goch am Niederrhein ausgetragen und zieht regelmäßig rund 800 Athletinnen und Athleten aus NRW und den benachbarten Niederlanden an. Die Sprintdistanz umfasst 0,5 km Schwimmen im GochNess-See, 18 km Radfahren auf flachem Asphaltkurs durch das Kleverland und 5 km Laufen am See. Für Einsteiger und Nachwuchs gibt es zusätzlich eine Supersprint-Distanz über 0,2 km, 10 km und 2,5 km sowie ein abgestuftes Schüler- und Jugendprogramm von Schüler D bis Junioren. Organisiert wird die Veranstaltung vom TV Goch 1883, gestartet wird klassisch aus dem Wasser mit anschließendem Rad- und Laufkurs auf befestigten Wegen. Für Zuschauer ist der Eintritt frei.",
+  "distanceKm": 23.5
 }

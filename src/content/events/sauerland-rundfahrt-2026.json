@@ -18,8 +18,6 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.sauerlandrundfahrt.de/",
-  "description": "Neue UCI 2.1-Etappenfahrt im Sauerland: vier anspruchsvolle Etappen mit Anstiegen über Hirschberger Wand, Arnsberger Schlossberg und Kahlen Asten/Winterberg. Deutschlands zweites großes Mehrtagesrennen neben der Deutschland Tour, erstmals im internationalen UCI-Kalender 2026.",
-  "distanceKm": 600,
-  "elevationGainM": 8000,
-  "imageUrl": "https://www.sauerlandrundfahrt.de/wp-content/uploads/2019/02/sauerlandrundfahrt-fahrer.webp"
+  "description": "Die Sauerland-Rundfahrt wird 2026 erstmals als viertägiges UCI-Etappenrennen der Kategorie 2.1 ausgetragen (3.–6. September) und ist damit nach der Deutschland Tour Deutschlands zweites internationales Etappenrennen im Straßenradsport. Den Auftakt bildet am 3. September ein 13,5 km langes Einzelzeitfahren rund um Brilon mit Start und Ziel am Marktplatz. Es folgen die Bergetappe von Brilon nach Siedlinghausen (135 km), ein 122 km langer Rundkurs um Wenholthausen und die abschließende Königsetappe von Arnsberg nach Winterberg (133 km) mit Bergankunft auf dem Kahlen Asten. Zu den Schlüsselanstiegen zählen die extrem steile Hirschberger Wand (bis 33 %), der Arnsberger Schlossberg und der Kahle Asten als höchster Berg Nordrhein-Westfalens. Am Schlusstag, dem 6. September, findet parallel ein Jedermannrennen mit Mittel- und Langdistanz statt.",
+  "distanceKm": 404
 }

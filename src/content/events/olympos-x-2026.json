@@ -17,7 +17,6 @@
     "lng": 22.507
   },
   "websiteUrl": "https://triman.gr/olympos-x/",
-  "description": "XTRI-Extrem-Triathlon auf Volldistanz rund um den Olymp in Griechenland. Nachtschwimmen mit Bootsstart (4 km), 191 km Rad mit rund 4.800 Höhenmetern und 40 km Laufen bis in die Höhen des Götterbergs. Veranstalter Triman, Termin 29. August 2026 mit Start am Olympic Beach bei Katerini.",
-  "distanceKm": 235,
-  "elevationGainM": 4800
+  "description": "Der Olympos X ist ein XTRI-Extremtriathlon auf Volldistanz rund um den Olymp, den Sitz der griechischen Götter, und zählt mit Schwierigkeitsgrad 7 von 7 zu den härtesten Ausdauerrennen der XTRI-Familie. Veranstalter Triman schickt die maximal 100 Teilnehmer am 29. August 2026 zunächst zu einem 4 km langen Nachtschwimmen mit Bootsstart in der Ägäis bei Katerini (Olympic Beach). Es folgen 191 km auf dem Rad mit rund 4.800 Höhenmetern hinauf in die Bergwelt des Olymp sowie ein 40 km langer Traillauf mit weiteren etwa 2.250 Höhenmetern. Wie bei XTRI-Rennen üblich ist jeder Athlet auf einen eigenen Supporter mit Begleitfahrzeug angewiesen; alternativ kann ein lokaler Guide samt Fahrzeug für 140 € gebucht werden. Gestartet werden kann einzeln oder als Staffel. Wer die volle Distanz scheut, findet mit dem Olympos X Half (2 km Schwimmen, 92 km Rad, 16 km Lauf) eine Halbdistanz-Variante.",
+  "distanceKm": 235
 }

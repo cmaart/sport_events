@@ -3,7 +3,8 @@
   "name": "Kallinchen Triathlon",
   "sport": "triathlon",
   "categories": [
-    "Sprintdistanz"
+    "Sprintdistanz",
+    "Olympische Distanz"
   ],
   "country": "DE",
   "dates": {
@@ -17,7 +18,5 @@
     "region": "Brandenburg"
   },
   "websiteUrl": "http://kallinchentriathlon.de/",
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/brandebourg/kallinchen-triathlon/vlwzea6wej8tvmtw16ii",
-  "description": "Der Kallinchen Triathlon am Strandbad Kallinchen in Zossen südlich von Berlin, mit ca. 800 Teilnehmern aus Berlin und Brandenburg. Traditionsveranstaltung mit Schwimmen im Kallinchener See, Radkurs und Lauf in der brandenburgischen Seenlandschaft.",
-  "distanceKm": 26
+  "description": "Der Kallinchen Triathlon am Strandbad Kallinchen in Zossen südlich von Berlin wird seit 1989 ausgetragen und zählt zu den traditionsreichsten Triathlons in Brandenburg. Geschwommen wird im Motzener See mit Landstart vom Badestrand, die während des Wettkampfs voll gesperrte Radstrecke führt rund um den See, gelaufen wird auf gesperrten Nebenstraßen in Kallinchen. Angeboten werden eine Supersprintdistanz (0,3/13/2,2 km), die Sprintdistanz (0,75/26/5 km) und die Kurzdistanz (1,5/39/10 km), jeweils als Einzel- und Staffelwettbewerb, dazu Schülerrennen für den Nachwuchs. Für 2026 wurde die Laufstrecke angepasst, um die Vorgaben der DTU für die Sprintdistanz-Qualifikation zu erfüllen. Veranstalter ist der Ausdauerfreunde e.V.; das begehrte Teilnehmerfeld von rund 800 Startern ist für die Ausgabe 2026 bereits komplett ausgebucht und die Online-Meldung geschlossen."
 }

@@ -17,7 +17,6 @@
     "region": "Rheinland-Pfalz"
   },
   "websiteUrl": "https://www.derkleinekarl.de/",
-  "description": "Der Ingelheimer Triathlon in Ingelheim am Rhein im rheinhessischen Weinland. Sprintdistanz: 500 m Schwimmen, 20 km Radfahren, 5 km Laufen. Veranstaltung des Stadtlaufs Der Ingelheimer Halbe, Teil des gleichnamigen Sportfestivals.",
-  "distanceKm": 26,
-  "imageUrl": "https://www.der-ingelheimer-halbe.de/s/cc_images/cache_16606517.png?t=1777991107"
+  "description": "Der Ingelheimer Triathlon \"Der kleine Karl\" geht am 30. August 2026 in seine zweite Auflage, nachdem die Premiere im Mai 2025 den Multisport erstmals nach Ingelheim am Rhein gebracht hatte. Ausgetragen wird eine Sprintdistanz über 0,5 km Schwimmen im Ingelheimer Freibad, 20 km Radfahren durch das rheinhessische Weinland und 5 km Laufen. Start und Zielbereich liegen am Stadion Blumengarten, wo auch die Startnummernausgabe stattfindet. Neben Einzelstartern sind Staffeln sowie Nachwuchskategorien von Jugend A bis D am Start. Veranstalter sind der Ingelheimer Halbe e.V. und der TCEC Mainz e.V., die Eventerfahrung und triathletische Expertise bündeln. Ummeldungen und Stornierungen sind für die 2026er Ausgabe nicht mehr möglich.",
+  "distanceKm": 25.5
 }
