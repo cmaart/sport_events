@@ -3,7 +3,6 @@
   "name": "35. Bergwitztriathlon",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -19,7 +18,6 @@
     "region": "Sachsen-Anhalt"
   },
   "websiteUrl": "https://www.bergwitztriathlon.de/",
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/saxe-anhalt/bergwitztriathlon/agp3eep9l1adevz3hqii",
-  "description": "Der Bergwitztriathlon am Bergwitzsee in Sachsen-Anhalt ist eine der traditionsreichsten Triathlonveranstaltungen Mitteldeutschlands. 35. Auflage mit olympischer Distanz und Sprint im malerischen Seengebiet.",
-  "distanceKm": 51
+  "description": "Der Bergwitztriathlon am Bergwitzsee bei Kemberg (Landkreis Wittenberg) ist eine der traditionsreichsten Triathlonveranstaltungen Sachsen-Anhalts und wird 2026 zum 35. Mal ausgetragen. Geschwommen wird im Bergwitzsee, einem renaturierten ehemaligen Tagebausee; Start und Wechselzone liegen am Textilstrand direkt am Strandweg. Hauptbewerb ist die Sprintdistanz mit 750 m Schwimmen, rund 23 km Radfahren und 5 km Laufen, die zugleich als Landesmeisterschaft Sprint von Sachsen-Anhalt gewertet wird. Daneben gibt es einen kürzeren Jedermann-Triathlon (500 m / 23 km / 5 km), einen Staffelbewerb sowie BergKIDS- und Bambini-Rennen für den Nachwuchs. Das flache bis leicht wellige Radprofil in der Dübener Heide macht die Strecke auch für Einsteiger attraktiv. Ausrichter ist der Verein Triathlonfreunde Wittenberg.",
+  "distanceKm": 28.75
 }
