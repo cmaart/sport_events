@@ -21,8 +21,7 @@
   },
   "websiteUrl": "https://triathlon-mondsee.at",
   "registrationUrl": "https://time2win.at/event/895",
-  "description": "Einer der landschaftlich schönsten Triathlons Österreichs mit Schwimmstrecke im Mondsee und Radrunde durchs Salzkammergut zum Attersee. Sprint, Kurz und Mitteldistanz (110 km), zusätzlich Aquabike und Bike+Run.",
-  "distanceKm": 110,
-  "elevationGainM": 800,
+  "description": "Der ALOHA TRI Mondseeland zählt zu den landschaftlich schönsten Triathlons Österreichs und findet am 6. September 2026 im Salzkammergut statt. Geschwommen wird im klaren Mondsee mit Einstieg beim Almeida-Park und Ausstieg bei der Segelschule Mondsee. Die Radstrecke führt durch das Salzkammergut rund um Mondsee und Attersee, mit Verpflegungsstationen im Attersee-Gebiet. Angeboten werden drei Distanzen: Sprintdistanz (0,75/23/5 km), Kurzdistanz bzw. Olympische Distanz (1,5/36/10 km) und Mitteldistanz (1,9/88/21,1 km). Ergänzend gibt es Aquabike- und Bike+Run-Bewerbe für alle Streckenlängen. Die Laufstrecke verläuft am Mondsee-Ufer und durch das malerische Ortszentrum von Mondsee.",
+  "distanceKm": 111,
   "imageUrl": "https://triathlon-mondsee.at/wp-content/uploads/2024/08/aloha-tri-mondseeland-mitteldistanz.jpg"
 }

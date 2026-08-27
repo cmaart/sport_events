@@ -3,7 +3,6 @@
   "name": "Aquarius-(Wo)Man Löhne",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -17,7 +16,7 @@
     "lng": 8.6965,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://www.aquariusman.de/",
-  "description": "Der Aquarius-(Wo)Man in Löhne (NRW) ist ein bewährter Volkstriathlon am Aquarius-See. Die 29. Auflage bietet Kurzdistanz und Olympische Distanz für Einsteiger und erfahrene Triathleten. Das Sportzentrum Löhne liegt im Herzen des Ravensberger Lands.",
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-detmold/aquarius-wo-man/czf7pj1f7bmyyogwlxdn"
+  "websiteUrl": "https://triathlon-loehne.de/",
+  "description": "Der Aquarius-(Wo)Man in Löhne ist ein bewährter Volkstriathlon des SC Aquarius Löhne im Ravensberger Land (NRW) und geht am 6. September 2026 in seine 29. Auflage. Start, Wechselzone und Ziel liegen am Freibad Löhne, wo auch die Schwimmstrecke im Becken absolviert wird. Der Volkstriathlon umfasst 500 m Schwimmen, 20 km Radfahren und 5 km Laufen und ist damit besonders einsteigerfreundlich; das gleiche Streckenprofil gilt für den Staffelbewerb. Für Nachwuchs und Neulinge gibt es einen Schnupper- bzw. Schülertriathlon. Erstmals wird 2026 der \"Single TripleTri\" ausgetragen, bei dem drei kurze Triathlons (je 200 m Schwimmen, 5 km Rad, 1,5 km Laufen) unmittelbar hintereinander bewältigt werden. Die Teilnehmerzahl ist limitiert, die reguläre Anmeldung läuft bis 30. August 2026.",
+  "distanceKm": 25.5
 }

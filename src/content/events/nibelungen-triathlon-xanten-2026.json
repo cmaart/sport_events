@@ -19,8 +19,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://triathlon-xanten.de",
-  "description": "40. Jubilaeum des Nibelungen-Triathlons in Xanten am Niederrhein. Schwimmen im Xantener Nordsee, einem ehemaligen Baggerloch direkt neben der roemischen Ausgrabungsstaette Colonia Ulpia Traiana. Olympische und Sprint-Distanz mit einzigartiger historisch-archaeologischer Kulisse.",
-  "distanceKm": 52,
-  "elevationGainM": 200,
+  "description": "Der Nibelungen-Triathlon in Xanten am Niederrhein wird am 6. September 2026 vom TuS Xanten in seiner 40. Auflage ausgetragen. Geschwommen wird im See des Freizeitzentrums Xanten (FZX) zwischen Xantener Nord- und Südsee, unweit des römischen Archäologischen Parks Xanten (Colonia Ulpia Traiana). Die Olympische Distanz umfasst 1,5 km Schwimmen (Wendepunktstrecke), 42 km Radfahren und 10 km Laufen; die Sprintdistanz (\"Draxi Distanz\") 0,5 km Schwimmen, 17 km Radfahren und 5 km Laufen. Beide Distanzen werden auch als Staffel angeboten. Die für den öffentlichen Verkehr gesperrte, flache Wendepunkt-Radstrecke am flachen Niederrhein ist windanfällig und zuschauerfreundlich. Die Teilnehmerzahl ist limitiert; sobald das Startlimit erreicht ist, endet die Anmeldung.",
+  "distanceKm": 53.5,
   "imageUrl": "https://www.triathlon-xanten.de/wp-content/uploads/2016/12/HeaderNr3.jpg"
 }
