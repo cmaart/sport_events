@@ -2,7 +2,7 @@
   "id": "landsthalsprint-hainfeld-2026",
   "name": "Landsthalsprint Hainfeld",
   "sport": "cycling",
-  "categories": ["Berg", "Zeitfahren"],
+  "categories": ["Berg"],
   "country": "AT",
   "dates": {
     "start": "2026-08-22",
@@ -14,8 +14,8 @@
     "lng": 15.7689,
     "region": "Niederösterreich"
   },
-  "websiteUrl": "https://urchainfeld.sportunion.at/",
-  "description": "Der Landsthalsprint ist ein kurzer, steiler Bergsprint auf den Kirchenberg oberhalb von Hainfeld in den niederösterreichischen Voralpen. Die Strecke misst 6,1 km und weist 510 Höhenmeter auf; Ziel ist das Wirtshaus Landsthal auf der Anhöhe südlich der Bezirksstadt. Traditionell bildet das Rennen das Saisonfinale des Mucki Alpen Team Cup — die Gesamtsiegerehrung und die Preisverlosung erfolgen direkt im Anschluss beim Wirtshaus. Zugelassen sind Rennrad, MTB und Gravel; ausgetragen wird der Sprint vom URC RAIBA Hainfeld gemeinsam mit dem ULC St. Veit. Teil des ÖRV-Kalenders Niederösterreichs.",
+  "websiteUrl": "https://alpenteamcup.at/landsthalsprint/",
+  "description": "Der Landsthalsprint in Hainfeld (Niederösterreich) – vormals „Kirchenbergrennen“ – ist ein kurzer, steiler Bergsprint auf den Kirchenberg oberhalb der Bezirksstadt. Die Strecke misst rund 6,1 km und weist etwa 510 Höhenmeter auf; gestartet wird am Parkplatz beim Wirtshaus Landsthal, wo im Anschluss auch Siegerehrung und Preisverlosung stattfinden. Ausgetragen wird der Bergsprint als Offroad-/Mountainbike-Rennen – gewertet wird in den Klassen MTB Herren, MTB Damen und E-Bike, eine Rennrad-Klasse gibt es nicht. Das Rennen bildet traditionell das Saisonfinale des „Mucki“ Alpen Team Cups und wird vom URC Hainfeld veranstaltet. Start ist am 22. August 2026 um 16:00 Uhr.",
   "distanceKm": 6,
   "elevationGainM": 510
 }
