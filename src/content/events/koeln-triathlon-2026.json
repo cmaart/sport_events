@@ -1,6 +1,6 @@
 {
   "id": "koeln-triathlon-2026",
-  "name": "6. Köln Triathlon",
+  "name": "5. Köln Triathlon",
   "sport": "triathlon",
   "categories": [
     "Mitteldistanz",
@@ -19,7 +19,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.koeln-triathlon.com/",
-  "description": "Stadttriatlon im Herzen Kölns mit Schwimmen im Rhein, Radfahren an den Rheinufern und Laufen mit Blick auf den Kölner Dom und die Hohenzollernbrücke. Angeboten werden die Mitteldistanz (1,9/90/21 km), Olympische Distanz und Sprintdistanz sowie Staffeln. Das Startzentrum liegt im Rheinauhafen.",
-  "distanceKm": 112,
+  "description": "Der Carglass Köln Triathlon findet 2026 zum fünften Mal in seinem Innenstadt-Format (Premiere 2022) am 6. September statt. Geschwommen wird im Rhein – der Start erfolgt im Deutzer Hafen, danach geht es mit der Strömung durch die Kölner Innenstadt. Die Mitteldistanz misst rund 2,6 km Schwimmen, 87,3 km Rad und 19,0 km Laufen; die olympische Distanz umfasst ca. 2,2 km Schwimmen (davon 2,1 km in Strömung), 45,9 km Rad und 9,4 km Laufen, dazu kommen Sprintdistanz und Staffeln. Rad- und Laufstrecke verlaufen an den Rheinufern über Hohenzollern-, Deutzer- und Severinsbrücke, vorbei am Kölner Dom; Start- und Zielzentrum ist der Rheinauhafen. Triathlon hat in Köln Tradition – bereits 1984 fand am Fühlinger See eine Europameisterschaft statt.",
+  "distanceKm": 109,
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-cologne/carglass-r-koln-triathlon/zr50yo49uew13lh6cfdl"
 }

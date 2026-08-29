@@ -3,7 +3,7 @@
   "name": "Bodensee Radmarathon",
   "sport": "cycling",
   "categories": [
-    "Gran Fondo"
+    "Radmarathon"
   ],
   "country": "AT",
   "dates": {
@@ -18,8 +18,7 @@
     "region": "Vorarlberg"
   },
   "websiteUrl": "https://bodensee-radmarathon.ch",
-  "description": "53. Ausgabe des internationalen Radmarathons rund um den Bodensee durch Deutschland, Österreich und die Schweiz. Vier Strecken von 5 verschiedenen Startorten. Der Kurs umrundet den gesamten Bodensee durch drei Länder - eines der traditionsreichsten Radevents am Bodensee.",
-  "distanceKm": 260,
-  "elevationGainM": 1500,
+  "description": "Der Bodensee Radmarathon steigt 2026 in seiner 53. Ausgabe und wird seit über 50 Jahren ehrenamtlich vom RV Altenrhein (CH) organisiert. Am 12. September 2026 umrunden die Teilnehmenden den gesamten Bodensee durch Deutschland, Österreich und die Schweiz – ein weitgehend flacher, aber langer Uferkurs. Angeboten werden vier Distanzen: Platinum über 300 km, Gold über 220 km, Silber über 150 km und Bronze über 80 km, gestartet von fünf Startorten (Meersburg und Kressbronn in Deutschland, Altenrhein, Tägerwilen und Stein am Rhein in der Schweiz). Am Folgetag, dem 13. September, ergänzt der Saint Gravel Bodensee das Wochenende um Gravel-Touren über 120, 80 und 50 km. Der Klassiker zählt zu den traditionsreichsten Radmarathons der Bodenseeregion.",
+  "distanceKm": 300,
   "imageUrl": "https://bodensee-radmarathon.ch/wp-content/uploads/2024/09/11805_20240907_085348_399575420_original.webp"
 }
