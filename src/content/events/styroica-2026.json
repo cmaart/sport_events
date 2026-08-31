@@ -2,7 +2,7 @@
   "id": "styroica-2026",
   "name": "Styroica",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": ["RTF"],
   "country": "AT",
   "dates": {
     "start": "2026-09-05",
@@ -16,7 +16,7 @@
   },
   "websiteUrl": "https://www.styroica.at/",
   "imageUrl": "https://www.styroica.at/wp-content/uploads/2026/01/PS_5699.jpg",
-  "description": "Styroica in Fehring (Südoststeiermark) – Hommage an den historischen Radsport mit Stahlrädern (Baujahr vor 1990) und zeitgenössischer Kleidung in der Vulkanlandschaft Südoststeiermarks. Drei Strecken: Genussroute (50–60 km/500 Hm), Sportliche Route (110–129 km/1.100 Hm) und Heroische Route (~200 km/2.200 Hm).",
+  "description": "Die Styroica ist eine Vintage-Radrundfahrt im steirischen Thermen- & Vulkanland mit Start und Ziel am Hauptplatz von Fehring; gefahren wird auf klassischen Stahlrennrädern (Baujahr bis ca. 1990) in zeitgenössischer Kleidung, ohne Zeitnahme. Die 11. Ausgabe findet am 5. September 2026 statt und bietet drei Routen: die genussreiche Runde über 58 km (680 Hm) durch Riegersburg und Bad Gleichenberg, die sportliche Runde über 117 km (1.230 Hm) bis Bad Radkersburg und St. Anna mit kurzem Abstecher nach Slowenien sowie die steirisch-heroische Runde über 200 km (2.200 Hm) mit zusätzlicher Schleife entlang des Mur-Radwegs. Die vulkanische Hügellandschaft der Südoststeiermark mit Weingärten, Buschenschänken und Thermenorten prägt den Charakter der Veranstaltung. Verpflegungsstationen im Stil der historischen Vorbilder (etwa der italienischen Eroica) gehören zum Konzept, das als reine Genussfahrt ohne Wettkampfcharakter angelegt ist.",
   "distanceKm": 200,
   "elevationGainM": 2200
 }

@@ -17,7 +17,8 @@
     "lng": 6.855
   },
   "websiteUrl": "https://triathlondegerardmer.com/",
-  "description": "Triathlon de Gérardmer XL am Lac de Gérardmer in den Vogesen: Mitteldistanz 1,9 km / 90 km / 21 km. Herbst-Triathlon in der Berglandschaft der Hautes-Vosges; nicht zu verwechseln mit dem XTERRA Longemer am selben See.",
+  "description": "Der Triathlon de Gérardmer XL wird am 5. September 2026 am Lac de Gérardmer in den Hochvogesen ausgetragen und entspricht der Mitteldistanz (Halbdistanz): 1,9 km Schwimmen, 90 km Rad und 21 km Laufen. Die Radstrecke ist mit rund 1.890 Höhenmetern ausgesprochen bergig und macht den Bewerb zu einem der anspruchsvollsten Herbst-Triathlons Frankreichs; auch die Laufstrecke rund um den See sammelt weitere Höhenmeter. Geschwommen wird im klaren Lac de Gérardmer, umrahmt von den bewaldeten Hängen der Hautes-Vosges. Neben der XL-Distanz gibt es am Wochenende auch eine olympische Distanz (1,5 / 40 / 10 km) und einen Einsteiger-Bewerb (0,5 / 20 / 5 km). Das Event ist nicht mit dem XTERRA am nahen Lac de Longemer zu verwechseln. Ein Rahmenprogramm mit Expo und Pasta-Party ergänzt den Wettkampf.",
   "distanceKm": 113,
+  "elevationGainM": 1890,
   "imageUrl": "https://static.wixstatic.com/media/be79fb_e923ba03a7d143e1b85cb1e1b841b7b7~mv2.webp"
 }
