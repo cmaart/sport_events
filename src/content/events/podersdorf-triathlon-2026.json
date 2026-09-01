@@ -21,8 +21,7 @@
     "region": "Burgenland"
   },
   "websiteUrl": "https://www.austria-triathlon.at/",
-  "description": "Traditionsreichster Triathlon Österreichs in der 39. Auflage am Neusiedlersee. Vier Distanzen von Sprint bis Langdistanz plus Aquabike und Aquathlon; flache, windige Bedingungen und einzigartige Seeatmosphäre am 4. bis 6. September 2026.",
-  "distanceKm": 226,
-  "elevationGainM": 100,
-  "imageUrl": "https://www.tri2b.com/wp-content/uploads/2025/08/austria_triathlon_frauenpower.jpg"
+  "registrationUrl": "https://anmeldung.austria-triathlon.at/",
+  "description": "Der Austria Triathlon in Podersdorf am See am Ostufer des Neusiedlersees ist mit der 39. Auflage 2026 die traditionsreichste Triathlonveranstaltung Österreichs. Herzstück ist am Samstag, 5. September, die Langdistanz über 3,8 km Schwimmen, 180 km Rad und 42,2 km Laufen, ergänzt um die Mitteldistanz (1,9 km / 88 km / 21,1 km), auf der 2026 erstmals die österreichische Staatsmeisterschaft über die Mitteldistanz ausgetragen wird. Am Sonntag, 6. September, folgen die olympische Distanz (1,5 km / 40 km / 10 km) und der Sprint (0,75 km / 24,4 km / 5 km), während am Freitag, 4. September, ein Age-Group- und ein Kids-Aquathlon eröffnen. Zusätzlich stehen Aquabike-Bewerbe über die Lang- und Mitteldistanz im Programm. Das komplett flache, aber notorisch windanfällige Streckenprofil und der berüchtigte \"Hölle\"-Laufabschnitt geben dem Rennen seinen Ruf als \"Fast. Hard. Legendary.\". Für 2026 peilen die Veranstalter mit rund 2.800 Aktiven aus über 39 Nationen ein Rekordstarterfeld an.",
+  "distanceKm": 226
 }

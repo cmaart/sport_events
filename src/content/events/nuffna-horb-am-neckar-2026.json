@@ -18,8 +18,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://nuffna.de/",
-  "description": "NuffNa – selbstgestütztes Gravel-Bikepacking-Event durch den Schwarzwald ab Horb am Neckar. Ca. 500 km und 9.000 Höhenmeter mit vier Checkpoints und freier Routenwahl. Nicht-kompetitiv, eigenes Tempo. Organisiert vom gemeinnützigen Marmorwerk e.V. Start: 4. September 2026 in Horb am Neckar.",
+  "imageUrl": "https://nuffna.de/_image?href=%2F_astro%2Fbb-20250905-DSC06269.DBwhvbtQ.jpg&w=2400&h=1600&q=90&f=webp",
+  "description": "NuffNa – Black Forest Gravel ist ein selbstgestütztes Gravel-Bikepacking-Event, das von Horb am Neckar aus quer durch den Schwarzwald führt. Auf rund 500 km und etwa 9.000 Höhenmetern wählen die Teilnehmenden ihre Route zwischen vier Checkpoints frei – ob möglichst schnell, möglichst schön oder möglichst hart. Das Event versteht sich ausdrücklich als Abenteuer und nicht als Rennen: Statt Preisgeldern gibt es „digital fame“ und Anerkennung. Gestartet wird am 4. September 2026; Renn- oder Gravelbike und vollständige Selbstversorgung sind Voraussetzung. Veranstalter ist der gemeinnützige Marmorwerk e.V. aus Horb, der sonst Kulturprojekte und Festivals für junge Menschen organisiert.",
   "distanceKm": 500,
-  "elevationGainM": 9000,
-  "imageUrl": "https://nuffna.de/_image?href=%2F_astro%2Fbb-20250905-DSC06269.DBwhvbtQ.jpg&w=2400&h=1600&q=90&f=webp"
+  "elevationGainM": 9000
 }

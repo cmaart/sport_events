@@ -17,8 +17,8 @@
     "lng": 18.5984
   },
   "websiteUrl": "https://gfseries.pl/en/",
-  "description": "PZU Gran Fondo Toruń an der Weichsel nahe der Altstadt Toruń (UNESCO-Welterbe): Gran Fondo 114 km / 383 Hm, Medio Fondo 68 km und Family Fondo 27 km. Kopfsteinpflaster-Abschnitte durch die historische Altstadt. Teil der polnischen PZU Gran Fondo Series.",
+  "imageUrl": "https://gfseries.pl/wp-content/uploads/2026/02/torun2026-1.png",
+  "description": "Die PZU Gran Fondo Toruń bildet 2026 den Saisonabschluss der polnischen PZU Gran Fondo Series. Start und Ziel liegen am Bulwar Filadelfijski an der Weichsel, unmittelbar neben der zum UNESCO-Welterbe zählenden Altstadt von Toruń. Angeboten werden drei Distanzen: Gran Fondo über 114 km mit 383 Höhenmetern, Medio Fondo über 68 km und Family Fondo über 27 km; dazu gibt es ein Gran Fondo Kids für den Nachwuchs. Die Strecken führen durch das Weichseltal und das Kulmerland (Ziemia Chełmińska) mit einigen dynamischen Anstiegen und schnellen Abfahrten. Alle Routen sind vollständig für den Autoverkehr gesperrt.",
   "distanceKm": 114,
-  "elevationGainM": 383,
-  "imageUrl": "https://gfseries.pl/wp-content/uploads/2026/02/torun2026-1.png"
+  "elevationGainM": 383
 }

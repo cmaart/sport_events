@@ -19,8 +19,8 @@
     "region": "Berlin"
   },
   "websiteUrl": "https://www.berlin-wo-man.de",
-  "description": "BerlinWoMan – Triathlon-Festival am Strandbad Wannsee in Berlin: Mitteldistanz (2 km Schwimmen im Wannsee, 80 km Radfahren durch den Grunewald mit dem legendären Willi-Anstieg, 20 km Laufen inkl. Schwanenwerder-Umrundung) sowie Sprint-Distanz und AquaBike. Zweitages-Event (Sa Mitteldistanz, So Sprint), Gleichzeitig Berliner Landesmeisterschaften auf der Mitteldistanz; Sprint seit Wochen ausgebucht.",
+  "imageUrl": "https://cdn.prod.website-files.com/687760de305374318ea280b5/68dd4b6bc77494de6f1fc4e1_7cbef0da0f5faa5b5cfa23864acac0e8_Header_1920-520_mittel.avif",
+  "description": "BerlinWoMan ist ein Triathlon-Festival am Strandbad Wannsee in Berlin. Herzstück ist die Mitteldistanz (2 km Schwimmen im Wannsee, 80 km Radfahren, 20 km Laufen), auf der zugleich die Berliner Landesmeisterschaft ausgetragen wird. Nach dem Schwimmstart im Wasser geht es über die berühmten 99 Stufen in die Wechselzone; die Radstrecke verläuft über die Havelchaussee durch den Grunewald mit dem legendären „Willi“-Anstieg zum Grunewaldturm (bis 5,5 %) und der technischen Postfenn-Abfahrt. Die Laufstrecke führt durch den Grunewald mit Zieleinlauf direkt vor dem Strandbad. Das Programm umfasst außerdem eine Sprintdistanz, Mittel- und Sprint-Staffeln, AquaBike sowie den Kinder-Aquathlon MiniWoMan. Das Event findet am 5./6. September 2026 statt; Sprintdistanz und Staffeln sind bereits ausverkauft.",
   "distanceKm": 102,
-  "elevationGainM": 700,
-  "imageUrl": "https://cdn.prod.website-files.com/687760de305374318ea280b5/68dd4b6bc77494de6f1fc4e1_7cbef0da0f5faa5b5cfa23864acac0e8_Header_1920-520_mittel.avif"
+  "elevationGainM": 700
 }

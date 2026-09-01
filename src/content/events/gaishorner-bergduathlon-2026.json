@@ -2,7 +2,9 @@
   "id": "gaishorner-bergduathlon-2026",
   "name": "Gaishorner X-treme Bergduathlon",
   "sport": "triathlon",
-  "categories": ["Duathlon"],
+  "categories": [
+    "Duathlon"
+  ],
   "country": "AT",
   "dates": {
     "start": "2026-09-05",
@@ -14,5 +16,9 @@
     "lng": 14.7567,
     "region": "Steiermark"
   },
-  "description": "Der Gaishorner X-treme Bergduathlon am malerischen Gaishorner See in der steirischen Voralpenlandschaft kombiniert Trailrunning und Mountainbike in alpinem Gelände. Anspruchsvolles Bergprofil mit erheblichem Höhenunterschied im steirischen Ennstal. ÖTRV-lizenzierte Veranstaltung."
+  "websiteUrl": "https://www.x-treme-bergduathlon.at/",
+  "registrationUrl": "https://my.raceresult.com/385085/",
+  "description": "Der X-treme Bergduathlon in Gaishorn am See im steirischen Ennstal kombiniert einen steilen Mountainbike-Anstieg mit einem alpinen Berglauf und wird bereits seit über zwei Jahrzehnten ausgetragen (2023 in der 22. Auflage). Vom Seegelände in Gaishorn geht es über rund 8,2 km und 813 Höhenmeter mit dem Mountainbike hinauf sowie über einen 4 km langen Berglauf mit 215 Höhenmetern zur Mödlinger Hütte, wo sich Wechsel- und Zielbereich befinden. Zusammen sind so etwa 1.028 Höhenmeter zu bewältigen. Zugelassen sind ausschließlich Mountainbikes – Gravelbikes sind ausdrücklich verboten. Der Bewerb kann als Einzelstarter oder im Team absolviert werden und lockt regelmäßig rund 130 Teilnehmer in die Voralpenlandschaft der Eisenerzer Alpen. Traditioneller Ausklang ist die Pasta-Party mit Siegerehrung auf der Terrasse der Mödlinger Hütte.",
+  "distanceKm": 12,
+  "elevationGainM": 1028
 }

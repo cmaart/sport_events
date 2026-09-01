@@ -18,8 +18,8 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.radmarathon.at/termine/detail_event.php?rmlang=de&id=366",
-  "description": "Kärntner Rad Bergkönig in Kraig (Kärnten): Bergzeitfahren 6 km mit 440 Höhenmetern. Teil des Kärnten Sport Jedermannradcups 2026. Einzelstart auf der Bergstrecke, herrliche Aussicht über den Ossiacher See und die Karawanken.",
-  "distanceKm": 6,
-  "elevationGainM": 440,
-  "imageUrl": "https://www.radmarathon.at/gallery/event_pics/366_2012_08_21_07_19_56.jpg"
+  "imageUrl": "https://www.radmarathon.at/gallery/event_pics/366_2012_08_21_07_19_56.jpg",
+  "description": "Der Kärntner Rad Bergkönig ist ein Bergzeitfahren im Einzelstart und findet 2026 in seiner 17. Auflage am 5. September statt. Die 6,4 km lange Strecke führt vom Start beim Kraigersee in der Gemeinde Frauenstein hinauf nach Eggen am Kraigerberg und überwindet dabei 440 Höhenmeter. Der Kraigerberg liegt im hügeligen St. Veiter Land nördlich von Klagenfurt. Rund 150 Starterinnen und Starter werden in mehreren Wertungsklassen für Rennrad, Mountainbike und E-Bike erwartet, dazu gibt es eigene Kinderrennen. Das Rennen ist Teil des Kärnten Sport Jedermannradcups 2026; Veranstalter ist der Verein Multisport Kärnten.",
+  "distanceKm": 6.4,
+  "elevationGainM": 440
 }
