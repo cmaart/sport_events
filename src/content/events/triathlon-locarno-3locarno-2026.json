@@ -19,7 +19,8 @@
     "lng": 8.7961
   },
   "websiteUrl": "https://www.3locarno.ch/",
-  "description": "Der 3Locarno Triathlon am Lago Maggiore in Locarno, Kanton Tessin – seit 1984 einer der ältesten Schweizer Triathlons. Mitteldistanz (70.3), Olympische und Mini-Distanz, Duathlon und Kinder-Triathlon. Gastgeber der Schweizer Meisterschaft auf Mitteldistanz 2026.",
+  "description": "Der 3Locarno Triathlon am Lago Maggiore in Locarno (Tessin) zählt seit 1984 zu den ältesten und traditionsreichsten Triathlons der Schweiz. Geschwommen wird im Lago Maggiore, die Rad- und Laufstrecken führen durch das Locarnese am Nordufer des Sees. Angeboten werden eine Mitteldistanz/70.3 (1,9 km Schwimmen / 90 km Rad mit 530 Höhenmetern / 21 km Laufen), die Olympische Distanz (1,5 / 40 / 10 km, 248 Hm) und eine Mini-/Sprintdistanz (0,5 / 20 / 5,25 km) sowie Duathlon- und Kinderbewerbe. Das Festival erstreckt sich über das Wochenende vom 5. bis 6. September 2026. Mit ihrem bergigen Radkurs oberhalb des Sees ist die Mitteldistanz das anspruchsvollste Format.",
   "distanceKm": 113,
+  "elevationGainM": 530,
   "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f932aac83f6b82dc93f7dc0/2c8944db-e3e5-4678-b635-9d0cc313c997/DL4I0079.jpg"
 }

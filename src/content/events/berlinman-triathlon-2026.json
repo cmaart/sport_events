@@ -19,7 +19,8 @@
     "region": "Berlin"
   },
   "websiteUrl": "https://www.berlin-wo-man.de/",
-  "description": "Das ORIGINAL seit 1992 – BerlinMan & BerlinWoMan Triathlon am Strandbad Wannsee. Sprintdistanz (700 m / 24 km / 5 km) und Mitteldistanz (2,2 km / 90 km / 20 km) mit Schwimmen im Wannsee, Radfahren auf der Havelchaussee und Laufen im Grunewald. Beide Wettbewerbe finden gemeinsam statt; daneben MiniWoMan-Aquathlon für Kinder, Staffel und AquaBike.",
-  "distanceKm": 113,
+  "description": "Der BerlinMan & BerlinWoMan ist ein zweitägiges Triathlon-Festival am Strandbad Wannsee im Südwesten Berlins und wird am 5. und 6. September 2026 ausgetragen. Herzstück ist die Mitteldistanz mit 2 km Schwimmen im Großen Wannsee, 80 km Radfahren mit rund 700 Höhenmetern und 20 km Laufen; gestartet wird am Samstag in Wellen von der markanten Badetreppe des Strandbads. Auf der Radstrecke über die Havelchaussee ist der \"Willi\", der Anstieg Richtung Grunewaldturm mit bis zu 5,5 % Steigung, das prägende Streckenhighlight, ehe die Laufrunde durch den grünen Grunewald zurück zum Strandbad führt. Parallel wird eine Sprintdistanz (750 m Schwimmen, 20 km Rad, 5 km Laufen) gestartet, wobei WoMan- und Man-Bewerbe gemeinsam ausgetragen werden – das Event versteht sich ausdrücklich als frauenförderndes Format. Ergänzt wird das Programm durch einen AquaBike-Bewerb (2 km Schwimmen, 80 km Rad), Staffelformate sowie den Kinder-Aquathlon MiniWoMan. Die Sprintdistanz war für 2026 bereits im Vorfeld ausverkauft. Start, Ziel und Wechselzone liegen kompakt am Strandbad Wannsee, was dem Festival seinen besonderen Charakter gibt.",
+  "distanceKm": 102,
+  "elevationGainM": 700,
   "imageUrl": "https://cdn.prod.website-files.com/687760de305374318ea280b5/6877d720aabe18ed7b5d40c8_Rad_impression.webp"
 }

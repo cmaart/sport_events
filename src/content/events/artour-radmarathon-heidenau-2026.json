@@ -19,8 +19,8 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.artour-rtf.de/",
-  "description": "Traditionsreiche Radsportveranstaltung der Saechsischen Schweiz, Start an der Radrennbahn Heidenau. Tourstrecken 35 bis 100 km sowie Radmarathon 200 km / 3.800 Hm mit Schleife durch die Saechsische Schweiz und ueber das Osterzgebirge bis Altenberg. Regionale Verpflegung an allen Stationen.",
-  "distanceKm": 200,
-  "elevationGainM": 3800,
+  "description": "Die ARTOUR ist eine traditionsreiche RTF- und Radmarathon-Veranstaltung des SSV Heidenau mit Start und Ziel an der Radrennbahn Heidenau am Rand der Sächsischen Schweiz. Angeboten werden vier Distanzen: Tour A über 35 km (450 Hm), Tour B über 70 km (1.100 Hm), Tour C über 115 km (2.150 Hm) sowie der Radmarathon über 215 km mit 3.550 Höhenmetern. Der Radmarathon besteht aus zwei Schleifen – zunächst durch das Osterzgebirge und die Sächsische Schweiz zurück nach Heidenau, anschließend über die Tour-C-Runde via Altenberg und Liebenau. Der Marathon ist Teil des Radmarathon-Cups des Bundes Deutscher Radfahrer. Angemeldet wird ausschließlich online im Zeitraum 10.04. bis 02.09.2026; eine Anmeldung vor Ort ist nicht möglich. An den Kontrollstationen gibt es regionale Verpflegung.",
+  "distanceKm": 215,
+  "elevationGainM": 3550,
   "imageUrl": "https://www.artour-rtf.de/fileadmin/user_upload/artour/Rueckblick/2024/117-293.jpg"
 }

@@ -17,8 +17,7 @@
     "lng": 18.5984
   },
   "websiteUrl": "https://gfseries.pl/en/",
-  "description": "PZU Gran Fondo Toruń an der Weichsel nahe der Altstadt Toruń (UNESCO-Welterbe): Gran Fondo 114 km / 383 Hm, Medio Fondo 68 km und Family Fondo 27 km. Kopfsteinpflaster-Abschnitte durch die historische Altstadt. Teil der polnischen PZU Gran Fondo Series.",
-  "distanceKm": 114,
-  "elevationGainM": 383,
+  "description": "Der PZU Gran Fondo Toruń bildet am 6. September 2026 das Saisonfinale der polnischen PZU Gran Fondo Series (nach Ełk, Poznań und Warszawa). Start und Ziel liegen auf den Bulwary Filadelfijskie direkt an der Weichsel, unterhalb der gotischen Altstadt von Toruń (UNESCO-Welterbe und Geburtsstadt von Nikolaus Kopernikus). Gefahren wird auf komplett gesperrten Straßen; das Terrain im Weichseltal und im Kulmer Land wechselt zwischen schnellen Flachpassagen und einzelnen fordernden Anstiegen. Zur Wahl stehen der Gran Fondo über rund 110 km (Zeitlimit 5 Stunden), der Medio Fondo über rund 68 km (Zeitlimit 4 Stunden) sowie ein Family Fondo über rund 27 km. Alle Gran- und Medio-Fondo-Teilnehmer erhalten das offizielle Renntrikot, das während des Rennens getragen werden muss. Botschafter der Toruń-Ausgabe ist der frühere Sky-/Ineos-Profi und Olympionike Michał Gołaś.",
+  "distanceKm": 110,
   "imageUrl": "https://gfseries.pl/wp-content/uploads/2026/02/torun2026-1.png"
 }

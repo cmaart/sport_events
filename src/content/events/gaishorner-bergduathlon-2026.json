@@ -14,5 +14,8 @@
     "lng": 14.7567,
     "region": "Steiermark"
   },
-  "description": "Der Gaishorner X-treme Bergduathlon am malerischen Gaishorner See in der steirischen Voralpenlandschaft kombiniert Trailrunning und Mountainbike in alpinem Gelände. Anspruchsvolles Bergprofil mit erheblichem Höhenunterschied im steirischen Ennstal. ÖTRV-lizenzierte Veranstaltung."
+  "websiteUrl": "https://www.x-treme-bergduathlon.at/",
+  "description": "Der X-treme Bergduathlon startet an der Freizeitanlage am Gaishorner See im steirischen Ennstal (Bezirk Liezen) und ist ein kompromissloser Bergwettkampf: 8,2 km Mountainbike auf der Mautstraße hinauf zur Mödlingerhütte mit 813 Höhenmetern, anschließend 4,0 km Berglauf von der Mödlingerhütte auf den Spielkogel und zurück mit weiteren 215 Höhenmetern. In Summe rund 12 Kilometer bei gut 1.000 Höhenmetern reiner Bergauf-Anstrengung. Der Radpart führt ausschließlich über Mountainbikes – Gravelbikes sind laut Ausschreibung nicht zugelassen –, der Laufteil verläuft auf alpinem Trail- und Almgelände im Nationalpark-Gesäuse-Umland. Gestartet wird in Wellen (Läufer- bzw. E-Bike- und MTB-Blocks) am Sportplatz. Die Anmeldung schließt am Vortag; die Veranstaltung ist als kleines, familiäres Bergrennen mit direktem Ziel an der Hütte organisiert.",
+  "distanceKm": 12.2,
+  "elevationGainM": 1028
 }
