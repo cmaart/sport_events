@@ -3,7 +3,6 @@
   "name": "Kreissparkassen Triathlon Sindelfingen",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -18,9 +17,7 @@
     "lng": 9.0012,
     "region": "Baden-Württemberg"
   },
-  "websiteUrl": "https://my.raceresult.com/371755",
-  "description": "Triathlonevent in Sindelfingen suedwestlich von Stuttgart, Teil des Stuttgarter REGIOCUP-Serienformats mit elf Events in der Region. Praesentiert von Kreissparkasse, Olympische und Sprint-Distanz im Boeblinger Seengebiet. Familienfreundliche Vereinsveranstaltung in der Industrieregion Stuttgart/Sindelfingen.",
-  "distanceKm": 52,
-  "elevationGainM": 300,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/district-de-stuttgart/sindelfinger-kreissparkassen-triathlon/sorglaf8upyh5rn6msse"
+  "websiteUrl": "https://www.eventservice-stahl.de/veranstaltungen/kreissparkassen-triathlon/",
+  "description": "Der Kreissparkassen Triathlon in Sindelfingen westlich von Stuttgart wird vom Event Service Stahl als Jedermann-, Staffel- und Kindertriathlon ausgerichtet, mit Start und Ziel im Badezentrum Sindelfingen. Die Hauptstrecke umfasst 500 m Schwimmen im Becken des Badezentrums, 17 km Radfahren und 4 km Laufen und ist damit als einsteigerfreundliche Kurzstrecke angelegt. Ergänzt wird das Programm durch einen Staffelwettbewerb sowie mehrere Kinder- und Jugendläufe. Der Wettkampf ist Teil des Triathlon REGIOCUP Stuttgart, einer Serie aus 13 regionalen Veranstaltungen, bei der für die Gesamtwertung mindestens vier Starts (\"4 aus 13\") zählen. Die Startplätze der Ausgabe 2026 waren im Vorfeld bereits ausgebucht.",
+  "distanceKm": 21.5
 }

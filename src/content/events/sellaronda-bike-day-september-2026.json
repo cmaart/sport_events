@@ -3,7 +3,7 @@
   "name": "Sellaronda Bike Day September",
   "sport": "cycling",
   "categories": [
-    "Gran Fondo"
+    "RTF"
   ],
   "country": "IT",
   "dates": {
@@ -15,8 +15,8 @@
     "lat": 46.5496,
     "lng": 11.8732
   },
-  "websiteUrl": "https://www.altabadia.org/de/sommer/sport-aktivitaeten/radsport/sellaronda-bike-day.html",
-  "description": "Sellaronda Bike Day (September-Ausgabe): 53 km Rundstrecke über alle vier Sellapässe (Campolongo, Pordoi, Sella, Gardena) mit 1.600 Hm – vollständig autofrei. Zweite jährliche Ausgabe des Klassikers in den Dolomiten, der für wenige Stunden die Straßen exklusiv für Radfahrer sperrt.",
+  "websiteUrl": "https://www.sellarondabikeday.com",
+  "description": "Der Sellaronda Bike Day feiert 2026 seine 20. Ausgabe und findet wie gewohnt zweimal im Jahr statt – neben dem Junitermin auch am 12. September. An diesem Tag werden die vier großen Dolomitenpässe rund um die Sella-Gruppe für den motorisierten Verkehr gesperrt und gehören von 8:30 bis 16:00 Uhr allein den Radfahrern. Die autofreie Rundstrecke misst 53 Kilometer und summiert rund 1.600 Höhenmeter über die Pässe Campolongo, Pordoi, Sella und Gardena. Es handelt sich um kein Rennen: Die Teilnahme ist kostenlos, ohne Anmeldung und ohne Zeitnahme, gestartet werden kann nach Belieben in Corvara, Wolkenstein, Arabba oder Canazei. Klassischerweise wird die Runde gegen den Uhrzeigersinn gefahren. Das autofreie Erlebnis inmitten des UNESCO-Welterbes Dolomiten macht den Bike Day zu einem der beliebtesten Radtermine der Alpen.",
   "distanceKm": 53,
   "elevationGainM": 1600,
   "imageUrl": "https://www.altabadia.org/images/content/3420173_mobile_0_0_0_0/1920cX1280c/fileadmin/user_upload/Foto/Bike/Sellaronda-Bike-Day/Alta_Badia_passo-Gardena-ciclisti_by_Freddy_Planinschek.jpg"

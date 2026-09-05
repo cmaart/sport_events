@@ -18,7 +18,8 @@
     "lng": 11.1009,
     "region": "Bayern"
   },
-  "websiteUrl": "https://www.ascyclingteam.com/",
-  "description": "Radtourenfahrt im Fuenfseeenland suedwestlich von Muenchen rund um Ammersee, Starnberger See und weitere bayerische Seen mit Ausblicken auf die Zugspitzregion. Strecken 70/100/150 km durch das Alpenvorland. Genussorientiertes Format ohne Zeitdruck.",
-  "distanceKm": 150
+  "websiteUrl": "https://www.ascyclingteam.com/5-seen-rtf-2026/",
+  "description": "Die Fünf-Seen-Rundfahrt feiert am 13. September 2026 ihre Premiere in Dießen am Ammersee, veranstaltet vom AS Cycling Team e.V. Die Radtourenfahrt (RTF) führt durch das oberbayerische Fünfseenland südwestlich von München rund um Ammersee und Starnberger See mit Ausblicken Richtung Zugspitzregion. Drei ausgeschilderte Strecken stehen zur Wahl: 70 km (rund 600 Hm), 100 km (rund 1.000 Hm) und 150 km (rund 1.400 Hm) durch das Alpenvorland. Start und Ziel sind an der Mehrzweckhalle am Baumschulweg in Dießen, gestartet wird im Zeitfenster von 7 bis 10 Uhr. Als klassische RTF gibt es keine Zeitnahme und keine Wertung; unterwegs sorgen Verpflegungsstationen für die Versorgung.",
+  "distanceKm": 150,
+  "elevationGainM": 1400
 }

@@ -18,8 +18,8 @@
     "region": "Vorarlberg"
   },
   "websiteUrl": "https://bodensee-radmarathon.ch",
-  "description": "53. Ausgabe des internationalen Radmarathons rund um den Bodensee durch Deutschland, Österreich und die Schweiz. Vier Strecken von 5 verschiedenen Startorten. Der Kurs umrundet den gesamten Bodensee durch drei Länder - eines der traditionsreichsten Radevents am Bodensee.",
-  "distanceKm": 260,
-  "elevationGainM": 1500,
+  "description": "Der Bodensee-Radmarathon geht 2026 in seine 53. Auflage und zählt zu den traditionsreichsten Radsportveranstaltungen im Dreiländereck. Am 12. September stehen vier Straßenstrecken zur Wahl, die den Bodensee ganz oder teilweise durch Deutschland, Österreich und die Schweiz umrunden: die Platin-Tour über 300 km mit 2.376 Höhenmetern, die Gold-Tour über 220 km (1.575 Hm), die Silber-Tour über 150 km (1.172 Hm) und die flache Bronze-Tour über 80 km (267 Hm). Gestartet wird von fünf Startorten – Meersburg und Kressbronn auf deutscher sowie Altenrhein, Tägerwilen und Stein am Rhein auf Schweizer Seite –, wobei die Startfreigabe zwischen 7:00 und 9:00 Uhr erfolgt und der Zielschluss um 19:00 Uhr liegt. Meldeschluss ist der 22. August 2026; die Startgebühren bewegen sich je nach Strecke zwischen rund 45 und 80 Euro. Ergänzend bietet der Veranstalter am Folgetag, dem 13. September, mit dem Saint Gravel Bodensee drei Gravel-Runden über 50, 80 und 120 km an.",
+  "distanceKm": 300,
+  "elevationGainM": 2376,
   "imageUrl": "https://bodensee-radmarathon.ch/wp-content/uploads/2024/09/11805_20240907_085348_399575420_original.webp"
 }

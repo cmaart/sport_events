@@ -16,8 +16,6 @@
     "lng": -4.7041
   },
   "websiteUrl": "https://www.ironman.com/im-wales",
-  "description": "IRONMAN Wales in der malerischen Küstenstadt Tenby in Pembrokeshire: 3,8 km Schwimmen im Pembrokeshire-Küstenmeer, 180 km welligem Rad durch die walisischen Hügel, anspruchsvoller Marathon mit über 600 Hm. Als einer der schwersten IRONMAN-Kurse Europas für spektakuläre Landschaft und leidenschaftliche Unterstützung bekannt.",
-  "distanceKm": 226,
-  "elevationGainM": 2200,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/royaume-uni/pays-de-galles/pembrokeshire/ironman-pays-de-galles/n7zwgfb7kx1xjeivdvhh"
+  "description": "Der IRONMAN Wales gilt als einer der härtesten und stimmungsvollsten Langdistanz-Triathlons Europas und wird im Küstenstädtchen Tenby in Pembrokeshire ausgetragen. Der Tag beginnt mit 3,8 km Schwimmen in der Carmarthen Bay vor dem North Beach von Tenby, wobei die Athletinnen und Athleten für den charakteristischen \"Australian Exit\" zwischenzeitlich an Land laufen. Es folgen 180 km auf einer welligen, von zahlreichen kurzen Steilrampen und Seitenwinden geprägten Radstrecke durch die Hügel von Pembrokeshire, deren berüchtigtste Anstiege bei Wisemans Bridge und Saundersfoot liegen. Der abschließende Marathon über 42,2 km wird in mehreren Runden mitten durch Tenby gelaufen, wo dichte Zuschauermassen für eine außergewöhnliche Atmosphäre sorgen. Wegen des anspruchsvollen Streckenprofils und des rauen Küstenwetters zählt Wales regelmäßig zu den langsamsten, aber beliebtesten IRONMAN-Kursen und vergibt Qualifikationsslots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
 }

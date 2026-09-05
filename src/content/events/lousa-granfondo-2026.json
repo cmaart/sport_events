@@ -16,8 +16,8 @@
     "lng": -8.2478
   },
   "websiteUrl": "https://cabreirasolutions.com/evento/lousa-granfondo/",
-  "description": "Lousã Granfondo in Lousã (Centro-Portugal, Serra da Lousã): Granfondo (135 km / 2.590 Hm), Mediofondo (97 km / 1.780 Hm) und Minifondo (70 km / 782 Hm) durch Bergwälder und Schieferdörfer der Serra da Lousã. Veranstalter: Cabreira Solutions.",
-  "distanceKm": 135,
-  "elevationGainM": 2590,
+  "description": "Der Lousã Granfondo findet am 13. September 2026 in der Vila Lousã in Zentralportugal statt und führt durch die Bergwelt der Serra da Lousã. Drei Strecken stehen zur Wahl: der Granfondo über 123 km mit 2.690 Höhenmetern, der Mediofondo über 100 km mit 1.950 Hm und der Minifondo über 73,3 km mit 782 Hm. Alle Routen verlaufen durch dichte Bergwälder und passieren mehrere der typischen Schieferdörfer (Aldeias do Xisto) der Region. Die Zeitnahme erfolgt per Chip; entlang der Strecken gibt es Verpflegungsstationen und mechanische Unterstützung. Veranstalter ist Cabreira Solutions.",
+  "distanceKm": 123,
+  "elevationGainM": 2690,
   "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/03/lousa-granfondo.png"
 }

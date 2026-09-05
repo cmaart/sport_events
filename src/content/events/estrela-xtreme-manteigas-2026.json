@@ -8,7 +8,7 @@
   "country": "PT",
   "dates": {
     "start": "2026-09-12",
-    "end": "2026-09-12",
+    "end": "2026-09-13",
     "confirmed": true
   },
   "location": {
@@ -17,7 +17,7 @@
     "lng": -7.535
   },
   "websiteUrl": "https://www.estrelaxtreme.pt/",
-  "description": "XTRI-Extrem-Triathlon im höchsten Gebirge Portugals, der Serra da Estrela. Volldistanz mit 4 km Schwimmen, 105 km Rad (rund 2.600 Höhenmeter) und 41 km Laufen zwischen Manteigas und Gouveia. Rennwochenende 12.–13. September 2026, 2026 bereits ausverkauft.",
-  "distanceKm": 150,
-  "elevationGainM": 2600
+  "description": "Der Estrela Xtreme Triathlon ist ein Extrem-Triathlon (XTRI) im Serra-da-Estrela-Nationalpark, dem höchsten Gebirge des portugiesischen Festlands. Die Volldistanz (XTREME) umfasst 4 km Schwimmen im Vale do Rossim, 190 km Radfahren mit rund 4.700 Höhenmetern sowie 41 km Laufen mit etwa 1.600 Höhenmetern. Die Radstrecke führt über Gouveia, Sabugueiro und den Covão d'Ametade bis zur Torre, mit 1.993 m der höchste Punkt des portugiesischen Festlands. Das Rennwochenende findet am 12. und 13. September 2026 statt; für die Volldistanz ist ein eigenes Begleitteam Pflicht. Neben der Volldistanz werden eine Halbdistanz (2 km / 105 km / 21 km) und eine Starterdistanz (1 km / 53 km / 15 km) angeboten. Alle Distanzen der Ausgabe 2026 sind bereits ausverkauft.",
+  "distanceKm": 235,
+  "elevationGainM": 4700
 }
