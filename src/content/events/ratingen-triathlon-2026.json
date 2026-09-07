@@ -1,6 +1,6 @@
 {
   "id": "ratingen-triathlon-2026",
-  "name": "Stadtwerke Ratingen Triathlon",
+  "name": "18. Stadtwerke Ratingen Triathlon",
   "sport": "triathlon",
   "categories": [
     "Sprintdistanz",
@@ -20,7 +20,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://stadtwerke-ratingen-triathlon.de",
-  "description": "Stadtwerke Ratingen Triathlon mit breitem Distanzangebot von Volks- und Sprintdistanz über Kurztriathlon (1 – 40 – 10 km) bis zur Mitteldistanz. Traditionsveranstaltung im Westen Deutschlands mit Schwimmstart im Freibad.\n\nZusätzliche Kategorien für Jugend, Schüler und Staffeln.",
-  "distanceKm": 76,
+  "description": "Der Stadtwerke Ratingen Triathlon findet 2026 in seiner 18. Auflage am 13. September rund um das Freibad Ratingen-Mitte statt und deckt ein außergewöhnlich breites Distanzspektrum ab. Die Königsdistanz ist die Mitteldistanz über 1,2 km Schwimmen, 60 km Radfahren und 15 km Laufen; darunter reihen sich eine Kurzdistanz (0,8 / 40 / 10 km), ein Volkstriathlon (0,4 / 20 / 5 km) sowie ein Fitnesstriathlon (0,2 / 10 / 2,5 km) ein. Geschwommen wird im Becken des Freibads Ratingen-Mitte. Ergänzt wird das Programm um Schüler- und Jugendwettbewerbe, Familienstaffeln sowie ein Swim-&-Run-Format. Die Veranstaltung zählt zu den etablierten Triathlons im Westen Nordrhein-Westfalens und lockt Aktive vom Einsteiger bis zum ambitionierten Mitteldistanz-Starter an.",
+  "distanceKm": 76.2,
   "imageUrl": "https://stadtwerke-ratingen-triathlon.de/wp-content/uploads/2025/10/webseiten_banner_ratingen_triathlon_2026.jpg"
 }

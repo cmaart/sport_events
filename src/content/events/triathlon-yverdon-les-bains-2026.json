@@ -3,7 +3,6 @@
   "name": "Triathlon d'Yverdon-les-Bains",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "CH",
@@ -18,7 +17,7 @@
     "lng": 6.6413
   },
   "websiteUrl": "https://www.triyverdon.ch/en/home",
-  "description": "Der 14. Triathlon d'Yverdon-les-Bains am Neuenburgersee im Kanton Waadt. Olympische Distanz und Kurzdistanz mit Schwimmen im Lac de Neuchâtel, Radkurs durch die Waadtländer Ebene und Lauf am Seeufer. Gastgeber der Schweizer Elite- und Jugendmeisterschaften Triathlon 2026.",
-  "distanceKm": 52,
+  "description": "Der 14. Triathlon d'Yverdon-les-Bains verbindet 2026 Breiten- und Spitzensport am Südufer des Neuenburgersees im Kanton Waadt. Am Samstag spielt sich das gesamte Geschehen am Strandgelände der Plage d'Yverdon ab – mit der Regio League für den Nachwuchs (Seeschwimmen und Mountainbike-Kurs im Wald) und den Fun Races (200 m Schwimmen, 4,5 km MTB, 1 km Laufen). Am Sonntag folgt das Hauptprogramm mit gesperrter Radstrecke durch die Stadt: die zur Swiss-Triathlon-Serie zählende Triathlon Series (0,75/22,5/5 km) und die kürzere Short Distance (0,4/18/5 km), jeweils als Einzel oder Staffel. Als Höhepunkt trägt Yverdon 2026 die Schweizer Elite- und Nachwuchs-Meisterschaften aus, deren draftlegale National- und Youth-League-Finals im Semifinal/Final-Format über eine Super-Sprint-Distanz (400 m / 9 km / 2,5 km bzw. 250 m / 4,5 km / 1 km) entschieden werden. Geschwommen wird im Lac de Neuchâtel, gelaufen wird flach entlang des Seeufers.",
+  "distanceKm": 28,
   "imageUrl": "https://www.triyverdon.ch/fileadmin/user_upload/home01.jpg"
 }

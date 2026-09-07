@@ -12,13 +12,12 @@
     "confirmed": true
   },
   "location": {
-    "name": "Berlin-Weissensee",
+    "name": "Berlin-Alt-Hohenschönhausen",
     "lat": 52.5558,
     "lng": 13.4644,
     "region": "Berlin"
   },
-  "websiteUrl": "https://pfeffersport.de/",
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/berlin/oranke-open-triathlon/so0kj4sjavdrwwgnwe6m",
-  "description": "Der Oranke Open Triathlon am Orankesee in Berlin-Weissensee steht unter dem Motto Alle konnen Triathlon - ein inklusiver und familienfreundlicher Volkstriathlon. Schwimmen im Orankesee, Radfahren durch Berlin, Laufen rund ums Ufer. 350 Startplaetze, 17. Auflage.",
-  "distanceKm": 25
+  "websiteUrl": "https://pfeffersport.de/verein/events/oranke-open",
+  "description": "Der Oranke Open Triathlon des Vereins Pfeffersport e.V. wird 2026 zum 17. Mal am Strandbad Orankesee in Berlin-Alt-Hohenschönhausen ausgetragen. Unter dem Motto \"Alle können Triathlon\" ist die Veranstaltung ausdrücklich inklusiv und familienfreundlich angelegt: Barrieren für Menschen mit Behinderung werden nach Bedarf abgebaut, und gestartet wird einzeln, im Team oder als Staffel. Die Distanzen sind bewusst kurz gehalten - der Hauptwettbewerb umfasst 0,25 km Schwimmen im Orankesee, rund 3,9 km Radfahren und 1 km Laufen, dazu kommen noch kürzere Einsteiger-, Ragazzi- und Bambini-Formate für die jüngsten Teilnehmenden. Das Teilnehmerfeld ist auf 350 Startplätze begrenzt. Die Zeitnahme erfolgt per Transponder über Berlin-Timing, bei freien Plätzen ist eine Nachmeldung am Wettkampftag bis 60 Minuten vor dem Start möglich.",
+  "distanceKm": 5
 }

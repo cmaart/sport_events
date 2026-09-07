@@ -18,8 +18,8 @@
     "region": "Salzburg"
   },
   "websiteUrl": "https://cityhillclimb.com",
-  "description": "Spektakuläres Bergzeitfahren durch die Salzburger Altstadt auf die Festung Hohensalzburg: 900 m Strecke mit 120 Höhenmeter und bis zu 32 % Steigung. Start am Kapitelplatz, Ziel an der Festung. Einzelstart im Minutenabstand, 13:30–19:00 Uhr. Einzigartiger Schauplatz inmitten des UNESCO-Weltkulturerbes.",
-  "distanceKm": 1,
+  "description": "Der City Hill Climb Salzburg ist ein spektakuläres Bergsprint-Rennen, das am 12. September 2026 in seine sechste Auflage geht. Auf nur 900 Metern von Kapitelplatz in der Altstadt hinauf zur Festung Hohensalzburg sind 120 Höhenmeter zu bewältigen – bei durchschnittlich 15 % und bis zu 32 % Steigung eine reine Kraftprobe. Anders als ein klassisches Einzelzeitfahren wird im K.-o.-Modus gefahren: In direkten Duellen und Ausscheidungsläufen qualifizieren sich die Schnellsten für die nächste Runde, bis die Finalentscheidung fällt. Gegründet vom früheren Tour-de-France-Profi Gerhard Schönbacher, bringt das Format Profis, Amateur:innen, Hobbyfahrer:innen und Nachwuchsklassen an den Start. Die kurze, brutale Rampe inmitten des UNESCO-Weltkulturerbes macht das Rennen ebenso zum Zuschauermagneten wie zur Laktatparty für die Fahrer:innen.",
+  "distanceKm": 0.9,
   "elevationGainM": 120,
   "imageUrl": "https://cityhillclimb.com/wp-content/uploads/2021/07/CHC_s-1511-1024x683.jpg"
 }
