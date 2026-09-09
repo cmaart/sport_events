@@ -19,8 +19,8 @@
     "region": "Hessen"
   },
   "websiteUrl": "https://www.twistesee-triathlon.com/",
-  "description": "Twistesee-Triathlon des VfL Bad Arolsen 1861 im nordhessischen Waldecker Land. Olympische Distanz (1,5/40/10 km) auf coupierter Radstrecke mit rund 700 Höhenmetern, dazu Volks- und Staffeltriathlon (0,5/20/5 km). Gleichzeitig Wertungsrennen der 1. und 2. Hessischen Triathlonliga.",
-  "distanceKm": 51,
+  "description": "Der 42. Bad Arolser Twistesee-Triathlon des VfL Bad Arolsen findet am 13. September 2026 am Twistesee im nordhessischen Waldecker Land statt. Auf der Olympischen Distanz sind 1.500 m Schwimmen, 40 km Rad (zwei Runden à 20 km) und 10 km Laufen zu bewältigen, wobei die coupierte Radstrecke offiziell rund 700 Höhenmeter aufweist. Der Volkstriathlon geht über 500 m Schwimmen, 20 km Rad (eine Runde, ca. 350 Hm) und 5 km Laufen und ist auch als Staffel startbar. Das anspruchsvolle, hügelige Profil hebt die Veranstaltung von flacheren Seentriathlons ab. Gewertet wird zugleich im Rahmen der 1. und 2. Hessischen Triathlonliga.",
+  "distanceKm": 52,
   "elevationGainM": 700,
   "imageUrl": "https://twistesee-triathlon.com/img/2026_lang.png"
 }

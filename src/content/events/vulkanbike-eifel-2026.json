@@ -18,8 +18,8 @@
     "region": "Rheinland-Pfalz"
   },
   "websiteUrl": "https://vulkan.bike",
-  "description": "Gravel- und MTB-Marathon in der Vulkaneifel um Daun in Rheinland-Pfalz mit Streckenvarianten von 38 bis 101 km und 2.400 m Hoehengewinn auf der laengsten Strecke. Typische Eifellandschaft mit Vulkanmaaren, Basalthuegeln und dichten Waeldern auf anspruchsvollen Schotterpassagen. Populaerstes Gravel-Event der Eifelregion.",
+  "description": "Der VulkanBike Eifel-Marathon rund um Daun in der Vulkaneifel ist das populärste Mountainbike-Marathon-Event der Region und zieht rund 2.000 Fahrerinnen und Fahrer aus ganz Europa an. Am 12. September 2026 stehen sechs Streckenvarianten zur Wahl: Ultra-Marathon (101 km / 2.300 Hm), Marathon (90 km / 2.000 Hm), Halb-Marathon (65 km / 1.300 Hm), Sport-Track (38 km / 900 Hm), die GesundLand-Runde (25 km / 550 Hm) sowie eine E-Bike-Challenge über 38 oder 65 km. Die Kurse verlaufen durch den Trailpark Vulkaneifel mit seinen Vulkanmaaren, Basalthügeln und dichten Wäldern auf anspruchsvollen Schotter- und Trailpassagen. Der Ultra-Marathon gilt als Königsdistanz und bietet auf über 2.300 Höhenmetern die gesamte Bandbreite der Eifellandschaft.",
   "distanceKm": 101,
-  "elevationGainM": 2400,
+  "elevationGainM": 2300,
   "imageUrl": "https://www.vulkan.bike/wp-content/uploads/2023/11/Header_VulkanBike_Trailkpark.webp"
 }

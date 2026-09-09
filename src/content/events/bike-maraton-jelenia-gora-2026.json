@@ -11,11 +11,13 @@
     "confirmed": true
   },
   "location": {
-    "name": "Jelenia Góra",
-    "lat": 50.9046,
-    "lng": 15.7216
+    "name": "Jelenia Góra (Cieplice)",
+    "lat": 50.8478,
+    "lng": 15.6944
   },
   "websiteUrl": "https://bikemaraton.com.pl/jelenia-gora/",
-  "description": "Bike Maraton Jelenia Góra – Saisonfinale der Bike Maraton Series 2026 im Riesengebirge (Karkonosze): MTB-Radmarathon rund um Hirschberg/Jelenia Góra mit mehreren Distanzen durch das polnisch-tschechische Grenzgebirge. Streckendetails werden vom Veranstalter noch bekanntgegeben.",
+  "description": "Der Bike Maraton Jelenia Góra ist das große Saisonfinale der polnischen Bike-Maraton-Serie 2026 und findet am Samstag, 12. September, mit Start und Ziel im Kurpark (Park Zdrojowy) im Stadtteil Cieplice statt. Die anspruchsvollen MTB-Strecken führen durch das Riesengebirge (Karkonosze) im polnisch-tschechischen Grenzgebirge. Angeboten werden vier Distanzen: GIGA über 81 km mit rund 2.170 Höhenmetern, MEGA über 57 km mit rund 1.410 Hm, CLASSIC über 30 km mit rund 630 Hm sowie FUN über 20 km mit rund 420 Hm. Dazu kommen E-Bike-Varianten (FUN 20 km und MEGA 57 km) sowie ein Bike-Maraton-Kids-Programm für den Nachwuchs. Der erste Startblock rollt um 10:00 Uhr los; im Zielbereich warten Verpflegung und eine Pasta-Party. Als letzter Lauf entscheidet Jelenia Góra über die Gesamtwertungen der Serie.",
+  "distanceKm": 81,
+  "elevationGainM": 2170,
   "imageUrl": "https://bikemaraton.com.pl/wp-content/uploads/2022/01/jelenia.jpg"
 }

@@ -17,7 +17,8 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.bootshaus-gravel.de",
-  "description": "5. Bootshaus Gravel Bonn (Königswinter-Oberkassel, NRW) mit Start und Ziel am Bootshaus OWV Oberkassel am Rhein. Hauptrenntag Samstag 12.09.: Bootshaus Gravel Ride 100 und 60 km durch Siebengebirge und Eifelausläufer sowie Bootshaus Gravel Family 28 km/350 Hm (Abkürzung 24 km/300 Hm). Bootshaus Gravel Ultra am Vortag Freitag 11.09.: 400 km/6.500 Hm im Selbstversorgungsmodus mit vorgegebenen Checkpoints in der Eifel — 2. Ausgabe nach der Premiere 2025, bei der neun Fahrer die Strecke bewältigt haben. Etabliertes Rheinland-Gravelevent seit 2021.",
-  "distanceKm": 100,
+  "description": "5. Bootshaus Gravel Bonn mit Start und Ziel am Bootshaus des OWV Oberkassel am Rhein (Königswinter-Oberkassel, NRW). Am Hauptrenntag Samstag, 12.09.2026, stehen der Bootshaus Gravel Ride 100 (104 km / rund 1.800 Hm), der Ride 60 (66,6 km / rund 900 Hm) sowie der familientaugliche Bootshaus Gravel Family (28 km / rund 350 Hm) zur Wahl. Die Strecken führen über das Siebengebirge nach Süden und über Westerwald, Sieg und Wahnbachtalsperre zurück. Am Vortag, Freitag 11.09.2026, startet um 7:00 Uhr die 2. Ausgabe des Bootshaus Gravel Ultra: rund 400 km und etwa 7.000 Hm quer durch die Eifel im Selbstversorgungsmodus, unmarkiert per GPX-Track, mit Trophäen in Gold (unter 24 h), Silber (unter 36 h) und Bronze für alle Finisher. Etabliertes Rheinland-Gravelevent seit 2021.",
+  "distanceKm": 104,
+  "elevationGainM": 1800,
   "imageUrl": "https://www.bootshaus-gravel.de/wp-content/uploads/2025/05/cropped-header_clean.jpg"
 }

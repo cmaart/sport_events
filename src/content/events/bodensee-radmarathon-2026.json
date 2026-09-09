@@ -5,21 +5,20 @@
   "categories": [
     "Gran Fondo"
   ],
-  "country": "AT",
+  "country": "CH",
   "dates": {
     "start": "2026-09-12",
     "end": "2026-09-12",
     "confirmed": true
   },
   "location": {
-    "name": "Bregenz",
-    "lat": 47.5031,
-    "lng": 9.7471,
-    "region": "Vorarlberg"
+    "name": "Altenrhein",
+    "lat": 47.4917,
+    "lng": 9.5656
   },
   "websiteUrl": "https://bodensee-radmarathon.ch",
-  "description": "53. Ausgabe des internationalen Radmarathons rund um den Bodensee durch Deutschland, Österreich und die Schweiz. Vier Strecken von 5 verschiedenen Startorten. Der Kurs umrundet den gesamten Bodensee durch drei Länder - eines der traditionsreichsten Radevents am Bodensee.",
-  "distanceKm": 260,
-  "elevationGainM": 1500,
+  "description": "Der Bodensee-Radmarathon geht 2026 am Samstag, 12. September, in seine 53. Auflage und umrundet als eines der traditionsreichsten Radevents der Region den gesamten Bodensee durch drei Länder (Schweiz, Deutschland, Österreich). Angeboten werden vier Rennradstrecken von fünf Startorten – Altenrhein (CH), Tägerwilen (CH), Stein am Rhein (CH), Meersburg (DE) und Kressbronn (DE): die Platin-Tour über rund 300 km mit etwa 2.376 Hm über Ober-, Unter- und Überlinger See, die Gold-Tour über rund 220 km / 1.575 Hm, die Silber-Tour über rund 150 km / 1.172 Hm und die Bronze-Tour über 80 km / 267 Hm. Die Platin-Fahrer nehmen die komplette Seenumrundung inklusive Untersee und Überlinger See unter die Räder. Erstmals gibt es 2026 einen eigenen Gravel-Tag am Sonntag, 13. September, mit zwei Gravel-Strecken (80/50 km). Der Marathon gilt seit über 50 Jahren als Höhepunkt des Radsommers am Bodensee.",
+  "distanceKm": 300,
+  "elevationGainM": 2376,
   "imageUrl": "https://bodensee-radmarathon.ch/wp-content/uploads/2024/09/11805_20240907_085348_399575420_original.webp"
 }

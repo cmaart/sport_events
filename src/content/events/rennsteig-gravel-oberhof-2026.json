@@ -18,6 +18,8 @@
     "region": "Thüringen"
   },
   "websiteUrl": "https://germangravelleague.de/",
-  "description": "Rennsteig Gravel in Oberhof im Thüringer Wald — dreitägige Gravel-Veranstaltung als Teil der German Gravel League 2026. Freitag Gravel-Biathlon, Samstag das Hauptrennen (Jedermann-Wettkampf), Sonntag Gravel-Tour auf dem berühmten Rennsteig-Höhenweg. Drei Wettkampfklassen: PRO (ca. 4 h Herren, 3,5 h Damen), AGEGROUP (ca. 3 h mit Altersklassenwertung) und OPEN (ca. 2 h Hobby- und ambitionierte Fahrer ohne Lizenz). Zeitnahme über zpn-timing.de; gestaffelte Startgebühren (Frühbucher vergünstigt). Veranstalter: gravelmania.",
+  "description": "Das Rennsteig Gravel in Oberhof im Thüringer Wald bildet das Finale der German Gravel League 2026 (Lauf #5) und findet als dreitägiges Event vom 11. bis 13. September statt. Herzstück ist das Hauptrennen am Samstag, 12. September, auf einer 26-km-Runde mit rund 450 Höhenmetern pro Runde, die durch das Biathlon-Stadion Oberhof führt (rund 70 % Schotter, 20 % Asphalt, 10 % Waldwege). Die PRO-Herren fahren fünf Runden (130 km / ~2.250 Hm), die PRO-Damen vier Runden (104 km / ~1.800 Hm); die AGEGROUP-Klassen absolvieren je nach Altersklasse vier Runden (104 km) oder drei Runden (78 km / ~1.350 Hm). Für Hobbyfahrer gibt es die OPEN-Klasse über zwei Runden (52 km / ~900 Hm) sowie einen Einsteiger-Lauf über eine Runde (25 km). Rahmenprogramm sind ein Gravel-Biathlon am Freitag und eine geführte Gravel-Tour auf dem berühmten Rennsteig-Höhenweg am Sonntag. Zeitnahme über zpn-timing; Veranstalter ist Gute Laune Sport e.V. / gravelmania.",
+  "distanceKm": 130,
+  "elevationGainM": 2250,
   "imageUrl": "https://www.radsport-sah.de/wp-content/uploads/2026/04/2026_German-Grave-League_Header.jpg"
 }

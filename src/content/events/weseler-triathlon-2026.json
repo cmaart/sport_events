@@ -18,9 +18,8 @@
     "lng": 6.6155,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://finishers.com/event/weseler-sparkassen-triathlon",
-  "description": "15. Weseler Sparkassen Triathlon am Niederrhein mit Schwimmen im Auesee, Radstrecke durch das Niederrheinische Tiefland und Laufkurs entlang des Rheindeichs. Olympische und Sprint-Distanz in der Hansestadt Wesel mit familiaerer Vereinsatmosphaere.",
-  "distanceKm": 52,
-  "elevationGainM": 150,
+  "websiteUrl": "https://www.triathlon-wesel.de/",
+  "description": "Der 15. Weseler Sparkassen Triathlon findet am 12. September 2026 am Auesee in der Hansestadt Wesel am Niederrhein statt, ausgerichtet vom Triathlon Wesel. Geschwommen wird im Auesee, die Radstrecke führt durch das flache Niederrheinische Tiefland und der Laufkurs verläuft entlang des Ufers. Die Kurzdistanz umfasst 1.500 m Schwimmen, 41,1 km Rad (drei Runden à 13,7 km) und 10 km Laufen, die Volksdistanz 500 m Schwimmen, 23 km Rad (zwei Runden à 11,5 km) und 5 km Laufen. Für Nachwuchsathleten gibt es zusätzlich eine Schüler-/Jugendwertung (250 m / 9,6 km / 2,5 km), außerdem ist ein Start als Dreier-Staffel möglich. Die Radstrecke wurde für 2026 wegen einer Baustelle neu trassiert.",
+  "distanceKm": 53,
   "imageUrl": "https://triathlon-wesel.de/images/SliderW/SliderW2.png"
 }

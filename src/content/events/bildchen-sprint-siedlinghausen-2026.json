@@ -19,8 +19,7 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.bildchen-sprint.de",
-  "description": "Bildchen-Sprint – Einzelbergzeitfahren am Bildchen-Berg in Siedlinghausen (Sauerland, NRW): 7,4 km mit 210 Höhenmetern. Jedermann-Bergzeitfahren des SC Siedlinghausen mit Altersklassenwertungen. Eine der traditionsreichen Bergzeitfahren-Veranstaltungen in Westdeutschland.",
-  "distanceKm": 7,
-  "elevationGainM": 210,
-  "imageUrl": "https://radsportverband-nrw.de/wp-content/uploads/2022/06/Unknown-2.jpeg"
+  "description": "Der Bildchen-Sprint ist ein traditionelles Einzelbergzeitfahren des Ski-Clubs Siedlinghausen im Hochsauerland (NRW). Auf 7,4 km sind 210 Höhenmeter zu bewältigen (Durchschnittssteigung rund 3 %, mit steileren Rampen) hinauf zum Bildchen. Gestartet wird im Einzelzeitfahr-Modus in festen Zeitabständen; gewertet wird in zahlreichen Altersklassen für Damen und Herren, vom Jugend- bis zum Seniorenbereich. Die Veranstaltung zählt zu den etablierten Bergzeitfahren Westdeutschlands und lockt Jahr für Jahr Fahrer an, die sich an der Streckenbestmarke versuchen. Ausgetragen wird der Sprint traditionell an einem Samstag Anfang September rund um Siedlinghausen, einen Ortsteil von Winterberg.",
+  "distanceKm": 7.4,
+  "elevationGainM": 210
 }
