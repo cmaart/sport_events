@@ -1,6 +1,6 @@
 {
   "id": "gran-fondo-prosecco-2026",
-  "name": "Gran Fondo Prosecco",
+  "name": "Prosecco Cycling",
   "sport": "cycling",
   "categories": [
     "Gran Fondo"
@@ -15,9 +15,9 @@
     "lat": 45.8978,
     "lng": 12.0027
   },
-  "websiteUrl": "https://www.granfondoprosecco.it/",
-  "description": "22. Gran Fondo Prosecco in den UNESCO-Welterbe-Proseccohügeln des Veneto: Lange Strecke 130 km/3.200 Hm durch die hügeligen Weinberge zwischen Valdobbiadene und Conegliano; Kurze Strecke 80 km/1.500 Hm. UCI-Gran-Fondo-Qualifikationsrennen mit internationalem Starterfeld.",
-  "distanceKm": 130,
-  "elevationGainM": 3200,
+  "websiteUrl": "https://www.proseccocycling.it/en/",
+  "description": "Die Prosecco Cycling (auch als Gran Fondo Prosecco bekannt) findet in ihrer 22. Ausgabe am 27. September 2026 mit Start und Ziel auf der Piazza Marconi in Valdobbiadene statt. Der Rundkurs über rund 100 km und etwa 1.510 Höhenmeter durchquert auf verkehrsfreien Straßen alle Gemeinden des UNESCO-Welterbes der Prosecco-Hügel zwischen Conegliano und Valdobbiadene. Anders als bei einem klassischen Rennen wird nicht die Gesamtzeit gewertet: Gestoppt wird nur auf drei Bergsegmenten – Via Busi, dem berüchtigten Muro di Ca' del Poggio und Collalto –, deren addierte Zeiten die Einzelwertung ergeben. Rund 2.750 Teilnehmerinnen und Teilnehmer erwartet damit ein saisonabschließendes Gourmet-Gran-Fondo, bei dem an den Verpflegungsstationen statt Bananen regionale Spezialitäten und Prosecco gereicht werden. Die welligen Weinberge, engen Mauern und kurzen, steilen Anstiege machen die Strecke landschaftlich wie sportlich zu einem der markantesten Herbst-Events im Veneto.",
+  "distanceKm": 100,
+  "elevationGainM": 1510,
   "imageUrl": "https://www.proseccocycling.it/wp-content/uploads/en_colline_2027.webp"
 }

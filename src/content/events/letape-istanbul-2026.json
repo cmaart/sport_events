@@ -16,7 +16,8 @@
     "lng": 28.9784
   },
   "websiteUrl": "https://www.letapeseries.com/",
-  "description": "L'Étape Istanbul by Tour de France – 3. Auflage des ASO-Jedermann-Rennens in der Weltstadt am Bosporus: Lange Strecke (109 km) und kurze Strecke (59 km) über die Bosporusbrücke von der asiatischen in die europäische Seite Istanbuls. Teil der offiziellen globalen L'Étape-Series von Tour de France-Veranstalter ASO.",
-  "distanceKm": 109,
+  "description": "L'Étape Türkiye by Tour de France ist 2026 in ihrer 3. Auflage (Premiere 2024) die Istanbuler Ausgabe der weltweiten L'Étape-Jedermann-Serie von Tour-de-France-Veranstalter ASO. Am 20. September führt die lange Strecke über rund 102 km mit 1.477 Höhenmetern über die Bosporus-Brücke von der asiatischen auf die europäische Seite der Metropole – eine Route, die zwei Kontinente verbindet. Zusätzlich stehen kürzere Distanzen bis hin zur Familienrunde zur Wahl. Wie bei allen L'Étape-Events erwartet die Teilnehmenden ganz oder teilweise gesperrte Straßen, Verpflegungszonen etwa alle 25 km, mechanischer Support und das Tour-de-France-Race-Village. Die 2024 gestartete Veranstaltung zog von Beginn an Tausende Radsportler aus über 50 Nationen an.",
+  "distanceKm": 102,
+  "elevationGainM": 1477,
   "imageUrl": "https://www.letapeseries.com/uploads/licensee/gallery/2025/10/16/celik-sinan-l-e-tape-tu-rkiye-by-tour-de-france-25-19-2_original_original.jpg"
 }

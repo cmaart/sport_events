@@ -17,7 +17,8 @@
     "lng": 4.363
   },
   "websiteUrl": "https://www.openlakes.eu/openlakesbelgiumhalf",
-  "description": "OpenLakes Belgium Half bei den Lacs de l'Eau d'Heure in Boussu-lez-Walcourt: Belgische Mitteldistanz-Meisterschaft 1,9 km / 92 km + 900 Hm / 21 km. Schwimmen in den Stauseen der wallonischen Ardennen; anspruchsvolle Radstrecke durch die Namurois-Hügel.",
+  "description": "Die OpenLakes Belgium Half findet am 19. und 20. September 2026 an den Lacs de l'Eau d'Heure statt, dem größten Seengebiet Belgiens bei Boussu-lez-Walcourt in der wallonischen Provinz Hainaut. 2026 trägt das Rennen zugleich die belgische Meisterschaft über die Mitteldistanz aus (Championnat de Belgique Half Distance). Geschwommen werden 1,9 km in den Stauseen der Ardennenausläufer, gefolgt von 92 km Rad über zwei Runden mit je rund 450 Höhenmetern – zusammen etwa 900 Hm durch die wellige Namurois-Landschaft. Den Abschluss bildet ein Halbmarathon über 21,1 km rund um die Seen. Das Feld der Meisterschaftswertung ist auf 400 Startplätze limitiert. Die Veranstaltung gehört zur OpenLakes-Serie und verbindet ein anspruchsvolles, kupiertes Radprofil mit landschaftlich reizvollem Freiwasserschwimmen.",
   "distanceKm": 115,
+  "elevationGainM": 900,
   "imageUrl": "https://www.openlakes.eu/web/image/120342-23f8524b/OL_Belgium.webp"
 }

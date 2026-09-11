@@ -17,8 +17,8 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.allgaeu-gravel-rallye.de/",
-  "description": "Gravel-Event im bayerisch-allgaeuer Alpenvorland rund um das Walsertal-Gebiet bei Pfronten im Ostallgaeu. Unbefestigte Waldwege und Schotterpisten durch die suedlichsten Alpenauslaeufern Bayerns nahe der oesterreichischen Grenze. Spektakulaere Bergkulisse mit Zugspitzmassiv und den Ammergauer Alpen als Kulisse.",
-  "distanceKm": 80,
-  "elevationGainM": 1800,
+  "description": "Gravel-Ausfahrt rund um Pfronten im Ostallgäu, als 5-Seen-Tour durch das grenznahe Alpenvorland zwischen Allgäuer Alpen und Tannheimer Bergen. Alle Teilnehmenden fahren gemeinsam bis Kilometer 63 am Plansee, wo drei Streckenvarianten zur Wahl stehen: die verkürzte Runde mit 90 km und 1000 Höhenmetern, die Standard-Strecke mit 106 km und 1900 Höhenmetern sowie die verlängerte Variante mit 125 km und 2600 Höhenmetern, die einen zusätzlichen Anstieg zur Füssener Hütte einschließt. Die Routen verlaufen fast durchgehend auf gut befahrbaren Schotterwegen mit moderaten Anstiegen und sind ideal für Gravelbikes (empfohlen 36 mm+ Reifen); MTBs sind ebenfalls erlaubt. Die Teilnahmegebühr von 25 € umfasst einen Verpflegungsstopp auf der Tour sowie ein Getränk und einen Snack im Café Sport in Pfronten. Jede teilnehmende Person benötigt eine eigene Anmeldung, da für die begleitende Strava-Challenge eine Altersverifikation nötig ist.",
+  "distanceKm": 125,
+  "elevationGainM": 2600,
   "imageUrl": "https://images.squarespace-cdn.com/content/v1/68456b5d5550a63d2409f074/1765451258089-JDFXU8P4GZEYJ0UF7MF0/Allg%C3%A4u+Gravel+Rallye+Start+3.jpg"
 }

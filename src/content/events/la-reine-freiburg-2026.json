@@ -17,8 +17,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.lareine.cc/",
-  "description": "La Reine – Strictly Female Cycling Festival an der Badischen Weinstraße (Schwarzwald): Ausschließlich für Frauen, Strecken 135 km oder 89 km durch Weinberge und Vorberge des Schwarzwalds. Ziel und Finisher-Party auf dem Freiburger Schlossberg. Weltgrößtes reines Frauen-Straßenradrennen.",
-  "distanceKm": 135,
+  "description": "La Reine ist ein ausschließlich Frauen vorbehaltenes Gran-Fondo-Festival, das am 25. und 26. September 2026 in Freiburg im Breisgau Station macht. Auf der Badischen Weinstraße stehen zwei Distanzen zur Wahl: der Gran Fondo über 170 km mit rund 2.000 Höhenmetern und der Medio Fondo über 100 km mit etwa 1.200 Höhenmetern. Die Strecken führen durch die Weinberge des Markgräflerlands und des Kaiserstuhls sowie über die Vorberge des Schwarzwalds mit langen, ruhigen Straßen und weiten Ausblicken. Start und Ziel liegen im Herzen Freiburgs; die Finisher-Party findet am Münsterplatz statt. La Reine versteht sich als weltgrößtes reines Frauen-Straßenradevent und verbindet sportliche Herausforderung mit Community, Kulinarik und Festivalcharakter.",
+  "distanceKm": 170,
   "elevationGainM": 2000,
   "imageUrl": "https://static.wixstatic.com/media/c51075_af2ae1f7cbb145ffa5fef7a452f40a9a~mv2.jpg"
 }

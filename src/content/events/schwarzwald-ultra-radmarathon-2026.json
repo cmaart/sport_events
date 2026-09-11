@@ -18,8 +18,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.surm.de",
-  "description": "Radmarathon im mittleren Schwarzwald startend in Alpirsbach mit drei Streckenvarianten: 82 km, 147 km und 230 km. Die langen Strecken ueberqueren die Kammhoehen des Schwarzwaldes mit erheblichem Hoehengewinn. Herbstliches Foliage und frische Temperaturen praegen dieses anspruchsvolle Radmarathon-Event.",
-  "distanceKm": 230,
-  "elevationGainM": 4500,
+  "description": "Der Schwarzwald Ultra Radmarathon geht 2026 in seine 35. Auflage und startet und endet in der Innenstadt von Alpirsbach im mittleren Schwarzwald. Der RSV Alpirsbach-Rötenbach e.V. bietet drei Streckenvarianten an: die Ultra-Distanz über 231 km mit 4020 Höhenmetern, eine mittlere Runde über 150 km mit 2020 Höhenmetern sowie eine Einsteigerstrecke über 85 km mit 1100 Höhenmetern, deren gesamter Höhengewinn in einem einzigen schweren Anstieg liegt. Die langen Routen überqueren mehrfach die Kammhöhen des Naturparks Schwarzwald und verlangen entsprechende Ausdauer. Die GPS-Tracks stehen über Komoot bereit und sollten wegen möglicher Baustellen am Vortag aktualisiert werden. Der Herbsttermin Ende September sorgt für farbenfrohe Wälder und frische Temperaturen.",
+  "distanceKm": 231,
+  "elevationGainM": 4020,
   "imageUrl": "https://cloudpowered.blob.core.windows.net/images/2022-surm.png"
 }
