@@ -2,9 +2,7 @@
   "id": "openlakes-belgium-half-2026",
   "name": "OpenLakes Belgium Half",
   "sport": "triathlon",
-  "categories": [
-    "Mitteldistanz"
-  ],
+  "categories": ["Mitteldistanz"],
   "country": "BE",
   "dates": {
     "start": "2026-09-19",
@@ -17,7 +15,8 @@
     "lng": 4.363
   },
   "websiteUrl": "https://www.openlakes.eu/openlakesbelgiumhalf",
-  "description": "OpenLakes Belgium Half bei den Lacs de l'Eau d'Heure in Boussu-lez-Walcourt: Belgische Mitteldistanz-Meisterschaft 1,9 km / 92 km + 900 Hm / 21 km. Schwimmen in den Stauseen der wallonischen Ardennen; anspruchsvolle Radstrecke durch die Namurois-Hügel.",
+  "description": "OpenLakes Belgium Half an den Lacs de l'Eau d'Heure bei Boussu-lez-Walcourt: 2026 wird hier die belgische Mitteldistanz-Meisterschaft (Championnat de Belgique – Middle Distance) ausgetragen. Geschwommen wird 1,9 km im Stausee rund um das Plate-Taille-Zentrum, gefolgt von 92 km Rad in zwei Runden à 46 km mit jeweils rund 450 Höhenmetern (gesamt ca. 900 Hm) durch die hügelige Landschaft der wallonischen Ardennen. Der abschließende Halbmarathon (21 km) führt am Lac de la Plate Taille entlang. Die Lacs de l'Eau d'Heure bilden das größte Seengebiet Belgiens und bieten eine reizvolle Naturkulisse für Schwimmstart und Wechselzone. Die wellige Radstrecke macht das Rennen zu einer selektiven Mitteldistanz statt eines reinen Flachkurses.",
   "distanceKm": 115,
+  "elevationGainM": 900,
   "imageUrl": "https://www.openlakes.eu/web/image/120342-23f8524b/OL_Belgium.webp"
 }

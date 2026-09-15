@@ -2,9 +2,7 @@
   "id": "ikb-baggersee-aquathlon-innsbruck-2026",
   "name": "IKB Baggersee Aquathlon Innsbruck",
   "sport": "triathlon",
-  "categories": [
-    "Aquathlon"
-  ],
+  "categories": ["Aquathlon"],
   "country": "AT",
   "dates": {
     "start": "2026-09-26",
@@ -17,6 +15,7 @@
     "region": "Tirol"
   },
   "websiteUrl": "https://www.ttci.at",
-  "description": "IKB Baggersee Aquathlon am Innsbruck Baggersee – der traditionelle Saisonabschluss des Triathlon Clubs Innsbruck: 1 km Schwimmen / 5 km Laufen, plus Jugend-Bewerbe.",
+  "description": "Der IKB Baggersee Aquathlon ist der traditionelle Saisonabschluss des 1. Tiroler Triathlon Clubs Innsbruck (TTCI) und findet am Samstag, den 26. September 2026, am Baggersee in Innsbruck statt. Der Hauptbewerb kombiniert 1 km Schwimmen im Baggersee mit 5 km Laufen entlang des Seeufers. Ergänzend gibt es einen Nachwuchsaquathlon mit diversen Distanzen, der zugleich das Finale des ASVÖ Euregio Kinder-TriZug-Cups bildet. Die Anmeldung ist seit 1. Mai 2026 geöffnet.",
+  "distanceKm": 6,
   "imageUrl": "https://www.ttci.at/wp-content/uploads/2026/03/aquatlon_ttci_26-954x1024.jpg"
 }

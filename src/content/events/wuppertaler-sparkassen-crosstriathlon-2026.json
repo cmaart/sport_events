@@ -2,12 +2,10 @@
   "id": "wuppertaler-sparkassen-crosstriathlon-2026",
   "name": "Wuppertaler Sparkassen Crosstriathlon",
   "sport": "triathlon",
-  "categories": [
-    "Cross-Triathlon"
-  ],
+  "categories": ["Cross-Triathlon"],
   "country": "DE",
   "dates": {
-    "start": "2026-09-19",
+    "start": "2026-09-20",
     "confirmed": true
   },
   "location": {
@@ -16,7 +14,9 @@
     "lng": 7.1508,
     "region": "Nordrhein-Westfalen"
   },
+  "websiteUrl": "https://triclub-wuppertal.de/cross_triathlon/auschreibung",
   "imageUrl": "https://racepediaevents-ffm.s3.amazonaws.com/1047/Header.jpg",
-  "websiteUrl": "https://www.wuppertaler-triathlon.de/",
-  "description": "Der 16. Wuppertaler Sparkassen Crosstriathlon in Wuppertal im Bergischen Land, veranstaltet vom SC Wuppertal-Triathlon. Geländetriathlon mit Freiwasserschwimmen, Mountainbike-Strecke durch die Wuppertaler Hügel und Geländelauf im Bergischen Wald."
+  "description": "Der 16. Wuppertaler Sparkassen Crosstriathlon findet am 20. September 2026 in Wuppertal-Küllenhahn (Korzert) im Bergischen Land statt und wird vom Tri Club Wuppertal veranstaltet. Geschwommen wird im beheizten Freibad Neuenhof (Neoprenverbot), ehe Mountainbike-Runden und Geländelauf durch die bewaldeten Hügel rund um die Wechselzone am AWG-Gelände Korzert führen. Angeboten werden zwei Distanzen: 'Das Bergische Hämmerchen' (500 m Schwimmen / 11 km MTB / ca. 5 km Laufen, ab 16 Jahren) und 'Das Bergische Hammer' (750 m Schwimmen / 22 km MTB / ca. 10 km Laufen, ab 18 Jahren, auch als Staffel). Die anspruchsvolle Bike-Strecke der langen Distanz sammelt rund 500 Höhenmeter, der Lauf noch einmal etwa 200. Anmeldeschluss ist der 11. September 2026.",
+  "distanceKm": 32.75,
+  "elevationGainM": 700
 }

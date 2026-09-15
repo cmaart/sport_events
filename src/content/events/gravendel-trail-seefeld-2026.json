@@ -2,14 +2,11 @@
   "id": "gravendel-trail-seefeld-2026",
   "name": "Gravendel Trail Seefeld",
   "sport": "cycling",
-  "categories": [
-    "Gravel",
-    "Etappenrennen"
-  ],
+  "categories": ["Gravel", "Etappenrennen"],
   "country": "AT",
   "dates": {
-    "start": "2026-09-18",
-    "end": "2026-09-20",
+    "start": "2026-09-17",
+    "end": "2026-09-19",
     "confirmed": true
   },
   "location": {
@@ -20,7 +17,7 @@
   },
   "websiteUrl": "https://www.gravendel-trail.de",
   "imageUrl": "https://images.squarespace-cdn.com/content/v1/6979ee50e9e88923f28d4873/ab9c58ba-de08-4836-a3ab-81f2f1017b0a/DSC08094.jpg",
-  "description": "Dreitägiges geführtes Gravel-Bikepacking-Abenteuer von Seefeld durch das Karwendelgebirge mit Hüttenübernachtungen. 170 km Gesamtstrecke mit 3.790 Höhenmetern über drei Etappen, geführt mit Übernachtung auf der Soiernhaus- und Plumsjochalm. Preis inklusive zwei Frühstücken.",
+  "description": "Der Gravendel Trail ist ein geführtes, dreitägiges Gravel-Bikepacking-Abenteuer, das als Rundkurs von Seefeld aus durch das Karwendelgebirge und wieder zurück nach Seefeld führt. Über drei Etappen sind 170 Kilometer und 3.790 Höhenmeter zu bewältigen: von Seefeld zum Soiernhaus, weiter zur Plumsjochalm und schließlich zurück zum Ausgangsort. Gefahren wird in der Gruppe, self-supported – die Teilnehmenden tragen ihre Ausrüstung inklusive Hüttenschlafsack selbst am Rad. Übernachtet wird auf zwei bewirtschafteten Berghütten, Wildcampen ist wegen der sensiblen Naturschutzgebiete nicht gestattet; dafür gibt es ruhige Nächte, Duschen und teils kalte Getränke. Der Teilnahmepreis von 150 Euro pro Person schließt zwei gemeinsame Frühstücke ein. Die Anmeldung erfolgt direkt über das Kontaktformular der Veranstalter (Termin laut offizieller Seite 17.–19. September).",
   "distanceKm": 170,
   "elevationGainM": 3790
 }

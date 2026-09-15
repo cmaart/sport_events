@@ -2,9 +2,7 @@
   "id": "sea-otter-europe-girona-gravel-2026",
   "name": "Sea Otter Europe Girona Gravel",
   "sport": "cycling",
-  "categories": [
-    "Gravel"
-  ],
+  "categories": ["Gravel"],
   "country": "ES",
   "dates": {
     "start": "2026-09-19",
@@ -16,8 +14,8 @@
     "lng": 2.825
   },
   "websiteUrl": "https://gironagravelworldseries.com/",
-  "description": "Sea Otter Europe Girona Gravel World Series: 109 km / 940 Hm von Juià durch das Les-Gavarres-Massiv mit Zielankunft beim Shimano Sea Otter Europe Festival in Fontajau (Girona). UCI Gravel World Series-Qualifikation mit technischen Auf- und Abfahrten; Teil des größten europäischen Radfestivals.",
+  "description": "Sea Otter Europe Girona Gravel ist der spanische Lauf der UCI Gravel World Series und findet am 19. September 2026 im Rahmen des Shimano Sea Otter Europe statt, Europas größtem Radsportfestival. Die 109 km lange Strecke mit 980 Höhenmetern startet an der Càrniques de Juià und beginnt gleich mit einem selektiven Anstieg von 5,2 km bei durchschnittlich 6,2 %, der das Feld früh sortiert. Nach der technischen Abfahrt vom Coll de Llumeneres (km 21) führt die Route durch die Wälder und das grüne Hügelland rund um Girona, mit schnellen Passagen ab km 41. Der Anstieg nach Mas Llunes bei km 83 sowie ein kurzer, steiler Schlussanstieg bei km 100 gelten als vorentscheidend. Zielankunft ist im Festivalgelände in Girona (Fontajau). Als letztes Rennen im GWS-Kalender bietet die Ausgabe die letzte Qualifikationschance für die UCI Gravel-Weltmeisterschaft in Nizza.",
   "distanceKm": 109,
-  "elevationGainM": 940,
+  "elevationGainM": 980,
   "imageUrl": "https://gironagravelworldseries.com/wp-content/uploads/2026/04/uci-girona-gravel-world-series-scaled.jpg"
 }

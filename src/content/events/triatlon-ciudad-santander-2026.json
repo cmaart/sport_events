@@ -2,9 +2,7 @@
   "id": "triatlon-ciudad-santander-2026",
   "name": "Triatlón Ciudad de Santander",
   "sport": "triathlon",
-  "categories": [
-    "Mitteldistanz"
-  ],
+  "categories": ["Mitteldistanz"],
   "country": "ES",
   "dates": {
     "start": "2026-09-20",
@@ -16,7 +14,7 @@
     "lng": -3.8099
   },
   "websiteUrl": "https://triatlonciudadsantander.com/",
-  "description": "Triatlón Ciudad de Santander in der Bucht von Santander (Kantabrien): Mitteldistanz 1,9 km Schwimmen / ca. 80 km Rad / 21 km Laufen. Beliebtes Herbst-Triathlon-Event im spanischen FETRI-Nationalranking.",
+  "description": "Triatlón Ciudad de Santander in der Bucht von Santander (Kantabrien) am Sonntag, 20. September 2026. Angeboten werden eine Mitteldistanz (1,9 km / 80 km / 21 km) und eine olympische Distanz (1,5 km / 40 km / 10,5 km). Schwimmstart ist an der Playa de Los Peligros, die Wechselzone liegt am Dique de Gamazo. Die für den Verkehr gesperrten Rad- und Laufstrecken führen mitten durch die Stadt – vorbei am Palacio de la Magdalena, dem Sardinero, dem Centro Botín sowie Reina Victoria und Castelar. Das Teilnehmerfeld ist auf 750 Startplätze begrenzt (500 olympisch, 250 Mitteldistanz). Die Bucht von Santander gilt als eines der landschaftlich reizvollsten Schwimmreviere im spanischen FETRI-Kalender.",
   "distanceKm": 103,
   "imageUrl": "https://triatlonciudadsantander.com/wp-content/uploads/2026/02/foto-subs.jpg"
 }

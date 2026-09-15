@@ -2,10 +2,7 @@
   "id": "naturafit-triathlon-hoechstadt-2026",
   "name": "Naturafit Triathlon Höchstadt",
   "sport": "triathlon",
-  "categories": [
-    "Olympische Distanz",
-    "Sprintdistanz"
-  ],
+  "categories": ["Olympische Distanz", "Sprintdistanz"],
   "country": "DE",
   "dates": {
     "start": "2026-09-20",
@@ -19,6 +16,6 @@
   },
   "websiteUrl": "https://hoechstadt-triathlon.de/",
   "imageUrl": "https://hoechstadt-triathlon.de/wp-content/uploads/2024/05/20240505_064745-scaled.jpg",
-  "description": "Der Naturafit Triathlon Höchstadt am Freibad Höchstadt an der Aisch in Mittelfranken. Kurzdistanz (1,5 km/40 km/10 km) und Jedermann-Distanz (0,4 km/20 km/5 km) ab 16 Jahren. Start um 9:30 Uhr, Pflichtbriefing um 9:00 Uhr. Anmeldeschluss 6. September.",
-  "distanceKm": 52
+  "description": "Der Naturafit Triathlon Höchstadt an der Aisch wird 2026 zum zwölften Mal ausgetragen und findet am 20. September am Freibad Höchstadt (Kieferndorfer Weg) in Mittelfranken statt, veranstaltet vom Höchstadter Triathlon e.V. Geschwommen wird im Freibad, bevor Rad- und Laufstrecke durch das flache Aischtal führen. Angeboten werden die Kurzdistanz (1,5 km Schwimmen / 40 km Rad / 10 km Laufen, ab 18 Jahren) und die Jedermann-Distanz (0,4 km Schwimmen / 20 km Rad / 5 km Laufen, ab 16 Jahren), beide auch als Staffel. Das Pflichtbriefing findet um 9:00 Uhr vor dem Freibadgebäude statt, der erste Startblock geht um 9:30 Uhr ins Wasser. Anmeldeschluss ist der 6. September 2026.",
+  "distanceKm": 51.5
 }

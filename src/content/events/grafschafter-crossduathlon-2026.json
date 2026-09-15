@@ -2,9 +2,7 @@
   "id": "grafschafter-crossduathlon-2026",
   "name": "18. Grafschafter Sparkassen Cross-Duathlon",
   "sport": "triathlon",
-  "categories": [
-    "Duathlon"
-  ],
+  "categories": ["Duathlon"],
   "country": "DE",
   "dates": {
     "start": "2026-09-26",
@@ -19,5 +17,6 @@
     "region": "Rheinland-Pfalz"
   },
   "imageUrl": "https://tus-ahrweiler-triathlon.de/fileadmin/_processed_/1/3/csm_b%C3%B6lingen24_tus2_19aeff03a4.jpg",
-  "description": "18. Grafschafter Sparkassen Cross-Duathlon in Grafschaft-Bölingen im Ahrtal, Rheinland-Pfalz. Geländeduathlon mit Laufen, Mountainbike und Laufen auf naturnahen Offroad-Strecken. Veranstaltung des TV Bölingen, Sponsor Grafschafter Sparkasse."
+  "description": "Der 18. Grafschafter Sparkassen Cross-Duathlon findet am 26. September 2026 an der Bölinger Hubertushütte in Grafschaft-Bölingen im Kreis Ahrweiler (Rheinland-Pfalz) statt und wird von der Triathlonabteilung des TuS Ahrweiler 1898 e.V. organisiert. Der Hauptwettbewerb über die Sprintdistanz umfasst 3,0 km Auftaktlauf, 12,0 km Mountainbike und 1,8 km Schlusslauf auf naturnahen Offroad-Strecken durch Feld und Wald am Rand des Ahrtals. Ergänzt wird das Programm durch Schüler- und Jugendbewerbe mit verkürzten Distanzen (0,2 km / 1,0 km / 0,2 km sowie 0,4 km / 3,0 km / 0,4 km). Namensgeber und Sponsor ist die Kreissparkasse Ahrweiler.",
+  "distanceKm": 16.8
 }

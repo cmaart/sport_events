@@ -2,9 +2,7 @@
   "id": "alpen-challenge-lenzerheide-2026",
   "name": "Alpen Challenge Lenzerheide",
   "sport": "cycling",
-  "categories": [
-    "Gran Fondo"
-  ],
+  "categories": ["Gran Fondo"],
   "country": "CH",
   "dates": {
     "start": "2026-09-20",
@@ -16,8 +14,8 @@
     "lng": 9.5566
   },
   "websiteUrl": "https://www.alpenchallengelenzerheide.ch/",
-  "description": "Alpen Challenge Lenzerheide in Graubünden: Granfondo 189 km über die berühmtesten Pässe Graubündens, Mediofondo 115 km. Herbststimmung mit klarer Bergluft und Laubfärbung. Herbstausgabe des Klassikers mit Blick auf Lenzerheide, Albula- und Julierpass.",
-  "distanceKm": 189,
-  "elevationGainM": 4500,
+  "description": "Die Alpen Challenge Lenzerheide steigt am 20. September 2026 in ihrer 25. Auflage und gilt als einer der schönsten Radmarathons der Alpen, gefahren in der klaren Herbstluft Graubündens. Der Granfondo über 192,4 km und 4.215 Höhenmeter überquert die Pässe Albula, Julier, Maloja und Splügen und führt durch das Engadin mit St. Moritz und den Oberengadiner Seen, das Bergell sowie die Viamala-Schlucht. Die kürzere Classic-Variante misst 117,9 km bei 2.698 Höhenmetern über Albula- und Julierpass, mit einer fordernden Zusatzschleife nach Salouf vor dem Schlussanstieg. Start und Ziel liegen in Lenzerheide. Die Startplätze sind limitiert; die Anmeldung öffnete am 12. Dezember 2025 mit vergünstigten Early-Bird-Preisen. Herbstliche Laubfärbung und ruhigere Straßen prägen die Atmosphäre dieses Bündner Klassikers.",
+  "distanceKm": 192,
+  "elevationGainM": 4215,
   "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x10000:format=jpg/path/s93f657e3286e71ef/image/iab6e6b9288213fcf/version/1765389721/image.jpg"
 }

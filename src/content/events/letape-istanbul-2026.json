@@ -2,9 +2,7 @@
   "id": "letape-istanbul-2026",
   "name": "L'Étape Istanbul by Tour de France",
   "sport": "cycling",
-  "categories": [
-    "Gran Fondo"
-  ],
+  "categories": ["Gran Fondo"],
   "country": "TR",
   "dates": {
     "start": "2026-09-20",
@@ -15,8 +13,9 @@
     "lat": 41.0082,
     "lng": 28.9784
   },
-  "websiteUrl": "https://www.letapeseries.com/",
-  "description": "L'Étape Istanbul by Tour de France – 3. Auflage des ASO-Jedermann-Rennens in der Weltstadt am Bosporus: Lange Strecke (109 km) und kurze Strecke (59 km) über die Bosporusbrücke von der asiatischen in die europäische Seite Istanbuls. Teil der offiziellen globalen L'Étape-Series von Tour de France-Veranstalter ASO.",
-  "distanceKm": 109,
+  "websiteUrl": "https://turkiye.letapeseries.com/",
+  "description": "L'Étape Istanbul by Tour de France ist am 20. September 2026 die 3. Auflage des ASO-Jedermannrennens in der Metropole am Bosporus, nach den Ausgaben 2024 und 2025. Die lange Strecke misst 101,6 km bei 1.477 Höhenmetern, die kurze 49,8 km bei 778 Höhenmetern; ergänzend gibt es die 31,4 km lange „Intercontinental Experience“. Höhepunkt ist die Überquerung der Bosporusbrücke, auf der die Teilnehmer von der asiatischen auf die europäische Seite Istanbuls wechseln. Gefahren wird auf gesperrten bzw. teilgesperrten Straßen mit Verpflegungszonen alle 25 km, mechanischem Support und dem typischen Tour-de-France-Race-Village. Das UCI-sanktionierte Rennen ist Teil der weltweiten L'Étape-Series des Tour-de-France-Veranstalters ASO. Titelsponsoren der Ausgabe 2026 sind Maximiles Black und Visa.",
+  "distanceKm": 102,
+  "elevationGainM": 1477,
   "imageUrl": "https://www.letapeseries.com/uploads/licensee/gallery/2025/10/16/celik-sinan-l-e-tape-tu-rkiye-by-tour-de-france-25-19-2_original_original.jpg"
 }

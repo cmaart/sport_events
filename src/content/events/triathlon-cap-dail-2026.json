@@ -2,9 +2,7 @@
   "id": "triathlon-cap-dail-2026",
   "name": "Triathlon de Cap-d'Ail",
   "sport": "triathlon",
-  "categories": [
-    "Olympische Distanz"
-  ],
+  "categories": ["Olympische Distanz"],
   "country": "FR",
   "dates": {
     "start": "2026-09-20",
@@ -16,7 +14,7 @@
     "lng": 7.401
   },
   "websiteUrl": "https://www.cap-dail.fr/vivre-a-cap-dail/sport-associations/les-manifestations-sportives/le-triathlon-de-cap-d-ail/",
-  "description": "Triathlon de Cap-d'Ail (24. Auflage) direkt neben Monaco an der Côte d'Azur: Olympische Distanz 1,5 km Mittelmeerschwimmen / 40 km Rad / 10 km Laufen. Traumhafte Riviera-Kulisse zwischen Monaco und Nizza; ausgezeichnet als Sportstadt der FFTri.",
+  "description": "Triathlon de Cap-d'Ail – 24. Auflage am Sonntag, 20. September 2026, direkt neben Monaco an der Côte d'Azur. Gestartet wird über die olympische Distanz (Format M): 1,5 km Schwimmen im Mittelmeer, 40 km Rad und 10 km Laufen. Das familiäre Event zählt rund 250 Teilnehmende und wird von einem Animathlon für über 50 Kinder begleitet. Vor der Kulisse zwischen Monaco und Nizza bietet der Kurs eine der spektakulärsten Riviera-Panoramen im FFTri-Kalender. Cap-d'Ail ist von der französischen Triathlon-Föderation als sportfreundliche Gemeinde ausgezeichnet.",
   "distanceKm": 52,
   "imageUrl": "https://www.cap-dail.fr/app/uploads/2024/07/TRIATHLONCA2023-%C2%A9Christophe-Giraudeau-30-scaled.jpg"
 }

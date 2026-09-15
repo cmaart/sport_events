@@ -2,9 +2,7 @@
   "id": "tartu-rattamaraton-otepaa-2026",
   "name": "Tartu Rattamaraton",
   "sport": "cycling",
-  "categories": [
-    "Gravel"
-  ],
+  "categories": ["Gravel"],
   "country": "EE",
   "dates": {
     "start": "2026-09-19",
@@ -16,8 +14,7 @@
     "lng": 26.5025
   },
   "websiteUrl": "https://tartumaraton.ee/en/tartu-rattamaraton-2026/",
-  "description": "Tartu Rattamaraton in Otepää → Elva (Südestland): Erster UCI Gravel World Series-Qualifikationsevent in Estland mit 126 km / 1.500 Hm, 86 km, 40 km oder 21 km auf 93 % Offroad (Schotter, Waldpisten). Route entlang der historischen Tartu-Skimarathon-Strecke; Start am Tehvandi-Sportzentrum.",
-  "distanceKm": 126,
-  "elevationGainM": 1500,
+  "description": "Der Tartu Rattamaraton führt am 19. September 2026 in seiner 29. Auflage von Otepää nach Elva durch das hügelige Südestland und ist ab 2026 als erster estnischer Event in die UCI Gravel World Series aufgenommen. Angeboten werden vier Distanzen: 123 km, 83 km, 39 km und 21 km. Die längste Strecke startet um 9:00 Uhr am Tehvandi-Sportzentrum in Otepää, dem estnischen Wintersportzentrum, und folgt weitgehend der Route des traditionsreichen Tartu-Skimarathons über Schotter- und Waldwege. Ziel ist das Tartumaa Teralisespordikeskus nahe Elva. Mit fast 30 Jahren Geschichte zählt das Rennen zu den größten Radsportveranstaltungen im Baltikum und zieht jährlich Tausende Teilnehmer an. Die Aufnahme in die GWS macht die Strecke zugleich zur Qualifikationsmöglichkeit für die UCI Gravel-Weltmeisterschaft.",
+  "distanceKm": 123,
   "imageUrl": "https://tartumaraton.ee/cache/tartu_maraton/public/competition_img/_1500x500x1/1896_2_RM_26_1500x500_eng.jpg"
 }

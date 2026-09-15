@@ -2,9 +2,7 @@
   "id": "allgaeu-gravel-rallye-pfronten-2026",
   "name": "Allgäu Gravel Rallye Pfronten",
   "sport": "cycling",
-  "categories": [
-    "Gravel"
-  ],
+  "categories": ["Gravel"],
   "country": "DE",
   "dates": {
     "start": "2026-09-19",
@@ -17,8 +15,8 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.allgaeu-gravel-rallye.de/",
-  "description": "Gravel-Event im bayerisch-allgaeuer Alpenvorland rund um das Walsertal-Gebiet bei Pfronten im Ostallgaeu. Unbefestigte Waldwege und Schotterpisten durch die suedlichsten Alpenauslaeufern Bayerns nahe der oesterreichischen Grenze. Spektakulaere Bergkulisse mit Zugspitzmassiv und den Ammergauer Alpen als Kulisse.",
-  "distanceKm": 80,
-  "elevationGainM": 1800,
+  "description": "Die Allgäu Gravel Rallye macht am 19. September 2026 mit ihrer 5-Seen-Tour Station in Pfronten im Ostallgäu. Auf überwiegend feinem Schotter führt die Strecke von Pfronten ins Tannheimer Tal, weiter durchs Lechtal bis zum Plansee und über die Dürrenberg Alm, ehe es über das Ranzental und entlang der Vils zurück nach Pfronten geht – der Name ist Programm, denn fünf Tiroler Seen liegen am Weg. Es stehen drei Varianten zur Wahl: verkürzt mit 90 km und 1.000 Hm, die Standardrunde mit 106 km und 1.900 Hm sowie die verlängerte Route mit 125 km und 2.600 Hm. Fahrtechnisch bleibt die Tour bis auf eine rund 300 Meter lange Schiebepassage anspruchslos; empfohlen werden Gravel-Reifen ab 36 mm Breite. Das Startgeld beträgt 25 Euro und beinhaltet eine Verpflegungsstation unterwegs sowie ein Getränk und einen Snack im Café Sport in Pfronten. Begleitend gibt es eine Strava-Challenge; angemeldet wird individuell, die Bezahlung läuft über PayPal.",
+  "distanceKm": 125,
+  "elevationGainM": 2600,
   "imageUrl": "https://images.squarespace-cdn.com/content/v1/68456b5d5550a63d2409f074/1765451258089-JDFXU8P4GZEYJ0UF7MF0/Allg%C3%A4u+Gravel+Rallye+Start+3.jpg"
 }

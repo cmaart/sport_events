@@ -2,10 +2,7 @@
   "id": "ebersteinburg-bergzeitfahren-2026",
   "name": "Ebersteinburg Bergzeitfahren",
   "sport": "cycling",
-  "categories": [
-    "Berg",
-    "Zeitfahren"
-  ],
+  "categories": ["Berg", "Zeitfahren"],
   "country": "DE",
   "dates": {
     "start": "2026-09-19",
@@ -19,8 +16,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://rsg-ried-rastatt.de",
-  "description": "Ebersteinburg Bergzeitfahren – Jedermann-Bergzeitfahren des RSG Ried Rastatt e.V. auf der Strecke zur historischen Burg Eberstein bei Baden-Baden (Baden-Württemberg). Traditionelle Veranstaltung am dritten Samstag im September; Start an der Förcher Kreuzung bei Schloss Favorite.",
-  "distanceKm": 4,
-  "elevationGainM": 200,
+  "description": "Das Ebersteinburg Bergzeitfahren des RSG Ried Rastatt e.V. sucht am Samstag, den 19. September 2026 ab 14:00 Uhr wieder den 'Bergkönig'. Die Strecke führt von der Förcher Kreuzung beim Schloss Favorite über gut 5 harte Kilometer und knapp 300 Höhenmeter hinauf nach Ebersteinburg oberhalb von Baden-Baden. Gestartet wird als Jedermann-Zeitfahren im Minutenabstand; das Teilnehmerfeld ist auf 100 Startende begrenzt. Für das Unterbieten des Streckenrekords lobt der Verein eine Prämie von 100 Euro aus – die aktuelle Bestmarke der Herren hält Jack Morrissey mit 11:10 Minuten (2025), bei den Damen steht Hannah Fandel mit 13:46 Minuten (2020) vorn. Im Anschluss finden Siegerehrung und geselliges Beisammensein bei Kastner Bikes in Kuppenheim (Friedrichstr. 134) statt. Die Anmeldung ist online möglich.",
+  "distanceKm": 5,
+  "elevationGainM": 290,
   "imageUrl": "https://rsg-ried-rastatt.de/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-20-at-10.31.17.jpeg"
 }
