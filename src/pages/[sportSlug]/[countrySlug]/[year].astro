@@ -4,7 +4,8 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import EventCard from '../../../components/EventCard.astro';
 import { t } from '../../../lib/i18n';
 import { COUNTRY_LABELS, type Country, type Sport } from '../../../lib/types';
-import { SPORT_SLUGS, COUNTRY_SLUGS, collectLandingPaths } from '../../../lib/landing';
+import { SPORT_SLUGS, COUNTRY_SLUGS, collectLandingPaths, landingHref } from '../../../lib/landing';
+import { seasonOf } from '../../../lib/types';
 import { buildLandingIntro } from '../../../lib/landing-intro';
 import type { EventData } from '../../../lib/filters';
 
@@ -14,11 +15,11 @@ export async function getStaticPaths() {
 
   return landings.map((l) => {
     const matched = entries.filter(
-      (e) => e.data.sport === l.sport && e.data.country === l.country,
+      (e) => e.data.sport === l.sport && e.data.country === l.country && seasonOf(e.data.dates.start) === l.year,
     );
     return {
-      params: { sportSlug: l.sportSlug, countrySlug: l.countrySlug },
-      props: { sport: l.sport, country: l.country, entries: matched },
+      params: { sportSlug: l.sportSlug, countrySlug: l.countrySlug, year: String(l.year) },
+      props: { sport: l.sport, country: l.country, year: l.year, entries: matched },
     };
   });
 }
@@ -26,10 +27,11 @@ export async function getStaticPaths() {
 interface PageProps {
   sport: Sport;
   country: Country;
+  year: number;
   entries: Awaited<ReturnType<typeof getCollection<'events'>>>;
 }
 
-const { sport, country, entries } = Astro.props as PageProps;
+const { sport, country, year, entries } = Astro.props as PageProps;
 
 const events: EventData[] = entries
   .map((entry) => ({
@@ -59,25 +61,29 @@ const sportLabel = sport === 'cycling' ? t('filter.sport.cycling') : t('filter.s
 const sportLabelPlural = sport === 'cycling' ? t('hero.stat.cycling') : t('hero.stat.triathlon');
 
 const titleKey = sport === 'cycling' ? 'landing.title.cycling' : 'landing.title.triathlon';
-const h1 = t(titleKey, { country: countryLabel });
-const intro = buildLandingIntro(sport, countryLabel, events);
+const h1 = t(titleKey, { country: countryLabel, year });
+const intro = buildLandingIntro(sport, countryLabel, events, year);
 const seoTitle = h1;
 const seoDescription = intro.length > 200 ? intro.slice(0, 197).replace(/[.,;:\s]+$/, '') + '…' : intro;
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = `${siteUrl}/${SPORT_SLUGS[sport]}/${COUNTRY_SLUGS[country]}/2026`;
-const mapFilterUrl = `${base}/?sport=${sport}&country=${country}#explore`;
+const pageUrl = `${siteUrl}/${SPORT_SLUGS[sport]}/${COUNTRY_SLUGS[country]}/${year}`;
+const mapFilterUrl = `${base}/?saison=${year}&sport=${sport}&country=${country}#explore`;
 
 // Cross-links: same sport in other countries, and other sport in same country.
 const allEntries = await getCollection('events');
 const allLandings = collectLandingPaths(allEntries);
 const sameSportOtherCountries = allLandings
-  .filter((l) => l.sport === sport && l.country !== country)
+  .filter((l) => l.sport === sport && l.country !== country && l.year === year)
   .sort((a, b) => b.count - a.count);
 const sameCountryOtherSport = allLandings.filter(
-  (l) => l.country === country && l.sport !== sport,
+  (l) => l.country === country && l.sport !== sport && l.year === year,
 );
+// Same sport × country in other seasons ("Radrennen in Österreich 2027 →").
+const otherSeasons = allLandings
+  .filter((l) => l.sport === sport && l.country === country && l.year !== year)
+  .sort((a, b) => b.year - a.year);
 
 // Group by start month: adds "Radrennen im April 2026"-style subheadings,
 // which structure the long list and capture month-based longtail queries.
@@ -145,6 +151,13 @@ const breadcrumbsLd = {
           {t('landing.cta.map')}
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-4 h-4"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
         </a>
+        {otherSeasons.map((l) => (
+          <a href={landingHref(base, l)}
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white hover:bg-[var(--color-ink-100)] border border-[var(--color-ink-300)] text-[var(--color-ink-900)] font-medium text-sm transition">
+            {t('landing.otherSeason', { year: l.year })}
+            <span class="text-xs text-[var(--color-ink-500)]">{l.count}</span>
+          </a>
+        ))}
       </div>
     </div>
   </section>
@@ -156,7 +169,7 @@ const breadcrumbsLd = {
     {monthGroups.map((g) => (
       <div class="mb-8">
         <h3 class="text-lg font-semibold tracking-tight mb-4 text-[var(--color-ink-700)]">
-          {t('landing.heading.month', { sport: sportLabelPlural, month: t(`month.${g.month}`) })}
+          {t('landing.heading.month', { sport: sportLabelPlural, month: t(`month.${g.month}`), year })}
         </h3>
         <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {g.events.map((event) => <EventCard event={event} />)}
@@ -176,7 +189,7 @@ const breadcrumbsLd = {
             <ul class="flex flex-wrap gap-2">
               {sameSportOtherCountries.map((l) => (
                 <li>
-                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                  <a href={landingHref(base, l)}
                     class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border border-[var(--color-ink-200)] hover:border-[var(--color-brand-500)] text-sm font-medium transition">
                     <span aria-hidden="true">{COUNTRY_LABELS[l.country].flag}</span>
                     {COUNTRY_LABELS[l.country].name}
@@ -195,7 +208,7 @@ const breadcrumbsLd = {
             <ul class="flex flex-wrap gap-2">
               {sameCountryOtherSport.map((l) => (
                 <li>
-                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                  <a href={landingHref(base, l)}
                     class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border border-[var(--color-ink-200)] hover:border-[var(--color-brand-500)] text-sm font-medium transition">
                     {l.sport === 'cycling' ? t('hero.stat.cycling') : t('hero.stat.triathlon')}
                     <span class="text-xs text-[var(--color-ink-500)]">{l.count}</span>

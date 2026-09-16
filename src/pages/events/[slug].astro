@@ -5,8 +5,8 @@ import EventDetailMap from '../../components/islands/EventDetailMap';
 import ShareButton from '../../components/islands/ShareButton';
 import AppPromo from '../../components/AppPromo.astro';
 import { formatDateRange, t } from '../../lib/i18n';
-import { COUNTRY_LABELS, isRtf } from '../../lib/types';
-import { collectLandingPaths } from '../../lib/landing';
+import { COUNTRY_LABELS, isRtf, seasonOf } from '../../lib/types';
+import { collectLandingPaths, landingHref } from '../../lib/landing';
 
 export async function getStaticPaths() {
   const entries = await getCollection('events');
@@ -20,6 +20,8 @@ const { entry } = Astro.props;
 const e = entry.data;
 const start = new Date(e.dates.start);
 const end = e.dates.end ? new Date(e.dates.end) : undefined;
+const year = seasonOf(start);
+const slug = entry.id.replace(/\.json$/, '');
 const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.date.tba');
 
 // Past confirmed events: noindex so Google concentrates index budget on live races.
@@ -58,7 +60,7 @@ const seoTitle = `${e.name}${e.dates.confirmed ? ` · ${dateLabel}` : ''} · ${l
 const catLabel = e.categories[0];
 const descPrefix = e.dates.confirmed
   ? `${sportLabel} · ${catLabel} am ${dateLabel} in ${locationLine}. `
-  : `${sportLabel} · ${catLabel} 2026 in ${locationLine}. `;
+  : `${sportLabel} · ${catLabel} ${year} in ${locationLine}. `;
 const truncate = (s: string, max: number) => {
   if (s.length <= max) return s;
   const cut = s.slice(0, max);
@@ -69,7 +71,7 @@ const seoDescription = truncate(descPrefix + e.description.replace(/\s+/g, ' ').
 
 // Structured data: SportsEvent — eligible for Google's event rich results.
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = `${siteUrl}/events/${entry.id.replace(/\.json$/, '')}`;
+const pageUrl = `${siteUrl}/events/${slug}`;
 const sportName = e.sport === 'cycling' ? 'Cycling' : 'Triathlon';
 
 const sportsEventLd: Record<string, unknown> = {
@@ -122,16 +124,22 @@ if (e.registrationUrl) {
 // keyword-anchored internal link to its country landing page.
 const allEntries = await getCollection('events');
 const landing = collectLandingPaths(allEntries).find(
-  (l) => l.sport === e.sport && l.country === e.country,
+  (l) => l.sport === e.sport && l.country === e.country && l.year === year,
 );
 const landingTitle = t(
   e.sport === 'cycling' ? 'landing.title.cycling' : 'landing.title.triathlon',
-  { country: country.name },
+  { country: country.name, year },
 );
-const landingUrl = landing ? `${base}/${landing.sportSlug}/${landing.countrySlug}/2026` : undefined;
-const landingAbsUrl = landing
-  ? `${siteUrl}/${landing.sportSlug}/${landing.countrySlug}/2026`
-  : undefined;
+const landingUrl = landing ? landingHref(base, landing) : undefined;
+const landingAbsUrl = landing ? landingHref(siteUrl, landing) : undefined;
+
+// Other editions of the same event (`<slug>-2026` ↔ `<slug>-2027`): a past
+// page keeps passing visitors and link equity on to the next season.
+const baseSlug = slug.replace(/-\d{4}$/, '');
+const otherEditions = allEntries
+  .map((en) => ({ slug: en.id.replace(/\.json$/, ''), name: en.data.name, year: seasonOf(en.data.dates.start) }))
+  .filter((o) => o.slug !== slug && o.slug.replace(/-\d{4}$/, '') === baseSlug)
+  .sort((a, b) => b.year - a.year);
 
 // Breadcrumbs help Google show the "ENDURE Events › Event" trail in results.
 const breadcrumbsLd = {
@@ -273,7 +281,7 @@ const breadcrumbsLd = {
       <p class="text-[var(--color-ink-700)] leading-relaxed mb-4">
         {e.dates.confirmed
           ? t('event.registration.intro.confirmed', { sport: sportLabel, date: dateLabel, location: e.location.name })
-          : t('event.registration.intro.tba')}
+          : t('event.registration.intro.tba', { year })}
       </p>
       <div class="flex flex-wrap gap-3">
         {e.registrationUrl && (
@@ -302,6 +310,23 @@ const breadcrumbsLd = {
         <p class="text-xs text-[var(--color-ink-500)] mt-3">{t('event.registration.tba')}</p>
       )}
     </section>
+
+    {otherEditions.length > 0 && (
+      <section aria-labelledby="editions" class="mb-10">
+        <h2 id="editions" class="text-sm font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">{t('event.editions.label')}</h2>
+        <ul class="flex flex-wrap gap-2">
+          {otherEditions.map((o) => (
+            <li>
+              <a href={`${base}/events/${o.slug}/`}
+                class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white border border-[var(--color-ink-200)] hover:border-[var(--color-brand-500)] text-sm font-medium transition">
+                {t('event.editions.link', { name: o.name, year: o.year })}
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-3.5 h-3.5" aria-hidden="true"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
 
     <section aria-labelledby="location" class="mb-6">
       <h2 id="location" class="text-xl sm:text-2xl font-semibold tracking-tight mb-3">{t('event.section.location')}</h2>

@@ -5,6 +5,12 @@
 > Kompaktes Gedächtnis zwischen den Läufen. Immer aktuell halten. Details der letzten
 > 3 Sessions stehen darunter; alles Ältere liegt in `progress-archive.md`.
 
+### Saison-Modus (seit 2026-09-16)
+- **Zielsaison für Neuanlagen: 2027.** UI-Default 2027 (Toggle im Filter, localStorage + `?saison=`).
+- Pro Ausgabe eigene Datei (`<slug>-2027.json`); 2026-Dateien nie umdatieren. Details: `routine-prompt.md` → „Saisonen".
+- 2027-Bestand ist noch leer → erste Läufe: 2027-Ausgaben der Klassiker (Ironman/Challenge Europa, große
+  Radmarathons AT/DE, UCI Gran Fondo Series) anlegen, max. 15/Lauf.
+
 ### Kennzahlen (Stand: 2026-08-19)
 - Events gesamt: **1136** | upcoming (>= heute): **367** | past (noindex): **769**
 - Letzter Lauf: Enrichment + Verifikation (2026-08-19) — 24 Bestandsevents veredelt/korrigiert (soonest-first, 23.–30.08.2026, AT/DE + CH/NO/IE/GB/HU/FI/PL/RO), 0 Neuanlagen (Anti-Flut), 0 entfernt (alle 24 gegen offizielle Quelle als 2026-stattfindend bestätigt), diverse Distanz-/Kategorie-/Venue-/URL-Fehler behoben
@@ -27,6 +33,16 @@
 - (leer) — alle diesen Lauf angefassten Events wurden gegen offizielle Quellen bestätigt.
 
 ### BACKLOG (offene Aufgaben)
+- **2027-Seed (höchste Priorität, ≤15/Lauf):** 2027-Ausgaben verifizieren + anlegen für: IRONMAN Europa
+  (Frankfurt, Hamburg, Klagenfurt, Kalmar, Nizza, Barcelona, Kopenhagen, Vitoria, 70.3 Kraichgau/
+  Duisburg/Zell am See/Jönköping …), Challenge Roth/St. Pölten/Walchsee/Kaiserwinkl, Ötztaler Radmarathon,
+  Maratona dles Dolomites, Mallorca 312, Étape du Tour, Tour Transalp, Glocknerkönig, Dolomitenradrundfahrt,
+  King of the Lake, Race Around Austria, Kitzbüheler Horn, Cyclassics Hamburg, Velothon Berlin, Eschborn-
+  Frankfurt Jedermann, Riderman, Arber Radmarathon, Rothaus RiderMan, Gran Fondo Stelvio, La Marmotte.
+  Nur mit offiziellem 2027-Termin bzw. klarem „Save the date" (dann `confirmed: false`).
+- **Enrichment-Backlog (upcoming):** noch 65 fehlende elevationGainM (cycling), 172 dünne Beschreibungen. Prioritäten: adac-cycling-tour-heilbronn (elevation n.v.), gotland360-visby (elevation n.v.), granfondo-alassio (Website "work in progress"; noch mal re-checken vor 2026-09-27), granfondo-alberto-contador (elevation n.v.), granfondo-tavira (Hosting suspendiert), fuenf-seen-rundfahrt-diessen (403), miriquidi-bike-challenge, exmoor-beast-sportive, ironman-703-luxembourg (ironman.com blockiert WebFetch).
+- **k226-Batch 3 (Discovery):** nächster Lauf k226-EU-Kalender erneut auf neu erschienene Events checken, ggf. weitere Balkan- und Skandinavien-Tris (Lost Sheep, Balatonman-Fűzfő verifizieren) und "Xtreme"-Sibling zu OlympusMan aufnehmen.
+- **Datenqualität:** rennrad-Ultra-Events und Radmarathons AT/DE mit fehlenden Höhenmetern gezielt durchgehen.
 - **Discovery-Kandidaten 2026-07-29 (offiziell verifizieren, DANN erst anlegen — Anti-Flut, weiterhin NICHT bearbeitet):** SURM – Schwarzwald Ultra Radmarathon (Alpirsbach, 20.09), Salt&Lake Trail (Salzburg, Gravel/Bikepacking, 26.09), Südkärntner Triathlon (St. Kanzian/Klopeinersee, 12.09), RügenChallenge (Sellin, 11.10). Alle vier noch nicht angelegt — nächster Lauf mit Neuanlage-Budget priorisieren, sofern Enrichment-Rückstand (236 dünne) es zulässt.
 - **Elevation offiziell nicht publiziert (nicht schätzen):** frankfurt-city (500), city-bremen (100), datagroup-nuernberg (300) — Stadt-Tris, flach; Bestandswerte unbelegt, aber plausibel belassen. Ratekau-Muster: bei nächster Runde entscheiden ob entfernen.
 - **rad-am-salzburgring:** distanceKm 25 / elevationGainM 100 offiziell NICHT belegt (Seite nennt keine Streckenlänge/Runden) — plausibel belassen, nicht neu geraten; bei Gelegenheit offiziell nachverifizieren.

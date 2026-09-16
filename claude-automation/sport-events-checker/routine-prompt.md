@@ -15,15 +15,42 @@ templatisierter Seiten auf einer jungen, backlink-losen Domain.**
 die Domain *wertvoller* machen, nicht nur *größer*. Ein vollständiger Überblick bleibt langfristiges
 Ziel — aber langsam und mit indexwürdigen Seiten, sonst hebt sich der Throttle nie.
 
+## Saisonen: 2026 auslaufend, 2027 Zielsaison (seit 2026-09-16)
+
+Die Site führt mehrere Saisonen parallel (`SEASONS` in `src/lib/types.ts`, UI-Toggle im Filter,
+Default 2027). Ein Event gehört zur Saison seines **Startjahres**; pro Ausgabe existiert **eine
+eigene JSON-Datei** mit Jahres-Suffix (`<slug>-2026.json`, `<slug>-2027.json`).
+
+- **Neue Events werden ab jetzt als 2027-Ausgaben angelegt** (Dateiname `-2027`, `dates.start` in
+  2027). Rest-2026-Events (Okt–Dez 2026) nur noch anlegen, wenn sie klar in Scope und verifiziert
+  sind — sie sind in wenigen Wochen past/noindex, also geringer Wert.
+- **Folgeausgabe eines bestehenden 2026-Events:** NICHT die 2026-Datei umdatieren. Stattdessen
+  `<slug>-2027.json` als Kopie anlegen und gegen die offizielle Seite aktualisieren (Datum,
+  Anmelde-URL, Distanzen/Höhenmeter bei Streckenänderung, Auflagen-Nummer/Jubiläum in der
+  Beschreibung, `imageUrl` wenn neues Hero). Die Beschreibung darf nicht 1:1 identisch bleiben —
+  mindestens Datum/Auflage/Neuerungen einarbeiten, sonst wertet Google beide Seiten als Duplikat.
+  Die Detailseite verlinkt Ausgaben mit gleichem Slug-Stamm automatisch („Weitere Ausgaben").
+- **2027-Priorität bei Neuanlagen:** zuerst die 2027-Ausgaben der bestehenden, gut gepflegten
+  2026-Events (Klassiker, Ironman/Challenge, große Radmarathons) — die sind verifizierbar, haben
+  Suchnachfrage und guten Content. Erst danach ganz neue Events.
+- **Verifikation 2027:** Eine 2026-Durchführung ist kein Beleg für 2027. Offizielle Seite muss
+  2027-Termin nennen („Save the date", Anmeldung offen, Termin im Kalender). Nur Signal der
+  Fortführung ohne konkreten Tag → `confirmed: false` mit gleichem Wochenende wie 2026 als Schätzung
+  (Datum muss in 2027 liegen). Nichts dergleichen → nicht anlegen, im BACKLOG „re-check" notieren.
+- **Kennzahlen in `progress.md` pro Saison führen** (2026 upcoming/past, 2027 gesamt/confirmed).
+- **Slug-Konvention prüfen:** 2027-Datei braucht denselben Stamm wie die 2026-Datei, damit die
+  Ausgaben-Verlinkung greift (`tour-de-kaernten-2026` ↔ `tour-de-kaernten-2027`).
+
 ## Harte Limits pro Lauf (Anti-Flut)
 
-- **Maximal 15 netto-neue Events pro Lauf.** Keine Massen-Merges (kein "+200 Events"). Wenn du mehr
-  Kandidaten findest, notiere sie in `progress.md` als Backlog für spätere Läufe.
+- **Maximal 15 netto-neue Events pro Lauf** — 2027-Ausgaben bestehender Events zählen mit (sind
+  neue Seiten für Google). Keine Massen-Merges (kein "+200 Events"). Wenn du mehr Kandidaten
+  findest, notiere sie in `progress.md` als Backlog für spätere Läufe.
 - **Enrichment vor Neuanlage.** Priorität pro Lauf, in dieser Reihenfolge:
   1. Vorhandene künftige Events **vervollständigen** (fehlende `distanceKm`, `elevationGainM`,
      `imageUrl`, dünne Beschreibungen verbessern).
   2. Datenfehler/Dubletten fixen, unverifizierbare Events entfernen.
-  3. Erst dann bis zu 15 neue, gut recherchierte Events anlegen.
+  3. Erst dann bis zu 15 neue, gut recherchierte Events anlegen (Zielsaison 2027, siehe oben).
 - Wenn in einem Lauf noch viele Bestands-Events unvollständig sind: **keine** neuen anlegen, nur veredeln.
 
 ## Detailseiten-Content (gegen "Gecrawlt – nicht indexiert")
@@ -48,8 +75,8 @@ verdünnt die Domain). Behandlung:
 
 - Events deren Datum **vor heute** liegt: auf `noindex` setzen (siehe Umsetzung unten), damit Google
   Index-Budget auf künftige Rennen konzentriert. Nicht löschen (Datenwert bleibt, evtl. Folgeausgabe).
-- Wenn eine **Folgeausgabe** (nächstes Jahr / nächste Saison) offiziell bestätigt ist: Event auf das
-  neue Datum aktualisieren statt neu anlegen.
+- Wenn eine **Folgeausgabe** (2027) offiziell bestätigt ist: **neue Datei `<slug>-2027.json`**
+  anlegen (siehe Abschnitt Saisonen) — die 2026-Datei bleibt unverändert und wird past/noindex.
 - Vergangene Events sind bei imageUrl/Enrichment **niedrigste Priorität** (können übersprungen werden).
 
 **Umsetzung noindex:** Falls noch nicht vorhanden, `BaseLayout`/Event-Detailseite so erweitern, dass
@@ -60,8 +87,8 @@ Sitemap ausgeschlossen werden. Wenn du das änderst, dokumentiere es in `progres
 
 - Jedes Event **muss ein Datum haben.** Kein Datum aus offizieller Quelle verifizierbar → Event
   **entfernen** (bzw. gar nicht anlegen).
-- Vor Anlage/Update: **offizielle Veranstalter- oder Verbandsseite** prüfen, dass die 2026-Ausgabe
-  wirklich stattfindet (siehe CLAUDE.md "Verifying an Event Actually Happens" + Quellen-Zuverlässigkeit).
+- Vor Anlage/Update: **offizielle Veranstalter- oder Verbandsseite** prüfen, dass die Ausgabe der
+  jeweiligen Saison (neu: 2027) wirklich stattfindet (siehe CLAUDE.md "Verifying an Event Actually Happens" + Quellen-Zuverlässigkeit).
 - Aggregatoren (cycloworld, triafreunde, hdsports, ahotu …) nur als **Erst-Metadaten/Discovery**,
   Fakten immer gegen die offizielle Quelle gegenprüfen. Widerspruch → Feld weglassen statt raten.
 - Abgesagte/pausierte Events in die "Known Cancelled"-Liste in CLAUDE.md eintragen, damit sie nicht
@@ -69,7 +96,9 @@ Sitemap ausgeschlossen werden. Wenn du das änderst, dokumentiere es in `progres
 
 ## Recherche-Umfang
 
-Discovery-Quellen (Erst-Metadaten, dann offiziell gegenprüfen):
+Discovery-Quellen (Erst-Metadaten, dann offiziell gegenprüfen). Für 2027 die Kalender explizit auf
+das Jahr 2027 umstellen (Jahres-Filter/URL-Parameter der Aggregatoren) — viele zeigen per Default
+noch die laufende Saison:
 - Rad AT/DE + Zeitfahren: https://www.cycloworld.cc/de/kalender-de
 - Triathlon DE: https://www.triathlondeutschland.de/termine/veranstaltungskalender
 - Triathlon AT: https://www.triathlon-austria.at/de/service-termine
@@ -91,6 +120,8 @@ inhaltlich nötig, nicht spekulativ.
 ## SEO / Sitemap — jeden Lauf prüfen
 
 - `sitemap` (`@astrojs/sitemap`) baut korrekt, enthält alle **indexierbaren** URLs, keine noindex-URLs.
+- Landingpages sind pro Jahr (`/radrennen/oesterreich/2027`) und entstehen ab 3 Events je
+  Sport × Land × Jahr automatisch — kein manuelles Anlegen nötig.
 - JSON-LD aktuell: `SportsEvent` auf Detailseiten (Datum, Ort, Geo, Offers), `ItemList`/`Breadcrumb`
   auf Landingpages, `Organization`/`WebSite` auf Startseite. Bei neuen Feldern/Kategorien mitziehen.
 - `npm run build` muss grün sein (Zod-Validierung). Bei Schema-Fehler: fixen, nicht umgehen.
@@ -101,7 +132,8 @@ Memory-Datei: `claude-automation/sport-events-checker/progress.md`. Sie ist **ro
 nicht unbegrenzt anhängen, sondern aktuell halten:
 
 **Zu Beginn lesen:** den Block `## STATE (rolling)` am Dateikopf. Er steuert den Lauf:
-- **Kennzahlen** (Event-Gesamtzahl, upcoming/past, letzter Lauf/Commit) — als Ausgangsbasis.
+- **Kennzahlen** (Event-Gesamtzahl, je Saison upcoming/past bzw. gesamt/confirmed, letzter
+  Lauf/Commit) — als Ausgangsbasis.
 - **BLACKLIST** — abgesagte/eingestellte/nicht verifizierbare Events. Diese **nicht** neu anlegen.
 - **ZU PRÜFEN** — Phantom-Verdachtsfälle: vorhandene Events gegen offizielle Quelle verifizieren,
   bei bestätigtem Nicht-Stattfinden entfernen und in die BLACKLIST verschieben.

@@ -9,13 +9,15 @@ interface Props {
   selectedId: string | null;
   onSelect: (id: string | null) => void;
   baseUrl: string;
+  /** Replaces the generic empty-state hint, e.g. when the whole season is still empty. */
+  emptyHint?: string;
 }
 
 type SortKey = 'dateAsc' | 'dateDesc' | 'nameAsc';
 
 const PAGE_SIZE = 30;
 
-export default function EventList({ events, selectedId, onSelect, baseUrl }: Props) {
+export default function EventList({ events, selectedId, onSelect, baseUrl, emptyHint }: Props) {
   const [sort, setSort] = useState<SortKey>('dateAsc');
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const sorted = useMemo(() => sortEvents(events, sort), [events, sort]);
@@ -41,7 +43,7 @@ export default function EventList({ events, selectedId, onSelect, baseUrl }: Pro
     return (
       <div class="rounded-2xl bg-white border border-dashed border-[var(--color-ink-300)] p-10 text-center">
         <p class="font-semibold text-[var(--color-ink-900)] mb-1">{t('list.empty.title')}</p>
-        <p class="text-sm text-[var(--color-ink-500)]">{t('list.empty.hint')}</p>
+        <p class="text-sm text-[var(--color-ink-500)]">{emptyHint ?? t('list.empty.hint')}</p>
       </div>
     );
   }

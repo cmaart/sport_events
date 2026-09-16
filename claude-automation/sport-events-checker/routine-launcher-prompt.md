@@ -19,9 +19,9 @@ Lies den Kopf von `claude-automation/sport-events-checker/progress.md`, insbeson
 
 ## 2. Routine ausführen
 Lies dann `claude-automation/sport-events-checker/routine-prompt.md` vollständig und führe die dort
-beschriebene wöchentliche Wartungs-Routine exakt nach diesen Instruktionen aus (Anti-Flut-Limits,
-Content-Tiefe, noindex für vergangene Events, Verifikation, imageUrl, SEO/Sitemap-Check sowie
-Commit + Push auf master am Ende).
+beschriebene wöchentliche Wartungs-Routine exakt nach diesen Instruktionen aus (Saison-Regeln —
+Zielsaison 2027, eigene `-2027`-Dateien —, Anti-Flut-Limits, Content-Tiefe, noindex für vergangene
+Events, Verifikation, imageUrl, SEO/Sitemap-Check sowie Commit + Push auf master am Ende).
 
 ## 3. Gedächtnis fortschreiben (rollend, am Ende)
 Aktualisiere `progress.md`:

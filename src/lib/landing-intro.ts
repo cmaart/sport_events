@@ -48,6 +48,7 @@ export function buildLandingIntro(
   sport: Sport,
   countryName: string,
   events: LandingEventLike[],
+  year: number,
 ): string {
   const count = events.length;
   const noun = sport === 'cycling' ? 'Radrennen' : 'Triathlons';
@@ -62,8 +63,8 @@ export function buildLandingIntro(
   const mMax = new Date(sorted[sorted.length - 1].dates.start).getMonth() + 1;
   const timeframe =
     mMin === mMax
-      ? `im ${t(`month.${mMin}`)} 2026`
-      : `von ${t(`month.${mMin}`)} bis ${t(`month.${mMax}`)} 2026`;
+      ? `im ${t(`month.${mMin}`)} ${year}`
+      : `von ${t(`month.${mMin}`)} bis ${t(`month.${mMax}`)} ${year}`;
 
   // --- geography: prefer regions (AT/DE), else fall back to example races ---
   const regions = distinct(
@@ -82,7 +83,7 @@ export function buildLandingIntro(
   }
 
   sentences.push(
-    `${count} ${noun} in ${countryName} für die Saison 2026 — ${timeframe}${geo}.`,
+    `${count} ${noun} in ${countryName} für die Saison ${year} — ${timeframe}${geo}.`,
   );
 
   // --- category spectrum (canonical order → deterministic) ---

@@ -3,9 +3,11 @@ import {
   COUNTRIES,
   COUNTRY_LABELS,
   CYCLING_CATEGORIES,
+  SEASONS,
   TRIATHLON_CATEGORIES,
   type Category,
   type Country,
+  type Season,
   type Sport,
 } from '../../lib/types';
 import { defaultFilters, type Filters } from '../../lib/filters';
@@ -16,11 +18,14 @@ const COUNTRY_SEARCH_THRESHOLD = 8;
 interface Props {
   filters: Filters;
   onChange: (f: Filters) => void;
+  /** Events in the currently selected season (denominator of the "x / y" footer). */
   totalCount: number;
   filteredCount: number;
+  /** Events per season, shown in the season toggle. */
+  seasonCounts: Record<number, number>;
 }
 
-export default function FilterBar({ filters, onChange, totalCount, filteredCount }: Props) {
+export default function FilterBar({ filters, onChange, totalCount, filteredCount, seasonCounts }: Props) {
   const visibleCategories = useMemo<readonly Category[]>(() => {
     if (filters.sport === 'cycling') return CYCLING_CATEGORIES;
     if (filters.sport === 'triathlon') return TRIATHLON_CATEGORIES;
@@ -59,10 +64,40 @@ export default function FilterBar({ filters, onChange, totalCount, filteredCount
         <button
           type="button"
           class="text-xs text-[var(--color-brand-600)] hover:underline"
-          onClick={() => onChange({ ...defaultFilters })}
+          onClick={() => onChange({ ...defaultFilters, season: filters.season })}
         >
           {t('filter.reset')}
         </button>
+      </div>
+
+      <div>
+        <label class="text-xs font-medium uppercase tracking-wide text-[var(--color-ink-500)] mb-2 block">
+          {t('filter.season.label')}
+        </label>
+        <div class="grid grid-cols-2 gap-1.5 p-1 bg-[var(--color-ink-100)] rounded-lg" role="radiogroup" aria-label={t('filter.season.label')}>
+          {SEASONS.map((s: Season) => {
+            const active = filters.season === s;
+            return (
+              <button
+                key={s}
+                type="button"
+                role="radio"
+                aria-checked={active}
+                onClick={() => update({ season: s })}
+                class={`text-sm py-1.5 px-3 rounded-md transition flex items-center justify-center gap-1.5 ${
+                  active
+                    ? 'bg-white shadow-sm font-semibold text-[var(--color-ink-900)]'
+                    : 'text-[var(--color-ink-500)] hover:text-[var(--color-ink-900)]'
+                }`}
+              >
+                {s}
+                <span class={`text-[10px] tabular-nums px-1.5 py-0.5 rounded-full ${active ? 'bg-[var(--color-brand-100)] text-[var(--color-brand-700)]' : 'bg-white/60 text-[var(--color-ink-500)]'}`}>
+                  {seasonCounts[s] ?? 0}
+                </span>
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       <div>

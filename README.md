@@ -1,6 +1,6 @@
 # Amateur-Sportevents · AT & DE
 
-Statische Website mit einer kuratierten Übersicht aller Amateur-Radrennen und Triathlons in **Österreich und Deutschland** (Saison 2026) — interaktive Karte, mächtige Filter, mobil-freundlich. Präsentiert von [Endure Cycling](https://endure-cycling.com). Gehostet auf GitHub Pages unter **https://events.endure-cycling.com**.
+Statische Website mit einer kuratierten Übersicht aller Amateur-Radrennen und Triathlons in **Österreich, Deutschland und Europa** (Saisonen 2026 und 2027, umschaltbar) — interaktive Karte, mächtige Filter, mobil-freundlich. Präsentiert von [Endure Cycling](https://endure-cycling.com). Gehostet auf GitHub Pages unter **https://events.endure-cycling.com**.
 
 ## Tech-Stack
 
@@ -33,7 +33,7 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 ### Schritt-für-Schritt
 
 1. Repo forken oder neuen Branch anlegen.
-2. `src/content/events/_template.json` nach `src/content/events/<kebab-slug>-2026.json` kopieren.
+2. `src/content/events/_template.json` nach `src/content/events/<kebab-slug>-<jahr>.json` kopieren (z. B. `-2027`). Das Jahr im Dateinamen entspricht dem Startjahr; pro Ausgabe eine eigene Datei — eine 2026-Datei wird nicht auf 2027 „umgeschrieben“.
 3. Felder ausfüllen (siehe Schema unten).
 4. Koordinaten via [openstreetmap.org](https://www.openstreetmap.org/) holen: Rechtsklick auf Veranstaltungsort → "Adresse anzeigen" → Lat/Lng aus der URL bzw. dem Panel kopieren.
 5. Lokal `npm run dev` starten — Zod-Validierungsfehler werden direkt angezeigt.
@@ -43,14 +43,14 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 
 ```json
 {
-  "id": "eindeutige-id-2026",
+  "id": "eindeutige-id-2027",
   "name": "Eventname",
   "sport": "cycling | triathlon",
   "categories": ["Gran Fondo", "Radmarathon"],
   "country": "AT",
   "dates": {
-    "start": "2026-06-15",
-    "end": "2026-06-15",
+    "start": "2027-06-13",
+    "end": "2027-06-13",
     "confirmed": true
   },
   "location": {
@@ -75,12 +75,16 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 - **`categories`** (Triathlon): `Sprintdistanz`, `Olympische Distanz`, `Mitteldistanz`, `Langdistanz`, `Cross-Triathlon`
 - **`country`**: `AT` oder `DE` (Pflichtfeld)
 - **`location.region`** (optional, nur für AT-Bundesländer): `Wien`, `Niederösterreich`, `Oberösterreich`, `Salzburg`, `Steiermark`, `Kärnten`, `Tirol`, `Vorarlberg`, `Burgenland`. Für DE-Events weglassen.
-- **`dates.confirmed`**: `false` setzen, wenn der genaue Termin 2026 noch nicht offiziell bestätigt ist. Die Karte/Liste zeigt dann „Datum noch offen“ statt des Datums.
+- **`dates.confirmed`**: `false` setzen, wenn der genaue Termin der Saison noch nicht offiziell bestätigt ist. Die Karte/Liste zeigt dann „Datum noch offen“ statt des Datums.
 - **`imageUrl`** (optional): URL eines Hero-Bilds vom Veranstalter, das beim Teilen der Event-Detailseite auf WhatsApp, LinkedIn oder Facebook als Preview angezeigt wird. Empfehlung: mindestens 1200×630 px im Seitenverhältnis 1.91:1 (16:9 wie 1920×1080 wird ebenfalls sauber gecroppt). Bei Hotlink-Sperre des Veranstalters oder schlechter Bildqualität das Feld besser weglassen — dann wird das Default-OG-Bild der Seite verwendet.
+
+## Saisonen
+
+Die Site zeigt mehrere Saisonen (aktuell 2026 und 2027). Ein Event gehört zur Saison seines Startjahres — ein eigenes Feld gibt es nicht. Im Filter lässt sich die Saison umschalten (Standard: 2027); die Wahl wird im Browser gespeichert und steht als `?saison=` in der URL, damit geteilte Links die richtige Saison öffnen. Landingpages gibt es pro Sportart × Land × Jahr, z. B. `/radrennen/oesterreich/2027`.
 
 ## Datenqualität
 
-Viele Events sind **noch nicht offiziell für 2026 bestätigt** — sie sind als `"confirmed": false` markiert, und das geschätzte Datum basiert auf dem üblichen Wochenende des Vorjahres. Vor der ersten Veröffentlichung des Pakets bitte die offiziellen Eventseiten checken und Termine korrigieren.
+Events, deren Termin für die jeweilige Saison **noch nicht offiziell bestätigt** ist, sind als `"confirmed": false` markiert; das geschätzte Datum basiert dann auf dem üblichen Wochenende des Vorjahres und wird in der UI als „Datum noch offen“ angezeigt.
 
 ## Deployment
 

@@ -2,14 +2,24 @@
 import { getCollection } from 'astro:content';
 import { t } from '../lib/i18n';
 import { COUNTRY_LABELS } from '../lib/types';
-import { collectLandingPaths } from '../lib/landing';
+import { collectLandingPaths, landingHref, sortLandings } from '../lib/landing';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const lockup = `${base}/assets/endure-lockup.png`;
 
 const entries = await getCollection('events');
-const landings = collectLandingPaths(entries).sort((a, b) => b.count - a.count);
-const cyclingLandings = landings.filter((l) => l.sport === 'cycling').slice(0, 6);
-const triathlonLandings = landings.filter((l) => l.sport === 'triathlon').slice(0, 6);
+const landings = collectLandingPaths(entries).sort(sortLandings);
+// Per sport: up to 6 landings per season, newest season first.
+const perSport = (sport: 'cycling' | 'triathlon') => {
+  const bySeason = new Map<number, typeof landings>();
+  for (const l of landings.filter((l) => l.sport === sport)) {
+    const list = bySeason.get(l.year) ?? [];
+    if (list.length < 6) list.push(l);
+    bySeason.set(l.year, list);
+  }
+  return Array.from(bySeason.values()).flat();
+};
+const cyclingLandings = perSport('cycling');
+const triathlonLandings = perSport('triathlon');
 ---
 
 <footer class="border-t border-[var(--color-ink-100)] bg-white mt-12">
@@ -19,14 +29,14 @@ const triathlonLandings = landings.filter((l) => l.sport === 'triathlon').slice(
         {cyclingLandings.length > 0 && (
           <div>
             <h2 class="text-xs font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">
-              {t('hero.stat.cycling')} 2026
+              {t('hero.stat.cycling')}
             </h2>
             <ul class="flex flex-wrap gap-x-3 gap-y-2 text-sm">
               {cyclingLandings.map((l) => (
                 <li>
-                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                  <a href={landingHref(base, l)}
                     class="text-[var(--color-ink-700)] hover:text-[var(--color-brand-600)]">
-                    {t('landing.title.cycling', { country: COUNTRY_LABELS[l.country].name })}
+                    {t('landing.title.cycling', { country: COUNTRY_LABELS[l.country].name, year: l.year })}
                   </a>
                 </li>
               ))}
@@ -36,14 +46,14 @@ const triathlonLandings = landings.filter((l) => l.sport === 'triathlon').slice(
         {triathlonLandings.length > 0 && (
           <div>
             <h2 class="text-xs font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-3">
-              {t('hero.stat.triathlon')} 2026
+              {t('hero.stat.triathlon')}
             </h2>
             <ul class="flex flex-wrap gap-x-3 gap-y-2 text-sm">
               {triathlonLandings.map((l) => (
                 <li>
-                  <a href={`${base}/${l.sportSlug}/${l.countrySlug}/2026`}
+                  <a href={landingHref(base, l)}
                     class="text-[var(--color-ink-700)] hover:text-[var(--color-brand-600)]">
-                    {t('landing.title.triathlon', { country: COUNTRY_LABELS[l.country].name })}
+                    {t('landing.title.triathlon', { country: COUNTRY_LABELS[l.country].name, year: l.year })}
                   </a>
                 </li>
               ))}

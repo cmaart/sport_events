@@ -2,8 +2,9 @@ import { useEffect, useMemo, useState } from 'preact/hooks';
 import { lazy, Suspense } from 'preact/compat';
 import FilterBar from './FilterBar';
 import EventList from './EventList';
-import { applyFilters, defaultFilters, type EventData, type Filters } from '../../lib/filters';
-import { filtersFromSearch, syncUrl, loadFiltersFromStorage, saveFiltersToStorage } from '../../lib/url-state';
+import { applyFilters, countBySeason, defaultFilters, type EventData, type Filters } from '../../lib/filters';
+import { filtersFromSearch, syncUrl, loadSeasonFromStorage, saveSeasonToStorage } from '../../lib/url-state';
+import { DEFAULT_SEASON } from '../../lib/types';
 import { buildIndex, searchMatches } from '../../lib/search';
 import { t } from '../../lib/i18n';
 
@@ -29,7 +30,8 @@ export default function EventsExplorer({ baseUrl }: Props) {
 
   useEffect(() => {
     setIsClient(true);
-    setFilters(filtersFromSearch(window.location.search));
+    // Season: URL param wins, then the visitor's remembered choice, then default.
+    setFilters(filtersFromSearch(window.location.search, loadSeasonFromStorage() ?? DEFAULT_SEASON));
     fetch(`${baseUrl}/events.json`)
       .then((r) => r.json())
       .then((data: EventData[]) => setEvents(data))
@@ -41,9 +43,15 @@ export default function EventsExplorer({ baseUrl }: Props) {
     if (isClient) syncUrl(filters);
   }, [filters, isClient]);
 
+  useEffect(() => {
+    if (isClient) saveSeasonToStorage(filters.season);
+  }, [filters.season, isClient]);
+
   const index = useMemo(() => buildIndex(events), [events]);
   const matches = useMemo(() => searchMatches(index, filters.query), [index, filters.query]);
   const filtered = useMemo(() => applyFilters(events, filters, matches), [events, filters, matches]);
+  const seasonCounts = useMemo(() => countBySeason(events), [events]);
+  const seasonTotal = seasonCounts[filters.season] ?? 0;
 
   useEffect(() => {
     if (selectedId && !filtered.find((e) => e.slug === selectedId)) {
@@ -102,7 +110,7 @@ export default function EventsExplorer({ baseUrl }: Props) {
       <div class="grid grid-cols-1 lg:grid-cols-[320px_1fr] xl:grid-cols-[340px_1fr] gap-6">
         {/* Desktop filter sidebar */}
         <aside class="hidden lg:block lg:sticky lg:top-20 lg:self-start lg:max-h-[calc(100vh-6rem)] lg:overflow-y-auto">
-          <FilterBar filters={filters} onChange={setFilters} totalCount={events.length} filteredCount={filtered.length} />
+          <FilterBar filters={filters} onChange={setFilters} totalCount={seasonTotal} filteredCount={filtered.length} seasonCounts={seasonCounts} />
         </aside>
 
         {/* Mobile filter drawer */}
@@ -119,7 +127,7 @@ export default function EventsExplorer({ baseUrl }: Props) {
                   ✕
                 </button>
               </div>
-              <FilterBar filters={filters} onChange={setFilters} totalCount={events.length} filteredCount={filtered.length} />
+              <FilterBar filters={filters} onChange={setFilters} totalCount={seasonTotal} filteredCount={filtered.length} seasonCounts={seasonCounts} />
             </div>
           </div>
         )}
@@ -140,7 +148,13 @@ export default function EventsExplorer({ baseUrl }: Props) {
             {(view === 'list' || view === 'both') && (
               <div class={view === 'both' ? 'xl:order-1' : ''}>
                 {loaded ? (
-                  <EventList events={filtered} selectedId={selectedId} onSelect={handleSelect} baseUrl={baseUrl} />
+                  <EventList
+                    events={filtered}
+                    selectedId={selectedId}
+                    onSelect={handleSelect}
+                    baseUrl={baseUrl}
+                    emptyHint={seasonTotal === 0 ? t('filter.season.empty', { season: filters.season }) : undefined}
+                  />
                 ) : (
                   <div class="grid gap-4">
                     {[0, 1, 2, 3].map((i) => (

@@ -1,6 +1,19 @@
 export const SPORTS = ['cycling', 'triathlon'] as const;
 export type Sport = (typeof SPORTS)[number];
 
+/**
+ * Seasons the site covers. An event belongs to the season of its start year
+ * (no extra JSON field). One JSON file per edition: `<slug>-2026.json`,
+ * `<slug>-2027.json`. Add the next year here when it opens; Zod, the UI
+ * season toggle and the landing pages pick it up automatically.
+ */
+export const SEASONS = [2026, 2027] as const;
+export type Season = (typeof SEASONS)[number];
+/** Season the explorer shows when nothing is stored or given in the URL. */
+export const DEFAULT_SEASON: Season = 2027;
+export const isSeason = (n: number): n is Season => (SEASONS as readonly number[]).includes(n);
+export const seasonOf = (start: string | Date): number => new Date(start).getFullYear();
+
 export const CYCLING_CATEGORIES = [
   'Kriterium',
   'Gran Fondo',

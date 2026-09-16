@@ -1,4 +1,4 @@
-import type { Category, Country, Region, Sport } from './types';
+import { DEFAULT_SEASON, seasonOf, type Category, type Country, type Region, type Season, type Sport } from './types';
 
 export interface EventData {
   slug: string;
@@ -18,6 +18,8 @@ export interface EventData {
 }
 
 export interface Filters {
+  /** Season (start year) shown — a view mode, not counted as an active filter. */
+  season: Season;
   sport: Sport | 'all';
   categories: Category[];
   countries: Country[];
@@ -28,6 +30,7 @@ export interface Filters {
 }
 
 export const defaultFilters: Filters = {
+  season: DEFAULT_SEASON,
   sport: 'all',
   categories: [],
   countries: [],
@@ -45,6 +48,7 @@ export function applyFilters(events: EventData[], filters: Filters, searchMatche
   if (to) to.setHours(23, 59, 59, 999);
 
   return events.filter((e) => {
+    if (seasonOf(e.dates.start) !== filters.season) return false;
     if (filters.sport !== 'all' && e.sport !== filters.sport) return false;
     if (filters.categories.length > 0 && !filters.categories.some((c) => e.categories.includes(c))) return false;
     if (filters.countries.length > 0 && !filters.countries.includes(e.country)) return false;
@@ -68,6 +72,16 @@ export function countActive(filters: Filters): number {
   if (filters.query.trim()) n++;
   if (!filters.upcomingOnly) n++;
   return n;
+}
+
+/** Number of events per season (for the season toggle). */
+export function countBySeason(events: EventData[]): Record<number, number> {
+  const counts: Record<number, number> = {};
+  for (const e of events) {
+    const y = seasonOf(e.dates.start);
+    counts[y] = (counts[y] ?? 0) + 1;
+  }
+  return counts;
 }
 
 export function sortEvents(events: EventData[], by: 'dateAsc' | 'dateDesc' | 'nameAsc'): EventData[] {
