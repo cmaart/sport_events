@@ -1,0 +1,26 @@
+{
+  "id": "ironman-hamburg-2027",
+  "name": "IRONMAN Hamburg – European Championship",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-hamburg",
+  "registrationUrl": "https://www.ironman.com/races/im-hamburg/register",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hambourg/ironman-european-championship-hamburg/era8osaplhxrkiwn38vs",
+  "description": "Zehnte Auflage der IRONMAN Hamburg European Championship am 6. Juni 2027, Rennwoche vom 3. bis 7. Juni. Der Kurs gehört zu den schnellsten Langdistanzen Europas: 3,8 km Schwimmen in der Alster mitten in der City, 180 km (offiziell 178 km) nahezu flache Radrunden durch Hamburgs Süden und Umland mit rund 400 Höhenmetern insgesamt, anschließend 42,2 km Marathon in vier Runden durch die Innenstadt mit Ziel am Rathausmarkt.\n\nAls Europameisterschaft werden Kona-Slots vergeben, entsprechend groß ist das Interesse: General Entry und IRONMAN Experiences für 2027 sind bereits ausverkauft, nur Foundation- und Sonderstartplätze sind noch offen.",
+  "distanceKm": 226,
+  "elevationGainM": 400
+}

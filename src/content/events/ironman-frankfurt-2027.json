@@ -1,0 +1,25 @@
+{
+  "id": "ironman-frankfurt-2027",
+  "name": "Mainova IRONMAN European Championship Frankfurt",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Frankfurt am Main",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-frankfurt",
+  "registrationUrl": "https://www.ironman.com/races/im-frankfurt/register",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hesse/district-de-darmstadt/ironman-francfort-championnat-d-europe/wat8fknnspwajylr0wh2",
+  "description": "Die Mainova IRONMAN European Championship Frankfurt geht am 27. Juni 2027 in ihre 25. Auflage – Europas größtes IRONMAN-Rennen und zugleich Europameisterschaft auf der Langdistanz. Die Strecke bleibt der Klassiker: 3,8 km Schwimmen im Langener Waldsee, 180 km Radfahren in zwei Runden durch den Taunus mit den bekannten Anstiegen bei Bad Vilbel und dem Kopfsteinpflaster „The Hell“ in Heartbreak Hill, dann 42,2 km Marathon in vier Runden entlang des Mains mit Zieleinlauf auf dem Römerberg.\n\nRund 1.500 Höhenmeter auf der Radstrecke und häufig hohe Temperaturen am Renntag machen Frankfurt zu einem ehrlichen Championship-Kurs. Die reguläre Anmeldung für 2027 ist bereits ausverkauft; Startplätze gibt es nur noch über IRONMAN Experiences und die IRONMAN Foundation.",
+  "distanceKm": 226,
+  "elevationGainM": 1500
+}

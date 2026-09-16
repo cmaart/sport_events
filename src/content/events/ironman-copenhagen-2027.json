@@ -1,0 +1,24 @@
+{
+  "id": "ironman-copenhagen-2027",
+  "name": "IRONMAN Copenhagen",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "DK",
+  "dates": {
+    "start": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kopenhagen",
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-copenhagen",
+  "registrationUrl": "https://www.ironman.com/races/im-copenhagen/register",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/danemark/ironman-de-copenhague/362958190_595950642702216_1015734375010064706_n_t9amgt",
+  "description": "IRONMAN Copenhagen am 22. August 2027 – der Flachkurs-Klassiker in Dänemarks Hauptstadt. Start mit 3,8 km Schwimmen in der geschützten Lagune am Amager Strandpark, dann 180 km Radfahren in zwei Runden durch das Zentrum Kopenhagens und die Küstenlandschaft Nordseelands mit nur rund 400 Höhenmetern. Der abschließende Marathon über 42,2 km führt in vier Runden durch die Innenstadt, vorbei an Nyhavn und dem Rathausplatz, gesäumt von einem der lautesten Publika der IRONMAN-Serie.\n\nDie Nachfrage ist enorm: Die General Registration für 2027 öffnete am 20. August 2026 und war nach etwa einer Stunde ausverkauft (2026 hatte es noch 46 Stunden gedauert). IRONMAN-Experiences-Startplätze sollen folgen.",
+  "distanceKm": 226,
+  "elevationGainM": 400
+}

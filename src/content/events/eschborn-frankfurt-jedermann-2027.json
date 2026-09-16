@@ -1,0 +1,25 @@
+{
+  "id": "eschborn-frankfurt-jedermann-2027",
+  "name": "Eschborn–Frankfurt Jedermannrennen",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eschborn",
+    "lat": 50.1428,
+    "lng": 8.5713,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.eschborn-frankfurt.de",
+  "registrationUrl": "https://in.timeto.com/adac-velotour-2027",
+  "imageUrl": "https://live.staticflickr.com/2421/3705537970_c8ba3c45b3_b.jpg",
+  "description": "Am 1. Mai 2027 rollt wieder die ADAC Velotour im Rahmen von Eschborn–Frankfurt – das Jedermannrennen zum einzigen deutschen UCI-WorldTour-Klassiker. Drei Strecken stehen zur Wahl: Skyline (ca. 40 km, flach durch die Skyline-Kulisse), Taunus Express (ca. 85 km) und Taunus Classic (ca. 97 km) mit dem Großen Feldberg und dem gefürchteten Mammolshainer Stich. Start in Eschborn, Zieleinlauf für alle vor der Alten Oper in Frankfurt.\n\nDie Anmeldung für 2027 ist bereits geöffnet; 2026 war das Rennen im Februar ausverkauft. Startgelder ab 89 Euro (Skyline) bzw. 129 Euro (Taunus-Strecken).",
+  "distanceKm": 97,
+  "elevationGainM": 1400
+}

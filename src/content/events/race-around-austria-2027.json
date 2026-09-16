@@ -1,0 +1,26 @@
+{
+  "id": "race-around-austria-2027",
+  "name": "Race Around Austria",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-09",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Georgen im Attergau",
+    "lat": 47.9985,
+    "lng": 13.5322,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.racearoundaustria.at",
+  "registrationUrl": "https://www.racearoundaustria.at/raa/anmeldeinfo",
+  "imageUrl": "https://assets.tourdata.at/1920x/254604/EE6F92622DAFA9C18057776768DB8C314EF4A320A6EC88074926E329CE8BC73D/race-around-austria.jpg",
+  "description": "Race Around Austria 2027 vom 9. bis 15. August 2027 mit Start und Ziel in St. Georgen im Attergau – das Nonstop-Ultracycling-Rennen einmal rund um Österreich. Die Solo-Distanz führt über rund 2.200 km und 30.000 Höhenmeter entlang der Staatsgrenze; dazu kommen Team-Wertungen (2er, 4er, 8er), die Challenge-Distanz über 560 km sowie als Rahmenbewerb das Gravel Around Salzkammergut am 14. August 2027 (163 oder 217 km).\n\nDie Registrierung öffnet am 1. Oktober 2026 um 09:00 Uhr und läuft bis 1. Juli 2027 mit gestaffelten Startgeldern (Stichtage 1. April und 1. Juni); Nachmeldungen sind im Juli 2027 per E-Mail möglich.",
+  "distanceKm": 2200,
+  "elevationGainM": 30000
+}

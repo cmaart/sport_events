@@ -1,0 +1,25 @@
+{
+  "id": "glocknerkoenig-2027",
+  "name": "Glocknerkönig",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bruck an der Großglocknerstraße",
+    "lat": 47.2895,
+    "lng": 12.8254,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.glocknerkoenig.com",
+  "imageUrl": "https://www.glocknerkoenig.com/Bilder/Glocknerk%C3%B6nig/Bilder/2025/16918/image-thumb__16918__headerImage/227%20-%20Glocknerk%C3%B6nig-227.jpg",
+  "description": "Am 6. Juni 2027 feiert der Glocknerkönig seine 30. Ausgabe – das Jubiläums-Bergzeitfahren auf der für den Autoverkehr gesperrten Großglockner Hochalpenstraße. Gestartet wird in Bruck an der Großglocknerstraße, die Classic-Strecke misst 27,3 km mit 1.672 Höhenmetern bis zum Fuscher Törl, die Ultra-Variante führt 28,9 km und 1.815 Höhenmeter weiter hinauf zur Edelweißspitze (2.571 m). Kehren, Höhenlage und Wetterumschwünge machen die Strecke zu einem der anspruchsvollsten Bergzeitfahren der Alpen.\n\nDie Anmeldung für das Jubiläumsevent soll laut Veranstalter voraussichtlich im Dezember 2026 öffnen; die Ultra-Kategorie war 2026 ausverkauft, früh anmelden lohnt sich.",
+  "distanceKm": 27,
+  "elevationGainM": 1672
+}

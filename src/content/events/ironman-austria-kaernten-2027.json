@@ -1,0 +1,26 @@
+{
+  "id": "ironman-austria-kaernten-2027",
+  "name": "Ironman Kärnten-Klagenfurt",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Klagenfurt am Wörthersee",
+    "lat": 46.6247,
+    "lng": 14.3052,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-austria",
+  "registrationUrl": "https://www.ironman.com/races/im-austria/register",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/autriche/carinthie/klagenfurt/ironman-de-carinthie-klagenfurt/yjll28y24znlsscqoqne",
+  "description": "Der IRONMAN Kärnten-Klagenfurt kehrt am 13. Juni 2027 an den Wörthersee zurück – seit 1999 einer der beliebtesten und schnellsten Langdistanz-Kurse der Welt. Geschwommen wird 3,8 km im Wörthersee mit dem berühmten Schlussabschnitt durch den Lendkanal, danach 180 km Rad in zwei Runden durch das Drautal und Rosental mit dem Rupertiberg als Schlüsselstelle (rund 1.500 Höhenmeter). Der Marathon über 42,2 km führt flach entlang von See und Lendkanal in die Klagenfurter Innenstadt.\n\nDie Anmeldung für 2027 öffnete bereits im Juni 2026 und ist inklusive IRONMAN Experiences ausverkauft – wer 2027 starten will, muss auf Foundation-Slots oder Nachrücker hoffen.",
+  "distanceKm": 226,
+  "elevationGainM": 1500
+}

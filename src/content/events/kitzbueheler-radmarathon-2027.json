@@ -1,0 +1,26 @@
+{
+  "id": "kitzbueheler-radmarathon-2027",
+  "name": "Kitzbüheler Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kitzbühel",
+    "lat": 47.4488,
+    "lng": 12.3912,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://kitzbueheler-radmarathon.at",
+  "imageUrl": "https://kitzbueheler-radmarathon.at/wp-content/uploads/2026/09/KRM_2026_Samstag_c_Floobe-Medienproduktion_lowres_22-scaled.jpg",
+  "description": "Siebte Auflage des Kitzbüheler Radmarathons am 5. September 2027 – der Herbst-Klassiker der Kitzbüheler Alpen mit dem berühmtesten Zielanstieg Österreichs. Die Klassik-Strecke misst 216 km und 4.600 Höhenmeter und endet mit den bis zu 22 Prozent steilen Rampen hinauf auf das Kitzbüheler Horn (1.670 m). Die Kitz-Variante über 209 km und 3.800 Höhenmeter lässt den Horn-Anstieg aus und finisht in der Kitzbüheler Vorderstadt.\n\nUnterwegs warten Pass Thurn, Gerlos und Kelchsau; die Verpflegungs- und Zeitlimit-Punkte sind auf lange Renntage ausgelegt. Der Anmeldestart für 2027 ist noch nicht veröffentlicht – 2026 war das Rennen ausverkauft.",
+  "distanceKm": 216,
+  "elevationGainM": 4600
+}

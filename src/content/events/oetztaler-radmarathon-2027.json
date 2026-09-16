@@ -1,0 +1,26 @@
+{
+  "id": "oetztaler-radmarathon-2027",
+  "name": "Ötztaler Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-29",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sölden",
+    "lat": 46.9692,
+    "lng": 11.0054,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.oetztaler-radmarathon.com",
+  "imageUrl": "https://www.oetztal-hub.com/local/soel_oerm_sujet_digital_27_16zu9_mitsponsoren.jpg",
+  "description": "Der Ötztaler Radmarathon 2027 startet am 29. August 2027 in Sölden – die Strecke bleibt unverändert der härteste Ein-Tages-Radmarathon im deutschsprachigen Raum: 227 km und rund 5.500 Höhenmeter über Kühtai (2.017 m), Brenner (1.377 m), Jaufenpass (2.094 m) und als Finale das Timmelsjoch (2.509 m) mit der Abfahrt zurück nach Sölden. Die Zeitlimits an den Kontrollpunkten sorgen dafür, dass nur gut vorbereitete Fahrer:innen das Ziel erreichen.\n\nRund 4.000 Startplätze werden traditionell per Losverfahren vergeben; die Anmeldephase für 2027 ist auf der offiziellen Seite noch nicht veröffentlicht (üblicherweise Jänner). Start ist um 06:30 Uhr in Sölden, Rennzentrum und Expo im Ortszentrum.",
+  "distanceKm": 227,
+  "elevationGainM": 5500
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ironman-switzerland-thun-2027",
+  "name": "IRONMAN Switzerland Thun",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Thun",
+    "lat": 46.758,
+    "lng": 7.628
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-switzerland",
+  "registrationUrl": "https://www.ironman.com/races/im-switzerland/register",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/eb/4a/26/ironman-switzerland-60-1756061065.webp",
+  "description": "IRONMAN Switzerland Thun am 4. Juli 2027: 3,8 km Schwimmen im Thunersee vor der Kulisse von Eiger, Mönch und Jungfrau, 180 km Radfahren in zwei Runden durch das Berner Voralpenland mit rund 1.800 Höhenmetern und ein 42,2-km-Marathon in mehreren Schleifen durch die Thuner Altstadt und entlang der Aare.\n\nDer Kurs ist selektiver als die flachen Nordeuropa-Rennen und verlangt auf dem Rad Kletterqualitäten. Rund 2.000 Athlet:innen aus über 60 Nationen und Kona-Qualifikationsslots machen Thun zum Saisonhöhepunkt in der Schweiz. Die Anmeldung für 2027 ist seit Juli 2026 geöffnet und noch nicht ausverkauft.",
+  "distanceKm": 226,
+  "elevationGainM": 1800
+}

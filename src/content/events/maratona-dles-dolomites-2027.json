@@ -1,0 +1,23 @@
+{
+  "id": "maratona-dles-dolomites-2027",
+  "name": "Maratona dles Dolomites – Enel",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Corvara",
+    "lat": 46.5497,
+    "lng": 11.876
+  },
+  "websiteUrl": "https://www.maratona.it/en/",
+  "imageUrl": "https://www.maratona.it/pics/MaratonaDolomites.jpg",
+  "description": "Die 40. Maratona dles Dolomites – Enel findet am 4. Juli 2027 in Alta Badia statt, Rider's Week vom 28. Juni bis 4. Juli. Der Gran Fondo im UNESCO-Welterbe Dolomiten bietet traditionell drei Strecken: Maratona (138 km, ca. 4.230 Hm) über Campolongo, Pordoi, Sella, Gardena, Giau und Falzarego/Valparola, Mezza Maratona (106 km, ca. 3.130 Hm) und Sellaronda (55 km, ca. 1.780 Hm). Start und Ziel in Corvara auf komplett gesperrten Passstraßen.\n\nDie Startplätze (zuletzt 8.000 bei über 32.000 Bewerbungen) werden per Losverfahren vergeben; Top-Platzierte der Bergwertungen erhalten ihren Platz ohne Verlosung. Die Teilnahmebedingungen für 2027 sollen Ende September 2026 veröffentlicht werden. Folgetermine stehen bereits fest: 2. Juli 2028 und 1. Juli 2029.",
+  "distanceKm": 138,
+  "elevationGainM": 4230
+}

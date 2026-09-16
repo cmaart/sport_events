@@ -1,0 +1,27 @@
+{
+  "id": "dolomitenradrundfahrt-2027",
+  "name": "Dolomitenradrundfahrt & SuperGiroDolomiti",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lienz",
+    "lat": 46.8285,
+    "lng": 12.7686,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.dolomitensport.at",
+  "registrationUrl": "https://events.racetime.pro/de/event/1523",
+  "imageUrl": "https://www.dolomitensport.at/templates/yootheme/cache/eb/Expa%20Pictures%20Dolomitenradrundfahrt%20240609-5110%202-ebb76067.jpeg",
+  "description": "39. Dolomitenradrundfahrt am 13. Juni 2027 in Lienz – Österreichs ältester Radmarathon (seit 1950). Die klassische Runde führt über 112 km und 1.870 Höhenmeter durch Osttirol und das Lesachtal mit dem Kartitscher Sattel als Hauptanstieg. Parallel findet die 12. Ausgabe des SuperGiroDolomiti statt: 218 km und rund 5.060 Höhenmeter über Plöckenpass, Monte Zoncolan und Sella Valcalda – eines der härtesten Marathon-Formate der Ostalpen.\n\nStart und Ziel liegen im Zentrum von Lienz, die Anmeldung für 2027 ist bereits über racetime.pro geöffnet.",
+  "distanceKm": 112,
+  "elevationGainM": 1870
+}

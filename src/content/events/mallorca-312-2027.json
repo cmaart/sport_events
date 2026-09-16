@@ -1,0 +1,23 @@
+{
+  "id": "mallorca-312-2027",
+  "name": "Mallorca 312 OK Mobility Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-04-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Playa de Muro",
+    "lat": 39.8041,
+    "lng": 3.1233
+  },
+  "websiteUrl": "https://www.mallorca312.com",
+  "imageUrl": "https://mallorca312.com/wp-content/uploads/2026/04/the.adventure.bakery-23-scaled.jpg",
+  "description": "Mallorca 312 OK Mobility am 24. April 2027 – der Saisonauftakt-Klassiker auf komplett gesperrten Straßen durch die Serra de Tramuntana (UNESCO-Welterbe). Drei Strecken ab Playa de Muro: die namensgebenden 312 km mit rund 4.500 Höhenmetern über Coll de Sóller, Puig Major und Coll de Femenia, dazu die Alternativen über 225 km und 167 km. Rund 8.500 Fahrer:innen aus über 60 Nationen bilden eines der größten Gran-Fondo-Felder Europas.\n\nDie allgemeine Anmeldung für 2027 öffnet am 6. Oktober 2026 – die Plätze waren zuletzt innerhalb von Minuten vergeben. Verpflegungsstationen und Zeitlimits sind auf lange Renntage von bis zu 14 Stunden ausgelegt.",
+  "distanceKm": 312,
+  "elevationGainM": 4500
+}

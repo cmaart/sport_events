@@ -1,0 +1,25 @@
+{
+  "id": "challenge-roth-2027",
+  "name": "DATEV Challenge Roth",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Roth",
+    "lat": 49.2456,
+    "lng": 11.0902,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.challenge-roth.com",
+  "registrationUrl": "https://reg.mikatiming.com/datev-challenge-roth/2027/en",
+  "imageUrl": "https://www.challenge-roth.com/files/images/slider/startseite-slider-1-1920x938.jpg",
+  "description": "Der DATEV Challenge Roth findet am 4. Juli 2027 statt – seit 1984 der älteste durchgehend ausgetragene Langdistanz-Triathlon der Welt und mit rund 3.500 Einzelstarter:innen und 700 Staffeln der größte überhaupt. Die Strecke: 3,8 km Schwimmen im Main-Donau-Kanal, 180 km Rad in zwei Runden durch das Fränkische Seenland mit dem legendären Solarer Berg (rund 1.200 Höhenmeter), 42,2 km Marathon entlang des Ludwig-Kanals mit Zieleinlauf im Triathlon-Stadion von Roth.\n\nDie Online-Anmeldung am 13. Juli 2026 war nach etwa 18 Sekunden ausverkauft. Eine zweite Chance bietet der Late Entry Draw: Tickets zu 10 Euro bis 9. November 2026, Verlosung von mindestens 300 Einzel- und 25 Staffelplätzen am 11. November 2026. Rund 250.000 Zuschauer:innen und etwa 7.500 Volunteers sorgen für die typische Roth-Atmosphäre.",
+  "distanceKm": 226,
+  "elevationGainM": 1200
+}
