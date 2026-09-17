@@ -1,0 +1,21 @@
+{
+  "id": "ironman-kalmar-2027",
+  "name": "IRONMAN Kalmar",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2027-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kalmar",
+    "lat": 56.6634,
+    "lng": 16.3568
+  },
+  "websiteUrl": "https://www.ironman.com/im-kalmar",
+  "description": "Der IRONMAN Kalmar am 21. August 2027 ist die schwedische Langdistanz der IRONMAN-Serie – seit 2012 in Kalmar ausgetragen (früher „IRONMAN Sweden\") und einer der am schnellsten ausverkauften Volldistanz-Wettkämpfe Europas: Die Ausgabe 2027 war rund eine Stunde nach Anmeldestart ausgebucht. Geschwommen werden 3,8 km im Kalmarsund direkt unterhalb des Renaissanceschlosses Kalmar Slott. Die 180-km-Radstrecke führt über die knapp sechs Kilometer lange Ölandbrücke auf die Insel Öland, deren flache, windexponierte Runde das Markenzeichen des Rennens ist, ehe es zurück aufs Festland geht. Der abschließende Marathon über 42,2 km verläuft flach in mehreren Runden durch die Innenstadt von Kalmar und ist für seine Zuschauerkulisse und die Zieleinläufe bis in die Nacht bekannt. Vergeben werden Altersklassen-Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
+}

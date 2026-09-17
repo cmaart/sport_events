@@ -1,0 +1,22 @@
+{
+  "id": "challenge-almere-amsterdam-2027",
+  "name": "Challenge Almere-Amsterdam",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Almere",
+    "lat": 52.3508,
+    "lng": 5.2647
+  },
+  "websiteUrl": "https://challenge-almere.com/",
+  "registrationUrl": "https://challenge-almere.com/race-information/entry/",
+  "description": "Die Challenge Almere-Amsterdam ist der älteste Langdistanz-Triathlon Europas – die Wurzeln reichen bis zum ersten Almere-Triathlon 1983 zurück, also über 40 Jahre Renngeschichte. 2027 wird das Rennen als mehrtägiges Festival von Donnerstag, 9., bis Sonntag, 12. September ausgetragen; das Langdistanz-Hauptrennen über 3,8 km Schwimmen, 180 km Rad und 42,2 km Laufen steigt am Samstag, 11. September. Geschwommen wird im Weerwater mitten in Almere, Rad- und Laufstrecke sind pfannkuchenflach und führen durch die eingedeichten Polder Flevolands – schnell, zuschauerfreundlich und nur einen Katzensprung von Amsterdam entfernt. Neben der Langdistanz gibt es eine Mitteldistanz (1,9/94/21,1 km), Aquabike-Bewerbe und einen eigenständigen Marathon. Das Rennen ist offizieller Qualifier für THE CHAMPIONSHIP, das Finale der Challenge Family, und trug 2026 die Langdistanz-Europameisterschaft aus. Die Anmeldung für 2027 ist bereits geöffnet.",
+  "distanceKm": 226
+}

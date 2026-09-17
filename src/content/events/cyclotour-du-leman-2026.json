@@ -16,8 +16,7 @@
     "lng": 6.6323
   },
   "websiteUrl": "https://cyclotour.ch/",
-  "description": "23. Cyclotour du Léman in der Schweiz: Granfondo 176 km (2.800 Hm), Mediofondo 112 km und Kurzdistanz 64 km rund um den Genfer See durch Schweiz und Frankreich. Start und Ziel in Lausanne. Erstmals im Herbst stattfindend (Verschiebung vom Frühjahr wegen G7-Gipfel in Évian 2026).",
+  "description": "Die Cyclotour du Léman umrundet den Genfersee und startet und endet in Lausanne. Drei Distanzen stehen zur Wahl: die komplette Seeumrundung Lausanne–Lausanne über 176 km, die Strecke Évian–Lausanne über 112 km sowie Lausanne–Évian über 64 km mit Schiffsrückfahrt. Der Kurs führt über Schweizer und französisches Gebiet entlang des Ufers und durch die Weinberge des Lavaux. 2026 findet die Veranstaltung am 18. Oktober im Herbst statt. Es ist eine der bekanntesten Radtouren der Westschweiz.",
   "distanceKm": 176,
-  "elevationGainM": 2800,
   "imageUrl": "https://cyclotour.ch/images/headers/cyclotour-2025-60.jpg"
 }

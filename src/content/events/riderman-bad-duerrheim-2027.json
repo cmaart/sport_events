@@ -1,0 +1,26 @@
+{
+  "id": "riderman-bad-duerrheim-2027",
+  "name": "RiderMan Bad Dürrheim",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-03",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Dürrheim",
+    "lat": 47.9297,
+    "lng": 8.53,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.riderman.de/",
+  "registrationUrl": "https://www.riderman.de/anmeldung/",
+  "imageUrl": "https://www.riderman.de/wp-content/uploads/2026/08/rm_strecke_bonndorf_gruppe_vonhinten_1x1_-freuleingraf-01121-1920w-1920x1125.webp",
+  "description": "Der RiderMan in Bad Dürrheim ist ein Jedermann-Etappenrennen über drei Tage im südöstlichen Schwarzwald, bei dem Amateure vom 3. bis 5. September 2027 „wie die Profis\" auf vollständig gesperrten Straßen fahren. Den Auftakt macht am Freitag ein Einzelzeitfahren über 16,1 km (226 Hm), am Samstag folgt die lange Bergetappe über 112,9 km (1.520 Hm) und am Sonntag die Schlussetappe über 95,0 km (1.239 Hm). Gewertet wird eine Gesamtzeit über alle drei Etappen – ein echtes Rundfahrt-Format für Hobbyfahrer:innen. Die kupierten Strecken führen durch die bewaldeten Höhenzüge der Baar und rund um Bonndorf. In Summe warten rund 224 km und knapp 3.000 Höhenmeter; die Anmeldung läuft über riderman.de.",
+  "distanceKm": 224,
+  "elevationGainM": 2985
+}

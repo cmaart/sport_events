@@ -2,7 +2,7 @@
   "id": "hugenotten-duathlon-2026",
   "name": "Hugenotten Duathlon",
   "sport": "triathlon",
-  "categories": ["Duathlon"],
+  "categories": ["Duathlon", "Cross-Triathlon"],
   "country": "DE",
   "dates": {
     "start": "2026-11-01",
@@ -14,5 +14,8 @@
     "lng": 8.6953,
     "region": "Hessen"
   },
-  "description": "Der Hugenotten Duathlon in Neu-Isenburg am Rand der Rhein-Main-Metropole verbindet Laufen und Radfahren in einem Herbst-Wettkampf südlich von Frankfurt. Durch die Hugenotten-Geschichte der Stadt geprägte Veranstaltung im DTU-Kalender, flaches bis leicht hügeliges Profil im Frankfurter Umland."
+  "websiteUrl": "https://www.radteam-neu-isenburg.de/index.php?id=153",
+  "registrationUrl": "https://my.raceresult.com/406908/",
+  "description": "Der Hugenotten Duathlon in Neu-Isenburg südlich von Frankfurt geht am 1. November 2026 in seine 19. Auflage. Ausgetragen wird ein Crossduathlon im Gelände mit 5,0 km Laufen, 20,0 km Rad und 4,6 km Laufen, wahlweise als Einzel oder Staffel. Veranstalter ist das Radteam Neu-Isenburg 1980 e.V. gemeinsam mit der Stadt Neu-Isenburg; Start und Ziel sind im Sportpark Neu-Isenburg. Erwartet werden rund 300 Einzel- und 80 Staffelstarter:innen. Neben der Jedermann-Wertung gibt es Altersklassen; angemeldet wird über raceresult.",
+  "distanceKm": 29.6
 }

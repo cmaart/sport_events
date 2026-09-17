@@ -1,6 +1,6 @@
 {
   "id": "flanders-legacy-gravel-leuven-2026",
-  "name": "Flanders Legacy Gravel",
+  "name": "Leuven Legacy Gravel",
   "sport": "cycling",
   "categories": [
     "Gravel"
@@ -15,9 +15,8 @@
     "lat": 50.856,
     "lng": 4.705
   },
-  "websiteUrl": "https://flanderslegacygravel.be/en/",
-  "imageUrl": "https://flanderslegacygravel.be/wp-content/uploads/sites/246/2025/07/2024-WK-Gravel-David-Pintens-247-copy.jpg",
-  "description": "Flanders Legacy Gravel – UCI Gravel World Series Qualifier im Herzen Flanderns. Hauptstrecke 147 km / 950 Hm vom Sporthal Heverlee zum Ziel im Leuvener Stadtzentrum. Kurs basiert auf den drei lokalen Runden der UCI Gravel-Weltmeisterschaften 2024; Teil der Bolero Gravel Series.",
-  "distanceKm": 147,
-  "elevationGainM": 950
+  "websiteUrl": "https://leuvenlegacygravel.be/en/",
+  "description": "Der Leuven Legacy Gravel (2026 umbenannt vom bisherigen „Flanders Legacy Gravel\") ist der erste offizielle Qualifier für die UCI Gravel-Weltmeisterschaften 2027 in Frankreich. Die Hauptstrecke misst 132 km mit rund 880 Höhenmetern (Elite sowie Männer U60 und Frauen U50), die kürzere Distanz 86 km mit etwa 560 Höhenmetern (Männer 60+, Frauen 50+). Das Ziel liegt an der Philipssite in Leuven, die Strecke führt durch den Nationalpark Brabantse Wouden. Das Rennen knüpft an das Erbe der UCI Gravel-WM 2024 in Leuven an und ist Teil der Bolero Gravel Series. Gefahren wird am 18. Oktober 2026.",
+  "distanceKm": 132,
+  "elevationGainM": 880
 }

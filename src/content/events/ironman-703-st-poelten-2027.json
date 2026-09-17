@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-st-poelten-2027",
+  "name": "IRONMAN 70.3 St. Pölten",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Pölten",
+    "lat": 48.2047,
+    "lng": 15.6256,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.ironman.com/im703-st-poelten",
+  "description": "Der IRONMAN 70.3 St. Pölten am 23. Mai 2027 ist ein Klassiker-Comeback: St. Pölten war 2007–2019 Austragungsort des ersten IRONMAN 70.3 in Österreich (13 Ausgaben), lief danach einige Jahre unter der Challenge-Marke und kehrt 2027 nach einem Veranstalterwechsel in die IRONMAN-70.3-Serie zurück. Geschwommen werden 1,9 km in den beiden städtischen Seen (Ratzersdorfer und Viehofner See) nördlich des Zentrums. Die 90-km-Radstrecke ist hügelig und führt durch das Umland und entlang der Traisen; der abschließende Halbmarathon über 21,1 km verläuft flach durch die barocke Altstadt und das moderne Regierungsviertel der niederösterreichischen Landeshauptstadt. Traditionell ist St. Pölten ein früher Saisonhöhepunkt und ein natürliches Sprungbrett Richtung IRONMAN Kärnten in Klagenfurt. Die Anmeldung öffnet am 23. November 2026; vergeben werden Altersklassen-Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

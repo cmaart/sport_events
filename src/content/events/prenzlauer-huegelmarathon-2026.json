@@ -17,9 +17,9 @@
     "lng": 13.8641,
     "region": "Brandenburg"
   },
-  "websiteUrl": "https://radsport-events.de",
-  "description": "Radmarathon in der Uckermark um Prenzlau in Brandenburg mit vier Strecken von 28 bis 216 km. Die laengte Route fuehrt durch die glazial gepraegten Huegel der Uckermark mit zahlreichen Seen und Waeldern. Herbstevent am Tag der Deutschen Einheit mit urspruenglicher Nordostdeutscher Landschaft.",
-  "distanceKm": 216,
-  "elevationGainM": 1500,
+  "websiteUrl": "https://www.huegelmarathon.de/",
+  "description": "Der Prenzlauer Hügelmarathon geht 2026 in seine 21. Auflage und findet am Tag der Deutschen Einheit (3. Oktober) mit Start und Ziel am Seebad Prenzlau an der Uckerpromenade statt. Fünf Strecken stehen zur Wahl: Familientour 28 km, Freizeittour 73 km, Fitnesstour 109 km, Leistungstour 148 km und die Königsdistanz Radmarathon über 231 km mit 1.190 Höhenmetern. Die Routen führen durch die glazial geprägte, sanft hügelige Landschaft der Uckermark mit ihren zahlreichen Seen und Wäldern. Bereits am Vorabend lädt der Veranstalter zur Pasta-Party. Das Event zählt zu den größten Radmarathons im Nordosten Deutschlands.",
+  "distanceKm": 231,
+  "elevationGainM": 1190,
   "imageUrl": "https://www.huegelmarathon.de/images/2026/04/08/huegelmarathon_neu_2026.jpg"
 }

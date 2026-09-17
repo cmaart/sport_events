@@ -1,0 +1,22 @@
+{
+  "id": "ironman-vitoria-gasteiz-2027",
+  "name": "IRONMAN Vitoria-Gasteiz",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vitoria-Gasteiz",
+    "lat": 42.8467,
+    "lng": -2.6716
+  },
+  "websiteUrl": "https://www.ironman.com/im-vitoria-gasteiz",
+  "registrationUrl": "https://atleta.cc/e/l6MoxrHcuADl",
+  "description": "Der IRONMAN Vitoria-Gasteiz am 11. Juli 2027 zählt zu den beliebtesten Volldistanzen Spaniens und wird vom lokalen Verein Triatlón Vitoria (TVK) in der baskischen Hauptstadt organisiert. Geschwommen werden 3,8 km im ruhigen, sauberen Stausee Landa (Embalse de Ullíbarri-Gamboa) rund 15 km nordöstlich der Stadt – ein Naturschutzgebiet, das oft als einer der schönsten Schwimmschauplätze Europas beworben wird. Die 180 km auf dem Rad bestehen aus drei rund 60 km langen Runden durch das Umland der Provinz Álava; der abschließende Marathon läuft in vier Schleifen à gut 10,5 km flach durch die Innenstadt mit großer Zuschauerkulisse. Am selben Wochenende findet auch eine Mitteldistanz statt. Die Anmeldung für 2027 ist über die offizielle TVK-Plattform bereits geöffnet; vergeben werden Altersklassen-Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
+}
