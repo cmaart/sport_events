@@ -1,0 +1,27 @@
+{
+  "id": "shades-of-speed-bad-feilnbach-2027",
+  "name": "Shades of Speed – Culinary.RIDE.Festival",
+  "sport": "cycling",
+  "categories": [
+    "RTF",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-23",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Feilnbach",
+    "lat": 47.775,
+    "lng": 12.006,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.shades-of-speed.eu",
+  "registrationUrl": "https://my.raceresult.com/415648/registration",
+  "description": "6. Ausgabe des dreitägigen Culinary.RIDE.Festivals im bayerischen Voralpenland rund um Bad Feilnbach am Fuß des Wendelsteins. 13 Routen von 18 bis 306 km stehen für Road und Gravel zur Wahl: am Samstag u. a. DIE.HOCHRIES, DER.WENDELSTEIN, DER.KAISER sowie SHADES OF GRAVEL 60 (60 km / 340 hm) und 90 (90 km / 730 hm), am Sonntag DIE.KURZE bis DAS.MONUMENT (306 km / 2.870 hm, Start 06:00–06:30 Uhr). Statt Zeitnahme steht der Genuss im Mittelpunkt – Premium-Verpflegung von Sterneköchen an 15 Versorgungsstationen und eine Afterparty mit DJ. Anmeldung über raceresult ist offen.",
+  "distanceKm": 306,
+  "elevationGainM": 2870,
+  "imageUrl": "https://www.shades-of-speed.eu/wp-content/uploads/2025/12/sos_Teaserbild-01-scaled.jpg"
+}
