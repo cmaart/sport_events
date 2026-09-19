@@ -3,7 +3,8 @@
   "name": "Bad Waldsee Radmarathon",
   "sport": "cycling",
   "categories": [
-    "Radmarathon"
+    "Radmarathon",
+    "RTF"
   ],
   "country": "DE",
   "dates": {
@@ -18,7 +19,8 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.badwaldsee-radmarathon.de/",
-  "description": "Radmarathon durch die Seenlandschaft des Allgäus mit Start und Ziel an der Grabenmühle in Bad Waldsee. Vier Streckenoptionen: 80 km Genuss-Tour (730 Hm), 100 km Gravel (1.050 Hm), 125 km Straße (1.240 Hm) und 205 km Marathon (2.320 Hm). Die Erstausgabe verbindet sportliche Herausforderung mit dem Charme der oberschwäbischen Seen- und Moorlandschaft.",
+  "registrationUrl": "https://www.badwaldsee-radmarathon.de/event-details/bad-waldsee-radmarathon",
+  "description": "Erstausgabe des Bad Waldsee Radmarathons durch die Seen- und Moorlandschaft Oberschwabens mit Start und Ziel an der Grabenmühle in Bad Waldsee. Angeboten werden vier Strecken: 80 km Genuss-Tour (730 Hm), 100 km Gravel (1.050 Hm), 125 km Straße (1.240 Hm) und 205 km Marathon (2.320 Hm). Organisiert wird die Veranstaltung vom Extrem-Radsportler Daniel Steinhauser. Es handelt sich ausdrücklich um eine Radtourenfahrt mit individueller Zeitnahme, aber ohne Ergebnisliste – wer möchte, kann sie sportlich angehen. An der Grabenmühle gibt es ein Rahmenprogramm mit eigener Bühne, Moderation und Verpflegung.",
   "distanceKm": 205,
   "elevationGainM": 2320,
   "imageUrl": "https://static.wixstatic.com/media/410be6_8f4e5b525de54134b5514aef81e77419~mv2.jpg"

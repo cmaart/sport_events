@@ -17,6 +17,7 @@
   },
   "websiteUrl": "https://www.novecolli.it/",
   "registrationUrl": "https://api.endu.net/r/i/100542",
+  "imageUrl": "https://novecolli.blob.core.windows.net/images/_admin/layout/cesenatico.jpg",
   "description": "Die Granfondo Nove Colli in Cesenatico an der Adria gehört zu den ältesten und größten Granfondos Italiens und geht am 23. Mai 2027 in ihre 56. Ausgabe. Namensgebend sind die „neun Hügel\" des romagnolischen Hinterlands: Nach dem Massenstart bei Sonnenaufgang an der Uferpromenade geht es vom Meer hinauf in die Colli. Die Langstrecke misst 200 km mit 3.814 Höhenmetern, die Mittelstrecke 137 km mit 1.872 Höhenmetern; ergänzt wird das Programm durch eine Gravel-Variante über 107 km (1.798 Hm). Kulisse ist der historische Kanalhafen von Cesenatico, dessen Entwurf auf Leonardo da Vinci zurückgeht. Die Anmeldung öffnet am 5. Dezember 2026 über Endu.",
   "distanceKm": 200,
   "elevationGainM": 3814

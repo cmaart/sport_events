@@ -1,0 +1,25 @@
+{
+  "id": "trumer-triathlon-2027",
+  "name": "Trumer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-17",
+    "end": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Obertrum am See",
+    "lat": 47.9394,
+    "lng": 13.085,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.trumer-triathlon.at/de/",
+  "imageUrl": "https://www.trumer-triathlon.at/images/banners/Diashowbanner_Anmeldestart.jpg",
+  "description": "Der Trumer Triathlon findet 2027 von 16. bis 18. Juli rund um den Obertrumer See im Salzburger Flachgau statt und zählt zu den traditionsreichsten Triathlons Österreichs. An einem Wochenende werden mehrere Bewerbe ausgetragen, darunter Mitteldistanz (Halbdistanz), Olympische Distanz und Sprintdistanz sowie Familien- und Nachwuchsformate. Der Sprint umfasst 750 m Schwimmen, 25,4 km Radfahren und 5,2 km Laufen. Geschwommen wird im Obertrumer See, die Laufstrecke führt durch das Ortszentrum von Obertrum. Die Anmeldung für 2027 ist bereits geöffnet und war schon in den ersten Stunden stark nachgefragt."
+}

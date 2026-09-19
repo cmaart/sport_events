@@ -1,0 +1,22 @@
+{
+  "id": "dreilaendergiro-nauders-2027",
+  "name": "Dreiländergiro Nauders",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nauders",
+    "lat": 46.8892,
+    "lng": 10.5033,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.dreilaendergiro.at/de",
+  "registrationUrl": "https://my.raceresult.com/356805/",
+  "description": "Der Dreiländergiro ist ein hochalpiner Jedermann-Radmarathon mit Start und Ziel in Nauders am Reschenpass, der die Grenzregion von Österreich, Italien und der Schweiz durchquert. Die 34. Auflage findet am 27. Juni 2027 statt und ist eingebettet in die „Girodays\" (21.–27.06.2027) mit umfangreichem Rahmenprogramm. Angeboten werden zwei Strecken über die großen Alpenpässe rund um Reschen, Vinschgau und Engadin. Die lange Variante misst rund 168 Kilometer mit etwa 3.600 Höhenmetern, die mittlere rund 120 Kilometer mit etwa 3.000 Höhenmetern. Der Giro zählt zu den traditionsreichsten Radmarathons der Alpen; die Anmeldung startet laut Veranstalter voraussichtlich am 1. Oktober 2026 über raceresult."
+}

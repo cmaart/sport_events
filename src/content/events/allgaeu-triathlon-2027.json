@@ -1,0 +1,24 @@
+{
+  "id": "allgaeu-triathlon-2027",
+  "name": "Allgäu Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Immenstadt im Allgäu",
+    "lat": 47.5586,
+    "lng": 10.2181,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.allgaeu-triathlon.de/",
+  "registrationUrl": "https://www.808project.de/allgaeutriathlon",
+  "description": "Der Allgäu Triathlon in Immenstadt am Großen Alpsee (Bühl) ist seit 1983 der älteste Triathlon Deutschlands und einer der landschaftlich reizvollsten Mitteldistanz-Bewerbe des Landes. Geschwommen wird im Alpsee, die anspruchsvolle Radstrecke und der Lauf führen durch die Allgäuer Bergwelt. Angeboten werden die Distanzen Sprint, Olympisch und Classic (Mitteldistanz), jeweils auch als Staffel. Für 2027 ist über den Veranstalter 808 project bereits eine Voranmeldung möglich; ein offizielles Renndatum war im September 2026 noch nicht veröffentlicht, weshalb der Termin vorerst als Schätzung (Wochenende Ende August, analog zu 2026) geführt wird."
+}

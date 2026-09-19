@@ -15,8 +15,8 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.mountainsport.at/",
-  "description": "Pyramidenkogelhero in Keutschach am See (Kärnten): 7,2 km / 400 Hm vom Ortszentrum Reifnitz hinauf zum Pyramidenkogel-Aussichtsturm über dem Wörthersee. Start 17:00 Uhr (Massenstart). Runde 10 (Finale) des Kärnten Sport Jedermannradcups 2026.",
-  "distanceKm": 7,
-  "elevationGainM": 400,
+  "description": "Der Keutschacher Pyramidenkogel Hero ist ein Bergrennen im Massenstart über 7,1 km mit 403 Höhenmetern von Reifnitz am Wörthersee über Keutschach hinauf zum Pyramidenkogel-Aussichtsturm. Gefahren wird auf einer für den Verkehr gesperrten Straße; der gemeinsame Start erfolgt um 17:00 Uhr in Reifnitz, Zieleinlauf und Siegerehrung finden gegen 18:30 Uhr unter dem Pyramidenkogel-Turm statt. Veranstalter ist die Mountain Sport Union Klagenfurt. Das Rennen bildet 2026 die 10. und damit letzte Runde (Finale) des Kärnten Sport Jedermannradcups.",
+  "distanceKm": 7.1,
+  "elevationGainM": 403,
   "imageUrl": "https://www.mountainsport.at/wp-content/uploads/2019/09/5-3.jpg"
 }
