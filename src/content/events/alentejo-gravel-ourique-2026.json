@@ -17,7 +17,8 @@
   },
   "websiteUrl": "https://cabreirasolutions.com/evento/uci-alentejo-gravel/",
   "imageUrl": "https://cabreirasolutions.com/wp-content/uploads/2026/01/uci-alentejo-gravel.png",
-  "description": "Alentejo Gravel – UCI Gravel World Series Qualifier in der weitläufigen Alentejo-Landschaft Südportugals. Hauptstrecke 119 km / 1.750 Hm ab dem Städtchen Ourique durch Korkeichen-Wälder und hügeliges Gelände. Zweite Ausgabe des Events (Premiere 2025).",
-  "distanceKm": 119,
-  "elevationGainM": 1750
+  "registrationUrl": "https://stopandgo.net/events/uci-alentejo-gravel-2026",
+  "description": "Alentejo Gravel – UCI Gravel World Series Qualifier mit Start und Ziel in Ourique im südportugiesischen Alentejo. Zwei Schotterstrecken stehen zur Wahl: die Langdistanz über 120,6 km mit 1.912 Höhenmetern sowie eine kurze Variante über 86,2 km mit 1.308 Höhenmetern, überwiegend auf Gravel-Pisten durch Korkeichenlandschaft und hügeliges Gelände. Start ist um 09:00 Uhr am 25. Oktober 2026. Veranstalter ist Cabreira Solutions, die Anmeldung läuft über stopandgo.net.",
+  "distanceKm": 120.6,
+  "elevationGainM": 1912
 }

@@ -7,7 +7,7 @@
   ],
   "country": "CZ",
   "dates": {
-    "start": "2026-10-04",
+    "start": "2026-10-03",
     "confirmed": true
   },
   "location": {
@@ -16,8 +16,9 @@
     "lng": 15.7812
   },
   "websiteUrl": "https://www.letapeczech.cz/en/",
-  "description": "L'Étape Czech Republic Flat Stage in Pardubice (Ostböhmen): 111 km / 270 Hm auf komplett gesperrten Straßen. Erste Flachetappe der L'Étape Czech Republic; wellenförmiger Massenstart. Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
-  "distanceKm": 111,
-  "elevationGainM": 270,
+  "registrationUrl": "https://www.letapeczech.cz/en/registrace/step1/",
+  "description": "L'Étape Czech Republic – Flat Stage in Pardubice (Ostböhmen): die Flachetappe der tschechischen L'Étape-by-Tour-de-France-Serie, für 2026 nach zwei Jahren in Südböhmen an einen neuen Austragungsort verlegt. Eine einzige Strecke von rund 110 km mit nur etwa 300 Höhenmetern auf komplett für den Verkehr gesperrten Straßen. Start und Ziel liegen am náměstí Republiky in Pardubice, der Massenstart erfolgt in Wellen zu je 184 Fahrern. Die Veranstaltung findet am Samstag, 3. Oktober 2026 statt und ist Teil der offiziellen L'Étape-by-Tour-de-France-Rennserie.",
+  "distanceKm": 110,
+  "elevationGainM": 300,
   "imageUrl": "https://www.letapeczech.cz/photo-pg-28---.jpg"
 }

@@ -16,7 +16,9 @@
     "lng": 8.1704
   },
   "websiteUrl": "https://granfondoalassio.it/",
-  "description": "XIII GranFondo Internazionale Alassio an der ligurischen Riviera – 13. Auflage der FCI/ACSI-zugelassenen Granfondo. Strecken: 113 km (lang) und 72 km (kurz) mit rollenden Hügeln und kurzen steilen Anstiegen entlang der Küste zwischen Alassio und dem Hinterland.",
-  "distanceKm": 113,
+  "registrationUrl": "https://granfondoalassio.it/iscrizioni/",
+  "description": "XIII GranFondo Internazionale Alassio an der ligurischen Riviera, 13. Auflage, organisiert vom GS Alpi. Die Ausgabe 2026 wird auf einer einzigen Strecke von 90,6 km mit 1.790 Höhenmetern ausgetragen – welliges Profil mit kurzen steilen Anstiegen im Hinterland zwischen Alassio und den ligurischen Hügeln. Neuer Titelsponsor ab 2026 ist HEUFORIA. Termin ist Sonntag, der 27. September 2026; die Anmeldung läuft über die offizielle Website.",
+  "distanceKm": 90.6,
+  "elevationGainM": 1790,
   "imageUrl": "https://granfondoalassio.it/wp-content/uploads/Alassio2024-768x432.jpg"
 }

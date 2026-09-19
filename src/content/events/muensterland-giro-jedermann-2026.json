@@ -18,8 +18,8 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://muensterland-giro.de",
-  "description": "20. Jubiläumsausgabe des Sparkassen Münsterland Giro parallel zum gleichnamigen UCI-Profirennen. 2026 erstmals mit Start in Borken, dem Jubiläums-Stadtfest zum 800-jährigen Stadtjubiläum. Drei Jedermann-Strecken durch das flache Münsterland. Traditionell am Tag der Deutschen Einheit.",
-  "distanceKm": 100,
-  "elevationGainM": 500,
+  "registrationUrl": "https://reg.mikatiming.com/muensterland-giro/2026/de/",
+  "description": "20. Jubiläumsausgabe des Sparkassen Münsterland Giro, ausgetragen parallel zum gleichnamigen UCI-Profieintagesrennen. 2026 startet der Giro erstmals in Borken, als sportlicher Abschluss des Stadtjubiläums Borken 800. Für Jedermänner stehen drei Strecken durch das flache Münsterland zur Wahl: 65 km, 95 km und 125 km. Start ist in Borken, das Ziel liegt in der Münsteraner Innenstadt. Traditionell findet die Veranstaltung am Tag der Deutschen Einheit (3. Oktober) statt; das Teilnehmerfeld ist regelmäßig ausgebucht (zuletzt rund 8.500 Starter). Angemeldet wird über mikatiming.",
+  "distanceKm": 125,
   "imageUrl": "https://muensterland-giro.de/wp-content/uploads/2025/10/%C2%A9Sarah-Rauch20251003_Giro_Presse_09-1024x683.jpg"
 }
