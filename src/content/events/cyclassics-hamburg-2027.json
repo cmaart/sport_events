@@ -8,7 +8,7 @@
   "country": "DE",
   "dates": {
     "start": "2027-08-15",
-    "confirmed": true
+    "confirmed": false
   },
   "location": {
     "name": "Hamburg",
@@ -19,7 +19,7 @@
   "websiteUrl": "https://www.cyclassics-hamburg.de",
   "registrationUrl": "https://www.timeto.com/de/event/adac-cyclassics",
   "imageUrl": "https://imgxplatform-cust-hct.fsn1.your-objectstorage.com/media/images/cyclassics-hamburg_c-upsolut-hochzwei-1.jpg",
-  "description": "Die ADAC Cyclassics Hamburg finden am 15. August 2027 statt – Norddeutschlands größtes Jedermann-Radrennen im Rahmen des UCI-WorldTour-Klassikers. Traditionell werden zwei Jedermann-Distanzen angeboten: die rund 110 km lange Challenge-Strecke mit Start in der HafenCity, zweimal über die Köhlbrandbrücke und durch das Alte Land, sowie die rund 60 km lange Experience-Runde durch Hamburgs Westen und den Kreis Pinneberg. Zieleinlauf für alle auf der Mönckebergstraße mitten in der City.\n\nDie genauen Streckenlängen für 2027 sind noch nicht bestätigt. Die Anmeldung öffnet laut Veranstalter im Spätherbst 2026; über die Registrierungsplattform kann man sich schon jetzt für die Benachrichtigung vormerken.",
+  "description": "Die ADAC Cyclassics Hamburg kehren 2027 zurück – Norddeutschlands größtes Jedermann-Radrennen im Rahmen des UCI-WorldTour-Klassikers. Der offizielle Termin 2027 ist noch nicht bestätigt; erwartet wird traditionsgemäß ein Sonntag Mitte August (2026 fand die Ausgabe am 16. August statt). Angeboten werden üblicherweise zwei Jedermann-Distanzen: die rund 110 km lange Challenge-Strecke mit Start in der HafenCity, zweimal über die Köhlbrandbrücke und durch das Alte Land, sowie die rund 60 km lange Experience-Runde durch Hamburgs Westen und den Kreis Pinneberg. Zieleinlauf für alle auf der Mönckebergstraße mitten in der City. Die Anmeldung öffnet laut Veranstalter im Spätherbst 2026; über die Registrierungsplattform kann man sich schon jetzt für die Benachrichtigung vormerken.",
   "distanceKm": 110,
   "elevationGainM": 400
 }

@@ -1,0 +1,23 @@
+{
+  "id": "walchsee-challenge-2027",
+  "name": "Challenge Kaiserwinkl-Walchsee",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Walchsee, Kaiserwinkl",
+    "lat": 47.6543,
+    "lng": 12.3308,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://challenge-walchsee.com/",
+  "description": "Die Challenge Kaiserwinkl-Walchsee ist der Mitteldistanz-Triathlon der Challenge Family im Tiroler Kaiserwinkl; das Hauptrennen findet 2027 am Sonntag, 27. Juni statt. Geschwommen werden 2,0 km im glasklaren Walchsee, gefolgt von 80 km Rad durch die Tiroler Bergwelt vor der Kulisse von Zahmem und Wildem Kaiser und einem abschließenden 18-km-Lauf in mehreren Runden rund um den See. Das Rennwochenende beginnt bereits am Samstag, 26. Juni mit Aquabike, Junior Challenge, Aquathlon und einem Family Run. Der landschaftlich reizvolle Kurs und die familiäre Atmosphäre machen das Rennen zu einem beliebten Saisonhöhepunkt im österreichischen Triathlonkalender. Die Anmeldung für 2027 ist auf der offiziellen Veranstalterseite bereits geöffnet.",
+  "distanceKm": 100
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ironman-70-3-zell-am-see-2027",
+  "name": "Ironman 70.3 Zell am See-Kaprun",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-29",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zell am See",
+    "lat": 47.3236,
+    "lng": 12.7984,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.ironman.com/im703-zell-am-see",
+  "description": "Die hochalpine Halbdistanz in Zell am See-Kaprun kehrt 2027 am 29. August in den Kalender zurück: 1,9 km Schwimmen im Zeller See mit Start am Strandbad Seespitz in Schüttdorf, 90 km Rad mit rund 870 Höhenmetern durch das Pinzgau im Salzburger Land und 21,1 km Laufen zweimal von Zell am See nach Thumersbach und zurück am Seeufer. Der Radkurs zählt zu den landschaftlich schönsten IRONMAN-70.3-Strecken Europas – eingerahmt von der Kulisse der Hohen Tauern. Beim IRONMAN Global Athletes' Choice Award wurde das Rennen wiederholt weltweit für „Overall Satisfaction\" und „Best Bike\" ausgezeichnet. Vergeben werden Altersklassen-Slots für die IRONMAN-70.3-Weltmeisterschaft. Der Termin liegt traditionell fix am letzten August-Wochenende.",
+  "distanceKm": 113,
+  "elevationGainM": 870,
+  "imageUrl": "https://www.zellamsee-kaprun.com/bilder/events/ironman/2026/15964/image-thumb__15964___auto_c9b250bcff69a67c07aafaffc5cf12ef/s20260830_IM703_136_%28c%29Zell-am-See-Kaprun_JOE.1cd1b0f8.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arlberg-giro-2027",
+  "name": "Arlberg Giro",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-01",
+    "end": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Anton am Arlberg",
+    "lat": 47.1287,
+    "lng": 10.2683,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.arlberg-giro.com",
+  "registrationUrl": "https://www.arlberg-giro.com/en/registration",
+  "description": "Der Arlberg Giro ist der klassische Alpen-Granfondo mit Start und Ziel in St. Anton am Arlberg und wird 2027 am Sonntag, 1. August ausgetragen. Weil die Silvretta-Hochalpenstraße wegen Bauarbeiten bis 2030 gesperrt bleibt, führt weiterhin die bewährte Alternativroute über rund 150 Kilometer und etwa 2.500 Höhenmeter. Vom Start weg geht es hinauf auf den Arlbergpass, dessen erste Rampen bis zu 13 Prozent steil sind, weiter durch das Klostertal ins Montafon und von Partenen durch das Ganifertal hinauf zum Kopsspeicher und über das Zeinisjoch ins Paznauntal. Über das Stanzertal rollt das Feld schließlich zurück nach St. Anton. Als Auftakt bietet sich der St. Anton Night Sprint am Vorabend (30. Juli 2027) an. Die rund 1.500 Startplätze sind traditionell stark nachgefragt.",
+  "distanceKm": 150,
+  "elevationGainM": 2500
+}

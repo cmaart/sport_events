@@ -1,0 +1,27 @@
+{
+  "id": "mondsee-5-seen-radmarathon-2027",
+  "name": "Mondsee 5-Seen-Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-19",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mondsee",
+    "lat": 47.8542,
+    "lng": 13.3475,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.mondsee-radmarathon.com",
+  "registrationUrl": "https://entry.racetime.pro/event/1480/start",
+  "description": "Der Mondsee 5-Seen-Radmarathon zählt zu den beliebtesten Radmarathons Europas und findet 2027 am Rennwochenende 19./20. Juni statt; das Hauptrennen steigt am Sonntag, 20. Juni. Start und Ziel liegen in Mondsee bei der Basilika, von wo die große Runde als „Perlenkette der Seen\" durch das Salzkammergut an Mondsee, Fuschlsee, Wolfgangsee, Hallstättersee und Attersee vorbeiführt. Angeboten werden drei Distanzen: 200 km mit 2.600 Höhenmetern, 140 km mit 1.400 Höhenmetern und 75 km mit 400 Höhenmetern, dazu ein eigenes Handbike-Rennen. Jährlich gehen rund 2.500 Teilnehmerinnen und Teilnehmer aus über 40 Nationen an den Start; das Feld ist teilnehmerbegrenzt. Die Anmeldung für 2027 ist über racetime bereits geöffnet.",
+  "distanceKm": 200,
+  "elevationGainM": 2600,
+  "imageUrl": "https://www.mondsee-radmarathon.com/images/2026/06/30/19712_mjo2drone1_00002.jpg"
+}

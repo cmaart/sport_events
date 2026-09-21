@@ -1,0 +1,24 @@
+{
+  "id": "king-of-the-lake-2027",
+  "name": "King of the Lake",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-18",
+    "end": "2027-09-18",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Attersee",
+    "lat": 47.8756,
+    "lng": 13.5466,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.kotl.at",
+  "description": "King of the Lake ist Europas größtes Jedermann-Einzelzeitfahren: 47,2 km flach einmal rund um den Attersee im Salzkammergut, ideal für persönliche Bestzeiten. Gewertet wird in Einzel- und Team-Kategorien, gefahren wird auf gesperrter Strecke gegen die Uhr. Für 2027 nennt der Veranstalter voraussichtlich den 18. September 2027; der genaue Termin ist noch nicht endgültig bestätigt. Die begehrten Startplätze werden traditionell im Frühjahr über ein Lotterieverfahren vergeben.",
+  "distanceKm": 47,
+  "elevationGainM": 200
+}

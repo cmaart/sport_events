@@ -1,0 +1,25 @@
+{
+  "id": "rad-am-ring-2027",
+  "name": "Rad am Ring",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Rundstreckenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-23",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nürburgring",
+    "lat": 50.3356,
+    "lng": 6.9475,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://radamring.de",
+  "description": "Rad am Ring ist ein dreitägiges Radsportfestival auf der legendären Nürburgring-Nordschleife in der Eifel und findet 2027 vom 23. bis 25. Juli statt. Auf der berühmtesten Motorsport-Rennstrecke der Welt werden Jedermann-Rennen über 75 und 150 km, ein 24-Stunden-Radrennen für Teams und Einzelfahrer, ein 24-Stunden-MTB-Rennen, ein 22-km-Zeitfahren über die Nordschleife sowie ein MTB-Marathon ausgetragen. Der Reiz liegt im einzigartigen Flair, die sonst dem Automobil- und Motorradsport vorbehaltene Grand-Prix-Strecke und Nordschleife per Rad und ohne Autoverkehr zu erleben. Die Anmeldung für die Ausgabe 2027 öffnet laut Veranstalter am 8. Oktober 2026.",
+  "distanceKm": 150,
+  "elevationGainM": 2000
+}

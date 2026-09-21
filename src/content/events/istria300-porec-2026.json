@@ -16,7 +16,8 @@
     "lng": 13.594
   },
   "websiteUrl": "https://www.istria300.com/",
-  "description": "Istria300 in Poreč (Istrien, Kroatien): 300 km, 209 km oder 135 km auf komplett gesperrten Straßen durch die istrische Halbinsel. 6. Auflage; größte Radveranstaltung Kroatiens mit über 1.500 Teilnehmern. Start und Ziel in Poreč an der kroatischen Adriaküste.",
-  "distanceKm": 300,
+  "description": "Istria300 in Poreč ist die größte Radsportveranstaltung Kroatiens und geht 2026 am 3. Oktober in ihre 6. Auflage. Das Besondere: Gefahren wird auf komplett gesperrten Straßen quer über die istrische Halbinsel, und die Teilnehmenden entscheiden erst während der Fahrt, welche der drei Distanzen sie fahren. Zur Wahl stehen die Istria300 über 302 km mit rund 5.300 Höhenmetern, die Istria209 über 209 km mit 3.300 Höhenmetern und die Istria135 über 134,5 km mit 1.800 Höhenmetern. Start und Ziel liegen in Poreč an der istrischen Adriaküste. Die langen Varianten führen durch das hügelige Landesinnere Istriens und verlangen mit ihren Höhenmetern echte Ausdauer.",
+  "distanceKm": 302,
+  "elevationGainM": 5300,
   "imageUrl": "https://www.istria300.com/wp-content/uploads/2026/01/Istria300_2026_Courses_190120262.jpg"
 }

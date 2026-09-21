@@ -1,0 +1,25 @@
+{
+  "id": "dreilaendergiro-2027",
+  "name": "Dreiländergiro",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nauders am Reschenpass",
+    "lat": 46.8867,
+    "lng": 10.5025,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.dreilaendergiro.at",
+  "description": "Der 34. Dreiländergiro startet am 27. Juni 2027 mit Start und Ziel in Nauders am Reschenpass und führt grenzüberschreitend durch Österreich, Italien und die Schweiz. Herzstück beider Strecken ist der Aufstieg zum legendären Stilfserjoch (Passo dello Stelvio, 2.757 m), der höchsten Passstraße der Ostalpen. Zur Wahl stehen die Königsvariante „Stelvio Engadin\" über 168 km mit 3.600 Höhenmetern sowie die kürzere „Stelvio Vinschgau\" über 120 km mit 3.000 Höhenmetern. Gefahren wird ausschließlich auf Asphalt auf zeitweise gesperrten Passstraßen. Rund um das Rennwochenende (21.–27. Juni 2027) bietet die Veranstalter-Woche „Girodays\" ein Rahmenprogramm samt Nightrace im Ortszentrum von Nauders. Die Anmeldung öffnet voraussichtlich Anfang Oktober 2026.",
+  "distanceKm": 168,
+  "elevationGainM": 3600
+}
