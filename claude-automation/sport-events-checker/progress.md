@@ -16,6 +16,7 @@
 ### Kennzahlen (Stand: 2026-09-23)
 - Events gesamt: **1174** | Saison 2026: 1134 (upcoming ≥ heute **93** | past/noindex **1041**) | Saison 2027: **40** (confirmed 37 | confirmed:false 3)
 - Letzter Lauf: 2026-09-23 — **14 neue 2027-Ausgaben** (6 IRONMAN + 8 Challenge; ≤15-Limit eingehalten), **18 Bestands-Events veredelt/korrigiert** (9 Cycling + 9 Tri/Duathlon), **1 Removal** (granfondo-alpes-dazur, offiziell abgesagt → BLACKLIST + CLAUDE.md), **1 neue Kategorie** (T100)
+- **2026-09-23 (Re-Fire, verify-only):** Scheduler feuerte den Wochen-Prompt am selben Tag erneut (frischer Container). **Bewusst KEIN zweiter Content-Lauf** — ein voller Lauf am selben Tag wäre genau das Fluten dünner Seiten, das die Routine verbietet (Anti-Flut #1). Stattdessen verifiziert: `npm run build` grün (1230 pages, 0 errors), Sitemap 189 indexierbare URLs, 2027-Landingpages vorhanden, keine past/entfernten Leaks. Hinweis für nächsten echten Lauf: BACKLOG unverändert abarbeiten (Full-Distance-Challenge, IRONMAN Welle 3, k226/cycloworld-Discovery re-check).
 - Build zuletzt grün: **1230 pages**, 0 errors; Sitemap 190 URLs (nur indexierbar), alle neuen `-2027`-URLs enthalten, keine past/noindex-/abgesagten URLs
 - Datenqualität (upcoming, Stand 09-23): thin **0** (alle veredelt); missing distanceKm **4** (offiziell nicht publiziert: Pontevedra-WM, Albstadt-Teamrennen etc.); missing elevationGainM **62**; missing imageUrl **29** (Anstieg = neue IRONMAN/Challenge-2027-Seiten ohne hotlinkbares Hero)
 
