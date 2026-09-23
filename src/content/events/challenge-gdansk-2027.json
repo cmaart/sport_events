@@ -1,0 +1,22 @@
+{
+  "id": "challenge-gdansk-2027",
+  "name": "Challenge Gdańsk",
+  "sport": "triathlon",
+  "categories": [
+    "T100"
+  ],
+  "country": "PL",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gdańsk",
+    "lat": 54.352,
+    "lng": 18.6466
+  },
+  "websiteUrl": "https://challengefamily.com/races/challenge-gdansk/",
+  "description": "Die Challenge Gdańsk findet 2027 am 20. Juni um 08:00 Uhr in der Hansestadt Danzig an der polnischen Ostseeküste statt. Für 2027 wird das neue Challenge-100-Format gefahren: 2,0 km Schwimmen in der Ostsee, 80 km Rad durch Danzigs Küstenregion und in Richtung Kaschubische Seenplatte sowie 18 km Lauf durch die historische Altstadt vorbei an der prächtigen Langgasse (Długi Targ). Das Rahmenprogramm umfasst eine Junior Challenge, eine Sprintdistanz und einen Women's Run. Als eines der Challenge-Family-Rennen in Polen verbindet die Veranstaltung die Ostsee-Kulisse mit dem historischen Stadtbild Danzigs. Die Anmeldung läuft über die offizielle Challenge-Family-Seite.",
+  "distanceKm": 100,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/pologne/pomeranie/gdansk/challenge-gdansk/xsa6cfde2qpiy4yvmj42"
+}

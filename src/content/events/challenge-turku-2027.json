@@ -1,0 +1,23 @@
+{
+  "id": "challenge-turku-2027",
+  "name": "Challenge Turku",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FI",
+  "dates": {
+    "start": "2027-07-24",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Turku",
+    "lat": 60.4518,
+    "lng": 22.2666
+  },
+  "websiteUrl": "https://challenge-turku.com/",
+  "description": "Die Challenge Turku wird 2027 am Wochenende 24.–25. Juli in Finnlands ältester Stadt an der Südwestküste ausgetragen, mit dem Hauptrennen am Sonntag, 25. Juli. Über die Mitteldistanz sind 1,9 km Schwimmen im Aurajoki mitten in der Altstadt, 90 km Rad in drei Schleifen durch den finnischen Schärengarten und 21,1 km Lauf über 3,5 Runden entlang der Flusspromenaden zu bewältigen. Am Samstag ergänzen die Junior Challenge und Super-Sprint-Bewerbe das Programm. Das Rennen ist offizieller Qualifier der Challenge Family für 'The Championship'; die Anmeldung öffnet im September 2026. Turku ist im Hochsommer für seine langen, hellen Abende bekannt, was das Renn-Ambiente an der Aura prägt.",
+  "distanceKm": 113,
+  "imageUrl": "https://challenge-turku.com/wp-content/uploads/sites/21/2025/10/nz85273.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "walchsee-challenge-2027",
+  "name": "Challenge Kaiserwinkl-Walchsee",
+  "sport": "triathlon",
+  "categories": [
+    "T100"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Walchsee, Kaiserwinkl",
+    "lat": 47.6543,
+    "lng": 12.3308,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://challenge-walchsee.com/",
+  "description": "Die Challenge Kaiserwinkl-Walchsee kehrt am 27. Juni 2027 in den Tiroler Kaiserwinkl zurück, mit dem Hauptrennen am Sonntag. Für 2027 wird die Hauptdistanz im neuen Challenge-100-Format ausgetragen: 2,0 km Schwimmen im glasklaren Walchsee, 80 km Rad und 18 km Lauf. Der Radkurs führt durch die voralpine Landschaft am Fuß des Zahmen Kaisers mit welligem Profil und Blick auf das Kaisergebirge. Der Lauf verläuft in mehreren Runden rund um den Walchsee mit Ziel im Ortszentrum. Das Rennwochenende umfasst zusätzlich Aquabike- und Staffelbewerbe. Der Kaiserwinkl an der Grenze zu Bayern ist als Trainings- und Wettkampfregion für Triathleten etabliert.",
+  "distanceKm": 100,
+  "imageUrl": "https://challenge-walchsee.com/wp-content/uploads/sites/7/2024/11/walchsee-bike3.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ironman-703-erkner-2027",
+  "name": "IRONMAN 70.3 Erkner Berlin-Brandenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Erkner",
+    "lat": 52.4316,
+    "lng": 13.7528,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.ironman.com/im703-erkner",
+  "description": "Der IRONMAN 70.3 Erkner bildet auch 2027 das deutsche Saisonfinale vor den Toren Berlins. IRONMAN Germany hat die Austragung 2027 offiziell angekündigt (gemeinsam mit Duisburg und Leipzig als „Weg nach Chattanooga“); ein exaktes Datum lag zum Zeitpunkt der Erfassung noch nicht vor – die Angabe folgt dem gewohnten September-Wochenende. Geschwommen wird über 1,9 km im Strandbad am Dämmeritzsee, gefolgt von einer nahezu flachen 90-km-Radstrecke durch die Brandenburger Seen- und Waldlandschaft und einem ebenen Halbmarathon über 21,1 km. Dank minimalem Höhenunterschied gilt Erkner als ausgesprochener Bestzeitkurs. Als 70.3-Rennen vergibt der Wettkampf Slots für die IRONMAN 70.3-Weltmeisterschaft 2027 in Chattanooga.",
+  "distanceKm": 113,
+  "elevationGainM": 300,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/brandebourg/ironman-70-3-erkner/rvc2fugtluywdup8bvqh"
+}

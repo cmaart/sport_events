@@ -1,0 +1,21 @@
+{
+  "id": "challenge-salou-2027",
+  "name": "Challenge Salou Costa Daurada",
+  "sport": "triathlon",
+  "categories": [
+    "T100"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salou",
+    "lat": 41.0713,
+    "lng": 1.1304
+  },
+  "websiteUrl": "https://challenge-salou.com/en/",
+  "description": "Die Challenge Salou an Kataloniens Costa Daurada findet 2027 am 9. Mai statt ('Save the date! May 9, 2027'). Die frühere Mitteldistanz wird durch das neue T100-Format ersetzt: 2,0 km Schwimmen im Mittelmeer über zwei Runden, 80 km Rad in drei Schleifen und 18 km Lauf in vier Runden. Der Radkurs führt aus dem Badeort Salou ins Hinterland der Provinz Tarragona. Das flache und schnelle Laufsegment verläuft entlang der Küstenpromenade von Salou. Das milde katalanische Frühlingsklima Anfang Mai macht das Rennen zum beliebten Saisonauftakt mit internationalem Teilnehmerfeld. Neben dem T100 stehen T100-Staffel und eine Kurzdistanz auf dem Programm; die Anmeldung läuft über die offizielle Veranstalterseite.",
+  "distanceKm": 100
+}

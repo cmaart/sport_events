@@ -30,6 +30,7 @@ export const TRIATHLON_CATEGORIES = [
   'Sprintdistanz',
   'Olympische Distanz',
   'Mitteldistanz',
+  'T100',
   'Langdistanz',
   'Cross-Triathlon',
   'Aquathlon',

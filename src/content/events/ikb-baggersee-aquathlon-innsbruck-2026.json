@@ -17,6 +17,7 @@
     "region": "Tirol"
   },
   "websiteUrl": "https://www.ttci.at",
-  "description": "IKB Baggersee Aquathlon am Innsbruck Baggersee – der traditionelle Saisonabschluss des Triathlon Clubs Innsbruck: 1 km Schwimmen / 5 km Laufen, plus Jugend-Bewerbe.",
-  "imageUrl": "https://www.ttci.at/wp-content/uploads/2026/03/aquatlon_ttci_26-954x1024.jpg"
+  "description": "Der IKB Baggersee Aquathlon am Baggersee Rossau in Innsbruck ist der traditionelle Saisonabschluss der Tiroler Triathlonszene und wird am 26. September 2026 vom Tiroler Triathlon Club Innsbruck (TTCI) ausgerichtet. Der Hauptbewerb umfasst 1 km Schwimmen im See und anschließend 5 km Laufen auf einem kompakten Rundkurs am Ufer, der von der Auftaktschwimmstrecke Tempo, Ausdauer und taktisches Geschick verlangt. Rund um den Hauptbewerb finden mehrere Jugend- und Kinderbewerbe mit verkürzten Distanzen statt, darunter das Finale des ASVÖ Euregio Kinder-TriZug-Cups mit Nachwuchs aus der Euregio. Der Rundkurs am See bietet Zuschauern beste Sicht auf das Renngeschehen; der Eintritt für Zuseher ist frei.",
+  "imageUrl": "https://www.ttci.at/wp-content/uploads/2026/03/aquatlon_ttci_26-954x1024.jpg",
+  "distanceKm": 6
 }

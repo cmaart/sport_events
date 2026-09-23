@@ -1,0 +1,23 @@
+{
+  "id": "ironman-france-nice-2027",
+  "name": "IRONMAN France Nice",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nice",
+    "lat": 43.7102,
+    "lng": 7.262
+  },
+  "websiteUrl": "https://www.ironman.com/im-france",
+  "description": "IRONMAN France in Nizza am 12. September 2027: 3,8 km Schwimmen im Mittelmeer, 180 km Radfahren mit rund 2.500 Höhenmetern durch die Bergwelt der Alpes-Maritimes und 42,2 km Laufen entlang der Promenade des Anglais. Für 2027 wechselt die Langdistanz ausnahmsweise vom gewohnten Juni-Termin in den September, nachdem die 70.3-Weltmeisterschaft nach Chattanooga verlegt wurde; damit fallen Full Distance und IRONMAN 70.3 Nice erneut auf denselben Tag. Das September-Datum soll zugleich die Hitzeproblematik der Vorjahre entschärfen. Die anspruchsvolle Bergstrecke zählt zu den spektakulärsten Langdistanzkursen Europas.",
+  "distanceKm": 226,
+  "elevationGainM": 2500,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/14/f8/36/ironman-france-49-1529485949.jpg"
+}
