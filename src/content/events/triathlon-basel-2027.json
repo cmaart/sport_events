@@ -1,0 +1,24 @@
+{
+  "id": "triathlon-basel-2027",
+  "name": "4. Triathlon Basel",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-29",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Basel",
+    "lat": 47.5596,
+    "lng": 7.5886
+  },
+  "websiteUrl": "https://triathlonbasel.ch/",
+  "description": "Der 4. Triathlon Basel soll laut Veranstalter erneut am letzten Augustwochenende stattfinden, also am 28. und 29. August 2027; die Anmeldung soll am 1. Oktober 2026 öffnen. Das Rennen ist einer der wenigen Triathlons mit Schwimmen im Rhein: Die Strecke führt flussabwärts am Basler Münster vorbei und unter den historischen Rheinbrücken hindurch. Auf der Olympischen Distanz stehen 1,5 km Schwimmen, 40 km Rad (5 Runden) und 10 km Lauf (4 Runden) an, auf der Sprintdistanz 0,75 / 16 / 5 km; Staffeln sind auf beiden Distanzen möglich. Weil flussabwärts geschwommen wird, eignet sich der Sprint auch für Neulinge – City-Bikes und Mountainbikes sind erlaubt, Zeitfahrräder nicht. Das Ziel liegt auf der Dreirosenanlage.",
+  "distanceKm": 52,
+  "imageUrl": "https://triathlonbasel.ch/wp-content/uploads/2026/02/Triahtlon_Basel-swim-start2-abgedunkelt-scaled.png"
+}

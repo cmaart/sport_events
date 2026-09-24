@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-weiden-oberpfalz-2027",
+  "name": "Triathlon Weiden",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-08",
+    "end": "2027-05-08",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Weiden in der Oberpfalz",
+    "lat": 49.6771,
+    "lng": 12.1627,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.ausdauerakademie.de/events/triathlon-weiden",
+  "description": "Der Triathlon Weiden ist laut Veranstalter für Mai 2027 geplant, ein genauer Tag steht noch nicht fest; als vorläufiger Termin gilt das gleiche Wochenende wie 2026. Der Klassiker am Schätzlerbad in Weiden in der Oberpfalz eröffnet traditionell die Ligasaison des Bayerischen Triathlon-Verbands. Angeboten werden Supersprint (200 m / 9 km / 2,3 km), Sprint (500 m / 18 km / 4,5 km) und Olympische Distanz (1,5 km / 36 km / 9 km). Organisiert wird das Rennen seit 2018 von Team Oberpfalz e.V., ausdauerakademie.de und der Triathlonakademie Pilsen. Besonderes Merkmal ist die zuschauerfreundliche, kompakte Strecke.",
+  "distanceKm": 47,
+  "imageUrl": "https://www.ausdauerakademie.de/wp-content/uploads/2018/11/Impressionen.jpg"
+}

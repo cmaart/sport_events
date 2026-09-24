@@ -1,0 +1,24 @@
+{
+  "id": "aarau-triathlon-2027",
+  "name": "11. Tempo-Sport Aarau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Duathlon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-09-19",
+    "end": "2027-09-19",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Aarau",
+    "lat": 47.3924,
+    "lng": 8.0448
+  },
+  "websiteUrl": "https://triclubaarau.clubdesk.com/aarautriathlon",
+  "imageUrl": "https://live.staticflickr.com/65535/54802598080_9406f1e0d6_b.jpg",
+  "description": "Der 11. Tempo-Sport Aarau Triathlon findet laut „Save the Date“ des Veranstalters voraussichtlich am 19. September 2027 statt und bildet wieder den nordschweizerischen Saisonabschluss. Wettkampfgelände ist der Aarauer Schachen: rund 400 m Schwimmen in der Aare, 20 km Radfahren und 5 km Laufen. Seit der Jubiläumsausgabe 2026, die mit goldenem Wetter und Teilnahmerekord gefeiert wurde, gibt es zusätzlich einen Duathlon über rund 2,5 km Laufen, 20 km Rad und 5 km Laufen. Unter dem Motto „Triathlon für Alle“ ist jedes Velo vom Rennrad bis zum „Bahnhofvelo“ erlaubt, Helmpflicht vorausgesetzt. Zum Rahmenprogramm gehören das Kuchenbuffet der Junioren und die traditionelle Startnummernverlosung.",
+  "distanceKm": 25
+}

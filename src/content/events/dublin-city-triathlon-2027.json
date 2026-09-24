@@ -1,0 +1,22 @@
+{
+  "id": "dublin-city-triathlon-2027",
+  "name": "RDJ Dublin City Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2027-08-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Phoenix Park, Dublin",
+    "lat": 53.3558,
+    "lng": -6.3257
+  },
+  "websiteUrl": "https://www.dublincitytriathlon.com/",
+  "imageUrl": "https://www.dublincitytriathlon.com/wp-content/uploads/2024/08/LEH2121.jpg",
+  "description": "Der RDJ Dublin City Triathlon kehrt 2027 in den Phoenix Park zurück („Back in 2027“), ein genaues Datum hat der Piranha Triathlon Club noch nicht veröffentlicht – als vorläufiger Termin gilt das gleiche Wochenende wie 2026. Das Rennen zählt zu den größten urbanen Triathlon-Festivals Irlands. Geschwommen werden 750 m in der Upper River Liffey, es folgen 20 km Rad auf einem Mehrrundenkurs in und aus dem Phoenix Park und ein flacher 5-km-Lauf mit Start und Ziel am Garda Boat Club an der Chapelizod Road. Kernbewerb ist die Sprintdistanz als Teil der Triathlon-Ireland-National-Series, dazu kommen Try-a-Tri, Aquabike, Corporate Relay und ein Kinderbewerb.",
+  "distanceKm": 26
+}

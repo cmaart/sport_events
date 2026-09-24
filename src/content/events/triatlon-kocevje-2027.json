@@ -1,0 +1,22 @@
+{
+  "id": "triatlon-kocevje-2027",
+  "name": "Triatlon Kočevje",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2027-08-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Kočevje",
+    "lat": 45.6397,
+    "lng": 14.8626
+  },
+  "websiteUrl": "https://triatlon-klub-ribnica.si/triatlon-kocevje.html",
+  "description": "Der Triatlon Kočevje 2027 ist vom Triatlon klub Ribnica für einen Samstag im August 2027 angekündigt; der genaue Tag steht noch aus, als vorläufiger Termin gilt das gleiche Wochenende wie 2026. Austragungsort ist der Kočevsko jezero rund 60 km südlich von Ljubljana. Der Sprint über 750 m Schwimmen, 20 km Rad bis zum Wendepunkt in Zgornji Cvišlerji und 4,9 km Laufen ist zugleich slowenische Staatsmeisterschaft im Sprint-Triathlon mehrerer Altersklassen und Meisterschaft der slowenischen Streitkräfte. Der Super-Sprint (300 m / 6,5 km / 1,9 km) zählt zum slowenischen Super-Sprint-Cup für den Nachwuchs, dazu kommen Aquathlons für Kinder. Start, Ziel, Wechselzone und Anmeldung liegen direkt am See.",
+  "distanceKm": 25.65,
+  "imageUrl": "https://triatlonslovenije.si/wp-content/uploads/2024/07/triatlon_koCevje-min.jpg"
+}
