@@ -96,20 +96,24 @@ Sitemap ausgeschlossen werden. Wenn du das änderst, dokumentiere es in `progres
 
 ## Recherche-Umfang
 
-Discovery-Quellen (Erst-Metadaten, dann offiziell gegenprüfen). Für 2027 die Kalender explizit auf
-das Jahr 2027 umstellen (Jahres-Filter/URL-Parameter der Aggregatoren) — viele zeigen per Default
-noch die laufende Saison:
+**Alle folgenden Quellen werden in JEDEM Lauf vollständig durchsucht** (keine Rotation). Jeder Lauf
+gleicht sie gegen den Bestand ab: neue Events → Kandidaten, geänderte Termine und Absagen → übernehmen
+(nach offizieller Prüfung). Durchsuchen ≠ anlegen: das Anti-Flut-Limit (max. 15 neu) gilt weiter,
+überzählige Kandidaten kommen in den BACKLOG. Für 2027 die Kalender explizit auf das Jahr 2027
+umstellen (Jahres-Filter/URL-Parameter) — viele zeigen per Default noch die laufende Saison.
+
+Verbands-/Serienquellen (offiziell — für Datum/Durchführung vertrauenswürdig; Distanzen/Details wenn
+möglich auf der Veranstalterseite gegenprüfen):
+- Triathlon AT (ÖTRV): https://www.triathlon-austria.at/de/service-termine — maßgebliche Liste für
+  österreichische Triathlons/Duathlons/Aquathlons, inkl. „ABGESAGT"-Markierungen.
+- Triathlon DE (DTU): https://www.triathlondeutschland.de/termine/veranstaltungskalender
+- Ironman & Challenge (europaweit, Mittel- + Langdistanz): offizielle Übersichts-/Kalenderseiten von
+  ironman.com und challenge-family.com, die Rennen direkt auflisten.
+- Große bekannte Radrennen europaweit: UCI Gran Fondo World Series, etablierte Marathons/Etappenrennen.
+
+Aggregatoren (nur Discovery — Fakten immer gegen die offizielle Veranstalterseite prüfen):
 - Rad AT/DE + Zeitfahren: https://www.cycloworld.cc/de/kalender-de
-- Triathlon DE: https://www.triathlondeutschland.de/termine/veranstaltungskalender
-- **Triathlon AT — Pflichtquelle, JEDEN Lauf durchsuchen:** https://www.triathlon-austria.at/de/service-termine
-  (offizieller ÖTRV-Verbandskalender). Maßgebliche Liste für österreichische Triathlons/Duathlons/Aquathlons:
-  jeden Lauf gegen den Bestand abgleichen — neue AT-Events als Kandidaten (Anti-Flut-Limit gilt), Datumsänderungen
-  und Absagen („ABGESAGT") übernehmen. Als Verbandsquelle für Datum/Durchführung vertrauenswürdig;
-  Distanzen/Details wenn möglich auf der Veranstalterseite gegenprüfen.
-- Triathlon europaweit (Discovery, gegen offizielle Quelle prüfen): https://www.k226.com/events/events.aspx
-- **Ironman & Challenge (europaweit, Mittel- + Langdistanz):** offizielle Übersichts-/Kalenderseiten
-  von ironman.com und challenge-family.com, die Rennen direkt auflisten.
-- **Große bekannte Radrennen europaweit:** UCI Gran Fondo World Series, etablierte Marathons/Etappenrennen.
+- Triathlon europaweit: https://www.k226.com/events/events.aspx
 
 Fokus AT/DE für Breite; Ironman/Challenge + Radklassiker europaweit. Neue `country`/`category`-Werte
 bei Bedarf in `src/lib/types.ts` ergänzen (Zod übernimmt automatisch) — neue Filter nur anlegen wenn
@@ -142,7 +146,8 @@ nicht unbegrenzt anhängen, sondern aktuell halten:
 - **ZU PRÜFEN** — Phantom-Verdachtsfälle: vorhandene Events gegen offizielle Quelle verifizieren,
   bei bestätigtem Nicht-Stattfinden entfernen und in die BLACKLIST verschieben.
 - **BACKLOG** — offene Enrichment-/Kandidaten-Aufgaben zuerst abarbeiten.
-- **QUELLEN-STAND** — die am längsten nicht geprüften Discovery-Quellen bevorzugt re-checken.
+- **QUELLEN-STAND** — Nachweis, wann jede Quelle zuletzt durchsucht wurde. Alle Quellen werden jeden
+  Lauf geprüft; ist eine Quelle nicht erreichbar/geblockt, dort vermerken und nächsten Lauf erneut versuchen.
 
 **Am Ende fortschreiben (rollend halten):**
 - STATE-Block aktualisieren: Kennzahlen neu, BLACKLIST um neu entfernte/abgesagte Events ergänzen

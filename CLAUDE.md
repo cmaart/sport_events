@@ -93,7 +93,7 @@ Event descriptions are German prose, 2–4 sentences, factual: location, route h
 When verifying event facts (dates, distances, elevation), prefer primary/official sources and avoid known-unreliable secondary sources.
 
 - **Trusted**: the event's official website, official race-organiser social channels, official federation calendars (DTU, ÖTRV, BDR, ÖRV, UCI, ITU/World Triathlon), ironman.com, challenge-family.com, Wikipedia for cross-checks of historical editions.
-- **Austrian triathlon — always check:** the ÖTRV calendar https://www.triathlon-austria.at/de/service-termine is the reference list for AT triathlon/duathlon/aquathlon events and is scanned on every maintenance run (new events, date changes, cancellations).
+- **Austrian triathlon:** the ÖTRV calendar https://www.triathlon-austria.at/de/service-termine is the reference list for AT triathlon/duathlon/aquathlon events. All discovery sources (federation calendars and aggregators) are scanned on every maintenance run — see `claude-automation/sport-events-checker/routine-prompt.md`.
 - **Treat with caution / cross-check**: aggregator sites (ahotu, finishers, runme, hdsports, triafreunde, racecheck, etc.) — often have stale dates or copy-pasted errors. Use only when the official site does not state the fact.
 - **Do NOT use as a source**:
   - `prommer.net` — flagged as unreliable; do not cite for distances/elevation/dates.
