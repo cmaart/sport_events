@@ -10,6 +10,9 @@
 - Pro Ausgabe eigene Datei (`<slug>-2027.json`); 2026-Dateien nie umdatieren. Details: `routine-prompt.md` → „Saisonen".
 - 2027-Bestand: **40 Events** (Welle 1–3). Enrichment-first beachten, aber upcoming-Beschreibungen sind aktuell **alle ≥250 Zeichen** (0 dünn) — nächste Läufe: fehlende `elevationGainM`/`imageUrl` + Welle-3-Reste + Challenge-Okt-Ausgaben 2027 (re-check ab Herbst 2026).
 
+### Kein Mengen-Limit mehr (seit 2026-09-24)
+- Das 15-Events-pro-Lauf-Limit ist auf User-Wunsch aufgehoben. Qualitäts-Gate bleibt: jede neue Seite voll ausgearbeitet + offiziell verifiziert.
+
 ### Neue Kategorie (seit 2026-09-23)
 - **`T100`** in `TRIATHLON_CATEGORIES` (`src/lib/types.ts`) ergänzt für das neue 100er-Format (2 km Schwimmen / 80 km Rad / 18 km Laufen = 100 km), auf das Challenge Family (in Kooperation mit der PTO) mehrere Rennen umstellt. `distanceKm: 100` statt 113; klassische 1,9/90/21,1-Rennen bleiben `Mitteldistanz`. Zod/Filter/Landingpages übernehmen automatisch. Aktuell 6 T100-Events: Cesenatico, Gdańsk, Mogán Gran Canaria, Salou, The Championship (Šamorín), Kaiserwinkl-Walchsee.
 

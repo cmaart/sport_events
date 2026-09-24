@@ -10,10 +10,9 @@ runtergestuft** (Scaled-Content-Throttle): von ~1119 Seiten sind nur ~91 indexie
 steht auf "Gecrawlt/Gefunden – nicht indexiert". Ursache war **zu schnelles Fluten dünner,
 templatisierter Seiten auf einer jungen, backlink-losen Domain.**
 
-**Daraus folgt die wichtigste Regel: NICHT MEHR FLUTEN.** Das Ziel dieser Routine ist ab sofort
-**Qualität und Tiefe pro Seite + kontrolliertes Wachstum**, nicht maximale Menge. Jeder Lauf soll
-die Domain *wertvoller* machen, nicht nur *größer*. Ein vollständiger Überblick bleibt langfristiges
-Ziel — aber langsam und mit indexwürdigen Seiten, sonst hebt sich der Throttle nie.
+**Daraus folgt die wichtigste Regel: KEINE DÜNNEN SEITEN.** Ziel ist ein vollständiger Überblick,
+aber jede Seite muss **Qualität und Tiefe** haben — indexwürdig statt austauschbar. Seit 2026-09-24
+gibt es kein Mengen-Limit pro Lauf mehr; die Bremse ist das Qualitäts-Gate (siehe „Neuanlagen").
 
 ## Saisonen: 2026 auslaufend, 2027 Zielsaison (seit 2026-09-16)
 
@@ -41,17 +40,19 @@ eigene JSON-Datei** mit Jahres-Suffix (`<slug>-2026.json`, `<slug>-2027.json`).
 - **Slug-Konvention prüfen:** 2027-Datei braucht denselben Stamm wie die 2026-Datei, damit die
   Ausgaben-Verlinkung greift (`tour-de-kaernten-2026` ↔ `tour-de-kaernten-2027`).
 
-## Harte Limits pro Lauf (Anti-Flut)
+## Neuanlagen & Priorität pro Lauf
 
-- **Maximal 15 netto-neue Events pro Lauf** — 2027-Ausgaben bestehender Events zählen mit (sind
-  neue Seiten für Google). Keine Massen-Merges (kein "+200 Events"). Wenn du mehr Kandidaten
-  findest, notiere sie in `progress.md` als Backlog für spätere Läufe.
-- **Enrichment vor Neuanlage.** Priorität pro Lauf, in dieser Reihenfolge:
+- **Kein Mengen-Limit für neue Events** (seit 2026-09-24 aufgehoben). Alle verifizierten Kandidaten
+  aus den Quellen dürfen angelegt werden — 2027-Ausgaben bestehender Events eingeschlossen.
+- **Qualitäts-Gate statt Mengen-Gate:** Jede neue Seite muss voll ausgearbeitet sein (Beschreibung
+  4–8 Sätze nach „Detailseiten-Content", belegte Felder, offiziell verifiziertes Datum). Keine
+  templatisierten Stub-Seiten, keine Massen-Merges aus Aggregator-Daten ohne Einzelprüfung. Kandidaten,
+  die in diesem Lauf nicht sauber recherchiert werden können, in `progress.md` als BACKLOG notieren.
+- **Reihenfolge pro Lauf:**
   1. Vorhandene künftige Events **vervollständigen** (fehlende `distanceKm`, `elevationGainM`,
      `imageUrl`, dünne Beschreibungen verbessern).
   2. Datenfehler/Dubletten fixen, unverifizierbare Events entfernen.
-  3. Erst dann bis zu 15 neue, gut recherchierte Events anlegen (Zielsaison 2027, siehe oben).
-- Wenn in einem Lauf noch viele Bestands-Events unvollständig sind: **keine** neuen anlegen, nur veredeln.
+  3. Neue, gut recherchierte Events anlegen (Zielsaison 2027, siehe oben).
 
 ## Detailseiten-Content (gegen "Gecrawlt – nicht indexiert")
 
@@ -98,8 +99,8 @@ Sitemap ausgeschlossen werden. Wenn du das änderst, dokumentiere es in `progres
 
 **Alle folgenden Quellen werden in JEDEM Lauf vollständig durchsucht** (keine Rotation). Jeder Lauf
 gleicht sie gegen den Bestand ab: neue Events → Kandidaten, geänderte Termine und Absagen → übernehmen
-(nach offizieller Prüfung). Durchsuchen ≠ anlegen: das Anti-Flut-Limit (max. 15 neu) gilt weiter,
-überzählige Kandidaten kommen in den BACKLOG. Für 2027 die Kalender explizit auf das Jahr 2027
+(nach offizieller Prüfung). Kein Mengen-Limit; Kandidaten, die nicht sauber recherchiert werden
+können, kommen in den BACKLOG. Für 2027 die Kalender explizit auf das Jahr 2027
 umstellen (Jahres-Filter/URL-Parameter) — viele zeigen per Default noch die laufende Saison.
 
 Verbands-/Serienquellen (offiziell — für Datum/Durchführung vertrauenswürdig; Distanzen/Details wenn
