@@ -101,7 +101,11 @@ das Jahr 2027 umstellen (Jahres-Filter/URL-Parameter der Aggregatoren) — viele
 noch die laufende Saison:
 - Rad AT/DE + Zeitfahren: https://www.cycloworld.cc/de/kalender-de
 - Triathlon DE: https://www.triathlondeutschland.de/termine/veranstaltungskalender
-- Triathlon AT: https://www.triathlon-austria.at/de/service-termine
+- **Triathlon AT — Pflichtquelle, JEDEN Lauf durchsuchen:** https://www.triathlon-austria.at/de/service-termine
+  (offizieller ÖTRV-Verbandskalender). Maßgebliche Liste für österreichische Triathlons/Duathlons/Aquathlons:
+  jeden Lauf gegen den Bestand abgleichen — neue AT-Events als Kandidaten (Anti-Flut-Limit gilt), Datumsänderungen
+  und Absagen („ABGESAGT") übernehmen. Als Verbandsquelle für Datum/Durchführung vertrauenswürdig;
+  Distanzen/Details wenn möglich auf der Veranstalterseite gegenprüfen.
 - Triathlon europaweit (Discovery, gegen offizielle Quelle prüfen): https://www.k226.com/events/events.aspx
 - **Ironman & Challenge (europaweit, Mittel- + Langdistanz):** offizielle Übersichts-/Kalenderseiten
   von ironman.com und challenge-family.com, die Rennen direkt auflisten.

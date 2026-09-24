@@ -62,7 +62,7 @@
 | k226.com/events/events.aspx (Tri, europaweit) | 2026-07-14 |
 | cycloworld.cc/de/kalender-de (Rad AT/DE) | 2026-07-29 |
 | triathlondeutschland.de / dtu-kalender.de | 2026-09-23 (Cross-Duathlon-Termine Deining/Rüsselsheim gegengeprüft) |
-| triathlon-austria.at/de/service-termine | 2026-08-19 |
+| **triathlon-austria.at/de/service-termine (ÖTRV — Pflichtquelle, jeden Lauf)** | 2026-08-19 |
 | birken.no / GFNY-Serie / mtb-sachsen-cup.de | 2026-08-19 / 08-05 |
 > Hinweis: Am längsten offen sind die reinen Discovery-Aggregatoren **k226.com (07-14)** und **cycloworld.cc (07-29)** — nächster Lauf bevorzugt für 2027-Discovery re-checken (Jahresfilter auf 2027; nur Discovery, Fakten offiziell gegenprüfen; Anti-Flut). Für Full-Distance-Challenge den abgebrochenen 09-23-Lauf fortsetzen.
 
