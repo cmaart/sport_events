@@ -1,0 +1,27 @@
+{
+  "id": "steinbecker-triathlon-recke-2027",
+  "name": "34. Steinbecker Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Recke",
+    "lat": 52.368,
+    "lng": 7.729,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.steinbeck-triathlon.de",
+  "description": "Der 34. Steinbecker Triathlon startet am Sonntag, 20. Juni 2027 in Recke-Steinbeck im Tecklenburger Land, ausgerichtet vom SV Grün-Weiß Steinbeck. Drei Distanzen stehen zur Wahl: Sprint (0,5 km / 27 km / 5 km), Olympisch (1,5 km / 42 km / 10 km) und die SteelMan/SteelWoman-Mitteldistanz über 1,9 km Schwimmen, 82 km Rad und 21 km Lauf. Die Laufrunde der Mitteldistanz ist 5,1 km lang, Eigenverpflegung kann an den Getränkeständen hinterlegt werden. Neben Einzelstarts sind Staffeln möglich. Olympische und Mitteldistanz waren zuletzt frühzeitig ausgebucht – frühe Anmeldung lohnt sich.",
+  "distanceKm": 105,
+  "elevationGainM": 600,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/steinbecker-triathlon/hcqcrouklbn9qqz1sqoy"
+}

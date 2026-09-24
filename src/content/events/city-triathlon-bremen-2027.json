@@ -1,0 +1,26 @@
+{
+  "id": "city-triathlon-bremen-2027",
+  "name": "GEWOBA City Triathlon Bremen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-08",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bremen",
+    "lat": 53.1137,
+    "lng": 8.7892,
+    "region": "Bremen"
+  },
+  "websiteUrl": "https://citytriathlonbremen.de",
+  "description": "Der GEWOBA City Triathlon Bremen wird 2027 am Sonntag, 8. August ausgetragen – wieder in der Überseestadt am Europahafen. Die Athletinnen und Athleten springen von den Marina-Stegen ins Hafenbecken, anschließend führen Rad- und Laufkurs durch das umgebaute Hafen- und Güterbahnhofsquartier. Angeboten werden die Olympische Distanz (1,5 km / 40 km / 10 km), eine Sprint-/Volksdistanz über 0,5 km, 20 km und 5 km sowie ein Staffelwettbewerb. Im Rahmen des Events werden regelmäßig Bremer Landesmeisterschaften und Deutsche Gehörlosen-Meisterschaften ausgetragen. Die Anmeldung für 2027 ist auf der offiziellen Seite bereits verlinkt; Start, Ziel und Verpflegung liegen am Kopf des Europahafens.",
+  "distanceKm": 52,
+  "elevationGainM": 100,
+  "imageUrl": "https://citytriathlonbremen.de/typo3temp/_processed_/d/9/csm_csm_Bremen_erleben_3cc04b5e6e_01_b09f05278e.png"
+}

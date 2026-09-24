@@ -1,0 +1,26 @@
+{
+  "id": "rothsee-triathlon-hilpoltstein-2027",
+  "name": "Memmert Rothsee Triathlon Hilpoltstein",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-18",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hilpoltstein",
+    "lat": 49.1866,
+    "lng": 11.1822,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://rothsee-triathlon.de",
+  "description": "Der 38. Memmert Rothsee Triathlon findet vom 18. bis 20. Juni 2027 in Hilpoltstein im Fränkischen Seenland statt – erstmals über drei Tage. Die Anmeldung öffnet am 3. Oktober 2026. Das „familiäre Triathlon-Festival“ am Rothsee bietet Sprint- und Kurzdistanz-Rennen: Geschwommen wird im Rothsee, die Radstrecke über 40 km führt durch das mittelfränkische Umland, gelaufen werden 10 km am Seeufer. 2026 war der Rothsee Schauplatz der Deutschen Meisterschaft über die Kurzdistanz, die Rennen am Samstag und Sonntag wurden im Livestream übertragen. Jugend- und Studentenrennen ergänzen traditionell das Programm; Hilpoltstein ist zugleich Schwimmstart-Ort der Challenge Roth.",
+  "distanceKm": 52,
+  "elevationGainM": 400,
+  "imageUrl": "https://rothsee-triathlon.de/wp-content/uploads/2026/02/2025_SchwimmstartmitFackel_GuntramRudolph.jpg"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ironman-5150-erkner-2027",
+  "name": "5150 Erkner",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-11",
+    "end": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erkner",
+    "lat": 52.4316,
+    "lng": 13.7528,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.ironman.com/races/5150-erkner",
+  "description": "Das 5150 Erkner über die olympische Distanz findet 2027 am Samstag, 11. September, statt – einen Tag vor dem IRONMAN 70.3 Erkner am selben Rennwochenende vor den Toren Berlins. Geschwommen werden 1,5 km in einer Runde im Dämeritzsee am Strandbad Erkner; eine Hälfte des Sees gehört zum Berliner Stadtgebiet, die andere zu Brandenburg. Die Wechselzone liegt im Sportzentrum von Erkner, rund 150 m vom Schwimmausstieg entfernt. Die 40 km lange Radstrecke in einer Runde ist flach und schnell und führt auf geraden Straßen entlang der Spree in die Natur der Oder-Spree-Region. Die abschließenden 10 km Laufen in zwei Runden führen durch Erkner, über den Marktplatz und vorbei am Gerhart-Hauptmann-Museum, dem Wohnhaus des Literaturnobelpreisträgers. Das Rennen eignet sich besonders für Einsteiger und Kurzdistanz-Fans; die Anmeldung war zum Zeitpunkt der Erfassung als „Opening Soon“ angekündigt.",
+  "distanceKm": 51.5
+}

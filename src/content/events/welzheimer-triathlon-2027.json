@@ -1,0 +1,25 @@
+{
+  "id": "welzheimer-triathlon-2027",
+  "name": "42. Welzheimer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Welzheim",
+    "lat": 48.8769,
+    "lng": 9.6339,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.tsfwelzheim.de/abteilungen/welzheimer-triathlon/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/district-de-stuttgart/welzheimer-triathlon/lpxmu8qw65ynjyztxxe4",
+  "description": "Der 42. Welzheimer Triathlon des TSF Welzheim findet am Samstag, 10. Juli 2027 statt; die Anmeldung ist bereits geöffnet. Die Veranstaltung am Welzheimer See zählt zu den ältesten Vereinstriathlons Baden-Württembergs und existiert seit den Anfängen der deutschen Triathlonszene. Angeboten werden die Olympische Distanz (1,5 km Schwimmen / 40 km Rad / 10 km Lauf) und die Sprintdistanz (0,75 / 20 / 5 km), jeweils für Einzelstarter und Staffeln. Charakteristisch ist die kupierte Radstrecke über die bewaldeten Höhen des Naturparks Schwäbisch-Fränkischer Wald östlich von Stuttgart. Der Wettkampf war 2026 Teil des REGIOCUP Stuttgart.",
+  "distanceKm": 51
+}

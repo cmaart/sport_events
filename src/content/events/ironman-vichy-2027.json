@@ -1,0 +1,22 @@
+{
+  "id": "ironman-vichy-2027",
+  "name": "IRONMAN Vichy",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-08-22",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vichy",
+    "lat": 46.1276,
+    "lng": 3.4267
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-vichy",
+  "description": "Der IRONMAN Vichy wird 2027 am 22. August in der Kurstadt Vichy in der Auvergne ausgetragen, gemeinsam mit dem IRONMAN 70.3 Vichy am selben Wochenende. Geschwommen werden 3,8 km in einer Runde im ruhigen Wasser des Allier, meist bei Sonnenaufgang. Die 180 km lange Radstrecke im Herzen der Auvergne kombiniert lange schnelle Geraden mit technischerem, welligem Terrain: durch Dörfer wie Châteldon und den Livradois-Forez, über den 9,5 km langen Anstieg nach La Guillermie (durchschnittlich 3,7 %) und die Hügelkette zwischen Lapalisse und Châtel-Montagne. Zurück nach Vichy geht es entlang des Flusses Sichon, zum Abschluss auf einer direkteren Stadtdurchfahrt als in den Vorjahren. Der abschließende Marathon über 42,2 km führt durch die „Königin der Kurstädte“ mit Wechselzone am Plan d'eau des Allier. Das Rennen ist als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
+}

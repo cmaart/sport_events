@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-kraichgau-2027",
+  "name": "IRONMAN 70.3 Kraichgau",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Schönborn",
+    "lat": 49.2106,
+    "lng": 8.6521,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-kraichgau",
+  "description": "Der IRONMAN 70.3 Kraichgau findet 2027 am Sonntag, 23. Mai, und damit gut eine Woche früher als 2026 statt; parallel wird am selben Tag das 5150 Kraichgau über die olympische Distanz ausgetragen. Die 1,9 km lange Schwimmstrecke in einer Runde liegt im Hardtsee in Ubstadt-Weiher mit flachem Ufer und klarem Wasser. Auf der 90 km langen Radrunde lernen die Athletinnen und Athleten das „Land der 1000 Hügel“ mit Wäldern und Weinbergen kennen – anspruchsvolle Anstiege wechseln sich mit schnellen Geraden ab. Der flache Halbmarathon führt über drei Runden durch Bad Schönborn und bezieht den neu gestalteten Kurpark ein. Der Kraichgau zählt zu den traditionsreichsten Triathlon-Regionen Deutschlands mit großer Zuschauerunterstützung. Das Rennen ist 2027 als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

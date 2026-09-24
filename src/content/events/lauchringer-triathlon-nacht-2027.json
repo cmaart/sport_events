@@ -1,0 +1,24 @@
+{
+  "id": "lauchringer-triathlon-nacht-2027",
+  "name": "10. Lauchringer Triathlon-Nacht",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lauchringen",
+    "lat": 47.6397,
+    "lng": 8.3061,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-lauchringen.de/",
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=666x10000:format=jpg/path/sc9530795531a2c17/image/ic4c8dd5fc06a8004/version/1751230945/image.jpg",
+  "description": "Die 10. Lauchringer Triathlon-Nacht findet am Freitag, 25. Juni 2027 am Freibad Lauchringen statt – eine Jubiläumsausgabe des Abendtriathlons am Hochrhein nahe Waldshut-Tiengen. Auf dem Programm steht ein Sprint über 400 m Schwimmen im Freibad, rund 18,6 km Radfahren durch die Hochrheinlandschaft und rund 5,4 km Laufen in den Abend hinein. Dazu kommt ein Kids-Triathlon. Der Veranstalter stellt ein Teilnehmer-Handbuch, Streckenpläne und eine Startplatzbörse bereit. Der späte Start macht die Atmosphäre nahe der Schweizer Grenze besonders.",
+  "distanceKm": 24.4
+}

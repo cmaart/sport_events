@@ -1,0 +1,25 @@
+{
+  "id": "saerbecker-triathlon-2027",
+  "name": "45. Saerbecker Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz",
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Saerbeck",
+    "lat": 52.0728,
+    "lng": 7.5278,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.wasser-freizeit.de/veranstaltungen/saerbecker-triathlon",
+  "description": "Der 45. Saerbecker Triathlon findet am Sonntag, 4. Juli 2027 statt; die Anmeldung wird am 1. Januar 2027 um 00:01 Uhr freigeschaltet. Ausrichter der Traditionsveranstaltung im Münsterland ist der Verein Wasser + Freizeit Münster e.V., Start und Ziel liegen am Naturbad Saerbeck. Im Programm stehen die Olympische Distanz, eine lizenzpflichtige Sprintdistanz, ein lizenzfreier Volkstriathlon, ein Aquabike sowie ein Staffelwettbewerb. Damit richtet sich das Rennen gleichermaßen an Einsteiger wie an Ligaathleten. Mit 45 Auflagen gehört Saerbeck zu den ältesten Triathlons in Nordrhein-Westfalen.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.wasser-freizeit.de/images/joomgallery/saerbecker_triathlon_2/2024/D4S_1384.jpg"
+}

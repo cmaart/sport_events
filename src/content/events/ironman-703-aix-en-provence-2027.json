@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-aix-en-provence-2027",
+  "name": "IRONMAN 70.3 Aix-en-Provence",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aix-en-Provence",
+    "lat": 43.5297,
+    "lng": 5.4474
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-aix-en-provence",
+  "description": "Der IRONMAN 70.3 Aix-en-Provence findet 2027 am 23. Mai in der Provence statt, eine Woche später als 2026. Geschwommen werden 1,9 km auf einem rechteckigen Kurs im Lac de Peyrolles, rund 20 km von Aix-en-Provence entfernt; am Samstag und am Renntag verkehren kostenlose Shuttles zum Schwimmstart. Die 90 km Radstrecke führt zurück nach Aix-en-Provence und kombiniert flache mit hügeligen Abschnitten, darunter die technischen Straßen rund um den Mont Sainte-Victoire, das Lieblingsmotiv des Malers Paul Cézanne. Der Halbmarathon verläuft in drei Runden durch das Herz der Altstadt, durch die Parks und um den Brunnen La Rotonde, bevor das Ziel am Cours Mirabeau erreicht wird. Wegen der getrennten Wechselzonen (T1 in Peyrolles-en-Provence) ist das Rennen logistisch etwas aufwendiger. Die Ausgabe 2027 ist als Flex90-Rennen buchbar.",
+  "distanceKm": 113
+}

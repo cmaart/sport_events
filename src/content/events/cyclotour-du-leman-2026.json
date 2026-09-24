@@ -3,7 +3,7 @@
   "name": "Cyclotour du Léman",
   "sport": "cycling",
   "categories": [
-    "Gran Fondo"
+    "RTF"
   ],
   "country": "CH",
   "dates": {
@@ -16,7 +16,8 @@
     "lng": 6.6323
   },
   "websiteUrl": "https://cyclotour.ch/",
-  "description": "Die Cyclotour du Léman umrundet den Genfersee und startet und endet in Lausanne. Drei Distanzen stehen zur Wahl: die komplette Seeumrundung Lausanne–Lausanne über 176 km, die Strecke Évian–Lausanne über 112 km sowie Lausanne–Évian über 64 km mit Schiffsrückfahrt. Der Kurs führt über Schweizer und französisches Gebiet entlang des Ufers und durch die Weinberge des Lavaux. 2026 findet die Veranstaltung am 18. Oktober im Herbst statt. Es ist eine der bekanntesten Radtouren der Westschweiz.",
+  "description": "Die Cyclotour du Léman umrundet am 18. Oktober 2026 den Genfersee und ist laut Veranstalter ausdrücklich kein Rennen, sondern eine Cyclosportive-Ausfahrt auf offenen Straßen – „No race. Just pace.\" Die Königsdistanz Lausanne–Lausanne misst 176 km mit rund 890 Höhenmetern, startet um 7:00 Uhr und führt durch zwei Länder vorbei an den Weinbergen des Lavaux, dem Schloss Chillon, Évian-les-Bains und dem Jet d'eau in Genf. Die 112-km-Variante Évian–Lausanne (640 Hm) beginnt nach einer morgendlichen Schiffsüberfahrt um 7:37 Uhr ab Ouchy, die 64-km-Strecke Lausanne–Évian (250 Hm) endet mit einer inklusive Schiffsrückfahrt über den See und ist 2026 bereits ausverkauft. Weil die Schiffskapazitäten begrenzt sind, ist ein nachträglicher Distanzwechsel nicht möglich. Die Startgebühr steigt nach Anmeldereihenfolge, auf der 176-km-Runde von 139 bis 179 CHF; offizieller Charity-Partner ist World Bicycle Relief, dazu gibt es ein Kids Race.",
   "distanceKm": 176,
-  "imageUrl": "https://cyclotour.ch/images/headers/cyclotour-2025-60.jpg"
+  "imageUrl": "https://cyclotour.ch/assets/header/q77nlc6edylhikqxq6tvcf3zsl3fx10mvfo2jlu9.jpg",
+  "elevationGainM": 890
 }

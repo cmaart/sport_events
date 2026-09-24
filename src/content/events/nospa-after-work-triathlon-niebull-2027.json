@@ -1,0 +1,24 @@
+{
+  "id": "nospa-after-work-triathlon-niebull-2027",
+  "name": "12. NOSPA After Work Triathlon Niebüll",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-18",
+    "end": "2027-06-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Niebüll",
+    "lat": 54.7871,
+    "lng": 8.8299,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.shtu.de/termine",
+  "description": "Der 12. NOSPA After Work Triathlon findet am Freitag, 18. Juni 2027 in Niebüll statt, veranstaltet vom TSV Rot-Weiß Niebüll; der Termin ist im DTU-Veranstaltungskalender genehmigt. Der Feierabend-Triathlon im Norden Nordfrieslands nahe der dänischen Grenze bietet eine Sprintdistanz über 0,5 km Schwimmen, 19 km Radfahren und 3,5 km Laufen mit rund 150 Startplätzen. Dazu kommen Nachwuchsrennen für Jugend B (0,1 / 6 / 2 km) und Schüler B (0,05 / 6 / 1 km). Die Anmeldung läuft über raceresult. Der abendliche Start sorgt für eine besondere Atmosphäre an der Nordseeküste.",
+  "distanceKm": 23,
+  "imageUrl": "https://tsv-rotweiss-niebuell.de/images/inhalte/verein/news/triathlon-k.jpg"
+}

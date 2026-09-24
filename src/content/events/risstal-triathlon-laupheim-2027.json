@@ -1,0 +1,24 @@
+{
+  "id": "risstal-triathlon-laupheim-2027",
+  "name": "Rißtal Triathlon Laupheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-22",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Laupheim",
+    "lat": 48.2294,
+    "lng": 9.88,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://risstaltriathlon.de",
+  "description": "Der Rißtal Triathlon im Mobi Park Laupheim findet 2027 am Sonntag, 22. August statt – der Veranstalter hat den Termin am 8. September 2026 per „Save the date“ bekanntgegeben. Die vierte Auflage des oberschwäbischen Volkstriathlons wird wieder über die Sprintdistanz ausgetragen: 500 m Schwimmen im Obersulmetinger Baggersee, 20 km Rad durch das Rißtal und 5 km Laufen in zwei Runden um den See. Startberechtigt sind Einzelstarter und Dreier-Staffeln; 2026 standen 550 Startplätze zur Verfügung. Für Einsteiger organisiert der ausrichtende SV Sulmetingen Infoveranstaltungen („How to do Triathlon“), außerdem gibt es eine offizielle Startplatzbörse.",
+  "distanceKm": 26,
+  "imageUrl": "https://risstaltriathlon.de/media/pages/home/855cd6de7e-1741710351/hero-home-1024x.jpg"
+}

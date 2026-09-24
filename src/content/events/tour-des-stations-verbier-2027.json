@@ -1,0 +1,23 @@
+{
+  "id": "tour-des-stations-verbier-2027",
+  "name": "Tour des Stations",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Verbier",
+    "lat": 46.1113,
+    "lng": 7.2292
+  },
+  "websiteUrl": "https://tourdesstations.ch/en/",
+  "description": "Die Tour des Stations feiert am Samstag, 28. August 2027, ihr zehnjähriges Jubiläum; die Vorregistrierung für 2027 ist bereits geöffnet. Das Wallis-Event verbindet Walliser Ferienorte rund um Verbier und ist für seine extremen Höhenmeter pro Kilometer bekannt. Zur Wahl stehen Mediofondo, Marmotte Granfondo Valais (133 km, 4.700 Hm), Superfondo (185 km, 6.800 Hm) und die Ultrafondo „The Everest“ über 242 km mit symbolischen 8.848 Höhenmetern, dazu der Bambinofondo für Kinder. Zentraler Anstieg ist der Col de la Croix-de-Cœur auf rund 2.170 m. 2026 nahmen rund 3.200 Radfahrer aus etwa 50 Nationen teil. Die Marmotte-Granfondo-Distanz ist Teil der internationalen Marmotte-Serie.",
+  "distanceKm": 133,
+  "elevationGainM": 4700,
+  "imageUrl": "https://tourdesstations.ch/wp-content/uploads/2022/10/220806_EBORNET_119.webp"
+}

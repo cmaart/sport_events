@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-leipzig-2027",
+  "name": "IRONMAN 70.3 Leipzig",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-08",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-leipzig",
+  "description": "Der IRONMAN 70.3 Leipzig geht 2027 am 8. August in seine zweite Auflage – gut zwei Wochen früher als bei der Premiere 2026. Zugleich steigt Leipzig in die IRONMAN Pro Series 2027 auf und ist dort laut IRONMAN das letzte Rennen vor den Weltmeisterschaften. Geschwommen werden 1,9 km auf einem einfachen Hin-und-zurück-Kurs am Nordufer des Cospudener Sees mit Sandstrand-Start und klarem Wasser. Die 90 km lange Radrunde führt von See zu See durch das Leipziger Neuseenland und kombiniert schnelle, flache Abschnitte mit technischen Passagen. Der Halbmarathon verläuft in drei Runden durch das historische Sportforum, vorbei am Elsterbecken und der Arena des RB Leipzig, bevor im Sportforum das Ziel erreicht wird. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aluman-triathlon-grevesmuehlen-2027",
+  "name": "19. Aluman Triathlon Grevesmühlen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grevesmühlen",
+    "lat": 53.8614,
+    "lng": 11.1666,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.aluman-gvm.de",
+  "description": "Der 19. Aluman Triathlon Grevesmühlen findet am Samstag, 3. Juli 2027 statt; Startplätze gibt es ab 1. Januar 2027. Start und Ziel liegen am städtischen Freibad am Ploggensee in der Kleinstadt zwischen Lübeck und Wismar. Die Sprintdistanz umfasst 500 m Schwimmen im Ploggensee, 21,5 km Rad Richtung Groß Walmstorf und 6,5 km Laufen in zwei Runden um den See. Startberechtigt sind Einzelstarter und Dreier-Staffeln, die Teilnahmegebühr lag zuletzt bei 35 Euro im Einzel. Zuschauer haben freien Eintritt – der Aluman ist Anfang Juli ein fester Termin für Vereinsathleten aus Westmecklenburg.",
+  "distanceKm": 28,
+  "imageUrl": "https://cdn.prod.website-files.com/6759abd6bfde5cdeda88fe37/6762feb76ef4eba48e3c8292_Starttro%CC%88t_2024.webp"
+}

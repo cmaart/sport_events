@@ -1,0 +1,23 @@
+{
+  "id": "etape-caledonia-2027",
+  "name": "Étape Caledonia",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pitlochry",
+    "lat": 56.7056,
+    "lng": -3.7344
+  },
+  "websiteUrl": "https://www.etapecaledonia.com/",
+  "description": "Die Étape Caledonia kehrt am Sonntag, 9. Mai 2027, nach Pitlochry in Highland Perthshire zurück und feiert dabei ihre 20. Ausgabe. Seit 2007 gilt sie als Großbritanniens ursprünglicher Jedermann-Radmarathon auf komplett gesperrten Straßen. Zur Wahl stehen 40 Meilen (ca. 65 km, 860 Hm), 55 Meilen (ca. 90 km, 1.166 Hm) mit zwei großen Anstiegen und die volle Distanz über 85 Meilen (ca. 137 km, 1.555 Hm) mit drei Bergwertungen. Die Strecken führen durch die Loch- und Berglandschaft von Highland Perthshire, optional mit einer Sonderwertung am Anstieg zum Schiehallion. Die Anmeldung für 2027 ist bereits über Let's Do This geöffnet. Über Cancer Research UK gibt es zudem Charity-Startplätze für 30 £ bei einer Spendenzusage von 500 £.",
+  "distanceKm": 137,
+  "elevationGainM": 1555,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/654cef071258367140530ad6/8ee0758d-2567-484a-a15b-77fae166c26b/DJI_0105.jpg"
+}

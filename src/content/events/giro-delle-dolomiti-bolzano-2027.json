@@ -1,0 +1,23 @@
+{
+  "id": "giro-delle-dolomiti-bolzano-2027",
+  "name": "Giro delle Dolomiti",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-07-19",
+    "end": "2027-07-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bolzano",
+    "lat": 46.4983,
+    "lng": 11.3548
+  },
+  "websiteUrl": "https://www.girodolomiti.com/",
+  "description": "Der Giro delle Dolomiti feiert vom 19. bis 23. Juli 2027 sein 50-jähriges Jubiläum und kehrt dafür zum ursprünglichen Format zurück: lang und hart. Die fünf Etappen mit Basis in Bozen summieren sich auf rund 540 km und 14.000 Höhenmeter, mit gezeiteten Crono-Abschnitten auf den steilsten Rampen. Auf dem Programm stehen Würzjoch (146 km / 3.378 Hm), Stilfser Joch (57 km / 1.955 Hm), Fedaia–Marmolada mit der berüchtigten Rampe von Malga Ciapela (139 km / 4.007 Hm), die Dolomitenquerung ab Cortina über Giau, Pordoi und Costalunga (124 km / 2.872 Hm) sowie die Seiser Alm (74 km / 1.801 Hm). Erstmals wird eine Etappe für zwei Leistungsgruppen angeboten. Die Anmeldung ist seit 11. September 2026 geöffnet.",
+  "distanceKm": 540,
+  "elevationGainM": 14000
+}

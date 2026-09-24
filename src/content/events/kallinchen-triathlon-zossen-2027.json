@@ -1,0 +1,23 @@
+{
+  "id": "kallinchen-triathlon-zossen-2027",
+  "name": "Kallinchen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zossen",
+    "lat": 52.2179,
+    "lng": 13.4496,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "http://kallinchentriathlon.de/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/brandebourg/kallinchen-triathlon/vlwzea6wej8tvmtw16ii",
+  "description": "Der KallinchenTriathlon findet am 29. August 2027 statt – der Traditionstriathlon wird seit 1989 am Strandbad Kallinchen in Zossen südlich von Berlin ausgetragen. Mit rund 800 Teilnehmenden aus Berlin und Brandenburg gehört er zu den größten Vereinstriathlons der Region; 2026 war die Veranstaltung bereits Mitte Juli komplett ausgebucht. Geschwommen wird im Motzener See, Rad- und Laufstrecken führen durch die brandenburgische Seenlandschaft. Seit 2026 gilt aufgrund von Verbandsvorgaben für die Sprintwertung eine geänderte Laufstreckenführung. Der Veranstalter richtet im Februar zudem den Valentinslauf aus.",
+  "distanceKm": 26
+}

@@ -1,0 +1,27 @@
+{
+  "id": "allgaeu-triathlon-immenstadt-2027",
+  "name": "Allgäu Triathlon Immenstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-22",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Immenstadt im Allgäu",
+    "lat": 47.5657,
+    "lng": 10.2154,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://808project.de/allgaeutriathlon",
+  "description": "Der Allgäu Triathlon findet 2027 am Sonntag, 22. August statt – Veranstalter 808project kündigt den Termin bereits zum Vormerken an. Das Rennen am Alpsee bei Immenstadt-Bühl gilt als ältester Triathlon seiner Art in Deutschland (#kultseit1983). Im Programm stehen die Classic-Mitteldistanz (1,9 km / 84 km / 20 km), die Olympische Distanz und ein Sprint. Berühmt ist der steile Kalvarienberg auf der Radstrecke, den der Veranstalter mit der Schlange von Sa Calobra vergleicht; GPX-Dateien der Strecken stehen auf Komoot bereit. Startplätze wurden zuletzt per Verlosung statt nach dem Windhundprinzip vergeben, 2026 wurden rund 2.900 Teilnehmende erwartet.",
+  "distanceKm": 106,
+  "elevationGainM": 1200,
+  "imageUrl": "https://static.wixstatic.com/media/ff602a_563a6d5539e74edc92ad80008d002e0e~mv2.webp"
+}

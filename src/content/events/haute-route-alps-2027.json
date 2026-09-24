@@ -1,0 +1,22 @@
+{
+  "id": "haute-route-alps-2027",
+  "name": "Haute Route Alps 2027",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-08-17",
+    "end": "2027-08-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Megève (Start)",
+    "lat": 45.8567,
+    "lng": 6.6179
+  },
+  "websiteUrl": "https://hauteroute.fr/",
+  "registrationUrl": "https://in.njuko.com/haute-route-alpes-20271786023798724",
+  "description": "Die Haute Route Alps 2027 findet vom 17. bis 23. August statt und führt in sieben Etappen von Megève nach Chambéry durch die französischen Alpen. Veranstaltet wird das seit 2011 bestehende Etappenrennen für Amateure von France Vélo Événements, einer Partnerschaft von Hopscotch Groupe und dem französischen Radsportverband FFC. Neben dem klassischen 7-Tage-Format gibt es 5- und 3-Tage-Varianten. Die Detailstrecken für 2027 sind noch nicht veröffentlicht; zum Vergleich umfasste die Ausgabe 2026 von Nizza nach Thonon-les-Bains 808 km und 19.255 Höhenmeter. Im Paket enthalten sind Gepäcktransport von Hotel zu Hotel, Verpflegung, Mechaniker- und medizinischer Support, Massagen nach der Etappe sowie Wertung und Finisher-Medaille. Die Anmeldung für 2027 läuft über njuko."
+}

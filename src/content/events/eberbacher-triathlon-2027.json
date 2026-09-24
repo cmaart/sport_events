@@ -1,0 +1,23 @@
+{
+  "id": "eberbacher-triathlon-2027",
+  "name": "Eberbacher Sprint- und Jedermanntriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eberbach",
+    "lat": 49.4668,
+    "lng": 8.9908,
+    "region": "Baden-Württemberg"
+  },
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/arrondissement-de-karlsruhe/eberbacher-sprint-und-jedermanntriathlon/exelkmmj4qqoj5wdceyw",
+  "websiteUrl": "https://www.triathlon-eberbach.de",
+  "description": "Der 32. Eberbacher Jedermann- und Sprint-Triathlon findet am 5. September 2027 im Sportgebiet „In der Au“ am Neckar statt. Geschwommen werden 700 m im Neckar, anschließend folgen 22 km Rad durch den badischen Odenwald und 6 km Laufen. Das Starterfeld ist auf 250 Einzelstarter und 25 Staffeln begrenzt; 2026 war die Veranstaltung bereits seit Ende Juni ausgebucht, 2025 seit Ende Juli. Der Wettkampf ist vom Baden-Württembergischen Triathlonverband genehmigt und steht seit 1994 für „Tradition und familiäre Atmosphäre“. Abmeldungen sind nur mit ärztlichem Attest möglich und werden mit einem Freistart im Folgejahr honoriert.",
+  "distanceKm": 29
+}

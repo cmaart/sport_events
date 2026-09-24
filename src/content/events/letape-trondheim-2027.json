@@ -1,0 +1,23 @@
+{
+  "id": "letape-trondheim-2027",
+  "name": "L'Étape Trondheim by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trondheim",
+    "lat": 63.43,
+    "lng": 10.395
+  },
+  "websiteUrl": "https://trondheim.letapeseries.com/",
+  "description": "L'Étape Trondheim by Tour de France kehrt am Samstag, 12. Juni 2027, zurück – die Anmeldung für die zweite Ausgabe ist seit Juni 2026 geöffnet. Die Bergstrecke misst 130 km mit 1.570 Höhenmetern, die kürzere Variante 75 km mit 1.058 Höhenmetern; beide starten um 11:00 Uhr auf gesperrten Straßen in und um Trondheim. Neu angekündigt ist ein 75 km langer Social Ride ohne Rennwertung, dazu kommt die 500 m lange Mini L'Étape für Kinder. Laut Veranstalter brachte die Premiere 2026 echte Tour-de-France-Atmosphäre nach Norwegen. Das Rennen gehört zur weltweiten L'Étape-Serie des Tour-de-France-Veranstalters A.S.O.",
+  "distanceKm": 130,
+  "elevationGainM": 1570,
+  "imageUrl": "https://trondheim.letapeseries.com/uploads/static/2026/05/05/l-e-tape-trondheim-hero-web-v4_simple.jpg"
+}

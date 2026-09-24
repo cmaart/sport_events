@@ -1,0 +1,26 @@
+{
+  "id": "neuseenman-ferropolis-2027",
+  "name": "neuseenMAN Ferropolis",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-28",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gräfenhainichen – Ferropolis",
+    "lat": 51.7221,
+    "lng": 12.4314,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://neuseenman.maximalpuls.com",
+  "imageUrl": "https://cms.maximalpuls.com/api/uploads/file/sonntag-sneak-peek-by-paulinjnz00002-scaled-1280x1920.webp",
+  "description": "Der neuseenMAN 2027 wird vom 28. bis 30. Mai wieder in Ferropolis bei Gräfenhainichen ausgetragen, der „Stadt aus Eisen“ im Seenland Sachsen-Anhalt. Start und Ziel liegen vor den monumentalen Tagebau-Großgeräten des Industriemuseums, geschwommen wird im klaren Gremminer See. Das Programm reicht über drei Tage vom Sprint über die Olympische Distanz bis zur Halbdistanz (1,9 km / 90 km / 21 km); dazu kommen ein AquaBike-Wettbewerb und Staffeln. Auftakt ist am Freitagabend, 28. Mai 2027. Die Anmeldung für 2027 ist bereits geöffnet, die Startgebühren steigen stufenweise vom Early-Bird- bis zum Spätbucher-Tarif. Veranstalter ist maximalPULS.",
+  "distanceKm": 113
+}

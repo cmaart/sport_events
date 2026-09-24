@@ -1,0 +1,24 @@
+{
+  "id": "rosenstadt-triathlon-eutin-2027",
+  "name": "30. Rosenstadt-Triathlon Eutin",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eutin",
+    "lat": 54.1381,
+    "lng": 10.6219,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://rosenstadt-triathlon.de/",
+  "description": "Der 30. Rosenstadt-Triathlon findet am 20. Juni 2027 in Eutin statt, ehrenamtlich ausgerichtet vom Polizei-SV Eutin; die Anmeldung öffnet Mitte Dezember 2026. Veranstaltungsort ist der Schlossplatz im Herzen der Holsteinischen Schweiz, geschwommen wird im Großen Eutiner See, der Zieleinlauf liegt am Barockschloss. Für Erwachsene gibt es drei Strecken: 0,75 / 20 / 5 km, 0,5 / 20 / 5 km und 0,2 / 10 / 2 km; für Schüler 0,4 / 10 / 2 km, 0,2 / 5 / 1 km und 0,1 / 2,5 / 0,4 km. Laut DTU-Kalender ist das Sprintrennen 2027 Teil der Landesmeisterschaften. Die Veranstaltung bietet Einzel-, Staffel-, Frauen- und Schülerwettkämpfe und versteht sich als Familien- und Inklusionstriathlon.",
+  "distanceKm": 25,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/schleswig-holstein/rosenstadt-triathlon/okzkgflsb05my7cocmku"
+}

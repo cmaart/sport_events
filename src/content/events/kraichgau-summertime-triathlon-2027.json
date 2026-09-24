@@ -1,0 +1,25 @@
+{
+  "id": "kraichgau-summertime-triathlon-2027",
+  "name": "KraichgauEnergie Summertime Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-08",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karlsdorf-Neuthard",
+    "lat": 49.114,
+    "lng": 8.538,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.summertime-triathlon.de",
+  "description": "Der KraichgauEnergie Summertime Triathlon findet 2027 am Sonntag, 8. August in Karlsdorf-Neuthard bei Bruchsal statt; die Anmeldung öffnet am 2. November 2026 um 10:00 Uhr. Geschwommen wird im Sieben-Erlen-See, danach führen schnelle, weitgehend flache Rad- und Laufrunden durch die Landschaft am Rand des Kraichgaus. Zur Wahl stehen die Olympische Distanz (1,5 km in 2 Runden / 40 km in 3 Runden / 10 km in 3 Runden), der Sprint (0,75 / 23 / 6,6 km), die Jedermann-Distanz (0,4 / 13 / 3,3 km) und ein Aquabike über 1,5 km und 40 km. Markenzeichen ist der „Zieleinlauf unter Palmen“ im Finisher-Areal. Einsteiger finden auf der offiziellen Seite Trainingspläne und Vorbereitungstipps.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.summertime-triathlon.de/wp-content/uploads/2021/09/IKT_0278.jpg"
+}

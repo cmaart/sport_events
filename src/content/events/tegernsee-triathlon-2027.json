@@ -1,0 +1,26 @@
+{
+  "id": "tegernsee-triathlon-2027",
+  "name": "SCOTT Tegernsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gmund am Tegernsee",
+    "lat": 47.7468,
+    "lng": 11.744,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://tegernsee-triathlon.de",
+  "description": "Der SCOTT Tegernsee Triathlon findet 2027 am Sonntag, 11. Juli in Gmund am Tegernsee statt. Auf dem Programm stehen die Kurzdistanz bzw. Olympische Distanz über 1,5 km Schwimmen, 40 km Rad und 10 km Lauf sowie ein Sprint über 600 m, 20 km und 5 km; beide Formate sind auch als Staffel startbar. Geschwommen wird im klaren Tegernsee, die Rad- und Laufstrecken führen durch das Tegernseer Tal mit Blick auf die bayerischen Voralpen. Die Anmeldung für 2027 startet laut Veranstalter Mitte Januar. Das Rennen zählt dank Kulisse und Zuschauerstimmung zu den landschaftlich schönsten Triathlons in Oberbayern.",
+  "distanceKm": 52,
+  "elevationGainM": 500,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/baviere/district-du-haut-palatinat/tegernsee-triathlon/digjoa2w1ew2rkhl8qol"
+}

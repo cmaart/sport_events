@@ -1,0 +1,24 @@
+{
+  "id": "moewathlon-moerfelden-walldorf-2027",
+  "name": "18. ksp MöWathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mörfelden-Walldorf",
+    "lat": 49.9772,
+    "lng": 8.5749,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.moewathlon.de/",
+  "description": "Der 18. ksp MöWathlon findet am Sonntag, 11. Juli 2027 statt, ausgerichtet vom Team MöWathlon der SKV Mörfelden. Geschwommen werden 500 m im Badesee Walldorf, danach folgen 20 km Rad auf gesperrten Straßen und 5 km Laufen durch den Wald südlich des Frankfurter Flughafens. Gewertet werden Einzelstarter und Staffeln. Der Verein ist zudem mit einer Mannschaft in der Hessenliga Triathlon vertreten und bietet ganzjährig Training an. Die Veranstaltung lebt von der familiären Atmosphäre und vielen ehrenamtlichen Helfern aus Mörfelden-Walldorf.",
+  "distanceKm": 26,
+  "imageUrl": "https://www.moewathlon.de/wp-content/uploads/2024/07/15.-ksp-MoeWathlon-Morgenstimmung-Badesee.jpeg"
+}

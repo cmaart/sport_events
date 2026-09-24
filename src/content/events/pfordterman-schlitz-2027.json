@@ -1,0 +1,24 @@
+{
+  "id": "pfordterman-schlitz-2027",
+  "name": "3. PfordterMan",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schlitz",
+    "lat": 50.672,
+    "lng": 9.565,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://triforce-fulda.de/pfordterman/",
+  "description": "Der 3. PfordterMan findet am 12. Juni 2027 am Pfordter See bei Schlitz im Vogelsberg statt („Save the Date“), ausgerichtet vom Verein Tri-Force Fulda. Die Premiere am 14. Juni 2025 feierten die Organisatoren als großen Erfolg, 2026 folgte die zweite Auflage. Auf dem Programm stehen eine Sprintdistanz (0,5 / 20 / 5 km), Volks- und Schnuppersprint sowie Swim & Run für Einsteiger und Nachwuchs. Geschwommen wird im Pfordter See, die Rad- und Laufstrecken führen durch die osthessische Landschaft zwischen Vogelsberg und Rhön. Die Distanzen für 2027 veröffentlicht der Verein mit der Ausschreibung.",
+  "distanceKm": 26,
+  "imageUrl": "https://triforce-fulda.de/wp-content/uploads/photo-gallery/PfordterMan2025/IMG_8359.jpeg"
+}

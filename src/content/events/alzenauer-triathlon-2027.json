@@ -1,0 +1,23 @@
+{
+  "id": "alzenauer-triathlon-2027",
+  "name": "31. Alzenauer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alzenau",
+    "lat": 50.0926,
+    "lng": 9.0736,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.triathlon-alzenau.de",
+  "description": "Der 31. Alzenauer Triathlon des LA-Team Alzenau 01 findet am 19. September 2027 statt – der Verein hat seine Termine bereits bis 2030 festgelegt. Geschwommen werden 500 m im Meerhofsee, danach folgen 22 km Rad und 4,6 km Laufen rund um das Prischoß-Stadion im unterfränkischen Alzenau am Rand des Spessarts. Der Volkstriathlon wird als Einzel- und Staffelwettbewerb ausgetragen und von der Wasserwacht Alzenau abgesichert. Die Ausgabe 2026 war ausgebucht, fast 100 Interessierte standen auf der Warteliste. Die Ergebnislisten des Klassikers reichen bis ins Jahr 2001 zurück.",
+  "imageUrl": "https://www.triathlon-alzenau.de/pages/home/images/banner.jpg",
+  "distanceKm": 27
+}

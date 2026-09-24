@@ -1,0 +1,24 @@
+{
+  "id": "munich-triathlon-2027",
+  "name": "Munich Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-25",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "München (Olympiapark)",
+    "lat": 48.1731,
+    "lng": 11.5466,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://munich-triathlon.com/",
+  "description": "Der Munich Triathlon feiert am 25. Juli 2027 seine Premiere im Münchner Olympiapark. Veranstalter ist die Deutsche Triathlon gGmbH, die auch die Rennen in Hamburg, Heilbronn und Tübingen organisiert. Laut DTU-Veranstaltungskalender werden zwei Jedermann-Distanzen angeboten: ein Sprint über 0,5 km Schwimmen, 20 km Rad und 5 km Lauf sowie die Kurzdistanz über 1,5 km, 40 km und 10 km, beide auch als Staffel. Pro Distanz sind rund 1.250 Einzelstartende eingeplant. Die Anmeldung öffnete am 3. September 2026 um 12 Uhr und stieß laut Veranstalter auf einen „Riesen Run“. Die Kulisse der Olympischen Spiele von 1972 macht das Rennen zu einem der spannendsten neuen Stadttriathlons in Deutschland.",
+  "distanceKm": 51.5
+}

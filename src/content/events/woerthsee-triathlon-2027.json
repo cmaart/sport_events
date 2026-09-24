@@ -1,0 +1,26 @@
+{
+  "id": "woerthsee-triathlon-2027",
+  "name": "41. Wörthsee-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-25",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wörthsee",
+    "lat": 48.0698,
+    "lng": 11.1708,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://woerthseetriathlon.de",
+  "description": "Der 41. Wörthsee-Triathlon findet am Sonntag, 25. Juli 2027 statt. Der Klassiker westlich von München wird seit 1985 regelmäßig ausgetragen und zählt zu den traditionsreichsten Triathlons Deutschlands. Auf der Olympischen Distanz geht es über 1,5 km Schwimmen im Wörthsee, 44 km Rad mit Alpenpanorama und neuen Anstiegen sowie 10 km Lauf; die Volksdistanz umfasst 600 m, 22 km und 6 km. Beide Distanzen sind auch als Staffel möglich. Den Anmeldestart geben die Veranstalter über Homepage und Instagram bekannt – die Startplätze sind erfahrungsgemäß schnell vergeben.",
+  "distanceKm": 56,
+  "elevationGainM": 350,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/baviere/district-de-haute-baviere/worthsee-triathlon/yupmuovufn9ajzfim8tq"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nordseeman-wilhelmshaven-2027",
+  "name": "NordseeMan Wilhelmshaven",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-07",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wilhelmshaven",
+    "lat": 53.52,
+    "lng": 8.11,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.nordseeman.de/",
+  "description": "Der NordseeMan Wilhelmshaven wird am 7. und 8. August 2027 ausgetragen, ehrenamtlich organisiert von der Triathlon-/Duathlon-Abteilung des TSR Olympia Wilhelmshaven, die das Rennen seit 1988 veranstaltet. Kernbewerb ist die Mitteldistanz über 1,9 km Schwimmen, 90 km Rad und 21,1 km Lauf; dazu kommen eine Olympische Distanz, eine Volksdistanz und der Junior NordseeMan für Schüler. Geschwommen wird im geschützten Banter See, die flachen Rad- und Laufstrecken sind häufig vom Nordseewind geprägt – das Motto lautet „Gegen Wind und Welle“. Seit 2007 gibt es die eigene NordseeWoman-Wertung, das Starterfeld umfasst bis zu 1.000 Aktive. Die Online-Anmeldung für 2027 ist seit dem 14. September 2026 geöffnet, Anmeldeschluss ist der 24. Juli 2027.",
+  "distanceKm": 113,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/basse-saxe/nordseeman-nordseewoman-tol-tvl-liga/skrjwbnzexonsbg9hgwm"
+}

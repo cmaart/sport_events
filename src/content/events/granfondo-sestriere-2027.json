@@ -1,0 +1,24 @@
+{
+  "id": "granfondo-sestriere-2027",
+  "name": "Gran Fondo Sestriere – Colle delle Finestre",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cesana Torinese",
+    "lat": 44.9506,
+    "lng": 6.7975
+  },
+  "websiteUrl": "https://www.granfondosestriere.it/index.php/en/granfondo-sestriere",
+  "registrationUrl": "https://www.granfondosestriere.it/index.php/en/registration",
+  "description": "Die Granfondo Sestriere – Colle delle Finestre findet am 18. Juli 2027 statt und kehrt damit laut Veranstalter an ihren historischen Termin im Juli zurück. Die Granfondo misst 103,6 km mit 3.170 Höhenmetern, die Mediofondo 79 km mit 2.370 Höhenmetern. Herzstück ist der Colle delle Finestre mit rund 18 km Anstieg, dessen letzte Kilometer über Schotter führen und der mehrfach Schauplatz entscheidender Giro-d'Italia-Etappen war; dazu kommt der Colle del Sestriere. Veranstaltet wird das Rennen vom Consorzio Turismo Sestriere mit Unterstützung mehrerer Gemeinden und regionaler Radsportverbände. Die Anmeldung läuft über die offizielle Website.",
+  "distanceKm": 104,
+  "elevationGainM": 3170,
+  "imageUrl": "https://www.granfondosestriere.it/images/_media/WE8_3726_2025.jpg"
+}

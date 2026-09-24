@@ -1,0 +1,23 @@
+{
+  "id": "ingelheimer-triathlon-der-kleine-karl-2027",
+  "name": "Ingelheimer Triathlon - Der kleine Karl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ingelheim am Rhein",
+    "lat": 49.9741,
+    "lng": 8.0572,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.derkleinekarl.de/",
+  "description": "Der dritte „Kleine Karl“, der Ingelheimer Sprint-Triathlon, findet am 29. August 2027 statt („Save the Date“). Die Veranstaltung wurde 2025 vom Ingelheimer Halbe e.V. und dem TCEC Mainz e.V. gemeinsam ins Leben gerufen. Auf insgesamt 25,5 km stehen 500 m Schwimmen, 20 km Radfahren und 5 km Laufen an – für Triathlon-Neulinge ebenso wie für erfahrene Langdistanzler. Ingelheim am Rhein liegt im rheinhessischen Weinland westlich von Mainz. Der Name spielt auf Karl den Großen an, dessen Kaiserpfalz in Ingelheim stand.",
+  "distanceKm": 25.5,
+  "imageUrl": "https://www.der-ingelheimer-halbe.de/s/cc_images/cache_16606517.png?t=1777991107"
+}

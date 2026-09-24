@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-valencia-2027",
+  "name": "IRONMAN 70.3 Valencia",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-04-18",
+    "end": "2027-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Valencia",
+    "lat": 39.4699,
+    "lng": -0.3763
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-valencia",
+  "description": "Der IRONMAN 70.3 Valencia eröffnet 2027 am 18. April die europäische Mitteldistanz-Saison; laut offizieller Rennseite war die Ausgabe 2027 bereits im September 2026 ausgebucht. Start und Ziel des 1,9 km langen Schwimmens in einer Runde liegen an der Playa de la Malvarrosa im warmen, ruhigen Mittelmeer. Die 90 km lange Radrunde beginnt mit einem kurzen Wendepunktabschnitt am Strand und führt dann Richtung Sierra Calderona und zurück zur Ciudad de las Artes y las Ciencias, wo die zweite Wechselzone liegt – eine Mischung aus schnellen Passagen und hügeligen Abschnitten. Der Halbmarathon startet am Paseo Alameda, führt durch die futuristische Stadt der Künste und Wissenschaften und in zwei Wendepunktrunden durch den Turia-Park, das grüne ehemalige Flussbett. Das Ziel wird zweimal passiert, bevor es auf den roten Teppich geht. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

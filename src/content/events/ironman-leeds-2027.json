@@ -1,0 +1,23 @@
+{
+  "id": "ironman-leeds-2027",
+  "name": "IRONMAN Leeds",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-08-15",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leeds",
+    "lat": 53.8175,
+    "lng": -1.5324
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-leeds",
+  "description": "Der IRONMAN Leeds in Yorkshire findet 2027 am 15. August statt. Geschwommen werden 3,8 km in zwei Runden à 1,9 km im Waterloo Lake im Roundhay Park, dessen Ufer von Zuschauern gesäumt sind. Die 180 km lange Radstrecke beginnt mit einer 6 km langen Anfahrt nach Shadwell und besteht dann aus drei 55-km-Runden vorbei an Harewood House, dem Eccup Reservoir und dem Golden Acre Park sowie durch Dörfer wie Thorner, Arthington, Adel und Alwoodley. Hauptanstieg ist die Black Hill Road, die 2018 Teil der Tour de Yorkshire war; insgesamt kommen laut Veranstalter rund 2.574 Höhenmeter zusammen. Der Marathon startet mit einem kurzen Anstieg aus der Wechselzone und einer Runde um den Upper Lake im Roundhay Park, bevor es auf die Runden des Kurses geht. Das Rennen ist als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226,
+  "elevationGainM": 2574
+}

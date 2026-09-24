@@ -1,0 +1,25 @@
+{
+  "id": "ifa-nonstop-triathlon-bamberg-2027",
+  "name": "33. IfA Nonstop Triathlon Bamberg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bamberg",
+    "lat": 49.8971,
+    "lng": 10.8913,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.ifa-nonstop-bamberg.de",
+  "description": "Der 33. IfA Nonstop Triathlon findet am 6. Juni 2027 in Bamberg statt („Save the Date“). Veranstalter ist der Verein IfA Nonstop Bamberg (Interessengemeinschaft für Ausdauersport), der auch eine Ligamannschaft stellt. Angeboten werden eine Volksdistanz über 0,5 km Schwimmen, 20 km Rad und 5 km Lauf sowie die Olympische Distanz (1,5 / 40 / 10 km), dazu Staffeln. Geschwommen wird in der Regnitz, der Radkurs führt durch das fränkische Umland der UNESCO-Welterbestadt. Die Anmeldung für 2027 wird auf der Vereinsseite bekanntgegeben.",
+  "distanceKm": 52,
+  "imageUrl": "https://static.wixstatic.com/media/f60d42_9fe945c6fafb4859aa4796b854ca5cea~mv2.jpg"
+}

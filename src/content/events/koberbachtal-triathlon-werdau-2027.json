@@ -1,0 +1,25 @@
+{
+  "id": "koberbachtal-triathlon-werdau-2027",
+  "name": "17. GSYSTEMS-Koberbachtal-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-04",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Werdau",
+    "lat": 50.717,
+    "lng": 12.365,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.koberbachtal-triathlon.de/",
+  "description": "Der 17. GSYSTEMS-Koberbachtal-Triathlon findet am 4. und 5. Juni 2027 an der Koberbachtalsperre bei Langenhessen westlich von Zwickau statt, ausgerichtet vom SV Sachsen 90 Werdau. Geschwommen wird im Stausee, die Radstrecke ist hügelig und führt durch das westsächsische Umland, die Laufstrecke entlang des steilen Ufers hat teils Cross-Charakter. Angeboten werden ein Sprint (750 m / 20 km / 5 km) und die Olympische Distanz (1,51 km / 36 km / 10 km). Den Koberbachtal-Triathlon gibt es seit 2010; der Verein bietet im Vorfeld auch einen Schwimmlehrgang an. Die Online-Voranmeldung wird auf der offiziellen Seite verlinkt.",
+  "distanceKm": 48,
+  "imageUrl": "https://www.koberbachtal-triathlon.de/wp-content/uploads/ogimg.jpg"
+}

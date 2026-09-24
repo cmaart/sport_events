@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-elsinore-2027",
+  "name": "IRONMAN 70.3 Helsingør",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DK",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Helsingør",
+    "lat": 56.036,
+    "lng": 12.6136
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-elsinore",
+  "description": "Der IRONMAN 70.3 Helsingør (Elsinore) wird 2027 am 27. Juni ausgetragen, eine Woche später als 2026; die Anmeldung war laut offizieller Rennseite bereits im Herbst 2026 ausverkauft. Die Schwimmstrecke über 1,9 km in einer Runde beginnt im Hafen von Helsingør direkt vor Schloss Kronborg, dem Schauplatz von Shakespeares Hamlet. Danach führt die 90 km Radstrecke entlang der Nordküste Seelands Richtung Hornbæk, biegt ins ländliche Hinterland ab und umfasst dort zwei Runden gegen den Uhrzeigersinn, bevor es erneut an der Küste zurück in die Stadt geht. Der Kurs gilt als schnell mit nur kleineren Anstiegen und vielen Wald- und Küstenabschnitten. Der Halbmarathon über 3,5 Runden umrundet Kronborg und führt in die Innenstadt, wo zehntausende Zuschauer bis ins Ziel anfeuern. Helsingør liegt am Øresund auf halbem Weg zwischen Kopenhagen und der schwedischen Küste; vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

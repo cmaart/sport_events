@@ -16,6 +16,7 @@
     "lng": 15.2314
   },
   "websiteUrl": "https://www.zadargranfondo.com/",
-  "description": "Das Zadar Granfondo Falkensteiner Borik ist ein internationales Granfondo-Rennen an der norddalmatinischen Küste Kroatiens. Start und Ziel liegen im Falkensteiner Resort Borik in Zadar; zur Wahl stehen die klassische Granfondo-Distanz über 112 km und eine kürzere Runde über 56 km, wobei sich die Teilnehmenden erst kurz vor dem Start festlegen müssen. Die Strecke führt über Küstenstraßen mit Blick aufs Meer durch das Hinterland Norddalmatiens, vorbei an der historischen Stadt Nin und über die Brücke zur Insel Vir. Landschaftlich prägen die Adriaküste, Gebirgszüge und weite Grasflächen den Kurs. Das Rennen versteht sich als sportliche wie familienfreundliche Herausforderung für alle Alters- und Leistungsklassen.",
-  "distanceKm": 112
+  "description": "Das 7. Zadar Granfondo Falkensteiner Borik findet am 18. Oktober 2026 an der norddalmatinischen Küste Kroatiens statt; Start und Ziel liegen am Falkensteiner Resort Borik in Zadar, Startschuss ist um 9:00 Uhr. Zur Wahl stehen der GranFondo Classic über 112 km mit rund 1.034 Höhenmetern und die Half Distance über 56 km mit etwa 516 Höhenmetern – das Startgeld ist für beide Strecken gleich und stieg gestaffelt von 40 € bis auf 70 € am Renntag. Beide Routen führen an der Küste über Zaton und Nin und über die Brücke auf die Insel Vir; die lange Runde dreht danach eine große Schleife durch das Zadarer Hinterland über Poličnik, Radovin und Visočane mit kurzen Anstiegen und flachen Passagen für taktisches Fahren. Verpflegungszonen gibt es in der Gemeinde Vir (km 31) und am Matakov brig (km 61). Das Rennen gehört zur Gran Fondo World Tour und wird von einem viertägigen Radcamp vom 15. bis 19. Oktober sowie einem Kids Camp begleitet. Die Sieger:innen erhalten Aufenthalte im Falkensteiner Club Funimation Borik, gewertet wird in Kategorien ab 20 Gemeldeten.",
+  "distanceKm": 112,
+  "elevationGainM": 1034
 }

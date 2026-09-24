@@ -1,0 +1,23 @@
+{
+  "id": "etape-greece-2027",
+  "name": "L'Étape Greece by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GR",
+  "dates": {
+    "start": "2027-04-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sparta",
+    "lat": 37.0747,
+    "lng": 22.4308
+  },
+  "websiteUrl": "https://greece.letapeseries.com/",
+  "description": "L'Étape Greece by Tour de France kehrt am Sonntag, 4. April 2027, nach Sparta auf der Peloponnes zurück; die Anmeldung für die neue Ausgabe ist bereits geöffnet. Die Rennstrecke „The Race“ misst 140 km mit 1.700 Höhenmetern und startet um 8:30 Uhr, die kürzere „The Ride“ führt über 67 km und 1.250 Höhenmeter. Für Einsteiger und Familien gibt es zusätzlich den 15 km langen Fun Ride. Gefahren wird auf gesperrten Straßen durch das Hügelland Lakoniens rund um Sparta, das zwischen Taygetos- und Parnon-Gebirge liegt. Das Rennen gehört zur weltweiten L'Étape-Serie des Tour-de-France-Veranstalters A.S.O. und bietet das typische Tour-Ambiente mit Zielbogen, Zeitmessung und Wertungen. Durch den frühen Termin im April ist es ein beliebter Formtest vor der europäischen Hauptsaison.",
+  "distanceKm": 140,
+  "elevationGainM": 1700,
+  "imageUrl": "https://www.letapeseries.com/uploads/licensee/2025/07/15/n-a-simple-7f45.jpg"
+}

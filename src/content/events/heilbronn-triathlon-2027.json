@@ -1,0 +1,27 @@
+{
+  "id": "heilbronn-triathlon-2027",
+  "name": "VR Bank Triathlon Heilbronn powered by Audi",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heilbronn",
+    "lat": 49.1427,
+    "lng": 9.2109,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-heilbronn.de/",
+  "description": "Der VR Bank Triathlon Heilbronn powered by Audi findet am 13. Juni 2027 statt, veranstaltet von der Deutschen Triathlon gGmbH; die Registrierung für 2027 ist seit dem Renntag 2026 geöffnet. Laut DTU-Kalender stehen eine Mitteldistanz über 1,9 km Schwimmen, 83 km Rad und 21,6 km Lauf, eine Kurzdistanz (1,5 / 45 / 10,5 km) und ein Sprint (0,75 / 22 km) auf dem Programm, jeweils auch als Staffel. Geschwommen wird im Neckar, die Radstrecke führt durch die Weinberge des Heilbronner Unterlands. 2026 meldete der Veranstalter Rekordanmeldezahlen, die Mitteldistanz gewannen Eleisa Haag und Max Blank. Am Renntag gelten umfangreiche Straßensperrungen in der Stadt.",
+  "distanceKm": 106.5,
+  "elevationGainM": 600,
+  "imageUrl": "https://www.triathlon-heilbronn.de/media/pages/home/f1d8c215d6-1718777495/vr-bank-triathlon-heilbronn-powered-by-audi-2024-116-1024x.jpg"
+}

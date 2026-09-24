@@ -16,7 +16,8 @@
     "lng": 10.2182
   },
   "websiteUrl": "https://challenge-sandefjord.com/",
-  "description": "Die Challenge Sandefjord soll 2027 im Juni erneut im norwegischen Vestfold-Fjordland ausgetragen werden. Die Challenge Family führt das Rennen im offiziellen Kalender für Juni 2027, ein exaktes Datum war zum Zeitpunkt der Erfassung jedoch noch nicht veröffentlicht (hier als letztes Juni-Wochenende geschätzt). Über die Mitteldistanz sind 1,9 km Schwimmen im Sandefjordfjord, 90 km Rad durch die hügelige Landschaft von Vestfold und 21,1 km Lauf durch die Innenstadt von Sandefjord vorgesehen. Die skandinavischen Sommernächte ermöglichen Wettkämpfe im langen Abendsonnenlicht. Der frühere Walfängerhafen Sandefjord liegt rund 100 km südlich von Oslo am Oslofjord. Das genaue 2027-Datum und die Distanzen sind vor der Anmeldung auf der offiziellen Seite zu prüfen.",
-  "distanceKm": 113,
-  "imageUrl": "https://challenge-sandefjord.com/wp-content/uploads/sites/70/bfi_thumb/jlh_challenge_sandefjord_sunday-70-r2qyr7usm0jrqmxaitmlvczr17nr6z53tcy109r1c8.jpg"
+  "description": "Die Challenge Sandefjord soll 2027 im Juni erneut im norwegischen Vestfold-Fjordland ausgetragen werden. Die Challenge Family führt das Rennen im offiziellen Kalender für Juni 2027, ein exaktes Datum war zum Zeitpunkt der Erfassung jedoch noch nicht veröffentlicht (hier als letztes Juni-Wochenende geschätzt). Über die Mitteldistanz sind 1,9 km Schwimmen im Sandefjordfjord, 85 km Rad (rund 1.000 Höhenmeter) durch die hügelige Landschaft von Vestfold und 21,1 km Lauf durch die Innenstadt von Sandefjord vorgesehen. Die skandinavischen Sommernächte ermöglichen Wettkämpfe im langen Abendsonnenlicht. Der frühere Walfängerhafen Sandefjord liegt rund 100 km südlich von Oslo am Oslofjord. Das genaue 2027-Datum und die Distanzen sind vor der Anmeldung auf der offiziellen Seite zu prüfen.",
+  "distanceKm": 108,
+  "imageUrl": "https://challenge-sandefjord.com/wp-content/uploads/sites/70/bfi_thumb/jlh_challenge_sandefjord_sunday-70-r2qyr7usm0jrqmxaitmlvczr17nr6z53tcy109r1c8.jpg",
+  "elevationGainM": 1011
 }

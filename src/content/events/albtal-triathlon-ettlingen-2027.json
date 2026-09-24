@@ -1,0 +1,23 @@
+{
+  "id": "albtal-triathlon-ettlingen-2027",
+  "name": "5. SWE Albtal-Triathlon Ettlingen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ettlingen",
+    "lat": 48.9411,
+    "lng": 8.4058,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.swe-albtal-triathlon.de",
+  "description": "Der 5. SWE Albtal-Triathlon des SSV Ettlingen 1847 findet am Sonntag, 12. September 2027 statt; den Anmeldestart gibt der Verein rechtzeitig bekannt. Geschwommen wird im Buchtzigsee südlich von Karlsruhe, danach führt die Radstrecke über rund 40 km in den Naturpark Schwarzwald hinein, zum Abschluss stehen rund 10 km Laufen an. Neben Einzelstarts über die Olympische Distanz gibt es Staffelwertungen, zuletzt auch für Schüler- und Lehrer-Teams. Das Teilnehmerfeld ist auf 350 Plätze limitiert und war 2026 ausverkauft. Der Wettkampf gehörte zuletzt zur Baden Tri Cup Serie, für Kinder von U8 bis U14 bietet die Leichtathletik-Abteilung einen eigenen Parcours an.",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/12/cb/swe-albtal-triathlon-37-1680700526.png",
+  "distanceKm": 51
+}

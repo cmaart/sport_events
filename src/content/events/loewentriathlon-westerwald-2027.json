@@ -1,0 +1,26 @@
+{
+  "id": "loewentriathlon-westerwald-2027",
+  "name": "Löwentriathlon Westerwald",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freilingen",
+    "lat": 50.59,
+    "lng": 7.89,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.loewentriathlon.de/",
+  "description": "Der Löwentriathlon 2027 findet am 29. und 30. Mai am Wiesensee bzw. im Campingparadies Freilingen im Westerwald statt, veranstaltet von den United Teams Rhein-Neckar. Am Samstag, 29. Mai, wird der Sprint über 0,5 km Schwimmen, 20 km Rad und 5 km Lauf ausgetragen, am Sonntag folgen Olympische Distanz (1,5 / 40 / 10 km) und Mitteldistanz (2 / 80 / 20 km). Die Radstrecken führen durch die hügelige Mittelgebirgslandschaft des Westerwalds. Die Ausschreibung für 2027 öffnet am 1. Oktober 2026; die Ausgabe 2026 war ausgebucht. Laut DTU-Kalender sind pro Wettbewerb rund 200 Startende eingeplant.",
+  "distanceKm": 102,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-cologne/lowentriathlon/man1pc2p78tqemzvuink"
+}

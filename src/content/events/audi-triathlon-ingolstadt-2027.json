@@ -1,0 +1,27 @@
+{
+  "id": "audi-triathlon-ingolstadt-2027",
+  "name": "Audi Triathlon Ingolstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ingolstadt",
+    "lat": 48.7665,
+    "lng": 11.4258,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon-ingolstadt.de",
+  "description": "Der Audi Triathlon Ingolstadt findet 2027 am Sonntag, 6. Juni statt – eine Woche früher als 2026. Das Triathlonfest an der Donau bietet drei Distanzen: die Mitteldistanz über 1,9 km Schwimmen, 81,2 km Rad und 20,5 km Lauf, die Olympische Distanz (1,5 km / 42,6 km / 10,5 km) und einen Sprint über 750 m, 19 km und 5 km. Geschwommen wird im Baggersee, Rad- und Laufstrecken führen durch das Ingolstädter Umland. Die Anmeldung für 2027 öffnet am 1. Oktober 2026; erfahrungsgemäß sind die Startplätze schnell vergeben, die Olympische Distanz meist als erste. Rund um das Rennen bietet der Veranstalter Streckenchecks, Workshops, einen Shuttleservice und den Kinderlauf „Goals for Kids Run“ an.",
+  "distanceKm": 103,
+  "elevationGainM": 600,
+  "imageUrl": "https://triathlonbayern.de/wp-content/uploads/ATI_race24_tops_07-scaled.jpg"
+}

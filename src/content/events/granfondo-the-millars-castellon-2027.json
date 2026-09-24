@@ -1,0 +1,24 @@
+{
+  "id": "granfondo-the-millars-castellon-2027",
+  "name": "The Millars Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-03-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Castellón de la Plana",
+    "lat": 39.9864,
+    "lng": -0.0513
+  },
+  "websiteUrl": "https://www.millarsgranfondo.com/en/",
+  "registrationUrl": "https://www.rockthesport.com/en/event/iv-the-millars-uci-gran-fondo-world-series-castellon",
+  "description": "The Millars Gran Fondo startet am 14. März 2027 in Castellón de la Plana an der Costa del Azahar und ist damit einer der frühesten europäischen Qualifier der UCI Gran Fondo World Series für die WM 2027 in Frankreich. Die Strecke misst 157 km mit rund 2.200 Höhenmetern und führt vom Mittelmeer entlang des Riu Millars ins Hinterland der Provinz Castellón bis in den Naturpark Sierra de Espadán mit seinen Korkeichenwäldern. Wer in seiner Altersklasse unter die besten 25 Prozent fährt, qualifiziert sich für die UCI Gran Fondo World Championships. Im Startgeld enthalten ist ein Gobik-Trikot, die Schnellsten jeder Klasse erhalten UCI-Medaillen. Die Anmeldung läuft über Rockthesport; das milde Frühjahrsklima der Valencianischen Gemeinschaft macht das Rennen zum beliebten Saisonauftakt für Fahrer aus Mitteleuropa.",
+  "distanceKm": 157,
+  "elevationGainM": 2200,
+  "imageUrl": "https://www.millarsgranfondo.com/wp-content/uploads/2025/01/53581190095_a92d307a23_k.jpg"
+}

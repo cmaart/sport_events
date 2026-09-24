@@ -16,7 +16,8 @@
     "lng": 13.594
   },
   "websiteUrl": "https://www.istria300.com/",
-  "description": "Istria300 in Poreč (Istrien, Kroatien): 300 km, 209 km oder 135 km auf komplett gesperrten Straßen durch die istrische Halbinsel. 6. Auflage; größte Radveranstaltung Kroatiens mit über 1.500 Teilnehmern. Start und Ziel in Poreč an der kroatischen Adriaküste.",
-  "distanceKm": 300,
-  "imageUrl": "https://www.istria300.com/wp-content/uploads/2026/01/Istria300_2026_Courses_190120262.jpg"
+  "description": "Istria300 in Poreč an der kroatischen Adriaküste geht am 3. Oktober 2026 in seine 6. Auflage und ist die größte Radsportveranstaltung für Hobbyfahrer in Kroatien. Alle Teilnehmenden starten gemeinsam auf komplett für den Autoverkehr gesperrten Straßen und wählen ihre Distanz erst unterwegs: Die Königsroute Istria300 misst 302 km mit 5.300 Höhenmetern, an zwei Abzweigungen kann man auf Istria209 (209 km, 3.300 Hm) oder Istria135 (134,5 km, 1.800 Hm) verkürzen. Die Runden führen quer durch die istrische Halbinsel, unter anderem durch das mittelalterliche Hügelstädtchen Labin über Rabac. 2025 gingen 4.213 Radsportler:innen an den Start, davon 2.285 aus Österreich – die größte Nation im Feld. Wegen Änderungen im internationalen Rennkalender wurde der Termin 2026 auf den 3. Oktober verlegt; die Ausgabe ist ausverkauft, es gibt nur noch eine Warteliste. Jede:r Fahrer:in wird 2026 per Tracking-App live verfolgbar sein, gewertet werden die Top 3 (m/w) je Distanz.",
+  "distanceKm": 302,
+  "imageUrl": "https://www.istria300.com/wp-content/uploads/2022/10/2.jpg",
+  "elevationGainM": 5300
 }

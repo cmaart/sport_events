@@ -1,0 +1,24 @@
+{
+  "id": "moehnesee-triathlon-2027",
+  "name": "Möhnesee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Möhnesee",
+    "lat": 51.4854,
+    "lng": 8.2088,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://moehnesee-triathlon.de/",
+  "description": "Der Möhnesee Triathlon im Sauerland findet am Samstag, 17. Juli 2027 statt – und ist bereits komplett ausgebucht: Seit dem 13. August 2026 sind alle Startplätze vergeben, zuvor war schon die Olympische Distanz voll. Freiwerdende Plätze gibt der Veranstalter zu festgelegten Zeitpunkten erneut zur Buchung frei. Angeboten werden der Volkstriathlon über 0,5 km, 20 km und 5 km, die Olympische Distanz (1,5 / 40 / 10 km), der Grand Prix über 2,0 km Schwimmen, 70 km Rad und 15 km Lauf sowie ein Staffelwettbewerb. Geschwommen wird im Möhnesee unterhalb der Staumauer, das Rennen ist im NRW-Verbandskalender gelistet. Der Veranstalter weist ausdrücklich darauf hin, dass Handys und Actionkameras gemäß DTU-Sportordnung im Wettkampf verboten sind.",
+  "distanceKm": 56,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/26/87/dd/moehnesee-triathlon-18-1756879339.webp"
+}

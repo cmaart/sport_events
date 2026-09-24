@@ -1,0 +1,24 @@
+{
+  "id": "lipperlandtriathlon-lage-2027",
+  "name": "Lipperlandtriathlon Lage",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Lage",
+    "lat": 51.9994,
+    "lng": 8.7931,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://tglage.de/triathlon.html",
+  "description": "Die 42. Auflage des Lipperlandtriathlons in Lage findet laut TG Lage Tri-Team voraussichtlich am 20. Juni 2027 statt. Der Volkstriathlon im ostwestfälischen Lipperland nahe Detmold bietet Sprint- und Volksformat sowie Staffeln, Firmenstaffeln und Kinderrennen. Der Verein wirbt mit der Mischung aus Spitzenleistungen, Nachwuchsförderung und Anfängerbegeisterung – die Tri-Team-Youngsters sind fester Bestandteil der Veranstaltung. Geschwommen wird im Freibad, Rad und Lauf führen durch das Vorland des Teutoburger Waldes. Da der Termin noch als „voraussichtlich“ angekündigt ist, gilt das Datum als vorläufig.",
+  "distanceKm": 26,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-detmold/lipperlandtriathlon/x5yxau04i4bsq6jk4fy9"
+}

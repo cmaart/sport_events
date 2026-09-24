@@ -1,0 +1,22 @@
+{
+  "id": "birkebeinerrittet-lillehammer-2027",
+  "name": "Birkebeinerrittet",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rena/Lillehammer",
+    "lat": 61.082,
+    "lng": 11.3795
+  },
+  "websiteUrl": "https://birken.no/en/cycling/birkebeinerrittet-84-km",
+  "description": "Das Birkebeinerrittet findet am Samstag, 28. August 2027, statt und gehört mit teils über 16.000 Startern zu den größten Mountainbike-Rennen der Welt. Die 84 km lange Strecke führt von Rena im Østerdalen über Wald- und Fjellwege nach Lillehammer und bringt rund 1.200 bis 1.300 Höhenmeter mit sich, inklusive eines Schiebestücks bei Djuposet. Traditionell muss jeder Teilnehmer einen mindestens 2 kg schweren Rucksack mit Pflichtausrüstung (Jacke, Hose, Handschuhe, Mütze, Verpflegung, Werkzeug) tragen – in Erinnerung an die Birkebeiner, die 1206 den Königssohn Håkon über die Berge brachten. Startberechtigt sind alle, die bis zum 31.12.2027 mindestens 17 Jahre alt sind. Die Startwellen werden dynamisch anhand früherer Ergebnisse bei Birken-Rennen und Qualifikationsrennen eingeteilt; das Rennen ist Teil der Birkebeiner-Triple.",
+  "distanceKm": 84,
+  "elevationGainM": 1300
+}

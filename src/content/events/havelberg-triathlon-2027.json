@@ -1,0 +1,23 @@
+{
+  "id": "havelberg-triathlon-2027",
+  "name": "Havelberg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Havelberg",
+    "lat": 52.8286,
+    "lng": 12.0707,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.havelbergtriathlon.de",
+  "description": "Der Havelberg Triathlon findet am Samstag, 5. Juni 2027 statt; die Online-Anmeldung startet am 1. Dezember 2026. Das Event an der Havelberger Altstadtinsel im Norden Sachsen-Anhalts bietet zwei Formate mit eigenen Namen: den „HavelHammer“ über die Olympische Distanz und den „Hafentriathlon“ über die Sprintdistanz, jeweils für Einzel- und Staffelstarter. Geschwommen wird in der Havel, Wechselzone, Start und Ziel liegen nah beieinander. Teilnehmende loben die familiäre Atmosphäre, kurze Wege und den Parkplatz direkt am Wechselgarten.",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/saxe-anhalt/havelberg-triathlon/l7zike4prxbgjtgnhkdh"
+}

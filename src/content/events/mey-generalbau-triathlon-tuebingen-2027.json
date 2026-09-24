@@ -1,0 +1,26 @@
+{
+  "id": "mey-generalbau-triathlon-tuebingen-2027",
+  "name": "Mey Generalbau Triathlon Tübingen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-18",
+    "end": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tübingen",
+    "lat": 48.5215,
+    "lng": 9.0576,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.mey-generalbau-triathlon.com",
+  "description": "Der Mey Generalbau Triathlon Tübingen findet am 18. Juli 2027 statt, veranstaltet von der Deutschen Triathlon gGmbH; die Registrierung für 2027 läuft seit dem Renntag 2026. Geschwommen wird im Neckar in der Tübinger Altstadt, die Wasserqualität wird im Vorfeld offiziell geprüft. Laut DTU-Kalender gibt es eine Kurzdistanz über 1,5 km, 43 km und 9,5 km, einen Sprint (0,75 / 22 / 5,4 km) und eine Supersprintdistanz (0,3 / 11 / 3,5 km), dazu Staffeln. 2026 verzeichnete das Rennen Rekordanmeldungen, auf der Kurzdistanz siegten Graf und Mildner. Mit der TauschZone für gebrauchte Sportbekleidung setzt der Veranstalter auf Nachhaltigkeit.",
+  "distanceKm": 54,
+  "elevationGainM": 400,
+  "imageUrl": "https://www.mey-generalbau-triathlon.com/media/pages/home/3c27c43db7-1696835757/teaserhome-athleten-1024x.jpg"
+}

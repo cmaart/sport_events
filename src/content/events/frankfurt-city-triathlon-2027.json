@@ -1,0 +1,27 @@
+{
+  "id": "frankfurt-city-triathlon-2027",
+  "name": "Frankfurt City Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-01",
+    "end": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Frankfurt am Main",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://frankfurt-city-triathlon.de",
+  "description": "Der Frankfurt City Triathlon findet 2027 am Sonntag, 1. August am Langener Waldsee statt; die Anmeldung öffnet am 2. November 2026 um 10:00 Uhr. Fünf Formate stehen zur Wahl: die Mitteldistanz über 2 km Schwimmen, 80 km Rad und 20 km Laufen, die Olympische Distanz (1,5 / 45 / 10 km), die Sprintdistanz (0,75 / 28 / 5 km), die Jedermann-Distanz (0,4 / 12 / 5 km) und ein Aquabike über 2 km und 80 km. Geschwommen wird im Langener Waldsee südlich von Frankfurt – dem See, in dem auch der IRONMAN Frankfurt startet. Bei der Leserwahl „Rennen des Jahres 2025“ belegte der Frankfurt City Triathlon sowohl über Sprint/Kurzdistanz als auch über die Mitteldistanz Platz 3. Die Ausgabe 2026 war ausgebucht.",
+  "distanceKm": 102,
+  "elevationGainM": 500,
+  "imageUrl": "https://www.frankfurt-city-triathlon.de/wp-content/uploads/2022/10/IKW_9668-scaled.jpg"
+}

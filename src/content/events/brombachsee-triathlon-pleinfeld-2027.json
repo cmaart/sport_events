@@ -1,0 +1,25 @@
+{
+  "id": "brombachsee-triathlon-pleinfeld-2027",
+  "name": "Brombachsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-18",
+    "end": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pleinfeld",
+    "lat": 49.1,
+    "lng": 10.9667,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://brombachseetriathlon.com",
+  "description": "Der 3. Brombachseetriathlon findet am 18. und 19. September 2027 im Seezentrum Allmannsdorf am Großen Brombachsee statt – erstmals als zweitägige Veranstaltung und rund drei Wochen später im Jahr als 2026. Die Anmeldung öffnet am 11. November 2026 um 11:11 Uhr. Kern ist die Mitteldistanz über 1,9 km Schwimmen, 90 km Rad und 21 km Lauf: eine Schwimmrunde im See, drei hügelige Radrunden durch das Fränkische Seenland mit rund 375 Höhenmetern pro Runde und eine Begegnungs-Laufstrecke am Ufer. Bei der zweiten Auflage Ende August 2026 waren mit mehr als 1.100 Meldungen alle Startplätze Wochen vor dem Termin vergeben. Ausrichter ist der OAI e.V.",
+  "distanceKm": 113,
+  "elevationGainM": 1125,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/80/8f/34/brombachsee-triathlon-87-1730878076.webp"
+}

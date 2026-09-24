@@ -1,0 +1,24 @@
+{
+  "id": "gravelman-quick-and-dirty-offenbach-2027",
+  "name": "3. GravelMan - Quick & Dirty",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Offenbach am Main",
+    "lat": 50.1058,
+    "lng": 8.7647,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.gravelman.de/",
+  "description": "Der 3. GravelMan – Quick & Dirty des Ersten Offenbacher Schwimmclubs 1896 ist für den 5. September 2027 angekündigt; die Anmeldung öffnet am 27. November 2026 mit den „Black Gravel Days“. Der Cross-Triathlon kombiniert Schwimmen im traditionsreichen Becken der Rosenhöhe mit einer komplett flachen, aber technischen Gravelbike-Strecke mit Singletrails und Hindernissen sowie einem Lauf mit Tempo- und Technikabschnitten. Das Quick-Format ist ein Supersprint (0,25 / 10 / 2,5 km), das Dirty-Format eine Sprintdistanz (0,5 / 20 / 5 km). Der Verein hat die DTU-Genehmigung beantragt und sich beim Hessischen Triathlonverband erneut um die Hessenmeisterschaft im Cross-Triathlon 2027 beworben. Für Kinder gibt es die GravelKidz-Rennen.",
+  "distanceKm": 26,
+  "imageUrl": "https://www.gravelman.de/wp-content/uploads/go-x/u/8efccfcd-b450-4729-a933-d98c57e5e025/l105,t70,w1791,h1193/image-1366x910.jpg"
+}

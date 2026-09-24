@@ -1,0 +1,24 @@
+{
+  "id": "vatternrundan-motala-2027",
+  "name": "Vätternrundan",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2027-06-18",
+    "end": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Motala",
+    "lat": 58.5356,
+    "lng": 15.0367
+  },
+  "websiteUrl": "https://www.vatternrundan.se/en",
+  "description": "Die klassische Vätternrundan über 315 km startet 2027 in der Nacht vom 18. auf den 19. Juni in Motala; die Anmeldung ist bereits geöffnet. Die Runde führt einmal komplett um den Vättern, Schwedens zweitgrößten See, über Jönköping, Hjo und Askersund zurück nach Motala. Gestartet wird in Wellen ab dem Freitagabend, sodass viele Teilnehmer durch die helle skandinavische Mittsommernacht fahren. Mit über 20.000 Radfahrern aus mehr als 30 Ländern ist sie eine der größten Freizeitradveranstaltungen der Welt; im Vordergrund steht das Ankommen, nicht die Platzierung. Am Wochenende davor (11.–13. Juni 2027) finden MTB-Vättern, Halvvättern (150 km), Tjejvättern und Vätternrundan 100 km sowie die Minivättern für Kinder statt.",
+  "distanceKm": 315,
+  "elevationGainM": 1800,
+  "imageUrl": "https://cdn.sanity.io/images/pfyexgj4/production-v2/f34d32d80d3526140f6fc559348fec1b8bf8859d-3641x2048.jpg?rect=0,68,3641,1912&w=1200&h=630&auto=format"
+}

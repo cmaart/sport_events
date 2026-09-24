@@ -1,0 +1,20 @@
+{
+  "id": "gfny-lourdes-tourmalet-2027",
+  "name": "GFNY Lourdes Tourmalet",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lourdes",
+    "lat": 43.0956,
+    "lng": -0.0451
+  },
+  "websiteUrl": "https://lourdes.gfny.com/",
+  "description": "Die GFNY Lourdes Tourmalet findet am Sonntag, 13. Juni 2027, statt und ist ein Pflichttermin im europäischen GFNY-Kalender. Start und Ziel liegen am Wallfahrtsort Lourdes. Die lange, gewertete Strecke führt nach rund 60 km welliger Vorberge zum Col d'Aspin (12 km, 800 Hm, bis 10 %, Gipfel 1.493 m) und anschließend über den Col du Tourmalet von Sainte-Marie-de-Campan aus – 17,1 km mit 1.267 Höhenmetern und durchschnittlich 7,4 % auf 2.115 m. Danach folgen 34 km Abfahrt und 13 km leicht fallendes Terrain zurück nach Lourdes. Die mittlere Strecke ohne Klassement lässt den Aspin aus und trifft am Tourmalet wieder auf die lange Route. Nur Finisher der langen Distanz kommen in die Altersklassenwertung; im Startgeld sind GFNY-Trikot, Zeitnahme und Finisher-Medaille enthalten."
+}

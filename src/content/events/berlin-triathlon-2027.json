@@ -1,0 +1,27 @@
+{
+  "id": "berlin-triathlon-2027",
+  "name": "Berlin Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Berlin",
+    "lat": 52.52,
+    "lng": 13.405,
+    "region": "Berlin"
+  },
+  "websiteUrl": "https://berlin-triathlon.de",
+  "description": "Der BerlinTriathlon 2027 findet am 5. und 6. Juni statt und bietet wieder Mittel-, Olympische, Sprint- und Fitnessdistanz an zwei Tagen. Am Samstag stehen Sprint und Fitness auf dem Programm, am Sonntag die Olympische Distanz und die Mitteldistanz über 1,9 km Schwimmen, 88 km Rad und 19 km Lauf. Neu ist 2027 das Berliner Spreeschwimmen: Am Samstag, 5. Juni, startet um 14 Uhr ein 1-km-Schwimmevent vor dem ersten Triathlon. Geschwommen wird in Berliner Gewässern, Rad- und Laufkurse führen durch die Hauptstadt. Schirmherren sind Robert Schaddach und Innensenatorin Iris Spranger.",
+  "distanceKm": 109,
+  "elevationGainM": 300,
+  "imageUrl": "https://www.tri2b.com/wp-content/uploads/2026/01/BerlinTriathlon_swim-1024x768.jpg"
+}

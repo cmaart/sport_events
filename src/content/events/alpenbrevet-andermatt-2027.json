@@ -1,0 +1,23 @@
+{
+  "id": "alpenbrevet-andermatt-2027",
+  "name": "Swiss Cycling Alpenbrevet",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Andermatt",
+    "lat": 46.6369,
+    "lng": 8.5952
+  },
+  "websiteUrl": "https://alpenbrevet.ch/en/",
+  "description": "Das Swiss Cycling Alpenbrevet findet am Samstag, 4. September 2027, wieder mit Basis in Andermatt statt; die Anmeldung öffnet im Herbst 2026. Angeboten werden vier Touren nach Anzahl der Pässe: Bronzetour (2 Pässe), Silbertour (3), Goldtour (4) und die legendäre Platintour mit fünf Pässen über 267 km und 6.800 Höhenmeter. Auf dem Programm stehen Schweizer Alpenklassiker wie Gotthard, Furka, Grimsel und Susten. Der Veranstalter stellt bewusst das persönliche Ziel über die Uhr – es geht um das Erlebnis, nicht um Platzierungen. Mit rund 3.000 Teilnehmenden ist das Alpenbrevet die größte Schweizer Radsport-Breitensportveranstaltung. Als Satellit gibt es zudem das nächtliche Tremola by Night am Gotthard.",
+  "distanceKm": 267,
+  "elevationGainM": 6800,
+  "imageUrl": "https://alpenbrevet.ch/wp-content/uploads/Platintour-Alpenbrevet-Radmarathon.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "duesseldorf-familientriathlon-2027",
+  "name": "Stadtwerke Düsseldorf Familientriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Düsseldorf",
+    "lat": 51.2328,
+    "lng": 6.7346,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://swd-familientriathlon.de",
+  "description": "Der Stadtwerke Düsseldorf Familientriathlon findet 2027 am Samstag, 10. Juli am Strandbad Lörick statt, organisiert von den Freien Schwimmern Düsseldorf in Kooperation mit dem Triathlon Team Düsseldorf. Die Veranstaltung für alle Generationen umfasst einen Familientriathlon, Kinder- und Jugendtriathlons von den Schülern D bis zu den Junioren sowie einen Aquathlon. Geschwommen wird im Rhein bzw. am Strandbad, Start ist am Niederkasseler Deich. Startlisten und finaler Zeitplan mit Gruppeneinteilung werden jeweils kurz vor dem Wettkampf veröffentlicht. Die familiäre Atmosphäre macht das Rennen zu einem beliebten Einstieg in den Triathlonsport im Rheinland.",
+  "distanceKm": 30,
+  "imageUrl": "http://swd-familientriathlon.de/wp-content/uploads/2022/01/SWD-FT_2019_01.jpg"
+}

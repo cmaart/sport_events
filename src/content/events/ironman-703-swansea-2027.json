@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-swansea-2027",
+  "name": "IRONMAN 70.3 Swansea",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Swansea",
+    "lat": 51.6214,
+    "lng": -3.9436
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-swansea",
+  "description": "Der IRONMAN 70.3 Swansea in Südwales findet 2027 am 11. Juli und damit wieder am zweiten Juli-Wochenende statt. Geschwommen werden 1,9 km in einer Runde im Prince of Wales Dock mitten in der Stadt. Die 90 km Radstrecke über anderthalb Runden führt durch Mumbles, auf Straßen entlang der Klippen der Gower-Halbinsel, hinaus ins ländliche Umland von Swansea und entlang der Swansea Bay zurück in die Stadt. Der Halbmarathon besteht aus zwei Runden vom Stadtzentrum vorbei an der goldfarbenen Swansea Arena Richtung Mumbles und zurück zum Ziel an der Marina. Die Kombination aus Küstenlandschaft, Hafenschwimmen und Stadtlauf macht das Rennen zu einem der abwechslungsreichsten 70.3-Kurse in Großbritannien. Die Ausgabe 2027 ist als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

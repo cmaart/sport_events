@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-tallinn-2027",
+  "name": "IRONMAN 70.3 Tallinn",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "EE",
+  "dates": {
+    "start": "2027-08-08",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tallinn",
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-tallinn",
+  "description": "Der IRONMAN 70.3 Tallinn findet 2027 am Sonntag, 8. August, statt – einen Tag nach dem IRONMAN Tallinn über die Langdistanz am selben Wochenende. Die Schwimmstrecke über 1,9 km in einer Runde liegt im Raku-See mit klarem Wasser und sandigem Grund (durchschnittlich 6,4 m, maximal 18,7 m tief), einem stabileren und berechenbareren Schwimmrevier als früher. Die 90 km Radstrecke führt aus der Stadt in die Dörfer im Süden, über das Gebiet Tutermaa zurück Richtung Tallinn und Unibet Arena und dann erneut über Vääna und Tutermaa ins Umland, bevor die zweite Wechselzone vor der Unibet Arena erreicht wird. Der Halbmarathon über zwei Runden gilt laut Veranstalter als einer der schnellsten der Welt und bietet Ausblicke auf die Tallinner Bucht. Auf der Radstrecke gibt es vier, auf der Laufstrecke acht Verpflegungsstellen. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

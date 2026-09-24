@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-luxembourg-2027",
+  "name": "IRONMAN 70.3 Luxembourg",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "LU",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Remich",
+    "lat": 49.5451,
+    "lng": 6.3658
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-luxembourg",
+  "description": "Der IRONMAN 70.3 Luxembourg findet 2027 am 11. Juli in Remich an der Luxemburger Mosel statt. Die 1,9 km lange Schwimmstrecke in einer Runde ist ein Flussschwimmen in der Mosel mit geringer Strömung, das am Luxemburger Ufer startet und die Teilnehmenden bis auf die deutsche Flussseite führt. Die wellige 90-km-Radrunde verläuft vor Postkartenkulisse entlang der Weinberge und durch kleine Winzerorte, vorbei am Schengen-Denkmal, das an das 1985 hier unterzeichnete Schengener Abkommen erinnert. Der flache, schnelle Halbmarathon führt entlang der Moselpromenade durch Remich, wo viele Zuschauer für Stimmung sorgen. Damit verbindet das Rennen drei Länder im Dreiländereck Luxemburg–Deutschland–Frankreich. Die Ausgabe 2027 ist als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gealan-triathlon-hof-2027",
+  "name": "44. GEALAN Triathlon der IfL Hof",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hof an der Saale – Untreusee",
+    "lat": 50.285,
+    "lng": 11.91,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.ifl-hof.de/page-3/gealan-triathlon",
+  "description": "Das nächste XXL-Triathlonwochenende der IfL Hof findet am 10. und 11. Juli 2027 am Untreusee südwestlich von Hof statt. Dazu gehören der 44. GEALAN Triathlon und der 28. Stadtwerke Schüler- und Jugendtriathlon, außerdem ein Grundschulwettbewerb. Auf dem Programm stehen eine Sprint- und eine Volksdistanz jeweils als Einzel und Staffel; die genauen Strecken veröffentlicht der Verein in der Ausschreibung auf ifl-hof.de. Der Untreusee bietet Wiesenflächen für die Wechselzone und asphaltierte Radrouten Richtung Fichtelgebirge. Der Vereinstriathlon der IfL Hof zählt zu den ältesten kontinuierlich ausgetragenen Triathlons Bayerns.",
+  "distanceKm": 28,
+  "imageUrl": "https://www.ifl-hof.de/fileadmin/user_upload/events/gealan-triathlon/bilder/IMG_3075_websize.jpg"
+}

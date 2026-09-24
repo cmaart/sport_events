@@ -1,0 +1,24 @@
+{
+  "id": "muldental-triathlon-grimma-2027",
+  "name": "Eins Energie Muldental-Triathlon Grimma",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grimma",
+    "lat": 51.2377,
+    "lng": 12.7234,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.muldental-triathlon.de/",
+  "imageUrl": "https://muldental-triathlon.de/wp-content/uploads/sites/5/2025/11/Design-ohne-Titel-1.jpg",
+  "description": "Der Eins Energie Muldental-Triathlon in Grimma ist für Sonntag, 29. August 2027 terminiert – rund um den Floßplatz, wo Mulde, historische Altstadt und Stadtwald die Kulisse bilden. Im Programm stehen die Olympische Distanz (1,5 km Schwimmen, 40 km Rad, 10 km Lauf), ein Sprint über 0,5 / 20 / 5 km und ein Supersprint über 0,3 / 10 / 2,5 km, dazu Staffeln und der Veolia KidsCup. 2026 wurde über die Olympische Distanz zugleich ein Rennen der 2. Triathlon-Bundesliga ausgetragen. Der Radkurs führt vollgesperrt durch die Innenstadt, der Laufparcours am Muldeufer entlang. Die Online-Anmeldung für 2027 läuft seit dem 23. August 2026, Nachmeldungen sind am Wettkampfwochenende möglich, solange Plätze frei sind.",
+  "distanceKm": 51.5
+}

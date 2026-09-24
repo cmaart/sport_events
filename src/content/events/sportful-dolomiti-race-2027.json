@@ -1,0 +1,23 @@
+{
+  "id": "sportful-dolomiti-race-2027",
+  "name": "Sportful Dolomiti Race",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feltre",
+    "lat": 46.017,
+    "lng": 11.9
+  },
+  "websiteUrl": "https://www.sportfuldolomitirace.it/en/home/",
+  "description": "Die Sportful Dolomiti Race findet am Sonntag, 20. Juni 2027, wieder in Feltre (Provinz Belluno) statt. Sie gilt als einer der härtesten Granfondos Italiens: Die lange Strecke führt über rund 204 km mit etwa 4.900 Höhenmetern und sechs Pässe durch die Feltriner Dolomiten, darunter Passo Rolle und Passo Brocon. Die Mediofondo über ca. 120 km und 3.200 Höhenmeter bietet eine kürzere, aber ebenfalls anspruchsvolle Alternative. Die Veranstaltung ist eng mit der Bekleidungsmarke Sportful verbunden, die in der Region beheimatet ist. Die Anmeldung erfolgt wie in den Vorjahren über Datasport; ein Countdown auf der offiziellen Website läuft bereits auf den Start 2027.",
+  "distanceKm": 204,
+  "elevationGainM": 4900,
+  "imageUrl": "https://www.sportfuldolomitirace.it/wp-content/uploads/2023/02/images-8542-GAZ1DRONE1-07.jpg"
+}

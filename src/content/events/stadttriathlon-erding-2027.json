@@ -1,0 +1,23 @@
+{
+  "id": "stadttriathlon-erding-2027",
+  "name": "32. Stadttriathlon Erding",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erding",
+    "lat": 48.3063,
+    "lng": 11.9069,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.stadttriathlon-erding.de",
+  "description": "Der 32. Stadttriathlon Erding findet am 13. Juni 2027 statt, wie Trisport Erding nach der Rekordbeteiligung 2026 angekündigt hat; Ausschreibung und Anmeldung folgen. Das Rennen nordöstlich von München bietet Sprint- und Olympische Distanz, dazu Sonderwertungen. Besonderheit ist der Lauf durch die Erdinger Innenstadt, der für eine große Zuschauerkulisse sorgt. Die Veranstaltung ist offiziell genehmigt und setzt auf Nachhaltigkeit. Trisport Erding organisiert außerdem das winterliche 3-Königsschwimmen.",
+  "imageUrl": "https://trisport-erding.de/wp-content/uploads/2024/12/2025_swim-1024x683.jpg"
+}

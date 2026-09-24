@@ -16,6 +16,8 @@
     "lng": 12.3934
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-cesenatico/",
-  "description": "Die Challenge Cesenatico startet 2027 am 16. Mai um 09:00 Uhr im Fischerstädtchen Cesenatico an der Adria. Für 2027 gilt das neue Challenge-100-Format: 2,0 km Schwimmen im Adriatischen Meer, 80 km überwiegend flaches Rad durch die Ebene der Romagna und 18 km Lauf am von Leonardo da Vinci entworfenen Hafenkanal (Porto Canale). Die schnelle, flache Strecke eignet sich bestens für Bestzeiten. Cesenatico an der Riviera Romagnola ist eine Hochburg des italienischen Radsports und untrennbar mit Marco Pantani verbunden. Die Anmeldung läuft über die offizielle Challenge-Family-Seite.",
-  "distanceKm": 100
+  "description": "Die Challenge Cesenatico startet 2027 am 16. Mai um 09:00 Uhr im Fischerstädtchen Cesenatico an der Adria. Für 2027 gilt das neue Challenge-100-Format: 2,0 km Schwimmen im Adriatischen Meer, 80 km Rad durch die Romagna (laut Veranstalter rund 500 Höhenmeter) und 18 km Lauf am von Leonardo da Vinci entworfenen Hafenkanal (Porto Canale). Der flache Laufkurs (nur rund 5 Höhenmeter) eignet sich bestens für schnelle Zeiten. Cesenatico an der Riviera Romagnola ist eine Hochburg des italienischen Radsports und untrennbar mit Marco Pantani verbunden. Die Anmeldung läuft über die offizielle Challenge-Family-Seite.",
+  "distanceKm": 100,
+  "elevationGainM": 501,
+  "imageUrl": "https://challengefamily.com/wp-content/uploads/sites/2/2025/12/porto-canale-leonardesco-3-11.jpg"
 }

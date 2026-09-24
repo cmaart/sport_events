@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-westfriesland-2027",
+  "name": "IRONMAN 70.3 Westfriesland",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hoorn",
+    "lat": 52.6442,
+    "lng": 5.06
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-westfriesland",
+  "description": "Der IRONMAN 70.3 Westfriesland findet 2027 am 20. Juni in Hoorn am Markermeer statt; laut offizieller Rennseite war die Ausgabe 2027 bereits im Herbst 2026 ausgebucht. Die 1,9 km lange Schwimmstrecke in einer Runde liegt im alten Hafen von Hoorn inmitten der historischen Kulisse der früheren VOC-Handelsstadt. Die 90 km lange, flache Radrunde führt aus dem Stadtzentrum hinaus in die nordholländische Polderlandschaft mit typischen Windmühlen und kleinen Dörfern – bei Wind kann sie dennoch fordernd sein. Der Halbmarathon führt durch die historische Innenstadt vorbei an Baudenkmälern und den Hafenkais bis zum Ziel am Stadsstrand nahe dem Zentrum. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

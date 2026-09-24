@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-milano-sanremo-2027",
+  "name": "Gran Fondo Milano-Sanremo",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pieve Emanuele – Sanremo",
+    "lat": 45.3569,
+    "lng": 9.2175
+  },
+  "websiteUrl": "https://milano-sanremo.org/",
+  "description": "Die Milano-Sanremo Amatori findet am Sonntag, 6. Juni 2027, zum 56. Mal statt und gilt mit rund 296 km als längste Amateur-Radveranstaltung der Welt. Die nicht-kompetitive Tour folgt der Route des Frühjahrsklassikers: von den Toren Mailands durch die lombardische und piemontesische Po-Ebene, über den Passo del Turchino an die ligurische Küste und dann entlang des Mittelmeers über die Cipressa und den Poggio bis ins Ziel nach Sanremo. Die Anmeldung öffnet am 20. November 2026. Vorab bietet der Veranstalter ein exklusives „Diamond“-Paket für die ersten 50 Teilnehmer, das einen Startplatz im ersten Startblock garantiert. Seit der Gründung 1970 zieht die Veranstaltung Langstreckenfahrer aus ganz Europa an.",
+  "distanceKm": 296,
+  "elevationGainM": 3500,
+  "imageUrl": "https://milano-sanremo.org/wp-content/uploads/2018/07/gfondo13-0367-grande.jpg"
+}

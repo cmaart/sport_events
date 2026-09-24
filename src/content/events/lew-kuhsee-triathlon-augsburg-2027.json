@@ -1,0 +1,26 @@
+{
+  "id": "lew-kuhsee-triathlon-augsburg-2027",
+  "name": "LEW Kuhsee Triathlon Augsburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-24",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Augsburg",
+    "lat": 48.3667,
+    "lng": 10.9333,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://lew-kuhseetriathlon.de",
+  "imageUrl": "https://www.lew-kuhseetriathlon.de/files/kmsport/layout/Kuhsee-Triathlon_Header_HOME.jpg",
+  "description": "Der LEW Kuhsee Triathlon findet 2027 am 24. und 25. Juli statt – wie immer am letzten Wochenende vor den bayerischen Sommerferien und gemeinsam mit dem Augsburger Nachtlauf powered by LEW. Die Anmeldung startet in der Silvesternacht, exakt um Mitternacht zum 1. Januar 2027. Geschwommen wird im Kuhsee im Augsburger Stadtgebiet, Rad- und Laufstrecke führen rund um den See und durch das Umland. Angeboten werden Sprint und Olympische Distanz für Einzelstarter und Staffeln, dazu Kinderrennen und die Kombiwertung „Night&Day“ aus Nachtlauf und Triathlon. Der Badesee sorgt für viel Zuschauerpublikum entlang der Strecke.",
+  "distanceKm": 52,
+  "elevationGainM": 300
+}

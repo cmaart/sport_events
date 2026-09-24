@@ -7,7 +7,7 @@
   ],
   "country": "CZ",
   "dates": {
-    "start": "2026-10-04",
+    "start": "2026-10-03",
     "confirmed": true
   },
   "location": {
@@ -16,7 +16,7 @@
     "lng": 15.7812
   },
   "websiteUrl": "https://www.letapeczech.cz/en/",
-  "description": "Die Flat Stage der L'Étape Czech Republic by Tour de France ist die Flachetappe der tschechischen L'Étape-Ausgabe und wird in Pardubice in Ostböhmen ausgetragen, rund eine Fahrstunde von Prag entfernt. Auf komplett gesperrten Straßen geht es über rund 110 km bei nur etwa 300 Höhenmetern – eine schnelle, flache Strecke, die auf hohe Durchschnittsgeschwindigkeiten ausgelegt ist. Start und Ziel liegen am náměstí Republiky (Platz der Republik) im Zentrum von Pardubice. Der Massenstart erfolgt gestaffelt in Wellen zu je 184 Fahrerinnen und Fahrern ab 10:30 Uhr, das Teilnehmerfeld ist auf 2.000 begrenzt und es gilt ein Zeitlimit von 23 km/h Schnitt. Als Teil der offiziellen Rennserie L'Étape by Tour de France ergänzt die Flachetappe die anspruchsvollere Bergetappe des Wochenendes.",
+  "description": "Die Flat Stage der L'Étape Czech Republic by Tour de France ist die Flachetappe der tschechischen L'Étape-Ausgabe und wird in Pardubice in Ostböhmen ausgetragen, rund eine Fahrstunde von Prag entfernt. Auf komplett gesperrten Straßen geht es über rund 110 km bei nur etwa 300 Höhenmetern – eine schnelle, flache Strecke, die auf hohe Durchschnittsgeschwindigkeiten ausgelegt ist. Start und Ziel liegen am náměstí Republiky (Platz der Republik) im Zentrum von Pardubice. Der Massenstart erfolgt gestaffelt in Wellen zu je 184 Fahrerinnen und Fahrern ab 10:30 Uhr, das Teilnehmerfeld ist auf 2.000 begrenzt und es gilt ein Zeitlimit von 23 km/h Schnitt. Als Teil der offiziellen Rennserie L'Étape by Tour de France ergänzt die Flachetappe am Samstag, 3. Oktober 2026, die bereits im Juni ausgetragene hügelige Hauptetappe in Mittelböhmen und Prag.",
   "distanceKm": 110,
   "elevationGainM": 300,
   "imageUrl": "https://www.letapeczech.cz/photo-pg-28---.jpg"

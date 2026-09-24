@@ -1,0 +1,22 @@
+{
+  "id": "reiling-triathlon-harsewinkel-2027",
+  "name": "Reiling-Triathlon Harsewinkel",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Harsewinkel",
+    "lat": 51.9622,
+    "lng": 8.2302,
+    "region": "Nordrhein-Westfalen"
+  },
+  "description": "Die 36. Auflage des Reiling-Triathlons Harsewinkel ist für den 6. Juni 2027 angesetzt, wie der ausrichtende Verein Trispeed Marienfeld per „Save the date“ mitteilte. Der Volkstriathlon im Kreis Gütersloh zählt zu den traditionsreichsten in Ostwestfalen und wird über die Sprintdistanz in mehreren Startgruppen ausgetragen. 2026 gingen 570 Aktive an den Start, die schnellsten „Sprinter“ waren Matthias Gravendyk und Aaltje Dargatz. Die Anmeldung für 2027 startet im November/Dezember 2026. Ergebnisse veröffentlicht der Verein unter ergebnisse.trispeed.de.",
+  "imageUrl": "https://trispeed.de/wp-content/uploads/2025/12/cropped-cropped-cropped-Triathlon-Internetbanner-2026-210x100-mm.jpg",
+  "websiteUrl": "https://trispeed.de/"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-del-mugello-2027",
+  "name": "Granfondo del Mugello \"La Via del Latte\"",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Scarperia",
+    "lat": 43.9994,
+    "lng": 11.356
+  },
+  "websiteUrl": "https://granfondodelmugello.it/",
+  "description": "Die Granfondo del Mugello „La Via del Latte“ findet am 20. Juni 2027 wieder am Autodromo del Mugello bei Scarperia in der Toskana statt. Start und Ziel liegen auf der bekannten MotoGP-Rennstrecke im Apennin nördlich von Florenz. Das Programm richtet sich an Straßen-, Gravel-, MTB- und E-Bike-Fahrer: Drei Straßenstrecken mit zwei gezeiteten Abschnitten, angeführt von der Granfondo über 132 km und 2.635 Höhenmeter mit Passo della Futa und Passo della Sambuca, dazu Mediofondo und Kurzstrecke. Ergänzt wird das Angebot durch Gravel-Routen durch das Hinterland des Mugello. Der Veranstalter bewirbt sie ausdrücklich als „Granfondo per tutti“ mit familiärem Ambiente.",
+  "distanceKm": 132,
+  "elevationGainM": 2635
+}

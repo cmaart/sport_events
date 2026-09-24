@@ -1,0 +1,22 @@
+{
+  "id": "ironman-wales-2027",
+  "name": "IRONMAN Wales",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-09-19",
+    "end": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tenby",
+    "lat": 51.675,
+    "lng": -4.7041
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-wales",
+  "description": "Der IRONMAN Wales in Tenby findet 2027 am 19. September statt; laut offizieller Rennseite war die Ausgabe 2027 bereits im Herbst 2026 ausgebucht. Geschwommen werden 3,8 km in zwei Runden vom berühmten North Beach aus, danach folgt der lange Lauf die Zickzack-Rampe hinauf zur Wechselzone – vorbei an dichten Zuschauerreihen. Die 180 km lange Radstrecke besteht aus zwei Runden durch den Pembrokeshire-Coast-Nationalpark mit zahlreichen Burgen und Landmarken und ist mit ihrem welligen Küstenprofil anspruchsvoll. Der Marathon über vier Runden führt durch die mittelalterlichen Stadtmauern und entlang der Strandpromenade von Tenby, wo zehntausende Zuschauer die Teilnehmenden bis ins Ziel tragen. Tenby verwandelt sich am Rennwochenende in eine einzige Triathlon-Bühne. Vergeben werden Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
+}

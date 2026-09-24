@@ -1,0 +1,23 @@
+{
+  "id": "swimrun-rheinsberg-2027",
+  "name": "SwimRun Rheinsberg",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rheinsberg",
+    "lat": 53.0996,
+    "lng": 12.8921,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.swimrun-rheinsberg.de/",
+  "imageUrl": "https://www.swimrun-rheinsberg.de/fileadmin/_processed_/f/9/csm_Schwimmen-Einstieg-Masse_884b42c1bc.jpg",
+  "description": "Der SwimRun Rheinsberg findet am 4. Juli 2027 statt, wie der Veranstalter nach der Ausgabe 2026 angekündigt hat. Das Event in der Seenlandschaft um Rheinsberg nördlich von Berlin zählt zu den größten SwimRun-Veranstaltungen Deutschlands: Laufen und Schwimmen wechseln sich mehrfach ab, meist im Zweierteam und mit Neoprenanzug und Schuhen. Königsdisziplin ist der Half SwimRun über 21,4 km mit 3,5 km Schwimmanteil auf anspruchsvollen Trailpfaden. Dazu kommen der Sprint über 11,3 km (2 km Schwimmen), der SuperSprint über 4,4 km (1 km Schwimmen) für Einsteiger sowie Kids- und Youth-Rennen mit 200-m-Schwimmrunden. Das Event ist Teil verschiedener SwimRun-Cups und -Serien.",
+  "distanceKm": 25
+}

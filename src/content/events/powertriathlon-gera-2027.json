@@ -1,0 +1,25 @@
+{
+  "id": "powertriathlon-gera-2027",
+  "name": "31. Powertriathlon Gera",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gera",
+    "lat": 50.881,
+    "lng": 12.0786,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://powertriathlon.de/home",
+  "description": "Der 31. Powertriathlon in Gera findet am 29. und 30. Mai 2027 statt; weitere Infos kündigt der Veranstalter in Kürze an. Austragungsort ist der Hofwiesenpark mit dem Hofwiesenparksee, in dem geschwommen wird. Das Programm umfasst die Olympische Distanz (1,5 / 40 / 10 km), einen Sprint, Staffeln, Firmenstaffeln und Schülerrennen; 2026 kam erstmals eine Mixed-Relay-Wertung hinzu. Der Powertriathlon ist traditionell ein Saisonstart-Highlight im Thüringer Triathlon-Verband und zieht Profis, ambitionierte Hobbysportler und Nachwuchsathleten nach Ostthüringen.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.powertriathlon.de/fileadmin/_processed_/6/a/csm_250524_153241-98pbC41_991c553494.jpg"
+}

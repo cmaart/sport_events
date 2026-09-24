@@ -3,12 +3,14 @@
   "name": "BayMan",
   "sport": "triathlon",
   "categories": [
-    "Langdistanz"
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz"
   ],
   "country": "FR",
   "dates": {
     "start": "2026-10-10",
-    "end": "2026-10-10",
+    "end": "2026-10-11",
     "confirmed": true
   },
   "location": {
@@ -17,6 +19,6 @@
     "lng": -1.5115
   },
   "websiteUrl": "https://www.bayman.fr/",
-  "description": "Extrem-Triathlon auf Langdistanz mit der Kulisse des Mont-Saint-Michel (Normandie). 3,8 km Schwimmen, 180 km Rad und 42,195 km Laufen; das XXL- und L-Format starten am Samstag, die M-Distanz folgt am Sonntag. Anspruchsvolle, wellige Radstrecke durch die Bucht und das Hinterland der Manche. Von der französischen Föderation FFTRI im offiziellen Kalender geführt.",
+  "description": "Der BayMan ist der internationale Triathlon in der Bucht des Mont-Saint-Michel und findet am 10. und 11. Oktober 2026 statt. Am Samstag starten die XXL-Distanz über 3,8 km Schwimmen, 180 km Rad und 42 km Laufen sowie die L-Distanz über 1,9 / 90 / 21 km, am Sonntag folgt die M-Distanz über 1,5 / 40 / 10 km. Geschwommen wird zu Füßen der Abtei mit Blick auf den Mont, die wellige Radstrecke führt durch die Salzwiesen (prés-salés) der Bucht und das Hinterland zwischen Normandie und Bretagne. Höhepunkt des Laufs ist der Aufstieg auf den Mont-Saint-Michel selbst, das Ziel liegt mit dem Monument als Kulisse. Organisiert wird das Rennen von Arnaud Joly in Partnerschaft mit dem Établissement public du Mont-Saint-Michel; laut Veranstalter kommen rund 2.200 Athletinnen und Athleten aus etwa 15 Nationen und rund 700 Helfer:innen zusammen. Das Wochenende wird von kulturellen Angeboten zu Geschichte, Landschaft und Biodiversität der Bucht begleitet; die Veranstaltung steht im offiziellen FFTRI-Kalender.",
   "distanceKm": 226
 }

@@ -1,0 +1,25 @@
+{
+  "id": "havelman-brandenburg-2027",
+  "name": "HavelMan Brandenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Brandenburg an der Havel",
+    "lat": 52.408,
+    "lng": 12.5318,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.havelman-brandenburg.de/",
+  "description": "Der HavelMan Brandenburg findet 2027 am 12. Juni statt – die zweite Auflage nach der Premiere 2026. Austragungsort ist die international bekannte Regattastrecke am Beetzsee in Brandenburg an der Havel, organisiert vom Havelsport Brandenburg e.V. Angeboten werden die Olympische Distanz (1.500 m / 40 km / 10 km), ein Sprint und eine Einsteigerdistanz, sodass alle Leistungsstufen teilnehmen können. Die Veranstaltung ist DTU-genehmigt, Ergebnisse und Fotos der Premiere sind auf der offiziellen Seite abrufbar. Die flachen Strecken rund um Beetzsee und Havel machen den HavelMan zu einem schnellen Rennen.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.havelman-brandenburg.de/wp-content/uploads/go-x/u/4040ec1d-235a-444e-967b-a7ff48d21e77/l0,t0,w1727,h971/image-1366x768.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "world-triathlon-hamburg-2027",
+  "name": "World Triathlon Championship Finals Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-08",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://hamburg.triathlon.org",
+  "description": "Hamburg richtet vom 8. bis 12. September 2027 die World Triathlon Championship Finals aus – das Saisonfinale der Weltserie mit WM-Entscheidungen für Elite, U23, Junioren und Para-Triathlon sowie der Age-Group-Weltmeisterschaft. Veranstalter ist die Deutsche Triathlon gGmbH, die das Event als „größte Triathlon-Veranstaltung“ in der Hansestadt ankündigt. Für Breitensportler gibt es wie gewohnt Open Races über Sprint (0,5 / 20 / 5 km) und Olympische Distanz (1,5 / 40 / 10 km), dazu Staffeln, den Firmencup und Kids-Triathlons; laut DTU-Kalender werden allein auf der Kurzdistanz rund 3.500 Jedermann-Starter erwartet. Geschwommen wird in der Binnen- und Außenalster, Rad und Lauf führen durch die Innenstadt, das Ziel liegt am Rathausmarkt. Im Gegensatz zu 2026 (Juli) findet das Event 2027 im September statt.",
+  "distanceKm": 51,
+  "elevationGainM": 300,
+  "imageUrl": "https://cms.triathlon.org/assets/170ed1f7-dfc4-4c28-a6af-14fa3b967a80.png?quality=90&width=1200&format=webp"
+}

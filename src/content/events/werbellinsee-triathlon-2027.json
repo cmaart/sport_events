@@ -1,0 +1,25 @@
+{
+  "id": "werbellinsee-triathlon-2027",
+  "name": "31. WerbellinseeTriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schorfheide",
+    "lat": 52.89,
+    "lng": 13.735,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://werbellinseetriathlon.de/",
+  "description": "Die 31. Auflage des WerbellinseeTriathlons findet am 26. Juni 2027 statt, wieder mit Start und Ziel im Seezeit-Resort in der Schorfheide. Das Programm umfasst 2027 Olympische Distanz, Gravel, Sprint und Volksdistanz. Nach dem Schwimmen im glasklaren Werbellinsee führt die hügelige bis anspruchsvolle Radstrecke durch das Biosphärenreservat Schorfheide-Chorin, bevor es am Seeufer auf die Laufstrecke geht. 2026 sorgten kräftige Winde für herausfordernde Bedingungen, die Kampfrichter rieten von Hochprofilfelgen ab. Veranstalter ist das Team des BerlinTriathlon.",
+  "distanceKm": 50,
+  "imageUrl": "https://www.tri2b.com/wp-content/uploads/2026/01/Werbellinsee_Triathlon_swim-1024x461.jpg"
+}

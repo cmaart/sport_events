@@ -1,0 +1,23 @@
+{
+  "id": "letape-marmaris-2027",
+  "name": "L'Étape Marmaris by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "TR",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Marmaris",
+    "lat": 36.8556,
+    "lng": 28.2664
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape Marmaris by Tour de France geht am Sonntag, 6. Juni 2027, in die nächste Runde; die Anmeldung für 2027 ist bereits geöffnet. Die lange Strecke misst 97 km mit 1.889 Höhenmetern und startet um 8:00 Uhr, die kurze Strecke führt über 66 km mit rund 800 Höhenmetern. Gefahren wird auf gesperrten Straßen rund um den Badeort Marmaris an der türkischen Ägäis- und Mittelmeerküste in der Provinz Muğla. Das Rennen gehört zur weltweiten L'Étape-Serie des Tour-de-France-Veranstalters A.S.O. und bietet Tour-Atmosphäre mit Zeitmessung und Wertungen. Der Frühsommertermin verbindet das Rennen gut mit einem Radurlaub an der Küste.",
+  "distanceKm": 97,
+  "elevationGainM": 1889,
+  "imageUrl": "https://www.letapeseries.com/uploads/news/2026/06/07/letapemarmaris-10_simple.jpg"
+}

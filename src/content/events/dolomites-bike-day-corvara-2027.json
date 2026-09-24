@@ -1,0 +1,23 @@
+{
+  "id": "dolomites-bike-day-corvara-2027",
+  "name": "Dolomites Bike Day",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Corvara in Badia",
+    "lat": 46.549,
+    "lng": 11.8784
+  },
+  "websiteUrl": "https://www.dolomitesbikeday.it/",
+  "description": "Der Dolomites Bike Day geht am Samstag, 19. Juni 2027, in seine 10. Ausgabe. Von 9:00 bis 15:00 Uhr sind Passo Campolongo, Passo Falzarego und Passo Valparola für den motorisierten Verkehr gesperrt und die Verbindungen zwischen Alta Badia, Livinallongo und Ampezzo ausschließlich Radfahrern vorbehalten. Die 51 km lange Runde mit rund 1.370 Höhenmetern folgt denselben Straßen wie die Maratona dles Dolomites und bietet Blicke auf Sass de Stria und Lagazuoi. Die Teilnahme ist kostenlos und ohne Anmeldung – einfach am Veranstaltungstag vorbeikommen, es gibt keine Zeitnahme. Im Unterschied zum Sellaronda Bike Day umrundet die Strecke nicht das Sellamassiv, sondern verbindet drei Pässe im Osten von Alta Badia.",
+  "distanceKm": 51,
+  "elevationGainM": 1370,
+  "imageUrl": "https://www.dolomitesbikeday.it/filemanager/files/img-fullscreen/passo-valparola-dolomites-bike-day.jpg"
+}

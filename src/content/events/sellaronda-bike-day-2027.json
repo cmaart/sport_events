@@ -1,0 +1,23 @@
+{
+  "id": "sellaronda-bike-day-2027",
+  "name": "Sellaronda Bike Day",
+  "sport": "cycling",
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Selva di Val Gardena",
+    "lat": 46.5564,
+    "lng": 11.7607
+  },
+  "websiteUrl": "https://www.sellarondabikeday.com/",
+  "description": "Der Sellaronda Bike Day findet 2027 am Samstag, 5. Juni, statt – eine zweite Ausgabe folgt am 11. September 2027. An diesen Tagen sind die vier Dolomitenpässe rund um das Sellamassiv – Passo Sella, Grödner Joch, Passo Pordoi und Passo Campolongo – für mehrere Stunden ausschließlich für Radfahrer reserviert. Die 53 km lange Runde mit rund 1.600 Höhenmetern verbindet Gröden, Alta Badia, Arabba und das Fassatal und kann in beide Richtungen und an jedem Punkt begonnen werden. Die Teilnahme ist kostenlos, es gibt keine Anmeldung, keine Startnummer und keine Zeitnahme. Der „Volksradltag“ feiert 2027 seine 21. Ausgabe und zieht jedes Jahr tausende Rennrad-, E-Bike- und Mountainbike-Fahrer an.",
+  "distanceKm": 53,
+  "elevationGainM": 1600,
+  "imageUrl": "https://live.staticflickr.com/65535/54579727008_dd287eaf0d_h.jpg",
+  "categories": [
+    "RTF"
+  ]
+}

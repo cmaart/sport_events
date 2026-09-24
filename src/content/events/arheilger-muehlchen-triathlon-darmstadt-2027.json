@@ -1,0 +1,24 @@
+{
+  "id": "arheilger-muehlchen-triathlon-darmstadt-2027",
+  "name": "35. Arheilger Mühlchen-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Darmstadt-Arheilgen",
+    "lat": 49.9081,
+    "lng": 8.6489,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.sg-arheilgen.de/de/sportangebot/sportangebote-und-abteilungen/triathlon/muehlchen-triathlon/",
+  "description": "Der 35. Mühlchen-Triathlon der SG Arheilgen findet voraussichtlich am 20. Juni 2027 statt; der Verein nennt das Datum ausdrücklich unter Vorbehalt der Genehmigungen. Zur Jubiläumsausgabe kündigen die Veranstalter „ein paar Besonderheiten“ an. Geschwommen wird im Mühlchen-Bad in Darmstadt-Arheilgen, die Klassik-Distanz umfasst 0,4 km Schwimmen, 17,7 km Rad und 4,3 km Lauf. Dazu kommen Schüler- und Jugendwettkämpfe sowie ein Swim & Bike. Der Mühlchen-Triathlon wird seit 1991 ausgetragen, die Anmeldung öffnet traditionell zu Jahresbeginn.",
+  "distanceKm": 22,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hesse/district-de-darmstadt/arheilger-muhlchen-triathlon/cv190x0fdxfr47n2zrfg"
+}

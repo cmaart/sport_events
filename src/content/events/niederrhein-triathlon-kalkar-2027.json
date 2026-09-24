@@ -1,0 +1,27 @@
+{
+  "id": "niederrhein-triathlon-kalkar-2027",
+  "name": "Herbrand Niederrhein Triathlon N3T",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kalkar",
+    "lat": 51.7408,
+    "lng": 6.3071,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.niederrhein-triathlon.de",
+  "description": "Die 9. Ausgabe des Herbrand Niederrhein Triathlon N3T findet am 27. Juni 2027 am Wisseler See in Kalkar statt, veranstaltet vom TriFUN Kleve e.V. Nach dem Umzug an die neue Location 2026 bleibt der Wisseler See Schauplatz des Rennens. Herzstück ist die eigene N3T-Distanz über 1,5 km Schwimmen, 76 km Rad und 10 km Lauf, dazu kommen Olympische Distanz, Sprint- und Schnupperdistanz. Die Radstrecke führt durch die flache Landschaft des Niederrheins, auf der Strecke gibt es Verpflegungsstellen. 2026 war die Veranstaltung nahezu ausverkauft.",
+  "distanceKm": 88,
+  "elevationGainM": 200,
+  "imageUrl": "https://www.niederrhein-triathlon.de/wp_app/wp-content/uploads/2022/06/N3T-2022-1-1030x687.jpg"
+}

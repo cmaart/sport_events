@@ -1,0 +1,26 @@
+{
+  "id": "nordschwarzwald-triathlon-2027",
+  "name": "Nordschwarzwald Triathlon Nagold",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-14",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nagold",
+    "lat": 48.5529,
+    "lng": 8.7261,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://nordschwarzwald-triathlon.de",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/arrondissement-de-karlsruhe/nordschwarzwald-triathlon/rhdsk5fnm3yzuttr1wyy",
+  "description": "Der Nordschwarzwald Triathlon powered by Sparkasse Pforzheim Calw findet 2027 am 14. und 15. August statt, veranstaltet von der Tri-Events Baden-Württemberg gGmbH; die Registrierung ist auf der offiziellen Seite verlinkt. Kern ist die Langdistanz: 3,8 km Schwimmen in zwei Runden mit Landgang in der Nagoldtalsperre (Erzgrube) bei Seewald, 180 km Rad über Altensteig nach Nagold und dann in drei Runden über Mindersbach, Wart, Simmersfeld und Rohrdorf mit rund 1.484 Höhenmetern sowie ein Marathon in fünf Runden. Als Rahmenwettbewerbe gab es zuletzt eine Sprintdistanz (400 m / 20 km / 5 km), Aquabike und Einzelzeitfahren über 50 und 100 km. 2025 und 2026 war das Rennen Schauplatz der Deutschen Meisterschaft Langdistanz. In der Expo lädt am Samstag eine TauschZone zum Flohmarkt für Triathlon-Equipment ein.",
+  "distanceKm": 226,
+  "elevationGainM": 1484
+}

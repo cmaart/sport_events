@@ -1,0 +1,25 @@
+{
+  "id": "kallmuenzer-triathlon-2027",
+  "name": "40. Kallmünzer Sparkassen-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kallmünz",
+    "lat": 49.162,
+    "lng": 11.949,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.atsv-kallmuenz.de/triathlon",
+  "description": "Der 40. Kallmünzer Sparkassen-Triathlon findet am Samstag, 5. Juni 2027 statt – eine Jubiläumsausgabe der Oberpfälzer Traditionsveranstaltung des ATSV Kallmünz. Um 14:00 Uhr startet die Kurzdistanz über 1,5 km Schwimmen, 35 km Rad und 10 km Lauf, um 14:35 Uhr folgt das Jedermann-Rennen über 0,6 km, 20 km und 5 km; beide Formate sind auch als Staffel ausgeschrieben. Geschwommen wird in der Naab am Schmidwöhr unterhalb der Burgruine Kallmünz nördlich von Regensburg. Anmeldungen sind ab 1. Januar 2027 über den Zeitnehmer zeitgemaess.info möglich. Zwei Monate zuvor, am 10. April 2027, richtet der Verein zudem den 24. Kallmünzer Frühlingslauf aus.",
+  "distanceKm": 46.5,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/b6/95/d7/kallmuenzer-sparkassen-triathlon-99-1570477606.png"
+}

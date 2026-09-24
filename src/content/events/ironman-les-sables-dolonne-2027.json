@@ -1,0 +1,22 @@
+{
+  "id": "ironman-les-sables-dolonne-2027",
+  "name": "IRONMAN Les Sables d'Olonne-Vendée",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Les Sables d'Olonne",
+    "lat": 46.4967,
+    "lng": -1.7831
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-les-sables-dolonne",
+  "description": "Mit dem IRONMAN Les Sables d'Olonne-Vendée kommt am 27. Juni 2027 die volle Langdistanz an die französische Atlantikküste – nach Jahren als 70.3-Standort wird die „Côte de Lumière“ laut Veranstalter zum Schauplatz für rund 3.000 Triathletinnen und Triathleten. Geschwommen werden 3,8 km vom Grande Plage aus bis in den legendären Kanal des Vendée Globe, von dem Anfang 2025 die besten Solo-Segler der Welt zur Weltumsegelung aufbrachen. Die Radstrecke startet auf dem berühmten Remblai und führt auf komplett gesperrten Straßen durch 17 Gemeinden der Vendée; sie ist wellig und durch viele Tempowechsel fordernd. Der Marathon läuft zunächst am Hafen entlang bis zum grünen Leuchtturm und über ein kurzes Stück Sandstrand, dann in vier Runden vom Remblai über den Lac de Tanchet bis zum Puits d'Enfer. Das Ziel liegt auf der Place du Palais de Justice. Das Rennen ist als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
+}

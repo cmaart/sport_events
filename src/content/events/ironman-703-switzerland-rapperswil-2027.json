@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-switzerland-rapperswil-2027",
+  "name": "IRONMAN 70.3 Switzerland Rapperswil-Jona",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rapperswil-Jona",
+    "lat": 47.23,
+    "lng": 8.82
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-switzerland",
+  "description": "Der IRONMAN 70.3 Switzerland in Rapperswil-Jona wird 2027 am 6. Juni ausgetragen; laut offizieller Rennseite war die Ausgabe 2027 bereits im September 2026 ausgebucht. Geschwommen werden 1,9 km im klaren Wasser des Obersees, des östlichen Teils des Zürichsees. Die 90 km Radstrecke führt über zwei Runden durch hügeliges Gelände mit Panoramablicken; anspruchsvolle Anstiege wechseln sich mit lohnenden Abfahrten ab. Nach der zweiten Radrunde geht es über die Oberseestrasse zurück in die Wechselzone und auf die Laufstrecke Richtung Strandweg. Der Halbmarathon führt anschließend am Seeufer von Rapperswil-Jona entlang, der Stadt der Rosen mit ihrem Schloss über der Altstadt. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

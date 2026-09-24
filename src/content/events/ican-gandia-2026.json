@@ -3,7 +3,8 @@
   "name": "ICAN Gandia",
   "sport": "triathlon",
   "categories": [
-    "Langdistanz"
+    "Langdistanz",
+    "Mitteldistanz"
   ],
   "country": "ES",
   "dates": {
@@ -17,6 +18,8 @@
     "lng": -0.181
   },
   "websiteUrl": "https://www.icantriathlon.com/",
-  "description": "Ausgabe der ICAN-Triathlonserie im valencianischen Küstenort Gandía. Volldistanz 3,8/180/42,2 km sowie Half-, Short- und Aquabike-Formate; flache, schnelle Radstrecke entlang der Mittelmeerküste. Termin laut offizieller Ausschreibung 17. Oktober 2026.",
-  "distanceKm": 226
+  "description": "Der ICAN Triathlon in Gandía an der valencianischen Mittelmeerküste geht am 17. Oktober 2026 in seine XIII. Auflage; seit der Premiere 2013 ist er die erste und langlebigste Langdistanz der Comunitat Valenciana und wurde seither jedes Jahr ausgetragen. Auf dem Programm stehen Full Distance (3,8 / 180 / 42,2 km) und Half Distance, jeweils mit separaten Pro-Starts, dazu Aquabike über Lang- und Mitteldistanz sowie eine Short Distance. Die Ausgabe 2026 war bereits im August mit 1.500 verkauften Startplätzen ausverkauft – Rekord auf Mittel- und Langdistanz mit 306 Full-, 773 Half- und 121 Aquabike-Startenden. Um mehr Platz für die langen Distanzen zu schaffen, halbierte der Veranstalter das Kontingent der Short Distance auf rund 250 Plätze. Als institutionelle Partner unterstützen neben Gandía auch die Nachbargemeinden Xeraco, Xeresa, Tavernes de la Valldigna und Cullera das Rennen. Das Startgeld für die Full Distance lag bei 449 €, für die Half bei 229 €.",
+  "distanceKm": 226,
+  "imageUrl": "https://www.icantriathlon.com/wp-content/uploads/2025/11/ICAN-Triathlon-2026.jpg",
+  "registrationUrl": "https://www.rockthesport.com/es/evento/ican-triathlon-2026"
 }

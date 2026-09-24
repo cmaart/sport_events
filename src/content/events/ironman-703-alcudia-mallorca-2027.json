@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-alcudia-mallorca-2027",
+  "name": "IRONMAN 70.3 Alcúdia-Mallorca",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-05-08",
+    "end": "2027-05-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alcúdia",
+    "lat": 39.85,
+    "lng": 3.12
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-mallorca",
+  "description": "Der IRONMAN 70.3 Alcúdia-Mallorca findet 2027 am Samstag, 8. Mai, im Norden Mallorcas statt; laut offizieller Rennseite war die allgemeine Anmeldung für 2027 bereits im September 2026 ausgebucht. Geschwommen werden 1,9 km in einer Runde in der vor hohem Seegang geschützten Bucht von Alcúdia, Start und Ziel liegen an der Playa d'Alcúdia. Die 90 km lange Radrunde mit rund 800 Höhenmetern führt von der Küste hinauf in die Serra de Tramuntana über den Coll de Femenia bis zum höchsten Punkt am Coll de la Batalla auf 576 m bei Kilometer 35. Danach geht es über Abfahrten und wellige Flachstücke durch die Dörfer im Inselinneren zurück zur Wechselzone. Der Halbmarathon ist ein flacher Drei-Runden-Kurs durch Alcúdia über Brücken und entlang von Kanälen, das Ziel liegt nur rund 50 m vom Schwimmstart entfernt am Strand. Das Rennen ist Qualifikationsrennen für die IRONMAN 70.3-Weltmeisterschaft und ein beliebter Saisonauftakt für viele Mitteleuropäer im Mallorca-Trainingslager.",
+  "distanceKm": 113,
+  "elevationGainM": 800
+}

@@ -1,0 +1,22 @@
+{
+  "id": "berliner-volkstriathlon-2027",
+  "name": "Berliner Volkstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Berlin",
+    "lat": 52.52,
+    "lng": 13.405,
+    "region": "Berlin"
+  },
+  "websiteUrl": "https://www.berlin-timing.de/Berliner-Volkstriathlon",
+  "description": "Der Berliner Volkstriathlon 2027 ist beim Zeitnahme-Partner Berlin-Timing für Sonntag, 27. Juni 2027 gelistet – rund eine Woche früher als 2026 (5. Juli). Das Rennen richtet sich ausdrücklich an Einsteiger und Hobbysportler: Neoprenanzug oder Rennrad sind nicht erforderlich. Neben den Volkstriathlon-Wertungen für Frauen und Männer werden Schülerrennen der Klassen A bis C ausgetragen. Die Veranstaltung hat eine lange Tradition, Ergebnislisten reichen bis 2017 und weiter zurück. Solange der Veranstalter den Termin nicht selbst bestätigt, gilt das Datum als vorläufig.",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/9c/a5/78/berliner-volkstriathlon-41-1479854212.jpg"
+}

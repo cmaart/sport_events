@@ -1,0 +1,26 @@
+{
+  "id": "bad-arolser-twistesee-triathlon-2027",
+  "name": "43. Bad Arolser Twistesee-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Arolsen",
+    "lat": 51.3667,
+    "lng": 9.005,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.twistesee-triathlon.com/",
+  "description": "Der 43. Bad Arolser Twistesee-Triathlon findet am 12. September 2027 statt, ausgerichtet vom VfL Bad Arolsen 1861 im nordhessischen Waldecker Land. Die Traditionsveranstaltung bietet eine Olympische Distanz über 1.500 m Schwimmen im Twistesee, 40 km Rad und 10 km Lauf; die kupierte Radstrecke bringt rund 700 Höhenmeter. Dazu kommen ein Volkstriathlon und ein Staffel-Volkstriathlon über 500 m, 20 km und 5 km. Das Rennen war zuletzt Wertungsrennen der 1. und 2. Hessischen Triathlonliga. Das Anmeldeportal öffnete in den Vorjahren im Frühjahr.",
+  "distanceKm": 51,
+  "elevationGainM": 700,
+  "imageUrl": "https://twistesee-triathlon.com/img/2026_lang.png"
+}

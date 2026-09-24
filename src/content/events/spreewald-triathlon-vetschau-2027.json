@@ -1,0 +1,26 @@
+{
+  "id": "spreewald-triathlon-vetschau-2027",
+  "name": "Spreewald Triathlon Vetschau",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vetschau/Spreewald",
+    "lat": 51.783,
+    "lng": 14.075,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://spreewald-triathlon.de/",
+  "description": "Der Spreewald Triathlon in Vetschau findet 2027 am Samstag, 29. Mai statt; die Anmeldung beginnt laut Triathlon Spreewald e.V. Ende November 2026. Wenige Wochen zuvor, am 1. Mai 2027, richtet der Verein zudem den Spreewald Duathlon aus. Geschwommen wird im Briesensee bei Vetschau, die flache Radstrecke führt durch die Niederung des Spreewalds. Im Programm stehen eine Mitteldistanz (2,2 km / 84 km / 18 km), die Olympische Distanz und ein Sprint. Das Rennen war zuletzt Austragungsort der Brandenburgischen Landesmeisterschaft.",
+  "distanceKm": 52,
+  "imageUrl": "https://spreewald-triathlon.de/images/stories/fotoarchiv/video/2025triathlon.jpg"
+}

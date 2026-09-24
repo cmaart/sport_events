@@ -1,0 +1,23 @@
+{
+  "id": "we-ride-flanders-2027",
+  "name": "We Ride Flanders – Tour des Flandres Cyclosportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2027-04-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oudenaarde",
+    "lat": 50.8452,
+    "lng": 3.6028
+  },
+  "websiteUrl": "https://www.werideflanders.com/",
+  "description": "We Ride Flanders ist die offizielle Jedermann-Ausgabe der Flandern-Rundfahrt und findet am Samstag, 3. April 2027, einen Tag vor dem Profi-Monument statt – der Veranstalter hat das Datum bereits als „Save the date“ veröffentlicht. Die Königsdistanz über 247 km beginnt in Antwerpen und folgt weitgehend der Route der Profis bis nach Oudenaarde. Die kürzeren Strecken über 163, 133 und 79 km starten und enden direkt in Oudenaarde, dem Zielort der Ronde. Alle Varianten führen über die berüchtigten Kopfsteinpflaster-Hellingen der Flämischen Ardennen wie Oude Kwaremont, Paterberg und Koppenberg. Mit rund 15.000 Teilnehmenden zählt We Ride Flanders zu den größten Radsportveranstaltungen Belgiens. Tickets werden zuerst an Interessenten vergeben, die sich auf der offiziellen Website für den Newsletter eintragen.",
+  "distanceKm": 247,
+  "elevationGainM": 2500,
+  "imageUrl": "https://werideflanders.com/wp-content/uploads/sites/225/sites/1/nggallery/we-ride-flanders-2026/2026-04-04-Gaetan_Sportpic_WRF_Audenarde-035.jpg"
+}

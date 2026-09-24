@@ -1,0 +1,25 @@
+{
+  "id": "burgwald-triathlon-bottendorf-2027",
+  "name": "18. Burgwald-Triathlon Bottendorf",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bottendorf",
+    "lat": 51.01,
+    "lng": 8.88,
+    "region": "Hessen"
+  },
+  "websiteUrl": "http://www.burgwald-triathlon.de/",
+  "description": "Der 18. Burgwald-Triathlon findet am Sonntag, 13. Juni 2027 in Bottendorf (Burgwald) statt; die Anmeldung öffnet am 1. Dezember 2026. Der TSV 09 Bottendorf richtet das Rennen im nordhessischen Burgwald aus, einem der größten zusammenhängenden Waldgebiete Hessens. Neben Olympischer und Sprintdistanz werden Nachwuchsrennen von den Schülern C bis zu den Junioren ausgetragen; das Rennen ist Teil des HTV-Cups. 2026 war sogar Ironman-Weltmeister Lukas Stahl am Start. Traditionell eröffnet der Burgwald-Triathlon die hessische Freiwasser-Saison.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.burgwald-triathlon.de/wp-content/uploads/2025/12/cropped-250706_JK_70966_4032x2268-scaled-2-1024x575.jpg"
+}

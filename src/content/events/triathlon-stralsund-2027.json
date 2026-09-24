@@ -1,0 +1,26 @@
+{
+  "id": "triathlon-stralsund-2027",
+  "name": "Triathlon Stralsund",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stralsund",
+    "lat": 54.3168,
+    "lng": 13.0928,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://stralsund-triathlon.de",
+  "description": "Der 8. Triathlon Stralsund findet am 5. September 2027 statt, wieder am Strelasund vor der UNESCO-Welterbe-Altstadt der Hansestadt. Angeboten werden die Olympische Distanz (1,5 km Schwimmen / 40 km Rad / 10 km Lauf), ein Sprint über 750 m, 20 km und 5 km, Jedermann-Wettkämpfe, Staffeln sowie Jugend- und Schülerrennen. Geschwommen wird im Strelasund, die Radstrecke führt durch Vorpommern, gelaufen wird im Stadtgebiet. Die Veranstaltung zählt zu den größten Sportevents in Stralsund und der Region Vorpommern. Die Anmeldung für 2027 ist bereits offen; wer sich bis zum 31. Dezember 2026 anmeldet, erhält 10 % Rabatt auf das Startgeld.",
+  "distanceKm": 52,
+  "elevationGainM": 150,
+  "imageUrl": "https://stralsund-triathlon.de/wp-content/themes/yootheme/cache/f5/header_triathlon-stralsund-anmeldung-2026_2500x1406px-f5a1e94a.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dragon-ride-wales-2027",
+  "name": "Dragon Ride",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Port Talbot",
+    "lat": 51.594,
+    "lng": -3.7728
+  },
+  "websiteUrl": "https://www.dragonride.co.uk/",
+  "description": "Der Dragon Ride findet 2027 am Sonntag, 13. Juni, statt; die Startplätze sind bereits buchbar. Bei der 22. Ausgabe am 14. Juni 2026 meldeten sich über 4.800 Teilnehmer an – so viele wie nie zuvor. Start und Ziel liegen im Margam Country Park bei Port Talbot in Südwales. Vier Strecken stehen zur Wahl: der Cymru Classic als Einstieg, die Medio Fondo über 157 km, die Gran Fondo und der rund 300 km lange Dragon Devil. Die Routen führen durch den Nationalpark Bannau Brycheiniog (Brecon Beacons) und über berüchtigte Anstiege wie den Devil's Elbow. Der Dragon Ride gilt als einer der anspruchsvollsten Sportives Großbritanniens und unterstützt als Charity-Partner Macmillan Cancer Support.",
+  "distanceKm": 215,
+  "elevationGainM": 4000,
+  "imageUrl": "https://www.dragonride.co.uk/wp-content/uploads/sites/10/2024/06/Dragon_Ride_2024-24-1.jpg"
+}

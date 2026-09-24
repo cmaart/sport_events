@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-tours-2027",
+  "name": "IRONMAN 70.3 Tours Métropole – Loire Valley",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tours",
+    "lat": 47.3941,
+    "lng": 0.6848
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-tours",
+  "description": "Der IRONMAN 70.3 Tours Métropole – Loire Valley findet 2027 am 6. Juni statt und gehört erstmals zur IRONMAN Pro Series, in der er laut IRONMAN das neunte Rennen der Saison ist. Geschwommen werden 1,9 km auf einem rechteckigen Kurs im Cher, einem Nebenfluss der Loire, mit Zuschauern auf beiden Ufern. Die flache 90-km-Radrunde führt entlang des Cher und an historischen Loire-Schlössern vorbei, darunter Schloss Ussé, das als Vorbild für das Märchen Dornröschen gilt. Der Halbmarathon in zwei Runden verläuft an den Ufern des Cher und über die künstliche Insel im Parc Honoré de Balzac. Einzigartig ist der Zieleinlauf komplett in der Halle des Parc des Expositions de Tours. Die ehemalige Königsstadt Tours liegt nur rund eine Zugstunde von Paris entfernt; das Rennen vergibt Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

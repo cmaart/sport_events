@@ -17,7 +17,8 @@
     "lng": 1.4206
   },
   "websiteUrl": "https://www.ibizabtt.com/vuelta-cicloturista-a-ibiza-campagnolo/2026",
-  "description": "Vuelta Cicloturista a Ibiza Campagnolo – 23. Ausgabe der viertägigen Etappenrundfahrt für Hobbyfahrer durch alle fünf Gemeinden der Insel: Mehrere Tagesetappen von je 74–90 km durch die hügelige Innenlandschaft Ibizas plus Einzelzeitfahren. Start der Anmeldung am 18. Mai 2026; die Streckendetails werden zu einem späteren Zeitpunkt veröffentlicht.",
-  "distanceKm": 300,
-  "imageUrl": "https://www.ibizabtt.com/images/cicloturista-ibiza-2019_sabado_171_1200px.jpg"
+  "description": "Die XXIII. Vuelta Cicloturista a Ibiza Campagnolo läuft vom 9. bis 12. Oktober 2026 und führt als Etappenfahrt für Hobbyradsportler durch alle fünf Gemeinden der Insel. Nach der Startnummernausgabe und Teampräsentation am Freitagabend in Sant Antoni de Portmany geht die 1. Etappe am 10. Oktober über 60 km und 1.100 Höhenmeter von Ibiza-Stadt nach Sant Antoni, mit gezeiteten Abschnitten am Camí de cas Coll und an der Cala Vedella. Die Königsetappe am 11. Oktober misst 100 km mit 1.540 Höhenmetern von Sant Josep de sa Talaia über Sant Carles, Portinatx und Santa Agnès, gezeitet werden die Anstiege Cala Sant Vicent und Ses Marrades. Zum Abschluss steht am 12. Oktober ein flaches Einzelzeitfahren über 4,4 km am Passeig de la Mar in Sant Antoni auf dem Programm – insgesamt rund 164 km und 2.640 Höhenmeter. Gefahren wird auf offenen Straßen mit Chip-Zeitmessung und Gesamtwertung nach Altersklassen; im Feld tauchen regelmäßig Ex-Profis wie Miguel Induráin, Alberto Contador oder Óscar Pereiro auf. Das Startgeld stieg von 120 € (bis 30. Juni) auf 150 € ab 1. September.",
+  "distanceKm": 164,
+  "imageUrl": "https://www.ibizabtt.com/images/cicloturista-ibiza-2019_sabado_171_1200px.jpg",
+  "elevationGainM": 2640
 }

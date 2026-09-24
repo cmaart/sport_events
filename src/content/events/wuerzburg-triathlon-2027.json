@@ -1,0 +1,27 @@
+{
+  "id": "wuerzburg-triathlon-2027",
+  "name": "18. Würzburg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Würzburg",
+    "lat": 49.799,
+    "lng": 9.933,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.wuerzburg-triathlon.de/",
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/08/67/lifestyle-wuerzburg-triathlon-82-1493900756.jpg",
+  "description": "Der 18. Würzburg Triathlon findet am Sonntag, 13. Juni 2027 statt; die Anmeldung öffnet am 1. Oktober 2026. Austragungsort ist der Erlabrunner See nördlich von Würzburg in Unterfranken, der Veranstalter beschreibt das Rennen als „familiären Triathlon“. Angeboten werden eine Jedermann-Distanz, die Olympische Distanz und eine Mitteldistanz; Staffeln sind auf allen Distanzen möglich. Die Radstrecken führen durch das Maintal und die Weinlandschaft rund um Würzburg. Organisiert wird die Veranstaltung von der J.A. Schweighöfer Veranstaltungs UG.",
+  "distanceKm": 52,
+  "elevationGainM": 400
+}

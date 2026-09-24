@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-vilamoura-algarve-2027",
+  "name": "IRONMAN 70.3 Vilamoura-Algarve",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2027-04-03",
+    "end": "2027-04-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vilamoura",
+    "lat": 37.0785,
+    "lng": -8.1146
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-vilamoura-algarve",
+  "description": "Der IRONMAN 70.3 Vilamoura-Algarve ist ein neues Rennen an der portugiesischen Südküste und feiert am Samstag, 3. April 2027, Premiere. Geschwommen werden 1,9 km in einer Runde vom Strand an der Marina von Vilamoura aus, geschützt durch die Hafenmole; im April liegt die Wassertemperatur laut Veranstalter bei 16 bis 18 °C. Die 90 km lange Radrunde führt durch das Herz der Algarve mit landschaftlich reizvollen Straßen und ländlichem Hinterland. Der Halbmarathon in zwei Runden verläuft schnell und flach entlang der Küste von Vilamoura und Quarteira mit nur zwei Wendepunkten und viel Publikum. Mit dem frühen Termin ist das Rennen eine der ersten Mitteldistanzen der europäischen Saison. Es ist als Flex90-Rennen buchbar und vergibt Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

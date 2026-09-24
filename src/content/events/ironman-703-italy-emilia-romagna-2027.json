@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-italy-emilia-romagna-2027",
+  "name": "IRONMAN 70.3 Italy Emilia-Romagna",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-09-19",
+    "end": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cervia",
+    "lat": 44.2597,
+    "lng": 12.3478
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-emilia-romagna",
+  "description": "Der IRONMAN 70.3 Emilia-Romagna findet 2027 am Sonntag, 19. September, in Cervia an der Adria statt – am Tag nach dem IRONMAN Italy Emilia-Romagna über die Langdistanz. Die Mitteldistanz wurde 2019 erstmals ausgetragen und hat sich seither als Saisonfinale im Kalender etabliert; die Anmeldung für 2027 war zum Zeitpunkt der Erfassung als „Opening Soon“ angekündigt. Geschwommen werden 1,9 km in einer Runde vom Strand von Cervia aus parallel zur Küste. Die 90 km lange Radrunde beginnt an der Strandpromenade und führt durch das Hinterland der Romagna, vorbei am Naturpark der Salinen von Cervia mit seinen rosa Flamingos. Der flache Halbmarathon über drei Runden bietet Ausblicke auf Cervia und Milano Marittima und führt am historischen Salzlager der Stadt vorbei zum Ziel. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

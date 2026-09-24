@@ -1,0 +1,25 @@
+{
+  "id": "kulturstadttriathlon-weimar-2027",
+  "name": "Kulturstadttriathlon Weimar",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weimar",
+    "lat": 50.9789,
+    "lng": 11.3307,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://www.kulturstadttriathlon.de/",
+  "imageUrl": "https://kulturstadttriathlon.de/img/image0-768x576.jpeg",
+  "description": "Der Weimarer Kulturstadttriathlon geht am 4. Juli 2027 in eine neue Auflage, wie der ausrichtende HSV (Hochschulsportverein) Weimar am 2. September 2026 per „Save the Date“ mitteilte. Das Heim-Event des Vereins bietet Olympische und Sprintdistanz; geschwommen wird im Schwanseebad, der Radkurs führt durch die thüringische Kulturlandschaft, gelaufen wird in der Goethe- und Schillerstadt. 2026 fand das Rennen bei großer Hitze statt, die Heimmannschaft holte den dritten Sieg in Serie. Das Rennen 2026 wurde im Livestream übertragen. Die Ausschreibung für 2027 folgt auf der offiziellen Seite.",
+  "distanceKm": 51
+}

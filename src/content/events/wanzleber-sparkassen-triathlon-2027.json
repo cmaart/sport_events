@@ -1,0 +1,25 @@
+{
+  "id": "wanzleber-sparkassen-triathlon-2027",
+  "name": "14. Wanzleber Sparkassen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wanzleben-Börde",
+    "lat": 52.0617,
+    "lng": 11.4392,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.triathlon-wanzleben.de/",
+  "imageUrl": "https://www.triathlon-wanzleben.de/public/img/triathlon-wanzleben-header.jpg",
+  "description": "Der 14. Wanzleber Sparkassen Triathlon findet am 4. Juli 2027 in der Magdeburger Börde statt („safe the date“). Ausgerichtet wird die Veranstaltung vom SV Blau-Weiß Empor Wanzleben, der seit 2014 jährlich Anfang Juli einlädt. Angeboten werden Olympische und Sprintdistanz; die Radstrecke führt durch das flache bis leicht wellige Börde-Land westlich von Magdeburg, gelaufen wird rund um Wanzleben. Die Veranstaltung wird von regionalen Sponsoren, allen voran der Sparkasse, getragen. Der Ansturm auf die Fotos 2026 war so groß, dass der Bilderservice zeitweise eingestellt werden musste.",
+  "distanceKm": 51
+}

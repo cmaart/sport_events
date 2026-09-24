@@ -1,0 +1,22 @@
+{
+  "id": "ironman-lanzarote-2027",
+  "name": "Club La Santa IRONMAN Lanzarote",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-05-15",
+    "end": "2027-05-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Puerto del Carmen",
+    "lat": 28.9178,
+    "lng": -13.6654
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-lanzarote",
+  "description": "Der IRONMAN Lanzarote findet 2027 am Samstag, 15. Mai, statt und ist erstmals Teil der IRONMAN Pro Series – für das traditionsreiche Rennen auf den Kanaren ein Meilenstein. Geschwommen werden 3,8 km in zwei Runden mit Landgang („Australian Exit“) vor der Playa Grande in Puerto del Carmen. Die legendäre 180-km-Radrunde führt vorbei an Landmarken wie dem Timanfaya-Nationalpark, dem Weinbaugebiet La Geria und dem Mirador del Río und gilt wegen der Vulkanlandschaft, der vielen Höhenmeter und des häufig starken Winds als eine der härtesten Radstrecken der IRONMAN-Welt. Der Marathon verläuft in drei Runden entlang der Avenida de las Playas an der Küste, meist bei intensiver Sonne. Start und Ziel liegen in Puerto del Carmen, Partner ist das Sportresort Club La Santa. Die Anmeldung für 2027 ist laut offizieller Rennseite geöffnet.",
+  "distanceKm": 226
+}

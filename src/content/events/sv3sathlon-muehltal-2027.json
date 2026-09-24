@@ -1,0 +1,24 @@
+{
+  "id": "sv3sathlon-muehltal-2027",
+  "name": "44. algemarin SV3sathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mühltal-Traisa",
+    "lat": 49.8081,
+    "lng": 8.6839,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://sv3sathlon.de/",
+  "description": "Der algemarin SV3sathlon des SV 1911 Traisa findet am 12. September 2027 statt und feiert traditionell das Ende der Freibadsaison in Mühltal bei Darmstadt. Der Veranstalter bezeichnet ihn als ältesten Triathlon Hessens und zugleich als einen der ersten modernen Gravel-Triathlons Deutschlands. Geschwommen werden 550 m (11 Bahnen) im Freibad Traisa, danach folgen 20 km Gravelbike auf autofreien Feld- und Waldwegen in zwei Runden um die Darmbachquelle und 5 km hügeliges Laufen zum Traisaer Hüttchen und zur Klippsteineiche. Starten kann man einzeln, als Staffel oder als Mannschaft. Nachmittags gibt es verkürzte Distanzen für Jugend, Schüler und Bambini.",
+  "distanceKm": 26,
+  "imageUrl": "https://sv3sathlon.de/wp-content/uploads/2023/12/3sathlon-Start-E_023-scaled.jpg"
+}

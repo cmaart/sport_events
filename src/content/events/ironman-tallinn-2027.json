@@ -1,0 +1,22 @@
+{
+  "id": "ironman-tallinn-2027",
+  "name": "IRONMAN Tallinn",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "EE",
+  "dates": {
+    "start": "2027-08-07",
+    "end": "2027-08-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tallinn",
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-tallinn",
+  "description": "Der IRONMAN Tallinn findet 2027 am Samstag, 7. August, statt, einen Tag vor dem IRONMAN 70.3 Tallinn am selben Rennwochenende in der estnischen Hauptstadt. Geschwommen werden 3,8 km in einer Runde im Raku-See, der klares Wasser, einen sandigen Grund und genügend Tiefe bietet. Die Radstrecke startet am Raku-See und kombiniert Stadtstraßen mit ländlichen Abschnitten südlich von Tallinn: Nach der Ausfahrt in die Dörfer im Süden folgen zwei Runden durch das Umland, wobei der Wendepunkt nahe der Unibet Arena dreimal passiert wird. Der Marathon ist ein Vier-Runden-Kurs zwischen Rocca al Mare und dem Stroomi-Strand mit Blick auf die Tallinner Bucht und gilt laut Veranstalter als einer der schnellsten der Welt. Das Ziel liegt vor der Unibet Arena. Die Ausgabe 2027 ist als Flex90-Rennen buchbar.",
+  "distanceKm": 226
+}

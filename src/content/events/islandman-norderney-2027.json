@@ -1,0 +1,25 @@
+{
+  "id": "islandman-norderney-2027",
+  "name": "sebamed ISLANDMAN Norderney",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-04",
+    "end": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Norderney",
+    "lat": 53.7063,
+    "lng": 7.1565,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.sebamed-islandman.de",
+  "description": "Der sebamed ISLANDMAN Norderney findet 2027 am Samstag, 4. September statt; die Anmeldung für 2027 ist auf der offiziellen Seite bereits verlinkt. 2026 war der Inseltriathlon nach sechsjähriger Pause mit neuem Titelsponsor Sebapharma auf die ostfriesische Insel zurückgekehrt (#weareback). Geschwommen wird in der Nordsee, die Rad- und Laufstrecken führen vom Nordstrand zum Leuchtturm und zurück über die weitgehend autofreie Insel. Angeboten werden Olympische und Sprintdistanz, eine Schnupper- bzw. Beginner-Distanz, Jugendrennen sowie Staffeln. Teilnehmende loben die spektakuläre Kulisse und die Organisation – Anreise mit der Fähre ab Norddeich inklusive.",
+  "distanceKm": 52,
+  "imageUrl": "https://lirp.cdn-website.com/9e7d8ee2/dms3rep/multi/opt/Schwimmen-1b-1920w.jpg"
+}

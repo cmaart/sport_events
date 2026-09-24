@@ -1,0 +1,25 @@
+{
+  "id": "buechener-triathlon-2027",
+  "name": "41. Büchener Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-30",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Büchen",
+    "lat": 53.512,
+    "lng": 10.965,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.esv-buechen.de/",
+  "description": "Der 41. Büchener Triathlon findet am Sonntag, 30. Mai 2027 statt, veranstaltet vom ESV Büchen im Kreis Herzogtum Lauenburg. Laut DTU-Kalender werden zwei Jedermann-/Altersklassen-Rennen angeboten: eine Kurzdistanz über 1 km Schwimmen, 42 km Rad und 10 km Lauf sowie ein Sprint über 0,5 km, 21 km und 5 km. Geschwommen wird im Waldschwimmbad Büchen, die Radstrecke führt durch die Landschaft zwischen Elbe und Elbe-Lübeck-Kanal. 2026 feierte der Verein mit der 40. Auflage ein rundes Jubiläum, die Veranstaltung war ausgebucht. Das Teilnehmerfeld ist mit rund 180 Plätzen überschaubar – frühe Anmeldung empfiehlt sich.",
+  "distanceKm": 53,
+  "imageUrl": "https://fotos.verwaltungsportal.de/seitengenerator/c767a086ebaa7891ddc2e1fe47f21a38221086/1000019008.jpg"
+}

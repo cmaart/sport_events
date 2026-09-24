@@ -7,9 +7,9 @@
   ],
   "country": "DE",
   "dates": {
-    "start": "2027-08-15",
-    "end": "2027-08-15",
-    "confirmed": false
+    "start": "2027-08-29",
+    "end": "2027-08-29",
+    "confirmed": true
   },
   "location": {
     "name": "Duisburg",
@@ -17,8 +17,8 @@
     "lng": 6.7623,
     "region": "Nordrhein-Westfalen"
   },
-  "websiteUrl": "https://www.ironman.com/im703-duisburg",
-  "description": "Der IRONMAN 70.3 Duisburg geht 2027 im Herzen des Ruhrgebiets in die nächste Auflage. IRONMAN Germany hat die Fortsetzung offiziell bestätigt (Duisburg, Leipzig und Erkner als „Weg nach Chattanooga“ 2027); ein genaues Renndatum war zum Zeitpunkt der Erfassung noch nicht veröffentlicht – die Angabe orientiert sich am gewohnten August-Wochenende. Die 1,9 km Schwimmstrecke wird im Duisburger Innenhafen zurückgelegt, dem zum Kultur- und Freizeitquartier umgebauten früheren Hafenbecken. Die flache und schnelle 90-km-Radstrecke führt in mehreren Schleifen durch das Ruhrgebiet und lädt bei wenig Höhenmetern zu Bestzeiten ein, bevor der Halbmarathon über 21,1 km in Wendepunktrunden zum Zieleinlauf führt. Als 70.3-Rennen vergibt Duisburg Slots für die IRONMAN 70.3-Weltmeisterschaft, die 2027 in Chattanooga stattfindet.",
+  "websiteUrl": "https://www.ironman.com/races/im703-duisburg",
+  "description": "Der IRONMAN 70.3 Duisburg findet 2027 am 29. August im Sportpark Duisburg statt – zwei Wochen später als 2026 und laut offizieller Rennseite als Flex90-Rennen buchbar. Geschwommen werden 1,9 km auf der traditionsreichen Regattabahn des Sportparks, die 1935 eröffnet wurde und bereits Weltmeisterschaften im Kanu- und Rudersport ausgerichtet hat; Wasserqualität und Orientierung gelten als hervorragend. Die 90 km lange Radstrecke über zwei Runden führt über die historische Brücke der Solidarität und am Rhein entlang Richtung Moers – das Profil ist flach und schnell und lädt zu persönlichen Bestzeiten ein. Der Halbmarathon verläuft in drei Runden entlang der Regattabahn durch die grüne Parklandschaft des Sportparks. Die Laufstrecke wurde 2022 von den Teilnehmenden zur drittbesten IRONMAN-70.3-Laufstrecke Europas gewählt. Als 70.3-Rennen im Ruhrgebiet vergibt Duisburg Slots für die IRONMAN 70.3-Weltmeisterschaft.",
   "distanceKm": 113,
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-dusseldorf/ironman-703-de-duisburg/jmv36y2caewiugq4ncbo"
 }

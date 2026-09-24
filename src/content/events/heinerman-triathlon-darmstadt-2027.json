@@ -1,0 +1,25 @@
+{
+  "id": "heinerman-triathlon-darmstadt-2027",
+  "name": "21. ENTEGA Heinerman Triathlon Darmstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Darmstadt",
+    "lat": 49.8747,
+    "lng": 8.6477,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.heinerman.de/",
+  "description": "Der 21. ENTEGA Heinerman geht am Sonntag, 27. Juni 2027 an den Start – traditionell eine Woche vor dem Darmstädter Heinerfest. Die Anmeldung öffnet am 1. Oktober 2026. Über die Olympische Distanz werden 1,5 km im innerstädtischen Natursee Woog geschwommen, dann 40 km auf der zweimal befahrenen Wendepunktstrecke Darmstadt–Dieburg geradelt und 10 km über das Oberfeld bis zum Oberwaldhaus und zurück gelaufen. Seit 2018 gibt es zusätzlich eine Sprintdistanz (0,75 / 20 / 5 km) für Einsteiger, beide Formate sind auch als Staffel startbar. Start, Wechselzone und Ziel liegen kompakt auf dem Woog-Gelände, wo Zuschauer hautnah dabei sind.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.heinerman.de/images/2025/ehm-2025/EHM_2025_04.jpg"
+}

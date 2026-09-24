@@ -1,0 +1,24 @@
+{
+  "id": "waltriathlon-brunsbuettel-2027",
+  "name": "33. Waltriathlon Brunsbüttel",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Brunsbüttel",
+    "lat": 53.8956,
+    "lng": 9.1344,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.waltriathlon.de",
+  "description": "Der 33. Waltriathlon Brunsbüttel findet am Samstag, 29. Mai 2027 statt, ausgerichtet vom TSV Brunsbüttel; die Anmeldung öffnet am 1. Januar 2027. Geschwommen wird im Freibad am Elbdeich – 500 m im Jedermann-Rennen, 750 m im Sprint. Die maximal 19 km lange Radstrecke führt durch die flache, oft windige Marschlandschaft Dithmarschens, der abschließende 5-km-Lauf verläuft an den Schrebergärten vorbei Richtung Schleusen des Nord-Ostsee-Kanals. Laut DTU-Kalender gibt es neben dem Jedermann- und Sprintrennen zahlreiche Nachwuchswettkämpfe von den Schülern C bis zu den Junioren. Das Küstenflair mit Blick auf die Elbschifffahrt macht den Reiz der Veranstaltung aus.",
+  "distanceKm": 25,
+  "imageUrl": "https://www.waltriathlon.de/images/waltriathlon/Wahltriathlon-2.png"
+}

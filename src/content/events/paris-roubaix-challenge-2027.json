@@ -1,0 +1,22 @@
+{
+  "id": "paris-roubaix-challenge-2027",
+  "name": "Paris-Roubaix Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-04-10",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Roubaix",
+    "lat": 50.6942,
+    "lng": 3.1746
+  },
+  "websiteUrl": "https://www.parisroubaixchallenge.com/en",
+  "description": "Die Paris-Roubaix Challenge wird auch 2027 wieder am Vortag des Profiklassikers „Hölle des Nordens“ ausgetragen; die Vorregistrierung für 2027 ist geöffnet, der genaue Termin aber noch nicht veröffentlicht. Datum daher unter Vorbehalt: angenommen ist Samstag, 10. April 2027, analog zum Rhythmus der Vorjahre. Laut Veranstalter A.S.O. erhalten Vorregistrierte am 14. Oktober 2026 bevorzugten Zugang, bevor die Anmeldung am 15. Oktober 2026 für alle öffnet – die Plätze sind limitiert. Angeboten wurden zuletzt drei Strecken über 70, 145 und 170 km mit 8 bis 30 Kopfsteinpflaster-Sektoren. Auf der langen Strecke gehören die Trouée d'Arenberg und weitere Monument-Sektoren der Profiroute dazu. Das Ziel liegt wie bei den Profis im legendären Vélodrome André-Pétrieux von Roubaix.",
+  "distanceKm": 170,
+  "elevationGainM": 1000
+}

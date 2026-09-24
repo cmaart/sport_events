@@ -1,0 +1,26 @@
+{
+  "id": "ostseeman-triathlon-gluecksburg-2027",
+  "name": "OstseeMan Triathlon Glücksburg",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-01",
+    "end": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Glücksburg",
+    "lat": 54.8333,
+    "lng": 9.5333,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://ostseeman.de",
+  "description": "Der OstseeMan Triathlon Glücksburg findet 2027 am Sonntag, 1. August statt – und ist bereits vollständig ausgebucht. Die rund 800 Startplätze der Mitteldistanz waren nach nur 86 Stunden vergeben, die Staffeln nach einer Woche, und keine drei Wochen nach dem Rennen 2026 war auch die Langdistanz komplett belegt; so früh ausverkauft war das „Hawaii des Nordens“ noch nie. Geschwommen wird in der Flensburger Förde vor dem Glücksburger Strand, die Radstrecke führt durch das hügelige Angeln, der Lauf entlang der Ostseeküste. Neben Lang- und Mitteldistanz gehören der Charity Run „Glück in Sicht“, die OstseeKids-Rennen, eine Sport-Expo sowie Finish-Line-Party und Feuerwerk am Strand zum Programm. Restplätze gibt es nur noch über die offizielle Startplatzbörse; 2026 stellte Lukas Schnödewind mit 8:05:21 Stunden einen neuen Streckenrekord auf.",
+  "distanceKm": 226,
+  "elevationGainM": 1200,
+  "imageUrl": "https://ostseeman.de/assets/images/e/Bildschirmfoto%202025-08-03%20um%2011.03.28-3076e72b.png"
+}

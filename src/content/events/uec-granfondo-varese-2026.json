@@ -17,8 +17,10 @@
     "lat": 45.8206,
     "lng": 8.8257
   },
-  "websiteUrl": "https://ucigranfondoworldseries.com/en/",
-  "description": "Die UEC Gran Fondo Europameisterschaft wird 2026 von der Gran Fondo Tre Valli Varesine in Varese ausgerichtet. Am Samstag steht ein Einzelzeitfahren über 22 km auf dem Programm, am Sonntag folgt der Granfondo über 126 km oder der Mediofondo über 101 km durch die hügelige, voralpine Landschaft zwischen Lago di Varese und Lago Maggiore. Der Kurs folgt weitgehend den Straßen, auf denen Varese bereits 2018 die UCI-Gran-Fondo-Weltmeisterschaften austrug. Als Rennen der UCI Gran Fondo World Series dient die Veranstaltung zugleich als Qualifikation für die Weltmeisterschaft. Erwartet werden Altersklassen-Fahrer:innen aus ganz Europa, die um die kontinentalen Titel kämpfen.",
+  "websiteUrl": "https://trevallivaresine.info/gran-fondo-tre-valli-varesine-uci-world-series/",
+  "description": "Die 10. Granfondo Tre Valli Varesine der Società Ciclistica Alfredo Binda ist 2026 zugleich Austragungsort der UEC Gran Fondo Europameisterschaften. Am Samstag, 3. Oktober, steht ein Einzelzeitfahren über 22 km mit rund 220 Höhenmetern auf dem Programm, am Sonntag, 4. Oktober, folgen Gran Fondo (126 km, 2.120 Hm) und Medio Fondo (101 km, 1.610 Hm) mit Start und Ziel in der Via Sacco vor dem Palazzo Estense in Varese. Die Gran-Fondo-Runde führt durch Valganna hinauf zur Alpe Tedesco, über Porto Ceresio am Luganersee und die Ardena-Steigung nach Luino am Lago Maggiore, anschließend durch die Valcuvia und über Brinzio zurück entlang des Lago di Varese – weitgehend auf den Straßen der UCI-Gran-Fondo-WM 2018. Alle Straßen sind für den Verkehr gesperrt; beide Distanzen zählen als Qualifikationsrennen der UCI Gran Fondo World Series für die WM 2027 (Gran Fondo: Frauen 19–49, Männer 19–59; Medio Fondo: Frauen 50+, Männer 60+). Für die EM-Titel ist eine vorherige Qualifikation in einem World-Series-Rennen der letzten zwölf Monate nötig. Ergänzend gibt es eine Gravel Race über 72 km (854 Hm); das Startgeld für die Gran Fondo stieg von 45 € auf 60 € bis 1. Oktober, Kombi Zeitfahren + Gran Fondo 80 €.",
   "distanceKm": 126,
-  "imageUrl": "https://ucigranfondoworldseries.com/wp-content/uploads/sites/186/2025/11/20251019_Aaron-Collins_NorthSouth_UCI-Gran-Fondo-WC_A1B09869-scaled_3232479.jpg"
+  "imageUrl": "https://ucigranfondoworldseries.com/wp-content/uploads/sites/186/2025/11/20251019_Aaron-Collins_NorthSouth_UCI-Gran-Fondo-WC_A1B09869-scaled_3232479.jpg",
+  "registrationUrl": "https://trevallivaresine.info/gare/gran-fondo-tre-valli-varesine-uci-world-series/iscrizione-gran-fondo/",
+  "elevationGainM": 2120
 }

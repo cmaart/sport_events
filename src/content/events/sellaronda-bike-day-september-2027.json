@@ -1,0 +1,23 @@
+{
+  "id": "sellaronda-bike-day-september-2027",
+  "name": "Sellaronda Bike Day September",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Corvara",
+    "lat": 46.5496,
+    "lng": 11.8732
+  },
+  "websiteUrl": "https://www.altabadia.org/de/sommer/sport-aktivitaeten/radsport/sellaronda-bike-day.html",
+  "description": "Die Herbstausgabe des Sellaronda Bike Day findet am Samstag, 11. September 2027, statt – der Veranstalter hat bestätigt, dass es neben dem Juni-Termin (5. Juni 2027) auch 2027 wieder eine Autumn Edition gibt. Für einige Stunden sind dann Passo Campolongo, Passo Pordoi, Passo Sella und Grödner Joch für den motorisierten Verkehr gesperrt. Die 53 km lange Runde um das Sellamassiv mit rund 1.600 Höhenmetern verbindet Alta Badia, Arabba, das Fassatal und Gröden und kann an jedem Ort begonnen werden. Teilnahme kostenlos, ohne Anmeldung und ohne Zeitmessung – es zählt allein das Erlebnis der autofreien Dolomitenpässe. Im September sind die Straßen meist deutlich ruhiger als bei der großen Juni-Ausgabe, und die Lärchen beginnen sich herbstlich zu färben.",
+  "distanceKm": 53,
+  "elevationGainM": 1600,
+  "imageUrl": "https://www.altabadia.org/images/content/3420173_mobile_0_0_0_0/1920cX1280c/fileadmin/user_upload/Foto/Bike/Sellaronda-Bike-Day/Alta_Badia_passo-Gardena-ciclisti_by_Freddy_Planinschek.jpg"
+}

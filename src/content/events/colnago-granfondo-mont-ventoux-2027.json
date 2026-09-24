@@ -1,0 +1,24 @@
+{
+  "id": "colnago-granfondo-mont-ventoux-2027",
+  "name": "Colnago Gran Fondo Mont Ventoux",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vaison-la-Romaine",
+    "lat": 44.2436,
+    "lng": 5.0744
+  },
+  "websiteUrl": "https://gfmontventoux.com/en/",
+  "description": "Die Colnago GF Mont Ventoux 2027 wird am 5. und 6. Juni in Vaison-la-Romaine in der Provence ausgetragen. Am Samstag stehen drei Gravel-Strecken über 104, 78 und 43 km durch das Weinbaugebiet AOC Ventoux auf dem Programm. Am Sonntag folgen die beiden Straßenrennen mit Zeitnahme: die Granfondo über 120 km mit 3.200 Höhenmetern und fünf Anstiegen sowie die Mediofondo über 101 km mit 2.650 Höhenmetern, die den Ventoux über die etwas sanftere Auffahrt von Sault erklimmt. Beide enden auf dem fast 2.000 m hohen Gipfel des „Giganten der Provence“, vorbei an Lavendelfeldern und durch die Gorges de la Nesque. Bis 21. März 2027 gibt es Paketpreise für die gesamte Colnago GF Series (nur Straße) oder Einzelanmeldungen.",
+  "distanceKm": 120,
+  "elevationGainM": 3200,
+  "imageUrl": "https://gfmontventoux.com/wp-content/uploads/sites/2/2024/02/fp_image2-2000x833-c-center.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-fausto-coppi-cuneo-2027",
+  "name": "La Granfondo Fausto Coppi",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cuneo",
+    "lat": 44.3865,
+    "lng": 7.5424
+  },
+  "websiteUrl": "https://www.faustocoppi.net/new/",
+  "description": "La Granfondo Fausto Coppi hat bereits ihren nächsten Termin: Sonntag, 27. Juni 2027, in Cuneo im Piemont. Die Granfondo über 172 km und rund 4.330 Höhenmeter führt über den Colle Fauniera (2.481 m) mit seinem 22 km langen Anstieg – einer der anspruchsvollsten Pässe der Westalpen. Die Mediofondo misst 111 km mit 2.550 Höhenmetern, dazu kommt die nicht-kompetitive Fauniera Classic über 101 km. Start und Ziel liegen in Cuneo; der Name erinnert an den „Campionissimo“, der 1949 mit seiner legendären Soloflucht auf der Giro-Etappe Cuneo–Pinerolo Radsportgeschichte schrieb. Nach der 37. Ausgabe 2026 zählt die Veranstaltung zu den traditionsreichsten Granfondos Italiens; die Strecken für 2027 sind noch nicht im Detail veröffentlicht.",
+  "distanceKm": 172,
+  "elevationGainM": 4330
+}

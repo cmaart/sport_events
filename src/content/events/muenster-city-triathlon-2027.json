@@ -1,0 +1,26 @@
+{
+  "id": "muenster-city-triathlon-2027",
+  "name": "Sparda Münster City Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Münster",
+    "lat": 51.9607,
+    "lng": 7.6261,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://muenster-triathlon.de",
+  "description": "Der Sparda Münster City Triathlon findet 2027 am Sonntag, 20. Juni statt – es ist die 20. Auflage der Veranstaltung. Geschwommen wird im Aasee, die Radstrecke führt durch das Münsterland und der Lauf durch die Innenstadt. Zur Wahl stehen Volksdistanz, Olympische Distanz und Staffel, außerdem gibt es Inklusions-Wettbewerbe als Einzel und Staffel. Am Vortag bietet der Veranstalter einen Shake-Out-Run an, zur Veranstaltung gehört eine Expo. Die Anmeldung öffnete in den Vorjahren jeweils zu Jahresbeginn; Fotos der Teilnehmenden liefert Sportograf.",
+  "distanceKm": 51,
+  "elevationGainM": 200,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/sparda-munster-city-triathlon/mfsnn62j086l9u6dfpli"
+}

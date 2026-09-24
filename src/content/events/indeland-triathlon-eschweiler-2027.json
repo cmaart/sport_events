@@ -1,0 +1,26 @@
+{
+  "id": "indeland-triathlon-eschweiler-2027",
+  "name": "20. indeland-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Eschweiler",
+    "lat": 50.82,
+    "lng": 6.32,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.indeland-triathlon.de/",
+  "description": "Der 20. indeland-Triathlon findet am 20. Juni 2027 in Eschweiler und Aldenhoven statt – eine Jubiläumsausgabe nach dem Teilnehmerrekord 2026, als Julian Ladwein und Katharina Krüger die Mitteldistanz gewannen. Gestartet wird am Blausteinsee in Eschweiler, die Radstrecke führt einzigartig durch die Tagebaulandschaft der Region Aachen–Düren am aktiven Tagebau Inden vorbei bis zum Römerpark Aldenhoven. Auf dem Programm stehen die Mitteldistanz (1,9 km / 88 km / 20 km), die Olympische Kurzdistanz, eine Sprint- bzw. Volksdistanz, Staffeln sowie Rennen für Jugend und Junioren und die indeland-TriKids. Die Anmeldung für 2027 ist geöffnet, ein Frühbucherrabatt galt bis zum 30. September 2026. Zwischen Start- und Zielbereich verkehrt ein Shuttlebus, im Vorfeld bietet der Veranstalter ein Testschwimmen an.",
+  "distanceKm": 110,
+  "imageUrl": "https://www.indeland-triathlon.de/wp-content/uploads/2024/09/Schwimmen-Ausstieg-2-1500x630.jpg"
+}

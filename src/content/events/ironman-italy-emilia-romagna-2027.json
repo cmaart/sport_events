@@ -1,0 +1,22 @@
+{
+  "id": "ironman-italy-emilia-romagna-2027",
+  "name": "IRONMAN Italy Emilia-Romagna",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-09-18",
+    "end": "2027-09-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cervia",
+    "lat": 44.2597,
+    "lng": 12.3478
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-emilia-romagna",
+  "description": "Der IRONMAN Italy Emilia-Romagna findet 2027 am Samstag, 18. September, in Cervia statt und eröffnet das große IRONMAN-Wochenende an der Adria, an dessen Sonntag der IRONMAN 70.3 folgt. Die Langdistanz im alten Fischerort Cervia war der erste IRONMAN „made in Italy“; die Anmeldung für 2027 war zum Zeitpunkt der Erfassung als „Opening Soon“ angekündigt. Geschwommen werden 3,8 km in einer Runde vom Hauptstrand aus entlang der Küste. Die 180 km lange Radstrecke über zwei Runden startet an der Promenade und führt durch die Landschaft der Romagna und den Salinen-Naturpark mit seinen Flamingos; nach dem Hügelort Bertinoro geht es wieder hinab nach Cervia. Der Marathon besteht aus vier völlig flachen 10-km-Runden durch Cervia und Milano Marittima, entlang des Hafenkanals, über den Platz am historischen Salzlager und durch die mittelalterlichen Stadtmauern bis zum Rathausplatz.",
+  "distanceKm": 226
+}

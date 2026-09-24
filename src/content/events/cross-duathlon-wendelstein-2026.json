@@ -17,8 +17,9 @@
     "lng": 11.151,
     "region": "Bayern"
   },
-  "websiteUrl": "http://teamoptimum.de/",
-  "description": "3. Cross Duathlon Wendelstein – erstmals im Cross-Format auf Gravel und Trail: 6 km Laufen – 20 km Mountainbike – 4 km Laufen, organisiert vom RC Wendelstein 1913. Zusätzlich Jugendrennen und Bambini Run. Saisonabschluss des BTV Memmert Youth Cups, ca. 20 km südöstlich von Nürnberg.",
+  "websiteUrl": "https://teamoptimum.de/duathlon/",
+  "description": "Der 3. Duathlon Wendelstein des RC Wendelstein 1913 (Team Optimum) wird am 10. Oktober 2026 erstmals als Cross-Rennen ausgetragen, rund 20 km südöstlich von Nürnberg. Start und Ziel liegen In der Gibitzen in Wendelstein; die Hauptdistanz führt über 6 km Laufen, 20 km Rad und 4 km Laufen auf Gravel und Trails. Gestartet wird in zwei Wellen – Gravelbikes um 13:30 Uhr, Mountainbikes um 15:15 Uhr –, das Zeitlimit beträgt 2:15 Stunden. Einzelstarter zahlen 45 €, Staffeln 55 €; das Teilnehmerfeld ist auf insgesamt 250 Startende begrenzt, Meldeschluss ist der 30. September 2026. Für den Nachwuchs gibt es überarbeitete Schüler- und Jugendrennen von 1/5,2/0,4 km bis 4,1/10,5/2 km sowie einen 500-m-Bambini-Run. Die Veranstaltung bildet den Saisonabschluss des BTV Memmert Youth Cups.",
   "distanceKm": 30,
-  "imageUrl": "https://teamoptimum.de/wp-content/uploads/2023/11/20230917_duathlon_wendelstein_ogo_0253-1024x660.jpg"
+  "imageUrl": "https://teamoptimum.de/wp-content/uploads/2023/11/20230917_duathlon_wendelstein_ogo_0253-1536x990.jpg",
+  "registrationUrl": "https://spoferan.com/events/3-duathlon-wendelstein"
 }

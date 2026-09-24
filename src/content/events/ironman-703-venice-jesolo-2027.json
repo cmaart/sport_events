@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-venice-jesolo-2027",
+  "name": "IRONMAN 70.3 Venice-Jesolo",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-04-24",
+    "end": "2027-04-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jesolo",
+    "lat": 45.51,
+    "lng": 12.63
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-venice-jesolo",
+  "description": "Der IRONMAN 70.3 Venice-Jesolo findet 2027 am Samstag, 24. April, statt und damit deutlich früher als 2026 (Anfang Mai); laut offizieller Rennseite war die Anmeldung für 2027 bereits im September 2026 ausgebucht. Geschwommen werden 1,9 km in einer Runde gegen den Uhrzeigersinn vor dem Leuchtturm-Strand an der Grenze zwischen Jesolo und Cavallino in der Adria – ideal für Einsteiger wie für Bestzeitjäger. Die flache, schnelle 90-km-Radrunde ist von langen Geraden geprägt und führt durch die Lagunenlandschaft Venedigs nach Cavallino, dann über die Pontonbrücke von Cortellazzo bis in die Gemeinde Eraclea mit ihren Kanälen und auf demselben Weg zurück. Der Halbmarathon besteht aus drei 7-km-Runden über eine schattige Allee und die Strandpromenade am Leuchtturm, das Ziel liegt direkt am Strand. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

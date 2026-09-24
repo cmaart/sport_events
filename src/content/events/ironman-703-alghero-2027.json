@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-alghero-2027",
+  "name": "IRONMAN 70.3 Alghero",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-05-30",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alghero",
+    "lat": 40.5583,
+    "lng": 8.3197
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-alghero",
+  "description": "Der IRONMAN 70.3 Alghero geht 2027 am 30. Mai in seine zweite Auflage – eine Woche früher als bei der Premiere im Juni 2026. Die Mitteldistanz im Nordwesten Sardiniens war laut offizieller Rennseite im Herbst 2026 bereits ausgebucht. Geschwommen werden 1,9 km in einer Runde in der Bucht neben dem Hafen, Start und Ziel liegen am Sandstrand San Giovanni nahe der Altstadt mit Blick auf das Kap Capo Caccia; der Hafen schützt die Strecke, im Frühjahr herrschen meist ruhige Bedingungen. Zur 90 km langen Radstrecke hat der Veranstalter die Detailbeschreibung für 2027 zum Zeitpunkt der Erfassung noch nicht veröffentlicht. Der Halbmarathon besteht aus drei Runden, die den Hafen mit der Küstenstraße nach Süden verbinden, rund um die Gassen der katalanisch geprägten Altstadt und entlang der Stadtmauer am Meer. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

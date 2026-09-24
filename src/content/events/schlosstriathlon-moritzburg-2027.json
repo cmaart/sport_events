@@ -1,0 +1,27 @@
+{
+  "id": "schlosstriathlon-moritzburg-2027",
+  "name": "25. Schloss-Triathlon Moritzburg",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Moritzburg",
+    "lat": 51.159,
+    "lng": 13.682,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://schlosstriathlon.de/",
+  "description": "Der 25. Schloss-Triathlon Moritzburg findet am 12. und 13. Juni 2027 statt – eine Jubiläumsausgabe eines der traditionsreichsten Triathlons Deutschlands rund um das Barockschloss bei Dresden. Das Programm reicht vom „Barockman“ über die Langdistanz (3,8 km / 185 km / 42 km) und die Halbdistanz bis zur Sparkasse-Meißen-Olympischen Distanz und dem LandMAXX-Jedermann-Rennen. Geschwommen wird in den Moritzburger Teichen, die Radstrecken führen durch die sächsische Hügellandschaft zwischen Dresden und Meißen. Traditionell sind die langen Distanzen am Samstag, Sprint und Olympisch am Sonntag. Die Online-Anmeldung für 2027 öffnet Anfang Januar 2027; organisiert wird das Rennen vom Moritzburger Triathlonverein nach dem Motto „von Triathleten für Triathleten“.",
+  "distanceKm": 113,
+  "imageUrl": "https://schlosstriathlon.de/app/uploads/2026/05/Moritzburg-von-oben.webp"
+}

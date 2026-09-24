@@ -1,0 +1,24 @@
+{
+  "id": "mainfrankentriathlon-kitzingen-2027",
+  "name": "eology Mainfrankentriathlon Kitzingen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kitzingen",
+    "lat": 49.744,
+    "lng": 10.191,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.mainfrankentriathlon.de/",
+  "description": "Der eology Mainfrankentriathlon in Kitzingen findet 2027 am Samstag, 31. Juli statt, veranstaltet von ULTRA RACE. Geschwommen wird flussabwärts im Main – der Veranstalter wirbt mit der „schnellsten Schwimmstrecke“ –, die Radrunden führen durch den Weinlandkreis, gelaufen wird am Mainufer über zwei Brücken. Über die Olympische Distanz (1,67 km / 40 km / 10 km) mit Anstieg bei Frickenhausen wird zugleich eine Wertung der Triathlon-Landesliga Nord Bayern ausgetragen. Im Sprint (0,6 / 20 / 5 km, Anstieg bei Sulzfeld) wird die Meisterschaft der deutschen Bürgermeister entschieden. Beide Distanzen sind auch als Staffel startbar, die Anmeldung für 2027 öffnet in Kürze.",
+  "distanceKm": 52,
+  "imageUrl": "https://www.mainfrankentriathlon.de/wp-content/uploads/sites/2/2018/10/mainfrankentriathlon-2017-5110-640x360.jpg"
+}

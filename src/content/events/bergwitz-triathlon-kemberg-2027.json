@@ -1,0 +1,25 @@
+{
+  "id": "bergwitz-triathlon-kemberg-2027",
+  "name": "36. Bergwitztriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-11",
+    "end": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kemberg-Bergwitz",
+    "lat": 51.9439,
+    "lng": 12.6439,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.bergwitztriathlon.de/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/saxe-anhalt/bergwitztriathlon/agp3eep9l1adevz3hqii",
+  "description": "Der 36. Bergwitztriathlon findet am Samstag, 11. September 2027 am Bergwitzsee bei Kemberg in Sachsen-Anhalt statt. Die traditionsreiche Vereinsveranstaltung bündelt fünf Rennen an einem Tag in einer gemeinsamen Wechselzone: Sprint, Staffel, Jedermann, die BergKIDS-Rennen und das Landesliga-Finale Sachsen-Anhalt. Insgesamt stehen rund 520 Startplätze zur Verfügung. Der ehemalige Tagebausee bietet klares Wasser für den Schwimmpart, die Rad- und Laufrunden führen durch die umliegende Seenlandschaft. Die Teilnehmenden bewerten das Rennen mit 4,4 von 5 Sternen, der Verein betont den familiären Charakter „für Neugierige, Rookies und Ersttäter“.",
+  "distanceKm": 51
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-bolton-2027",
+  "name": "IRONMAN 70.3 Bolton",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bolton",
+    "lat": 53.5789,
+    "lng": -2.433
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-bolton",
+  "description": "Der IRONMAN 70.3 Bolton findet 2027 am 6. Juni im Nordwesten Englands statt; die allgemeine Anmeldung war laut offizieller Rennseite bereits im September 2026 ausgebucht. Geschwommen werden 1,9 km in einer Runde im Pennington Flash Country Park bei Leigh, wo die Zuschauer am Ufer den kurzen Weg zur Wechselzone säumen. Die 90 km Radstrecke beginnt mit zwei Schleifen durch die Dörfer Lowton, Abram und Bickershaw und führt dann nach Norden Richtung Bolton auf Straßen, die Teilnehmer früherer IRONMAN-UK-Rennen kennen. In der zweiten Hälfte folgen zwei Runden über Horwich und Bolton mit Publikum an der Chorley New Road; den Hauptanstieg bildet ein Wendepunktabschnitt über Victoria Road und Old Kiln Road, insgesamt sind es rund 840 Höhenmeter. Der Halbmarathon läuft in zwei Runden durch das Stadtzentrum und den Queen's Park bis zum Ziel vor dem historischen Rathaus von Bolton. Das Rennen vergibt Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113,
+  "elevationGainM": 840
+}

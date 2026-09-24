@@ -1,0 +1,22 @@
+{
+  "id": "stadttriathlon-forchheim-2027",
+  "name": "14. StadtTriathlon Forchheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Forchheim",
+    "lat": 49.7198,
+    "lng": 11.0581,
+    "region": "Bayern"
+  },
+  "description": "Der 14. StadtTriathlon Forchheim findet voraussichtlich am 13. Juni 2027 statt, wie der SSV Forchheim nach der Rekordbeteiligung 2026 angekündigt hat. Der Sprint-Triathlon führt durch das historische Stadtbild Forchheims am Tor zur Fränkischen Schweiz. Die Veranstaltung wurde vom Bayerischen Triathlon-Verband für nachhaltigen Umgang mit Ressourcen ausgezeichnet – etwa für nachhaltige Finisher-Geschenke, Barrierefreiheit und kurze Wege am Wettkampfort. Der Verein legt Wert auf ein Miteinander von Breiten- und Leistungssport. Da der Termin als „voraussichtlich“ angegeben ist, gilt er als vorläufig.",
+  "imageUrl": "https://stadttriathlon-forchheim.de/wp-content/uploads/2018/03/Home-Banner-StadtTria1-min.jpg",
+  "websiteUrl": "https://stadttriathlon-forchheim.de/"
+}

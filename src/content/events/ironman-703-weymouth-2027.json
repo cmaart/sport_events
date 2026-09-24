@@ -1,0 +1,22 @@
+{
+  "id": "ironman-703-weymouth-2027",
+  "name": "IRONMAN 70.3 Weymouth",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weymouth",
+    "lat": 50.6102,
+    "lng": -2.4564
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-weymouth",
+  "description": "Der IRONMAN 70.3 Weymouth an der englischen Südküste findet 2027 am 12. September statt, eine Woche früher als 2026. Geschwommen werden 1,9 km in einer L-förmigen Runde im Uhrzeigersinn vom Strand von Weymouth aus – 750 m hinaus, dann zwei Rechtskurven zurück Richtung Ausstieg. Die 90 km lange Radrunde führt gegen den Uhrzeigersinn durch die hügelige Landschaft Dorsets nach Norden bis King's Stag und über Godmanstone und Dorchester zurück nach Weymouth. Die überarbeitete Laufstrecke über 2,5 Runden führt vom Wechselbereich zum Overcombe-Kreisel, entlang der Strandpromenade, am Ziel vorbei und in einem Wendepunktabschnitt über den belebten Custom House Quay unter der Town Bridge hindurch. Weymouth war Austragungsort der Segelwettbewerbe bei den Olympischen Spielen 2012. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113
+}

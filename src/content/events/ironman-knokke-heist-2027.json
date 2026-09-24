@@ -1,0 +1,22 @@
+{
+  "id": "ironman-knokke-heist-2027",
+  "name": "IRONMAN Belgium Knokke-Heist",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Knokke-Heist",
+    "lat": 51.36,
+    "lng": 3.3
+  },
+  "websiteUrl": "https://www.ironman.com/races/im-knokke-heist",
+  "description": "Der IRONMAN Belgium Knokke-Heist am 5. September 2027 ist die erste IRONMAN-Langdistanz in der Geschichte Belgiens; er ersetzt den bisherigen IRONMAN 70.3 Knokke-Heist, der laut offizieller Rennseite eingestellt wurde. Geschwommen werden 3,8 km in einer Runde in der Damsche Vaart im historischen Festungsstädtchen Sluis auf niederländischer Seite – ohne Gezeiten und ohne Wellen. Die Radstrecke ist laut Veranstalter flach und führt durch die Polderlandschaft der Region. Der abschließende Marathon verläuft in zwei Runden entlang des Strandes und über den Zeedijk von Knokke-Heist, wo die Einwohner die Teilnehmenden bis ins Ziel anfeuern. Knokke-Heist gilt als grünste Gemeinde der belgischen Küste mit Stränden, Dünen, Salzwiesen und dem Naturschutzgebiet Zwin. Die Anmeldung war zum Zeitpunkt der Erfassung als „Opening Soon“ angekündigt; vergeben werden Slots für die IRONMAN-Weltmeisterschaft.",
+  "distanceKm": 226
+}

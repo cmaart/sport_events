@@ -18,5 +18,6 @@
   "websiteUrl": "https://challengefamily.com/races/the-championship/",
   "imageUrl": "https://thechampionship.de/wp-content/uploads/sites/5/2022/09/tc-iden-win.jpg",
   "description": "The Championship – das Flaggschiff- und Qualifikationsfinale der Challenge Family – wird 2027 am 23. Mai am x-bionic sphere in Šamorín ausgetragen, rund 25 Minuten von Bratislava entfernt. Für 2027 läuft das Rennen im neuen 100er-Format (T100) über 2 km Schwimmen, 80 km Rad und 18 km Laufen. Geschwommen wird über 2 km im klaren, frischen Wasser des Donaukanals mit exzellenten Sichtpositionen für Zuschauer direkt am Resort. Der 80 km lange Radkurs ist auf gesperrten Straßen blitzschnell und flach (nur rund 68 Höhenmeter). Der 18-km-Lauf verläuft komplett innerhalb der x-bionic-sphere-Anlage und fordert mit vier verschiedenen Untergründen – Gras, Sand, Asphalt und Kopfsteinpflaster. Weltklasse-Profis und qualifizierte Altersklassen-Starter kämpfen hier auf derselben Strecke um den Titel; die Anmeldung ist geöffnet.",
-  "distanceKm": 100
+  "distanceKm": 100,
+  "elevationGainM": 68
 }

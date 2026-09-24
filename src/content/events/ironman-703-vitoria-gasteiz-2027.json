@@ -1,0 +1,23 @@
+{
+  "id": "ironman-703-vitoria-gasteiz-2027",
+  "name": "IRONMAN 70.3 Vitoria-Gasteiz",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vitoria-Gasteiz",
+    "lat": 42.8467,
+    "lng": -2.6726
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-vitoria",
+  "description": "Der IRONMAN 70.3 Vitoria-Gasteiz wird 2027 am 11. Juli gemeinsam mit dem IRONMAN Vitoria-Gasteiz über die Langdistanz im Baskenland ausgetragen; die Mitteldistanz war laut offizieller Rennseite bereits im September 2026 ausgebucht. Geschwommen werden 1,9 km in einer Runde im Ulibarri-Gamboa-Stausee („Landa“) im Provinzpark Landa, rund 20 km außerhalb der Stadt, mit Wasser in Trinkwasserqualität. Die 90 km lange Radrunde mit rund 500 Höhenmetern führt durch die schönsten Orte der Provinz Álava und teilt sich einen Abschnitt mit dem Jakobsweg; die Straßen haben nur geringe Steigungen. Der Halbmarathon verläuft in zwei Runden flach und schnell durch die Innenstadt von Vitoria-Gasteiz, laut Veranstalter mit nur rund 240 Höhenmetern Gesamtanstieg. Das Ziel liegt auf der historischen Plaza de España. Vergeben werden Slots für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113,
+  "elevationGainM": 500
+}
