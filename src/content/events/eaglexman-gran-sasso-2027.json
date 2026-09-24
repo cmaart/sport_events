@@ -1,0 +1,22 @@
+{
+  "id": "eaglexman-gran-sasso-2027",
+  "name": "eagleXman",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-07-17",
+    "end": "2027-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Assergi",
+    "lat": 42.417,
+    "lng": 13.51
+  },
+  "websiteUrl": "https://eaglexman.com/",
+  "description": "Der eagleXman findet 2027 am Samstag, 17. Juli im Gran-Sasso-Massiv der Abruzzen statt – der Veranstalter hat den Renntag bereits veröffentlicht, ebenso die Wettkampfregeln 2027 für alle Formate. Der Extrem-Triathlon auf Volldistanz beginnt mit dem Schwimmen im Lago di Campotosto, führt über 180 km Rad durch das Bergland des Nationalparks Gran Sasso e Monti della Laga und endet nach einem Marathon mit Bergankunft am Campo Imperatore auf rund 2.100 m Höhe. Neben der vollen Distanz werden das eagleXman 113 als Halbdistanz und ein X-Olympic-Format angeboten. Das Motto des Rennens lautet „Only who dares may fly“ nach Luis Sepúlveda. Die Registrierung für 2027 ist geöffnet.",
+  "distanceKm": 226
+}

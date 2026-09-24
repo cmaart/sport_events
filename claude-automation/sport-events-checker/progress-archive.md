@@ -1,5 +1,15 @@
 # Sport Events Checker – Session Progress (Archiv)
 
+
+## Session 2026-09-16 — Season-Umbau + 2027-Seed (Welle 1)
+
+- **Infrastruktur (Commit 475309d):** Saison-Modell eingeführt — Event gehört zur Saison seines Startjahres, `SEASONS=[2026,2027]`, UI-Default 2027. Filter-Toggle mit Zählern, localStorage (`sport_events.season.v1`) + `?saison=`-Param (URL gewinnt). Landingpages `[year].astro` pro Sport × Land × Jahr; Header/Footer/Breadcrumbs jahresbewusst. Detailseite verlinkt Geschwister-Ausgaben („Weitere Ausgaben").
+- **2027-Seed (15 neu, Limit voll):** ironman-frankfurt (27.06.), ironman-hamburg (06.06.), ironman-austria-kaernten (13.06.), ironman-switzerland-thun (04.07.), ironman-copenhagen (22.08.), challenge-roth (04.07.), oetztaler-radmarathon (29.08.), glocknerkoenig (06.06.), dolomitenradrundfahrt (13.06.), kitzbueheler-radmarathon (05.09.), cyclassics-hamburg (15.08.), eschborn-frankfurt-jedermann (01.05.), maratona-dles-dolomites (04.07.), mallorca-312 (24.04.), race-around-austria (09.–15.08.). Alle Termine gegen offizielle Seiten/JSON-LD verifiziert.
+- **Abweichung von Enrichment-first:** 0 Bestandsevents veredelt — bewusst, weil die UI ab sofort 2027 zeigt und die Saison sonst leer wäre.
+- Build grün: 1203 pages, 0 errors.
+
+---
+
 ## Quellen-Durchgang: 2026-08-19 (Enrichment- & Verifikations-Wartungslauf)
 
 Reiner Qualitäts-/Tiefen-Lauf: **0 Neuanlagen** (Anti-Flut — bei 176 dünnen upcoming-Beschreibungen ausschließlich veredelt). 4 Research-Agents haben 24 künftige Events (soonest-first, 23.–30.08.2026, AT/DE + CH/NO/IE/GB/HU/FI/PL/RO) gegen offizielle Veranstalter-/Verbands-/Serienquellen verifiziert und angereichert; Aggregatoren nur Discovery, kein prommer.net. Jedes veredelte Event hat ein offiziell bestätigtes 2026-Datum — **0 Removals** (alle 24 bestätigt). SEO/noindex/Sitemap-Infrastruktur (date-driven in `astro.config.mjs`, `noindex, follow` + Sitemap-Ausschluss für past) und JSON-LD (`SportsEvent`) intakt geprüft — keine Code-Änderung nötig.

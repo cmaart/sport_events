@@ -1,0 +1,25 @@
+{
+  "id": "chtriman-gravelines-2027",
+  "name": "Ch'triman Gravelines",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Duathlon"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gravelines",
+    "lat": 50.9867,
+    "lng": 2.1283
+  },
+  "websiteUrl": "https://www.chtriman.com/",
+  "registrationUrl": "https://www.chtriman.com/inscriptions/",
+  "description": "Der Ch'triman findet am 26. und 27. Juni 2027 in Gravelines an der Côte d'Opale zwischen Calais und Dunkerque statt und wirbt als „Triathlon Made in Flandres“. Hauptrennen ist der Chtriman 226 über die volle Langdistanz, der am Sonntag, 27. Juni, um 7:00 Uhr startet; um 11:30 Uhr folgt der Chtriman 113 über die Mitteldistanz. Dazu kommen ein Duathlon 111, ein Swim-&-Bike-Format (L) sowie die Kurzformate Chtri S und XS und Jugendrennen. Das Rennen entstand 2009 in Cambrai, als der Verein Cambrai Triathlon eine Veranstaltung über die „Ironman“-Distanz ins Leben rief, und ist inzwischen in Gravelines beheimatet. Die Anmeldung für die Langdistanz-Formate ist seit dem 14. September 2026 geöffnet. 2026 wurden die Kurzdistanz-Rennen am Samstag per Präfekturerlass wegen der Hitzewarnstufe Rot („vigilance rouge canicule“) untersagt.",
+  "distanceKm": 226
+}
