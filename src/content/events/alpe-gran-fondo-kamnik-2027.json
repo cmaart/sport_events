@@ -1,0 +1,22 @@
+{
+  "id": "alpe-gran-fondo-kamnik-2027",
+  "name": "Alpe Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kamnik",
+    "lat": 46.2344,
+    "lng": 14.6097
+  },
+  "websiteUrl": "https://alpegf.eu/en/home/",
+  "description": "Die Alpe Gran Fondo findet am Samstag, 29. Mai 2027, zum vierten Mal in Kamnik statt; die Anmeldung für 2027 ist bereits geöffnet. Start und Ziel liegen auf dem Hauptplatz im Stadtzentrum von Kamnik, gestartet wird auf allen Strecken um 9:00 Uhr. Die Pro-Strecke über 130 km und rund 2.000 Höhenmeter umrundet die Steiner Alpen (Kamniško-Savinjske Alpe) über Črnivec, Pavličevo sedlo und Jezersko. Die Hobby-Strecke misst 75 km mit rund 1.450 Höhenmetern. Teilnehmer wählen zwischen den Paketen Timing, T-Shirt oder Radtrikot; Finisher-Medaille, Urkunde und warmes Essen im Ziel sind immer inklusive. Ab 2027 ist die Veranstaltung zudem Teil der Gran Fondo World Tour.",
+  "distanceKm": 130,
+  "elevationGainM": 2000
+}

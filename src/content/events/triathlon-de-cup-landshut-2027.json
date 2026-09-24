@@ -1,0 +1,27 @@
+{
+  "id": "triathlon-de-cup-landshut-2027",
+  "name": "4. triathlon.de CUP Landshut",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Landshut",
+    "lat": 48.5378,
+    "lng": 12.1518,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon.de/pages/triathlon-de-cup-landshut",
+  "description": "Der 4. triathlon.de CUP Landshut findet am 23. Mai 2027 statt und wird damit zum Saisonauftakt in Niederbayern – rund fünf Wochen früher als 2026. Ausgetragen wird der Wettkampf entlang der Isar, geschwommen wird im Naherholungsgebiet Gretlmühle. Zur Wahl stehen Mitteldistanz (1,9 km / 80 km / 20,6 km), Olympische Distanz, Volksdistanz und ein Schnuppertriathlon, offen für alle Leistungsniveaus vom Hobbysportler bis zum Profi. 2026 wurde im Rahmen des Rennens die Bayerische Meisterschaft über die Mitteldistanz ausgetragen. Die Anmeldung für 2027 ist noch nicht geöffnet; ein Rahmenprogramm ergänzt das Rennen.",
+  "distanceKm": 103,
+  "elevationGainM": 500,
+  "imageUrl": "https://i.shgcdn.com/c88a330f-a359-46f6-9d3f-9f843512ab27/-/format/auto/-/quality/normal/"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "la-reine-gstaad-2027",
+  "name": "La Reine – Strictly Female Cycling Festival Gstaad",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-17",
+    "end": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gstaad",
+    "lat": 46.4756,
+    "lng": 7.2871
+  },
+  "websiteUrl": "https://www.lareine.cc/",
+  "description": "La Reine bringt vom 17. bis 19. Juni 2027 die Women's Cycling Week nach Gstaad im Berner Oberland – ein Radsportfestival ausschließlich für Frauen. Das Programm kombiniert Granfondo, Mediofondo und ein Bergzeitfahren als Prolog; zuletzt maß die Granfondo 140 km mit 3.000 Höhenmetern, die Mediofondo 90 km mit 1.800 Höhenmetern. Die Teilnehmerzahl ist begrenzt, um eine persönliche Atmosphäre zu gewährleisten. Neben Gstaad veranstaltet La Reine auch einen Women's Gran Fondo in Freiburg im Breisgau. Ziel des Formats ist es, Frauen im Ausdauerradsport eine eigene große Bühne zu geben.",
+  "distanceKm": 140,
+  "elevationGainM": 3000,
+  "imageUrl": "https://static.wixstatic.com/media/c51075_af2ae1f7cbb145ffa5fef7a452f40a9a~mv2.jpg"
+}

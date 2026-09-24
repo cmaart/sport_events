@@ -1,0 +1,22 @@
+{
+  "id": "cykelvasan-90-mora-2027",
+  "name": "Cykelvasan 90",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2027-08-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sälen/Mora",
+    "lat": 61.1583,
+    "lng": 13.2626
+  },
+  "websiteUrl": "https://vasaloppet.se/en/bike/cykelvasan-90/",
+  "description": "Die Cykelvasan 90 findet am Samstag, 14. August 2027, auf der legendären Vasaloppet-Strecke von Sälen nach Mora statt. Die 92 km führen über Forstwege und Bohlenstege über Moore, durch lichte Kiefernwälder und vorbei an Almhütten bis ins Ziel in Mora. Start ist um 8:00 Uhr für Frauen und 9:00 Uhr für Männer, die Tourenklasse startet ab 9:15 Uhr; Mindestalter ist 12 Jahre. Das Rennen wird live im schwedischen Fernsehen SVT übertragen, die Siegerin und der Sieger erhalten je 40.000 SEK Trainingsförderung. Die Anmeldung ist geöffnet: Bis 30. April 2027 kostet der Start für Erwachsene 2.055 SEK, danach steigen die Preise. Die Cykelvasan 90 zählt zur Vasaloppstrippeln 90.",
+  "distanceKm": 92,
+  "imageUrl": "https://vasaloppet.se/en/wp-content/uploads/sites/3/2025/12/cykel_90_v2_1920x1280.jpg"
+}

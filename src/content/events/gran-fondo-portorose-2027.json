@@ -1,0 +1,21 @@
+{
+  "id": "gran-fondo-portorose-2027",
+  "name": "Gran Fondo Portorož",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2027-02-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Portorož",
+    "lat": 45.5118,
+    "lng": 13.5935
+  },
+  "websiteUrl": "https://www.sportoroz.eu/gran-fondo/",
+  "description": "Die 8. Gran Fondo Portorose ist für Sonntag, 28. Februar 2027, angekündigt und gilt als traditioneller Saisonauftakt des slowenischen Straßenradsports an der Adria. Start und Ziel liegen im Badeort Portorož an der slowenischen Küste. Angeboten werden mehrere Distanzen bis zur 135 km langen Königsstrecke, die durch das istrische Hinterland bis in die kroatische Küstenlandschaft führt; zuletzt standen 42, 56, 85 und 135 km zur Wahl. Die milden Temperaturen am Mittelmeer machen den Termin Ende Februar zum beliebten ersten Formtest der Saison. Veranstalter ist der Verein Sportoroz Portorož, der zusätzlich ein Parenzana-Gravelrennen organisiert. Die Anmeldung für 2027 öffnet laut Veranstalter in Kürze.",
+  "distanceKm": 135
+}

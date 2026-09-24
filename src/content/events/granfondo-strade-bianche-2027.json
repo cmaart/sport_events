@@ -19,5 +19,6 @@
   "registrationUrl": "https://in.njuko.com/gran-fondo-strade-bianche-estra-2027-go",
   "description": "Die Granfondo Strade Bianche führt am 7. März 2027 über die weißen Schotterstraßen („strade bianche\") des Sieneser Hügellands – Start an der Fortezza Medicea, Zieleinlauf auf der berühmten muschelförmigen Piazza del Campo von Siena. Die Gran-Fondo-Distanz misst 137,7 km mit 2.000 Höhenmetern und zehn Schottersektoren; die Medio Fondo bietet 87 km mit 1.350 Höhenmetern und sechs Sektoren. Gefahren wird auf denselben Sterrato-Abschnitten wie beim Profirennen Strade Bianche, das als „südlichster der nördlichen Klassiker\" gilt. Rennrad wie Gravelbike sind geeignet; die staubigen oder schlammigen Schotterpassagen prägen das Erlebnis. Die direkten Startplätze sind für 2027 bereits ausverkauft – Kontingente gibt es noch über Charity- und Reiseveranstalter.",
   "distanceKm": 137.7,
-  "elevationGainM": 2000
+  "elevationGainM": 2000,
+  "imageUrl": "https://gfstradebianche.it/wp-content/uploads/2024/09/gfstradebianche-header.jpg"
 }

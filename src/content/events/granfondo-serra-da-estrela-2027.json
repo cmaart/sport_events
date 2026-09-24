@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-serra-da-estrela-2027",
+  "name": "Granfondo Serra da Estrela",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Manteigas",
+    "lat": 40.3993,
+    "lng": -7.5335
+  },
+  "websiteUrl": "https://granfondoserradaestrela.com/",
+  "description": "Die 12. Granfondo Serra da Estrela findet am 27. Juni 2027 statt und ist die größte Radtouristik-Veranstaltung Portugals. Start und Ziel liegen in Manteigas, die Route führt über Seia hinauf zum Torre, mit 1.993 m der höchste Punkt des portugiesischen Festlands. Die Granfondo bringt rund 4.200 Höhenmeter mit sich, die Mediofondo über 102 km rund 2.800 Höhenmeter. Die Anstiege der Serra da Estrela sind aus der Volta a Portugal bekannt und gelten als die härteste Herausforderung im portugiesischen Radsport. Die Anmeldung ist über die offizielle Website geöffnet, auf der bereits der Countdown bis zum Start läuft.",
+  "elevationGainM": 4200,
+  "imageUrl": "https://granfondoserradaestrela.com/wp-content/uploads/2026/03/JOC_1439.webp"
+}

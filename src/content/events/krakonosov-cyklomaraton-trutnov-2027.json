@@ -1,0 +1,22 @@
+{
+  "id": "krakonosov-cyklomaraton-trutnov-2027",
+  "name": "Krakonošův cyklomaraton",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trutnov",
+    "lat": 50.5607,
+    "lng": 15.9088
+  },
+  "websiteUrl": "https://krakonosuvcyklomaraton.cz/",
+  "description": "Der Casia Krakonošův cyklomaraton geht am 12. Juni 2027 in seine 14. Ausgabe; die Anmeldung ist bereits geöffnet. Start und Ziel liegen am Kulturzentrum UFFO in Trutnov am Fuß des Riesengebirges. Die lange Strecke misst rund 148 km, die kurze rund 101 km – beide führen durch das östliche Riesengebirge mit teils steilen Anstiegen und einer Fanzone in Pec pod Sněžkou. Früh Entschlossene sparen: Bis 31. Dezember 2026 kostet der Start 1.290 Kč (kurz) bzw. 1.490 Kč (lang), danach steigen die Preise stufenweise bis 2.600 Kč bei Nachmeldung vor Ort. Titelsponsor Casia hat seine Partnerschaft bis 2031 verlängert.",
+  "distanceKm": 148,
+  "imageUrl": "https://krakonosuvcyklomaraton.cz/wp-content/uploads/2024/06/dsc-38-1536x1024.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "alsacienne-cyclosportive-2027",
+  "name": "L'Alsacienne Cyclosportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kruth",
+    "lat": 47.9022,
+    "lng": 6.9514
+  },
+  "websiteUrl": "https://www.alsacienne-cyclo.org",
+  "description": "L'Alsacienne Cyclosportive findet am Sonntag, 27. Juni 2027, in Kruth im Haut-Rhin statt; die Anmeldung öffnet am 1. Februar um 9:00 Uhr. Ab dem Lac de Kruth-Wildenstein stehen fünf Strecken zur Wahl: drei zeitgenommene Parcours über 120, 150 und 195 km sowie zwei Randonnées über 56 und 75 km. Die Königsdistanz über 195 km und rund 4.900 Höhenmeter überquert 13 Cols der Südvogesen, darunter Grand Ballon, Markstein und Petit Ballon. Die Veranstalter werben mit gesicherten Strecken, für Radfahrer reservierten Pässen, abgesicherten Kreuzungen und geschützten Verpflegungsstellen. Das Teilnehmerfeld ist auf 3.500 Plätze begrenzt. Die Alsacienne versteht sich als „Gran Fondo des Vosges“ im Herzen des Elsass.",
+  "distanceKm": 195,
+  "elevationGainM": 4900
+}

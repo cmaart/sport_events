@@ -1,0 +1,21 @@
+{
+  "id": "ronde-van-noord-holland-alkmaar-2027",
+  "name": "Ronde van Noord-Holland",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-04-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alkmaar",
+    "lat": 52.6324,
+    "lng": 4.7534
+  },
+  "websiteUrl": "https://www.rondevannoordholland.nl/",
+  "description": "Die Ronde van Noord-Holland findet 2027 am Samstag, 10. April, statt – der Veranstalter Le Champion hat das Datum bereits als „Save the date“ veröffentlicht. Die Tourenfahrt gehört zu den größten Radsportveranstaltungen der Niederlande und blickt auf mehr als fünf Jahrzehnte Geschichte zurück. Zur Wahl stehen Strecken über 85, 110, 160 und 250 km, gestartet werden kann in Alkmaar, Hoorn oder Purmerend. Die Routen führen durch grüne Polder, vorbei an historischen Stolpboerderijen und Windmühlen  sowie über Deichwege. Da das Gelände flach ist, entscheiden oft Wind und Gruppendynamik über die Anstrengung. Mitglieder von Le Champion erhalten Rabatt auf das Startgeld.",
+  "distanceKm": 250
+}

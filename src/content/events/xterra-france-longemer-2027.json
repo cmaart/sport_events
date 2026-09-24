@@ -1,0 +1,23 @@
+{
+  "id": "xterra-france-longemer-2027",
+  "name": "XTERRA France",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-07-03",
+    "end": "2027-07-04",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Xonrupt-Longemer",
+    "lat": 48.05,
+    "lng": 6.9333
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-france",
+  "description": "Die XTERRA France am Lac de Longemer bei Xonrupt in den Vogesen ist für den 3. und 4. Juli 2027 angekündigt; XTERRA weist darauf hin, dass die Angaben noch nicht bestätigt sind. Mit über 2.000 Teilnehmenden über alle Disziplinen gehört das Wochenende zu den größten XTERRA-Events Europas, oft verschärft durch raues Vogesenwetter. Die Full Distance für Elite und Altersklassen am Sonntag umfasst 1,5 km Schwimmen im Bergsee, 40 km Mountainbike mit rund 1.300 Höhenmetern und 10 km Trailrun. Am Samstag stehen E-Bike-Triathlon (E-TERRA), SwimRun im Team und solo sowie Kinderrennen an, dazu ein Sprint (500 m / 20 km / 5 km). Vergeben werden 56 WM-Slots und 15.000 € Elite-Preisgeld.",
+  "distanceKm": 51.5,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/118032/conversions/5Hv4roD0esjFTtvhM7ztp15XVIHS1Ai6LkSn47Z1-web.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "eiger-bike-challenge-2027",
+  "name": "Eiger Bike Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-14",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grindelwald",
+    "lat": 46.6245,
+    "lng": 8.0412
+  },
+  "websiteUrl": "https://www.eigerbike.ch/",
+  "description": "Die Eiger Bike-Challenge findet am 14. und 15. August 2027 in Grindelwald im Berner Oberland statt. Alle Rennen starten am Bärplatz vor der Kulisse der Eiger-Nordwand. Die Königsdistanz über 80 km bringt rund 4.200 Höhenmeter mit sich, die 50-km-Marathonstrecke etwa 2.500 Höhenmeter – beide gelten als klassische, technisch anspruchsvolle Mountainbike-Marathons. Kürzere Fun-Strecken über 45, 30 und 20 km lassen sich teils auch mit dem Gravelbike fahren, dazu gibt es eine ELKI-Kategorie für ein Erwachsenes und ein Kind. Die Strecken führen durch das UNESCO-Welterbe Swiss Alps Jungfrau-Aletsch. Mit über 1.000 Teilnehmenden gehört die Eiger Bike-Challenge zu den größten Bike-Events der Schweiz.",
+  "distanceKm": 80,
+  "elevationGainM": 4200,
+  "imageUrl": "https://www.eigerbike.ch/wp-content/uploads/background/bg-12.jpg"
+}

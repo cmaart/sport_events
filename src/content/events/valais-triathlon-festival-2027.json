@@ -1,0 +1,26 @@
+{
+  "id": "valais-triathlon-festival-2027",
+  "name": "Valais Triathlon Festival",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-13",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sion – Domaine des Îles",
+    "lat": 46.2333,
+    "lng": 7.369
+  },
+  "websiteUrl": "https://valaistriathlon.ch/en/",
+  "description": "Das Valais Triathlon Festival geht vom 13. bis 15. August 2027 in seine vierte Auflage, wie die Veranstalter auf ihren offiziellen Kanälen angekündigt haben; eine Vorregistrierung mit den besten Tarifen ist bereits geöffnet. Nach Angaben der Organisatoren ist es der einzige Triathlon der Schweiz, der alle Distanzen anbietet. Austragungsort ist das Naherholungsgebiet Domaine des Îles in Sion im Rhonetal, geschwommen wird im See. Auf dem Programm stehen Langdistanz (3,8 / 180 / 42,2 km), Halbdistanz (1,9 / 90 / 21,1 km), Olympische Distanz (1,5 / 40 / 10 km) und Sprint (500 m / 20 / 5 km), dazu Discovery-, Kinder- und Familienstaffel-Formate sowie Stand-up-Paddle-Rennen. Die Radstrecken führen durch das von Bergen gesäumte Walliser Rhonetal.",
+  "distanceKm": 226,
+  "imageUrl": "https://images.ctfassets.net/ukaa6ik2569a/49zrIa0Is3WEBg1CqE5uop/66a7ce0a22ca50903f555ac3325b3607/erlebnis_top-events_keyvisual2.jpg"
+}

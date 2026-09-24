@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-bgy-bergamo-2027",
+  "name": "Granfondo BGY Bergamo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bergamo",
+    "lat": 45.6953,
+    "lng": 9.6772
+  },
+  "websiteUrl": "https://www.granfondobgy.it/en/",
+  "description": "Die Granfondo BGY Airport Bergamo findet am Sonntag, 9. Mai 2027, statt; die Online-Anmeldung ist bereits geöffnet. Start und Ziel liegen in Bergamo, nur fünf Minuten vom Flughafen Orio al Serio entfernt – ideal für Anreisende aus dem Ausland. Zur Wahl stehen drei Strecken: Long über 148 km, Medium über 130 km und Short über 91 km durch die Bergamasker Voralpen und die Täler der Provinz. Die lange Strecke bringt rund 2.800 Höhenmeter mit sich. Die Veranstaltung steht seit 1996 im Kalender und hat nach Angaben des Veranstalters bereits über 100.000 Starter verzeichnet; 2026 kamen trotz Regen rund 1.700 Radfahrer zur 30. Jubiläumsausgabe. Die Oberstadt Città Alta mit ihren venezianischen Mauern bildet die Kulisse.",
+  "distanceKm": 148,
+  "elevationGainM": 2800,
+  "imageUrl": "https://www.granfondobgy.it/wp-content/uploads/2026/05/004-BGY_GRANFONDO2026-%C2%A9FotoQuaranta--1200x800.jpg"
+}

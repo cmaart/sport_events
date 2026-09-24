@@ -1,0 +1,23 @@
+{
+  "id": "xterra-slovakia-banska-stiavnica-2027",
+  "name": "XTERRA Slovakia",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Banská Štiavnica",
+    "lat": 48.4575,
+    "lng": 18.8966
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-slovakia",
+  "description": "Die XTERRA Slovakia findet am 25. und 26. Juni 2027 in der Bergbaustadt Banská Štiavnica statt, einer UNESCO-Welterbestätte inmitten erloschener Vulkanberge; die Registrierung ist geöffnet. Hauptrennen am Samstag ist die Full Distance über 1,5 km Schwimmen in einem der historischen Tajchy-Stauseen, 33 km Mountainbike und 10 km Trailrun, einzeln oder als Staffel. Außerdem gibt es einen Sprint (750 m / 16 km / 5 km) als Qualifikation für Jugend B und Junioren sowie einen Super Sprint. Am Freitag stehen ein 5-km-Benefizlauf und Kinderläufe auf dem Programm. Vergeben werden 26 WM-Slots, erwartet werden über 500 Teilnehmende.",
+  "distanceKm": 44.5,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/143303/conversions/qcoxl7Lu4WEqUzOIDZcOnaxcEV64VSCFuw3bvP3l-web.jpg"
+}

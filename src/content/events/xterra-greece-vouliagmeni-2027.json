@@ -1,0 +1,23 @@
+{
+  "id": "xterra-greece-vouliagmeni-2027",
+  "name": "XTERRA Greece",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "GR",
+  "dates": {
+    "start": "2027-04-23",
+    "end": "2027-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vouliagmeni (Athen-Riviera)",
+    "lat": 37.8096,
+    "lng": 23.7857
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-greece",
+  "description": "Die XTERRA Greece findet vom 23. bis 25. April 2027 an der Athener Riviera in Vouliagmeni statt; die Registrierung ist geöffnet. Hauptrennen ist die Full Distance am Samstag, 24. April, über 1.500 m Schwimmen im Meer, 30 km Mountainbike und 11 km Trailrun, einzeln oder als Staffel. Die MTB- und Laufstrecken führen durch das Bergland des südlichen Hymettos, das laut Veranstalter mit viel Liebe zur Natur angelegt ist. Das Programm umfasst außerdem einen Sprint (750 m / 15 km / 6 km), Aquathlons über zwei Distanzen, einen 6,2-km-Traillauf und Kinderrennen. Vergeben werden 56 WM-Slots und 15.000 € Elite-Preisgeld.",
+  "distanceKm": 42.5,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/139055/conversions/CxvCzrvknlhewr6S4gjr14uebAcsluC5NQbfyG6T-web.jpg"
+}

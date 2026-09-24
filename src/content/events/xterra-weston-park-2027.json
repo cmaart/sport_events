@@ -1,0 +1,23 @@
+{
+  "id": "xterra-weston-park-2027",
+  "name": "XTERRA Weston Park",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-04-30",
+    "end": "2027-05-02",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Weston Park, Staffordshire",
+    "lat": 52.6945,
+    "lng": -2.3143
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-weston-park",
+  "description": "Die XTERRA Weston Park ist für den 30. April bis 2. Mai 2027 angekündigt; XTERRA kennzeichnet die Angaben als noch nicht bestätigt. Das Off-Road-Festival findet auf dem rund 1.000 Acre großen Anwesen von Weston Park in Staffordshire statt, mit eigens angelegten Singletrails, Live-Musik und Camping am See. Die Full Distance für Elite und Altersklassen am Sonntag umfasst 1,5 km Schwimmen, 31 km Mountainbike und 10 km Trailrun, dazu kommt ein Off-Road-Duathlon. Am Samstag laufen Sprint (750 m / 16 km / 5 km), Super Sprint und ein Short-Track-Rennen. Vergeben werden 20.000 € Elite-Preisgeld und 56 WM-Slots.",
+  "distanceKm": 42.5,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/140640/conversions/3HwlJWwonQa5RxkyHWl3loL4faiqo5ziTzScwJaL-web.jpg"
+}

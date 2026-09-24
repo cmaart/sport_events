@@ -1,0 +1,23 @@
+{
+  "id": "nordsjorittet-egersund-2027",
+  "name": "Nordsjørittet",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Egersund",
+    "lat": 58.4557,
+    "lng": 6.0021
+  },
+  "websiteUrl": "https://www.nordsjorittet.no/",
+  "description": "Das Nordsjørittet findet am Samstag, 12. Juni 2027, statt; die Anmeldung für 2027 ist bereits geöffnet. Die Strecke führt von Egersund nach Sandnes entlang der Küste von Rogaland im Südwesten Norwegens. Die volle Distanz misst 87 km mit rund 780 Höhenmetern, die halbe Distanz über 43 km startet in Nærbø auf der Jæren-Ebene. Rennrad, Gravelbike, Mountainbike und E-Bike sind laut Veranstalter gleichermaßen willkommen. Das Nordsjørittet gehört zu den größten Radveranstaltungen Norwegens. Zum Anmeldestart gab es eine Tour-de-France-Aktion mit Rabatt und der Verlosung eines von Alexander Kristoff signierten Trikots.",
+  "distanceKm": 87,
+  "elevationGainM": 780,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/677683c29ec9e6493a77ba36/e6a9e012-4aef-4846-a733-51956e746cdf/Asgeir+Ravndal-1023207-1.jpg"
+}

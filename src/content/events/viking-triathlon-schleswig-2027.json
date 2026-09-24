@@ -1,0 +1,25 @@
+{
+  "id": "viking-triathlon-schleswig-2027",
+  "name": "Viking Triathlon Schleswig",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schleswig",
+    "lat": 54.5144,
+    "lng": 9.5703,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://viking-triathlon.de",
+  "description": "Der Viking Triathlon Schleswig findet 2027 am Sonntag, 20. Juni statt. Geschwommen werden 1,9 km in der Schlei mit Start am Ufer des Louisenbads und Blick Richtung Haithabu, der UNESCO-Welterbestätte der Wikinger. Die 90 km lange Radstrecke ist kurvig und führt unter anderem über die Bundesstraße B76, wo sich schnelle Zeiten fahren lassen – sofern der Wind mitspielt. Der Halbmarathon wird in drei Runden vorbei am Schloss Gottorf und durch dessen Barockgarten gelaufen. 2026 war Schleswig mit rund 850 Teilnehmenden Schauplatz der Deutschen Meisterschaft über die Mitteldistanz; ob 2027 erneut ein Titel vergeben wird, steht noch nicht fest.",
+  "distanceKm": 113,
+  "elevationGainM": 600,
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/d2/6a/d0/viking-triathlon-schleswig-45-1697388558.jpg"
+}

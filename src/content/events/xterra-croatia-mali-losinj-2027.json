@@ -1,0 +1,23 @@
+{
+  "id": "xterra-croatia-mali-losinj-2027",
+  "name": "XTERRA Croatia – Mali Lošinj",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2027-05-07",
+    "end": "2027-05-09",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Mali Lošinj",
+    "lat": 44.5314,
+    "lng": 14.468
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-croatia-mali-losinj",
+  "description": "Die XTERRA Croatia auf Mali Lošinj ist für den 7. bis 9. Mai 2027 angekündigt; XTERRA weist darauf hin, dass die Angaben noch nicht bestätigt sind und auf der Vorjahresausgabe beruhen können. Das dreitägige Off-Road-Festival in der Kvarner-Bucht umfasst elf Rennen. Die Full Distance am 8. Mai führt über 1,5 km Schwimmen in der Adria, 27,6 km Mountainbike auf den Insel-Trails und 9,5 km Trailrun durch die Pinienwälder von Lošinj. Dazu kommen Sprint (750 m / 13,8 km / 5,2 km), Super Sprint mit Jugend-Qualifikation und Kinderrennen am Freitag. Vergeben werden 26 WM- und 30 Jugend-WM-Slots.",
+  "distanceKm": 38.6,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/142914/conversions/8Y31YmtpyslTdSpcLQkKEKwbG6O6FTIuQtgyCcXo-web.jpg"
+}

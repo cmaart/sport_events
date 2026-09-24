@@ -1,0 +1,23 @@
+{
+  "id": "alpinum-totalenergies-2027",
+  "name": "Alpinum TotalEnergies",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-07-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alp – Cerdanya",
+    "lat": 42.3845,
+    "lng": 1.8786
+  },
+  "websiteUrl": "https://www.alpinum-ride.cc/en/",
+  "description": "Die Alpinum TotalEnergies findet am Samstag, 3. Juli 2027, statt – das Datum hat der Veranstalter direkt nach der Ausgabe 2026 bekanntgegeben. Start und Ziel liegen in Alp in der katalanischen Cerdanya. Die lange Strecke über 185 km und rund 3.635 Höhenmeter führt durch Spanien, Andorra und Frankreich und überquert unter anderem den Port d'Envalira, den höchsten asphaltierten Pass der Pyrenäen. Kürzere Varianten über rund 145 und 89 km ergänzen das Angebot. Die Teilnehmerzahl ist begrenzt, was für ein vergleichsweise ruhiges Feld auf den Pyrenäenstraßen sorgt.",
+  "distanceKm": 185,
+  "elevationGainM": 3635,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/654cf735b702740107574f9f/1aae0108-14d0-4629-91fd-07a5ebc82559/Angel_Enguita_Alpinum_2025-4.jpg"
+}

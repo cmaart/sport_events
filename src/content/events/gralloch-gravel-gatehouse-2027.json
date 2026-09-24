@@ -1,0 +1,24 @@
+{
+  "id": "gralloch-gravel-gatehouse-2027",
+  "name": "The Gralloch",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-05-14",
+    "end": "2027-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gatehouse of Fleet, Galloway",
+    "lat": 54.883,
+    "lng": -4.184
+  },
+  "websiteUrl": "https://www.grallochgravel.com/",
+  "description": "The Gralloch kehrt vom 14. bis 16. Mai 2027 nach Gatehouse of Fleet in Dumfries & Galloway zurück und bezeichnet sich als Schottlands Gravel-Festival. An drei Tagen stehen Gravelrennen, Sportives, ein Ultra-Format sowie Musik, Essen und Festivalprogramm auf dem Plan. Die Hauptstrecke führte zuletzt über 111 km und 1.761 Höhenmeter und bestand zu über 80 Prozent aus groben Schotter- und Forstwegen durch die Wildnis von Galloway. Start und Ziel liegen im Garries Park im Ortszentrum. Die Veranstaltung war bislang Qualifikationsrennen der UCI Gravel World Series und gilt als Großbritanniens wichtigstes Gravel-Rennen. Die Anmeldung für 2027 ist bereits geöffnet.",
+  "distanceKm": 111,
+  "elevationGainM": 1761,
+  "imageUrl": "https://cdn.prod.website-files.com/68cd1e5ff3f7af1900efef67/68d155e00a6ff7ca2ecb8901__DSC8364.avif"
+}

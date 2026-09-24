@@ -1,0 +1,23 @@
+{
+  "id": "xterra-lake-scanno-2027",
+  "name": "XTERRA Lake Scanno",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-07-24",
+    "end": "2027-07-25",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Scanno",
+    "lat": 41.9023,
+    "lng": 13.8799
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-lake-scanno",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/italie/abruzzes/laquila/xterra-lake-scanno/guojxo5b8dx6tlijlnnz",
+  "description": "Die XTERRA Lake Scanno ist für den 24. und 25. Juli 2027 angekündigt; XTERRA kennzeichnet die Angaben als noch nicht bestätigt. Der herzförmige Lago di Scanno liegt auf rund 1.000 m Seehöhe im Herzen der Abruzzen am Rand des Nationalparks Abruzzo. Die Full Distance über 1,5 km Schwimmen, 30 km Mountainbike und 10 km Trailrun führt vom Seeufer auf Waldtrails, Panoramagrate und technisches Gelände in die Berge und zurück an den See. Außerdem stehen Sprint (750 m / 12 km / 5 km), Super Sprint, ein 1,5-km-Freiwasserschwimmen und ein 5-km-Sunset-Run auf dem Programm. Vergeben werden 26 WM-Slots.",
+  "distanceKm": 41.5
+}

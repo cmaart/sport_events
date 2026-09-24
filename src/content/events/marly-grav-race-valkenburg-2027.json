@@ -1,0 +1,24 @@
+{
+  "id": "marly-grav-race-valkenburg-2027",
+  "name": "Marly Grav Race",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-05-07",
+    "end": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Valkenburg, Zuid-Limburg",
+    "lat": 50.866,
+    "lng": 5.821
+  },
+  "websiteUrl": "https://www.marlygrav.com/en/",
+  "description": "Marly Grav rollt vom 7. bis 9. Mai 2027 wieder nach Valkenburg in Süd-Limburg; die Vorregistrierung für 2027 ist geöffnet. Das „Ultimate Gravel Weekender“ kombiniert Rennen, Festival und Gravel-Touren für alle Leistungsklassen. Start- und Mittelpunkt ist das Shimano Experience Center, das sich als „Home of Gravel“ versteht. Die Hauptstrecke des Rennens führte zuletzt über rund 150 km und etwa 1.490 Höhenmeter durch das hügelige Limburger Land mit Feldwegen, Waldpfaden und kurzen, steilen Anstiegen. Die Veranstaltung war Qualifier der UCI Gravel World Series; 2026 gewann Wout van Aert das Männerrennen. Neben dem Rennen stehen Festival- und Ride-Formate für die gesamte Gravel-Community auf dem Programm.",
+  "distanceKm": 150,
+  "elevationGainM": 1490,
+  "imageUrl": "https://ucigravelworldseries.com/wp-content/uploads/sites/195/2025/12/R62B0972.jpg"
+}

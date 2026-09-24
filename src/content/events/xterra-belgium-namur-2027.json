@@ -1,0 +1,22 @@
+{
+  "id": "xterra-belgium-namur-2027",
+  "name": "XTERRA Belgium",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Namur",
+    "lat": 50.4669,
+    "lng": 4.8673
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-belgium",
+  "description": "Die XTERRA Belgium findet am 6. Juni 2027 rund um die Zitadelle von Namur statt, eine der ungewöhnlichsten Locations der XTERRA World Tour. Die Full Distance über 1,5 km Schwimmen, 43 km Mountainbike und 10 km Trailrun ist zugleich Belgische Meisterschaft im Cross-Triathlon. Das Festival umfasst acht Rennen: Youth Sprint und Discovery Triathlon (0,5 / 21 / 5 km), Rookie- und „My First Triathlon“-Formate, Duathlons über die volle Distanz und die Discovery-Distanz sowie Kinderrennen. Die Strecken verbinden Maas, Hügel und Waldtrails der Wallonie. Vergeben werden 26 WM-Slots und 7.500 € Elite-Preisgeld; die Party-Atmosphäre gilt als die beste im XTERRA-Zirkus.",
+  "distanceKm": 54.5,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/144324/conversions/k4ztbFXtPztzE3mZuWNqqSsA3GeS0Cv8QKSFp598-web.jpg"
+}

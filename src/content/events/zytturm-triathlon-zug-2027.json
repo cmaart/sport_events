@@ -1,0 +1,24 @@
+{
+  "id": "zytturm-triathlon-zug-2027",
+  "name": "Zytturm Triathlon Zug",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-13",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Zug",
+    "lat": 47.1726,
+    "lng": 8.5162
+  },
+  "websiteUrl": "https://zytturmtriathlon.ch/",
+  "description": "Der Zytturm Triathlon 2027 wird laut Veranstalter „wahrscheinlich“ am 12. und 13. Juni 2027 stattfinden; der Termin ist ausdrücklich als provisorisches „Save the Date“ markiert, weitere Informationen folgen gegen Ende 2026. Der Triathlon am Zugersee zählt zu den traditionsreichsten der Zentralschweiz. Angeboten werden Olympische Distanz, Kurzdistanz und Staffelwettbewerbe, geschwommen wird im klaren Zugersee vor der Altstadtkulisse mit dem historischen Zytturm. Vor dem Rennen organisiert der Verein ein Open-Water-Schwimmtraining. Die Resultate werden über Datasport veröffentlicht.",
+  "distanceKm": 52,
+  "imageUrl": "https://zytturmtriathlon.ch/wp-content/uploads/2025/12/ZTT_Bike_38-edited-1.jpg"
+}

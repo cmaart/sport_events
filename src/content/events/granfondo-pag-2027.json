@@ -1,0 +1,22 @@
+{
+  "id": "granfondo-pag-2027",
+  "name": "Granfondo Pag – Cycling on the Moon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2027-05-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pag",
+    "lat": 44.4393,
+    "lng": 15.0583
+  },
+  "websiteUrl": "https://www.granfondopag.com/",
+  "description": "Die 7. Granfondo Pag – „Cycling on the Moon“ ist für Samstag, 15. Mai 2027, angekündigt; der Veranstalter ruft bereits zum Vormerken des Termins auf. Die 107 km lange Strecke mit rund 1.210 Höhenmetern führt durch die karge, mondähnliche Karstlandschaft der kroatischen Adriainsel Pag. Start und Ziel liegen in Novalja, die Route verbindet unter anderem Kolan, Šimuni und die Stadt Pag. Die weißen Kalksteinflächen, Salinen und Ausblicke auf die Adria machen das Rennen zu einem der landschaftlich ungewöhnlichsten Radmarathons Kroatiens. Für Gruppen und Übernachtungen bietet der Veranstalter Sonderkonditionen an. Durch den Maitermin rückt das Event in die Vorsaison mit angenehmen Temperaturen auf der Insel.",
+  "distanceKm": 107,
+  "elevationGainM": 1210
+}

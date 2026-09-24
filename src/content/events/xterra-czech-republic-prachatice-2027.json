@@ -1,0 +1,23 @@
+{
+  "id": "xterra-czech-republic-prachatice-2027",
+  "name": "XTERRA Czech Republic",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2027-08-06",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Prachatice",
+    "lat": 49.0125,
+    "lng": 14.0003
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-czech-republic",
+  "description": "Die XTERRA Czech Republic findet vom 6. bis 8. August 2027 im südböhmischen Prachatice statt; die Registrierung ist geöffnet. XTERRA bezeichnet sie als ältestes Rennen im XTERRA-Kalender: Geschwommen wird im Křišťanovický-See, die Mountainbike-Strecke führt über alte Panzer-Plattenwege aus den 1960er-Jahren, bewaldete Abschnitte des Goldenen Steigs und rutschige Singletrails, das Ziel liegt auf dem Marktplatz der Renaissance-Stadt. Hauptrennen am Samstag, 7. August, ist die Full Distance über 1,5 km Schwimmen, 33 km MTB und 10,5 km Trailrun, auch als Staffel. Dazu kommen Youth Sprint, Hobby Sprint, Super Sprint, ein Short-Track-Rennen, Kinderläufe und der Benefizlauf „Herbi's Trail Run“. Ausgeschüttet werden 15.000 € Elite-Preisgeld sowie 56 WM-Slots, rund um das Rennen gibt es Musik- und Food-Festival sowie die legendäre XTERRA-Afterparty.",
+  "distanceKm": 45,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/145719/conversions/2U0xPSRqwl4sUBsRUdm9CVlDEV4BQtKgWQUqAt3l-web.png"
+}

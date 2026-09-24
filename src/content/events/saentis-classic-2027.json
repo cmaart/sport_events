@@ -1,0 +1,23 @@
+{
+  "id": "saentis-classic-2027",
+  "name": "Säntis Classic",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weinfelden",
+    "lat": 47.568,
+    "lng": 9.1026
+  },
+  "websiteUrl": "https://www.saentis-classic.ch/",
+  "description": "Die 27. Säntis Classic findet am Sonntag, 13. Juni 2027, in Weinfelden im Thurgau statt; am Vortag, Samstag, 12. Juni, lädt der Weinfelder Tag mit Willkommenstour, Family-Slow-Tour, Wein-Gourmet-Tour und Gravel-Event Thurgau ein. Die Classic-Tour ist eine sportliche Volksradtour von Weinfelden ins Appenzellerland mit dem Höhepunkt Schwägalp auf 1.350 m ü. M. am Fuß des Säntis. Die lange Variante umfasst rund 200 km mit etwa 2.200 Höhenmetern, eine kürzere rund 130 km. Daneben gibt es Radathlon, Öpfel-Tour und Gravel-Ride. Die Säntis Classic ist Teil der Swiss Cycling Top Tour und wird ohne Zeitnahme gefahren.",
+  "distanceKm": 200,
+  "elevationGainM": 2200,
+  "imageUrl": "https://www.saentis-classic.ch/assets/images/c/startseite_26Jahre-f2b2f35a.gif"
+}

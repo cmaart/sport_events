@@ -1,0 +1,23 @@
+{
+  "id": "xterra-european-championship-molveno-2027",
+  "name": "XTERRA European Championship Trentino",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-10",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Molveno, Trentino",
+    "lat": 46.1393,
+    "lng": 10.9641
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-trentino-dolomiti-paganella",
+  "description": "Die XTERRA European Championship Trentino findet vom 10. bis 13. Juni 2027 am Lago di Molveno vor der Kulisse der Brenta-Dolomiten statt – eine Woche früher als 2026. Vergeben werden die Europameistertitel im Cross-Triathlon für Elite, Altersklassen und Jugend. Die Full Distance am Samstag, 12. Juni, umfasst 1,5 km Schwimmen im Molvenosee, 32 km Mountainbike und 10 km Trailrun; am selben Tag laufen Sprint (750 m / 16 km / 5 km) und Super Sprint mit Jugend-EM-Wertungen. Am Sonntag folgen ein Short-Track-Rennen als Elite-Invitational und Kinderrennen, am Freitag ein 7-km-Sunset-Run. Ausgeschüttet werden 30.000 € Elite-Preisgeld, 56 WM-Slots und 30 Jugend-WM-Slots.",
+  "distanceKm": 43.5,
+  "imageUrl": "https://coremedia.fra1.cdn.digitaloceanspaces.com/145423/conversions/Ew7KbhN0vbyum7I5tb1shM3RvUi2HkjvxG4WDp13-web.jpg"
+}

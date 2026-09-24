@@ -1,0 +1,22 @@
+{
+  "id": "bilbao-bilbao-cicloturista-2027",
+  "name": "Marcha Cicloturista Bilbao-Bilbao",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-03-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bilbao",
+    "lat": 43.263,
+    "lng": -2.935
+  },
+  "websiteUrl": "https://www.bilbaobilbao.com/en/home-en/",
+  "description": "Die Occident Bilbao Bilbao findet am Sonntag, 14. März 2027, zum 38. Mal statt und zählt seit 1988 zu den traditionsreichsten Cicloturistas im Baskenland. Start ist um 8:00 Uhr im Zentrum von Bilbao, wo auch das Ziel liegt. Zur Wahl stehen drei Touren über 85, 115 und 125 km durch die grünen Hügel und Bergzüge der Provinz Bizkaia – alle zum gleichen Startpreis. Die Veranstaltung ist ausdrücklich nicht kompetitiv; im Vordergrund steht das gemeinsame Fahren nach dem Motto „Ride like a Basque“. Zum Service gehören Finisher-Medaille, kostenlose Parkplätze und Premium-Toiletten im Start-Ziel-Bereich; die Anmeldung läuft online über die offizielle Website. Als früher Saisontermin im März eignet sich die Tour gut als Auftakt ins Radjahr.",
+  "distanceKm": 125,
+  "elevationGainM": 1600
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jotunheimen-rundt-laerdal-2027",
+  "name": "Jotunheimen Rundt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "NO",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lærdal",
+    "lat": 61.0993,
+    "lng": 7.4816
+  },
+  "websiteUrl": "https://www.jotunheimenrundt.no/",
+  "description": "Jotunheimen Rundt findet vom 25. auf den 26. Juni 2027 statt; die Anmeldung öffnet am 1. Dezember 2026. Der Veranstalter bezeichnet es als eines der schönsten und härtesten Radrennen der Welt. Die 430 km lange Runde mit rund 4.600 Höhenmetern umrundet das Jotunheimen-Gebirge mit Norwegens höchsten Gipfeln und verbindet Fjordlandschaft und Hochgebirge. Start und Ziel liegen in Lærdal am Sognefjord. Die Veranstaltung erstreckt sich über zwei Tage und fällt in die hellen Nächte rund um Mittsommer. Die Veranstaltung ist bewusst klein gehalten und richtet sich an erfahrene Langstreckenfahrer.",
+  "distanceKm": 430,
+  "elevationGainM": 4609,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/6707c1181041a25f8303350d/e0923d69-a634-44d7-9398-9890187dfa16/_80B7101.jpg"
+}
