@@ -1,0 +1,23 @@
+{
+  "id": "salzburger-firmen-triathlon-2027",
+  "name": "Salzburger Firmen-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-21",
+    "end": "2027-05-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salzachseen, Salzburg-Liefering",
+    "lat": 47.8311,
+    "lng": 13.0014,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.firmen-triathlon.eu",
+  "description": "Der 15. Salzburger Firmen Triathlon findet am Freitag, 21. Mai 2027, am Lieferinger Badesee an den Salzachseen in Salzburg statt. Der Betriebssport-Event wird von G-Sport, dem Veranstalter des Trumer Triathlons, organisiert und richtet sich an Teams aus Unternehmen: Drei Kolleg:innen teilen sich die Disziplinen, als Staffelholz dient der Zeitnehmungschip. Die Distanzen sind bewusst kurz und für alle schaffbar – 160 m Schwimmen mit 70 m Laufweg zur Wechselzone, 7,8 km Radfahren und 3,4 km Laufen. Alternativ gibt es eine Duathlon-Staffel für Teams ohne Schwimmer:in. Das Wettkampfareal bietet flache, abwechslungsreiche Strecken sowie Parkplätze und Duschen. Teamgeist und Spaß stehen im Vordergrund, gewertet werden Einzel- und Gesamtzeiten.",
+  "distanceKm": 11.4
+}

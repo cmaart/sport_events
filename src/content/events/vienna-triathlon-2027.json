@@ -1,0 +1,25 @@
+{
+  "id": "vienna-triathlon-2027",
+  "name": "Vienna Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-11",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Donauinsel, Wien",
+    "lat": 48.2351,
+    "lng": 16.4147,
+    "region": "Wien"
+  },
+  "websiteUrl": "https://www.vienna-triathlon.at",
+  "imageUrl": "https://static.wixstatic.com/media/384b95_536dbae23b51440499b398a3cdf386b1~mv2.jpg/v1/fill/w_1920,h_1080,al_c,q_80/384b95_536dbae23b51440499b398a3cdf386b1~mv2.jpg",
+  "description": "Der 11. Vienna Triathlon findet am 11. und 12. September 2027 auf der Wiener Donauinsel statt und bringt einige Neuerungen. Der Sun & Beauty Ladies Tri wird ein eigenständiger Bewerb mit Gesamt- und Altersklassenwertung, Sprint- und Olympische Distanz werden auf einen Rolling Start umgestellt, um das Feld auf der Radstrecke zu entzerren. Das Teilnehmerfeld wird auf 1.500 Athlet:innen limitiert, die Schwimmrichtung ändert sich und die Rad- (9,8 km) und Laufrunden (4,8 km) werden leicht angepasst. Nach dem bewährten Ablauf stehen am Samstag die Sprintdistanz (750 m / 20 km / 5 km) samt Aquabike, Bike/Run und Kids-Aquathlon, am Sonntag die Olympische Distanz (1,5 km / 40 km / 10 km) auf dem Programm. Wer beide Tage bestreitet, kann um den Titel „King/Queen of Vienna\" kämpfen. Veranstalter ist die P3Event Agentur; die Anmeldung für 2027 soll in Kürze öffnen.",
+  "distanceKm": 51.5
+}

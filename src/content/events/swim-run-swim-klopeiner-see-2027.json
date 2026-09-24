@@ -1,0 +1,23 @@
+{
+  "id": "swim-run-swim-klopeiner-see-2027",
+  "name": "Swim Run Swim Klopeiner See",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-22",
+    "end": "2027-05-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Kanzian am Klopeiner See",
+    "lat": 46.595,
+    "lng": 14.601,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.alpenadriaswimcup.at",
+  "description": "Der Swim Run Swim am Klopeiner See eröffnet am 22. Mai 2027 die Saison des Alpen Adria Swim Cup, dessen Kalender 2027 bereits veröffentlicht ist. Das Format kombiniert 1,5 km Schwimmen, 5,4 km Laufen und abschließend nochmals 1,0 km Schwimmen – insgesamt 7,9 km – im wärmsten Badesee Europas bei St. Kanzian. Der Bewerb zählt zur Wertung des Kärntner Triathlon Cups und des Kärntner Nachwuchs Cups. Am selben Tag findet am Klopeiner See der Welcome Swim mit Schwimmstrecken von 500 m bis 5 km statt. Die Cup-Serie umfasst 2027 sieben Stationen in Österreich, Slowenien und Kroatien, neu ist der Weissensee. Mit dem All-Event-Ticket können Athlet:innen alle Cup-Bewerbe zum Sonderpreis bestreiten; der Vorverkauf startet laut Veranstalterin Xenia Ebner in Kürze.",
+  "distanceKm": 7.9
+}

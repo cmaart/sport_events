@@ -1,0 +1,24 @@
+{
+  "id": "thermentriathlon-fuerstenfeld-2027",
+  "name": "Thermentriathlon Fürstenfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Fürstenfeld",
+    "lat": 47.0497,
+    "lng": 16.0843,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://wp.thermentriathlon.at",
+  "description": "Der Thermentriathlon Fürstenfeld soll 2027 fortgesetzt werden – der Veranstalter dertriathlon.com kündigt nach der Ausgabe 2026 an: „2027 – wir können's kaum erwarten!\". Ein konkretes Datum ist noch nicht veröffentlicht; als Schätzung dient der erste Sonntag im Juli (4. Juli 2027), analog zum Termin 2026. 2026 gingen rund 500 Aktive an den Start, die Olympische Distanz war zugleich Steirische Meisterschaft, als Finisher-Geschenk gibt es Kürbiskernöl. Geschwommen wird im Freibad-See in 375-m-Runden (Sprint 750 m, Olympisch 1.500 m). Die Radstrecke ist eine 13-km-Runde mit Pendelstück über Altenmarkt, Jobst und Großwilfersdorf, zu 95 % verkehrsfrei (Sprint 17 km, Olympisch 37 km). Gelaufen werden 5 bzw. 10 km durch Buchwald und über die Stadtbergenstraße mit flachen und leicht steigenden Passagen; zusätzlich gibt es Aquathlon-Bewerbe für die Jugend.",
+  "distanceKm": 48.5
+}

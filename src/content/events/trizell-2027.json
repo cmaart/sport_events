@@ -1,0 +1,25 @@
+{
+  "id": "trizell-2027",
+  "name": "TriZell – Internationaler Triathlon Zell am See-Kaprun",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz",
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Strandbad Thumersbach, Zell am See",
+    "lat": 47.324,
+    "lng": 12.797,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.trizell.at",
+  "description": "Der TriZell – Internationaler Triathlon Zell am See-Kaprun findet am 26. und 27. Juni 2027 am Zeller See statt. Hauptbewerb ist am Sonntag, 27. Juni, die Olympische Distanz über 1,5 km Schwimmen, 40 km Rad und 10 km Laufen (maximal 300 Starter:innen), kurz danach startet die Sprintdistanz über 750 m / 20 km / 5 km (maximal 150). Am Samstag stehen ein Aquathlon über 1.000 m Schwimmen und 5 km Laufen, Schwimmbewerbe über 750 m und 1.500 m sowie Kinderbewerbe auf dem Programm. Start- und Zielgelände ist das Strandbad Thumersbach mit Blick auf Schmittenhöhe und Kitzsteinhorn. Die Radrunde führt von Zell am See über Bruck an der Großglocknerstraße nach Kaprun und zurück, gelaufen wird am Seeufer; Windschattenfahren ist verboten. Die Online-Anmeldung ist bis 24. Juni 2027, 12:00 Uhr, geöffnet.",
+  "distanceKm": 51.5
+}

@@ -1,0 +1,25 @@
+{
+  "id": "neufeld-triathlon-2027",
+  "name": "Neufeld Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neufeld an der Leitha",
+    "lat": 47.8461,
+    "lng": 16.3659,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.neufeld-triathlon.at",
+  "imageUrl": "https://static.wixstatic.com/media/384b95_db9f0504ca194731a667b00bdb5ca756~mv2.jpg",
+  "description": "Der Neufeld Triathlon feiert 2027 ein Jubiläum: Die 40. Auflage findet am 5. und 6. Juni 2027 am Neufeldersee im nördlichen Burgenland statt, knapp an der Grenze zu Niederösterreich. Damit zählt der Bewerb zu den traditionsreichsten Triathlons Österreichs. Nach dem bewährten Ablauf steht am Samstagabend die Sprintdistanz (750 m / 20 km / 5,3 km) auf dem Programm, am Sonntagvormittag die Olympische Distanz (1.500 m / 40 km / 10,6 km). Beide Distanzen werden auch als Aquabike und als Bike/Run angeboten, wer beide Tage bestreitet, kämpft um den Titel „King/Queen of Neufeld\". Geschwommen wird im klaren Neufeldersee, Rad- und Laufstrecke sind flach und schnell. Organisiert wird das Wochenende von der P3 Event Agentur; die Details zur Jubiläumsausgabe folgen auf der offiziellen Website.",
+  "distanceKm": 52.1
+}

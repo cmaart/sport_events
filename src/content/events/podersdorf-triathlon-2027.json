@@ -1,0 +1,28 @@
+{
+  "id": "podersdorf-triathlon-2027",
+  "name": "Austria Triathlon Podersdorf",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-03",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Podersdorf am See",
+    "lat": 47.8517,
+    "lng": 16.8382,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.austria-triathlon.at/",
+  "registrationUrl": "https://www.austria-triathlon.at/anmeldung-austria-triathlon-podersdorf-2027/",
+  "imageUrl": "https://www.austria-triathlon.at/wp-content/uploads/2026/08/Best-Of-19-2048x1365-1.jpg",
+  "description": "Der Austria Triathlon Podersdorf, seit 1988 einer der traditionsreichsten Triathlons Europas, geht 2027 von 3. bis 5. September am Neusiedler See in seine 40. Auflage. Am Freitag starten Kids Aquathlon und Age-Group-Aquathlon (0,75 km Schwimmen / 5 km Laufen), am Samstag die Ironman-Distanz (3,8 km / 180 km / 42 km) und die Halbdistanz (1,9 km / 88 km / 21 km), jeweils auch als Aquabike. Der Sonntag gehört der Olympischen Distanz (1,5 km / 40 km / 10 km) und der Sprintdistanz (0,75 km / 24,4 km / 5 km). Bekannt ist der Bewerb für seine gesperrte, flache Radstrecke im Seewinkel, auf der allerdings der oft kräftige Wind den Rückweg hart machen kann. Gelaufen wird unter anderem durch den legendären Streckenabschnitt „Hölle\". Mit über 2.800 Teilnehmer:innen und familiärer Atmosphäre vor den Toren Wiens ist Podersdorf ein Fixpunkt im österreichischen Kalender; die Anmeldung für 2027 ist geöffnet.",
+  "distanceKm": 225.8
+}

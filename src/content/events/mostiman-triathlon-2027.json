@@ -1,0 +1,25 @@
+{
+  "id": "mostiman-triathlon-2027",
+  "name": "Mostiman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wallsee-Sindelburg",
+    "lat": 48.1412,
+    "lng": 14.7198,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://mosti-man.at",
+  "imageUrl": "https://mosti-man.at/wp-content/uploads/2024/12/mosti1_DJI_20240713143104.jpg",
+  "description": "Am 10. Juli 2027 fällt in Wallsee an der Donau der Startschuss zum 18. Mostiman Triathlon, veranstaltet vom Schwimm- und Triathlonverein RATS Amstetten. Hauptbewerb ist der Mostiman über die Olympische Distanz (1,5 km Schwimmen / 38 km Rad / 10 km Laufen) inklusive NÖ Landesmeisterschaft, dazu der Supaman über die Sprintdistanz sowie Aquabike- und Bike|Run-Wertungen und der Gaudiman für den Nachwuchs. Geschwommen wird im Donaualtarm, die Radstrecke führt durch das hügelige Mostviertel. 2026 kamen 760 Starter:innen aus 20 Nationen – erstmals in 17 Jahren stand eine vorzeitige Schließung der Anmeldung im Raum. Neu seit 2026 ist ein Open-Water-Bewerb über 750 m, 1.500 m und 3.000 m zum Abschluss des Renntags. Der Veranstalter hat den Termin 2027 bereits als „Save the Date\" veröffentlicht.",
+  "distanceKm": 49.5
+}

@@ -1,0 +1,25 @@
+{
+  "id": "marchfeld-triathlon-gerasdorf-2027",
+  "name": "Marchfeld Triathlon Gerasdorf",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-08",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gerasdorfer Badeteich, Gerasdorf bei Wien",
+    "lat": 48.2897,
+    "lng": 16.4661,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.gerasdorf-triathlon.at",
+  "imageUrl": "https://static.wixstatic.com/media/384b95_2844109cd5bf427b90fb56e4067f58b9~mv2_d_4512_3008_s_4_2.jpg",
+  "description": "Der 12. Gerasdorf Triathlon ist für Sonntag, 8. August 2027 angesetzt und findet wieder am Gerasdorfer Badeteich am nördlichen Stadtrand von Wien statt. Veranstalter ist die P3Event Agentur, die auch den Vienna und den Neufeld Triathlon organisiert. Im Programm 2026 standen die Sprintdistanz (500 m / 20 km / 5 km) und die Olympische Distanz (1,5 km / 40 km / 10 km), jeweils auch als Aquabike und als Bike/Run, dazu die Kombinationswertung „King/Queen of Gerasdorf\" für alle, die beide Distanzen absolvieren. Rad- und Laufstrecke verlaufen flach durch das Marchfeld und eignen sich gleichermaßen für Einsteiger wie für Bestzeitjäger. Start, Wechselzone und Ziel liegen kompakt am Badeteich. Die Ausschreibung mit Nenngeldern und Zeitplan für 2027 folgt auf der offiziellen Website.",
+  "distanceKm": 51.5
+}

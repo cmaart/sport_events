@@ -1,0 +1,23 @@
+{
+  "id": "hansbergland-cross-triathlon-2027",
+  "name": "Hansbergland Cross",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-27",
+    "end": "2027-05-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Sankt Veit im Mühlkreis",
+    "lat": 48.3697,
+    "lng": 13.9661,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://seefest.info/cross/",
+  "description": "Der Hansbergland Cross Triathlon in St. Veit im Mühlkreis ist fester Bestandteil des Seefests der FF St. Veit, das 2027 von 27. bis 30. Mai stattfindet. Der genaue Renntag 2027 ist noch nicht veröffentlicht – 2026 wurde der Cross-Triathlon am Fronleichnamstag ausgetragen, 2027 fällt dieser auf den 27. Mai. Der Cross-Triathlon umfasst 250 m Schwimmen im St. Veiter Naturbadeteich (zwei Runden), 12 km Mountainbike über die Jausenstation Hansberg und Höf sowie 6 km Laufen, Start und Ziel liegen am Fußballplatz. Gewertet werden Einzelstarter:innen sowie Staffeln, eigene Staffelwertungen gibt es für Unternehmen, Vereine und Blaulichtorganisationen. Dazu kommen ein Bike & Run, ein Schülertriathlon und der Grisu-Kinderlauf. Die Radstrecke ist nicht gesperrt, es gilt die StVO. Die 2027-Ausgabe wäre die zehnte Auflage des Mühlviertler Cross-Bewerbs.",
+  "distanceKm": 18.25
+}

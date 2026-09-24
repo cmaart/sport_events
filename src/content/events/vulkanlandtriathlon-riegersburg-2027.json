@@ -1,0 +1,24 @@
+{
+  "id": "vulkanlandtriathlon-riegersburg-2027",
+  "name": "Vulkanlandtriathlon Riegersburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-16",
+    "end": "2027-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegersburg",
+    "lat": 46.9673,
+    "lng": 15.936,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.vulkanlandtriathlon.at",
+  "description": "Der 15. Vulkanlandtriathlon findet am Pfingstsonntag, 16. Mai 2027, am Seebad Riegersburg im steirischen Vulkanland statt; die Anmeldung öffnet am 1. November 2026. Ausgerichtet wird der Sprint-Triathlon vom HSV Feldbach, 2026 wurden hier die steirischen Meister:innen über die Sprintdistanz gekürt. Geschwommen wird in zwei Runden mit kurzem Landgang und Rolling Start, damit Zuschauer:innen ganz nah am Geschehen sind. Die Radstrecke ist eine 20 km lange Wendestrecke über die B66 Richtung Feldbach und Wieden mit rund 250 Höhenmetern, gefahren wird im offenen Straßenverkehr. Zum Abschluss folgen zwei Laufrunden à 2,5 km mit etwa 30 Höhenmetern rund um das Seebadgelände. Neben dem Einzelbewerb gibt es eine Staffelwertung; der Bewerb unterstützt traditionell auch einen guten Zweck.",
+  "distanceKm": 25.75,
+  "elevationGainM": 280
+}

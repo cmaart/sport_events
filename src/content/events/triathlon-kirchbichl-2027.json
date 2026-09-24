@@ -1,0 +1,24 @@
+{
+  "id": "triathlon-kirchbichl-2027",
+  "name": "VENTO TRANS Triathlon Kirchbichl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-29",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Strandbad Kirchbichl",
+    "lat": 47.518,
+    "lng": 12.096,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.triathlon-kirchbichl.at",
+  "description": "Der VENTO TRANS Triathlon Kirchbichl, organisiert von den Greenhorns Bichlwang, zählt zu den ältesten Triathlonveranstaltungen Österreichs und feierte 2026 sein 40-jähriges Bestehen. Nach der Jubiläumsausgabe kündigt der Verein an, die Teilnehmer:innen „auch 2027 wieder begrüßen\" zu wollen; ein Datum ist noch nicht veröffentlicht, als Schätzung gilt Samstag, 29. Mai 2027 – analog zum letzten Mai-Samstag 2026. Angeboten werden die Olympische Distanz (1,4 km / 40 km / 10,4 km) und der Sprinttriathlon (0,75 km / 20 km / 5,2 km), jeweils auch als Staffel, dazu Kids Aquathlon und TRIWomen Aquathlon. Der Sprint war 2026 Tiroler Meisterschaft und Qualifikationsrennen für die Age-Group-EM 2027 in Kitzbühel. Die Strecken liegen in der Ferienregion Hohe Salve in den Kitzbüheler Alpen.",
+  "distanceKm": 25.95
+}

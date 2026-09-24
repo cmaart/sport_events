@@ -1,0 +1,24 @@
+{
+  "id": "swim-run-swim-laengsee-2027",
+  "name": "Swim Run Swim Längsee",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-06",
+    "end": "2027-08-06",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Sankt Georgen am Längsee",
+    "lat": 46.7592,
+    "lng": 14.4342,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.alpenadriaswimcup.at/",
+  "imageUrl": "https://static.wixstatic.com/media/21a7d6_40c59b27223645f3a9ba5c6c52240ac5~mv2.jpg",
+  "description": "Der Swim Run Swim Längsee ist 2027 wieder Teil des Alpen Adria Swim Cup, dessen Kalender die Station Längsee für das Wochenende um den 7. August 2027 ausweist. 2026 fand der Swim Run Swim am Freitag vor dem Swim Festival statt; der genaue Renntag 2027 ist noch nicht bestätigt, als Schätzung gilt Freitag, 6. August. Das Format im Strandbad Längsee in St. Georgen am Längsee kombiniert 1,5 km Schwimmen, 5,4 km Laufen und 1,0 km Schwimmen, insgesamt 7,9 km. Der Bewerb zählt zum Kärntner Triathlon Cup und zum Kärntner Nachwuchs Cup, zusätzlich gibt es Kinderbewerbe. Am Samstag lockt das Swim Festival mit Strecken bis zu 10 km. Veranstalter ist der Alpen Adria Swim Club, der mit einem All-Event-Ticket für die gesamte Cup-Serie wirbt.",
+  "distanceKm": 7.9
+}

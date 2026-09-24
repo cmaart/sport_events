@@ -1,0 +1,27 @@
+{
+  "id": "apfelland-triathlon-2027",
+  "name": "OMNi-BiOTiC Apfelland Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-21",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stubenberg am See",
+    "lat": 47.229,
+    "lng": 15.742,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.apfel-tri.com",
+  "registrationUrl": "https://time2win.at/event/1059",
+  "description": "Der OMNi-BiOTiC Apfelland Triathlon geht 2027 von 21. bis 23. Mai am Stubenbergsee in der Oststeiermark über die Bühne und ist als erster ÖTRV-Termin der Saison 2027 bereits im Verbandskalender eingetragen. Am Freitag eröffnet der Kids Aquathlon das Wochenende, am Samstag folgen Sprintdistanz (0,75 km / 19,5 km / 4,75 km) und Olympische Distanz (1,5 km / 38,5 km / 10 km), am Sonntag die Mitteldistanz über 2 km Schwimmen, 80 km Rad und 18 km Laufen. Geschwommen wird in einer Runde im Dreieckskurs gegen den Uhrzeigersinn, der Start liegt direkt neben der Finishline. Die Mitteldistanz-Radstrecke führt als zweimal zu fahrende Pendelstrecke auf gesperrten Straßen durch das hügelige Apfelland und summiert sich auf rund 1.007 Höhenmeter, ohne steile Rampen – der längste Anstieg misst 1,5 km mit 80 Hm. Die Laufstrecke rund um den See ist asphaltiert und praktisch flach. Die Olympische Distanz (408 Hm am Rad, drei Laufrunden à 3,3 km) ist für 2027 bereits als ausverkauft gekennzeichnet – wer auf die Mittel- oder Sprintdistanz will, sollte sich früh anmelden.",
+  "distanceKm": 100,
+  "elevationGainM": 1007
+}

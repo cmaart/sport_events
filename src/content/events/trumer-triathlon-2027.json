@@ -1,0 +1,27 @@
+{
+  "id": "trumer-triathlon-2027",
+  "name": "Trumer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-16",
+    "end": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Obertrum am See",
+    "lat": 47.9389,
+    "lng": 13.0833,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.trumer-triathlon.at/de/",
+  "registrationUrl": "https://time2win.at/event/1100",
+  "description": "Der Trumer Triathlon findet von 16. bis 18. Juli 2027 in Obertrum am See im Salzburger Seenland statt; die Anmeldung ist bereits seit 26. August 2026 geöffnet. Am Freitag eröffnen zwei Seecrossings über 1,4 km (ab Matzing) und 3 km (ab Seeham) das Wochenende. Am Samstag folgen Kids Triathlon, Fun- und Sprinttriathlon sowie ein Charity Run. Der Sonntag gehört der Kurzdistanz (1,5 km / 41,8 km / 10 km) und der Mitteldistanz über 1,9 km Schwimmen, 88,5 km Rad und 21,1 km Laufen. Die Radrunde der Mitteldistanz führt zunächst auf den Haunsberg und dann wellig um den Obertrumer See – drei Runden à 29,5 km ergeben rund 930 Höhenmeter. Mit sieben Triathlonbewerben, Trumer Village und Triathlon-Party gilt das Festival als eines der stimmungsvollsten Triathlonwochenenden im deutschsprachigen Raum.",
+  "distanceKm": 111.5,
+  "elevationGainM": 930
+}

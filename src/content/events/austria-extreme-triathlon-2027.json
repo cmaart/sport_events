@@ -1,0 +1,27 @@
+{
+  "id": "austria-extreme-triathlon-2027",
+  "name": "Austria eXtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-18",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feldkirchen bei Graz (Start) → Dachstein (Ziel)",
+    "lat": 46.983,
+    "lng": 15.483,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.autxtri.com",
+  "registrationUrl": "https://www.autxtri.com/anmeldung",
+  "imageUrl": "https://static.wixstatic.com/media/b1be3c_1104751e07a84fd5a3e8d2851b81a2c0~mv2.jpg",
+  "description": "Der 12. Austria eXtreme Triathlon findet von 18. bis 20. Juni 2027 statt und führt wie gewohnt von Graz bis hinauf zum Dachstein. Auf dem Programm stehen 3,8 km Schwimmen, rund 186 km Radfahren und 44 km Laufen mit insgesamt etwa 5.860 Höhenmetern – eine der härtesten Langdistanzen Europas im Stil der Xtreme-Triathlon-Serie. Gestartet wird im Morgengrauen ohne Massenstart-Trubel, der Lauf endet im hochalpinen Gelände am Dachsteinmassiv. Jede:r Athlet:in wird über den ganzen Tag von einer eigenen Betreuungsperson begleitet, die Verpflegung und Ausrüstung übernimmt. Laut Veranstalter erreichen rund 31 % der Starter:innen das Ziel nicht. Der Bewerb kann solo oder als Team bestritten werden; die Anmeldung für 2027 ist über die offizielle Website geöffnet, das Regelwerk („Haundbuach 2027\") ist bereits veröffentlicht.",
+  "distanceKm": 234,
+  "elevationGainM": 5860
+}

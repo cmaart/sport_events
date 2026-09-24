@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-bregenz-2027",
+  "name": "Triathlon Bregenz",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-19",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bregenz",
+    "lat": 47.5055,
+    "lng": 9.7484,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.triathlon-bregenz.at",
+  "registrationUrl": "https://www.triathlon-bregenz.at/anmeldung",
+  "imageUrl": "https://static.wixstatic.com/media/55cb1a_dcdab0ef1bc848c9a7e7a4761e7fffa1~mv2.png/v1/fill/w_1920,h_1080,al_c,q_80/55cb1a_dcdab0ef1bc848c9a7e7a4761e7fffa1~mv2.png",
+  "description": "Der Raiffeisen Triathlon Bregenz geht am 19. und 20. Juni 2027 wieder am Bodensee über die Bühne. Am Samstag, 19. Juni, gehört die Bühne dem Nachwuchs beim Kids Swim & Run, der Hauptbewerb über die Olympische Distanz mit 1,5 km Schwimmen, 44 km Rad und 10 km Laufen folgt am Wochenende und wird auch als Staffel angeboten. Geschwommen wird im Bodensee, die anspruchsvolle Radstrecke führt ins hügelige Hinterland und enthält eine eigene Bergsprintwertung, gelaufen wird an der Seepromenade. Veranstalter ist der Verein Trigantium Bregenz, der den Bewerb 2018 ins Leben gerufen hat. Ziel ist ein Event für alle Leistungsstufen mit viel Liebe zum Detail und Starter:innen aus dem ganzen Dreiländereck. Das Teilnehmerfeld ist limitiert, 2026 lag das Limit bei 450 Einzelstarter:innen.",
+  "distanceKm": 55
+}

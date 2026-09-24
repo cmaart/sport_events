@@ -1,0 +1,24 @@
+{
+  "id": "steeltownman-linz-2027",
+  "name": "ASVÖ Steeltownman Linz",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pichlinger See, Linz",
+    "lat": 48.258,
+    "lng": 14.383,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://steeltownman.com",
+  "imageUrl": "https://steeltownman.com/fileadmin/user_upload/outdoor_02.jpg",
+  "description": "Der ASVÖ Steeltownman Outdoor findet am Samstag, 26. Juni 2027 am Pichlinger See im Osten von Linz statt; am Vortag, 25. Juni 2027, steigt am selben Ort der OÖ Firmen-Triathlon. Veranstalter ist der PSVTri Linz, der unter der Marke Steeltownman zusätzlich einen Indoor-Bewerb im Winter (28. Februar 2027) ausrichtet. Im Programm 2026 standen der Sprintbewerb, der SuperTri, ein Kids Aquathlon und der Firmentriathlon. Die Sprintstrecke umfasst 750 m Schwimmen in zwei Runden mit Landgang, 20 km auf einem flachen, viermal zu fahrenden Radrundkurs und 5 km Laufen auf einer Wendepunktstrecke entlang des Sees. Der Name erinnert an die Linzer Stahlindustrie. 2026 wurde der Bewerb bei extremer Hitze ausgetragen – die Online-Anmeldung für 2027 ist bereits freigeschaltet.",
+  "distanceKm": 25.75
+}
