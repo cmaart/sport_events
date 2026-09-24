@@ -1,0 +1,26 @@
+{
+  "id": "rad-am-salzburgring-2027",
+  "name": "Rad am Salzburgring – Einzelzeitfahren",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren",
+    "Rundstreckenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-01",
+    "end": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Plainfeld – Salzburgring",
+    "lat": 47.7264,
+    "lng": 13.2483,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.radteamsalzburg.at/rad-am-salzburgring",
+  "description": "Rad am Salzburgring lädt am Sonntag, 1. August 2027 zum Einzelzeitfahren auf die Motorsport-Rennstrecke in Plainfeld im Salzburger Seenland. Veranstalter ist das Radteam Salzburg, gefahren wird auf dem abgesperrten, kurvenreichen Asphaltkurs ganz ohne öffentlichen Verkehr. Das Programm gliederte sich zuletzt in getrennte Bewerbe: Rennen für klassische Rennräder ohne Auflieger, für Zeitfahr- und Triathlonräder sowie für historische Rennräder. Gewertet wird nach Alters- und Geschlechtsklassen, Starterlisten und Ergebnisse laufen über computerauswertung.at.",
+  "distanceKm": 25,
+  "elevationGainM": 100,
+  "imageUrl": "https://primary.jwwb.nl/public/z/z/e/temp-rrcdgdavwemguxsfwahh/7-start-standard.jpg"
+}

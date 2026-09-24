@@ -1,0 +1,24 @@
+{
+  "id": "burning-roads-ochtrup-2027",
+  "name": "Burning Roads Ochtrup",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ochtrup",
+    "lat": 52.2063,
+    "lng": 7.1886,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://burningroads.de",
+  "description": "Burning Roads, der Ochtruper Radmarathon, feiert am Samstag, 26. Juni 2027 sein 20-jähriges Bestehen. Zwei Strecken stehen zur Wahl: der Rollerkurs über 210 Kilometer mit rund 800 Höhenmetern durch münsterländische Parklandschaften und Rieselfelder sowie der harte Kurs über rund 330 Kilometer mit über 3.000 Höhenmetern durch Teutoburger Wald und Osnabrücker Land. Beide Routen treffen sich zur Mittagspause in Glandorf, dort kann auch zwischen den Strecken gewechselt werden. Gefahren wird nach Straßenverkehrsordnung ohne Rennwertung, meist in selbst organisierten Gruppen. Die Einschreibung ist am Freitag, 25. Juni, in Ochtrup sowie am Renntag ab 4:00 Uhr am Sportwerk Ochtrup möglich. Zugelassen sind neben Rennrädern auch MTBs, Velomobile und Pedelecs.",
+  "distanceKm": 330,
+  "elevationGainM": 3000
+}

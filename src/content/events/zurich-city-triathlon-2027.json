@@ -1,0 +1,24 @@
+{
+  "id": "zurich-city-triathlon-2027",
+  "name": "Zurich City Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zürich",
+    "lat": 47.3769,
+    "lng": 8.5417
+  },
+  "websiteUrl": "https://zurichcitytriathlon.ch/",
+  "description": "Der Zurich City Triathlon findet am 26. und 27. Juni 2027 im Herzen von Zürich statt; die Anmeldung für 2027 ist noch geschlossen. Über 6.000 Triathletinnen und Triathleten aus aller Welt kommen in die Limmatstadt, um sich über Nachwuchs-, Sprint- und Olympische Distanz in zahlreichen Kategorien zu messen – vom Kinderrennen über Teams, Firmen- und Clubchallenge bis zu Handicap- und Profi-Wertungen. Geschwommen wird in der Limmat bzw. im Seebecken, die gesperrte Radstrecke führt ums Seebecken, der Lauf durch die Innenstadt. Swiss Triathlon zeichnete das Rennen als „Triathlon of the Year 2023“ aus. Seit 2022 kompensiert der Veranstalter die CO2-Emissionen über zertifizierte Klimaschutzprojekte; unterstützt wird er vom Sportamt der Stadt Zürich.",
+  "distanceKm": 52,
+  "imageUrl": "https://zurichcitytriathlon.ch/wp-content/uploads/2026/05/Design-ohne-Titel-1024x576.png"
+}

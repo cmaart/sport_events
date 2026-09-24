@@ -1,0 +1,22 @@
+{
+  "id": "24h-radmarathon-grieskirchen-2027",
+  "name": "24h Radmarathon Grieskirchen",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Grieskirchen",
+    "lat": 48.2341,
+    "lng": 13.8373,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "http://rmg.rc-grieskirchen.at/",
+  "description": "Der 24h Rad Marathon Grieskirchen des RC Grieskirchen steigt 2027 am Wochenende vom 10. auf 11. Juli im oberösterreichischen Hausruckviertel. Gefahren wird wieder auf dem 21,5 Kilometer langen Rundkurs mit 173 Höhenmetern pro Runde, der rund um Grieskirchen durch die hügelige Agrarlandschaft führt. Die Rennen starten am Samstag und enden am Sonntag; neben dem 24-Stunden-Bewerb gibt es kürzere Formate über sechs und drei Stunden. Gewertet wird als Einzelstarter oder im Team, sodass sich Ultra-Solisten und Staffeln auf demselben Kurs begegnen. Die Anmeldung für 2027 öffnet laut Veranstalter im Jänner 2027."
+}

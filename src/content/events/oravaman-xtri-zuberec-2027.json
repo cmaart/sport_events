@@ -1,0 +1,23 @@
+{
+  "id": "oravaman-xtri-zuberec-2027",
+  "name": "Oravaman XTRI Solo Point Five",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zuberec, Westtatra",
+    "lat": 49.264,
+    "lng": 19.617
+  },
+  "websiteUrl": "https://oravaman.sk/",
+  "imageUrl": "https://oravaman.sk/wp-content/uploads/2017/10/20150718-_MG_2340.jpg",
+  "description": "Die XVI. Ausgabe des Oravaman XTRI Solo Point Five findet am 10. Juli 2027 in den slowakischen Westtatras statt; die Registrierung für 2027 wurde am 15. September 2026 freigeschaltet. Der Halbdistanz-Extremtriathlon beginnt mit 2 km Schwimmen im Stausee Liptovská Mara. Es folgen rund 90 km Rad mit mehreren steilen Anstiegen und etwa 1.750 Höhenmetern sowie 21 km Traillauf mit rund 1.250 Höhenmetern durch die Westtatra – insgesamt rund 3.000 Höhenmeter. Das Rennen gehört als Solo-Point-Five-Format zur XTRI World Tour und bietet laut Veranstalter „Full Service vom Start bis ins Ziel“. Die Jubiläumsausgabe 2026 war die 15. Auflage.",
+  "distanceKm": 113,
+  "elevationGainM": 3000
+}

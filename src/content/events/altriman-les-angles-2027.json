@@ -1,0 +1,24 @@
+{
+  "id": "altriman-les-angles-2027",
+  "name": "Altriman Triathlon – Les Angles",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Les Angles – Lac de Matemale",
+    "lat": 42.557,
+    "lng": 2.023
+  },
+  "websiteUrl": "https://altriman.fr/",
+  "description": "Die 19. Ausgabe des ALTRIMAN findet am 10. und 11. Juli 2027 in Les Angles auf dem Capcir-Hochplateau der Pyrénées-Orientales statt; die Anmeldung ist geöffnet. Geschwommen wird im Lac de Matemale auf rund 1.500 m Höhe. Die Full-Distanz (XXL) umfasst 3,8 km Schwimmen, rund 193 km Rad mit etwa 5.000 Höhenmetern und 42 km Laufen mit rund 1.000 Höhenmetern; dazu kommen Half (L, 1,9 / 102 / 21 km), Olympic (M) und Sprint (S). Der Veranstalter versteht das Rennen ausdrücklich nicht als Wettkampf gegen andere, sondern als „face-à-face avec soi-même“ – ohne Show-Elemente, dafür mit Bergnatur. Finisher der Full- und Half-Distanz erhalten ihre Fotos kostenlos.",
+  "distanceKm": 239,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/occitanie/pyrenees-orientales/altriman/xgcbidhmzlq1osqdtjzz"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "race-across-germany-aachen-goerlitz-2027",
+  "name": "Race Across Germany – Aachen–Görlitz",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-26",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aachen",
+    "lat": 50.7753,
+    "lng": 6.0839,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://raceacrossgermany.de/",
+  "description": "Race Across Germany Aachen–Görlitz führt vom 26. bis 29. August 2027 als Ultra-Radrennen einmal quer durch Deutschland. Die Strecke misst rund 800 Kilometer und 7.800 Höhenmeter vom Aachener Marktplatz bis nach Görlitz an der polnischen Grenze. Gestartet wird als Solo, Duo oder Quartett, mit oder ohne Begleitfahrzeug. Im Kalender 2027 stehen außerdem die Formate Flensburg–Garmisch, Eschwege–Garmisch und die Germany 3000 über 3.000 Kilometer. Das Teilnehmerfeld der Aachen–Görlitz-Strecke ist begrenzt.",
+  "distanceKm": 800,
+  "elevationGainM": 7800
+}

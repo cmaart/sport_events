@@ -1,0 +1,24 @@
+{
+  "id": "inferno-triathlon-2027",
+  "name": "Inferno Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Thun → Schilthorn",
+    "lat": 46.5591,
+    "lng": 7.8353
+  },
+  "websiteUrl": "https://inferno.ch/triathlon",
+  "description": "Der INFERNO Triathlon wird 2027 am Samstag, 21. August ausgetragen, eingebettet in das Rennwochenende vom 20. bis 22. August im Berner Oberland. Mit rund 5.500 Höhenmetern gilt er als einer der härtesten Triathlons der Welt: 3 km Schwimmen im Thunersee ab dem Strandbad Thun, 97 km Rennrad über die Pässe des Berner Oberlands, 30 km Mountainbike ab Grindelwald und 25 km Berglauf ab Stechelberg bis auf das Schilthorn (2.970 m ü. M.) – vor der Kulisse von Eiger, Mönch und Jungfrau. Am Freitag erfolgt der Check-in in den drei Wechselzonen Oberhofen, Grindelwald und Stechelberg, das Briefing findet in Mürren statt. Das Teilnehmerfeld ist auf 333 Athletinnen und Athleten limitiert. Die Anmeldung öffnet traditionell am 11.11. um 11:11 Uhr.",
+  "distanceKm": 155,
+  "elevationGainM": 5500,
+  "imageUrl": "https://inferno.ch/img/asset/YXNzZXRzL2hlYWRlcnMvMjUwODE2MDYyODM5X2xvbS5qcGc/250816062839_lom.jpg?fm=webp&w=1600&dpr=1&q=80&s=76eac3bac3a784c1b810464b745b3bcd"
+}

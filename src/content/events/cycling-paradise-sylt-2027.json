@@ -1,0 +1,23 @@
+{
+  "id": "cycling-paradise-sylt-2027",
+  "name": "Cycling Paradise Sylt",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wenningstedt-Braderup",
+    "lat": 54.9352,
+    "lng": 8.3267,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://cycling-paradise.com",
+  "description": "Cycling Paradise Sylt lädt am 28. August 2027 zur nächsten Insel-Umrundung auf der Nordseeinsel. Die Veranstaltung ist bewusst als Community-Ausfahrt ohne Rennwertung angelegt und verbindet Radfahren mit Sylter Lebensgefühl. Start ist in Wenningstedt-Braderup, die große Runde führt über rund 100 Kilometer einmal um die Insel, vorbei an Watt, Dünen und Weststrand. Zuletzt gab es zusätzlich eine kompaktere sportliche Route und eine Familientour. Das Profil ist flach bis leicht wellig, der Wind entscheidet oft über die Härte des Tages. Tickets für 2027 sind bereits im Online-Shop des Veranstalters erhältlich, zunächst zu Early-Bird-Preisen.",
+  "distanceKm": 100
+}

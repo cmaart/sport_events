@@ -1,0 +1,25 @@
+{
+  "id": "sandhasen-gravel-tour-woelfersheim-2027",
+  "name": "Sandhasen Gravel-Tour Wölfersheim",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "RTF"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wölfersheim",
+    "lat": 50.4088,
+    "lng": 8.8194,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.rtc-sandhasen.de/",
+  "description": "Die Sandhasen-Tour des RTC Sandhasen '88 Wölfersheim findet am Sonntag, 4. Juli 2027 in der Wetterau nördlich von Frankfurt statt. Angeboten werden Gravel-Strecken sowie eine Familientour über 10 und 20 Kilometer. Zuletzt umfassten die Gravel-Routen 38 und 63 Kilometer durch die flache bis leicht hügelige Landschaft der Wetterauer Seenplatte. Die Tourenfahrt ist ohne Zeitnahme, Verpflegungsstellen liegen entlang der Strecke. Der Verein bietet 2027 zudem die 9-Seen-CTF am Ostermontag und mehrere Permanenten an.",
+  "distanceKm": 63,
+  "imageUrl": "https://homepagedesigner.telekom.de/imageprocessor/processor.cls/CMTOI/cm4all/com/widgets/PhotoToi/19/28/83/16/16a9c0245f9/scale_1200_0%3Bdonotenlarge/16a9c0245f9"
+}

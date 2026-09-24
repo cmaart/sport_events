@@ -1,0 +1,25 @@
+{
+  "id": "spreewaldmarathon-lubbenau-2027",
+  "name": "Spreewaldmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-24",
+    "end": "2027-04-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lübbenau (Spreewald)",
+    "lat": 51.8647,
+    "lng": 13.9619,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://spreewaldmarathon.de/",
+  "description": "Der 25. Spreewaldmarathon findet vom 22. bis 25. April 2027 statt, die Radstrecken ab Lübbenau stehen am Samstag, 24. April auf dem Programm. Der Radmarathon führt über 200 Kilometer, dazu kommen Radtouren über 110 und 70 Kilometer, Start ist in Lübbenau ab 6:40 Uhr. Am selben Tag starten in Burg weitere Radtouren über 150, 70, 50 und 30 Kilometer. Die flachen Strecken führen durch das Biosphärenreservat Spreewald mit seinen Fließen und Kanälen. Rund um das Jubiläum gibt es außerdem Lauf-, Skate-, Wander- und Paddelbewerbe im gesamten Spreewald.",
+  "distanceKm": 200,
+  "elevationGainM": 400,
+  "imageUrl": "https://spreewaldmarathon.de/wpswm/wp-content/uploads/Spreewaldmarathon_2026_00115-scaled.jpg"
+}

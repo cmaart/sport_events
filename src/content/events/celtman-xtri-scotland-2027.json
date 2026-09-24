@@ -1,0 +1,23 @@
+{
+  "id": "celtman-xtri-scotland-2027",
+  "name": "CELTMAN! Extreme Scottish Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Torridon / Shieldaig, Scottish Highlands",
+    "lat": 57.5228,
+    "lng": -5.6697
+  },
+  "websiteUrl": "https://cxtri.com/",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/583184602994ca3ef533afce/bd06f4dc-4784-45d1-bad5-a03822a1978b/celtman+24+copyright+Steve+Ashworth+%281+of+1%29+7.jpg",
+  "description": "Der CELTMAN! Extreme Scottish Triathlon findet am 12. Juni 2027 in Torridon in Wester Ross statt; das Ballot für 2027 öffnet am 17. Oktober 2026. Das Rennen der XTRI World Tour beginnt mit 3,4 km Schwimmen im kalten, quallenreichen Atlantikwasser des Loch Shieldaig – die Distanz ist wegen der Wassertemperatur verkürzt. Danach folgen 200 km Rad auf historischen Single-Track-Pässen und offenen Küstenstraßen der Highlands sowie 42 km Berglauf über die Torridon-Munros. Die Veranstalter warnen ausdrücklich vor kaltem Wasser, starkem Wind, Regen und schlechter Sicht am Berg. Die jeweils Erst- und Zweitplatzierten bei Männern und Frauen qualifizieren sich automatisch für die XTRI-Weltmeisterschaft 2027 beim Norseman.",
+  "distanceKm": 245,
+  "elevationGainM": 3769
+}

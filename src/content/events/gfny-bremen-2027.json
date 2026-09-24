@@ -1,0 +1,23 @@
+{
+  "id": "gfny-bremen-2027",
+  "name": "GFNY Bremen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-29",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bremen",
+    "lat": 53.0793,
+    "lng": 8.8017,
+    "region": "Bremen"
+  },
+  "websiteUrl": "https://bremen.gfny.com/",
+  "description": "GFNY Bremen geht am 29. August 2027 in seine dritte Ausgabe. Der Gran Fondo der weltweiten GFNY-Serie startet und endet im Tabakquartier in der Bremer Neustadt. Die lange Wettkampfstrecke misst rund 98 Kilometer durch das flache Umland mit Feldern, Höfen und einem Kopfsteinpflaster-Abschnitt, dazu gibt es eine kürzere Runde über rund 60 Kilometer. Gewertet wird mit Chip-Zeitnahme nach Altersklassen; die schnellsten 20 Prozent je Klasse qualifizieren sich für das Qualifier Corral anderer GFNY-Rennen. Finisher sammeln zudem Wertungen für die GFNY-Mehrfachmedaillen der Saison 2027. Durch den Wind im norddeutschen Flachland ist das Rennen trotz geringer Höhenmeter selten ein Selbstläufer.",
+  "distanceKm": 98
+}

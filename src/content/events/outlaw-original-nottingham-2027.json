@@ -1,0 +1,22 @@
+{
+  "id": "outlaw-original-nottingham-2027",
+  "name": "Outlaw Original Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nottingham – Holme Pierrepont",
+    "lat": 52.9266,
+    "lng": -1.09
+  },
+  "websiteUrl": "https://outlawtriathlon.com/outlaw-original/outlaw-full",
+  "description": "Der Outlaw Original findet am Sonntag, 25. Juli 2027 am National Water Sports Centre in Holme Pierrepont bei Nottingham statt und ist bereits ausverkauft. Die Langdistanz beginnt mit 3,8 km (2.4 Meilen) Schwimmen im Regatta Lake mit spektakulärem Massenstart. Die 180 km (112 Meilen) lange, relativ flache Radstrecke führt durch das Nottinghamshire-Umland und zurück über Holme Pierrepont Hall. Der Marathon besteht aus drei großen Runden am Treidelpfad des River Trent mit Wende an der Lady Bay Bridge sowie einer Schlussrunde um den Regattasee bis zum orangefarbenen Zielteppich. 2026 war das Rennen Austragungsort der Britischen Langdistanz-Meisterschaft; am Wochenende gibt es zudem Middle-Distanz, Aquabike und Sprint.",
+  "distanceKm": 226,
+  "imageUrl": "https://cdn.prod.website-files.com/688ce20dbd07239c65f1a79e/688ce20dbd07239c65f1a90a_Outlaw%20Nottingham%20Weekend%20Overview%20Masthead.webp"
+}

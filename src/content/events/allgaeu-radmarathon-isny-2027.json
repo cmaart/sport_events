@@ -1,0 +1,26 @@
+{
+  "id": "allgaeu-radmarathon-isny-2027",
+  "name": "designOn Allgäu Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-08",
+    "end": "2027-05-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Isny im Allgäu",
+    "lat": 47.6886,
+    "lng": 10.0376,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://allgaeu-radmarathon.de/",
+  "description": "Der dritte designOn Allgäu Radmarathon findet am Samstag, 8. Mai 2027 in Isny im Allgäu statt. Start und Ziel liegen auf dem historischen Marktplatz, von dort führen ruhige Nebenstraßen durch das Allgäuer Alpenvorland bis nach Vorarlberg. Auf dem Rennrad stehen drei Streckenlängen zur Wahl: 80 Kilometer mit 1.200 Höhenmetern, 120 Kilometer mit 2.000 Höhenmetern und 200 Kilometer mit rund 3.000 Höhenmetern. Zusätzlich bietet der Veranstalter eigene Gravel-Strecken an. Ergänzt wird das Programm durch einen Kinder-MTB-Cup auf dem Marktplatz. Anmeldestart und Website-Update für 2027 sind laut Veranstalter für den 1. Dezember 2026 geplant.",
+  "distanceKm": 200,
+  "elevationGainM": 3000,
+  "imageUrl": "https://allgaeu-radmarathon.de/wp-content/uploads/sites/2/2024/10/marathon-header-1.jpg"
+}

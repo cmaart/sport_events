@@ -1,0 +1,25 @@
+{
+  "id": "transylvania-triathlon-festival-2027",
+  "name": "Transylvania Triathlon Festival",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sângeorgiu de Pădure, Mureș",
+    "lat": 46.419,
+    "lng": 24.895
+  },
+  "websiteUrl": "https://transylvaniatriathlonfestival.ro/",
+  "imageUrl": "https://transylvaniatriathlonfestival.ro/dev/wp-content/uploads/2025/11/bg-web26-szoveg-min-2.jpg",
+  "description": "Das Transylvania Triathlon Festival findet am 26. und 27. Juni 2027 am Bezid-See (Lacul Bezidu Nou) bei Sângeorgiu de Pădure im Kreis Mureș statt. Am Sonntag, 27. Juni, wird über die Halbdistanz die Rumänische und Balkan-Meisterschaft ausgetragen; dazu kommen Olympische Distanz, Sprint, Super Sprint und ein Aquathlon. Am Samstag stehen ein Freiwasserschwimmen und ein Stand-up-Paddle-Wettbewerb auf dem Programm. Die Mitteldistanz führt über 1,9 km Schwimmen, 90 km Rad und rund 20 km Laufen durch die hügelige Landschaft Siebenbürgens. Das Rennen ist im offiziellen Kalender des rumänischen Triathlonverbands gelistet.",
+  "distanceKm": 112
+}

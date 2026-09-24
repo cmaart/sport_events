@@ -1,0 +1,25 @@
+{
+  "id": "rosa200-faak-am-see-2027",
+  "name": "ROSA200",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Faak am See",
+    "lat": 46.5695,
+    "lng": 13.9092,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.rosa200.at/",
+  "description": "Die ROSA200 Road findet am 25. und 26. Juni 2027 am Faaker See in Kärnten statt. Die Tour führt durch die Bergwelt Südkärntens und das Kanaltal bis nach Tarvis und verbindet das Dreiländereck Österreich–Italien–Slowenien. Vier Routen zwischen rund 70 und 215 Kilometern mit bis zu 2.800 Höhenmetern stehen zur Auswahl, alle komplett auf Asphalt. Es gibt keine Zeitnahme – im Vordergrund stehen Panorama, Seen und Pässe statt Platzierungen. Die Anmeldung für 2027 ist laut Veranstalter noch nicht geöffnet und folgt in Kürze.",
+  "distanceKm": 215,
+  "elevationGainM": 2800,
+  "imageUrl": "https://www.rosa200.at/wp-content/uploads/2026/02/Stabentheiner_FHD-126.jpg"
+}

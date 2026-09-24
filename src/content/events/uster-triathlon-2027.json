@@ -1,0 +1,25 @@
+{
+  "id": "uster-triathlon-2027",
+  "name": "38. Uster Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Uster",
+    "lat": 47.3487,
+    "lng": 8.7201
+  },
+  "websiteUrl": "https://www.ustertriathlon.ch/",
+  "description": "Der 38. Uster Triathlon findet am 28. und 29. August 2027 am Greifensee im Zürcher Oberland statt; die Anmeldung für 2027 ist bereits geöffnet. Das Multisport-Wochenende für die ganze Familie bietet eine Mitteldistanz (1,9 km / 84 km / 20 km), die Olympische Distanz (1,5 km / 42 km / 10 km) und einen Sprint, dazu einen Kids-Triathlon. Ergänzt wird das Programm durch ein SUP-Race und eine Seeüberquerung im Greifensee. Mit über 2.800 Finishern zählt Uster zu den größten Amateur-Triathlons der Schweiz. Der Veranstalter betont die übersichtliche Organisation und persönliche Atmosphäre, die das Rennen für Einsteiger wie Erfahrene attraktiv macht.",
+  "distanceKm": 106,
+  "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/sd4be407c38733eaf/backgroundarea/i261e4dc432c89f46/version/1777183297/image.jpg"
+}

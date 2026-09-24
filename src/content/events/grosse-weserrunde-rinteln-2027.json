@@ -1,0 +1,24 @@
+{
+  "id": "grosse-weserrunde-rinteln-2027",
+  "name": "Große Weserrunde",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rinteln",
+    "lat": 52.18,
+    "lng": 9.084,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.weserrunde.de/",
+  "description": "Die Große Weserrunde findet am Samstag, 21. August 2027 in Rinteln im Weserbergland statt. Der Langstrecken-Radmarathon bietet Distanzen bis zu 350 Kilometern an einem Tag und zählt damit zu den längsten eintägigen Radmarathons Deutschlands. Zuletzt standen sechs Strecken über 80, 150, 200, 250, 300 und 350 Kilometer zur Wahl. Die Routen führen über welliges Terrain entlang der Weser und durch das Weserbergland. Die Streckenübersicht für 2027 ist bereits veröffentlicht, die Anmeldung startet laut Veranstalter im Oktober 2026. 2026 waren die Startplätze bereits Wochen vor dem Event nahezu ausgebucht.",
+  "distanceKm": 350,
+  "imageUrl": "https://www.weserrunde.de/cdn/uploads/gwr-ziel2025.jpg"
+}

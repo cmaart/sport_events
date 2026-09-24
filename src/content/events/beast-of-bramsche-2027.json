@@ -1,0 +1,25 @@
+{
+  "id": "beast-of-bramsche-2027",
+  "name": "Beast of Bramsche",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bramsche",
+    "lat": 52.4057,
+    "lng": 7.9704,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://beastofbramsche.de",
+  "description": "Das nächste Beast of Bramsche findet am Samstag, 12. Juni 2027 in Bramsche im Landkreis Osnabrück statt. Der Radmarathon im Brevet-Stil führt über 240 Kilometer und rund 2.400 Höhenmeter mit 24 Anstiegen in den Südkreis Osnabrück und zurück. Wer es kürzer mag, wählt das Little Beast über 120 Kilometer und 1.200 Höhenmeter. Die Anstiege im Osnabrücker Land sorgen für ein für Norddeutschland ungewöhnlich welliges Profil. Die Anmeldung für 2027 startet laut Veranstalter am 13. Dezember 2026.",
+  "distanceKm": 240,
+  "elevationGainM": 2400
+}

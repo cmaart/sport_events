@@ -1,0 +1,25 @@
+{
+  "id": "woerthersee-gravel-race-2027",
+  "name": "Wörthersee Gravel Race",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-04-18",
+    "end": "2027-04-18",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Velden am Wörthersee",
+    "lat": 46.6135,
+    "lng": 14.0352,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.woerthersee-gravel.com",
+  "description": "Das Wörthersee Gravel Race in Velden am Wörthersee ist für den 18. April 2027 angekündigt; der Veranstalter bezeichnet den Termin noch als vorläufig. Das Rennen ist Teil der UCI Gravel World Series und dient als Qualifikation für die UCI Gravel-Weltmeisterschaften. Die Strecken führen rund um den Wörthersee und durch die Kärntner Hügellandschaft, die lange Distanz umfasste zuletzt rund 120 Kilometer und 2.000 Höhenmeter. Mit rund 2.000 Teilnehmenden aus über 40 Nationen gilt es als größtes Gravel-Event Österreichs. Eine Voranmeldung zum günstigsten Preis ist bereits über die offizielle Seite möglich.",
+  "distanceKm": 120,
+  "elevationGainM": 2000
+}

@@ -1,0 +1,26 @@
+{
+  "id": "altmuehltal-radmarathon-beilngries-2027",
+  "name": "Altmühltal Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel",
+    "RTF"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Beilngries",
+    "lat": 49.0367,
+    "lng": 11.4741,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://altmuehltal-radmarathon.de/",
+  "description": "Die vierte Austragung des Altmühltal Radmarathons findet am Samstag, 29. Mai 2027 in Beilngries statt. Die Routen führen durch die Kalksteintäler und Juradörfer des Naturparks Altmühltal im Herzen Bayerns. Drei Rennradstrecken zwischen 120 und 200 Kilometern mit bis zu rund 2.300 Höhenmetern stehen zur Wahl, dazu reine Gravel-Strecken zwischen 60 und 120 Kilometern. Gefahren wird ohne Zeitnahme und Wettkampfdruck, Verpflegungsstationen liegen entlang der Strecken. Die Anmeldung für 2027 ist laut Veranstalter ab 1. Oktober 2026 geöffnet.",
+  "distanceKm": 200,
+  "elevationGainM": 2300
+}

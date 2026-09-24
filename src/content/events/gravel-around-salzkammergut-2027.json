@@ -1,0 +1,26 @@
+{
+  "id": "gravel-around-salzkammergut-2027",
+  "name": "Gravel Around Salzkammergut",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-14",
+    "end": "2027-08-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Georgen im Attergau",
+    "lat": 47.9278,
+    "lng": 13.5025,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.gravelaroundsalzkammergut.at/",
+  "description": "Gravel Around Salzkammergut findet am Samstag, 14. August 2027 mit Start und Ziel in St. Georgen im Attergau statt. Das Event aus der Race-Around-Austria-Familie führt auf überwiegend unbefestigten Wegen durch das UNESCO-Welterbe Salzkammergut. Angeboten werden die Standardrunde über 163 Kilometer und 3.000 Höhenmeter sowie die verlängerte Runde über 217 Kilometer und 3.800 Höhenmeter mit zusätzlicher Südschleife. Gefahren wird im unsupported-Format ohne Begleitfahrzeuge, im Mittelpunkt steht das Finishen. Das Starterfeld ist auf maximal 300 Teilnehmende begrenzt; die Startgebühr ist wie in den Vorjahren nach Anmeldezeitpunkt gestaffelt. Im Ziel in St. Georgen wartet eine Finisher-Party.",
+  "distanceKm": 217,
+  "elevationGainM": 3800,
+  "imageUrl": "https://www.racearoundaustria.at/fileadmin/_processed_/6/d/csm_Gravel-Report-2024-Salzkammergut-Foto_Erwin_Haiden_bikeboard.at__204__-_Kopie_a9586038f3.jpg"
+}

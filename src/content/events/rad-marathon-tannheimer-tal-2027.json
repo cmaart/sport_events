@@ -1,0 +1,26 @@
+{
+  "id": "rad-marathon-tannheimer-tal-2027",
+  "name": "Rad-Marathon Tannheimer Tal",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tannheim",
+    "lat": 47.503,
+    "lng": 10.5151,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.rad-marathon.at",
+  "description": "Der Rad-Marathon Tannheimer Tal findet am Sonntag, 4. Juli 2027 in Tannheim im Tiroler Außerfern statt. Vier Distanzen stehen zur Wahl: 66 Kilometer mit rund 600 Höhenmetern, 103 Kilometer, 138 Kilometer und die Königsdistanz über 214 Kilometer mit rund 3.500 Höhenmetern. Die lange Runde führt über Riedbergpass, Bregenzerwald, Hochtannberg und Gaichtpass und verbindet Tirol, das Allgäu und Vorarlberg. Alle Strecken starten in Tannheim und führen durch die Talorte Nesselwängle, Grän und Zöblen. Die Startplätze sind traditionell schnell vergeben; die Anmeldung für 2027 öffnet laut Veranstalter am 12. Oktober 2026.",
+  "distanceKm": 214,
+  "elevationGainM": 3500,
+  "imageUrl": "https://www.rad-marathon.at/wp-content/uploads/2025/08/2018-DJI_0440-2-scaled.jpg"
+}

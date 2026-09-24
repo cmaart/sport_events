@@ -1,0 +1,25 @@
+{
+  "id": "ebm-united-erzgebirgs-bike-marathon-2027",
+  "name": "EBM United – Erzgebirgs-Bike-Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-07",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seiffen",
+    "lat": 50.6544,
+    "lng": 13.4531,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.ebm-united.de/",
+  "imageUrl": "https://www.ebm-united.de/pix/heads/00002025_03.jpg",
+  "description": "Der 35. Erzgebirgs-Bike-Marathon (EBM) findet am 7. und 8. August 2027 in Seiffen im Erzgebirge statt. Das Wochenende beginnt am Freitagabend mit einem Bergsprint, am Samstag folgen das EBM Race und die Langstrecke EBM300. Am Sonntag steht der klassische MTB-Marathon in mehreren Distanzen bis rund 100 Kilometer und etwa 2.500 Höhenmeter auf dem Programm. Die Strecken führen über die Kammlagen und Wälder des Erzgebirges rund um das Spielzeugdorf Seiffen. Unter dem Motto MTB IS KING stellt der Veranstalter 2027 das Mountainbike wieder in den Mittelpunkt.",
+  "distanceKm": 100,
+  "elevationGainM": 2500
+}

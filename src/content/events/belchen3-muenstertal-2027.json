@@ -1,0 +1,25 @@
+{
+  "id": "belchen3-muenstertal-2027",
+  "name": "Belchen³ – Trinationaler Rennrad-Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Münstertal",
+    "lat": 47.8693,
+    "lng": 7.7677,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.hirsch-sprung.com/kurse-reisen-events/rennrad-langstrecken-event-trinational-belchen-hoch3/",
+  "description": "Belchen³ ist ein trinationaler Rennrad-Marathon im Schwarzwald, der am 4. Juli 2027 mit Start und Ziel an der Belchenhalle in Münstertal stattfindet. Die Routen verbinden den Belchen im Schwarzwald, die Belchenflue im Schweizer Jura und den Grand Ballon in den Vogesen. Angeboten werden Belchen Speed über 120 Kilometer und 2.500 Höhenmeter, Ballon Battle über 220 Kilometer und 3.000 Höhenmeter sowie die Classic-Runde über 320 Kilometer und rund 4.200 Höhenmeter. Die Registrierung und Startnummernausgabe beginnt am Renntag bereits um 3:30 Uhr, die Logistik öffnet am Vortag an der Belchenhalle. Zusätzlich lassen sich die Strecken über eine Rallye-App von April bis Dezember individuell fahren. Die Veranstaltung wurde mit dem Trinationalen Sportpreis ausgezeichnet; die Startplätze sind begrenzt.",
+  "distanceKm": 320,
+  "elevationGainM": 4200,
+  "imageUrl": "https://www.hirsch-sprung.com/wp-content/uploads/2025/11/belchen-hoch-3-header.jpg"
+}

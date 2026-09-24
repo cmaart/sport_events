@@ -1,0 +1,25 @@
+{
+  "id": "flugfeld-giro-boeblingen-2027",
+  "name": "Flugfeld Giro Böblingen",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Böblingen",
+    "lat": 48.6887,
+    "lng": 9.0085,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://flugfeld-giro.de",
+  "description": "Der 2. Flugfeld Giro findet am Sonntag, 11. Juli 2027 auf dem historischen Flugfeld zwischen Böblingen und Sindelfingen statt. Nach der Premiere 2026 hat der Veranstalter den Termin bereits als Save the Date veröffentlicht, Details zu Touren und Strecken folgen. 2026 reichte das Angebot von der Familientour über 15 Kilometer bis zur Tour A über 208 Kilometer und 2.590 Höhenmeter durch Hecken- und Strohgäu. Dazwischen lagen Touren über 161, 132, 87 und 40 Kilometer mit Start an mehreren Orten der Region Stuttgart. Die Radtouren verbinden das urbane Flugfeld-Areal mit den Höhenzügen von Schönbuch und Heckengäu.",
+  "distanceKm": 208,
+  "elevationGainM": 2590,
+  "imageUrl": "https://flugfeld-giro.de/wp-content/uploads/go-x/u/28b29968-4fc6-4066-8d6a-62d9ec79ebd0/l57,t16,w1689,h814/image.png"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lakes-n-knoedel-fuschl-2027",
+  "name": "Lakes 'n' Knödel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-06",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fuschl am See",
+    "lat": 47.7999,
+    "lng": 13.2996,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://lakesnknoedel.com/",
+  "description": "Lakes 'n' Knödel ist ein selbstgestütztes Bikepacking-Abenteuer mit Start in Fuschl am See, das 2027 vom 6. bis 12. September stattfindet. Das Riders Briefing ist am 5. September, gestartet wird am 6. September, die Finish-Deadline liegt am 12. September. Die Route führt von der Salzburger Seenlandschaft durch die Nordalpen Richtung Westen; 2026 umfasste sie rund 725 Kilometer und 14.000 Höhenmeter bis nach Vorarlberg. Der GPX-Track inklusive Checkpoints wird spätestens vier Wochen vor dem Start veröffentlicht, die Ziellinie könnte laut Veranstalter wieder in Hittisau liegen. Unterwegs sind die Teilnehmenden auf sich allein gestellt – Verpflegung, Übernachtung und Pannenhilfe liegen in eigener Verantwortung.",
+  "distanceKm": 725,
+  "elevationGainM": 14000
+}

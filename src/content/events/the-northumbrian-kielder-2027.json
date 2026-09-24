@@ -1,0 +1,23 @@
+{
+  "id": "the-northumbrian-kielder-2027",
+  "name": "The Northumbrian Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kielder Water – Northumberland",
+    "lat": 55.1833,
+    "lng": -2.5
+  },
+  "websiteUrl": "https://thenorthumbrian.com/",
+  "description": "The Northumbrian findet am 26. und 27. Juni 2027 am Kielder Water im Kielder Water & Forest Park in Northumberland statt – es ist die sechste Ausgabe. Im Mittelpunkt steht 2027 der Half-Iron-Distanz-Triathlon, der auch als Team gestartet werden kann; dazu kommen ein Aquabike sowie Trailläufe über 28 km und 50 km (Ultra). Das Startfeld ist bewusst begrenzt. Geschwommen wird im größten künstlichen See Englands, Rad und Lauf führen durch Wälder und das hügelige Terrain Northumberlands. 2026 war Kielder Schauplatz der Britischen und Englischen Mitteldistanz-Meisterschaft.",
+  "distanceKm": 113,
+  "imageUrl": "https://usercontent.one/wp/thenorthumbrian.com/wp-content/uploads/2026/02/clorroecam_northumbrian-849-copy.jpg"
+}

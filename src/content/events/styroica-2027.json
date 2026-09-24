@@ -1,0 +1,25 @@
+{
+  "id": "styroica-2027",
+  "name": "Styroica",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-18",
+    "end": "2027-09-18",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Fehring",
+    "lat": 46.938,
+    "lng": 15.907,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.styroica.at/",
+  "imageUrl": "https://www.styroica.at/wp-content/uploads/2026/01/PS_5699.jpg",
+  "description": "Die Styroica in Fehring im Steirischen Thermen- und Vulkanland ist für den 18. September 2027 geplant. Die Veranstaltung ist eine Hommage an den historischen Radsport: Gefahren wird auf Stahlrädern mit Baujahr vor 1990 und in zeitgenössischer Kleidung. Im Angebot waren zuletzt die Genussroute mit 50 bis 60 Kilometern, die sportliche Route mit 110 bis 129 Kilometern und die heroische Route über rund 200 Kilometer und 2.200 Höhenmeter. Für 2027 kündigt der Veranstalter neben den bekannten auch neue Streckenvarianten an. Unterwegs führen die Routen durch das Hügelland der Südoststeiermark, vorbei an Buschenschänken und Kurorten wie Bad Gleichenberg. Das Datum ist laut Veranstalter als geplanter Termin kommuniziert.",
+  "distanceKm": 200,
+  "elevationGainM": 2200
+}

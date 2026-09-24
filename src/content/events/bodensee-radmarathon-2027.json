@@ -1,0 +1,23 @@
+{
+  "id": "bodensee-radmarathon-2027",
+  "name": "Bodensee Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-11",
+    "end": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bregenz",
+    "lat": 47.5031,
+    "lng": 9.7471,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://bodensee-radmarathon.ch",
+  "description": "Der 54. Bodensee-Radmarathon findet am Samstag, 11. September 2027 statt und führt einmal rund um den Bodensee durch Österreich, Deutschland und die Schweiz. Angeboten werden vier Distanzen über 300, 220, 150 und 80 Kilometer, gestartet werden kann an mehreren Orten rund um den See, darunter Bregenz. Die Strecken verlaufen weitgehend flach auf Uferstraßen und Radwegen durch Vorarlberg, das bayerische und baden-württembergische Ufer sowie den Thurgau. Der Radmarathon gehört zu den traditionsreichsten Breitensportveranstaltungen der Bodenseeregion. Am Sonntag, 12. September 2027 folgt mit dem Saint Gravel Bodensee ein Gravel-Ableger über 120, 80 oder 50 Kilometer. Die Anmeldung für beide Veranstaltungen ist über die offizielle Seite bereits möglich.",
+  "distanceKm": 300
+}

@@ -37,6 +37,9 @@
 - **Granfondo Alpes d'Azur (Nizza/Alpes-Maritimes, FR) — Auftaktausgabe für 27.09.2026 ~4 Tage vorher offiziell abgesagt (gfalpesdazur.com: „ANNULATION … un nombre d'inscrits beaucoup trop faible"). Volle Rückerstattung. Am 23.09.2026 entfernt. Aggregatoren führen es weiter aktiv.**
 - Mürzer Oberland Naturpark Duathlon (Steiermark) — 26.09.2026 offiziell abgesagt (ÖTRV „ABGESAGT“, fun-sports.at; BH-Genehmigungsstreit). Am 24.09. entfernt.
 - IRONMAN 70.3 Knokke-Heist (BE) — ironman.com Status „Discontinued“, ab 2027 ersetzt durch Volldistanz IRONMAN Belgium Knokke-Heist (eigene Datei). 70.3 nicht wieder anlegen.
+- Granfondo Pag Okt-2026 — Phantom (7. Ausgabe erst 15.05.2027, granfondopag.com). 2026-Datei am 24.09. entfernt, 2027-Datei korrekt.
+- Bergzeitfahren Schmelz Lollar 2026 + Rodltal-Bergkaiser 2026 — offiziell abgesagt, am 24.09. entfernt.
+- 2027-Pausen: Fichkona (wieder 2028), Montafon M3, Bayrisch Lettn, RügenChallenge.
 > Regel: Wer hier steht, wird nicht neu erzeugt. Neue Absagen hier ergänzen (mit Grund).
 
 ### ZU PRÜFEN (Phantom-Verdacht — vorhandene Events verifizieren)

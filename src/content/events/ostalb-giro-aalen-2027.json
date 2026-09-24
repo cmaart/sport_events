@@ -1,0 +1,25 @@
+{
+  "id": "ostalb-giro-aalen-2027",
+  "name": "Ostalb Giro",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aalen",
+    "lat": 48.838,
+    "lng": 10.0934,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.ostalb-giro.de",
+  "description": "Der Ostalb Giro findet am Sonntag, 13. Juni 2027 mit Start und Ziel in Aalen statt. Der Radmarathon im Ostalbkreis bietet fünf Strecken von der Family Tour über 30 Kilometer bis zum Gran Fondo über rund 235 Kilometer und 2.800 Höhenmeter. Die Routen führen über die Schwäbische Alb und durch Orte wie Ellwangen, Lauchheim und Neresheim. Als Auftakt bietet der Veranstalter am 11. April 2027 den Ostalb Gravel an. Der Termin ist als Save the Date veröffentlicht.",
+  "distanceKm": 235,
+  "elevationGainM": 2800
+}

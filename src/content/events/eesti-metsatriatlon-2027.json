@@ -1,0 +1,22 @@
+{
+  "id": "eesti-metsatriatlon-2027",
+  "name": "Eesti Metsatriatlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "EE",
+  "dates": {
+    "start": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karula Nationalpark – Antsla",
+    "lat": 57.726,
+    "lng": 26.381
+  },
+  "websiteUrl": "https://metsatriatlon.ee/en/forest-triathlon/",
+  "description": "Der 6. Estonian Forest Triathlon (Eesti Metsatriatlon) findet am 10. Juli 2027 im Karula-Nationalpark in Südestland statt; die Registrierung ist geöffnet. Es ist die einzige Offroad-Langdistanz Estlands: 3,8 km Schwimmen bei Sonnenaufgang im Ähijärv, 180 km Rad auf Forst- und Wanderwegen des Kreises Võru mit rund 2.000 Höhenmetern und 42 km Laufen auf Waldtrails mit etwa 600 Höhenmetern. Zusätzlich gibt es eine Halbdistanz über 1,9 km, 100 km und 23 km. Die Teilnehmerzahl ist im Naturschutzgebiet auf 150 begrenzt, gestartet werden kann einzeln oder im Team mit bis zu sechs Personen. Bislang haben laut Veranstalter erst 58 Personen die volle Distanz gefinisht.",
+  "distanceKm": 226,
+  "imageUrl": "https://metsatriatlon.ee/wp-content/uploads/2022/12/bike-racing-1.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vitruvian-rutland-2027",
+  "name": "Vitruvian",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rutland Water",
+    "lat": 52.659,
+    "lng": -0.622
+  },
+  "websiteUrl": "https://www.thevitruviantriathlon.com/",
+  "description": "Der Vitruvian Triathlon findet am Sonntag, 12. September 2027 in Whitwell am Rutland Water in den englischen East Midlands statt, veranstaltet von Pacesetter Events. Der Klassiker unter den britischen Mitteldistanzen umfasst 1,9 km Schwimmen in zwei Runden in einer geschützten Bucht, 89 km Rad in drei Runden auf offenen, weitgehend flachen Straßen und 21 km Laufen in zwei Runden auf asphaltierten Wegen am See. Neben Einzelstarts sind Aquabike und Staffel möglich; Start ist ab 6:30 Uhr, Zielschluss um 15:30 Uhr, das Mindestalter beträgt 18 Jahre. Das Early-Bird-Startgeld liegt bei 159 £. Das Rennen ist beim britischen Verband BTF lizenziert.",
+  "distanceKm": 112
+}

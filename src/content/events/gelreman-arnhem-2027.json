@@ -1,0 +1,24 @@
+{
+  "id": "gelreman-arnhem-2027",
+  "name": "Gelreman",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Langdistanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Elst (bei Arnhem)",
+    "lat": 51.945,
+    "lng": 5.9
+  },
+  "websiteUrl": "https://www.gelreman.nl/",
+  "registrationUrl": "https://www.gelreman.nl/nl/aanmelden",
+  "description": "Die 8. Ausgabe des Gelreman findet am Samstag, 28. August 2027 in Elst am Südrand von Arnhem in der Provinz Gelderland statt. Herzstück ist die Volldistanz über 3,8 km Schwimmen, 180 km Rad und 42,2 km Laufen, daneben gibt es Halbdistanz-Formate. Unter dem Motto „strijden tussen de rivieren“ führen die Strecken durch die flache Flusslandschaft zwischen Rhein und Waal, die schnelle Zeiten begünstigt. Die Anmeldung für 2027 ist zunächst nur gemeinsam mit einer Person möglich, die sich als Freiwillige oder Freiwilliger für den Renntag meldet – mit ermäßigtem Startgeld ab 85 € bis 15. Oktober 2026; ab dem 16. Oktober ist die Anmeldung für alle geöffnet. Die Ausgabe 2026 war auf allen Distanzen ausverkauft.",
+  "distanceKm": 226
+}

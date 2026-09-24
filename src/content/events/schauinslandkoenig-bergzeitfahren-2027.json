@@ -1,0 +1,24 @@
+{
+  "id": "schauinslandkoenig-bergzeitfahren-2027",
+  "name": "Schauinslandkönig Bergzeitfahren",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-18",
+    "end": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Freiburg im Breisgau",
+    "lat": 47.941,
+    "lng": 7.8313,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.schauinslandkoenig.de",
+  "description": "Der Schauinslandkönig 2027 findet am Sonntag, 18. Juli 2027 auf dem Freiburger Hausberg statt. Das Bergzeitfahren führt über 11,5 Kilometer und rund 770 Höhenmeter von der Schauinslandstraße L 124 bis zur Bergstation der Schauinslandbahn. Gestartet wird im Einzelstart auf der komplett gesperrten Straße, die Starts folgen in kurzen Abständen. Die Startnummernausgabe und Nachmeldung sind am Samstag, 17. Juli, im Decathlon Freiburg vorgesehen. Die Veranstaltung gilt als eines der größten Bergzeitfahren Deutschlands.",
+  "distanceKm": 11.5,
+  "elevationGainM": 770
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sempachersee-triathlon-nottwil-2027",
+  "name": "CKW Sempachersee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nottwil",
+    "lat": 47.1347,
+    "lng": 8.1487
+  },
+  "websiteUrl": "https://www.sempacherseetri.ch/",
+  "description": "Der CKW Sempachersee Triathlon findet am Sonntag, 4. Juli 2027 in Nottwil am Sempachersee im Kanton Luzern statt; die Anmeldung wird voraussichtlich Ende 2026 aufgeschaltet. Der Veranstalter bewirbt ihn als „schnellsten Triathlon der Schweiz“ mit Blick auf Rigi und Pilatus. Geschwommen wird im Sempachersee, die Radstrecke ist komplett abgesperrt und flach, gelaufen wird auf verkehrsfreien Wegen. Das Programm umfasst die Triathlon Series, eine Short Distance als Volkstriathlon und Staffel, Duathlon und Para-Triathlon. Zentrum der Veranstaltung ist das Schweizer Paraplegiker-Zentrum in Nottwil.",
+  "distanceKm": 26,
+  "imageUrl": "https://www.sempacherseetri.ch/wp-content/uploads/2019/10/sempachersee-triathlon.jpg"
+}

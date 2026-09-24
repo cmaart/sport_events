@@ -1,0 +1,26 @@
+{
+  "id": "chiemgau-bike-trophy-ruhpolding-2027",
+  "name": "Chiemgau Bike Trophy",
+  "sport": "cycling",
+  "categories": [
+    "RTF",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-11",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Inzell",
+    "lat": 47.7633,
+    "lng": 12.7492,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.chiemgaubiketrophy.de",
+  "description": "Die Chiemgau Bike Trophy findet am 11. und 12. Juni 2027 statt und hat ihr Zentrum diesmal in Inzell in den Chiemgauer Alpen. Das Event versteht sich ausdrücklich als Genussveranstaltung: Es gibt keine Zeitnahme und keinen Wettkampf, im Mittelpunkt stehen Landschaft, regionale Produkte und Gemeinschaft. Die Strecken verbinden Inzell, Ruhpolding, Siegsdorf und Bergen und sind mit MTB, Rennrad oder Gravelbike befahrbar. 2026 reichte das Angebot von 50 bis 85 Kilometern, dazu kam eine 78 Kilometer lange Gravel-Route. Neben den Touren gibt es ein Rahmenprogramm für Familien und Kinder am Startgelände.",
+  "distanceKm": 85,
+  "elevationGainM": 1500,
+  "imageUrl": "https://static.wixstatic.com/media/34159a_64f424aa17274311be14c94907e0202c~mv2.jpg"
+}

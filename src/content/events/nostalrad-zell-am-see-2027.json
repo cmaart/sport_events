@@ -1,0 +1,22 @@
+{
+  "id": "nostalrad-zell-am-see-2027",
+  "name": "24. NostalRad Zell am See",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-17",
+    "end": "2027-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zell am See",
+    "lat": 47.3248,
+    "lng": 12.8,
+    "region": "Salzburg"
+  },
+  "websiteUrl": "https://www.nostalrad.com/",
+  "description": "Das 24. NostalRad in Zell am See findet am Samstag, 17. Juli 2027 statt. Europas größtes Nostalgie-Radrennen führt rund um den Zeller See und ist ausschließlich für historische Fahrräder aus der Zeit vor 1960 ausgeschrieben. Die Teilnehmerinnen und Teilnehmer aus Österreich, Deutschland, der Schweiz, Italien, Slowenien und Tschechien fahren in zeitgenössischer Kleidung. Moderne Carbon-Technik ist tabu, im Mittelpunkt stehen Stil, Gemeinschaft und das Festival rund um die Strecke. Die Anmeldung für 2027 ist bereits geöffnet; für 2028 kündigt der Veranstalter das 25-Jahr-Jubiläum an."
+}

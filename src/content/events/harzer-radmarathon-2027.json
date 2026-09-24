@@ -1,0 +1,25 @@
+{
+  "id": "harzer-radmarathon-2027",
+  "name": "Harzer Radmarathon (Harzumrundung)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Halberstadt",
+    "lat": 51.8976,
+    "lng": 11.0427,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://harz-radmarathon.de",
+  "description": "Der 4. Harzer Radmarathon findet am Samstag, 26. Juni 2027 mit Start und Ziel in Halberstadt statt. Herzstück ist die komplette Harzumrundung über rund 303 Kilometer und 3.000 Höhenmeter, eine der anspruchsvollsten Eintagesstrecken im Norden Deutschlands. Kürzere Varianten ab 22 Kilometern machen die Veranstaltung auch für Einsteiger zugänglich. Die Routen führen aus der historischen Domstadt Halberstadt rund um das Mittelgebirge mit Anstiegen an den Harzrändern. Die Anmeldung für 2027 ist bereits seit August 2026 geöffnet.",
+  "distanceKm": 303,
+  "elevationGainM": 3000,
+  "imageUrl": "https://harzumrundung.de/wp-content/uploads/2025/07/HarzerRadmarathon-1.jpeg"
+}

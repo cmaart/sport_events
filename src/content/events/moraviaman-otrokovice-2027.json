@@ -1,0 +1,22 @@
+{
+  "id": "moraviaman-otrokovice-2027",
+  "name": "MoraviaMan Triathlon Otrokovice",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Otrokovice",
+    "lat": 49.2008,
+    "lng": 17.5263
+  },
+  "websiteUrl": "https://www.moraviaman.cz/",
+  "imageUrl": "https://i.ytimg.com/vi/DDN_o3fqEKs/maxresdefault.jpg",
+  "description": "Der MORAVIAMAN findet am 26. Juni 2027 in Otrokovice in Mähren statt – der Veranstalter bewirbt ihn als längsten Triathlon Tschechiens. Die Volldistanz über 226 km umfasst eine Schwimmrunde, fünf Radschleifen von rund 45 km und vier Laufrunden; zusätzlich gibt es kürzere Distanzen, Staffelwertungen und einen Kindertriathlon. 2026 gingen 373 Aktive an den Start, die zusammen 46.793 km zurücklegten; das tschechische Fernsehen ČT sport übertrug das Rennen, zudem gab es einen YouTube-Livestream. Ergebnisse werden über irontime.cz veröffentlicht. Organisiert wird das Rennen vom Triatlon Club Otrokovice.",
+  "distanceKm": 226
+}

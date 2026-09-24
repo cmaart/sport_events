@@ -1,0 +1,23 @@
+{
+  "id": "sonnewalder-schlosspark-gravel-2027",
+  "name": "Sonnewalder Schlosspark-Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "end": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sonnewalde",
+    "lat": 51.5747,
+    "lng": 13.6397,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://gravel.rsv-finsterwalde.de/",
+  "description": "Der 3. Sonnewalder Schlosspark-Gravel des RSV Finsterwalde findet am 11. Juli 2027 in Sonnewalde in der Niederlausitz statt. Zuletzt standen vier Distanzen über 3,5, 30, 55 und 110 Kilometer zur Wahl. Die Strecken führen durch Wälder und Heidelandschaften der Region. Höhepunkt ist die Zieleinfahrt durch das historische Schlosstor direkt in den Schlosspark Sonnewalde. Veranstalter ist der RSV Finsterwalde e.V.",
+  "distanceKm": 110
+}

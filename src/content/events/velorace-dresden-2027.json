@@ -1,0 +1,24 @@
+{
+  "id": "velorace-dresden-2027",
+  "name": "SKODA Velorace Dresden",
+  "sport": "cycling",
+  "categories": [
+    "Rundstreckenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-08",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dresden",
+    "lat": 51.0504,
+    "lng": 13.7373,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.velorace-dresden.de/",
+  "description": "Das SKODA Velorace Dresden findet am 7. und 8. August 2027 statt, das Hauptrennen ist am Sonntag, 8. August. Gefahren wird auf einem rund 17 Kilometer langen, gesperrten Rundkurs durch die Dresdner Innenstadt vorbei an Zwinger, Semperoper und Frauenkirche. Zuletzt standen Distanzen über 102, 51, 34 und 17 Kilometer zur Wahl, jeweils mit Mindestgeschwindigkeiten. Am Samstag stehen Angebote für Kinder und ein inklusives Rennen auf dem Programm. Die Anmeldung für 2027 öffnete bereits im August 2026 mit einem Warm-up-Tarif.",
+  "distanceKm": 102,
+  "imageUrl": "https://www.velorace-dresden.de/wp-content/uploads/2024/08/2024_velorace_start.jpg"
+}

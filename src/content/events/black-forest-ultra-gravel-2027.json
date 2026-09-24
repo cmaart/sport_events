@@ -1,0 +1,24 @@
+{
+  "id": "black-forest-ultra-gravel-2027",
+  "name": "Black Forest Ultra Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-23",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kirchzarten",
+    "lat": 47.9611,
+    "lng": 7.9541,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://ultra-bike.de",
+  "description": "Der Black Forest ULTRA Gravel ist der Gravel-Ableger des Black Forest ULTRA Bike Marathons und Teil des Festivalwochenendes vom 23. bis 25. Juli 2027 in Kirchzarten. 2026 gingen rund 600 Teilnehmende auf die Schotterrouten, die lange Strecke umfasste rund 120 Kilometer und etwa 3.500 Höhenmeter. Die Routen führen über Forstwege und Schotterpisten durch die Tannenwälder und Flusstäler des südlichen Schwarzwalds. Start und Ziel liegen im Dreisamtal östlich von Freiburg, wo auch das Veranstaltungsgelände des MTB-Marathons liegt. Das genaue Tagesprogramm für 2027 veröffentlicht der Veranstalter im Zeitplan auf der offiziellen Seite.",
+  "distanceKm": 120,
+  "elevationGainM": 3500
+}

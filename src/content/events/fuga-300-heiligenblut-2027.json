@@ -1,0 +1,24 @@
+{
+  "id": "fuga-300-heiligenblut-2027",
+  "name": "FUGA 300 – Vom Gletscher zum Meer",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-18",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heiligenblut / Großglockner",
+    "lat": 47.0375,
+    "lng": 12.8456,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.fuga300.com/",
+  "description": "Die FUGA 300 – Vom Gletscher zum Meer findet vom 18. bis 20. Juni 2027 statt und verbindet in einer Tagesetappe die Großglockner-Region mit der Adria. Start ist an der Kaiser-Franz-Josefs-Höhe auf rund 2.550 Metern, das Ziel liegt nach 300 Kilometern und rund 5.300 Höhenmetern in Grado. Die Route führt über Heiligenblut, Spittal an der Drau und Villach nach Tarvis, weiter durch das Kanaltal und die Friauler Ebene bis ans Meer. Das Teilnehmerfeld ist bewusst klein gehalten: Die Ausgabe 2027 ist laut Veranstalter bereits ausgebucht, Interessierte können sich auf die Warteliste setzen.",
+  "distanceKm": 300,
+  "elevationGainM": 5300
+}

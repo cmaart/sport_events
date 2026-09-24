@@ -1,0 +1,24 @@
+{
+  "id": "jonastaler-challenge-2027",
+  "name": "Jonastaler Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Zeitfahren"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arnstadt",
+    "lat": 50.836,
+    "lng": 10.9465,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://jonastaler-challenge.de/",
+  "description": "Die Jonastaler Challenge ist ein Einzelzeitfahren durch das Jonastal bei Arnstadt in Thüringen und findet am 5. Juni 2027 statt. Die Strecke misst 24,8 Kilometer: 12,4 Kilometer leicht ansteigend bis zum Wendepunkt bei Crawinkel und 12,4 Kilometer zurück. Rund 140 Richtungswechsel auf der gewundenen Talstraße machen den Kurs technisch anspruchsvoll. 2027 wird die Challenge zugleich als Thüringer Meisterschaft im Einzelzeitfahren ab der U13 ausgetragen. Marcel Kittel lobte das Format als weltweit einzigartiges Zeitfahren.",
+  "distanceKm": 25,
+  "elevationGainM": 200
+}

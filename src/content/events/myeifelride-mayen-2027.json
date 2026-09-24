@@ -1,0 +1,26 @@
+{
+  "id": "myeifelride-mayen-2027",
+  "name": "MyEifelRide",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mayen",
+    "lat": 50.329,
+    "lng": 7.2259,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.myeifelride.de/",
+  "description": "Die vierte Ausgabe von MyEifelRide findet am 12. und 13. Juni 2027 in Mayen in der Osteifel statt. Das Radsportfestival des RSC Eifelland Mayen verbindet Road, Gravel, Social Rides und Kinderangebote. Die Rennradstrecken führen durch die Vulkaneifel und bis an die Mosel mit ihren Weinbergen, zuletzt mit Distanzen zwischen 62 und über 200 Kilometern. Am Samstag stehen traditionell Brevets und Social Rides auf dem Programm, am Sonntag das Hauptprogramm. Der Termin ist als Save the Date veröffentlicht, weitere Infos folgen laut Veranstalter zu gegebener Zeit.",
+  "distanceKm": 209,
+  "elevationGainM": 2700,
+  "imageUrl": "https://26a34597b9.clvaw-cdnwnd.com/06b030d855ff0f58e0950d4710d291c8/200000200-b4140b4141/road.jpeg"
+}

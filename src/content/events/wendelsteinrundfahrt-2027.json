@@ -1,0 +1,25 @@
+{
+  "id": "wendelsteinrundfahrt-2027",
+  "name": "Wendelsteinrundfahrt",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Au bei Bad Feilnbach",
+    "lat": 47.764,
+    "lng": 12.065,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.wendelsteinrundfahrt.de/",
+  "description": "Die nächste Wendelsteinrundfahrt des Ski-Club Au findet am Samstag, 21. August 2027 statt. Start und Ziel liegen in Au bei Bad Feilnbach am Fuß des Wendelsteins im oberbayerischen Inntal. Zuletzt gab es vier Strecken: eine Familienstrecke über 50 Kilometer, Strecke B über 120 Kilometer, Strecke A über 165 Kilometer und den Marathon über rund 205 Kilometer und 3.050 Höhenmeter. Die genaue Route wird traditionell erst kurz vor dem Event veröffentlicht. Der Anmeldestart ist für Mitte Mai 2027 angekündigt.",
+  "distanceKm": 205,
+  "elevationGainM": 3050,
+  "imageUrl": "https://www.wendelsteinrundfahrt.de/fileadmin/daten-wrf/WRF_Bilder_2025/Enge_Auswahl/Wendelsteinrundfahrt_2025-55.jpg"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vintage-tour-donau-2027",
+  "name": "Vintage-Tour Donau",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rohrendorf",
+    "lat": 48.4011,
+    "lng": 15.6225,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.vintage-tour.at/",
+  "description": "Die Vintage-Tour Donau findet am 5. September 2027 mit Start beim Weingut Lenz Moser in Rohrendorf bei Krems statt. Zugelassen sind klassische Stahlrahmen-Räder mit Baujahr 1990 oder älter, passendes Retro-Outfit ist ausdrücklich erwünscht. Zwei Routen stehen zur Wahl: die Vintage-Tour über 69 Kilometer mit 570 Höhenmetern und die Vintage-Tour+ über 99 Kilometer mit 820 Höhenmetern. Die Strecken führen über Wirtschaftswege, Schotterabschnitte und Weingärten durch das Kremstal und die Wachau, unter anderem vorbei an Schloss Gobelsburg. Es gibt keine Zeitnahme und keinen Rennmodus – die Ausfahrt versteht sich als Genussfahrt für Liebhaber historischer Räder.",
+  "distanceKm": 99,
+  "elevationGainM": 820,
+  "imageUrl": "https://static.wixstatic.com/media/89d41b_91fd18c493564c368040542d3dce4f10~mv2.jpg"
+}

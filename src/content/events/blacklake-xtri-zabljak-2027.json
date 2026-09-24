@@ -1,0 +1,23 @@
+{
+  "id": "blacklake-xtri-zabljak-2027",
+  "name": "Blacklake Montenegro Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "ME",
+  "dates": {
+    "start": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Žabljak, Durmitor-Nationalpark",
+    "lat": 43.1454,
+    "lng": 19.0907
+  },
+  "websiteUrl": "https://blackxtri.com/",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/5bf1a2c9266c071071378f47/1571169693226-HTQ2WXF6RD3T8QBV43Y6/image-asset.jpeg",
+  "description": "Der Blacklake Montenegro Xtreme Triathlon findet am 11. September 2027 im Durmitor-Nationalpark bei Žabljak statt; die Anmeldung ist geöffnet. Um 4:30 Uhr starten die Athletinnen und Athleten zu 3,8 km Schwimmen im Schwarzen See (Crno jezero) auf rund 1.400 m Höhe, bei 13 bis 17 °C Wassertemperatur und mit einer natürlichen Brücke zwischen Großem und Kleinem See. Die 182 km lange Radstrecke mit 3.200 Höhenmetern führt durch die Tara-Schlucht, den tiefsten Canyon Europas, und über die Đurđevića-Tara-Brücke. Der Marathon mit 1.700 Höhenmetern verläuft auf Berg- und Waldtrails zurück zum Schwarzen See; zwischen Kilometer 10 und 24 ist ein Begleitläufer Pflicht. Das Rennen gehört zur XTRI World Tour, zudem gibt es ein Solo-Point-Five-Format.",
+  "distanceKm": 228,
+  "elevationGainM": 4900
+}

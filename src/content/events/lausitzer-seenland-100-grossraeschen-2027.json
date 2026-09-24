@@ -1,0 +1,24 @@
+{
+  "id": "lausitzer-seenland-100-grossraeschen-2027",
+  "name": "Lausitzer Seenland 100",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-03",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Großräschen",
+    "lat": 51.591,
+    "lng": 14.009,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://seenland100.de/",
+  "description": "Das 22. Lausitzer Seenland 100 findet am 3. und 4. Juli 2027 am Hafen Großräschen statt. Kern ist der Radmarathon durch das entstehende Lausitzer Seenland, dessen lange Goldtour über 201 Kilometer bei nur rund 580 Höhenmetern führt. Fünf Streckenvarianten zwischen 40 und 201 Kilometern führen über Radwege und Nebenstraßen zwischen den gefluteten ehemaligen Tagebauen. Am zweiten Tag ergänzen Lauf- und Inline-Bewerbe das Programm. Die Online-Anmeldung für 2027 ist bereits eingerichtet.",
+  "distanceKm": 201,
+  "elevationGainM": 580
+}

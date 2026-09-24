@@ -1,0 +1,25 @@
+{
+  "id": "ironbike-ischgl-2027",
+  "name": "Ischgl Ironbike",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-06",
+    "end": "2027-08-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ischgl",
+    "lat": 47.012,
+    "lng": 10.291,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.ischgl.com/en/events-experiences/ischgl-ironbike",
+  "imageUrl": "https://www.ischgl.com/002_ISCHGL/SOMMER/EVENTS/IRONBIKE/2026%20KEY/155797461/image-thumb__155797461__hero/00_KEY_IRONBIKE_2026%20%281%29.jpg",
+  "description": "Der 32. Ischgl Ironbike findet am 6. und 7. August 2027 im Tiroler Paznauntal statt. Am Freitag stehen die Nachwuchsrennen und ein Short Track auf dem Programm, am Samstag folgt der MTB-Marathon in vier Distanzen. Light führt über 30 Kilometer und 700 Höhenmeter, Medium über 53 Kilometer und 1.900 Höhenmeter, Hard über 65 Kilometer und 2.600 Höhenmeter. Die Extreme-Strecke misst 82 Kilometer mit rund 3.350 Höhenmetern auf alpinen Trails und Schotterwegen rund um Ischgl. Der Ironbike gehört zu den traditionsreichsten Mountainbike-Marathons Österreichs; die Anmeldung ist bereits geöffnet.",
+  "distanceKm": 82,
+  "elevationGainM": 3350
+}

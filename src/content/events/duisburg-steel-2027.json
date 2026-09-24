@@ -1,0 +1,23 @@
+{
+  "id": "duisburg-steel-2027",
+  "name": "Duisburg Steel Classic Bike Tour",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Duisburg",
+    "lat": 51.4749,
+    "lng": 6.7671,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.duisburg-steel.de/",
+  "description": "Die Duisburg Steel Classic Bike Tour findet am Samstag, 5. Juni 2027 bereits zum sechsten Mal statt. Start und Ziel liegen im Landschaftspark Duisburg-Nord, dem ehemaligen Hüttenwerk, das der Tour ihre Industriekultur-Kulisse gibt. Die Ausfahrt richtet sich an Fahrerinnen und Fahrer klassischer Stahlrahmen-Rennräder. Vier Routen zwischen rund 47 und 112 Kilometern führen durch das Ruhrgebiet mit seinem Industriekultur-Charme. Gewertet wird nicht – unterwegs sammeln die Teilnehmenden Stempel an bis zu acht Kontrollstellen. Tickets für 2027 sind bereits über die offizielle Seite erhältlich.",
+  "distanceKm": 112
+}

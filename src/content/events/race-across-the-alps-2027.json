@@ -1,0 +1,25 @@
+{
+  "id": "race-across-the-alps-2027",
+  "name": "Race Across The Alps",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nauders",
+    "lat": 46.898,
+    "lng": 10.507,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://raceacrossthealps.com",
+  "description": "Das 26. Race Across The Alps startet am 25. Juni 2027 in Nauders im Tiroler Oberland und gilt als eines der härtesten Eintages-Radrennen der Welt. Die Strecke führt über rund 525 Kilometer und 14.500 Höhenmeter durch Österreich, die Schweiz und Italien, das Zeitlimit beträgt 32 Stunden. Start und Ziel liegen in Nauders am Reschenpass, dazwischen reiht sich ein Alpenpass an den nächsten. Das Rennen ist offizielles Qualifikationsrennen für das Race Across America und 2027 zugleich Austragungsort der österreichischen Meisterschaften im Ultracycling Solo. Die Anmeldung für 2027 ist auf der Veranstalterseite geöffnet.",
+  "distanceKm": 525,
+  "elevationGainM": 14500
+}

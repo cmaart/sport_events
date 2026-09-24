@@ -1,0 +1,22 @@
+{
+  "id": "triathlon-vichy-format-l-2027",
+  "name": "Triathlon de Vichy – Format L",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bellerive-sur-Allier",
+    "lat": 46.12,
+    "lng": 3.408
+  },
+  "websiteUrl": "https://triathlondevichy.com/",
+  "description": "Das Format L des Triathlon de Vichy findet am Sonntag, 27. Juni 2027 statt – Hauptrennen des großen Triathlon-Wochenendes vom 25. bis 27. Juni am Palais du Lac in Vichy. Die Mitteldistanz umfasst 2.000 m Schwimmen im Plan d'Eau, 87 km Rad mit rund 620 Höhenmetern und 20 km Laufen; Start ist um 7:00 Uhr, Windschattenfahren ist verboten, Staffeln sind erlaubt. Rund um das Rennen gibt es mehr als zehn Formate, darunter die Olympische Distanz am Samstag, Kinderrennen, eine Firmenchallenge und den 10K Night. 2026 zählte die Veranstaltung 5.355 Teilnehmende und 350 Freiwillige. Die Anmeldung für 2027 ist geöffnet.",
+  "distanceKm": 109,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/france/auvergne-rhone-alpes/allier/triathlon-de-vichy/un9n302gfthgoa7yph5t"
+}

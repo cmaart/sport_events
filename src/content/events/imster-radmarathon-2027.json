@@ -1,0 +1,25 @@
+{
+  "id": "imster-radmarathon-2027",
+  "name": "Imster Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Imst",
+    "lat": 47.2402,
+    "lng": 10.7332,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.imster-radmarathon.at",
+  "description": "Der 11. Imster Radmarathon findet am Sonntag, 23. Mai 2027 mit Start beim Agrarzentrum West in Imst im Tiroler Oberland statt. Nach der ausverkauften Jubiläumsausgabe 2026 mit rund 1.500 Teilnehmenden bleiben voraussichtlich die drei Strecken im Programm: Panorama (70 km, 1.100 Hm), Standard (90 km, 1.700 Hm) und Challenge (110 km, 2.300 Hm). Die Routen führen durch das Tiroler Oberland, ins Ötztal und über die umliegenden Bergstraßen. Die Startnummernausgabe erfolgt am Samstag, 22. Mai, sowie am Renntag früh morgens im Agrarzentrum West. Der Imster Radmarathon ist in den Tiroler Rennradcup 2027 eingebunden; die Anmeldung ist bereits online.",
+  "distanceKm": 110,
+  "elevationGainM": 2300
+}

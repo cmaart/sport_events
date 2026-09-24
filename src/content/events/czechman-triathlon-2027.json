@@ -1,0 +1,22 @@
+{
+  "id": "czechman-triathlon-2027",
+  "name": "CZECHMAN Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dolany – Písník Hrádek",
+    "lat": 50.1193,
+    "lng": 15.7167
+  },
+  "websiteUrl": "https://www.czechman.cz/en",
+  "description": "Der CZECHMAN Triathlon findet am 12. Juni 2027 am Baggersee Hrádek in Dolany bei Pardubice in Ostböhmen statt. Hauptrennen ist die Mitteldistanz über 1,9 km Schwimmen, 90 km Rad und 21,1 km Laufen, einzeln oder als Staffel. Dazu kommen eine kürzere Short-Distanz (auch als Staffel), ein Schwimmwettbewerb (CZECHMAN Swim), Kinder- und Familienrennen. Der Veranstalter lobt Preisgeld aus und bietet Leihräder vom Typ Cervélo P-Series an. Die Registrierung für 2027 wurde auf der offiziellen Seite angekündigt; das Rennen war in den Vorjahren ausgebucht.",
+  "distanceKm": 113,
+  "imageUrl": "https://www.czechman.cz/data/filecache/e9/Bez-nazvu-4_3_3.jpg"
+}

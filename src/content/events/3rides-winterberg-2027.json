@@ -1,0 +1,24 @@
+{
+  "id": "3rides-winterberg-2027",
+  "name": "3RIDES Winterberg",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Winterberg",
+    "lat": 51.195,
+    "lng": 8.524,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://winterberg.3rides.de",
+  "description": "3RIDES Gravel Winterberg findet 2027 vom 25. bis 27. Juni im Hochsauerland statt und rückt damit gegenüber 2026 um drei Wochen nach vorne. Das dreitägige Gravel-Event auf Schotter- und Waldwegen rund um Winterberg war 2026 Teil der UCI Gravel World Series. Die Stages verteilen sich auf drei Tage, zuletzt bildete die dritte Stage über 43 Kilometer und 1.000 Höhenmeter mit hohem Offroad-Anteil das Wertungsrennen. Veranstalter ist die 3RIDES-Serie, die auch den Gran Fondo an der Südlichen Weinstraße ausrichtet. Die Anmeldung für 2027 öffnet laut Veranstalter in Kürze.",
+  "distanceKm": 43,
+  "elevationGainM": 1000
+}

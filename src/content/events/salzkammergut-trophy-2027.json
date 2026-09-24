@@ -1,0 +1,25 @@
+{
+  "id": "salzkammergut-trophy-2027",
+  "name": "Salzkammergut Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-17",
+    "end": "2027-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Goisern am Hallstättersee",
+    "lat": 47.6381,
+    "lng": 13.6254,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.salzkammergut-trophy.at/",
+  "description": "Die 30. Salzkammergut Trophy findet am Samstag, 17. Juli 2027 in Bad Goisern am Hallstättersee statt, eingebettet in ein Festivalwochenende vom 16. bis 18. Juli. Österreichs größter MTB-Marathon bietet sieben Marathonstrecken zwischen 22 und 201 Kilometern sowie mehrere Gravel-Routen. Die Extremstrecke A misst 201,9 Kilometer mit rund 7.020 Höhenmetern und führt durch das UNESCO-Welterbe Hallstatt–Dachstein – sie gilt als einer der härtesten Eintages-MTB-Marathons Europas. Regelmäßig starten über 3.500 Bikerinnen und Biker aus dem In- und Ausland. Zum Jubiläum ist die Anmeldung für 2027 bereits geöffnet, für kurze Zeit noch zu den Tarifen von 2026.",
+  "distanceKm": 201,
+  "elevationGainM": 7020,
+  "imageUrl": "https://www.salzkammergut-trophy.at/_uploads/_fotos/10113_0358_Salzkammergut_Trophy25_Bernd_Schrckelsberger_Presse.jpg"
+}

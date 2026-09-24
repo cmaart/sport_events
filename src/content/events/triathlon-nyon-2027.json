@@ -1,0 +1,24 @@
+{
+  "id": "triathlon-nyon-2027",
+  "name": "Triathlon de Nyon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-08-07",
+    "end": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nyon",
+    "lat": 46.3833,
+    "lng": 6.2333
+  },
+  "websiteUrl": "https://www.trinyon.ch/en/",
+  "description": "Der Triathlon de Nyon findet 2027 am 7. und 8. August direkt am Genfersee statt – die Veranstalter haben den Termin nach der 37. Auflage als „Save the date“ bekanntgegeben. Aus einem kleinen Regionalrennen mit weniger als 300 Startenden seit 1989 ist laut Veranstalter der größte Triathlon der Schweiz geworden, mit über 2.500 Athletinnen und Athleten, rund 8.000 Zuschauern und 300 Freiwilligen; die Organisation ist zu 100 % ehrenamtlich. Angeboten werden die Olympische Distanz (1,5 / 42 / 10 km), eine Short Distance (500 m / 21 km / 5 km), der Discovery-Triathlon für Einsteiger (250 m / 10,5 km / 2,5 km), Duathlon, Aquathlon sowie Kinder- und Familienrennen. Die Online-Anmeldung öffnet traditionell im Februar.",
+  "distanceKm": 53.5,
+  "imageUrl": "https://www.trinyon.ch/wp-content/uploads/2024/02/triathlon-de-nyon-home-bandeau-images-02@2x.jpg"
+}

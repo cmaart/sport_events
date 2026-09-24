@@ -1,0 +1,26 @@
+{
+  "id": "mondsee-5-seen-radmarathon-2027",
+  "name": "Mondsee 5-Seen-Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-19",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mondsee",
+    "lat": 47.8542,
+    "lng": 13.3475,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.mondsee-radmarathon.com",
+  "description": "Der Mondsee 5-Seen Radmarathon findet am 19. und 20. Juni 2027 rund um die Basilika in Mondsee statt. Der Klassiker im Salzkammergut führt an Mondsee, Fuschlsee, Wolfgangsee, Hallstättersee und Attersee vorbei. Drei Strecken stehen zur Wahl: 75 Kilometer mit rund 400 Höhenmetern, 140 Kilometer mit 1.400 Höhenmetern und die große Runde über 200 Kilometer mit rund 2.600 Höhenmetern. Jedes Jahr kommen rund 2.500 Teilnehmerinnen und Teilnehmer aus über 40 Nationen ins Mondseeland, die Veranstaltung wurde von den Startern mehrfach zum beliebtesten Radmarathon Europas gewählt. Zum Programm gehören außerdem ein Handbike-Rennen und Kinderbewerbe. Die Ausgabe 2026 war ausverkauft, eine frühe Anmeldung für 2027 ist daher empfehlenswert.",
+  "distanceKm": 200,
+  "elevationGainM": 2600,
+  "imageUrl": "https://www.mondsee-radmarathon.com/images/2025/07/09/13595_cor2drone1_00022.jpg"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bergkaiser-radmarathon-kematen-2027",
+  "name": "Bergkaiser Radmarathon Kematen",
+  "sport": "cycling",
+  "categories": [
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-07",
+    "end": "2027-08-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kematen in Tirol",
+    "lat": 47.2571,
+    "lng": 11.2295,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.radsportevents.com/bergkaiser-radrennen",
+  "description": "Der Bergkaiser ist ein reines Bergrennen von Kematen in Tirol hinauf ins Kühtai und findet am Samstag, 7. August 2027 statt. Start ist um 9:00 Uhr beim Bäcker Ruetz in Kematen, das Ziel liegt nach rund 25 Kilometern und etwa 1.400 Höhenmetern auf über 2.000 Metern Seehöhe. Die Strecke folgt dem Sellraintal über Sellrain, Gries im Sellrain, St. Sigmund und Haggen und kennt praktisch keine Erholungsabschnitte. Veranstalter ist Radsportevents Tirol, die Anmeldung läuft online über die Veranstalterseite. Ein Gepäcktransport bringt die Wechselkleidung ins Ziel, wo Verpflegung und Siegerehrung in hochalpiner Kulisse warten. Für Kletterspezialisten ist der Bergkaiser ein fester Termin im Tiroler Sommer.",
+  "distanceKm": 25,
+  "elevationGainM": 1400
+}

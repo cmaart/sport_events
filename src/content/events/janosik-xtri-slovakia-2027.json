@@ -1,0 +1,23 @@
+{
+  "id": "janosik-xtri-slovakia-2027",
+  "name": "Jánošík Slovak Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oravská Priehrada → Terchová",
+    "lat": 49.4015,
+    "lng": 19.5099
+  },
+  "websiteUrl": "https://svkxtri.com/",
+  "imageUrl": "https://svkxtri.com/wp-content/uploads/2017/07/janosik-5.jpg",
+  "description": "Die 11. Ausgabe des Jánošík Slovak Xtreme Triathlon findet am 4. September 2027 statt, die Registrierung für 2027 ist auf der offiziellen Seite verlinkt. Das Rennen der XTRI World Tour führt durch die Regionen Orava und Kleine Fatra im Norden der Slowakei, auf den Spuren des Volkshelden Juraj Jánošík. Geschwommen werden 3,8 km im Orava-Stausee, danach folgen rund 185 km Rad mit acht Anstiegen und ein Trail-Marathon bis zur Jánošík-Statue in Terchová; insgesamt kommen je nach Angabe 5.000 bis 5.800 Höhenmeter zusammen. Wie bei allen XTRI-Rennen braucht jede Athletin und jeder Athlet einen persönlichen Supporter. Finisher, die alle Checkpoints und Cut-offs schaffen, erhalten das blaue T-Shirt, die übrigen das weiße.",
+  "distanceKm": 231,
+  "elevationGainM": 5800
+}

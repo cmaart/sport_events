@@ -1,0 +1,24 @@
+{
+  "id": "schwarzwald-ultra-radmarathon-2027",
+  "name": "Schwarzwald Ultra Radmarathon (SURM)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-19",
+    "end": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alpirsbach",
+    "lat": 48.3454,
+    "lng": 8.4135,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.surm.de",
+  "description": "Der 36. Schwarzwald Ultra Radmarathon (SURM) findet am Sonntag, 19. September 2027 in Alpirsbach statt. Veranstalter ist der RSV Alpirsbach, der den Traditions-Radmarathon mit vielen Ehrenamtlichen ausrichtet. Angeboten werden drei Strecken über 230, 150 und 85 Kilometer durch den Naturpark Schwarzwald vom Nord- in den mittleren Schwarzwald. Die lange Strecke überquert mehrfach die Kammhöhen und kommt auf rund 4.500 Höhenmeter. 2026 meldete der Veranstalter einen neuen Teilnehmerrekord; der Anmeldestart für 2027 wird rechtzeitig bekannt gegeben.",
+  "distanceKm": 230,
+  "elevationGainM": 4500
+}

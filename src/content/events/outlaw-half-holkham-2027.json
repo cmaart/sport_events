@@ -1,0 +1,22 @@
+{
+  "id": "outlaw-half-holkham-2027",
+  "name": "Outlaw Half Holkham",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Holkham Estate – Norfolk",
+    "lat": 52.9494,
+    "lng": 0.8073
+  },
+  "websiteUrl": "https://outlawtriathlon.com/outlaw-holkham/outlaw-half",
+  "description": "Der Outlaw Half Holkham findet am Sonntag, 4. Juli 2027 auf dem historischen Holkham Estate bei Wells-next-the-Sea an der Küste von Norfolk statt – und ist bereits ausverkauft. Geschwommen werden 1,9 km (1.2 Meilen) im privaten See des Anwesens vor der Kulisse von Holkham Hall, gestartet wird im Rolling-Start-Format. Die 90 km (56 Meilen) lange Radrunde führt über wellige Straßen durch North Norfolk vorbei am Sandringham Estate und endet mit dem Anstieg zum Obelisken. Anschließend folgt ein Halbmarathon über 21,1 km durch den Park. Rund um das Rennwochenende gibt es Aquabike, einen Gravel-Sprint, den Holkham 10k, Kinderrennen und Camping.",
+  "distanceKm": 113,
+  "imageUrl": "https://cdn.prod.website-files.com/688ce20dbd07239c65f1a79e/688ce20dbd07239c65f1a882_Half%20Holkam%20Stunning%20Venue.webp"
+}

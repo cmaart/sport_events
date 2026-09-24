@@ -1,0 +1,24 @@
+{
+  "id": "fichtelberg-radmarathon-chemnitz-2027",
+  "name": "Fichtelberg Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Chemnitz",
+    "lat": 50.8279,
+    "lng": 12.9214,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://fichtelberg-radmarathon.de/",
+  "description": "Der 15. Fichtelberg Radmarathon findet am Sonntag, 6. Juni 2027 statt – der Veranstalter hat den Termin bereits als Save the Date veröffentlicht. Die Strecke führt von Chemnitz über rund 94 Kilometer und 1.820 Höhenmeter hinauf auf den Fichtelberg, mit 1.215 Metern der höchste Gipfel Sachsens. Unterwegs geht es durch das Erzgebirgsvorland mit zunehmendem Kletteranteil Richtung Oberwiesenthal. Das Teilnehmerfeld ist limitiert. Die Ausschreibung für die 15. Auflage ist auf der offiziellen Seite abrufbar.",
+  "distanceKm": 94,
+  "elevationGainM": 1820
+}

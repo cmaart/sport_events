@@ -1,0 +1,24 @@
+{
+  "id": "seaside-ride-gravel-rerik-2027",
+  "name": "Seaside Ride Gravel Rerik",
+  "sport": "cycling",
+  "categories": [
+    "Gravel",
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-25",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ostseebad Rerik",
+    "lat": 54.1051,
+    "lng": 11.6366,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://seasideride.de",
+  "description": "Der SeasideRide geht vom 25. bis 27. Juni 2027 in Ostseebad Rerik in die dritte Runde. Das Wochenende an der mecklenburgischen Ostseeküste verbindet Gravel und Rennrad: Gravel-Strecken über 60 und 100 Kilometer, Road-Strecken über 80 und 130 Kilometer. Die Routen verlaufen zwischen Ostsee und Salzhaff über Sandwege, Feldwege und ruhige Landstraßen. Laut Veranstalter bleiben die Strecken gegenüber dem Vorjahr gleich, das Rahmenprogramm wird erweitert. Die Anmeldung läuft über RaceResult.",
+  "distanceKm": 130
+}

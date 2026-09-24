@@ -1,0 +1,24 @@
+{
+  "id": "gravel-rallye-black-forest-2027",
+  "name": "Gravel Rallye Black Forest",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-15",
+    "end": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Feldberg",
+    "lat": 47.8733,
+    "lng": 8.0186,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://gravel-rallye.com/black-forest",
+  "description": "Die Gravel Rallye Black Forest findet vom 15. bis 18. Juli 2027 in den Highlands des Südschwarzwalds rund um den Feldberg statt. Das Event gehört zur Gravel Rallye Series, die 2027 nach zehn Jahren mit einem freieren, intensiveren Format antritt. Gefahren wird auf Forstwegen und Schotterpisten rund um den Feldberg und durch die Hochtäler des Schwarzwalds. Das Format verbindet Rallye-Wertung und Bikepacking-Erlebnis, 2026 kamen rund 180 Kilometer und 5.000 Höhenmeter zusammen. Die Rhine Valley Gravel im April 2027 in Freiburg bildet den Saisonauftakt der Serie.",
+  "distanceKm": 180,
+  "elevationGainM": 5000
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blenheim-palace-triathlon-2027",
+  "name": "Supertri Blenheim Palace",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Woodstock, Oxfordshire",
+    "lat": 51.8455,
+    "lng": -1.3539
+  },
+  "websiteUrl": "https://supertri.com/blenheim-palace/",
+  "description": "Supertri Blenheim Palace findet am 5. und 6. Juni 2027 auf dem UNESCO-Welterbe-Anwesen Blenheim Palace in Oxfordshire statt; die Anmeldung ist geöffnet und die ersten Startwellen sind laut Veranstalter bereits nahezu ausverkauft. Das Wochenende ist einer der bekanntesten Breitensport-Triathlons Großbritanniens: Geschwommen wird im Great Lake des Schlosses, Rad- und Laufstrecke führen durch die Parklandschaft. Kernformat ist die Sprintdistanz (750 m / 19,8 km / 5,4 km), dazu ein Super-Sprint. Parallel tritt die Profi-Elite im Rahmen der Supertri Pro Series an. Der Veranstalter versteht das Event als Wochenend-Erlebnis für Familie und Freunde mit Besuch von Palast und Gärten.",
+  "distanceKm": 26,
+  "imageUrl": "https://sustainhealth.fit/wp-content/uploads/2026/02/Blenheim-Palace-Triathlon.jpg"
+}

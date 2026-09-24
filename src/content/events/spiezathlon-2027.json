@@ -1,0 +1,23 @@
+{
+  "id": "spiezathlon-2027",
+  "name": "Spiezathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Spiez",
+    "lat": 46.6848,
+    "lng": 7.6796
+  },
+  "websiteUrl": "https://spiezathlon.ch/",
+  "imageUrl": "https://www.spiez.com/fileadmin/Mediendatenbank/Fotos/Events/event_spiezathlon_velo_spiez_sommer_2019.jpg",
+  "description": "Der Spiezathlon findet am Samstag, 19. Juni 2027 in der Bucht von Spiez am Thunersee statt. Die Ausgabe 2026 verzeichnete bei schönstem Wetter einen Teilnehmerrekord. Angeboten werden eine Sprintdistanz (500 m / 20 km / 5 km) und die Olympische Distanz (1,5 km / 40 km / 10 km) sowie Jugendkategorien. Geschwommen wird im Thunersee, der Radkurs führt durch das Berner Oberland, gelaufen wird entlang des Seeufers mit Blick auf Schloss Spiez. Organisiert wird der Anlass von einem ehrenamtlichen OK.",
+  "distanceKm": 52
+}

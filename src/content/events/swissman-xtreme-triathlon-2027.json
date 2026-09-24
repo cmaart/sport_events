@@ -1,0 +1,24 @@
+{
+  "id": "swissman-xtreme-triathlon-2027",
+  "name": "SWISSMAN Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lugano → Kleine Scheidegg",
+    "lat": 46.5886,
+    "lng": 7.9605
+  },
+  "websiteUrl": "https://suixtri.com/en/",
+  "description": "Der SWISSMAN Xtreme Triathlon findet am 26. Juni 2027 statt; die Registrierung für die Startplatzverlosung läuft ab Samstag, 31. Oktober 2026, 00:01 Uhr. Die Langdistanz startet im Süden der Schweiz mit 3,8 km Schwimmen im Lago di Lugano, führt über 180 km und drei Alpenpässe ins Herz der Schweiz und endet nach 42,2 km Laufen mit einem letzten Anstieg zur Kleinen Scheidegg am Fuß von Eiger, Mönch und Jungfrau. Insgesamt kommen rund 5.750 Höhenmeter zusammen. Alle Startplätze werden verlost, jede Athletin und jeder Athlet benötigt einen persönlichen Supporter. Das Rennen ist Teil der XTRI World Tour und wird von einem Verein organisiert.",
+  "distanceKm": 226,
+  "elevationGainM": 5750,
+  "imageUrl": "https://suixtri.com/wp-content/uploads/2025/07/kr_250621_Swissman_0104-1-1024x682.jpg"
+}

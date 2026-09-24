@@ -1,0 +1,22 @@
+{
+  "id": "outlaw-half-nottingham-2027",
+  "name": "Outlaw Half Nottingham",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nottingham – Holme Pierrepont",
+    "lat": 52.9266,
+    "lng": -1.09
+  },
+  "websiteUrl": "https://outlawtriathlon.com/outlaw-nottingham/outlaw-half",
+  "description": "Der Outlaw Half Nottingham findet am Sonntag, 23. Mai 2027 am National Water Sports Centre in Holme Pierrepont statt; das Rennen war im September 2026 bereits zu 95 % ausverkauft. Geschwommen werden 1,9 km (1.2 Meilen) im Regatta Lake mit Rolling Start auf einem einfachen Wendekurs. Die 90 km (56 Meilen) lange Radstrecke ist relativ flach und führt ins hügelige Nottinghamshire, zurück geht es vorbei an Holme Pierrepont Hall. Der flache Halbmarathon in drei Runden verläuft entlang des River Trent, der Wildwasserstrecke und des Regattasees, das Ziel liegt auf dem orangefarbenen Teppich vor der Tribüne. Einzelstart und Staffeln sind möglich, dazu kommen Aquabike, Sprint und Kinderrennen.",
+  "distanceKm": 113,
+  "imageUrl": "https://cdn.prod.website-files.com/688ce20dbd07239c65f1a79e/688ce20dbd07239c65f1a90a_Outlaw%20Nottingham%20Weekend%20Overview%20Masthead.webp"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "triathlon-locarno-3locarno-2027",
+  "name": "3Locarno Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-09-04",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Locarno",
+    "lat": 46.1706,
+    "lng": 8.7961
+  },
+  "websiteUrl": "https://www.3locarno.ch/",
+  "description": "Der Triathlon Locarno findet am 4. und 5. September 2027 am Lago Maggiore statt; die Anmeldung öffnet am 1. Januar 2027. Das Multisport-Festival wird seit 1984 ausgetragen und zählt zu den ältesten Triathlons der Schweiz. Die Medium Distance umfasst 1,9 km Schwimmen, 90 km Rad mit 530 Höhenmetern und 21 km Laufen; die Classic Distance 1.550 m, 40 km (248 Hm) und 10,5 km, auch als Staffel. Dazu kommen Mini-Tri (500 m / 20 km / 5,25 km), ein Kurz-Duathlon, Jugend- und Kindertriathlon sowie ein Kids-Camp. 2026 war Locarno Gastgeber der Schweizer Meisterschaft über die Mitteldistanz.",
+  "distanceKm": 113,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f932aac83f6b82dc93f7dc0/2c8944db-e3e5-4678-b635-9d0cc313c997/DL4I0079.jpg"
+}

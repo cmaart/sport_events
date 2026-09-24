@@ -1,0 +1,24 @@
+{
+  "id": "sparkassen-heide-gravel-2027",
+  "name": "Sparkassen HeideGravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-04",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Taura (Belgern-Schildau)",
+    "lat": 51.454,
+    "lng": 13.101,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://heide-gravel.de",
+  "description": "Der Sparkassen HeideGravel findet am 4. und 5. September 2027 in der Dahlener Heide in Nordsachsen statt. Start und Ziel liegen in Taura bei Belgern-Schildau, gefahren wird auf dem Kurs der Deutschen Gravel-Meisterschaft 2025. Zuletzt gab es drei Distanzen über 30, 60 und 100 Kilometer mit bis zu rund 900 Höhenmetern. Die Strecken führen über Schotterwege und Waldpisten durch das größte Heidegebiet Sachsens. Gewertet wird einzeln, nach Altersklassen und im Team ab drei Fahrern.",
+  "distanceKm": 100,
+  "elevationGainM": 900
+}

@@ -1,0 +1,23 @@
+{
+  "id": "castle-race-lough-cutra-2027",
+  "name": "Castle Race Series – Lough Cutra Castle",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "IE",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lough Cutra – County Galway",
+    "lat": 53.0237,
+    "lng": -8.8031
+  },
+  "websiteUrl": "https://www.castleraceseries.com/events/lough-cutra-castle/",
+  "description": "Das Lough Cutra Castle Triathlon and Multisport Festival der Castle Race Series findet am 29. und 30. Mai 2027 bei Gort im County Galway statt; die Buchung für 2027 ist geöffnet, mit eigener Buchungsoption für Starter aus Irland und Nordirland. Geschwommen wird im privaten Lough Cutra vor der Kulisse des neugotischen Schlosses. Hauptrennen ist die „Gauntlet“-Mitteldistanz über 1,9 km Schwimmen, 90 km Rad durch die Landschaft am Rand des Burren und 21 km Laufen. Daneben stehen kürzere Triathlon-Distanzen sowie Duathlon, Aquabike, Aquathlon und Swim & Run zur Wahl. Die Castle Race Series veranstaltet ihre Rennen ausschließlich auf historischen Schlossanwesen in Großbritannien, Irland und Frankreich.",
+  "distanceKm": 113,
+  "imageUrl": "https://www.castleraceseries.com/wp-content/uploads/2024/12/LC-Hero-2024_2025.png"
+}

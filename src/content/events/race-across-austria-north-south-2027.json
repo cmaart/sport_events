@@ -1,0 +1,26 @@
+{
+  "id": "race-across-austria-north-south-2027",
+  "name": "Race Across Austria (RACA)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-08",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Linz",
+    "lat": 48.3069,
+    "lng": 14.2858,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.raceacrossaustria.com",
+  "description": "Das Race Across Austria (RACA) führt vom 8. bis 12. Juni 2027 als selbstgestütztes Ultra-Radrennen quer durch Österreich. Die vorgegebenen Strecken steuern den nördlichsten und südlichsten Punkt sowie den geografischen Mittelpunkt des Landes an und führen über bekannte Pässe und Regionen. Zur Wahl stehen RACA 1000 (1.000 km, 14.000 Hm, Zeitlimit 112 bzw. 88 Stunden), RACA 700 (700 km, 10.000 Hm), RACA 500 (500 km, 7.000 Hm) und RACA 300 (300 km, 3.000 Hm). Gefahren wird non-stop und ohne Begleitfahrzeug, Schlaf- und Pausenphasen planen die Teilnehmenden selbst innerhalb der Zeitlimits. Für jeden Startplatz pflanzt der Veranstalter einen Baum im RACA-Wald. Die Anmeldung für 2027 ist geöffnet.",
+  "distanceKm": 1000,
+  "elevationGainM": 14000,
+  "imageUrl": "https://static.wixstatic.com/media/nsplsh_f75eecd0abef45b6be46bc94f98352f5~mv2.jpg"
+}

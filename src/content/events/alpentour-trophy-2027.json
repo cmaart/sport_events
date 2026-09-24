@@ -1,0 +1,26 @@
+{
+  "id": "alpentour-trophy-2027",
+  "name": "Alpentour Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-17",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schladming",
+    "lat": 47.392,
+    "lng": 13.687,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://alpen-tour.at",
+  "description": "Die 28. Alpentour Trophy führt vom 17. bis 20. Juni 2027 wieder durch die Region Schladming-Dachstein in der Obersteiermark. Das UCI-klassifizierte MTB-Etappenrennen verteilt an vier Renntagen rund 200 Kilometer und etwa 8.570 Höhenmeter auf die Bergarenen rund um Hauser Kaibling, Ramsau am Dachstein, Reiteralm und Planai. Gefahren wird auf Forststraßen, Almwegen und technischen Trails, gestartet wird in Solo- und Zweier-Teamwertung. Die Alpentour gilt seit Jahren als eines der anspruchsvollsten Mountainbike-Etappenrennen im Alpenraum. Die Registrierung für die Ausgabe 2027 öffnet laut Veranstalter am 1. Oktober 2026.",
+  "distanceKm": 200,
+  "elevationGainM": 8570,
+  "imageUrl": "https://alpen-tour.at/wp-content/uploads/2026/03/REG_3621-scaled.jpg"
+}

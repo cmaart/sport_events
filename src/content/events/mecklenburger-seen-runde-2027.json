@@ -1,0 +1,25 @@
+{
+  "id": "mecklenburger-seen-runde-2027",
+  "name": "Mecklenburger Seen Runde",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-28",
+    "end": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neubrandenburg",
+    "lat": 53.5553,
+    "lng": 13.2611,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://mecklenburger-seen-runde.de",
+  "description": "Die 13. Mecklenburger Seen Runde findet am 28. und 29. Mai 2027 mit Start und Ziel in Neubrandenburg statt. Das Aushängeschild ist die MSR 300 über 300 Kilometer durch die Mecklenburgische Seenplatte, kürzere Varianten beginnen bei rund 100 Kilometern. Die Strecken führen über ruhige Landstraßen vorbei an zahlreichen Seen, Alleen und Dörfern und sind trotz rund 2.000 Höhenmetern auf der Langstrecke gut zu rollen. 2027 feiert die Veranstaltung ihre 13. Ausgabe – nach über zehn Jahren MSR. Die Anmeldung für 2027 öffnet am 1. Oktober 2026 um 20 Uhr.",
+  "distanceKm": 300,
+  "elevationGainM": 2000,
+  "imageUrl": "https://mecklenburger-seen-runde.de/media/pages/home/7321cc8ef1-1663833413/sattelfest-starseite.jpg"
+}

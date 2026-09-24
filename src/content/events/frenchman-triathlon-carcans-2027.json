@@ -1,0 +1,24 @@
+{
+  "id": "frenchman-triathlon-carcans-2027",
+  "name": "FrenchMan Triathlon Carcans",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-05-05",
+    "end": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Carcans-Maubuisson",
+    "lat": 45.12,
+    "lng": -1.077
+  },
+  "websiteUrl": "https://www.frenchmantriathlon.com/",
+  "description": "Der FrenchMan Triathlon findet 2027 vom 5. bis 9. Mai am Lac de Carcans-Maubuisson im Médoc Atlantique (Gironde) statt – als fünftägiges Triathlon-Festival. Die Mitteldistanz L (1,9 km / 90 km / 21 km) startet am Freitag, 7. Mai, um 7 Uhr, die Langdistanz XXL über 3,8 km Schwimmen, 180 km Rad und 42 km Laufen am Samstag, 8. Mai, ebenfalls um 7 Uhr. Dazu kommen ein Kinder-Aquathlon, ein XS-Triathlon (400 m / 10 km / 2,5 km) und die Olympische Distanz M am Donnerstag. Die flachen Strecken durch die Kiefernwälder der Landes machen das Rennen schnell. Die Anmeldung für die Kinderrennen öffnet im Januar 2027, für die Hauptdistanzen ist sie bereits möglich.",
+  "distanceKm": 226,
+  "imageUrl": "https://www.frenchmantriathlon.com/wp-content/uploads/2026/05/frenchman-2026.jpg"
+}

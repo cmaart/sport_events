@@ -1,0 +1,22 @@
+{
+  "id": "slovakman-226-piestany-2027",
+  "name": "Slovakman 226 Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "SK",
+  "dates": {
+    "start": "2027-08-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Piešťany",
+    "lat": 48.5908,
+    "lng": 17.8341
+  },
+  "websiteUrl": "https://www.slovakman.sk/",
+  "description": "Der Slovakman Triathlon 226 findet am Samstag, 7. August 2027 im westslowakischen Kurort Piešťany statt, die Anmeldung ist geöffnet. Um 6:45 Uhr starten Einzelstarter und Staffeln auf die Volldistanz über 3,8 km Schwimmen im Fluss Váh, 180 km Rad auf der für den Verkehr gesperrten Straße I/61 zwischen Piešťany und Červeník und einen Marathon über 42,2 km in Runden durch die Kurstadt. Um 10:00 Uhr folgt die Half-Distanz (1,9 / 90 / 21,1 km), am Nachmittag das „Kolečko“ über 0,95 / 30 / 7 km. Am Vorabend, Freitag, 6. August, finden Registrierung, der Benefizlauf ADELI Hope Run und Kinderläufe statt. Das Rennen blickt auf über 20 Jahre Geschichte zurück und war zuletzt slowakische und tschechische Langdistanz-Meisterschaft.",
+  "distanceKm": 226,
+  "imageUrl": "https://www.slovakman.sk/images/trate-main24.JPEG"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "castle-race-cholmondeley-2027",
+  "name": "Castle Race Series – Cholmondeley Castle",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cholmondeley Castle – Cheshire",
+    "lat": 53.0576,
+    "lng": -2.6926
+  },
+  "websiteUrl": "https://www.castleraceseries.com/events/cholmondeley-castle/",
+  "description": "Das Cholmondeley Castle Triathlon and Multisport Festival der Castle Race Series findet am 26. und 27. Juni 2027 in Cheshire statt, eine Woche später als 2026; die Buchung für 2027 ist geöffnet. Die Rennen führen durch die Parkanlagen des herrschaftlichen Cholmondeley Castle und die umliegende Landschaft. Königsdisziplin ist die „Gauntlet“-Mitteldistanz über 1,9 km Schwimmen, 84 km Rad und 21 km Laufen; daneben können Teilnehmende Triathlon, Duathlon, Aquabike, Aquathlon oder Swim & Run über verschiedene Distanzen wählen. Ziel und Festival-Village liegen auf dem Schlossgelände. Nationaler Charity-Partner der Serie ist Alzheimer's Research UK.",
+  "distanceKm": 107,
+  "imageUrl": "https://www.castleraceseries.com/wp-content/uploads/2024/06/23.jpg"
+}

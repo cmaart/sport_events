@@ -1,0 +1,24 @@
+{
+  "id": "rund-um-den-harz-greene-2027",
+  "name": "Rund um den Harz",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-03",
+    "end": "2027-04-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Greene",
+    "lat": 51.862,
+    "lng": 9.8533,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://rundumdenharz.com",
+  "description": "Rund um den Harz eröffnet am 3. April 2027 die Ultracycling-Saison mit Start in Greene bei Einbeck. Die Langdistanz umrundet auf 297 Kilometern und rund 2.650 Höhenmetern den gesamten Harz über Goslar, Wernigerode und Herzberg durch Niedersachsen und Sachsen-Anhalt. Eine kürzere Light-Variante führt über rund 145 Kilometer und hat Rampen bis 19 Prozent bei Bad Harzburg. Gestartet wird ab dem frühen Morgen in Intervallen, gefahren wird nach Nonsupported-Regelwerk. Veranstalter ist das Team hinter Race Across Germany, das 2027 weitere Ultra-Formate wie THE43 Race und Köln–Paris anbietet.",
+  "distanceKm": 297,
+  "elevationGainM": 2650
+}

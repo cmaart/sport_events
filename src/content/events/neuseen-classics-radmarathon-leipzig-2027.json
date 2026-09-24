@@ -1,0 +1,24 @@
+{
+  "id": "neuseen-classics-radmarathon-leipzig-2027",
+  "name": "PŸUR Neuseen Classics Radmarathon Leipzig",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://neuseenclassics.maximalpuls.com/",
+  "description": "Die PŸUR Neuseen Classics finden am Sonntag, 13. Juni 2027 im Leipziger Neuseenland statt. Angeboten werden der Radmarathon über rund 212 Kilometer, ein Jedermannrennen über 100 Kilometer sowie eine 60-Kilometer-Distanz. Die Strecken führen flach bis leicht hügelig durch die Seenlandschaft südlich von Leipzig, die aus ehemaligen Tagebauen entstanden ist. Dazu gibt es einen Kids Cup für den Nachwuchs. Die Anmeldung für 2027 ist bereits geöffnet, das Startgeld ist nach Meldezeitraum gestaffelt.",
+  "distanceKm": 212,
+  "imageUrl": "https://cms.maximalpuls.com/api/uploads/file/20250525_pnsc33-1200x800.webp"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ars-natura-mtb-marathon-2027",
+  "name": "Ars Natura MTB Marathon",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-19",
+    "end": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Morschen-Neumorschen",
+    "lat": 51.1637,
+    "lng": 9.7364,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.tsv-neumorschen.de/radsport/ars-natura-mtb-marathon/",
+  "description": "Der 17. Ars-Natura-MTB-Marathon des TSV Neumorschen findet am 19. Juni 2027 in Morschen im nordhessischen Fuldatal statt. Das Rennen ist Teil der Nutrixxion MTB-Trophy und bietet drei Strecken über 35, 70 und 105 Kilometer. Die Kurse verlaufen auf naturnahen Forstwegen und Trails durch die Mittelgebirgslandschaft rund um das Fuldatal. Für 2027 kündigt der Veranstalter eine geänderte Streckenführung an – die Streckenvideos der Vorjahre entsprechen nicht mehr dem neuen Kurs. Ausschreibung und Teilnahmebedingungen für 2027 sind bereits auf der Vereinsseite veröffentlicht; Jugendliche unter 16 Jahren dürfen nur in Begleitung starten.",
+  "distanceKm": 105
+}

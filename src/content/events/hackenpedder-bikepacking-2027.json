@@ -1,0 +1,24 @@
+{
+  "id": "hackenpedder-bikepacking-2027",
+  "name": "Hackenpedder Bikepacking",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kiel",
+    "lat": 54.3233,
+    "lng": 10.1228,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://hackenpedder-bikepacking.de/",
+  "description": "Die Hackenpedder Route startet am 12. Juni 2027 in Kiel als selbstgestütztes Bikepacking-Abenteuer durch Schleswig-Holstein. Zur Wahl stehen zwei Varianten über 1.000 und 650 Kilometer zwischen Nord- und Ostsee. Die Route führt über Schotterwege, Deichpfade, Küstenkliffe, Wälder und Moore – mit viel Liebe zum Detail zusammengestellt. Navigiert wird per GPX-Track, Verpflegung und Übernachtung organisieren die Teilnehmenden selbst. Hackenpedder Bikepacking organisiert zudem die Shelter Attack ab Flensburg im September.",
+  "distanceKm": 650,
+  "imageUrl": "https://hackenpedder-bikepacking.de/wordpress/wp-content/uploads/2026/02/Hackenpedder-Bikepacking-Route-Schleswig-Holstein-Gravel-Radreise-Norddeutschland-2026.jpg"
+}
