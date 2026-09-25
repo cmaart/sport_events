@@ -2,7 +2,9 @@
   "id": "cycling-paradise-sylt-2026",
   "name": "Cycling Paradise Sylt",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "RTF"
+  ],
   "country": "DE",
   "dates": {
     "start": "2026-08-29",
