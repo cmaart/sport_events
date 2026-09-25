@@ -7,7 +7,7 @@
   ],
   "country": "TR",
   "dates": {
-    "start": "2026-11-15",
+    "start": "2026-11-08",
     "confirmed": true
   },
   "location": {
@@ -16,8 +16,8 @@
     "lng": 30.7056
   },
   "websiteUrl": "https://ucigranfondoworldseries.com/en/antalya/",
-  "description": "UCI Nirvana Gran Fondo Antalya – UCI Gran Fondo World Series Qualifikationsrennen an der türkischen Riviera im milden Novemberklima: Hauptstrecke 98 km / 517 Hm sowie Kurzstrecke 66 km entlang der Mittelmeerküste rund um die Hafenstadt Antalya. Ausgetragen unter dem Titel-Sponsor Nirvana Travel.",
+  "description": "Der UCI Nirvana Gran Fondo Antalya ist Teil der UCI Gran Fondo World Series und wird 2026 am Rennwochenende 6.–8. November ausgetragen, mit den Straßenrennen am Sonntag. Angeboten werden eine lange Distanz über 98 km mit rund 500 Höhenmetern sowie eine kurze Distanz über 60 km mit etwa 250 Höhenmetern, dazu ein separates Einzelzeitfahren. Start und Ziel der Straßenrennen liegen südlich des Flughafens von Antalya, das Zeitfahren wird in Kadriye bei Belek gefahren. Die weitgehend flache Strecke entlang der türkischen Mittelmeerküste ist auf schnelle Zeiten ausgelegt. Über die Altersklassen (kurze Distanz für Männer 60+ und Frauen 50+, lange Distanz für Männer 19–59 und Frauen 19–49) qualifizieren sich die Teilnehmenden für die UCI Gran Fondo Weltmeisterschaft.",
   "distanceKm": 98,
-  "elevationGainM": 517,
+  "elevationGainM": 500,
   "imageUrl": "https://ucigranfondoworldseries.com/wp-content/uploads/sites/186/2024/11/IMG-20241117-WA0027-scaled.jpg"
 }

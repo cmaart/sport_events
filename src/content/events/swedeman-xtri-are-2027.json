@@ -1,0 +1,23 @@
+{
+  "id": "swedeman-xtri-are-2027",
+  "name": "Swedeman Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "SE",
+  "dates": {
+    "start": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Åre, Jämtland",
+    "lat": 63.399,
+    "lng": 13.0815
+  },
+  "websiteUrl": "https://www.swextri.com/",
+  "description": "Swedeman Xtreme Triathlon – Lauf der XTRI World Tour in den schwedischen Bergen bei Åre (Jämtland), offiziell terminiert auf den 10. Juli 2027. Das Extremformat umfasst 3,8 km Schwimmen im See Öster-Noren nahe dem Wasserfall Tännforsen, 205 km Rad durch die Fjälllandschaft und einen 43 km langen Trail-Marathon mit Besteigung des Hausbergs Åreskutan. Insgesamt sind rund 4.077 Höhenmeter zu bewältigen, darunter ein steiler 400-Meter-Aufstieg direkt nach dem Schwimmen zur ersten Wechselzone. Wie bei XTRI-Rennen üblich benötigt jeder Athlet auf den letzten Kilometern einen persönlichen Support-Runner. Das Teilnehmerfeld ist auf rund 250 Startplätze limitiert, was dem Rennen seinen exklusiven Charakter gibt.",
+  "distanceKm": 252,
+  "elevationGainM": 4077,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/64b7a3c46207f46e436e8974/21af3780-62ae-4f93-b9ac-5ddbe49f2d8e/swedeman25_all_arielwojciechowski.com_2025-0179.jpg"
+}

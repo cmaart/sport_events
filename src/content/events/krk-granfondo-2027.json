@@ -1,0 +1,22 @@
+{
+  "id": "krk-granfondo-2027",
+  "name": "KRK Granfondo Falkensteiner Punat",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2027-04-24",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Punat",
+    "lat": 45.0186,
+    "lng": 14.6347
+  },
+  "websiteUrl": "https://krkgranfondo.com/index.php/en/english/",
+  "description": "KRK Granfondo Falkensteiner Punat – Fortsetzung 2027 der Granfondo auf der Kvarner-Insel Krk in Kroatien. Die rund 82 km lange Haupttour verbindet Küstenstraßen, Karsthochflächen und Bergabschnitte mit weitem Blick auf die Adria; Start und Ziel liegen beim Falkensteiner Hotel Punat. Das Rennen ist Teil der Granfondo World Tour und profitiert vom milden Frühjahrsklima der Kvarner-Bucht. Der offizielle 2027-Termin wird auf der Veranstalterseite noch widersprüchlich angegeben (17. bzw. 24. April) und ist daher vorläufig; das genaue Datum wird nach Bestätigung durch den Veranstalter nachgetragen. Punat ist über die Krk-Brücke gut erreichbar und ein etablierter Frühsaison-Trainingsort für Rennradfahrer.",
+  "distanceKm": 82,
+  "imageUrl": "https://krkgranfondo.com/wp-content/uploads/2024/01/GRANFONDO-Krk-2024-1024x584.jpg"
+}

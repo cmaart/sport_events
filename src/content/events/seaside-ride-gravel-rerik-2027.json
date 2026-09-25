@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://seasideride.de",
   "description": "Der SeasideRide geht vom 25. bis 27. Juni 2027 in Ostseebad Rerik in die dritte Runde. Das Wochenende an der mecklenburgischen Ostseeküste verbindet Gravel und Rennrad: Gravel-Strecken über 60 und 100 Kilometer, Road-Strecken über 80 und 130 Kilometer. Die Routen verlaufen zwischen Ostsee und Salzhaff über Sandwege, Feldwege und ruhige Landstraßen. Laut Veranstalter bleiben die Strecken gegenüber dem Vorjahr gleich, das Rahmenprogramm wird erweitert. Die Anmeldung läuft über RaceResult.",
-  "distanceKm": 130
+  "distanceKm": 130,
+  "elevationGainM": 640
 }

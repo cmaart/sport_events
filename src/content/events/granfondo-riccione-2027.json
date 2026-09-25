@@ -1,0 +1,23 @@
+{
+  "id": "granfondo-riccione-2027",
+  "name": "Granfondo Riccione",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-03-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riccione",
+    "lat": 44.0,
+    "lng": 12.6592
+  },
+  "websiteUrl": "https://www.granfondoriccione.com/",
+  "description": "Granfondo Riccione – 24. Ausgabe des Adria-Klassikers, für den 21. März 2027 angesetzt und damit zurück im traditionellen Frühjahrstermin. Die Hauptstrecke führt über 105,7 km mit rund 1.800 Höhenmetern aus dem Badeort Riccione (Provinz Rimini) in die Hügel des Hinterlandes der Romagna; kürzere Varianten über 76 km und 61 km stehen für weniger ambitionierte Teilnehmer bereit. Start und Ziel liegen zentral in Riccione, das als Radsport-Hochburg der Emilia-Romagna gilt. Der frühe Saisontermin macht die Granfondo zu einem beliebten Formauftakt für italienische und internationale Amateure. Anmeldung und aktuelle Streckenfreigaben laufen über die offizielle Veranstalterseite.",
+  "distanceKm": 106,
+  "elevationGainM": 1800,
+  "imageUrl": "https://www.granfondoriccione.com/wp-content/uploads/2024/03/GF-24-DOM-100_resized-1030x687.jpg"
+}
