@@ -1,0 +1,26 @@
+{
+  "id": "ratingen-triathlon-2027",
+  "name": "Stadtwerke Ratingen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ratingen",
+    "lat": 51.2972,
+    "lng": 6.8492,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://stadtwerke-ratingen-triathlon.de",
+  "description": "Der Stadtwerke Ratingen Triathlon findet 2027 in seiner 19. Auflage am 12. September statt; die Anmeldung ist bereits geöffnet, ein Frühbucherrabatt lief bis Mitte September 2026. Die Traditionsveranstaltung im Westen Deutschlands bietet ein breites Distanzspektrum von Volks- und Sprintdistanz über den Kurztriathlon (1 km / 40 km / 10 km) bis zur Mitteldistanz. Der Schwimmstart erfolgt im Freibad, Rad- und Laufkurs führen durch Ratingen und das Umland. Zusätzlich gibt es Wertungen für Jugend, Schüler und Staffeln. Das Organisationsteam rechnet nach den starken Vorjahren erneut mit hohen Teilnehmerzahlen.",
+  "distanceKm": 76,
+  "imageUrl": "https://stadtwerke-ratingen-triathlon.de/wp-content/uploads/2025/10/webseiten_banner_ratingen_triathlon_2026.jpg"
+}

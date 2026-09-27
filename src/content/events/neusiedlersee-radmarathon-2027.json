@@ -1,0 +1,22 @@
+{
+  "id": "neusiedlersee-radmarathon-2027",
+  "name": "Neusiedlersee Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-04-24",
+    "end": "2027-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mörbisch am See",
+    "lat": 47.7319,
+    "lng": 16.6822,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.neusiedlersee-radmarathon.com",
+  "description": "Der 35. Neusiedlersee Radmarathon findet am Wochenende vom 24. auf 25. April 2027 mit Start und Ziel in Mörbisch am See statt. Als einer der ersten großen Radmarathons des Jahres gilt er traditionell als Saisoneröffnungsklassiker im burgenländischen Seewinkel. Am Samstag steht ein Zeitfahren auf dem Programm, das Hauptrennen wird am Sonntag, 25. April 2027 gefahren. Die Strecke umrundet den Neusiedler See in der UNESCO-Welterbe-Region Fertő–Neusiedler See weitgehend flach, wobei der oft kräftige Wind in der offenen Landschaft für die eigentliche Härte sorgt. In den Vorjahren standen eine rund 125 Kilometer lange Hauptrunde sowie eine kürzere Mini-Tour zur Auswahl. Die genauen Streckenlängen und der Anmeldestart für 2027 werden über die offizielle Veranstalterseite bekanntgegeben."
+}

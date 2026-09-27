@@ -1,0 +1,27 @@
+{
+  "id": "aloha-tri-linz-2027",
+  "name": "ALOHA TRI Linz",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-03",
+    "end": "2027-07-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pleschinger See, Linz",
+    "lat": 48.3266,
+    "lng": 14.3472,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://triathlon-linz.at",
+  "registrationUrl": "https://time2win.at/event/1084",
+  "description": "Der ALOHA TRI Linz findet 2027 am Samstag, 3. Juli, am Pleschinger See im Norden von Linz statt und tritt als Nachfolger des eingestellten Internationalen Linztriathlons auf. Für 2027 ist das Programm auf drei Distanzen ausgeweitet: die Sprintdistanz (0,75 km / 25 km / 5 km) startet um 09:30 Uhr, die Mitteldistanz (1,9 km / 90 km / 21 km) um 12:00 Uhr und die Olympische bzw. Kurzdistanz (1,5 km / 45 km / 10 km) um 12:30 Uhr. Alle Bewerbe sind auch als Staffel buchbar, dazu gibt es Aquabike-Wertungen über Sprint- und Kurzdistanz. Geschwommen wird im Pleschinger See, die Radrunde führt durch das Linzer Umland. Veranstalter ist ALOHA SPORT (HdSports); die Anmeldung läuft über time2win und ist bis zum Renntag möglich. Die Nenngelder reichen je nach Distanz und Anmeldezeitpunkt von 65 bis 269 Euro.",
+  "distanceKm": 112.9,
+  "imageUrl": "https://triathlon-linz.at/wp-content/uploads/2024/08/alohatrilinzsprint.jpg"
+}

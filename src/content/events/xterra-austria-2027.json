@@ -1,0 +1,24 @@
+{
+  "id": "xterra-austria-2027",
+  "name": "XTERRA Austria",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-20",
+    "end": "2027-08-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Altaussee",
+    "lat": 47.6508,
+    "lng": 13.7685,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.xterraplanet.com/event/xterra-austria",
+  "description": "XTERRA Austria kehrt 2027 an den Altausseer See im UNESCO-Welterbe Salzkammergut zurück; der XTERRA-Serienkalender führt das Wochenende vom 20. bis 21. August 2027, wobei der Veranstalter dieses Datum noch als vorläufig kennzeichnet. Am Freitag stehen Kids Run und ein 4-km-Charity-Run auf dem Programm, der Hauptbewerbstag am Samstag bringt Full Distance, Sprint- und Super-Sprint-Distanz. Die Vollstrecke umfasst 1,5 km Schwimmen in zwei Runden im glasklaren Altausseer See mit Start und Wechselzone im Kurpark, rund 34 km Mountainbike mit etwa 1.050 Höhenmetern sowie 10 km Traillauf mit rund 350 Höhenmetern zwischen Loser und Trisselwand. Die Sprintdistanz (750 m / 17 km / 5 km) und eine Super-Sprint-Variante bieten Einstiegsmöglichkeiten ins alpine Crosstriathlon-Format. Das technisch anspruchsvolle Gelände zählt zu den markantesten Crosstriathlon-Kulissen im Alpenraum. Der genaue Renntag und das Bewerbsprogramm 2027 sind erst mit der offiziellen Ausschreibung fixiert.",
+  "distanceKm": 45.5,
+  "elevationGainM": 1400
+}

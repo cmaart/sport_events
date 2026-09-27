@@ -1,0 +1,25 @@
+{
+  "id": "la-tour-geneve-triathlon-2027",
+  "name": "La Tour Genève Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-07-03",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Genf",
+    "lat": 46.2044,
+    "lng": 6.1432
+  },
+  "websiteUrl": "https://www.genevetriathlon.ch/en",
+  "description": "Der La Tour Genève Triathlon findet 2027 am 3. und 4. Juli am Genfersee statt; der Veranstalter nennt den Termin bereits fix auf der Website. Geschwommen wird im Lac Léman im Herzen Genfs vor der Kulisse des Jet d'Eau. Angeboten werden Mitteldistanz (1,9 km / 90 km / 21,1 km), Olympische Distanz (1,5 km / 40 km / 10 km), Kurzdistanz (500 m / 20 km / 5 km) sowie das Discovery-Format für Einsteiger. Das Zweitagesformat verbindet Elite- und Breitensport mit einem urbanen Kurs mitten in der Stadt. Start, Ziel und Wechselzone liegen zentral am Seeufer.",
+  "distanceKm": 113,
+  "imageUrl": "https://static.wixstatic.com/media/eee0dc_7aca0aed6b364e1e80660720e1f65d9bf000.jpg/v1/fill/w_1920,h_1080,al_c,q_85,enc_auto/eee0dc_7aca0aed6b364e1e80660720e1f65d9bf000.jpg"
+}

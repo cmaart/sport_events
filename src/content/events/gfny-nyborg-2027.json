@@ -1,0 +1,22 @@
+{
+  "id": "gfny-nyborg-2027",
+  "name": "GFNY Nyborg",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DK",
+  "dates": {
+    "start": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nyborg, Fünen",
+    "lat": 55.3106,
+    "lng": 10.7889
+  },
+  "websiteUrl": "https://gfny.com/",
+  "description": "Die GFNY Nyborg feiert am Sonntag, 8. August 2027, ihre Premiere und bringt die weltweite GFNY-Rennserie erstmals nach Dänemark. Start und Ziel liegen am Schloss Nyborg (Nyborg Slot) in der historischen Küstenstadt Nyborg auf der Insel Fünen. Die gewertete Langdistanz misst 139,3 km mit rund 919 Höhenmetern, die nicht kompetitive Mitteldistanz führt über 80,2 km. Der Veranstalter erwartet bis zu 1.000 dänische und internationale Radsportler, vom ambitionierten Amateur bis zum Semi-Profi. Organisiert wird das Rennen in Zusammenarbeit mit MCI Scandinavia, dem früheren Profi Jens Veggerby als Race Director. Wie bei allen GFNY-Events gehören Zeitnahme, Altersklassenwertung und Finisher-Medaille zum Konzept. Der überwiegend flache bis leicht wellige Kurs über Fünen macht die Premiere zu einem schnellen Sommertermin im dänischen Radkalender.",
+  "distanceKm": 139,
+  "elevationGainM": 919
+}

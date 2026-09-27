@@ -1,0 +1,25 @@
+{
+  "id": "race-across-austria-east-west-2027",
+  "name": "Race Across Austria East to West (RACA)",
+  "sport": "cycling",
+  "categories": [
+    "Radmarathon",
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-24",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nickelsdorf",
+    "lat": 47.9433,
+    "lng": 17.07,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.raceacrossaustria.com/raca-east-west",
+  "description": "Das Race Across Austria East to West ist die neue Ost-West-Durchquerung des RACA und findet 2027 vom 24. bis 28. August statt. Gestartet wird am östlichsten Punkt Österreichs in Nickelsdorf im Burgenland, das Ziel liegt nach der Alpenüberquerung am westlichsten Punkt in Feldkirch in Vorarlberg. Die vorgegebene Route führt selbstgestützt über die spektakulärsten Berge und Regionen des Landes. Zur Wahl stehen die RACA 1000 über 1.000 Kilometer und 16.000 Höhenmeter sowie die RACA 500 über 500 Kilometer und 10.000 Höhenmeter, jeweils mit getrennten Zeitlimits für Race- und Adventure-Wertung. Gefahren wird ohne Begleitfahrzeug, Schlaf- und Pausenphasen planen die Teilnehmenden selbst. Die Anmeldung für 2027 öffnet über die offizielle Veranstalterseite.",
+  "distanceKm": 1000,
+  "elevationGainM": 16000
+}

@@ -9,7 +9,7 @@
   "dates": {
     "start": "2027-05-08",
     "end": "2027-05-08",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Günzburg",
@@ -18,7 +18,7 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://tri-gz.de",
-  "description": "Der Triathlon Verein Günzburg plant die 11. Auflage seines Alkoholfrei Cross-Triathlons für den 8. Mai 2027 („Save the Date“, noch als geplanter Termin angekündigt). Der Off-Road-Triathlon in Günzburg an der Donau nahe Ulm besteht aus Schwimmen, einer Mountainbike-Etappe und einem Geländelauf. Traditionell startet das Rennen um die Mittagszeit und eröffnet im Frühjahr die Cross-Saison in Schwaben. Der Verein stellt auch eine Ligamannschaft und organisiert die Veranstaltung ehrenamtlich. Bis zur Veröffentlichung der Ausschreibung gilt das Datum als vorläufig.",
+  "description": "Der Triathlon Verein Günzburg richtet die 11. Auflage seines Alkoholfrei Cross-Triathlons laut „Save the Date“ am 8. Mai 2027 aus. Der Off-Road-Triathlon in Günzburg an der Donau nahe Ulm besteht aus Schwimmen, einer Mountainbike-Etappe und einem Geländelauf. Traditionell startet das Rennen um die Mittagszeit und eröffnet im Frühjahr die Cross-Saison in Schwaben. Der Verein stellt auch eine Ligamannschaft und organisiert die Veranstaltung ehrenamtlich. Die genaue Ausschreibung mit Streckenlängen folgt zur Anmeldeöffnung.",
   "distanceKm": 26,
   "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s22a8e5356a5b447b/image/i850524626a559274/version/1747125457/image.jpg"
 }

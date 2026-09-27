@@ -1,0 +1,23 @@
+{
+  "id": "keltenman-2027",
+  "name": "Keltenman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-29",
+    "end": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Badesee Mitterkirchen im Machland",
+    "lat": 48.201,
+    "lng": 14.663,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://www.keltenman.at",
+  "description": "Der 5. Keltenman findet am 29. Mai 2027 am Badesee Mitterkirchen in der oberösterreichischen Machland-Region statt und wird vom Union Keltenman Tria Team als „Triathlon-Highlight 2027\" angekündigt. Gestartet wird über die Sprintdistanz: 750 m Schwimmen in zwei Wellen auf zwei Runden im Badesee, danach eine flache, schnelle 20-km-Radrunde durch das Machland und abschließend 5 km Laufen über vier Runden. Für den Nachwuchs gibt es den Sparefroh Kids-Aquathlon mit altersgerechten Schwimm- und Laufstrecken. Die Anmeldung startet am 1. Oktober 2026 mit vergünstigten Early-Bird-Tarifen. Nach dem Rennen lädt der Veranstalter zur After-Party am Seegelände. Das flache Profil und die kompakte Rundstreckenführung machen den Bewerb zu einem beliebten Saisoneinstieg für Einsteiger:innen wie ambitionierte Age-Grouper.",
+  "distanceKm": 25.75
+}

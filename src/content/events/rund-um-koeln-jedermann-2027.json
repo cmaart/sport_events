@@ -20,5 +20,6 @@
   "websiteUrl": "https://www.rundumkoeln.de",
   "description": "Die Jedermannrennen bei Rund um Köln finden am Sonntag, 23. Mai 2027 parallel zum Profi-Klassiker statt, der seit 1908 ausgetragen wird. Angeboten werden Velodom 120 und Velodom 60, dazu Schüler- und Kinderrennen. Start und Ziel liegen im Kölner Rheinauhafen, die lange Runde führt ins Bergische Land mit seinen kurzen, steilen Anstiegen. 2026 kamen mit 8.675 Teilnehmenden so viele wie nie zuvor. Die Anmeldung für 2027 ist bereits geöffnet, eine Startplatzbörse ergänzt das Angebot.",
   "distanceKm": 120,
-  "elevationGainM": 700
+  "elevationGainM": 700,
+  "imageUrl": "https://www.rundumkoeln.de/wp-content/uploads/sites/9/2026/06/260610_RUK27_SM_Open_Graph_Image_dt-1024x538.jpg"
 }

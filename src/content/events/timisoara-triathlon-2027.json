@@ -1,0 +1,24 @@
+{
+  "id": "timisoara-triathlon-2027",
+  "name": "Timișoara Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2027-07-17",
+    "end": "2027-07-18",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Timișoara",
+    "lat": 45.7597,
+    "lng": 21.23
+  },
+  "websiteUrl": "https://timisoaratriathlon.ro/en/",
+  "description": "Der Timișoara Triathlon geht 2027 in seine 6. Ausgabe; der Veranstalter kündigt die Edition 2027 an und öffnet die Anmeldung am 1. Oktober 2026. Ein genauer Renntag ist noch nicht veröffentlicht, als vorläufiger Termin gilt das gleiche Juli-Wochenende wie 2026. Es ist der einzige Stadttriathlon Rumäniens, der vollständig im Stadtzentrum ausgetragen wird: Geschwommen wird im Flussbett der Bega, das Rad führt über gesperrte Stadtboulevards und der Lauf durch die Parkalleen der Innenstadt. An einem Wochenende werden Mitteldistanz (1,9 km / 90 km / 22 km), Olympische Distanz, Sprint und Supersprint ausgetragen. Bis zur Veröffentlichung des genauen Termins gilt das Datum als vorläufig.",
+  "imageUrl": "https://timisoaratriathlon.ro/wp-content/uploads/2026/05/triathlon.webp"
+}

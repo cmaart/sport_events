@@ -1,0 +1,21 @@
+{
+  "id": "norseman-xtreme-triathlon-2027",
+  "name": "Norseman Xtreme Triathlon",
+  "sport": "triathlon",
+  "categories": ["Langdistanz"],
+  "country": "NO",
+  "dates": {
+    "start": "2027-08-07",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Eidfjord",
+    "lat": 60.4726,
+    "lng": 7.0588
+  },
+  "websiteUrl": "https://www.nxtri.com",
+  "description": "Der Norseman Xtreme Triathlon 2027 wird traditionsgemäß am ersten Samstag im August ausgetragen, also voraussichtlich am 7. August 2027; das offizielle Datum steht noch aus, doch das Ballot (Losverfahren) für 2027 ist bereits eröffnet. Das Rennen gilt als einer der härtesten Triathlons der Welt: Der Start erfolgt mit einem Sprung von der Fähre ins kalte Hardangerfjord (3,8 km Schwimmen), es folgen 180 km Rad durch Fjord- und Hochgebirgslandschaft und ein Marathon (42,2 km) mit über 5.000 Höhenmetern. Der Zieleinlauf der schnellsten Starter liegt auf dem Gipfel des Gaustatoppen (1.880 m), während langsamere Athleten im Tal in Gaustablikk ins Ziel kommen. Es gibt nur rund 250 Startplätze, die per Lotterie vergeben werden.",
+  "distanceKm": 226,
+  "elevationGainM": 5000,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/68b5e22f4d48361244a235b4/3fe4778b-57ac-4fa2-9423-8b783d880e71/TobiasGjerde-3151.jpg"
+}

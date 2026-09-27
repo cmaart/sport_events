@@ -1,0 +1,23 @@
+{
+  "id": "powerman-zofingen-2027",
+  "name": "Powerman Zofingen – Duathlon-WM",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "CH",
+  "dates": {
+    "start": "2027-09-04",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zofingen",
+    "lat": 47.2878,
+    "lng": 7.9457
+  },
+  "websiteUrl": "https://powerman.ch/en/",
+  "description": "Der Powerman Zofingen trägt am Wochenende des 4. und 5. September 2027 erneut die World Triathlon Powerman Long Distance Duathlon-Weltmeisterschaft aus; den Termin hat der Veranstalter bereits per „Save the Date“ fixiert. Die Langdistanz umfasst 10 km Laufen, 150 km Radfahren über die berüchtigten Bözberg- und Born-Anstiege im Aargau und abschließend 30 km Laufen – rund 190 km, die Zofingen den Ruf als härtestes Duathlon-Rennen der Welt eingebracht haben. Neben dem Elite- und Altersklassen-WM-Rennen stehen kürzere Kategorien sowie die PowerKids und der Zofingen 5000 auf dem Programm. Zofingen ist seit den 1980er-Jahren die Heimat der Langdistanz-Duathlon-WM.",
+  "distanceKm": 190,
+  "imageUrl": "https://powerman.ch/wp-content/uploads/2025/09/Sieger-Powerman-Zofingen-1024x683.jpg"
+}

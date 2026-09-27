@@ -1,0 +1,23 @@
+{
+  "id": "openlakes-belgium-half-2027",
+  "name": "OpenLakes Belgium Half",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2027-09-18",
+    "end": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Boussu-lez-Walcourt – Lacs de l'Eau d'Heure",
+    "lat": 50.191,
+    "lng": 4.363
+  },
+  "websiteUrl": "https://www.openlakes.eu/openlakesbelgiumhalf",
+  "description": "OpenLakes Belgium Half findet 2027 am 18. und 19. September bei den Lacs de l'Eau d'Heure in Boussu-lez-Walcourt statt, wie der Veranstalter auf openlakes.eu bekannt gibt. Der Wettkampf trägt die belgische Mitteldistanz-Meisterschaft über 1,9 km Schwimmen, 92 km Rad mit rund 900 Höhenmetern und 21 km Laufen aus. Geschwommen wird in den Stauseen der wallonischen Ardennen, die Radstrecke führt anspruchsvoll durch die Hügel des Namurois. Neben der Meisterschaftsdistanz umfasst das Wochenende kürzere Formate der OpenLakes-Serie. Die Region rund um die Talsperren ist Belgiens größtes Wassersportgebiet.",
+  "distanceKm": 115,
+  "imageUrl": "https://www.openlakes.eu/web/image/120342-23f8524b/OL_Belgium.webp"
+}
