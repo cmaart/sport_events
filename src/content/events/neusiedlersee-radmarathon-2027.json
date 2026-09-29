@@ -1,0 +1,25 @@
+{
+  "id": "neusiedlersee-radmarathon-2027",
+  "name": "Neusiedlersee Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-04-24",
+    "end": "2027-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mörbisch am See",
+    "lat": 47.7319,
+    "lng": 16.6822,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.neusiedlersee-radmarathon.com",
+  "registrationUrl": "https://entry.racetime.pro/event/1534/start",
+  "description": "35. Ausgabe des Saisoneröffnungsklassikers rund um den Neusiedler See mit Start und Ziel in Mörbisch. Am Samstag, 24. April, steht das 16. Mörbischer Einzel- und Paarzeitfahren (26 km/200 Hm) auf dem Programm, am Sonntag, 25. April, folgt der Radmarathon über 125 km/600 Hm durch Österreich und Ungarn via Sopron, Fertőd, Illmitz und Podersdorf. Alternativ führt die NRM Mini über 60 km bis Illmitz, zurück geht es per Fähre.",
+  "distanceKm": 125,
+  "elevationGainM": 600
+}

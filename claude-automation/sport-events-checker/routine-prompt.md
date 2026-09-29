@@ -115,6 +115,9 @@ möglich auf der Veranstalterseite gegenprüfen):
 Aggregatoren (nur Discovery — Fakten immer gegen die offizielle Veranstalterseite prüfen):
 - Rad AT/DE + Zeitfahren: https://www.cycloworld.cc/de/kalender-de
 - Triathlon europaweit: https://www.k226.com/events/events.aspx
+- Rad AT/DE (hdsports): https://www.hdsports.at/rad — paginiert (`?page=2`, `?page=3` …), alle Seiten
+  durchgehen; Detailseiten `/rad/<slug>` zeigen auch schon 2027-Termine.
+- Triathlon AT/DE (hdsports): https://www.hdsports.at/triathlonkalender — paginiert wie oben.
 
 Fokus AT/DE für Breite; Ironman/Challenge + Radklassiker europaweit. Neue `country`/`category`-Werte
 bei Bedarf in `src/lib/types.ts` ergänzen (Zod übernimmt automatisch) — neue Filter nur anlegen wenn
