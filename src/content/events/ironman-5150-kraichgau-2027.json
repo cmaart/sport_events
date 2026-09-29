@@ -1,0 +1,23 @@
+{
+  "id": "ironman-5150-kraichgau-2027",
+  "name": "5150 Kraichgau",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Schönborn",
+    "lat": 49.2106,
+    "lng": 8.6521,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.ironman.com/races/5150-kraichgau",
+  "description": "Das 5150 Kraichgau über die olympische Distanz wird 2027 am Sonntag, 23. Mai, ausgetragen – am selben Renntag wie der große IRONMAN 70.3 Kraichgau in der traditionsreichen badischen Triathlon-Region. Geschwommen werden 1,5 km in einer Runde im Hardtsee in Ubstadt-Weiher, einem flachen Badesee mit klarem Wasser und ufernahem Einstieg. Anschließend geht es über 40 km auf dem Rad durch das hügelige „Land der 1000 Hügel“ mit seinen Wäldern und Weinbergen, wo sich kurze Anstiege mit schnellen Abfahrten und Geraden abwechseln. Den Abschluss bildet ein flacher 10-km-Lauf durch Bad Schönborn, der den Kurpark einbezieht und viele Zuschauer an die Strecke lockt. Das Format spricht besonders Einsteigerinnen und Einsteiger sowie Kurzdistanz-Spezialisten an, die das Rennwochenende gemeinsam mit den Mitteldistanz-Startern erleben möchten. Die Anmeldung war zum Zeitpunkt der Erfassung auf ironman.com als „Registration Opening Soon“ angekündigt.",
+  "distanceKm": 51.5
+}
