@@ -28,6 +28,13 @@ const res = await fetch('https://api.indexnow.org/indexnow', {
 });
 console.log(`IndexNow: submitted ${urls.length} URLs → HTTP ${res.status}`);
 if (res.status >= 400) {
-  console.log(await res.text());
+  const body = await res.text();
+  console.log(body);
+  // Right after a deploy that (re)publishes the key file, IndexNow may not
+  // have verified it yet. Not a build problem — the next deploy retries.
+  if (body.includes('SiteVerificationNotCompleted')) {
+    console.log('::warning::IndexNow key verification pending, will retry on next deploy');
+    process.exit(0);
+  }
   process.exit(1);
 }
