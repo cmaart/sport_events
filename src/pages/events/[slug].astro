@@ -113,13 +113,18 @@ const sportsEventLd: Record<string, unknown> = {
     url: `${siteUrl}/`,
   },
 };
-if (end) sportsEventLd.endDate = end.toISOString().slice(0, 10);
+// Google's Event rich-result validator warns on missing endDate/offers/performer.
+// endDate: a one-day race ends the day it starts. offers: the registration page,
+// or the official site when registration isn't linked yet (price is unknown).
+sportsEventLd.endDate = (end ?? start).toISOString().slice(0, 10);
 if (e.websiteUrl) sportsEventLd.sameAs = e.websiteUrl;
-if (e.registrationUrl) {
+const offerUrl = e.registrationUrl ?? e.websiteUrl;
+if (offerUrl) {
   sportsEventLd.offers = {
     '@type': 'Offer',
-    url: e.registrationUrl,
+    url: offerUrl,
     availability: 'https://schema.org/InStock',
+    validFrom: new Date().toISOString().slice(0, 10),
     category: 'Anmeldung',
   };
 }
