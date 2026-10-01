@@ -1,0 +1,23 @@
+{
+  "id": "braunauer-sprinttriathlon-2027",
+  "name": "Braunauer Sprinttriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Braunau am Inn",
+    "lat": 48.2562,
+    "lng": 13.0337,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "http://www.tribraunau.at",
+  "description": "Die 32. Auflage des Braunauer Sprinttriathlons steigt am 23. Mai 2027 und eröffnet traditionell die oberösterreichische Triathlonsaison. Veranstalter ist der ATSV Braunau, der das Rennen am Stadtrand von Braunau am Inn seit über drei Jahrzehnten organisiert – damit zählt es zu den ältesten Triathlons des Bundeslandes. Auf der Sprintdistanz sind 0,6 km Schwimmen, 23 km Radfahren und 6 km Laufen zu bewältigen. Das Rennen ist im ÖTRV-Kalender als fixer Frühsaison-Termin gelistet und zieht regelmäßig ein großes und leistungsstarkes Teilnehmerfeld aus dem oberösterreichisch-salzburgisch-bayerischen Grenzraum an. Ergänzt wird das Programm um Staffel- und Nachwuchsbewerbe.",
+  "distanceKm": 30
+}

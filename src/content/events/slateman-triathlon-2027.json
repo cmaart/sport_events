@@ -1,0 +1,21 @@
+{
+  "id": "slateman-triathlon-2027",
+  "name": "Slateman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Llanberis – Snowdonia (Eryri), Wales",
+    "lat": 53.1272,
+    "lng": -4.1334
+  },
+  "websiteUrl": "https://alwaysaimhighevents.com/events/slateman-triathlon",
+  "description": "Der Slateman Triathlon findet am 13. Juni 2027 in Llanberis am Fuß des Snowdon (Yr Wyddfa) im walisischen Nationalpark Eryri statt und zählt zu den spektakulärsten Off-Road-Triathlons Großbritanniens. Geschwommen wird im kalten, klaren Llyn Padarn, einem Gletschersee am Rand des Dorfes. Veranstalter Always Aim High bietet mehrere Distanzen an: Sprint (750 m / 20,2 km / 5,8 km), Standard (1,5 km / 49,9 km / 11,7 km), die Königsdistanz „Legend“ über 70.3-Format (1,9 km Schwimmen, 92,6 km Rad, 23,1 km Laufen) sowie den „Ultra“ über die volle Langdistanz und einen Standard-Duathlon. Die Radstrecke erklimmt den berüchtigten Llanberis Pass, der abschließende Trail-Lauf führt durch die stillgelegten Schieferbrüche von Dinorwig, die dem Rennen seinen Namen geben. Als Auftakt der walisischen „Trilogy“-Rennserie zieht der Slateman jedes Jahr ein internationales Feld in die Berge von Nordwales.",
+  "distanceKm": 117
+}

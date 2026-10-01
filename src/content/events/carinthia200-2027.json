@@ -1,0 +1,24 @@
+{
+  "id": "carinthia200-2027",
+  "name": "Carinthia200",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Radmarathon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-25",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Villach",
+    "lat": 46.6103,
+    "lng": 13.8558,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://carinthia200.com",
+  "description": "Nach der gefeierten Premiere 2026 soll der Carinthia200 auch 2027 wieder als größtes Rennradevent Kärntens rund um Villach stattfinden; ein genauer Termin im Spätsommer ist noch nicht fixiert. Geboten werden mehrere Streckenvarianten bis hinauf zur Königsdistanz über rund 200 Kilometer, die auf vollständig gesperrten Straßen durch die Seen- und Berglandschaft um Villach führen. Die längste Runde orientiert sich an den Strecken der Straßenrad-Weltmeisterschaft, die 1987 in der Region ausgetragen wurde. Das Teilnehmerfeld ist limitiert, um den Charakter eines autofreien Rennerlebnisses zu bewahren. Die Kulisse aus Ossiacher See, Faaker See und den umliegenden Gailtaler Alpen und Karawanken zählt zu den landschaftlich reizvollsten Radregionen Österreichs. Bis zur offiziellen Terminbestätigung durch den Veranstalter gilt das Datum als vorläufig.",
+  "distanceKm": 200,
+  "elevationGainM": 2800
+}

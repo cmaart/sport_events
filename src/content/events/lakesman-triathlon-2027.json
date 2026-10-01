@@ -1,0 +1,21 @@
+{
+  "id": "lakesman-triathlon-2027",
+  "name": "Lakesman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Keswick – Lake District",
+    "lat": 54.5789,
+    "lng": -3.1466
+  },
+  "websiteUrl": "https://thelakesman.com",
+  "description": "Der Lakesman Triathlon wird am 20. Juni 2027 im Städtchen Keswick im englischen Lake District ausgetragen und gilt als einer der landschaftlich eindrucksvollsten unabhängigen Langdistanz-Triathlons Großbritanniens. Die Volldistanz umfasst 3,8 km Schwimmen im ikonischen Derwentwater, 180 km Rad und einen abschließenden Marathon über 42,2 km; parallel wird eine Halbdistanz über 1,9 km / 90 km / 21,1 km angeboten, dazu Staffel-, Swim+Bike- und Bike+Run-Varianten. Geschwommen wird in zwei Runden im klaren Wasser des von Bergen umrahmten Derwentwater. Die Radstrecke führt aus dem Lake District hinaus in die Ebene um die Küste von Cumbria und bleibt damit flacher als das bergige Umfeld vermuten lässt, während der Marathon als Mehrrundenkurs am Seeufer und durch Keswick verläuft. Das als besonders stimmungsvoll bekannte Rennen setzt auf einen familiären, athletennahen Charakter abseits der großen Marken-Serien.",
+  "distanceKm": 226
+}

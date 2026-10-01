@@ -1,0 +1,22 @@
+{
+  "id": "muensterland-giro-jedermann-2027",
+  "name": "Sparkassen Münsterland Giro – Jedermann",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-10-02",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Münster",
+    "lat": 51.9625,
+    "lng": 7.6256,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://muensterland-giro.de",
+  "description": "Der Sparkassen Münsterland Giro gehört zu den größten Breitensport-Radevents Deutschlands und soll 2027 erneut Anfang Oktober im westfälischen Münsterland ausgetragen werden. Die Anmeldung für die Ausgabe wird ab dem 3. Oktober 2026 freigeschaltet, ein exakter Renntag steht aber noch aus. Für die Jedermann-Rennen stehen drei Distanzen zur Wahl: 65, 95 und 125 Kilometer durch die flache, von Wallhecken und Bauernschaften geprägte Parklandschaft des Münsterlands. Die Jedermann-Felder rollen im Rahmen desselben Streckentags wie das UCI-ProSeries-Profirennen, bei dem regelmäßig internationale Topfahrer am Start sind. Der Zieleinlauf findet traditionell vor dem Schloss in Münster statt. Mit mehreren tausend Teilnehmenden in den begleitenden Cup-Wertungen zählt der Giro zu den Klassikern des deutschen Herbstrennkalenders. Bis zur offiziellen Terminveröffentlichung gilt Anfang Oktober als Richtwert.",
+  "distanceKm": 125
+}

@@ -1,0 +1,22 @@
+{
+  "id": "uci-istria-granfondo-2027",
+  "name": "UCI Istria Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "HR",
+  "dates": {
+    "start": "2027-04-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Umag",
+    "lat": 45.432,
+    "lng": 13.524
+  },
+  "websiteUrl": "https://www.istriadiscovery.hr/",
+  "description": "Die 13. Ausgabe des UCI Istria Gran Fondo führt am 3. April 2027 wieder durch das hügelige Hinterland der kroatischen Adriahalbinsel Istrien. Vom Start am Stella-Maris-Resort in der Küstenstadt Umag stehen zwei Distanzen zur Wahl: der Gran Fondo über 105 Kilometer und rund 1.745 Höhenmeter sowie der Mediofondo über 80 Kilometer. Schlüsselstelle beider Routen ist der Anstieg zum mittelalterlichen Bergstädtchen Oprtalj, von dem sich weite Blicke über das Mirna-Tal und bis zur Adria öffnen. Als Qualifikationsrennen der UCI Gran Fondo World Series vergibt die Veranstaltung Startplätze für die Amateur-Weltmeisterschaft. Vier Verpflegungsstationen säumen die Strecke, das milde mediterrane Aprilklima macht Istrien zu einem beliebten Saisonauftakt für mitteleuropäische Hobbyfahrer. Nach dem Zieleinlauf in Umag lädt die Region mit Olivenhainen, Weingütern und Trüffelküche zum Verweilen.",
+  "distanceKm": 105,
+  "elevationGainM": 1745
+}

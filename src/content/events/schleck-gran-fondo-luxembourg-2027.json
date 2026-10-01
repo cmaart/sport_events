@@ -1,0 +1,23 @@
+{
+  "id": "schleck-gran-fondo-luxembourg-2027",
+  "name": "Schleck Gran Fondo Luxembourg",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "LU",
+  "dates": {
+    "start": "2027-05-29",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Mondorf-les-Bains",
+    "lat": 49.5054,
+    "lng": 6.2786
+  },
+  "websiteUrl": "https://ucigranfondoworldseries.com/en/",
+  "description": "Der Schleck Gran Fondo Luxembourg trägt den Namen der luxemburgischen Radprofis Frank und Andy Schleck und soll 2027 erneut Ende Mai rund um den Kurort Mondorf-les-Bains im Süden des Großherzogtums ausgetragen werden; ein exakter Termin ist noch nicht bestätigt. Als Qualifikationsrennen der UCI Gran Fondo World Series vergibt die Veranstaltung Startplätze für die Gran-Fondo-Weltmeisterschaft. Der Gran Fondo misst rund 164 Kilometer mit etwa 2.250 Höhenmetern, der Medio Fondo rund 82 Kilometer mit etwa 1.100 Höhenmetern. Die Strecken verbinden die welligen Weinberge der luxemburgischen Mosel mit den anspruchsvollen Anstiegen der Ardennen. Start und Ziel liegen im Thermal- und Casinoort Mondorf-les-Bains nahe der französischen Grenze. Das kompakte Großherzogtum lässt sich so an einem einzigen Tag von der Weinregion bis ins Hügelland durchqueren.",
+  "distanceKm": 164,
+  "elevationGainM": 2250,
+  "imageUrl": "https://ucigranfondoworldseries.com/wp-content/uploads/sites/186/2023/12/Schleck0-e1701852672158.jpg"
+}

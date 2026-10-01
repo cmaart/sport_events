@@ -1,0 +1,25 @@
+{
+  "id": "aloha-tri-mondseeland-2027",
+  "name": "ALOHA TRI Mondseeland",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mondsee",
+    "lat": 47.8542,
+    "lng": 13.3475,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://alohasport.at/event/aloha-tri-mondseeland",
+  "description": "Der ALOHA TRI Mondseeland bildet am 5. September 2027 den Abschluss der oberösterreichischen ALOHA-Sport-Serie und zählt landschaftlich zu den reizvollsten Triathlons Österreichs. Geschwommen wird im klaren Mondsee, während die Radrunde die Teilnehmer durch das Salzkammergut rund um Mondsee und Attersee führt. Am Start stehen die Mitteldistanz (1,9 km Schwimmen, 88 km Rad, 21,1 km Laufen), die olympische Kurzdistanz und die Sprintdistanz, jeweils auch als Staffel, sowie eine Aquabike-Mitteldistanz. Die hügelige Radstrecke zwischen den beiden Seen verlangt deutlich mehr Höhenmeter als die flacheren Serienrennen in Linz und Traun. Der Zielbereich liegt direkt am Mondseeufer vor der Kulisse der Drachenwand und des Schafbergs.",
+  "distanceKm": 111
+}

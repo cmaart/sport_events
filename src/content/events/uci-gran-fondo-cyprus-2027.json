@@ -1,0 +1,22 @@
+{
+  "id": "uci-gran-fondo-cyprus-2027",
+  "name": "UCI Gran Fondo Cyprus",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CY",
+  "dates": {
+    "start": "2027-03-26",
+    "end": "2027-03-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Paphos",
+    "lat": 34.772,
+    "lng": 32.4297
+  },
+  "websiteUrl": "https://activatecyprus.com/granfondocyprus/",
+  "description": "Der UCI Gran Fondo Cyprus macht die Hafenstadt Paphos an der Südwestküste Zyperns vom 26. bis 28. März 2027 zum Austragungsort eines dreitägigen Etappenformats. Den Auftakt bildet ein rund 27 Kilometer langes Einzelzeitfahren, das von Nikoklia zunächst leicht ansteigt und anschließend wieder abfällt. Am zweiten Tag folgt der namensgebende Gran Fondo über rund 103 Kilometer mit einem in drei Stufen gegliederten Anstieg hinauf in die Weinbaudörfer des Troodos-Vorgebirges; wer den Mediofondo wählt, biegt früher ab. Die kürzere Schlussetappe über rund 59 Kilometer entscheidet schließlich die Gesamtwertung. Als Qualifier der UCI Gran Fondo World Series vergibt die Veranstaltung Tickets für die Gran-Fondo-Weltmeisterschaft. Die Kombination aus frühem Saisontermin, zuverlässigem Frühlingswetter und abwechslungsreichen Küsten- und Bergstraßen zieht jedes Jahr ein internationales Teilnehmerfeld auf die Mittelmeerinsel.",
+  "distanceKm": 103
+}

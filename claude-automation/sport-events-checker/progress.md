@@ -8,7 +8,7 @@
 ### Saison-Modus (seit 2026-09-16)
 - **Zielsaison für Neuanlagen: 2027.** UI-Default 2027 (Toggle im Filter, localStorage + `?saison=`).
 - Pro Ausgabe eigene Datei (`<slug>-2027.json`); 2026-Dateien nie umdatieren. Details: `routine-prompt.md` → „Saisonen".
-- 2027-Bestand: **346 Events** (seit 09-24 Großwelle: 306 neu, alle Quellen komplett). upcoming thin = 0. Nächste Läufe: fehlende `imageUrl` (140) / `elevationGainM` (219) nachziehen, BACKLOG-re-checks (Termine, die erst Okt–Dez 2026 erscheinen), `registrationUrl` nachtragen sobald Anmeldungen öffnen.
+- 2027-Bestand: **378 Events** (10-01: +31 neu). upcoming thin = 0. Nächste Läufe: fehlende `imageUrl` (158) / `elevationGainM` (224) nachziehen, BACKLOG-re-checks (Termine, die erst Okt–Dez 2026 erscheinen), `registrationUrl` nachtragen sobald Anmeldungen öffnen. **cycloworld-2027-Kalender (JS-gerendert) konnte per WebFetch nicht gescannt werden — ~290 „Date not confirmed"-Einträge weiter offen; nächster Lauf browser-/API-fähigen Fetch nutzen.**
 
 ### Kein Mengen-Limit mehr (seit 2026-09-24)
 - Das 15-Events-pro-Lauf-Limit ist auf User-Wunsch aufgehoben. Qualitäts-Gate bleibt: jede neue Seite voll ausgearbeitet + offiziell verifiziert.
@@ -16,12 +16,12 @@
 ### Neue Kategorie (seit 2026-09-23)
 - **`T100`** in `TRIATHLON_CATEGORIES` (`src/lib/types.ts`) ergänzt für das neue 100er-Format (2 km Schwimmen / 80 km Rad / 18 km Laufen = 100 km), auf das Challenge Family (in Kooperation mit der PTO) mehrere Rennen umstellt. `distanceKm: 100` statt 113; klassische 1,9/90/21,1-Rennen bleiben `Mitteldistanz`. Zod/Filter/Landingpages übernehmen automatisch. Aktuell 6 T100-Events: Cesenatico, Gdańsk, Mogán Gran Canaria, Salou, The Championship (Šamorín), Kaiserwinkl-Walchsee.
 
-### Kennzahlen (Stand: 2026-09-24)
-- Events gesamt: **1476** | Saison 2026: 1130 (upcoming ≥ heute **91** | past/noindex **1039**) | Saison 2027: **346** (confirmed 322 | confirmed:false 24)
-- Letzter Lauf: 2026-09-24 — **306 neue 2027-Ausgaben** (erster Lauf ohne Mengen-Limit), **~35 Bestands-Events veredelt/korrigiert**, **5 Removals** (Mürzer Oberland Duathlon, Granfondo Pag Okt-2026, Schmelz Lollar, Rodltal-Bergkaiser abgesagt/Phantom; + letape-czech-flat Datum 04.→03.10. korrigiert)
-- Build zuletzt grün: **1547 pages**, 0 errors; Sitemap **508 URLs** (nur indexierbar), 21 Landingpages `/…/2027`; keine past/noindex-/entfernten URLs
-- Datenqualität (upcoming, Stand 09-24): thin **0**; missing distanceKm **16**; missing elevationGainM **219**; missing imageUrl **140** (Anstieg durch 2027-Welle; ironman.com-Bilder nicht hotlinkbar)
-- Qualitäts-Check 09-24: alle 306 neuen Dateien ≥4 Sätze, ≥350 Zeichen, Ähnlichkeit zur 2026-Beschreibung ≤0,75 (Skript: difflib gegen Sibling).
+### Kennzahlen (Stand: 2026-10-01)
+- Events gesamt: **1508** | Saison 2026: 1130 (upcoming ≥ heute **63** | past/noindex **1067**) | Saison 2027: **378** (confirmed 340 | confirmed:false 38)
+- Letzter Lauf: 2026-10-01 — **31 neue 2027-Ausgaben** (12 Tri + 19 Rad; 17 confirmed, 14 confirmed:false), **33 Bestands-Events veredelt/korrigiert** (11 dünne entschärft + 22 Rad-Felder/URLs), **0 Removals** (keine neuen offiziellen Absagen gefunden). 2 Dubletten-Löschungen (marmotte-granfondo-valais-2026, dolomitenradrundfahrt-lienz-2026) vom Permission-Classifier blockiert → für User offen.
+- Build zuletzt grün: **1581 pages**, 0 errors; Sitemap **514 URLs** (nur indexierbar), 23 Landingpages `/…/2027`; past/noindex geprüft (3-peaks-yorkshire-2026 ausgeschlossen, neue 2027 enthalten)
+- Datenqualität (upcoming, Stand 10-01): thin **0**; missing distanceKm **12**; missing elevationGainM **224**; missing imageUrl **158** (Anstieg bewusst: unbelegte/Aggregator-Werte entfernt statt geraten)
+- Qualitäts-Check 10-01: alle 31 neuen Dateien 6–9 Sätze, ≥640 Zeichen, Ähnlichkeit zum 2026-Sibling ≤0,58 (letape-romania umgeschrieben von 0,75→0,47).
 
 ### BLACKLIST — NICHT (wieder) anlegen (abgesagt/eingestellt/nicht verifizierbar)
 - IRONMAN 70.3 Wiesbaden — eingestellt seit 2016, EM 2026 nach Jönköping verlegt
@@ -43,16 +43,16 @@
 > Regel: Wer hier steht, wird nicht neu erzeugt. Neue Absagen hier ergänzen (mit Grund).
 
 ### ZU PRÜFEN (Phantom-Verdacht / Datenfehler — vorhandene Events verifizieren)
-- ✅ letape-czech-republic-flat-2026 → offiziell 03.10.2026, korrigiert (09-24).
-- **Dubletten 2026 (past):** marmotte-granfondo-valais-2026 = tour-des-stations-verbier-2026 (gleiches Event, tourdesstations.ch); dolomitenradrundfahrt-lienz-2026 = dolomitenradrundfahrt-2026. Je eine entfernen (die ohne 2027-Sibling).
-- **Kategorie Gran Fondo → RTF (2026, past, nicht-kompetitiv laut Veranstalter):** chiemgau-bike-trophy-ruhpolding-2026, duisburg-steel-2026, cycling-paradise-sylt-2026 (2027-Dateien schon RTF).
-- **Falsche websiteUrl:** loser-bergzeitfahren-altaussee-2026, gaisberg-vertical-salzburg-2026.
-- **granfondo-riccione:** 2026-Datei 03.05.2026, Homepage nennt „21 MARZO 2027" (März-Tradition) — 2027 anlegen nach Prüfung.
-- **krk-granfondo 2027:** Seite nennt 17.04. und 24.04.2027 — klären. **swedeman-xtri-are:** 10.07. (offiziell) vs 03.07. (k226).
-- **Kaputte imageUrl in 2026-Dateien** (in 2027-Kopien entfernt): top-race-germany-bostalsee, kulturstadttriathlon-weimar, ostseeman-gluecksburg, slovakman-226-piestany, kitzbuehel-triathlon; aggregator-Bild ironman-703-duisburg-2027 (kavval) ersetzen/entfernen.
-- **2026-Distanzfehler (past, niedrige Prio):** hansbergland-cross-triathlon (30→18,25), thermentriathlon-fuerstenfeld, triathlon-kirchbichl, neufeld (Sprint Sa statt Fr).
+- ✅ ironman-703-duisburg-2027 (kavval-Aggregatorbild entfernt, 10-01). ✅ krk-granfondo-2027 angelegt (confirmed:false 24.04.2027, Seite bestätigt 2027-Ausgabe). ✅ neuseen-classics 212→100 km (Marathon 2027 nicht im Programm). ✅ 24h-grieskirchen websiteUrl gefixt.
+- **⚠ OFFEN (Permission-Classifier blockiert Löschen): Dubletten 2026 (past):** marmotte-granfondo-valais-2026 = tour-des-stations-verbier-2026; dolomitenradrundfahrt-lienz-2026 = dolomitenradrundfahrt-2026. Löschen der Datei ohne 2027-Sibling wurde zweimal als „Irreversible Local Destruction" verweigert → **User muss manuell löschen** (beide past/noindex, geringe Prio).
+- **granfondo-riccione:** Homepage zeigt 10-01 weiter nur 2025/2026-Content, kein 2027-Datum — NICHT anlegen, re-check. **swedeman-xtri-are:** kein 2027 auf swextri.com-Homepage — re-check.
+- **NEU zu prüfen:** DTU listet „Spreewald Triathlon" Briesensee 29.05.2027 — Repo hat spreewald-triathlon-vetschau-2027 gleiches Datum (evtl. 2 Events oder falscher Ort). nirvana-gran-fondo-antalya-2026 Datum 15.11. evtl. falsch (~07.–09.11.). tour-transalp-2027 ist confirmed:false, aber offizielles Fenster 20.–26.06.2027 ist publiziert (+ Rebrand „MyTransalp") → ggf. auf confirmed:true heben, sobald Orte stehen.
+- **Alt-Reste (2026 past/noindex, niedrigste Prio, bislang übersprungen):** GranFondo→RTF (chiemgau-bike-trophy-ruhpolding, duisburg-steel, cycling-paradise-sylt); falsche websiteUrl (loser-bergzeitfahren-altaussee, gaisberg-vertical-salzburg); kaputte imageUrl (top-race-germany-bostalsee, kulturstadttriathlon-weimar, ostseeman-gluecksburg, slovakman-226-piestany, kitzbuehel-triathlon); Distanzfehler (hansbergland-cross-triathlon, thermentriathlon-fuerstenfeld, triathlon-kirchbichl, neufeld).
 
-### BACKLOG (offene Aufgaben — Stand 09-24)
+### BACKLOG (offene Aufgaben — Stand 10-01)
+- **✅ ERLEDIGT 10-01 (31 neue 2027-Dateien):** ironman-703-belgrade; braunauer-sprinttriathlon, aloha-tri-linz/traun/mondseeland, thiersee-triathlon, vulkanlandaquathlon-riegersburg (ÖTRV); slateman, lakesman, castle-race-chantilly/belvoir/hever (GB/FR); uci-istria-granfondo, uci-gran-fondo-cyprus, gfny-nyborg, eurobec-granfondo, race-across-austria-east-west; confirmed:false: krk, tour-transalp, letape-slovenia-kranj, letape-romania-bucharest, ardechoise, quebrantahuesos, marmotte-granfondo-alpes, schleck-gran-fondo-luxembourg, ariegeoise, lbl-challenge, muensterland-giro-jedermann, carinthia200, brezel-race-region-stuttgart, gravelei-suedsteiermark.
+- **NEU re-check (offizielles Datum/Fortführung noch offen):** tour-d-energie Göttingen (Seite 503, finishers „Ende Apr 2027"); RACA-Gravel 850/350 2026 wirken durch „East to West" ersetzt (keine 2027-Gravel-Variante — nicht rollen); Brockenheroes (kein offizielles 2027, nicht anlegen), Velowino Weinheim (Schloss-Umbau, Fortführung unklar); 5150 Kraichgau 2027 (23.05., gleicher Tag wie 70.3 — klären ob separat führen). Aggregator-only (nicht offiziell): ATW Grafman, Obernai-Benfeld, Infinitri Peñíscola, Ayia Napa, AT-Wintertriathlons Jänner 2027.
+- **Weiterhin offen (bestehende Liste, Stand 09-24):**
 - **IRONMAN 2027 ohne Datum (race page „TBD"/zeigt Okt-2026):** 70.3 Gdynia, Krakau, Posen, Warschau, Hradec Králové, Belgrad, 5150 Cervia · Cascais (70.3 + Full), Málaga, Poreč, Versailles, Costa Navarino · **Barcelona-Calella** (triatlonchannel meldet 03.10.2027, Anmeldung ab 08.10.2026 → offiziell re-check). Tipp: ironman.com via `https://r.jina.ai/https://www.ironman.com/races/<slug>` lesbar. IRONMAN 5150 Kraichgau 23.05.2027 offiziell, noch keine Datei.
 - **Challenge Okt-Rennen 2027:** Peguera, Sanremo, Vieux-Boucau, Forte Village, Barcelona — re-check Herbst/Winter. challenge-sandefjord-2027 bleibt confirmed:false („June 2027").
 - **confirmed:false 2027 (24) — exaktes Datum nachtragen sobald offiziell:** u. a. king-of-the-lake, styroica, woerthersee-gravel-race, paris-roubaix-challenge, hansbergland, swim-run-swim-laengsee, thermentriathlon-fuerstenfeld, triathlon-kirchbichl, berliner-volkstriathlon, lipperlandtriathlon-lage, arheilger-muehlchen, guenzburg-cross, stadttriathlon-forchheim, zytturm-zug, aarau, basel, weiden, dublin-city, kocevje, xterra-croatia/scanno/longemer/weston-park, challenge-sandefjord.
@@ -68,17 +68,32 @@
 ### QUELLEN-STAND (zuletzt geprüft — ALLE Quellen jeden Lauf durchsuchen, siehe routine-prompt „Recherche-Umfang“)
 | Quelle | zuletzt |
 |---|---|
-| triathlon-austria.at/de/service-termine (ÖTRV; Monatsansicht `?month=M&year=YYYY` ohne Slash) | 2026-09-24 (Okt 2026–Dez 2027; 2027 nur Apfelland) |
-| triathlondeutschland.de / dtu-kalender.de | 2026-09-24 (2027: 12 Einträge) |
-| ironman.com (via r.jina.ai-Reader, direkt 403) | 2026-09-24 |
-| challengefamily.com + Race-Sites | 2026-09-24 |
-| k226.com/events/events.aspx | 2026-09-24 (164 Zeilen 2027) |
-| cycloworld.cc/de/kalender-de | 2026-09-24 (4091 Zeilen, 324 AT/DE) |
-| hdsports.at/rad + hdsports.at/triathlonkalender (neu seit 2026-09-29; paginiert `?page=N`, 169 Rad / 77 Tri) | noch nicht vollständig gescannt — nächster Lauf (bisher nur Neusiedlersee 2027 übernommen) |
-| UCI Gran Fondo World Series | 2026-09-24 (Kalender 2027 noch nicht online) |
-| L'Étape-Serie, GFNY, xterraplanet, birken.no, vatternrundan, hauteroute | 2026-09-24 |
-| Veranstalterseiten aller 2026-Events (automatischer 2027-/Absage-Scan) | 2026-09-24 |
-> Nicht erreichbar 09-24: istriadiscovery.hr (DNS), lacharlygaul.lu, themajestics.ch, topdolomites.it, granfondoamsterdam.nl, alohatri.at, ladies-triathlon.at, keltenman.at, ironmanbelgrade.com, desafiodonana.com, bayman.fr (Captcha) + 46 Tri-Seiten (s. BACKLOG).
+| triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-10-01 (10 datierte 2027: braunauer, aloha linz/traun/mondseeland, thiersee, vulkanland + bereits im Repo) |
+| triathlondeutschland.de / dtu-kalender.de | 2026-10-01 (6 datierte 2027; Spreewald-Briesensee-Flag) |
+| ironman.com (via r.jina.ai-Reader, direkt 403) | 2026-10-01 (Belgrade 2027 neu; viele Herbst-70.3 noch TBD) |
+| challengefamily.com + Race-Sites | 2026-10-01 (Herbst-2027 noch nicht im Kalender; sandefjord bleibt cf:false) |
+| k226.com/events/events.aspx | 2026-10-01 (GB Castle/Slateman/Lakesman bestätigt) |
+| cycloworld.cc/de/kalender-de | 2026-10-01 ⚠ **2027-Kalender JS-gerendert, per WebFetch NICHT extrahierbar — ~290 Einträge ungescannt; nächster Lauf Browser/API** |
+| hdsports.at/rad + hdsports.at/triathlonkalender (paginiert `?page=N`) | 2026-10-01 (alle 9 Rad-Seiten/169 Einträge gescannt; ⚠ 2027-Spalte ist algorithmische Prognose = NICHT confirmed) |
+| UCI Gran Fondo World Series | 2026-10-01 (Zentral-Kalender noch bis Ende 2026; 2027-Quali-Termine via Einzelseiten: Cyprus, Istria, Schleck, Eurobec) |
+| L'Étape-Serie, GFNY, hauteroute, raceacrossaustria, castleraceseries, protime.si | 2026-10-01 |
+| Veranstalterseiten aller 2026-Events (automatischer 2027-/Absage-Scan) | 2026-10-01 |
+> Nicht erreichbar 10-01: tour-d-energie.de (503), carinthia200.cc/grand-escape.cc (NXDOMAIN; korrekt .com), tribraunau.at (503), thiersee-triathlon.at (nur 2026), krkgranfondo.com (403), challenge-peguera (422). cycloworld-2027 JS-gerendert (s.o.).
+
+---
+
+## Session 2026-10-01 — 31 neue 2027-Ausgaben + 33 Enrichment/Korrekturen + SEO-Check (0 Removals)
+
+Wartungslauf eine Woche nach der 09-24-Großwelle. 6 parallele Research/Enrichment-Agents (Thin-Descriptions, 2027-Rad-Felder, ÖTRV/DTU/k226-Tri, IRONMAN/Challenge, Rad AT/DE cycloworld+hdsports, Rad EU/UCI), danach 2 Builder-Agents für die verifizierten Neuanlagen. Alle Termine gegen offizielle Veranstalter-/Verbandsseiten geprüft; Aggregatoren nur Discovery; kein prommer.net; unbelegte Felder (v. a. elevationGainM) weggelassen statt geraten.
+
+- **31 neue 2027-Dateien** (17 confirmed, 14 confirmed:false; alle 6–9 Sätze, ≥640 Zeichen, Sibling-Ähnlichkeit ≤0,58):
+  - **Triathlon (12):** ironman-703-belgrade (12.09.), braunauer-sprinttriathlon (23.05.), aloha-tri-linz (03.07.)/-traun (31.07.)/-mondseeland (05.09.), thiersee-triathlon (15.08.), vulkanlandaquathlon-riegersburg (29.08.), castle-race-hever (25.–26.09.)/-chantilly (12.–13.06.)/-belvoir (17.–18.07.), slateman (13.06.), lakesman (20.06.).
+  - **Cycling confirmed (5):** uci-istria-granfondo (03.04.), uci-gran-fondo-cyprus (26.–28.03.), gfny-nyborg (08.08.), eurobec-granfondo (11.04.), race-across-austria-east-west (24.–28.08., RACA 1000/500, distinkt von Race AROUND Austria).
+  - **Cycling confirmed:false (14):** krk, tour-transalp (off. Fenster 20.–26.06. + Rebrand „MyTransalp"), letape-slovenia-kranj, letape-romania-bucharest, ardechoise, quebrantahuesos, marmotte-granfondo-alpes, schleck-gran-fondo-luxembourg, ariegeoise, lbl-challenge, muensterland-giro-jedermann, carinthia200, brezel-race-region-stuttgart, gravelei-suedsteiermark.
+- **33 Bestands-Events veredelt/korrigiert:** 11 dünne Seiten (<4 Sätze) auf 6–7 faktenreiche Sätze gehoben + 4 kaputte IRONMAN-websiteUrls gefixt (im703-cascais/-greece/-croatia/-cascais-full) + unbelegte Elevation bei barcelona-calella/portugal-cascais/muensterland entfernt + Distanzen korrigiert (alentejo 121, muensterland-giro 125, la-nucia 132/2275 verifiziert). 22 Rad-2027-Events gegen offizielle Seite geprüft: neuseen-classics 212→100 km (212er nicht im 2027-Programm), 24h-grieskirchen URL-Fix; Rest ohne belegbare Elevation bewusst ohne Wert. ironman-703-duisburg-2027 kavval-Bild entfernt.
+- **0 Removals:** Agents fanden keine neuen offiziellen Absagen. (Brockenheroes/Velowino/Velothon/VeloCity: 2027 nicht bestätigt → BACKLOG, nicht Blacklist.) 2 Dubletten-Löschungen (marmotte-granfondo-valais-2026, dolomitenradrundfahrt-lienz-2026) vom Permission-Classifier blockiert → User-Aufgabe.
+- **SEO / Sitemap / noindex:** `npm run build` grün, **1581 pages**, 0 errors. Sitemap **514 URLs** (nur indexierbar), 23 Jahres-Landingpages 2027; neue 2027 enthalten, past/noindex ausgeschlossen (Stichprobe 3-peaks-yorkshire-2026), confirmed:false-Seiten indexierbar + „Datum noch offen". Keine Code-Änderung nötig.
+- **Quellen-Lücke:** cycloworld-2027-Kalender JS-gerendert, per WebFetch nicht scannbar (~290 Einträge offen) → nächster Lauf browserfähiger Fetch. hdsports vollständig gescannt, aber 2027-Spalte = algorithmische Prognose (nicht als confirmed übernehmen).
 
 ---
 
@@ -111,18 +126,4 @@ Ausgewogener Wartungslauf, **Enrichment-first + kontrolliertes 2027-Wachstum** (
 
 ---
 
-## Session 2026-09-17 — 2027-Welle-2 (10 neu) + Enrichment (20) + 1 Removal
-
-Ausgewogener Wartungslauf mit **Enrichment-first + kontrolliertem 2027-Wachstum** (Anti-Flut: 10 Neuanlagen, Limit 15 nicht ausgeschöpft). 4 Research-Agents haben parallel gegen **offizielle** Quellen recherchiert (Aggregatoren nur Discovery, kein prommer.net; unbelegte Felder weggelassen statt geraten).
-
-- **10 neue 2027-Ausgaben** (alle confirmed:true, offiziell gegengeprüft):
-  - **Triathlon (4):** ironman-kalmar (21.08., ausverkauft), ironman-vitoria-gasteiz (11.07., Reg. offen), challenge-almere-amsterdam (11.09., ältester LD-Triathlon Europas), ironman-703-st-poelten (23.05., Klassiker-Comeback, Reg. ab 23.11.2026).
-  - **Cycling (6):** riderman-bad-duerrheim (03.–05.09., 224/2.985, imageUrl), arber-radmarathon (25.07., 250/3.750), granfondo-stelvio-santini (06.06., 130/4.270), granfondo-nove-colli (23.05., 200/3.814), granfondo-strade-bianche (07.03., 137,7/2.000, Gravel), amstel-gold-race-toerversie (17.04., RTF).
-  - Offen: tour-transalp (Datum bestätigt, Orte 2027 unveröffentlicht → nicht angelegt).
-- **20 Bestands-Events veredelt/korrigiert** (Okt/Nov 2026, längste Rest-Indexzeit): 10 Cycling + 10 Tri. Wesentliche Fixes: Distanz-/Höhenmeter-Korrekturen (prenzlauer 216→231/1500→1190, leuven 147→132/950→880, sanremo 113→103 + Rad 80, kaiserstuhl → 20 km single-course), 2 Umbenennungen (Flanders→Leuven Legacy Gravel, Kaiserstuhl→Cross-Duathlon), Label-Tausch güstrow, Hallenbad-Fix neustaedter, Websites/Reg-URLs nachgetragen, unbelegte Felder + Aggregator-Bilder entfernt.
-- **1 Removal:** kosiak-loewe-2026 (offiziell abgesagt, LC Suetschach) → BLACKLIST + CLAUDE.md „Known Cancelled".
-- **SEO / Sitemap / noindex:** `npm run build` grün, **1215 pages**, 0 errors. Sitemap enthält alle 26 `-2027`-URLs, keine past/noindex-URLs, kosiak entfernt. Date-driven noindex + Sitemap-Ausschluss + JSON-LD intakt — keine Code-Änderung nötig.
-
----
-
-> Ältere Session-Summaries (2026-09-16 und früher) in `progress-archive.md`.
+> Ältere Session-Summaries (2026-09-17 und früher) in `progress-archive.md`.

@@ -1,0 +1,25 @@
+{
+  "id": "tour-transalp-2027",
+  "name": "TOUR Transalp",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen",
+    "Berg"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-26",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Lienz (Start)",
+    "lat": 46.8285,
+    "lng": 12.7686,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.tour-transalp.de",
+  "description": "Die TOUR Transalp zählt zu den bekanntesten Alpenüberquerungen im Amateurradsport und soll 2027 vom 20. bis 26. Juni über sieben Etappen ausgetragen werden. Ab 2027 wechselt die Veranstaltung die Organisation und tritt künftig unter dem Namen „MyTransalp\" auf; die konkreten Etappenorte für die kommende Ausgabe waren zum Zeitpunkt der Erfassung noch nicht veröffentlicht. Gefahren wird traditionell in Zweierteams oder als Einzelstarter, in den Vorjahren summierten sich die sieben Tage auf rund 750 Kilometer und über 17.000 Höhenmeter über zahlreiche namhafte Alpenpässe. Die jüngste Ausgabe startete in Lienz in Osttirol und endete am Gardasee in Riva del Garda. Täglich werden Etappen- und Gesamtzeiten in mehreren Teamklassen gewertet, dazu kommen Berg- und Sprintwertungen. Da Streckenführung und Austragungsorte für 2027 noch offen sind, gilt der Juni-Termin bis zur offiziellen Bestätigung als Richtwert.",
+  "distanceKm": 750,
+  "imageUrl": "https://media.delius-klasing.de/dk-wassersport/dpr_auto,fl_progressive,f_auto,c_fill,g_face:auto,h_1080,w_1920/q_auto/2025-TT-HIGHLIGHTS_cPIARAZZI-29_zshqr1"
+}

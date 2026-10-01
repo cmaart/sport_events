@@ -1,0 +1,24 @@
+{
+  "id": "ariegeoise-cyclosportive-2027",
+  "name": "L'Ariégeoise Cyclosportive",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo",
+    "Radmarathon"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-26",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Tarascon-sur-Ariège",
+    "lat": 42.8415,
+    "lng": 1.6039
+  },
+  "websiteUrl": "https://www.cyclosport-ariegeoise.com/",
+  "description": "L'Ariégeoise Cyclosportive führt 2027 wieder von Tarascon-sur-Ariège hinauf in die französischen Zentralpyrenäen; nach dem großen Jubiläum 2026 steht der genaue Juni-Termin für die kommende Ausgabe noch aus. Die namensgebende Hauptstrecke misst rund 169 Kilometer mit etwa 4.500 Höhenmetern und führt über den 2.001 Meter hohen Col de Pailhères sowie als Schlussanstieg auf das Plateau de Beille (16 Kilometer mit durchschnittlich 7,9 Prozent Steigung). Daneben werden kürzere Varianten wie die Mountagnole über rund 124 Kilometer und die Rapaillou über rund 92 Kilometer angeboten. Beide Schlüsselanstiege sind von zahlreichen Tour-de-France-Bergankünften bekannt und machen die Ariégeoise zu einem Gradmesser für kletterstarke Hobbyfahrer. Gestartet wird gestaffelt im frühen Morgengrauen in Tarascon-sur-Ariège. Bis zur offiziellen Terminbestätigung gilt Ende Juni als Richtwert.",
+  "distanceKm": 169,
+  "elevationGainM": 4500,
+  "imageUrl": "https://www.cyclosport-ariegeoise.com/wp-content/uploads/2026/02/Ariegeoise-Post-facebook-3.jpg"
+}

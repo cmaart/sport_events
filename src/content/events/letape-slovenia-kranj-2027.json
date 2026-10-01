@@ -1,0 +1,22 @@
+{
+  "id": "letape-slovenia-kranj-2027",
+  "name": "L'Étape Slovenia by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "SI",
+  "dates": {
+    "start": "2027-09-04",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Kranj",
+    "lat": 46.2392,
+    "lng": 14.3556
+  },
+  "websiteUrl": "https://www.letapeseries.com/",
+  "description": "L'Étape Slovenia by Tour de France macht 2027 erneut die oberkrainische Stadt Kranj am Fuß der Julischen Alpen und Steiner Alpen zum Mittelpunkt des offiziellen Tour-de-France-Jedermannrennens in Slowenien. Die Voranmeldung für die Ausgabe ist bereits geöffnet, ein genauer Renntermin Anfang September steht aber noch aus. Geboten werden zwei Distanzen: The Race über rund 130 Kilometer mit etwa 1.800 Höhenmetern sowie der kürzere The Ride über rund 80 Kilometer. Die Strecken führen vom Start in Kranj hinaus in die alpine Kulisse der Region Gorenjska mit ihren Pässen und Tälern und kehren zum Zieleinlauf in die mittelalterliche Altstadt zurück. Wie bei allen Rennen der L'Étape-by-Tour-de-France-Serie wird auf gesperrten Straßen mit elektronischer Zeitnahme und Altersklassenwertung gefahren. Bis zur offiziellen Terminbestätigung gilt das Datum Anfang September als Richtwert.",
+  "distanceKm": 130,
+  "elevationGainM": 1800
+}

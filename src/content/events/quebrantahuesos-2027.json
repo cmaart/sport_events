@@ -1,0 +1,23 @@
+{
+  "id": "quebrantahuesos-2027",
+  "name": "Marcha Cicloturista Quebrantahuesos",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-06-19",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Sabiñánigo",
+    "lat": 42.519,
+    "lng": -0.3648
+  },
+  "websiteUrl": "https://www.quebrantahuesos.com/en/",
+  "description": "Die Marcha Cicloturista Quebrantahuesos ist der bedeutendste Granfondo Spaniens und soll 2027 erneut von Sabiñánigo in der Provinz Huesca aus durch die aragonesischen und französischen Pyrenäen führen. Der klassische Termin Mitte bis Ende Juni ist für 2027 noch nicht offiziell fixiert. Die Königsstrecke misst rund 200 Kilometer mit etwa 3.500 Höhenmetern und überquert die großen Pässe Somport, Marie-Blanque, Portalet sowie den Anstieg nach Hoz de Jaca; wer es kürzer mag, wählt die Treparriscos über rund 85 Kilometer. Wegen des enormen Andrangs werden die rund 10.000 Startplätze per Losverfahren vergeben. Das internationale Teilnehmerfeld und die kompromisslose Bergkulisse haben der „Quebranta\" Kultstatus unter europäischen Marathonfahrern verschafft. Gestartet wird in den frühen Morgenstunden, damit das Feld die langen Anstiege vor der Mittagshitze bewältigt. Bis zur offiziellen Terminbestätigung gilt der Juni als Richtwert.",
+  "distanceKm": 200,
+  "elevationGainM": 3500,
+  "imageUrl": "https://www.quebrantahuesos.com/wp-content/uploads/2025/10/QH_HelenaClancy__1280.jpg"
+}

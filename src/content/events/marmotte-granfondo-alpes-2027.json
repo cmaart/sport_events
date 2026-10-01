@@ -1,0 +1,23 @@
+{
+  "id": "marmotte-granfondo-alpes-2027",
+  "name": "Marmotte Granfondo Alpes",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Bourg-d'Oisans",
+    "lat": 45.0556,
+    "lng": 6.0336
+  },
+  "websiteUrl": "https://marmottegranfondoalpes.com/en/",
+  "description": "La Marmotte Granfondo Alpes gilt als einer der härtesten und prestigeträchtigsten Jedermann-Marathons Europas und soll 2027 erneut Ende Juni im Oisans-Tal ausgetragen werden; der genaue Termin steht noch aus. Vom Start in Bourg-d'Oisans bewältigt das Feld auf rund 174 Kilometern etwa 5.000 Höhenmeter über vier legendäre Alpenpässe. Die Route verbindet den Col du Glandon, den Col du Télégraphe und den 2.642 Meter hohen Col du Galibier, bevor zum Abschluss die 21 Kehren hinauf nach L'Alpe d'Huez warten. Rund 7.500 Startplätze sind regelmäßig binnen kürzester Zeit vergeben. Als Qualifikationsrennen der UCI Gran Fondo World Series vergibt die Marmotte Tickets für die Amateur-Weltmeisterschaft. Die Kombination aus Tour-de-France-Mythos und gnadenlosem Höhenprofil macht sie zum Lebensziel vieler Hobbyradsportler. Bis zur offiziellen Bestätigung gilt der Juni-Termin als Richtwert.",
+  "distanceKm": 174,
+  "elevationGainM": 5000,
+  "imageUrl": "https://marmottegranfondoalpes.com/wp-content/uploads/sites/8/2025/07/MARMOTTES25_WJ-66-scaled.jpg"
+}

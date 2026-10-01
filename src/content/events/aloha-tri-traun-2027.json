@@ -1,0 +1,24 @@
+{
+  "id": "aloha-tri-traun-2027",
+  "name": "ALOHA TRI Traun",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-31",
+    "end": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oedter See, Traun",
+    "lat": 48.2127,
+    "lng": 14.222,
+    "region": "Oberösterreich"
+  },
+  "websiteUrl": "https://alohasport.at/event/aloha-tri-traun",
+  "description": "Der ALOHA TRI Traun erstreckt sich 2027 über zwei Tage: Am 31. Juli stehen die Nachwuchs- und Jugendbewerbe auf dem Programm, am 1. August folgen die Hauptrennen der Erwachsenen. Schwimmstart ist im Oedter See am Stadtrand von Traun, einem gepflegten Badesee mit guter Wasserqualität. Geboten werden die Sprintdistanz und die olympische Kurzdistanz mit flacher, schneller Radstrecke durch das ebene Linzer Umland und abschließendem Lauf rund um den See. Wechselzone und Zielbereich liegen beim Oedter See. Der Bewerb ist Teil der oberösterreichischen ALOHA-Sport-Serie und richtet sich mit Kids-Rennen und Staffeln bewusst auch an Familien.",
+  "distanceKm": 51.5
+}

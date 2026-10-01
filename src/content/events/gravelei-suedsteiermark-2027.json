@@ -1,0 +1,24 @@
+{
+  "id": "gravelei-suedsteiermark-2027",
+  "name": "Gravelei Südsteiermark",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-21",
+    "end": "2027-05-23",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Gamlitz",
+    "lat": 46.7,
+    "lng": 15.55,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.gravelei.com",
+  "description": "Die Gravelei Südsteiermark lädt 2027 erneut zu einem mehrtägigen Gravel-Festival in die Weinberge rund um Gamlitz; ein Countdown auf der Veranstalterseite bestätigt die Neuauflage, als Termin wird das Wochenende 21. bis 23. Mai 2027 geführt, das jedoch noch offiziell zu bestätigen ist. Gefahren wird auf einem Mix aus Schotterwegen, Weinbergstraßen und ruhigen Nebenstraßen durch die sanfte Hügellandschaft der südsteirischen Weinstraße nahe der slowenischen Grenze. Drei Streckenlängen stehen zur Wahl: die gemütliche Runde über 35 bis 45 Kilometer, „Die Wuede\" über 75 bis 90 Kilometer und die Königsrunde „Die Gstörte\" über rund 120 Kilometer. Zum Festivalcharakter gehören ein geführtes Einrollen am Freitagabend sowie ein südsteirischer Abend auf Schloss Gamlitz. Die Startgebühr schließt die Verpflegung entlang der Strecke und im Ziel ein. Die Kombination aus Gravel-Sport, Weinkultur und Kulinarik macht die Veranstaltung zu einem besonderen Saisonhighlight im Süden Österreichs.",
+  "distanceKm": 120,
+  "elevationGainM": 1800
+}

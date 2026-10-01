@@ -1,0 +1,23 @@
+{
+  "id": "lbl-challenge-2027",
+  "name": "Liege-Bastogne-Liege Challenge",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2027-04-24",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Liege",
+    "lat": 50.6326,
+    "lng": 5.5797
+  },
+  "websiteUrl": "https://lblchallenge.be/en/homepage/",
+  "description": "Die Liège-Bastogne-Liège Challenge ist die Amateurausgabe des ältesten der fünf Rad-Monumente und wird traditionell am Vortag des Profirennens „La Doyenne\" ausgetragen; der genaue Termin Ende April 2027 steht noch aus. Von Lüttich aus stehen drei Distanzen zur Wahl: die volle Strecke über 257 Kilometer mit rund 4.500 Höhenmetern, eine mittlere über 163 Kilometer sowie eine Einsteigerrunde über 80 Kilometer. Unterwegs warten die berüchtigten Ardennen-Anstiege, darunter die Côte de La Redoute, die Roche-aux-Faucons und die Côte de la Chapelle. Die Teilnehmenden fahren exakt dieselben Rampen, die tags darauf über den Ausgang des Weltklasse-Klassikers entscheiden. Start und Ziel liegen im Großraum Lüttich in der wallonischen Provinz. Bis zur offiziellen Bestätigung gilt das Aprilwochenende rund um die Profi-Doyenne als Richtwert.",
+  "distanceKm": 257,
+  "elevationGainM": 4500,
+  "imageUrl": "https://lblchallenge.be/wp-content/uploads/sites/260/sites/1/nggallery/lbl-cyclo-2023/20230422-LBLChallenge-1600x900-MatsPalinckx-47.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "vulkanlandaquathlon-riegersburg-2027",
+  "name": "Vulkanlandaquathlon Riegersburg",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegersburg",
+    "lat": 46.998,
+    "lng": 15.941,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "http://www.vulkanlandtriathlon.at/",
+  "description": "Der Vulkanlandaquathlon Riegersburg wird am 29. August 2027 vom Vulkanlandtriathlon-Club in der oststeirischen Vulkanlandschaft ausgetragen. Als reiner Schwimm-Lauf-Bewerb kombiniert der Aquathlon einen Laufteil, einen Schwimmabschnitt und einen abschließenden Lauf – ganz ohne Radstrecke. Austragungsort ist das Gebiet rund um Riegersburg, überragt von der auf einem erloschenen Vulkankegel thronenden mittelalterlichen Burg Riegersburg. Die Veranstaltung versteht sich als familiärer Breitensport-Bewerb und wird vom selben Verein organisiert wie der Vulkanlandtriathlon, dessen 15. Auflage im Mai 2027 stattfindet. Die markante Burgkulisse und die sanft hügelige Thermen- und Vulkanland-Region machen das Rennen zu einem eigenständigen Naturerlebnis im steirischen Spätsommer.",
+  "distanceKm": 12
+}

@@ -1,0 +1,25 @@
+{
+  "id": "thiersee-triathlon-2027",
+  "name": "Internationaler Thiersee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-15",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Thiersee",
+    "lat": 47.5912,
+    "lng": 12.1047,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.thiersee-triathlon.at",
+  "description": "Der 9. Internationale Thiersee Triathlon steigt am 15. August 2027 am türkisblauen Thiersee im Kufsteinerland (Tirol). Auf der olympischen Kurzdistanz warten 1,5 km Schwimmen in zwei Runden, 40 km Rad mit rund 440 Höhenmetern und 10 km Laufen; die Sprintdistanz umfasst 750 m Schwimmen, 20 km Rad und 5 km Laufen. Schwimmstart und Wechselzone liegen am Strandbad Thiersee mit seiner ausgezeichneten Wasserqualität. Die wellige Radstrecke zieht durch die umliegenden Berge des Thierseetals, ehe der flache Schlusslauf am schilfgesäumten Seeufer vorbeiführt. Der Termin ist im ÖTRV-Kalender fixiert; ergänzt wird das Programm durch Staffeln, einen Kinder-Cross-Triathlon und eine Jedermann-Distanz. In den Vorjahren waren die Einzelbewerbe regelmäßig ausgebucht.",
+  "distanceKm": 51.5,
+  "elevationGainM": 440
+}
