@@ -31,6 +31,11 @@ today.setHours(0, 0, 0, 0);
 const isPast = e.dates.confirmed && (end ?? start) < today;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const mapUrl = `https://www.google.com/maps/search/?api=1&query=${e.location.lat},${e.location.lng}`;
+// Organiser hero images are hotlinked originals (often 0.5–1 MB, 1920px+). Serve
+// resized WebP via the wsrv.nl proxy for display; og:image and JSON-LD keep the
+// original URL. onerror falls back to the original if the proxy can't fetch it.
+const heroSrc = (url: string, w: number) =>
+  `https://wsrv.nl/?url=${encodeURIComponent(url)}&w=${w}&h=${Math.round((w * 7) / 16)}&fit=cover&output=webp&q=80`;
 const sportLabel =
   e.sport === 'cycling'
     ? isRtf(e.categories)
@@ -204,7 +209,19 @@ const breadcrumbsLd = {
 
     {e.imageUrl && (
       <div class="mb-6 rounded-2xl overflow-hidden border border-[var(--color-ink-100)] shadow-sm aspect-[16/7]">
-        <img src={e.imageUrl} alt={e.name} class="w-full h-full object-cover" loading="eager" />
+        <img
+          src={heroSrc(e.imageUrl, 1200)}
+          srcset={`${heroSrc(e.imageUrl, 640)} 640w, ${heroSrc(e.imageUrl, 960)} 960w, ${heroSrc(e.imageUrl, 1200)} 1200w, ${heroSrc(e.imageUrl, 1600)} 1600w`}
+          sizes="(min-width: 1024px) 896px, 100vw"
+          alt={e.name}
+          class="w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
+          width="1200"
+          height="525"
+          onerror={`this.onerror=null;this.removeAttribute('srcset');this.src=${JSON.stringify(e.imageUrl)}`}
+        />
       </div>
     )}
 

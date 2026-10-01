@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'preact/hooks';
+import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
 import { lazy, Suspense } from 'preact/compat';
 import FilterBar from './FilterBar';
 import EventList from './EventList';
@@ -22,6 +22,11 @@ export default function EventsExplorer({ baseUrl }: Props) {
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false);
   const [view, setView] = useState<View>('both');
   const [isClient, setIsClient] = useState(false);
+  // Leaflet + ~0.5 MB of OSM tiles are the heaviest thing on the page. Mount the
+  // map only once its container scrolls near the viewport (mobile: below the
+  // fold), so first paint and TBT aren't paid for a map nobody has seen yet.
+  const mapHostRef = useRef<HTMLDivElement>(null);
+  const [mapInView, setMapInView] = useState(false);
   // Events are fetched from the static /events.json endpoint instead of being
   // serialized into the page as island props — that kept ~1.4 MB of JSON in
   // the homepage HTML and buried the crawlable content.
@@ -42,6 +47,27 @@ export default function EventsExplorer({ baseUrl }: Props) {
   useEffect(() => {
     if (isClient) syncUrl(filters);
   }, [filters, isClient]);
+
+  useEffect(() => {
+    if (!isClient || mapInView) return;
+    const host = mapHostRef.current;
+    if (!host) return;
+    if (!('IntersectionObserver' in window)) {
+      setMapInView(true);
+      return;
+    }
+    const io = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((en) => en.isIntersecting)) {
+          setMapInView(true);
+          io.disconnect();
+        }
+      },
+      { rootMargin: '200px 0px' },
+    );
+    io.observe(host);
+    return () => io.disconnect();
+  }, [isClient, mapInView, view]);
 
   useEffect(() => {
     if (isClient) saveSeasonToStorage(filters.season);
@@ -135,8 +161,8 @@ export default function EventsExplorer({ baseUrl }: Props) {
         <div class="space-y-6">
           <div class={`grid gap-6 ${view === 'both' ? 'grid-cols-1 xl:grid-cols-2' : 'grid-cols-1'}`}>
             {(view === 'map' || view === 'both') && (
-              <div class={`${view === 'both' ? 'xl:order-2 xl:sticky xl:top-20 xl:self-start xl:h-[calc(100vh-7rem)]' : 'h-[60vh]'}`}>
-                {isClient ? (
+              <div ref={mapHostRef} class={`${view === 'both' ? 'xl:order-2 xl:sticky xl:top-20 xl:self-start xl:h-[calc(100vh-7rem)]' : 'h-[60vh]'}`}>
+                {isClient && mapInView ? (
                   <Suspense fallback={<div class="rounded-2xl bg-[var(--color-ink-100)] animate-pulse w-full h-full" />}>
                     <EventMap events={filtered} selectedId={selectedId} onSelect={handleSelect} onShowInList={handleShowInList} baseUrl={baseUrl} />
                   </Suspense>

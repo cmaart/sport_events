@@ -4,6 +4,14 @@ import { sortEvents } from '../../lib/filters';
 import { formatDateRange, t } from '../../lib/i18n';
 import { COUNTRY_LABELS, isRtf } from '../../lib/types';
 
+/**
+ * Organiser hero images are hotlinked full-size (often 0.5–1 MB) but rendered as
+ * 128px-high list thumbnails. Route them through the wsrv.nl image proxy for
+ * on-the-fly resizing + WebP; the detail page keeps the original as hero/OG image.
+ */
+const thumb = (url: string, w: number) =>
+  `https://wsrv.nl/?url=${encodeURIComponent(url)}&w=${w}&h=${Math.round(w / 2.5)}&fit=cover&output=webp&q=75`;
+
 interface Props {
   events: EventData[];
   selectedId: string | null;
@@ -90,7 +98,17 @@ export default function EventList({ events, selectedId, onSelect, baseUrl, empty
             >
               {e.imageUrl && (
                 <div class="h-32 overflow-hidden">
-                  <img src={e.imageUrl} alt={e.name} class="w-full h-full object-cover" loading="lazy" />
+                  <img
+                    src={thumb(e.imageUrl, 640)}
+                    srcset={`${thumb(e.imageUrl, 480)} 480w, ${thumb(e.imageUrl, 640)} 640w, ${thumb(e.imageUrl, 960)} 960w`}
+                    sizes="(min-width: 1024px) 420px, 100vw"
+                    alt={e.name}
+                    class="w-full h-full object-cover"
+                    loading="lazy"
+                    decoding="async"
+                    width="640"
+                    height="256"
+                  />
                 </div>
               )}
               <div class="block p-4">

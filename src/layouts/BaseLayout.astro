@@ -4,6 +4,9 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import CookieBanner from '../components/CookieBanner.astro';
 import { t } from '../lib/i18n';
+// Preload the latin subset of the self-hosted variable font so text (the LCP
+// element on most pages) doesn't wait for CSS parse → @font-face discovery.
+import interLatinWoff2 from '@fontsource-variable/inter/files/inter-latin-wght-normal.woff2?url';
 
 interface Props {
   title?: string;
@@ -92,12 +95,11 @@ const faviconSvg = `${base}favicon.svg`.replace(/\/+/g, '/');
     <meta name="twitter:image:alt" content={ogImageAlt ?? t('site.ogImageAlt')} />
 
     <meta name="theme-color" content="#F05D23" />
+    <link rel="preload" as="font" type="font/woff2" href={interLatinWoff2} crossorigin />
     <link rel="icon" type="image/svg+xml" href={faviconSvg} />
     <link rel="icon" type="image/png" sizes="32x32" href={favicon32} />
     <link rel="apple-touch-icon" href={appleTouchIcon} />
     <link rel="alternate icon" href={faviconIco} />
-    <link rel="preconnect" href="https://rsms.me/" />
-    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
 
     <script is:inline>
       // Google Consent Mode v2: default-denied in EEA/UK/CH until the cookie

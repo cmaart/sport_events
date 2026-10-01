@@ -67,6 +67,11 @@ export default defineConfig({
   site: 'https://events.endure-cycling.com',
   output: 'static',
   trailingSlash: 'always',
+  build: {
+    // ~16 KiB of CSS per page; inlining removes two render-blocking requests
+    // (Lighthouse: ~0.5 s on mobile) at the cost of no cross-page CSS caching.
+    inlineStylesheets: 'always',
+  },
   integrations: [
     preact(),
     sitemap({

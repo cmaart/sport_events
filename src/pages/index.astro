@@ -178,7 +178,7 @@ const jsonLd = {
   <AppPromo class="mt-6 mb-2" placement="start" />
 
   <div id="explore"></div>
-  <EventsExplorer client:load baseUrl={base} />
+  <EventsExplorer client:idle baseUrl={base} />
 
   {/* Server-rendered upcoming events: real, crawlable HTML content — the
       interactive explorer above loads its data client-side, so this section

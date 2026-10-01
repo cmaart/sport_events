@@ -1,4 +1,6 @@
 @import "tailwindcss";
+/* Self-hosted Inter (variable, latin + latin-ext) — replaces the render-blocking rsms.me stylesheet. */
+@import "@fontsource-variable/inter/wght.css";
 
 @theme {
   /* Endure brand: orange primary, pink/purple accents */
@@ -17,7 +19,7 @@
   --color-ink-100: #e2e8f0;
   --color-surface: #ffffff;
   --color-surface-muted: #f8fafc;
-  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-sans: "Inter Variable", "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
 html {
