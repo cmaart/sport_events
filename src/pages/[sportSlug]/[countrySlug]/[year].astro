@@ -68,7 +68,7 @@ const seoDescription = intro.length > 200 ? intro.slice(0, 197).replace(/[.,;:\s
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = `${siteUrl}/${SPORT_SLUGS[sport]}/${COUNTRY_SLUGS[country]}/${year}`;
+const pageUrl = `${siteUrl}/${SPORT_SLUGS[sport]}/${COUNTRY_SLUGS[country]}/${year}/`;
 const mapFilterUrl = `${base}/?saison=${year}&sport=${sport}&country=${country}#explore`;
 
 // Cross-links: same sport in other countries, and other sport in same country.
@@ -106,7 +106,7 @@ const itemListLd = {
   itemListElement: events.map((e, i) => ({
     '@type': 'ListItem',
     position: i + 1,
-    url: `${siteUrl}/events/${e.slug}`,
+    url: `${siteUrl}/events/${e.slug}/`,
     name: e.name,
   })),
 };

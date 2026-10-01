@@ -63,7 +63,7 @@ export interface LandingPath {
 }
 
 export const landingHref = (base: string, l: LandingPath): string =>
-  `${base}/${l.sportSlug}/${l.countrySlug}/${l.year}`;
+  `${base}/${l.sportSlug}/${l.countrySlug}/${l.year}/`;
 
 export function collectLandingPaths(
   events: { data: { sport: Sport; country: Country; dates: { start: Date | string } } }[],

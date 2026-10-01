@@ -72,7 +72,7 @@ const itemListLd = {
   itemListElement: upcoming.map((e, i) => ({
     '@type': 'ListItem',
     position: i + 1,
-    url: `${siteUrl}/events/${e.slug}`,
+    url: `${siteUrl}/events/${e.slug}/`,
     name: e.name,
   })),
 };
@@ -149,7 +149,7 @@ const jsonLd = {
               {t('hero.cta.explore')}
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" class="w-4 h-4"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
             </a>
-            <a href={`${base}/event-vorschlagen`}
+            <a href={`${base}/event-vorschlagen/`}
               class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white hover:bg-[var(--color-ink-100)] border border-[var(--color-ink-300)] text-[var(--color-ink-900)] font-medium text-sm transition">
               {t('hero.cta.contribute')}
             </a>

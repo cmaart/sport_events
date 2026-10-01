@@ -71,7 +71,7 @@ const seoDescription = truncate(descPrefix + e.description.replace(/\s+/g, ' ').
 
 // Structured data: SportsEvent — eligible for Google's event rich results.
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = `${siteUrl}/events/${slug}`;
+const pageUrl = `${siteUrl}/events/${slug}/`;
 const sportName = e.sport === 'cycling' ? 'Cycling' : 'Triathlon';
 
 const sportsEventLd: Record<string, unknown> = {
