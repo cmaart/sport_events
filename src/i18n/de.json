@@ -155,5 +155,16 @@
   "cookieBanner.description": "Wir verwenden Cookies und Google AdSense, um relevante Anzeigen auszuspielen. Du kannst Werbe-Cookies akzeptieren oder ablehnen.",
   "cookieBanner.accept": "Akzeptieren",
   "cookieBanner.decline": "Ablehnen",
-  "cookieBanner.privacyLink": "Zur Datenschutzerklärung"
+  "cookieBanner.privacyLink": "Zur Datenschutzerklärung",
+  "landing.guide.heading": "{title} im Überblick",
+  "landing.faq.heading": "Häufige Fragen",
+  "home.countries.title": "Rennkalender nach Land",
+  "home.countries.intro": "Für jedes Land mit mindestens drei Terminen gibt es eine eigene Übersichtsseite mit allen Rennen der Saison, nach Monat sortiert. Dort stehen auch Distanzen, Höhenmeter und der Link zur Anmeldung.",
+  "home.countries.cycling": "Radrennen {year}",
+  "home.countries.triathlon": "Triathlons {year}",
+  "home.countries.link": "Alle {count} Termine ansehen",
+  "home.about.title": "Über diesen Kalender",
+  "home.about.p1": "ENDURE Events listet Radrennen und Triathlons für Hobbysportler in Europa, mit Schwerpunkt auf Österreich und Deutschland. Jedermannrennen, Radmarathons, Gran Fondos, Gravel-Rennen und Radtourenfahrten stehen neben Triathlons von der Sprintdistanz bis zum Ironman. Profi-Rennen ohne Amateurstart nehmen wir nicht auf.",
+  "home.about.p2": "Jeder Eintrag hat Datum, Startort mit Karte, Distanzen, Höhenmeter und den Link zur Anmeldung beim Veranstalter. Die Termine kommen von den Veranstalterseiten und den Verbandskalendern, nicht von anderen Terminlisten. Wir prüfen sie jede Woche und streichen Events, die abgesagt wurden. Steht ein Datum für die neue Saison noch nicht fest, führen wir das Event mit dem Wochenende der letzten Ausgabe und markieren es als offen.",
+  "home.about.p3": "Fehlt ein Rennen? Über das Formular kannst du es vorschlagen. Wir prüfen den Termin beim Veranstalter und nehmen es dann auf."
 }

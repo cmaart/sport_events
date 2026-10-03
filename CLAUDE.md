@@ -40,6 +40,7 @@ There is no `season` field. An event belongs to the season of its **start year**
 - **UI:** `FilterBar` has a season toggle (radio 2026 / 2027 with counts). The choice is persisted in `localStorage` (`sport_events.season.v1`) and mirrored to the `?saison=` URL param; a `saison` param in a shared link overrides the stored choice. Season is a view mode, not counted as an "active filter", and "Alle zurücksetzen" keeps it.
 - **Landing pages** are per sport × country × year: `src/pages/[sportSlug]/[countrySlug]/[year].astro` (e.g. `/radrennen/oesterreich/2027`), generated only when ≥ 3 events exist (`MIN_EVENTS_PER_LANDING`). Header/Footer/breadcrumbs link the landing page of the event's own season.
 - Site-wide strings in `de.json` say "2026/27"; per-page strings take a `{year}` param — don't hardcode a year in new templates.
+- **Landing page body copy** is generated, not written: `src/lib/landing-intro.ts` (one intro paragraph, also the meta description) and `src/lib/landing-guide.ts` (four sections + FAQ with `FAQPage` JSON-LD, plus the per-country blurbs on the homepage). Every sentence is derived from the matched events, so pages never share text. When editing the templates keep the style rules in the file header: plain German, no dashes, no marketing adjectives, no claims the data can't back. Render a few pages after changes and read the output; grammar bugs (case after `mit`, singular/plural) only show up with real numbers.
 
 ### Critical split: server-only vs browser-safe constants
 

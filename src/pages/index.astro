@@ -6,6 +6,9 @@ import EventCard from '../components/EventCard.astro';
 import AppPromo from '../components/AppPromo.astro';
 import { t } from '../lib/i18n';
 import type { EventData } from '../lib/filters';
+import { COUNTRY_LABELS, DEFAULT_SEASON, seasonOf, type Sport } from '../lib/types';
+import { collectLandingPaths, landingHref } from '../lib/landing';
+import { buildCountryBlurb } from '../lib/landing-guide';
 
 const entries = await getCollection('events');
 const events: EventData[] = entries.map((entry) => ({
@@ -76,6 +79,31 @@ const itemListLd = {
     name: e.name,
   })),
 };
+
+// Static per-country overview for the default season: one short, data-derived
+// paragraph per sport × country, linking to the landing page. This is plain
+// HTML content for crawlers; the explorer above loads its data client-side.
+const overviewYear = DEFAULT_SEASON;
+const landingsForOverview = collectLandingPaths(entries)
+  .filter((l) => l.year === overviewYear)
+  .sort((a, b) => b.count - a.count);
+const overviewBySport = (['cycling', 'triathlon'] as Sport[]).map((sport) => ({
+  sport,
+  items: landingsForOverview
+    .filter((l) => l.sport === sport)
+    .slice(0, 8)
+    .map((l) => {
+      const matched = events.filter(
+        (e) => e.sport === sport && e.country === l.country && seasonOf(e.dates.start) === overviewYear,
+      );
+      return {
+        landing: l,
+        countryName: COUNTRY_LABELS[l.country].name,
+        flag: COUNTRY_LABELS[l.country].flag,
+        blurb: buildCountryBlurb(sport, COUNTRY_LABELS[l.country].name, matched, overviewYear),
+      };
+    }),
+}));
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -199,4 +227,46 @@ const jsonLd = {
       </div>
     </section>
   )}
+
+  <section aria-labelledby="countries-heading" class="border-t border-[var(--color-ink-100)] bg-[var(--color-surface)]">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 sm:py-12">
+      <h2 id="countries-heading" class="text-xl sm:text-2xl font-semibold tracking-tight mb-2">{t('home.countries.title')}</h2>
+      <p class="text-sm sm:text-[15px] text-[var(--color-ink-700)] leading-relaxed max-w-prose mb-8">{t('home.countries.intro')}</p>
+      <div class="grid gap-10 lg:grid-cols-2">
+        {overviewBySport.map((group) => group.items.length > 0 && (
+          <div>
+            <h3 class="text-base font-semibold uppercase tracking-wide text-[var(--color-ink-500)] mb-4">
+              {t(group.sport === 'cycling' ? 'home.countries.cycling' : 'home.countries.triathlon', { year: overviewYear })}
+            </h3>
+            <ul class="space-y-4">
+              {group.items.map((it) => (
+                <li class="rounded-2xl bg-white border border-[var(--color-ink-100)] p-4">
+                  <h4 class="font-semibold text-[var(--color-ink-900)] mb-1">
+                    <a href={landingHref(base, it.landing)} class="hover:text-[var(--color-brand-600)]">
+                      <span aria-hidden="true">{it.flag}</span> {group.sport === 'cycling' ? t('landing.title.cycling', { country: it.countryName, year: overviewYear }) : t('landing.title.triathlon', { country: it.countryName, year: overviewYear })}
+                    </a>
+                  </h4>
+                  <p class="text-sm text-[var(--color-ink-700)] leading-relaxed">{it.blurb}</p>
+                  <a href={landingHref(base, it.landing)} class="inline-block mt-2 text-sm text-[var(--color-brand-600)] hover:underline">
+                    {t('home.countries.link', { count: it.landing.count })}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="about-heading" class="border-t border-[var(--color-ink-100)]">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 sm:py-12">
+      <h2 id="about-heading" class="text-xl sm:text-2xl font-semibold tracking-tight mb-4">{t('home.about.title')}</h2>
+      <div class="max-w-prose space-y-3 text-sm sm:text-[15px] text-[var(--color-ink-700)] leading-relaxed">
+        <p>{t('home.about.p1')}</p>
+        <p>{t('home.about.p2')}</p>
+        <p>{t('home.about.p3')} <a href={`${base}/event-vorschlagen/`} class="text-[var(--color-brand-600)] hover:underline">{t('hero.cta.contribute')}</a></p>
+      </div>
+    </div>
+  </section>
 </BaseLayout>

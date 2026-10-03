@@ -7,6 +7,7 @@ import { COUNTRY_LABELS, type Country, type Sport } from '../../../lib/types';
 import { SPORT_SLUGS, COUNTRY_SLUGS, collectLandingPaths, landingHref } from '../../../lib/landing';
 import { seasonOf } from '../../../lib/types';
 import { buildLandingIntro } from '../../../lib/landing-intro';
+import { buildLandingGuide } from '../../../lib/landing-guide';
 import type { EventData } from '../../../lib/filters';
 
 export async function getStaticPaths() {
@@ -63,6 +64,7 @@ const sportLabelPlural = sport === 'cycling' ? t('hero.stat.cycling') : t('hero.
 const titleKey = sport === 'cycling' ? 'landing.title.cycling' : 'landing.title.triathlon';
 const h1 = t(titleKey, { country: countryLabel, year });
 const intro = buildLandingIntro(sport, countryLabel, events, year);
+const guide = buildLandingGuide(sport, countryLabel, events, year);
 const seoTitle = h1;
 const seoDescription = intro.length > 200 ? intro.slice(0, 197).replace(/[.,;:\s]+$/, '') + '…' : intro;
 
@@ -111,6 +113,18 @@ const itemListLd = {
   })),
 };
 
+const faqLd = guide.faq.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: guide.faq.map((q) => ({
+        '@type': 'Question',
+        name: q.question,
+        acceptedAnswer: { '@type': 'Answer', text: q.answer },
+      })),
+    }
+  : null;
+
 const breadcrumbsLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -132,6 +146,13 @@ const breadcrumbsLd = {
     type="application/ld+json"
     set:html={JSON.stringify(breadcrumbsLd)}
   />
+  {faqLd && (
+    <script
+      slot="head"
+      type="application/ld+json"
+      set:html={JSON.stringify(faqLd)}
+    />
+  )}
 
   <section class="border-b border-[var(--color-ink-100)] bg-[var(--color-surface)]">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
@@ -177,6 +198,42 @@ const breadcrumbsLd = {
       </div>
     ))}
   </section>
+
+  {guide.sections.length > 0 && (
+    <section class="border-t border-[var(--color-ink-100)] bg-[var(--color-surface)]">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 sm:py-12">
+        <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-6">
+          {t('landing.guide.heading', { title: h1 })}
+        </h2>
+        <div class="grid gap-8 md:grid-cols-2">
+          {guide.sections.map((sec) => (
+            <div>
+              <h3 class="text-base font-semibold tracking-tight mb-2 text-[var(--color-ink-900)]">{sec.heading}</h3>
+              {sec.paragraphs.map((para) => (
+                <p class="text-sm sm:text-[15px] text-[var(--color-ink-700)] leading-relaxed mb-3 max-w-prose">{para}</p>
+              ))}
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {guide.faq.length > 0 && (
+    <section class="border-t border-[var(--color-ink-100)]">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 sm:py-12">
+        <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-5">{t('landing.faq.heading')}</h2>
+        <dl class="grid gap-5 md:grid-cols-2 max-w-5xl">
+          {guide.faq.map((q) => (
+            <div class="rounded-2xl bg-white border border-[var(--color-ink-100)] p-5">
+              <dt class="font-semibold text-[var(--color-ink-900)] mb-1.5">{q.question}</dt>
+              <dd class="text-sm text-[var(--color-ink-700)] leading-relaxed">{q.answer}</dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </section>
+  )}
 
   {(sameSportOtherCountries.length > 0 || sameCountryOtherSport.length > 0) && (
     <section class="border-t border-[var(--color-ink-100)] bg-[var(--color-surface)]">
