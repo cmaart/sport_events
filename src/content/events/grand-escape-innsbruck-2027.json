@@ -1,0 +1,24 @@
+{
+  "id": "grand-escape-innsbruck-2027",
+  "name": "The Grand Escape Germany/Austria",
+  "sport": "cycling",
+  "categories": [
+    "RTF"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-04",
+    "end": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Innsbruck",
+    "lat": 47.2692,
+    "lng": 11.4041,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://thegrandescape.cc/",
+  "description": "The Grand Escape Germany/Austria startet am 4. September 2027 in Innsbruck als selbstgestütztes Bikepacking-Abenteuer über rund 500 Kilometer und etwa 4.900 Höhenmeter, komplett auf asphaltierten Straßen und Radwegen. Es handelt sich um keinen Wettkampf, sondern eine gemeinsame Mehrtagesfahrt ohne Zeitnahme oder Wertung. Navigiert wird per GPX-Track, Verpflegung und Übernachtung organisieren die Teilnehmenden selbst. Für 2027 führt der Veranstalter erstmals eine Express-Variante ein. Die Anmeldung öffnet ab 1. November 2026, zunächst über ein Bundle-System gemeinsam mit weiteren Events der Bike Adventure Series.",
+  "distanceKm": 500,
+  "elevationGainM": 4900
+}

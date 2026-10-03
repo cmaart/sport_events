@@ -1,0 +1,24 @@
+{
+  "id": "rosenheimer-radmarathon-2027",
+  "name": "Rosenheimer Radmarathon",
+  "sport": "cycling",
+  "categories": [
+    "RTF",
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Rosenheim",
+    "lat": 47.8561,
+    "lng": 12.1056,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.rosenheimer-radmarathon.de/",
+  "description": "Der Rosenheimer Radmarathon ist eine der bekanntesten Breitensportveranstaltungen Südbayerns und wird vom Radsportverein Rosenheim gemeinsam mit dem Skiclub Aising-Pang organisiert. Nach der 33. Ausgabe im Juni 2026 ist eine Fortsetzung 2027 angekündigt; der Veranstalter will die Details bis Ende Dezember veröffentlichen, die Anmeldung öffnet traditionell im Jänner. Als voraussichtlicher Termin gilt das Juni-Wochenende rund um den 27. Juni. Angeboten werden sechs Straßentouren zwischen 61 und 250 Kilometern mit 560 bis 4.600 Höhenmetern sowie vier Graveltouren zwischen 70 und 120 Kilometern mit 990 bis 2.510 Höhenmetern, dazu eine Handbike- und eine Kinderstrecke. Start und Ziel liegen seit Jahren beim WEKO-Möbelmarkt am Westrand von Rosenheim. Die Veranstaltung versteht sich ausdrücklich als Genussfahrt ohne Zeitnahme, ohne Massenstart und ohne Wertung. Navigiert wird auf den längeren Touren per GPS-Track.",
+  "distanceKm": 250,
+  "elevationGainM": 4600
+}
