@@ -14,7 +14,8 @@
     "lng": -4.4214
   },
   "websiteUrl": "https://www.ironman.com/im703-malaga",
-  "description": "Neuer IRONMAN 70.3 Málaga 2026 (Nachfolger von IRONMAN 70.3 Marbella): 1,9 km Schwimmen im Mittelmeer, 90 km Rad entlang der Costa del Sol durch Andalusiens Küstenlandschaft, 21,1 km Laufen durch das lebendige Zentrum von Málaga. Herbstklima mit ca. 22 °C macht Málaga zum idealen Saisonabschluss.",
+  "description": "Der IRONMAN 70.3 Málaga feiert am 18. Oktober 2026 seine Premiere und tritt die Nachfolge des IRONMAN 70.3 Marbella an. Das 1,9 km lange Schwimmen findet im geschützten Hafenbecken von Málaga (Puerto de Málaga) statt, gefolgt von einer flachen 90-km-Radrunde mit nur rund 250 Höhenmetern auf komplett gesperrten Straßen entlang der Costa del Sol. Der abschließende Halbmarathon verläuft über zwei flache Runden auf der Strandpromenade der Malagueta und endet mit einem stimmungsvollen Zieleinlauf auf der berühmten Einkaufsstraße Calle Larios. Durch den kompakten Rennaufbau mit großer Einzelwechselzone ist der Kurs auf hohe Durchschnittsgeschwindigkeiten und einen reibungslosen Ablauf ausgelegt. Mit milden Herbsttemperaturen um 22 °C eignet sich Málaga ideal als Saisonabschluss und vergibt Qualifikationsplätze für die IRONMAN 70.3-Weltmeisterschaft.",
   "distanceKm": 113,
+  "elevationGainM": 250,
   "imageUrl": "https://tri-today.com/wp-content/uploads/2026/01/malaga.png"
 }

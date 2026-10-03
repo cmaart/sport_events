@@ -1,0 +1,21 @@
+{
+  "id": "ironman-703-belgrade-2027",
+  "name": "IRONMAN 70.3 Belgrade",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "RS",
+  "dates": {
+    "start": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Beograd – Ada Ciganlija",
+    "lat": 44.8032,
+    "lng": 20.4483
+  },
+  "websiteUrl": "https://www.ironman.com/im703-belgrade",
+  "description": "Nach der Premiere 2026 kehrt der IRONMAN 70.3 Belgrad am 12. September 2027 zum zweiten Mal in die serbische Hauptstadt zurück. Die 1,9 km lange Schwimmstrecke wird im Save-See (Savsko jezero) auf der innerstädtischen Flussinsel Ada Ciganlija absolviert, Belgrads beliebtestem Freizeit- und Badegebiet. Die 90 km Radstrecke ist flach und schnell und führt entlang der Ufer von Save und Donau, bevor der abschließende Halbmarathon über 21,1 km durch das Zentrum der Stadt verläuft. Als eines der jüngeren Rennen im europäischen Kalender erschließt das Event den Südosten Europas und vergibt Alterklassen-Qualifikationsplätze für die IRONMAN 70.3-Weltmeisterschaft. Zum Rennzeitpunkt im September herrschen in Belgrad meist milde Spätsommertemperaturen. Die Anmeldung für 2027 öffnet erst zu einem späteren Zeitpunkt.",
+  "distanceKm": 113
+}
