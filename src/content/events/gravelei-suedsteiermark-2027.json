@@ -1,0 +1,22 @@
+{
+  "id": "gravelei-suedsteiermark-2027",
+  "name": "Gravelei Südsteiermark",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-21",
+    "end": "2027-05-23",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Gamlitz",
+    "lat": 46.7333,
+    "lng": 15.5333,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.gravelei.com/event/",
+  "description": "Die Gravelei Südsteiermark findet 2027 von Freitag, 21. bis Sonntag, 23. Mai mit Start und Ziel in Gamlitz statt. Angeboten werden drei Gravel-Routen unterschiedlicher Schwierigkeit durch die als Steirische Toskana bekannte Hügellandschaft der Südsteiermark. Die Strecken führen durch Wälder, entlang von Flüssen und über die Weinberge der Region, unterwegs sorgen Labestationen für Verpflegung. Die Veranstaltung richtet sich sowohl an ambitionierte Fahrerinnen und Fahrer mit eigener Zeitnahme als auch an Genussradler, die die Aussicht in Ruhe genießen wollen. Veranstalter ist die Masea GmbH."
+}

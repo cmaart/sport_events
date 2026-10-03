@@ -1,0 +1,22 @@
+{
+  "id": "quebrantahuesos-2027",
+  "name": "Quebrantahuesos",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-06-19",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Sabiñánigo",
+    "lat": 42.5183,
+    "lng": -0.3658
+  },
+  "websiteUrl": "https://www.quebrantahuesos.com/",
+  "description": "Die Quebrantahuesos ist Spaniens berühmteste Cyclosportive und startet traditionell Mitte Juni in Sabiñánigo im aragonesischen Pyrenäenvorland; für 2027 steht das offizielle Datum noch aus, die Fortführung der Reihe ist aber gesichert. Die Hauptstrecke misst rund 200 km mit etwa 3.500 Höhenmetern und überquert die Pyrenäenpässe Somport, Marie-Blanque und Portalet über die französische Grenze. Parallel wird die kürzere Treparriscos über rund 85 km angeboten. Wegen der großen Nachfrage werden die Startplätze per Losverfahren vergeben. Start und Ziel liegen in Sabiñánigo in der Provinz Huesca. Das hier angegebene Datum ist eine Schätzung (dritter Samstag im Juni) nach dem Vorjahrestermin.",
+  "distanceKm": 200,
+  "elevationGainM": 3500
+}

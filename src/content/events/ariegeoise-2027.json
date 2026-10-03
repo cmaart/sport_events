@@ -1,0 +1,22 @@
+{
+  "id": "ariegeoise-2027",
+  "name": "L'Ariégeoise",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-26",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Tarascon-sur-Ariège",
+    "lat": 42.8456,
+    "lng": 1.6039
+  },
+  "websiteUrl": "https://www.ariegeoise.com/",
+  "description": "Die L'Ariégeoise ist eine traditionsreiche Cyclosportive im französischen Département Ariège mit Start und Ziel in Tarascon-sur-Ariège; sie ist für Juni 2027 angekündigt, ein genaues Datum stand noch aus. Die Königsstrecke „L'Ariégeoise\" misst rund 169 km mit etwa 4.500 Höhenmetern, die „Mountagnole\" rund 117 km mit 2.800 Höhenmetern, dazu kommen kürzere Routen ab 28 km. Die Strecken führen über Pyrenäenpässe wie den Port de Lers und den Mur de Péguère. Ergänzt wird das Wochenende durch ein Mountainbike-Angebot (L'Ariégeoise VTT). Das hier angegebene Datum ist eine Schätzung auf Basis des traditionellen Juni-Termins.",
+  "distanceKm": 169,
+  "elevationGainM": 4500
+}

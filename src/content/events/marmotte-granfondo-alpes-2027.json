@@ -1,0 +1,22 @@
+{
+  "id": "marmotte-granfondo-alpes-2027",
+  "name": "Marmotte Granfondo Alpes",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Le Bourg-d'Oisans",
+    "lat": 45.0556,
+    "lng": 6.0289
+  },
+  "websiteUrl": "https://www.marmottegranfondoseries.com/",
+  "description": "Die Marmotte Granfondo Alpes gilt als eine der härtesten Cyclosportives der Alpen und ist für den 27. Juni 2027 angekündigt; der Veranstalter stellt das Datum noch unter Vorbehalt. Start ist in Le Bourg-d'Oisans, das Ziel liegt nach rund 186 km und etwa 5.000 Höhenmetern auf der Bergankunft von Alpe d'Huez. Die Strecke verbindet vier legendäre Pässe: den Col du Glandon/Croix de Fer, den Col du Télégraphe, den Col du Galibier und den Col du Lautaret, ehe die 21 Kehren hinauf nach Alpe d'Huez folgen. Die Kombination aus Distanz, Höhenmetern und Hochgebirgspässen macht das Rennen zu einem Klassiker der Marmotte-Granfondo-Serie. Zeitlimits und Verpflegungsstellen sind auf die anspruchsvolle Hochgebirgsroute abgestimmt.",
+  "distanceKm": 186,
+  "elevationGainM": 5000
+}

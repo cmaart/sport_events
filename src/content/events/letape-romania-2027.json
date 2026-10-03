@@ -1,0 +1,21 @@
+{
+  "id": "letape-romania-2027",
+  "name": "L'Étape Romania by Tour de France",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2027-08-29",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Bukarest",
+    "lat": 44.4268,
+    "lng": 26.1025
+  },
+  "websiteUrl": "https://romania.letapeseries.com/",
+  "description": "Die sechste L'Étape Romania by Tour de France ist für 2027 angekündigt und kehrt nach Bukarest zurück; die Voranmeldung ist offen, ein offizielles Datum stand noch aus. Beim Hauptbewerb „The Race\" über rund 85 km fahren ambitionierte Amateure durch die rumänische Hauptstadt, ergänzt um „The Ride\" über 42 km und einen 14-km-Familienkurs. Start- und Zielbereich liegen nahe dem Platz der Verfassung (Piața Constituției). Die abgesperrten Routen führen über bekannte Boulevards wie die Calea Victoriei und am Parlamentspalast, dem Triumphbogen und dem Athenäum vorbei. Das hier angegebene Augustdatum ist eine Schätzung, abgeleitet vom Vorjahrestermin Ende August.",
+  "distanceKm": 85
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ardechoise-2027",
+  "name": "L'Ardéchoise",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-08",
+    "end": "2027-06-12",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Saint-Félicien",
+    "lat": 45.1163,
+    "lng": 4.6453
+  },
+  "websiteUrl": "https://www.ardechoise.com/",
+  "description": "Die L'Ardéchoise zählt zu den größten Cyclosportives Europas und kehrt 2027 für ihre 35. Ausgabe nach Saint-Félicien im Département Ardèche zurück; ein offizielles Datum war noch nicht bestätigt. Über mehrere Tage im Juni starten zehntausende Teilnehmende auf Strecken von rund 67 bis über 285 km, darunter die bekannten Routen durch die Boutières und die vulkanische Hochebene der Monts d'Ardèche. Charakteristisch sind die engen, steilen Straßen der Cevennen-Ausläufer und die reich geschmückten Dörfer entlang der Strecke. Mehrtagesvarianten mit Gepäcktransport und Übernachtung ergänzen das Angebot. Das hier angegebene Juni-Datum ist eine Schätzung auf Basis des traditionellen Mitte-Juni-Termins.",
+  "elevationGainM": 3000
+}
