@@ -1,0 +1,25 @@
+{
+  "id": "herzoman-herzogenaurach-2027",
+  "name": "PUMA Herzoman Herzogenaurach",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Herzogenaurach",
+    "lat": 49.5663,
+    "lng": 10.8844,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.herzoman.de/",
+  "description": "Der PUMA Herzoman feiert 2027 in Herzogenaurach seine 40. Jubiläumsausgabe, wie der Veranstalter auf der offiziellen Seite ankündigt. Ein genauer Termin ist noch nicht veröffentlicht; traditionell wird das Rennen am letzten Juni-Wochenende ausgetragen, hier als bestmögliche Schätzung hinterlegt. Angeboten werden eine Olympische Distanz und eine Sprintdistanz. Geschwommen wird im Aurachsee, die Radstrecke führt durch die hügelige fränkische Landschaft rund um Herzogenaurach, der abschließende Lauf verläuft durch die Stadt, in der mit PUMA und adidas zwei Sportartikelkonzerne ihren Sitz haben. Der Herzoman zählt zu den traditionsreichen Franken-Triathlons und wurde 2026 bei über 40 Grad Hitze ausgetragen. Das Datum wird bestätigt, sobald der Veranstalter es offiziell bekannt gibt.",
+  "distanceKm": 51,
+  "imageUrl": "https://www.herzoman.de/img/backgrounds/hintergrund_herzoman.png"
+}

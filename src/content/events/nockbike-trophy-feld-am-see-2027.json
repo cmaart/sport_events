@@ -1,0 +1,24 @@
+{
+  "id": "nockbike-trophy-feld-am-see-2027",
+  "name": "NOCKBIKE MTB/Gravel Trophy",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Feld am See",
+    "lat": 46.7817,
+    "lng": 13.8789,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.kaernten-radmarathon.at/",
+  "imageUrl": "https://www.kaernten-radmarathon.at/uploads/media/900x400/08/478-DSC05240.jpg?v=1-0",
+  "description": "Die NOCKBIKE MTB/Gravel/E-Bike Trophy in Feld am See ist das Begleitrennen des ARBÖ Kärnten Radmarathons und wird am selben Tag ausgetragen. Für 2027 ist der Radmarathon offiziell auf Sonntag, 6. Juni datiert, der genaue Termin der NOCKBIKE Trophy ist noch nicht gesondert bestätigt. Die rund 20 Kilometer lange Strecke führt von Feld am See über Naturwege hinauf zur Maibrunnhütte und endet mit einer Abfahrt über einen der längsten Flow-Country-Trails der Region. Gewertet wird getrennt nach Mountainbike und E-Bike, das Rennen ist Teil des Kärntner Jedermann-Radcups. Als Rahmenprogramm gibt es ein Kids Race und eine Charity Challenge. Für Teilnehmende am ARBÖ Kärnten Radmarathon ist der Start frei.",
+  "distanceKm": 20,
+  "elevationGainM": 1000
+}

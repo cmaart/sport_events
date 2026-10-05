@@ -1,0 +1,21 @@
+{
+  "id": "lidl-deutschland-tour-2027",
+  "name": "Lidl Deutschland Tour",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-18",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Deutschland",
+    "lat": 51.1657,
+    "lng": 10.4515
+  },
+  "websiteUrl": "https://www.deutschland-tour.com/",
+  "description": "Die Lidl Deutschland Tour ist Deutschlands wichtigstes Etappenrennen im Straßenradsport und zählt zur UCI ProSeries (Kategorie 2.Pro). Die Ausgabe 2027 ist vom 18. bis 22. August 2027 angesetzt; der Veranstalter ASO hat den Termin bestätigt und die Voranmeldung für Begleitformate geöffnet. Wie in den Vorjahren ist ein Prolog gefolgt von vier Etappen zu erwarten, die konkreten Start- und Zielorte sowie die Streckenführung werden erst im Lauf der Saison bekanntgegeben. Das Profil der Rundfahrt trägt traditionell Classics-Charakter mit kurzen bis mittleren Anstiegen statt Hochgebirgspässen und richtet sich an Sprinter wie Puncheure. Parallel zum Profifeld werden erfahrungsgemäß Jedermann-Formate auf Teilen der Strecke angeboten. Die Rundfahrt führt jedes Jahr durch mehrere Bundesländer und wird live im Fernsehen übertragen."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-river-gravel-bouillon-2027",
+  "name": "The River Gravel",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "BE",
+  "dates": {
+    "start": "2027-09-05",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Bouillon",
+    "lat": 49.7932,
+    "lng": 5.0697
+  },
+  "websiteUrl": "https://therivergravel.com/",
+  "description": "The River by The Traka kehrt 2027 nach Bouillon in den wallonischen Ardennen zurück; der Veranstalter kündigt die nächste Ausgabe offiziell für September 2027 an, ein genaues Datum stand noch aus. Die Strecken folgen dem Lauf der Semois durch bewaldete Täler rund um die Festungsstadt Bouillon. Zuletzt umfasste das Programm eine Hauptstrecke über 160 km mit rund 1.850 Höhenmetern sowie kürzere Distanzen über 120 km und 60 km, überwiegend auf Schotter- und Waldwegen mit einem kleineren Asphaltanteil. Organisiert wird das Rennen vom Team hinter The Traka in Girona. Das hier angegebene Septemberdatum ist eine Schätzung auf Basis des Vorjahrestermins (Anfang September 2026).",
+  "distanceKm": 160,
+  "elevationGainM": 1850
+}

@@ -9,7 +9,7 @@
   "dates": {
     "start": "2027-05-21",
     "end": "2027-05-23",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Gamlitz",

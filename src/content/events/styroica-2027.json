@@ -9,7 +9,7 @@
   "dates": {
     "start": "2027-09-18",
     "end": "2027-09-18",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Fehring",
@@ -19,7 +19,7 @@
   },
   "websiteUrl": "https://www.styroica.at/",
   "imageUrl": "https://www.styroica.at/wp-content/uploads/2026/01/PS_5699.jpg",
-  "description": "Die Styroica in Fehring im Steirischen Thermen- und Vulkanland ist für den 18. September 2027 geplant. Die Veranstaltung ist eine Hommage an den historischen Radsport: Gefahren wird auf Stahlrädern mit Baujahr vor 1990 und in zeitgenössischer Kleidung. Im Angebot waren zuletzt die Genussroute mit 50 bis 60 Kilometern, die sportliche Route mit 110 bis 129 Kilometern und die heroische Route über rund 200 Kilometer und 2.200 Höhenmeter. Für 2027 kündigt der Veranstalter neben den bekannten auch neue Streckenvarianten an. Unterwegs führen die Routen durch das Hügelland der Südoststeiermark, vorbei an Buschenschänken und Kurorten wie Bad Gleichenberg. Das Datum ist laut Veranstalter als geplanter Termin kommuniziert.",
+  "description": "Die Styroica in Fehring im Steirischen Thermen- und Vulkanland findet 2027 am Samstag, 18. September statt. Die Veranstaltung ist eine Hommage an den historischen Radsport: Gefahren wird auf Stahlrädern mit Baujahr vor 1990 und in zeitgenössischer Kleidung. Für 2027 stehen drei Routen zur Wahl: die Genussrunde über rund 58 Kilometer und 680 Höhenmeter, die sportliche Runde über rund 117 Kilometer und 1.230 Höhenmeter sowie die heroische Styroica über rund 200 Kilometer und 2.200 Höhenmeter. Die Starts sind gestaffelt, die lange Route beginnt um 5:00 Uhr früh. Unterwegs führen die Routen durch das Hügelland der Südoststeiermark, vorbei an Buschenschänken und Kurorten wie Bad Gleichenberg. Die Online-Anmeldung öffnet Mitte Oktober 2026 über die offizielle Seite.",
   "distanceKm": 200,
   "elevationGainM": 2200
 }

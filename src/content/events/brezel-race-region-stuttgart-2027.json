@@ -1,0 +1,24 @@
+{
+  "id": "brezel-race-region-stuttgart-2027",
+  "name": "ADAC Brezel Race Region Stuttgart",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tamm",
+    "lat": 48.914,
+    "lng": 9.1025,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.brezelrace.de",
+  "description": "Das ADAC Brezel Race Region Stuttgart findet 2027 am Sonntag, 19. September erneut mit Start und Ziel in Tamm im Landkreis Ludwigsburg statt. Es gilt als größtes Hobbyradrennen Baden-Württembergs und brachte zuletzt über 3.000 Teilnehmende auf die Straßen der Region Stuttgart. Zur Wahl stehen die lange Runde über rund 110 Kilometer mit etwa 1.050 Höhenmetern, die kurze Runde über rund 60 Kilometer mit etwa 500 Höhenmetern sowie ein entspannter Brezel Race Ride über 20 bis 30 Kilometer. Die Strecken führen durch das hügelige Umland zwischen Neckar und Strohgäu. Am selben Tag wird der Women's Cycling Grand Prix Region Stuttgart ausgetragen, ein UCI-Eintagesrennen für Profifahrerinnen. Die Veranstaltung wird von der Region Stuttgart und beteiligten Kommunen unterstützt.",
+  "distanceKm": 110,
+  "elevationGainM": 1050,
+  "imageUrl": "https://www.brezelrace.de/wp-content/uploads/2025/09/20250914_MS_STU_1096.jpg"
+}

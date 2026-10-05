@@ -1,0 +1,24 @@
+{
+  "id": "saarschleifen-bike-mettlach-2027",
+  "name": "Saarschleifen.Bike",
+  "sport": "cycling",
+  "categories": [
+    "Gravel"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-25",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Mettlach",
+    "lat": 49.4978,
+    "lng": 6.5951,
+    "region": "Saarland"
+  },
+  "websiteUrl": "https://www.saarschleifen.bike/",
+  "description": "Die Saarschleifen.Bike ist der größte Radmarathon des Saarlands und führt auf gesperrten Wald- und Schotterwegen durch das Umland der spektakulären Saarschleife bei Mettlach. Der Veranstalter hat die Anmeldung für 2027 bereits geöffnet, ein genauer Termin ist noch nicht veröffentlicht; als voraussichtlicher Termin gilt das letzte Juli-Wochenende rund um den 25. Juli. Zur Wahl stehen Strecken über 35, 50 und 100 Kilometer, die längste Runde als Ultra-Marathon mit rund 1.400 Höhenmetern. Für die kürzeren Distanzen gibt es eigene E-Bike-Klassen. Mit der Ursapharm-Firmenwertung können Unternehmensmannschaften gegeneinander antreten. Start und Ziel liegen im Ortszentrum von Mettlach im Saarschleifenland.",
+  "distanceKm": 100,
+  "elevationGainM": 1400,
+  "imageUrl": "https://www.saarschleifen.bike/wp-content/uploads/2025/05/Hintergrund-2022.jpg"
+}
