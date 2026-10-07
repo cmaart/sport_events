@@ -2,7 +2,9 @@
   "id": "gran-fondo-greece-loutraki-2026",
   "name": "UCI Gran Fondo Greece Loutraki",
   "sport": "cycling",
-  "categories": ["Gran Fondo"],
+  "categories": [
+    "Gran Fondo"
+  ],
   "country": "GR",
   "dates": {
     "start": "2026-11-01",
@@ -15,7 +17,7 @@
   },
   "websiteUrl": "https://ucigranfondoworldseries.com/en/loutraki/",
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/grece/peloponnese/nomos-korinthias/uci-gran-fondo-loutraki/sju1cyd0nbfhtfmdnqqb",
-  "description": "Die UCI Gran Fondo Greece Loutraki findet am Isthmus von Korinth statt und kombiniert Küstenstraßen am Golf von Korinth mit der historischen Kulisse der Region. Als Teil des UCI Gran Fondo World Series ist sie die einzige Veranstaltung dieser renommierten Serie in Griechenland und bietet Anfang November angenehme mediterrane Bedingungen.",
+  "description": "Die UCI Gran Fondo Greece findet am 1. November 2026 in Loutraki am Isthmus von Korinth statt und ist nach der Premiere 2025 die zweite Ausgabe. Start und Ziel liegen vor dem Club Hotel Casino Loutraki. Die Gran-Fondo-Strecke misst 112 Kilometer mit 889 Höhenmetern: Die ersten rund 40 Kilometer verlaufen flach am Saronischen Golf Richtung Athen, danach folgt landeinwärts ein zweiteiliger Anstieg bis auf etwa 300 Meter mit durchschnittlich 3,1 Prozent, bevor es zurück an die Küste geht. Auf den letzten zehn Kilometern vor dem Ziel an der Küstenstraße wartet ein kurzer Schlussanstieg. Als einzige Veranstaltung der UCI Gran Fondo World Series in Griechenland qualifiziert sie die Besten jeder Altersklasse für das Weltfinale 2027 in Haute-Savoie. Die Anmeldung war von Juli bis 26. Oktober 2026 geöffnet.",
   "distanceKm": 112,
   "elevationGainM": 889
 }

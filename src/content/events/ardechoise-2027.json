@@ -17,6 +17,7 @@
     "lng": 4.6453
   },
   "websiteUrl": "https://www.ardechoise.com/",
-  "description": "Die L'Ardéchoise zählt zu den größten Cyclosportives Europas und wird 2027 offiziell von Mittwoch, 9. Juni, bis Samstag, 12. Juni, rund um Saint-Félicien im Département Ardèche ausgetragen. Über diese vier Tage starten zehntausende Teilnehmende auf Strecken von rund 67 bis über 285 km, darunter die bekannten Routen durch die Boutières und die vulkanische Hochebene der Monts d'Ardèche. Charakteristisch sind die engen, steilen Straßen der Cevennen-Ausläufer und die reich geschmückten Dörfer entlang der Strecke. Mehrtagesvarianten mit Gepäcktransport und Übernachtung ergänzen das Angebot aus Eintagestouren. Die längste Schleife summiert sich auf über 3000 Höhenmeter und gilt als Prüfstein für ambitionierte Marathonfahrer.",
-  "elevationGainM": 3000
+  "description": "Die L'Ardéchoise zählt zu den größten Cyclosportives Europas und wird 2027 offiziell von Mittwoch, 9. Juni, bis Samstag, 12. Juni, rund um Saint-Félicien im Département Ardèche ausgetragen. Über diese vier Tage starten zehntausende Teilnehmende auf Strecken von rund 67 bis über 285 km, darunter die bekannten Routen durch die Boutières und die vulkanische Hochebene der Monts d'Ardèche. Charakteristisch sind die engen, steilen Straßen der Cevennen-Ausläufer und die reich geschmückten Dörfer entlang der Strecke. Mehrtagesvarianten mit Gepäcktransport und Übernachtung ergänzen das Angebot aus Eintagestouren. Die klassische Marathonstrecke Les Monts d'Ardèche misst 160 Kilometer mit rund 3000 Höhenmetern und gilt als Prüfstein für ambitionierte Marathonfahrer.",
+  "elevationGainM": 3000,
+  "distanceKm": 160
 }

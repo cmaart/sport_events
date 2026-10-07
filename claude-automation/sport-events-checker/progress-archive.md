@@ -1334,3 +1334,15 @@ Bewusster Verzicht auf neue Events in diesem Lauf (Anti-Flut-Regel + noch hoher 
 
 ---
 ---
+
+## Session 2026-09-23 — 14 neue 2027-Ausgaben + T100-Kategorie + 18 Enrichment + 1 Removal
+
+Ausgewogener Wartungslauf, **Enrichment-first + kontrolliertes 2027-Wachstum** (Anti-Flut: 14 Neuanlagen, Limit 15 eingehalten). 5 Research-Agents parallel gegen **offizielle** Quellen (Aggregatoren nur Discovery, kein prommer.net; unbelegte Felder weggelassen statt geraten). User-Input während des Laufs: Challenge-Family-Discovery für Mittel-/Langdistanz + „100"-Format europaweit.
+
+- **Neue Kategorie `T100`** (`src/lib/types.ts`) für das 100er-Format (2/80/18 = 100 km), auf das Challenge Family mehrere Rennen umstellt. `distanceKm: 100`. 6 Events getaggt (Cesenatico, Gdańsk, Mogán, Salou, The Championship, Walchsee). Zod/Filter/Landing/JSON-LD ziehen automatisch mit — Build grün.
+- **14 neue 2027-Ausgaben** (alle offiziell gegengeprüft; Slug-Stamm = 2026-Sibling für „Weitere Ausgaben"):
+  - **IRONMAN (6):** ironman-70-3-zell-am-see (29.08., ausverkauft), ironman-703-jonkoping (11.07.), ironman-703-nice + ironman-france-nice (beide 12.09.), ironman-703-duisburg (confirmed:false, best guess 15.08.), ironman-703-erkner (confirmed:false, 12.09.).
+  - **Challenge (8):** walchsee-challenge/Kaiserwinkl (27.06., T100), challenge-salou (09.05., T100), challenge-cesenatico (16.05., T100), challenge-gdansk (20.06., T100), challenge-turku (25.07., Mitteldistanz), challenge-sandefjord (confirmed:false, 27.06.), challenge-mogan-gran-canaria (17.04., T100), challenge-the-championship-samorin (23.05., T100).
+- **18 Bestands-Events veredelt/korrigiert** (soonest-first): Cycling (9): jurmala (distanceKm 62→30), king-of-the-lake, elektrenu-gran-fondo, granfondo-serra-dossa, letape-czech-flat, pyramidenkogelhero, ourem-fatima-granfondo, zadar-granfondo, granfondo-portimao. Tri/Duathlon (9): grafschafter-crossduathlon, ikb-baggersee-aquathlon, sandman-newborough, bm-crossduathlon-deining, guestrow-cross-duathlon, ocean-lava-kotor, kraichgauman, ruesselcross, lorsbach.
+- **1 Removal:** granfondo-alpes-dazur-2026 (offiziell abgesagt) → BLACKLIST + CLAUDE.md.
+- **SEO / Sitemap / noindex:** `npm run build` grün, **1230 pages**, 0 errors. Sitemap 190 URLs, alle neuen `-2027` enthalten, keine past/noindex/abgesagten URLs.

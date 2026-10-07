@@ -16,8 +16,8 @@
     "lng": 9.6772
   },
   "websiteUrl": "https://gfilombardia.it/en/",
-  "description": "Gran Fondo Il Lombardia – UCI-Qualifikation zum Monument \"Classica delle Foglie Morte\": Erstmals 2026 Start in Bergamo (statt Como), ca. 135 km mit 3.000 Hm über Civiglio, San Fermo della Battaglia und Madonna del Ghisallo, Ziel in Como. Tags drauf fährt die Profi-Elite die gleiche Strecke. 60. Jubiläum von Gimondi.",
-  "distanceKm": 135,
-  "elevationGainM": 3000,
+  "description": "Die Gran Fondo Il Lombardia fährt 2026 am Sonntag, 11. Oktober, erstmals von Bergamo aus; zuvor war die Jedermann-Ausgabe des Herbstklassikers seit 2017 in Cantù bei Como beheimatet. Sie trägt neu den Namen des Bergamasker Champions Felice Gimondi und folgt einem komplett neuen Rundkurs durch die Hügel nördlich der Stadt. Die Strecke misst rund 108 Kilometer mit etwa 2.400 Höhenmetern und bis zu 17 Prozent Steigung. Zu den Anstiegen zählen der Valico di Valcava und Selvino, unterwegs führt die Route durch Sedrina, den Heimatort Gimondis. Start und Ziel liegen in Bergamo, einen Tag nachdem das Profirennen Il Lombardia dort startet. Die neue Streckenführung ersetzt die bisherigen Como-Anstiege rund um Madonna del Ghisallo und Muro di Sormano.",
+  "distanceKm": 108,
+  "elevationGainM": 2400,
   "imageUrl": "https://gfilombardia.it/wp-content/uploads/2025/10/AL101695-scaled.jpg"
 }
