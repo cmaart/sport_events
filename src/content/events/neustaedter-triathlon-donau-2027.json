@@ -1,0 +1,23 @@
+{
+  "id": "neustaedter-triathlon-donau-2027",
+  "name": "Neustädter Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neustadt an der Donau",
+    "lat": 48.8093,
+    "lng": 11.7638,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.tsv-bad-goegging.de",
+  "description": "Der Neustädter Triathlon geht 2027 am 20. Juni in seine fünfte Auflage und wird vom TSV Bad Gögging in der niederbayerischen Stadt Neustadt an der Donau ausgerichtet. Gestartet wird ausschließlich über die Sprintdistanz mit 0,6 km Schwimmen, 21 km Radfahren und 5,5 km Laufen, sowohl als Einzel- als auch als Staffelbewerb. Geschwommen wird im Stadtweiher, das Ziel liegt im Stadtzentrum am Rathausplatz. Das überschaubare Starterfeld von rund 160 Einzelstartern und 20 Staffeln macht das Rennen zu einem familiären Jedermann-Bewerb nahe dem Kurort Bad Gögging. Die Veranstaltung ist im Kalender der Deutschen Triathlon Union für 2027 mit Genehmigungsnummer bestätigt.",
+  "distanceKm": 27
+}

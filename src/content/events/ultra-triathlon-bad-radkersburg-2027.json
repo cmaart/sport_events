@@ -1,0 +1,23 @@
+{
+  "id": "ultra-triathlon-bad-radkersburg-2027",
+  "name": "Ultra Triathlon Bad Radkersburg",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-02",
+    "end": "2027-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Radkersburg",
+    "lat": 46.6798,
+    "lng": 15.9856,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.ultratriathlon.at",
+  "description": "Ultra-Triathlon im südoststeirischen Kurort Bad Radkersburg nahe der slowenischen Grenze, ausgerichtet vom Verein team triaguide. Die Ausgabe 2027 ist als Festivalwoche von 2. bis 6. September angelegt; der Triple Ultra startet am 3. September, Single und Double Ultra am 4. September. Neben der Single-Ultra-Langdistanz (3,8 km Schwimmen, 180 km Rad, 42,195 km Lauf) stehen Double- und Triple-Ultra sowie Aquabike-Varianten auf dem Programm, jeweils mit kleinen Starterfeldern von 40 bzw. 10 Plätzen. Geschwommen wird im 50-m-Freibad der Parktherme Bad Radkersburg, danach folgt ein rund 1,5 km langer Transfer zum Sportzentrum. Die flache, durchgehend asphaltierte 10,6-km-Radrunde und die beleuchtete 2,1-km-Laufrunde am Wettkampfzentrum gelten als eine der schnellsten Ultratriathlon-Strecken der Welt. Der First-Mover-Anmeldetarif läuft von 8. bis 31. Oktober 2026.",
+  "distanceKm": 226
+}
