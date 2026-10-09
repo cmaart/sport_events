@@ -17,5 +17,6 @@
   },
   "websiteUrl": "https://slovenia.letapeseries.com/",
   "description": "Die sechste L'Étape Slovenia by Tour de France ist für September 2027 angekündigt und wird erneut von der Stadt Kranj in der Region Gorenjska ausgetragen; die Voranmeldung läuft bereits, ein genaues Datum stand noch aus. Am Renntag stehen zwei Strecken zur Wahl: der Ride über rund 80 km und das Race über rund 130 km. Rund um das Wochenende gibt es ein Festival mit Expo sowie Kinder- und Firmenrennen. Die Routen führen durch die Voralpenlandschaft der Gorenjska mit Blick auf die Julischen Alpen und die Karawanken. Teilnehmende erleben Tour-de-France-Flair samt offizieller Beschilderung und Zeitnahme. Das hier angegebene Septemberdatum ist eine Schätzung auf Basis des Vorjahrestermins (5./6. September 2026).",
-  "distanceKm": 130
+  "distanceKm": 130,
+  "elevationGainM": 1804
 }

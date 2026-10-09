@@ -1,0 +1,22 @@
+{
+  "id": "ironman-barcelona-calella-2027",
+  "name": "IRONMAN Calella-Barcelona",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-10-03",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Calella",
+    "lat": 41.613,
+    "lng": 2.658
+  },
+  "websiteUrl": "https://www.ironman.com/im-barcelona",
+  "description": "Der IRONMAN Calella-Barcelona kehrt nach der wetterbedingten Absage der Ausgabe 2026 für die Saison 2027 zurück; die offizielle IRONMAN-Anmeldung für 2027 ist auf ironman.com bereits geöffnet, ein exaktes Renndatum war zum Rechercheende noch nicht veröffentlicht (voraussichtlich erstes Oktoberwochenende 2027). Austragungsort ist Calella an der Costa del Maresme rund 50 km nördlich von Barcelona. Das 3,8 km lange Schwimmen findet im meist ruhigen Mittelmeer direkt vor dem Stadtstrand von Calella statt. Die 180 km lange Radstrecke verläuft überwiegend flach auf gesperrten Küstenstraßen im Wendepunkt-Format entlang des Maresme und zählt zu den schnellsten IRONMAN-Kursen Europas. Der abschließende Marathon über 42,2 km führt in mehreren Runden über die Strandpromenade von Calella mit dichter Zuschauerkulisse. Durch das flache Profil mit rund 600 Höhenmetern und das milde Oktoberklima ist das Rennen bei allen beliebt, die eine Bestzeit oder einen Slot für die IRONMAN-Weltmeisterschaft anstreben. Die Startplätze sind erfahrungsgemäß früh ausgebucht, eine zeitige Anmeldung ist empfehlenswert.",
+  "distanceKm": 226,
+  "elevationGainM": 600
+}

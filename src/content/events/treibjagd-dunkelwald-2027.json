@@ -20,5 +20,6 @@
   },
   "websiteUrl": "https://www.mtb-dunkelwald.de/",
   "description": "Die Treibjagd im Dunkelwald findet vom 22. bis 25. Juli 2027 in Breitenbrunn und Johanngeorgenstadt im Erzgebirge statt. Das viertägige MTB-Etappenrennen hat seine Basis am TrailCenter Rabenberg. Auf dem Programm stehen ein Prolog-Zeitfahren, ein MTB-Marathon, der KAMM-BIKE-CROSS und ein Erzgebirgsradrennen. Die Etappen können auf einer kürzeren oder längeren Distanzoption gefahren werden, zuletzt 30 oder 60 Kilometer. Startberechtigt sind Kategorien von der U15 bis zu den Masters.",
-  "distanceKm": 60
+  "distanceKm": 60,
+  "imageUrl": "https://www.mtb-dunkelwald.de/files/treibjagd/2026/treibjagd_im_dunkelwald_opengraph.jpg"
 }

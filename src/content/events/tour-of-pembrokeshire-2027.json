@@ -1,0 +1,20 @@
+{
+  "id": "tour-of-pembrokeshire-2027",
+  "name": "Tour of Pembrokeshire",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "GB",
+  "dates": {
+    "start": "2027-05-22",
+    "confirmed": false
+  },
+  "location": {
+    "name": "St Davids",
+    "lat": 51.8813,
+    "lng": -5.2702
+  },
+  "websiteUrl": "https://bigcowsports.com/tour-of-pembrokeshire/",
+  "description": "Der Tour of Pembrokeshire startet traditionell im walisischen St Davids und folgt der dramatischen Atlantikküste des Pembrokeshire Coast National Park. Für 2027 ist eine Fortsetzung angekündigt, der Veranstalter sichert freiwilligen Helfern bereits einen freien Startplatz für die Ausgabe 2027 zu. Ein genauer Termin liegt noch nicht vor; als Richtwert dient das vierte Mai-Wochenende, an dem die Ausgabe 2026 am 23. Mai stattfand. Angeboten werden die Distanzen Epic 105 Meilen mit über 3.000 Höhenmetern, Classic 60 Meilen sowie der Community Ride über 25 Meilen. Die Route verläuft entlang der Küste und durch die Preseli Hills."
+}

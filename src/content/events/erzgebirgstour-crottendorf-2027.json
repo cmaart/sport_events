@@ -18,5 +18,7 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.erzgebirgstour.de/",
-  "description": "Die Erzgebirgstour zieht am Sonntag, 29. August 2027 ins Osterzgebirge: Start und Ziel liegen an der Biathlonarena in Altenberg. Es ist die zweite Edition der dreijährigen Rennserie Dreierlei im Gebirg, die 2026 in Crottendorf im Westerzgebirge begann und 2028 im mittleren Erzgebirge endet. Wer 2026 dabei war, bleibt Teil der Gesamtwertung; Neueinsteiger fahren 2027 dennoch ein vollwertiges Einzelrennen. Das Jedermann-Radrennen findet auf gesperrter Strecke mit professioneller Zeitnahme statt. Die Streckenlänge für Altenberg gibt der Veranstalter noch bekannt; 2026 führte der Kurs über 90 Kilometer und 2.200 Höhenmeter. Die Kammlagen rund um Altenberg und Geising versprechen erneut ein anspruchsvolles Profil."
+  "description": "Die Erzgebirgstour zieht am Sonntag, 29. August 2027 ins Osterzgebirge: Start und Ziel liegen an der Biathlonarena in Altenberg. Es ist die zweite Edition der dreijährigen Rennserie Dreierlei im Gebirg, die 2026 in Crottendorf im Westerzgebirge begann und 2028 im mittleren Erzgebirge endet. Wer 2026 dabei war, bleibt Teil der Gesamtwertung; Neueinsteiger fahren 2027 dennoch ein vollwertiges Einzelrennen. Das Jedermann-Radrennen findet auf gesperrter Strecke mit professioneller Zeitnahme statt. Die Streckenlänge für Altenberg gibt der Veranstalter noch bekannt; 2026 führte der Kurs über 90 Kilometer und 2.200 Höhenmeter. Die Kammlagen rund um Altenberg und Geising versprechen erneut ein anspruchsvolles Profil.",
+  "distanceKm": 90,
+  "elevationGainM": 2200
 }

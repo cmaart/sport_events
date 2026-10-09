@@ -9,7 +9,7 @@
   "dates": {
     "start": "2027-09-18",
     "end": "2027-09-18",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Fehring",

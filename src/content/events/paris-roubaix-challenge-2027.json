@@ -8,7 +8,7 @@
   "country": "FR",
   "dates": {
     "start": "2027-04-10",
-    "confirmed": false
+    "confirmed": true
   },
   "location": {
     "name": "Roubaix",

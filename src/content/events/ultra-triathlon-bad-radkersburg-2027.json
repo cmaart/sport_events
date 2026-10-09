@@ -1,0 +1,22 @@
+{
+  "id": "ultra-triathlon-bad-radkersburg-2027",
+  "name": "Ultra Triathlon Bad Radkersburg",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-02",
+    "end": "2027-09-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Radkersburg",
+    "lat": 46.6861,
+    "lng": 15.9897,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.ultratriathlon.at/",
+  "description": "Der Ultra Triathlon Bad Radkersburg ist eine der wenigen Ultradistanz-Veranstaltungen im deutschsprachigen Raum und wird im Süden der Steiermark nahe der Grenze zu Slowenien ausgetragen. Die Ausgabe 2027 läuft von 2. bis 6. September, wobei der Triple Ultra am 3. September und der Single sowie der Double Ultra am 4. September starten. Geschwommen wird in der Parktherme Bad Radkersburg, Rad- und Laufstrecke sowie Wechselzone und Ziel liegen am Sportzentrum. Zur Auswahl stehen Single, Double und Triple Ultra sowie die Aquabike-Varianten über Double und Triple Distanz, bei denen nur Schwimmen und Radfahren gewertet werden. Die Rennen werden nach den Regeln der International Ultra Triathlon Association ausgetragen und zählen in einzelnen Jahren als Welt- oder Europacup. Das kompakte Rundkursformat erlaubt Betreuungsteams und Zuschauern, die Athletinnen und Athleten über die lange Renndauer eng zu begleiten."
+}

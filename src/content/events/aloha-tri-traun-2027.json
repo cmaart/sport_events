@@ -21,5 +21,6 @@
   "websiteUrl": "https://alohasport.at/event/aloha-tri-traun",
   "description": "Der ALOHA TRI Traun steigt 2027 am 31. Juli am Oedter See in Traun und ist Teil der oberösterreichischen ALOHA-TRI-Serie. Geschwommen wird im Oedter See, die Radstrecke führt über das flache Linzer Umland, der abschließende Lauf verläuft entlang des Sees. Angeboten werden Sprint- und Kurzdistanz, jeweils auch als Staffel. Das Rennwochenende hat familienfreundlichen Charakter und umfasst zusätzlich Kinder- und Nachwuchsbewerbe. Der kompakte, schnelle Kurs eignet sich für Einsteiger ebenso wie für Age-Grouper.",
   "distanceKm": 51,
-  "elevationGainM": 150
+  "elevationGainM": 150,
+  "imageUrl": "https://alohasport.at/images/aloha_slider_1.jpg"
 }

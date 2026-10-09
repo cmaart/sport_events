@@ -22,5 +22,6 @@
   "websiteUrl": "https://alohasport.at/event/aloha-tri-mondseeland",
   "description": "Der ALOHA TRI Mondseeland zählt zu den landschaftlich schönsten Triathlons Österreichs und findet 2027 am 5. September statt. Geschwommen wird im Mondsee, die Radrunde führt durchs Salzkammergut Richtung Attersee, ehe der Lauf das Programm abschließt. Angeboten werden Sprint-, Kurz- und Mitteldistanz, jeweils auch als Staffel. Die Mitteldistanz misst rund 110 km und ist der Höhepunkt des Bewerbs. Die Anmeldung für die Ausgabe 2027 ist über den Veranstalter ALOHA Sport geöffnet. Die hügelige Radstrecke im Alpenvorland verlangt im Vergleich zu den flachen Linzer Bewerben der Serie mehr Kletterarbeit.",
   "distanceKm": 110,
-  "elevationGainM": 800
+  "elevationGainM": 800,
+  "imageUrl": "https://alohasport.at/images/aloha_slider_1.jpg"
 }

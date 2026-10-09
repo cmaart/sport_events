@@ -1,0 +1,23 @@
+{
+  "id": "sudety-tour-2027",
+  "name": "Sudety Tour UCI Gran Fondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "CZ",
+  "dates": {
+    "start": "2027-05-08",
+    "end": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Broumov",
+    "lat": 50.5886,
+    "lng": 16.333
+  },
+  "websiteUrl": "https://www.sudetytour.cz/",
+  "description": "Die Sudety Tour ist das einzige UCI Gran Fondo World Series Rennen in Tschechien und führt grenzüberschreitend auch auf polnisches Gebiet. Start und Ziel liegen in Broumov im nordböhmischen Sudetengebirge nahe der tschechisch-polnischen Grenze. Am 8. Mai 2027 wird zunächst ein Einzelzeitfahren ausgetragen, am 9. Mai folgen dann Mediofondo und Granfondo. Die Granfondo-Strecke misst rund 147 Kilometer und beinhaltet den Kopfsteinpflasteranstieg Vysoká Srbská von etwa einem Kilometer Länge mit durchschnittlich 10 Prozent und bis zu 15 Prozent Steigung. Auf polnischer Seite wird außerdem der markante Anstieg zum Szczeliniec Wielki befahren. Die Frühbucheranmeldung mit Rabatt läuft bis zum 31. Oktober 2026.",
+  "distanceKm": 147,
+  "imageUrl": "https://ucigranfondoworldseries.com/wp-content/uploads/sites/186/2025/12/7VAI2920-1024x683.jpg"
+}

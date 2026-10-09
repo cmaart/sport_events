@@ -1,0 +1,21 @@
+{
+  "id": "velofondo-9h11-leipzig-2027",
+  "name": "Velofondo 9h11",
+  "sport": "cycling",
+  "categories": [
+    "Rundstreckenrennen"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Leipzig",
+    "lat": 51.4206,
+    "lng": 12.2944,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://velofondo9h11.maximalpuls.com/",
+  "description": "Das Velofondo 9h11 ist ein Rundstreckenrennen auf der Porsche Teststrecke im Norden von Leipzig. Gefahren wird im Zweierteam, das sich innerhalb von 9 Stunden und 11 Minuten abwechselt und in dieser Zeit möglichst viele Runden auf dem autofreien Kurs zurücklegt. Das Teilnehmerfeld ist auf 455 Teams plus einen Solo-Wildcard-Starter begrenzt, woraus sich die namensgebende Zahl von 911 Teilnehmenden ergibt. Nach der Premiere 2026 findet die zweite Ausgabe am 10. Juli 2027 statt. Die Anmeldung über den Veranstalter MaximalPuls ist geöffnet. Durch die geschlossene Strecke eignet sich das Format sowohl für ambitionierte Fahrer im Teamwettbewerb als auch für Einsteiger."
+}
