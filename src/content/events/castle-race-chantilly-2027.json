@@ -1,0 +1,22 @@
+{
+  "id": "castle-race-chantilly-2027",
+  "name": "Castle Race Series – Château de Chantilly",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Château de Chantilly – Oise",
+    "lat": 49.1938,
+    "lng": 2.4853
+  },
+  "websiteUrl": "https://www.castleraceseries.com/events/chateau-de-chantilly/",
+  "description": "Die Castle Race Series macht am 12. und 13. Juni 2027 im Park des Château de Chantilly nördlich von Paris (Département Oise) Station – dem einzigen französischen und zugleich einzigen Volldistanz-Wochenende der Serie. Königsdisziplin ist „The Bastion“ am Sonntag, 13. Juni: eine volle Langdistanz über 3,8 km Schwimmen, 180,2 km Rad und 42,2 km Laufen durch die Wälder und über die Reitwege rund um das Schloss. Geschwommen wird im Grand Canal, dem von André Le Nôtre angelegten barocken Wasserbecken der Schlossanlage. Ergänzt wird das Programm durch die Halbdistanz „The Gauntlet“ (1,9 km / 90 km / 21 km), eine olympische Distanz sowie Sprint-, Kids- und Laufbewerbe bis zum Marathon. Die Veranstaltung wird von der Fédération Française de Triathlon unterstützt und verbindet sportliche Höchstleistung mit der Kulisse eines der prächtigsten Renaissance-Schlösser Frankreichs.",
+  "distanceKm": 226
+}

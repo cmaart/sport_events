@@ -1,0 +1,25 @@
+{
+  "id": "openlakes-champagne-2027",
+  "name": "OpenLakes Champagne",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-06-19",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sainte-Marie-du-Lac-Nuisement – Lac du Der",
+    "lat": 48.572,
+    "lng": 4.785
+  },
+  "websiteUrl": "https://www.openlakes.eu/openlakeschampagne",
+  "description": "OpenLakes Champagne findet 2027 am 19. und 20. Juni am Lac du Der in Sainte-Marie-du-Lac-Nuisement in der Marne statt; der Termin ist auf openlakes.eu bestätigt. Geschwommen wird im Lac du Der, dem größten Stausee Frankreichs, der für seine Kranichzüge bekannt ist. Das Festival deckt ein breites Distanzspektrum ab: Full Distance (3,8 km / 180 km / 42 km), Half (1,9 km / 90 km / 21 km), Olympische Distanz M (1,5 km / 43 km / 10 km) und Sprint S (0,75 km / 20 km / 5 km), dazu XS-Formate für Einsteiger sowie Jugend- und Para-Bewerbe. Die flache, windanfällige Radstrecke rund um den See eignet sich für schnelle Zeiten. OpenLakes trägt seine Rennen an markanten Seen in Frankreich und Belgien aus.",
+  "distanceKm": 226
+}

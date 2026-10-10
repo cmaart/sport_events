@@ -1,0 +1,22 @@
+{
+  "id": "triathlon-portocolom-2027",
+  "name": "Triatlón Internacional Portocolom",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-04-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Portocolom, Mallorca",
+    "lat": 39.4183,
+    "lng": 3.2664
+  },
+  "websiteUrl": "https://www.triathlonportocolom.net/en-gb",
+  "description": "Der Triatlón Internacional Portocolom findet 2027 in seiner 29. Ausgabe am 11. April im Fischerhafen Portocolom im Südosten Mallorcas statt und gilt vielen als Saisonauftakt im europäischen Triathlon. Geschwommen wird in der geschützten Naturbucht von Portocolom. Angeboten werden die Distanz M (1 km Schwimmen, 100 km Rad, 10 km Laufen) und die kürzere Distanz S (0,5 km / 50 km / 5 km); die lange Radrunde führt über die welligen Landstraßen der Serres de Llevant. Die anspruchsvolle, aber landschaftlich reizvolle Strecke und das milde Frühjahrswetter locken jährlich Elite- und Altersklassenathleten aus ganz Europa an. Das Event hat eine lange Tradition und löste einst TriStar Mallorca ab.",
+  "distanceKm": 111
+}

@@ -8,7 +8,7 @@
 ### Saison-Modus (seit 2026-09-16)
 - **Zielsaison für Neuanlagen: 2027.** UI-Default 2027 (Toggle im Filter, localStorage + `?saison=`).
 - Pro Ausgabe eigene Datei (`<slug>-2027.json`); 2026-Dateien nie umdatieren. Details: `routine-prompt.md` → „Saisonen".
-- 2027-Bestand: **381 Events** (Stand 10-09; confirmed 349, confirmed:false 32). Nächste Läufe: BACKLOG-re-checks (IRONMAN/Challenge-2027-Termine, die ab Herbst/Winter 2026 gestaffelt erscheinen), `confirmed:false` → exaktes Datum nachtragen sobald offiziell, fehlende `imageUrl`/`elevationGainM` nachziehen wo offiziell belegbar.
+- 2027-Bestand: **390 Events** (Stand 10-10; confirmed 358, confirmed:false 32). Nächste Läufe: BACKLOG-re-checks (IRONMAN/Challenge-2027-Termine, die ab Herbst/Winter 2026 gestaffelt erscheinen), `confirmed:false` → exaktes Datum nachtragen sobald offiziell, fehlende `imageUrl`/`elevationGainM` nachziehen wo offiziell belegbar.
 
 ### Kein Mengen-Limit mehr (seit 2026-09-24)
 - Das 15-Events-pro-Lauf-Limit ist auf User-Wunsch aufgehoben. Qualitäts-Gate bleibt: jede neue Seite voll ausgearbeitet + offiziell verifiziert.
@@ -17,8 +17,9 @@
 - **Cycling:** Kriterium, Gran Fondo, Radmarathon, RTF, Gravel, Rundstreckenrennen, Etappenrennen, Berg, Zeitfahren. (KEIN „MTB"/„Bikepacking"/„Jedermann" — MTB-Marathons → Radmarathon; XC-Rundkurs → Rundstreckenrennen; Jedermann-Rennen → Gran Fondo; Bikepacking/Ultra → RTF.)
 - **Triathlon:** Sprintdistanz, Olympische Distanz, Mitteldistanz, T100, Langdistanz, Cross-Triathlon, Aquathlon, Duathlon. (KEIN „Sprint"/„Olympisch"/„Swimrun" — Swimrun → Aquathlon; XTRI/Ultra → Langdistanz.)
 
-### Kennzahlen (Stand: 2026-10-09)
-- Events gesamt: **1508** | Saison 2026: 1127 (upcoming ≥ heute **44** | past/noindex **1083**) | Saison 2027: **381** (confirmed 349 | confirmed:false 32)
+### Kennzahlen (Stand: 2026-10-10)
+- Events gesamt: **1516** | Saison 2026: 1126 (upcoming ≥ heute **44** | past/noindex **1082**) | Saison 2027: **390** (confirmed 358 | confirmed:false 32)
+- **Konsolidierung 10-10:** 9 verifizierte Events aus nicht gemergten Branches (10-01/10-05/10-07) auf master gerettet (Dubletten verworfen), 1 abgesagtes Event entfernt (ladies-tri-breitenbrunn). Build 1590 pages, Sitemap 509 URLs. Details im 10-10-Eintrag unten.
 - Letzter Lauf: 2026-10-09 — **9 neue 2027-Ausgaben** (Tri 4: ironman-barcelona-calella confirmed:false, ultra-triathlon-bad-radkersburg, neustaedter-triathlon-donau, swedeman-xtri-are; Rad 5: velofondo-9h11-leipzig, sudety-tour, la-pyreneenne-bagneres confirmed:false, tour-of-pembrokeshire confirmed:false, krk-granfondo), **5 confirmed:false→confirmed** (ardechoise, berliner-volkstriathlon, gravelei-suedsteiermark, paris-roubaix-challenge, styroica), **25 Enrichment-Felder** (18 imageUrl, 3 distanceKm, 4 elevationGainM) + ardechoise dates korrigiert (08.→**09.06.**), **1 Dublette entfernt** (granfondo-il-lombardia-2026 = gran-fondo-il-lombardia-bergamo-2026).
 - Build zuletzt grün: **1582 pages**, 0 errors; Sitemap **500 URLs** (nur indexierbar), alle 9 neuen `-2027` enthalten, entfernte Dublette raus, past/noindex ausgeschlossen.
 - Datenqualität (upcoming, Stand 10-09): thin **7** (alle Rest-2026, Okt/Nov, bald past — niedrige Prio); missing distanceKm **17**; missing elevationGainM **208**; missing imageUrl **146**. Hinweis: viele fehlende Elevation-Werte sind offiziell nicht publiziert (Agents verifiziert) → nicht schätzen.
@@ -44,8 +45,9 @@
 - Granfondo Bratislava (SK) — „V roku 2026 si dávame pauzu"
 - RideLondon 100 (GB), Velothon Wales (GB), IRONMAN 70.3 Edinburgh (GB), Challenge Lisboa (PT), Styrkeprøven Trondheim-Oslo (NO) — eingestellt/abgesagt
 - Velothon Berlin — defunct (→ VeloCity, letzte ~2022)
+- LadiesTri Breitenbrunn (Neusiedler See, Burgenland, AT) — 23.08.2026 ÖTRV „ABGESAGT"; Veranstalterdomain tot. Am 10-10 entfernt (war fälschlich noch im Repo; PR #13 hatte das nie auf master gebracht).
 - 2027-Pausen (keine 2027-Datei): Fichkona (wieder 2028), Montafon M3, Bayrisch Lettn, RügenChallenge
-> Regel: Wer hier steht, wird nicht neu erzeugt. Neue Absagen hier ergänzen (mit Grund). Diesen Lauf (10-09) keine neuen Absagen gefunden.
+> Regel: Wer hier steht, wird nicht neu erzeugt. Neue Absagen hier ergänzen (mit Grund).
 
 ### ZU PRÜFEN (Phantom-Verdacht / Datenfehler — vorhandene Events verifizieren)
 - ✅ **krk-granfondo (HR) aufgelöst (10-09):** nicht abgesagt — krkgranfondo.com nennt nächste Ausgabe Sa 17.04.2027, Punat, 82 km. `krk-granfondo-2027.json` angelegt (confirmed). 2026-Datei war past.
@@ -96,7 +98,15 @@ Voll-Lauf mit Pflicht-Durchsuchung **aller** Quellen (keine Rotation). 6 Researc
 - **1 Dedup:** granfondo-il-lombardia-2026 (veraltete 135-km-Como-Strecke) entfernt; gran-fondo-il-lombardia-bergamo-2026 (110 km, Bergamo-Area, offiziell bestätigt) behalten.
 - **Keine Removals wegen Absage, keine neuen BLACKLIST-Einträge** diesen Lauf (ÖTRV ohne „ABGESAGT"; Agents fanden keine neuen Absagen; krk + swedeman als lebendig bestätigt).
 - **SEO / Sitemap / noindex:** `npm run build` grün, **1582 pages**, 0 errors. Sitemap **500 URLs** (nur indexierbar), alle 9 neuen `-2027` enthalten, entfernte Dublette raus, past/noindex ausgeschlossen. Date-driven noindex (`astro.config.mjs` + `[slug].astro`) + Sitemap-Ausschluss + JSON-LD intakt — **keine Code-Änderung nötig**.
-- **Branch-Hinweis:** committet/gepusht auf den zugewiesenen Arbeits-Branch `claude/intelligent-clarke-jbcp55` (Harness-Vorgabe). Für das Deployment muss der Branch nach `master` gemerged werden.
+- **Branch-Hinweis:** committet/gepusht auf den zugewiesenen Arbeits-Branch `claude/intelligent-clarke-jbcp55` (Harness-Vorgabe).
+
+### Nachtrag 2026-10-10 — Konsolidierung auf master (User-Request „alles auf master, auch PRs/Branches")
+- **10-09-Lauf per Fast-Forward auf `master`** gebracht (Deployment ausgelöst).
+- **Branch-Audit:** mehrere Wartungsläufe (10-01 `xqdjha`, 10-05 `um4xsx`, 10-07 `t9wlsq`, 09-27 `t1leaw`, 09-29 `ba451g`) waren **nie gemergt**. Sie überschneiden sich stark mit master, teils unter **anderen Slugs** (z. B. `ardechoise-cyclosportive` vs. `ardechoise`, `uci-istria-granfondo` vs. `istria-granfondo`, `muensterland-giro-jedermann` vs. `muensterland-giro`) → Wholesale-Merge hätte **Dubletten** erzeugt. Daher **nicht gemergt**, sondern per Name-Dedup die **9 wirklich einzigartigen** Events herausgezogen und (jedes offiziell gegen den Veranstalter re-verifiziert, alle CONFIRM) auf master angelegt: **castle-race-belvoir** (GB, 17.–18.07.), **castle-race-chantilly** (FR, 12.–13.06.), **castle-race-hever** (GB, 25.–26.09.), **eurobec-granfondo** (PT Elvas, 11.04.), **lakesman-triathlon** (GB, 20.06.), **slateman-triathlon** (GB Wales, 13.06.), **tour-transalp/MYTRANSALP** (IT, 20.–26.06., Startorte erst Dez), **openlakes-champagne** (FR Lac du Der, 19.–20.06.), **triathlon-portocolom** (ES Mallorca, 11.04.).
+- **1 abgesagtes Event entfernt:** `ladies-tri-breitenbrunn-2026` (ÖTRV „ABGESAGT", PR #13 hatte es nie auf master gebracht) → BLACKLIST + CLAUDE.md.
+- **Build grün: 1590 pages**, Sitemap **509 URLs**, alle 9 enthalten, ladies-tri raus.
+- **Offene PRs #13 (15.08.) + #15 (07.09.):** veraltet, enrichten nur inzwischen vergangene 2026-Events, kollidieren mit der neu geschriebenen Memory/CLAUDE.md → als überholt **zu schließen** (nicht mergen). Die einzige echte offene Sache daraus (ladies-tri-Removal) ist erledigt.
+- **Alte Entwicklungs-Branches** (Mai/Juni 2026, ahead=300+/behind=59, eigene History) sowie `main`-Leftover: nicht anfassen.
 
 ---
 

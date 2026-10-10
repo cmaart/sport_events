@@ -1,0 +1,21 @@
+{
+  "id": "eurobec-granfondo-2027",
+  "name": "EUROBEC Granfondo",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2027-04-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Elvas",
+    "lat": 38.881,
+    "lng": -7.1627
+  },
+  "websiteUrl": "https://bikeservice.pt/en/event/eurobec-granfondo/",
+  "description": "Der EUROBEC Granfondo geht am 11. April 2027 in seine 5. Ausgabe und startet um 9 Uhr im Zentrum der portugiesischen Grenzstadt Elvas im Alentejo. Das Besondere: Die Route überquert die nahe Grenze nach Spanien, sodass das Rennen auf iberischen Straßen zweier Länder ausgetragen wird. Drei gemeinsam gestartete Distanzen stehen zur Wahl – der Granfondo über 150 Kilometer, der Mediofondo über 100 Kilometer und der Minifondo über 60 Kilometer. Elvas bildet mit seiner von der UNESCO geschützten Sternfestung und dem monumentalen Amoreira-Aquädukt einen historischen Rahmen für Start und Ziel. Das Teilnehmerfeld ist auf 2.000 Startplätze begrenzt, die Anmeldung schließt spätestens am 9. April 2027. Organisiert wird die Veranstaltung vom portugiesischen Ausrichter Bikeservice auf überwiegend verkehrsberuhigten Landstraßen der Grenzregion zwischen Alentejo und Extremadura.",
+  "distanceKm": 150
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tour-transalp-2027",
+  "name": "MYTRANSALP",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen",
+    "Berg"
+  ],
+  "country": "IT",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riva del Garda (Ziel)",
+    "lat": 45.8853,
+    "lng": 10.8403
+  },
+  "websiteUrl": "https://mytransalp.com/",
+  "description": "MYTRANSALP ist das Alpenüberquerungs-Etappenrennen für Rennradfahrende, das 2027 die über zwei Jahrzehnte ausgetragene TOUR Transalp unter neuem Namen und neuer Organisation (Yunique) fortführt. Vom 20. bis 26. Juni 2027 führt die klassische Full-Variante über sieben Tage rund 750 Kilometer und mehr als 15.000 Höhenmeter über rund 15 Alpenpässe bis zum traditionellen Zielort Riva del Garda am Gardasee. Gewertet werden wie gewohnt Teams aus zwei Fahrenden, die jede Etappe gemeinsam absolvieren, dazu gibt es Einzelwertungen. Neben der Sieben-Tage-Strecke stehen verkürzte Drei- und Vier-Tage-Optionen zur Wahl, die ebenfalls am Gardasee enden. Die Start- und Etappenorte der Ausgabe 2027 werden laut Veranstalter erst im Dezember veröffentlicht; die Vorgängerausgaben starteten zuletzt in Osttirol. Der Termin steht fest, die genaue Streckenführung folgt.",
+  "distanceKm": 750,
+  "elevationGainM": 15000
+}
