@@ -1,0 +1,24 @@
+{
+  "id": "vierlanden-triathlon-hamburg-2027",
+  "name": "Vierlanden-Triathlon Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg-Bergedorf",
+    "lat": 53.469,
+    "lng": 10.242,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://www.vierlanden-triathlon.de",
+  "description": "Der 30. Vierlanden-Triathlon in den Hamburger Vierlanden nahe Bergedorf findet 2027 laut DTU-Veranstaltungskalender am Sonntag, 20. Juni statt. Ausgerichtet wird er von den Tri-Bandits der TSG Bergedorf; es ist einer der größten Triathlons im norddeutschen Raum mit rund 1.300 Einzelstartern und 40 Staffeln aus über zehn Nationen. Geschwommen wird im Overwerder See, Rad- und Laufkurs führen durch die Marschenlandschaft der Vierlande. Zur Jubiläumsausgabe starten neben der Olympischen Distanz auch die Sprintdistanz sowie Jugendwettbewerbe.",
+  "distanceKm": 51
+}

@@ -1,0 +1,22 @@
+{
+  "id": "brezel-race-region-stuttgart-2027",
+  "name": "ADAC Brezel Race Region Stuttgart",
+  "sport": "cycling",
+  "categories": ["Gran Fondo"],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Region Stuttgart",
+    "lat": 48.7758,
+    "lng": 9.1829,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.brezelrace.de",
+  "description": "Das ADAC Brezel Race ist das größte Hobbyradrennen Baden-Württembergs und führt über einen Rundkurs durch die Hügel der Region Stuttgart. Der Veranstalter Inflame Events nennt für die Ausgabe 2027 bereits offiziell den 19. September 2027; der genaue Start- und Zielort wird wie in den Vorjahren erst näher am Termin festgelegt (2026 war es Tamm im Landkreis Ludwigsburg, 2025 Stuttgart). Angeboten werden zwei Distanzen: das Brezel Race Kurz über rund 54 Kilometer und 750 Höhenmeter mit einem Mindestschnitt von 23 km/h sowie das Brezel Race Lang über rund 102 Kilometer und 1.380 Höhenmeter mit einem Mindestschnitt von 25 km/h. Parallel wird mit dem Women's Cycling Grand Prix Region Stuttgart Deutschlands wichtigstes Profi-Straßenrennen der Frauen ausgetragen, das über rund 130 Kilometer führt und mit mehreren Schlussrunden endet. Zuletzt gingen mehr als 4.000 Teilnehmende an den Start. Die Finanzierung ist über den Verband Region Stuttgart bis einschließlich 2027 abgesichert.",
+  "distanceKm": 102,
+  "elevationGainM": 1384,
+  "imageUrl": "https://www.brezelrace.de/wp-content/uploads/2025/09/20250914_MS_STU_1096.jpg"
+}

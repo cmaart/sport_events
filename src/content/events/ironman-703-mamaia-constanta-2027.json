@@ -1,0 +1,21 @@
+{
+  "id": "ironman-703-mamaia-constanta-2027",
+  "name": "IRONMAN 70.3 Mamaia Constanta",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "RO",
+  "dates": {
+    "start": "2027-09-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mamaia, Constanța",
+    "lat": 44.30204,
+    "lng": 28.62693
+  },
+  "websiteUrl": "https://www.ironman.com/races/im703-mamaia",
+  "description": "Premiere für den IRONMAN in Rumänien: Am 26. September 2027 wird in Mamaia bei Constanța erstmals ein IRONMAN-Rennen auf rumänischem Boden ausgetragen. Es ist zugleich das erste IRONMAN 70.3 am Schwarzen Meer. Die Mitteldistanz umfasst 1,9 km Schwimmen im Schwarzen Meer vor dem Strand von Mamaia, 90 km Rad Richtung Constanța und 21,1 km Laufen über die Strandpromenade des Ferienorts. Mamaia ist eine schmale Landzunge zwischen dem Schwarzen Meer und dem Siutghiol-See und zählt zu den bekanntesten Badeorten Rumäniens. Das Rennen vergibt Qualifikationsslots für die IRONMAN 70.3 Weltmeisterschaft 2028. Die allgemeine Anmeldung wurde für den 8. Oktober 2026 geöffnet.",
+  "distanceKm": 113
+}

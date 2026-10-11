@@ -1,0 +1,22 @@
+{
+  "id": "infinitri-113-triathlon-peniscola-2027",
+  "name": "Infinitri 113 Triathlon Peñíscola",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-04-25",
+    "end": "2027-04-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peñíscola",
+    "lat": 40.3589,
+    "lng": 0.4062
+  },
+  "websiteUrl": "https://infinitri.es/",
+  "description": "Der Infinitri 113 Triathlon in Peñíscola an der Costa del Azahar feiert 2027 seine 15. Ausgabe; der Veranstalter Infinitri Sports Events nennt den 25. April 2027 und hat die Anmeldung geöffnet. Über die Mitteldistanz von 1,9 km Schwimmen, 90 km Rad und 21,1 km Laufen (daher der Name 113) starten regelmäßig mehr als 1.000 Triathleten aus rund 30 Nationen. Geschwommen wird im Mittelmeer unterhalb der Burg von Peñíscola, die Radstrecke wurde zuletzt auf eine drafting-freie Runde umgestellt. Das Rennen vergibt Punkte für das PTO World Ranking sowie das nationale FETRI-Ranking über Mittel- und Langdistanz und schüttet ein Preisgeld von 10.000 Euro aus. Zusätzlich gibt es eine Aquabike-Wertung über 1,9 km Schwimmen und 90 km Rad.",
+  "distanceKm": 113
+}

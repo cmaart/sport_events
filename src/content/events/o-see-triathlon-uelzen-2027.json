@@ -1,0 +1,27 @@
+{
+  "id": "o-see-triathlon-uelzen-2027",
+  "name": "O-See-Triathlon Uelzen",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-30",
+    "end": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Uelzen",
+    "lat": 52.9662,
+    "lng": 10.5521,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://post-sv-uelzen.de/oseetriathlon",
+  "description": "Der 19. O-See-Triathlon am Oldenstädter See bei Uelzen findet 2027 laut DTU-Veranstaltungskalender am Sonntag, 30. Mai statt; der Post-SV Uelzen hat die Anmeldung für 2027 bereits freigeschaltet. Geschwommen wird im natürlichen Oldenstädter See in der Lüneburger Heide. Angeboten werden eine Mitteldistanz (1,9 km / 90 km / 21 km), die Olympische Distanz (1,5 km / 45 km / 9 km), ein Sprint (750 m / 24 km / 4,4 km) sowie ein Aquabike. Die Radkurse führen wellig durch die Heidelandschaft. Der Wettkampf wird vom Post-SV Uelzen ausgerichtet und ist bei der Deutschen Triathlon Union gelistet.",
+  "distanceKm": 113,
+  "elevationGainM": 600,
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/5e592de3e6c2854814d0631d/1688374490212-ZE5OBMJW454KJQDYN7AP/2%20(1).jpg"
+}

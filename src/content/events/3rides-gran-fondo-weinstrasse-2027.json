@@ -1,0 +1,24 @@
+{
+  "id": "3rides-gran-fondo-weinstrasse-2027",
+  "name": "3Rides Gran Fondo Südliche Weinstraße",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-10",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Schweigen-Rechtenbach",
+    "lat": 49.0397,
+    "lng": 8.0839,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://3rides.de/suedliche-weinstrasse",
+  "description": "Das 3Rides Gran Fondo an der Südlichen Weinstraße ist ein Qualifikationsrennen der UCI Gran Fondo World Series mit Start und Ziel am Deutschen Weintor in Schweigen-Rechtenbach in der Pfalz. Die Hauptstrecke misst rund 100 km mit etwa 600 Höhenmetern und führt durch die Weindörfer an der Grenze zum Elsass, inklusive eines rund 15 km langen Abschnitts auf französischem Gebiet mit schmalen Straßen und kurzen Anstiegen. Zusätzlich wird eine kürzere Runde über rund 50 km angeboten. Als UCI-Qualifier vergibt das Rennen Startplätze für die UCI Gran Fondo Weltmeisterschaft und zieht ein internationales Starterfeld an. Die Premiere fand im April 2026 statt; das Event gehört zur 3Rides-Reihe, die auch Austragungen in Winterberg und Eupen umfasst. Das hier angegebene Datum (10. April 2027) folgt dem veröffentlichten UCI-World-Series-Qualifikationskalender; der Veranstalter hat den Termin für die Südliche Weinstraße noch nicht offiziell bestätigt.",
+  "distanceKm": 100,
+  "elevationGainM": 600,
+  "imageUrl": "https://ucigranfondoworldseries.com/wp-content/uploads/sites/186/2024/11/20240512_1001_3Rides-LeonvanBon-114A2338-1024x683.jpg"
+}

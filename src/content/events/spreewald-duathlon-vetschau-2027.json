@@ -1,0 +1,22 @@
+{
+  "id": "spreewald-duathlon-vetschau-2027",
+  "name": "Spreewald Duathlon Vetschau",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-01",
+    "end": "2027-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vetschau/Spreewald",
+    "lat": 51.783,
+    "lng": 14.075,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://spreewald-triathlon.de/",
+  "description": "Der Spreewald Duathlon des Triathlon Spreewald e.V. findet 2027 am Samstag, 1. Mai statt; der Verein führt den Termin auf seiner Seite unter „Für euren 2027er Terminkalender“ und nennt den Anmeldestart für Ende November 2026. Der Lauf-Rad-Lauf-Wettkampf eröffnet die Saison des Vereins, wenige Wochen vor dem Spreewald Triathlon am 29. Mai 2027. Ausgetragen wird am Briesensee bei Vetschau in der Spreewälder Niederung, wo auch der Triathlon startet. Die Radstrecke verläuft flach durch das Umland des Spreewalds. Der Duathlon richtet sich an Einsteiger ebenso wie an Vereinssportler, die früh in die Freiluftsaison einsteigen wollen."
+}
