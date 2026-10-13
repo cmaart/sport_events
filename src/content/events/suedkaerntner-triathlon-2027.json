@@ -1,0 +1,25 @@
+{
+  "id": "suedkaerntner-triathlon-2027",
+  "name": "Südkärntner Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-09-18",
+    "end": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "St. Kanzian am Klopeiner See",
+    "lat": 46.5878,
+    "lng": 14.5817,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.suedkaerntner-triathlon.at",
+  "description": "9. Auflage des Südkärntner Triathlons am türkisfarbenen Klopeiner See in St. Kanzian, am Wochenende 18. und 19. September 2027. Am Samstag, den 18. September, stehen die Gaudi- und Kinderbewerbe auf dem Programm, am Sonntag, den 19. September, folgen die Hauptbewerbe. Die Mitteldistanz umfasst 1,9 km Schwimmen, 90 km Rad und 21,1 km Laufen; dazu kommen die Olympische Distanz und ein Aquabike-Bewerb über Schwimmen und Rad. Start und Ziel liegen am Strandbad Bellevue Alm direkt am See. Die Radstrecke führt durch das hügelige südkärntner Hügelland. Die Anmeldung für die Ausgabe 2027 öffnet laut Veranstalter am 16. Oktober 2026.",
+  "distanceKm": 113,
+  "imageUrl": "https://suedkaernten.at/fileadmin/_dc_klopein_processed_folder/7/c/csm_Suedkaernten_Triathlon_Sport_Aktiv_96d2c5f4f5.jpg"
+}
