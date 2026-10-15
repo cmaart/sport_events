@@ -1,0 +1,24 @@
+{
+  "id": "stadttriathlon-knittelfeld-2027",
+  "name": "Stadttriathlon Knittelfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-01",
+    "end": "2027-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Knittelfeld",
+    "lat": 47.2167,
+    "lng": 14.8319,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.tri-team-murtal.at/",
+  "description": "Der Stadttriathlon Knittelfeld eröffnet die steirische Triathlonsaison und ist 2027 für den 1. Mai angesetzt. Start und Ziel liegen am Hauptplatz von Knittelfeld, ausgerichtet vom Tri Team Murtal mitten in der Stadt. Angeboten werden die Olympische Distanz über 1,5 Kilometer Schwimmen, 40 Kilometer Rad und 10 Kilometer Laufen sowie ein Volkstriathlon über 0,75 Kilometer Schwimmen, 20 Kilometer Rad und 5 Kilometer Laufen. Dazu kommen Staffelbewerbe und ein Kinderbewerb. In den Vorjahren waren Olympische Distanz, Volkstriathlon und Staffel frühzeitig ausgebucht. Der Termin steht im ÖTRV-Verbandskalender.",
+  "imageUrl": "https://media04.meinbezirk.at/article/2024/05/02/5/39595965_XXL.jpg"
+}

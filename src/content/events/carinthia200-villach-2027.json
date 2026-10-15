@@ -8,9 +8,9 @@
   ],
   "country": "AT",
   "dates": {
-    "start": "2027-09-19",
-    "end": "2027-09-19",
-    "confirmed": false
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
   },
   "location": {
     "name": "Villach",
@@ -19,7 +19,7 @@
     "region": "Kärnten"
   },
   "websiteUrl": "https://www.carinthia200.com/",
-  "description": "Der Carinthia200 feierte am 20. September 2026 mit rund 1.400 Teilnehmenden aus 24 Nationen seine ausverkaufte Premiere in der Region Villach – Faaker See – Ossiacher See. Der Veranstalter wirbt bereits für eine Ausgabe 2027 ('Sei beim Start 2027 vorne dabei'), ein genaues Datum ist noch nicht veröffentlicht; als wahrscheinlicher Termin gilt das September-Wochenende rund um den 19. September. Die Königsstrecke führt über rund 200 Kilometer mit etwa 2.731 Höhenmetern, dazu werden kürzere Varianten über rund 155 und 125 Kilometer angeboten. Attraktivster Punkt ist die komplette Sperrung der Straßen für den Verkehr. Erklärtes Ziel des Veranstalters ist es, den Carinthia200 zur größten Rennradveranstaltung Österreichs auszubauen. Die Anmeldung für 2027 erfolgt online über die offizielle Seite, Newsletter-Abonnenten erhalten frühen Zugang zu vergünstigten Startplätzen.",
-  "distanceKm": 200,
+  "description": "Der Carinthia200 feierte am 20. September 2026 mit rund 1.400 Teilnehmenden aus 24 Nationen seine ausverkaufte Premiere in der Region Villach, Faaker See und Ossiacher See. Für 2027 nennt der Veranstalter offiziell den 23. Mai als Renntag und hat die Anmeldung bereits geöffnet. Die Königsstrecke Carinthia200 führt über rund 197 Kilometer durch das Kärntner Seental, ergänzt um die kürzere Carinthia105 über 105 Kilometer. Attraktivster Punkt ist die vollständige Sperrung der Straßen für den Autoverkehr über die gesamte Renndistanz. Erklärtes Ziel des Veranstalters ist es, den Carinthia200 zur größten Rennradveranstaltung Österreichs auszubauen. Die Anmeldung für 2027 erfolgt online über die offizielle Seite, Newsletter-Abonnenten erhalten frühen Zugang zu vergünstigten Startplätzen.",
+  "distanceKm": 197,
   "elevationGainM": 2731
 }

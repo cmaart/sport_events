@@ -1,0 +1,23 @@
+{
+  "id": "aquathlon-fuerstenfeld-2027",
+  "name": "Aquathlon Fürstenfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fürstenfeld",
+    "lat": 47.05,
+    "lng": 16.084,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://wp.thermentriathlon.at/",
+  "description": "Der Aquathlon Fürstenfeld ist der Lauf-Schwimm-Lauf-Bewerb im Rahmen des Thermentriathlon-Wochenendes und 2027 für den 4. Juli angesetzt. Geschwommen und gelaufen wird rund um das Thermenbad Fürstenfeld in der Oststeiermark, ohne Radstrecke. Der Bewerb richtet sich an Einsteiger, Nachwuchs und Staffeln und wird gemeinsam mit dem Thermentriathlon Fürstenfeld am selben Wochenende ausgetragen. Austragungsort und Infrastruktur teilt sich der Aquathlon mit den Triathlonbewerben an der Therme. Der Termin ist im ÖTRV-Verbandskalender eingetragen.",
+  "imageUrl": "https://wp.thermentriathlon.at/wp-content/uploads/2025/08/DSC04993-1024x683.jpeg"
+}

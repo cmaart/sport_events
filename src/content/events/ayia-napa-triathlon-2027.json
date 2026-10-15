@@ -1,0 +1,23 @@
+{
+  "id": "ayia-napa-triathlon-2027",
+  "name": "Ayia Napa Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "CY",
+  "dates": {
+    "start": "2027-03-21",
+    "end": "2027-03-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ayia Napa, Nissi Beach",
+    "lat": 34.9869,
+    "lng": 33.9589
+  },
+  "websiteUrl": "https://nireastriathlon.com/ayia-napa-triathlon/",
+  "description": "Der Ayia Napa Triathlon wird vom Verein Nireas Triathlon ausgerichtet und findet 2027 am 21. März am Nissi Beach im Südosten Zyperns statt. Angeboten werden eine Sprintdistanz, die Olympische Distanz und eine Mitteldistanz, dazu am Vortag ein separates Freiwasserschwimmen, der Ayia Napa Swim. Dank des milden zyprischen Frühjahrswetters und des warmen Mittelmeers dient das Rennen vielen europäischen Triathleten als früher Saisonauftakt. Start, Wechselzone und Siegerehrung sind am Nissi Beach Resort angesiedelt. Die Veranstaltung gilt als größter Triathlon Zyperns und zieht Starter aus mehr als zwanzig Nationen an. Für 2027 ist die Anmeldung bereits geöffnet."
+}

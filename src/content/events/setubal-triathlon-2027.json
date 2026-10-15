@@ -1,0 +1,22 @@
+{
+  "id": "setubal-triathlon-2027",
+  "name": "Setúbal Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2027-05-02",
+    "end": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Setúbal",
+    "lat": 38.5244,
+    "lng": -8.8882
+  },
+  "websiteUrl": "https://setubaltriathlon.pt/",
+  "description": "Der Setúbal Triathlon geht 2027 in seine 11. Ausgabe und wird vom Veranstalter HMS Sports gemeinsam mit der Stadt Setúbal für den 2. Mai angesetzt. Über die Mitteldistanz schwimmen die Teilnehmer 1,9 Kilometer im Rio Sado, fahren 90 Kilometer mit der Durchquerung des Naturparks Serra da Arrábida und laufen abschließend 21,1 Kilometer durch die Innenstadt von Setúbal. Die Radstrecke über die bewaldeten Hänge der Arrábida gilt als anspruchsvollster Teil des Rennens. Die Einzelstarterplätze für 2027 sind bereits ausverkauft, für Staffeln ist die Anmeldung noch offen. Setúbal liegt südlich von Lissabon an der Mündung des Sado und zählt mit seinem geschützten Naturpark zu den landschaftlich reizvollsten Austragungsorten portugiesischer Mitteldistanzen.",
+  "distanceKm": 113
+}

@@ -1,0 +1,24 @@
+{
+  "id": "race-around-niederoesterreich-2027",
+  "name": "Race Around Niederösterreich",
+  "sport": "cycling",
+  "categories": [
+    "Etappenrennen"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-28",
+    "end": "2027-05-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Weitra",
+    "lat": 48.8006,
+    "lng": 14.8989,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.ran-bike.at/",
+  "description": "Das Race Around Niederösterreich ist ein Ultracycling-Rennen durch das Waldviertel und startet 2027 am 28. und 29. Mai am Rathausplatz in Weitra. Auf der rund 600 Kilometer langen Rundstrecke fahren die Teilnehmer im Non-Stop-Format ohne Etappenpause, als Solostarter oder im Team mit Begleitfahrzeug und Wechsel. Die Zeitnahme läuft rund um die Uhr, der Kurs führt über die welligen Höhenzüge des nördlichen Waldviertels und sammelt dabei deutlich über 7.000 Höhenmeter. Der Veranstalter nennt den Termin bereits offiziell, die Anmeldung für die kommende Ausgabe wird laut Website in Kürze geöffnet. Austragungsort Weitra mit seiner Altstadt und der Burg dient wie in den Vorjahren als Start und Ziel.",
+  "distanceKm": 600,
+  "imageUrl": "https://www.ran-bike.at/wp-content/uploads/2026/05/RAN26_OeM_Siegerehrung_Aigner-1920x1440.jpg"
+}
