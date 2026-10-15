@@ -4,7 +4,8 @@
   "sport": "triathlon",
   "categories": [
     "Sprintdistanz",
-    "Olympische Distanz"
+    "Olympische Distanz",
+    "Mitteldistanz"
   ],
   "country": "AT",
   "dates": {
@@ -19,8 +20,7 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://alohasport.at/event/aloha-tri-linz",
-  "description": "Der ALOHA Tri Linz findet 2027 am 3. Juli am Pleschinger See im Linzer Norden statt und ist Nachfolger des eingestellten Internationalen Linztriathlons. Geschwommen wird im Pleschinger See, die Rad- und Laufstrecke verlaufen auf schnellem, flachem Terrain im Linzer Umland. Angeboten werden Sprint- und Kurzdistanz, jeweils auch als Staffel, dazu Aquabike-Bewerbe für alle, die auf den Lauf verzichten wollen. Veranstalter ist das Team von ALOHA Sport. Der Bewerb ist Teil der oberösterreichischen ALOHA-TRI-Serie und eignet sich durch den kompakten Kurs besonders für Einsteiger.",
-  "distanceKm": 24,
-  "elevationGainM": 100,
+  "description": "Der ALOHA Tri Linz findet 2027 am 3. Juli am Pleschinger See im Linzer Norden statt und ist Nachfolger des eingestellten Internationalen Linztriathlons. Angeboten werden Sprintdistanz (0,75/25/5 km), Kurzdistanz (1,5/42/10 km) und Mitteldistanz (1,9/84/21 km), jeweils auch als Staffel und als Aquabike ohne Laufteil. Rad- und Laufstrecke verlaufen auf flachem Terrain im Linzer Umland. Veranstalter ist ALOHA Sport, der Bewerb gehört zur oberösterreichischen ALOHA-TRI-Serie.",
+  "distanceKm": 107,
   "imageUrl": "https://alohasport.at/images/aloha_slider_1.jpg"
 }
