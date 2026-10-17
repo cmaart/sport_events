@@ -9,6 +9,7 @@ import { seasonOf } from '../../../lib/types';
 import { buildLandingIntro } from '../../../lib/landing-intro';
 import { buildLandingGuide } from '../../../lib/landing-guide';
 import type { EventData } from '../../../lib/filters';
+import { FOCUS_SLUGS, MIN_FOCUS_PER_LANDING } from '../../../lib/focus';
 
 export async function getStaticPaths() {
   const entries = await getCollection('events');
@@ -55,6 +56,11 @@ const events: EventData[] = entries
     elevationGainM: entry.data.elevationGainM,
   }))
   .sort((a, b) => +new Date(a.dates.start) - +new Date(b.dates.start));
+
+// Landing pages stay indexable only when they carry enough focus events;
+// otherwise they are crawl paths (noindex,follow). See src/lib/focus.ts.
+const focusEvents = events.filter((e) => FOCUS_SLUGS.has(e.slug));
+const landingNoindex = focusEvents.length < MIN_FOCUS_PER_LANDING;
 
 const countryLabel = COUNTRY_LABELS[country].name;
 const countryFlag = COUNTRY_LABELS[country].flag;
@@ -135,7 +141,7 @@ const breadcrumbsLd = {
 };
 ---
 
-<BaseLayout title={seoTitle} description={seoDescription} canonical={pageUrl} titleSuffix={t('landing.titleSuffix')}>
+<BaseLayout title={seoTitle} description={seoDescription} canonical={pageUrl} noindex={landingNoindex} titleSuffix={t('landing.titleSuffix')}>
   <script
     slot="head"
     type="application/ld+json"

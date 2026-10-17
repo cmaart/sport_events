@@ -1,4 +1,5 @@
 import { seasonOf, type Country, type Sport } from './types';
+import countrySlugs from '../data/country-slugs.json';
 
 export const MIN_EVENTS_PER_LANDING = 3;
 
@@ -11,42 +12,9 @@ export const SPORT_BY_SLUG: Record<string, Sport> = Object.fromEntries(
   Object.entries(SPORT_SLUGS).map(([k, v]) => [v, k as Sport]),
 );
 
-export const COUNTRY_SLUGS: Record<Country, string> = {
-  AT: 'oesterreich',
-  DE: 'deutschland',
-  CH: 'schweiz',
-  FR: 'frankreich',
-  IT: 'italien',
-  ES: 'spanien',
-  PT: 'portugal',
-  NL: 'niederlande',
-  BE: 'belgien',
-  LU: 'luxemburg',
-  GB: 'grossbritannien',
-  IE: 'irland',
-  DK: 'daenemark',
-  NO: 'norwegen',
-  SE: 'schweden',
-  FI: 'finnland',
-  CZ: 'tschechien',
-  SK: 'slowakei',
-  PL: 'polen',
-  HU: 'ungarn',
-  SI: 'slowenien',
-  HR: 'kroatien',
-  EE: 'estland',
-  BG: 'bulgarien',
-  RS: 'serbien',
-  GR: 'griechenland',
-  LV: 'lettland',
-  LT: 'litauen',
-  MC: 'monaco',
-  RO: 'rumaenien',
-  ME: 'montenegro',
-  AD: 'andorra',
-  TR: 'tuerkei',
-  CY: 'zypern',
-};
+// Kept as JSON so astro.config.mjs (sitemap filter) can read the same table
+// without importing TypeScript.
+export const COUNTRY_SLUGS: Record<Country, string> = countrySlugs as Record<Country, string>;
 
 export const COUNTRY_BY_SLUG: Record<string, Country> = Object.fromEntries(
   Object.entries(COUNTRY_SLUGS).map(([k, v]) => [v, k as Country]),

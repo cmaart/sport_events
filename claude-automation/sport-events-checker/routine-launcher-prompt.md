@@ -19,9 +19,11 @@ Lies den Kopf von `claude-automation/sport-events-checker/progress.md`, insbeson
 
 ## 2. Routine ausführen
 Lies dann `claude-automation/sport-events-checker/routine-prompt.md` vollständig und führe die dort
-beschriebene wöchentliche Wartungs-Routine exakt nach diesen Instruktionen aus (Saison-Regeln —
-Zielsaison 2027, eigene `-2027`-Dateien —, Anti-Flut-Limits, Content-Tiefe, noindex für vergangene
-Events, Verifikation, imageUrl, SEO/Sitemap-Check sowie Commit + Push auf master am Ende).
+beschriebene wöchentliche Wartungs-Routine exakt nach diesen Instruktionen aus (**Fokus-Set zuerst:**
+die 150 indexierbaren Seiten aus `src/data/index-focus.json` vertiefen, danach Saison-Regeln —
+Zielsaison 2027, eigene `-2027`-Dateien —, Content-Tiefe, noindex für vergangene Events,
+Verifikation, imageUrl, SEO/Sitemap-Check, `node scripts/select-index-focus.mjs` am Ende sowie
+Commit + Push auf master).
 
 ## 3. Gedächtnis fortschreiben (rollend, am Ende)
 Aktualisiere `progress.md`:

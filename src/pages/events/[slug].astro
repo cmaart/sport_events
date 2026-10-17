@@ -7,6 +7,7 @@ import AppPromo from '../../components/AppPromo.astro';
 import { formatDateRange, t } from '../../lib/i18n';
 import { COUNTRY_LABELS, isRtf, seasonOf } from '../../lib/types';
 import { collectLandingPaths, landingHref } from '../../lib/landing';
+import { isFocus, FOCUS_SLUGS } from '../../lib/focus';
 
 export async function getStaticPaths() {
   const entries = await getCollection('events');
@@ -29,6 +30,12 @@ const dateLabel = e.dates.confirmed ? formatDateRange(start, end) : t('event.dat
 const today = new Date();
 today.setHours(0, 0, 0, 0);
 const isPast = e.dates.confirmed && (end ?? start) < today;
+// Index focus set (src/data/index-focus.json): only those pages are indexable.
+// Everything else is noindex,follow — still linked, still served, but kept out
+// of Google's quality assessment of the site. See scripts/select-index-focus.mjs.
+const inFocus = isFocus(slug);
+const noindex = isPast || !inFocus;
+const deadlineLabel = e.registrationDeadline ? formatDateRange(new Date(e.registrationDeadline)) : undefined;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const mapUrl = `https://www.google.com/maps/search/?api=1&query=${e.location.lat},${e.location.lng}`;
 // Organiser hero images are hotlinked originals (often 0.5–1 MB, 1920px+). Serve
@@ -57,6 +64,8 @@ const registrationHost = e.registrationUrl
   : undefined;
 
 const startIso = start.toISOString().slice(0, 10);
+const hasCourseElevation = (e.distances ?? []).some((d) => d.elevationGainM);
+const hasCourseSplit = (e.distances ?? []).some((d) => d.split);
 
 // SEO: title + description tailored for SERP snippets.
 const locationParts = [e.location.name, e.location.region].filter(Boolean) as string[];
@@ -125,9 +134,19 @@ if (offerUrl) {
     url: offerUrl,
     availability: 'https://schema.org/InStock',
     validFrom: new Date().toISOString().slice(0, 10),
+    ...(e.registrationDeadline ? { validThrough: new Date(e.registrationDeadline).toISOString().slice(0, 10) } : {}),
     category: 'Anmeldung',
   };
+  const feeNum = e.entryFee?.match(/(\d+(?:[.,]\d+)?)/)?.[1];
+  if (feeNum) {
+    Object.assign(sportsEventLd.offers as Record<string, unknown>, {
+      price: feeNum.replace(',', '.'),
+      priceCurrency: 'EUR',
+    });
+  }
 }
+if (e.participantLimit) sportsEventLd.maximumAttendeeCapacity = e.participantLimit;
+if (e.startTime && e.dates.confirmed) sportsEventLd.doorTime = `${startIso}T${e.startTime}:00`;
 
 // Landing page for this sport+country (only exists when the country has
 // enough events) — linked from the breadcrumb so every event page passes a
@@ -151,6 +170,31 @@ const otherEditions = allEntries
   .filter((o) => o.slug !== slug && o.slug.replace(/-\d{4}$/, '') === baseSlug)
   .sort((a, b) => b.year - a.year);
 
+// Related focus events: same sport + country + season, nearest by date. Every
+// event page (including the ~1300 noindexed ones) links into the indexable set,
+// so internal link equity concentrates on the pages Google is asked to index.
+// Pages in countries without focus events fall back to the same sport across
+// all countries, so no page is a dead end for the crawler.
+const focusPool = allEntries.filter((en) => {
+  const s2 = en.id.replace(/\.json$/, '');
+  return s2 !== slug && FOCUS_SLUGS.has(s2) && en.data.sport === e.sport && seasonOf(en.data.dates.start) === year;
+});
+const sameCountryPool = focusPool.filter((en) => en.data.country === e.country);
+const relatedSameCountry = sameCountryPool.length > 0;
+const relatedFocus = (relatedSameCountry ? sameCountryPool : focusPool)
+  .map((en) => ({
+    slug: en.id.replace(/\.json$/, ''),
+    name: en.data.name,
+    location: en.data.location.name,
+    start: new Date(en.data.dates.start),
+    confirmed: en.data.dates.confirmed,
+    gap: Math.abs(+new Date(en.data.dates.start) - +start),
+  }))
+  .sort((a, b) => a.gap - b.gap)
+  .slice(0, 6)
+  .sort((a, b) => +a.start - +b.start);
+const sportPlural = e.sport === 'cycling' ? t('hero.stat.cycling') : t('hero.stat.triathlon');
+
 // Breadcrumbs help Google show the "ENDURE Events › Event" trail in results.
 const breadcrumbsLd = {
   '@context': 'https://schema.org',
@@ -165,7 +209,7 @@ const breadcrumbsLd = {
 };
 ---
 
-<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl} ogImageAlt={e.imageUrl ? e.name : undefined} noindex={isPast} titleSuffix={t('event.titleSuffix')}>
+<BaseLayout title={seoTitle} description={seoDescription} ogImage={e.imageUrl} ogImageAlt={e.imageUrl ? e.name : undefined} noindex={noindex} titleSuffix={t('event.titleSuffix')}>
   <script
     slot="head"
     type="application/ld+json"
@@ -288,8 +332,60 @@ const breadcrumbsLd = {
             <dd class="font-semibold text-sm">{e.elevationGainM} {t('event.elevation.unit')}</dd>
           </div>
         )}
+        {e.entryFee && (
+          <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+            <dt class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.entryFee')}</dt>
+            <dd class="font-semibold text-sm">{e.entryFee}</dd>
+          </div>
+        )}
+        {deadlineLabel && e.registrationDeadline && (
+          <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+            <dt class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.registrationDeadline')}</dt>
+            <dd class="font-semibold text-sm"><time datetime={new Date(e.registrationDeadline).toISOString().slice(0, 10)}>{deadlineLabel}</time></dd>
+          </div>
+        )}
+        {e.startTime && (
+          <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+            <dt class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.startTime')}</dt>
+            <dd class="font-semibold text-sm">{t('event.startTime.value', { time: e.startTime })}</dd>
+          </div>
+        )}
+        {e.participantLimit && (
+          <div class="rounded-xl bg-white border border-[var(--color-ink-100)] p-4">
+            <dt class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] mb-1">{t('event.participantLimit')}</dt>
+            <dd class="font-semibold text-sm">{e.participantLimit.toLocaleString('de-DE')}</dd>
+          </div>
+        )}
       </dl>
     </section>
+
+    {e.distances && e.distances.length > 0 && (
+      <section aria-labelledby="courses" class="mb-10">
+        <h2 id="courses" class="text-xl sm:text-2xl font-semibold tracking-tight mb-4">{t('event.section.courses')}</h2>
+        <div class="overflow-x-auto rounded-xl border border-[var(--color-ink-100)] bg-white">
+          <table class="w-full text-sm">
+            <thead class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] bg-[var(--color-surface)]">
+              <tr>
+                <th scope="col" class="text-left font-medium px-4 py-2.5">{t('event.course.name')}</th>
+                <th scope="col" class="text-right font-medium px-4 py-2.5">{t('event.course.km')}</th>
+                {hasCourseElevation && <th scope="col" class="text-right font-medium px-4 py-2.5">{t('event.course.elevation')}</th>}
+                {hasCourseSplit && <th scope="col" class="text-left font-medium px-4 py-2.5">{t('event.course.split')}</th>}
+              </tr>
+            </thead>
+            <tbody>
+              {e.distances.map((d) => (
+                <tr class="border-t border-[var(--color-ink-100)]">
+                  <th scope="row" class="text-left font-semibold px-4 py-2.5">{d.name}</th>
+                  <td class="text-right px-4 py-2.5 tabular-nums">{d.km.toLocaleString('de-DE')} {t('event.distance.unit')}</td>
+                  {hasCourseElevation && <td class="text-right px-4 py-2.5 tabular-nums">{d.elevationGainM ? `${d.elevationGainM.toLocaleString('de-DE')} ${t('event.elevation.unit')}` : '–'}</td>}
+                  {hasCourseSplit && <td class="text-left px-4 py-2.5 text-[var(--color-ink-700)]">{d.split ?? '–'}</td>}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
 
     <section aria-labelledby="about" class="mb-10">
       <h2 id="about" class="text-xl sm:text-2xl font-semibold tracking-tight mb-3">{isRtf(e.categories) ? t('event.section.about.rtf') : t('event.section.about')}</h2>
@@ -347,6 +443,32 @@ const breadcrumbsLd = {
             </li>
           ))}
         </ul>
+      </section>
+    )}
+
+    {relatedFocus.length > 0 && (
+      <section aria-labelledby="related" class="mb-10">
+        <h2 id="related" class="text-xl sm:text-2xl font-semibold tracking-tight mb-3">
+          {relatedSameCountry
+            ? t('event.related.heading', { sport: sportPlural, country: country.name, year })
+            : t('event.related.heading.any', { sport: sportPlural, year })}
+        </h2>
+        <ul class="grid gap-2 sm:grid-cols-2">
+          {relatedFocus.map((r) => (
+            <li>
+              <a href={`${base}/events/${r.slug}/`}
+                class="flex items-baseline justify-between gap-3 rounded-xl bg-white border border-[var(--color-ink-100)] hover:border-[var(--color-brand-500)] px-4 py-3 transition">
+                <span class="font-medium text-sm leading-snug">{r.name}<span class="block text-xs font-normal text-[var(--color-ink-500)]">{r.location}</span></span>
+                <span class="text-xs text-[var(--color-ink-500)] whitespace-nowrap">{r.confirmed ? formatDateRange(r.start) : t('event.date.tba')}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        {landingUrl && relatedSameCountry && (
+          <a href={landingUrl} class="inline-block mt-3 text-sm text-[var(--color-brand-600)] hover:underline">
+            {t('event.related.all', { sport: sportPlural, country: country.name, year })} →
+          </a>
+        )}
       </section>
     )}
 

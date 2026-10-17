@@ -14,6 +14,46 @@ templatisierter Seiten auf einer jungen, backlink-losen Domain.**
 aber jede Seite muss **Qualität und Tiefe** haben — indexwürdig statt austauschbar. Seit 2026-09-24
 gibt es kein Mengen-Limit pro Lauf mehr; die Bremse ist das Qualitäts-Gate (siehe „Neuanlagen").
 
+## Fokus-Set: die 150 indexierbaren Seiten (seit 2026-10-17 — höchste Priorität)
+
+Seit 2026-10-17 ist **nur noch ein kleines Fokus-Set von Event-Seiten indexierbar** (`robots: index`
++ Sitemap). Alle anderen Event-Seiten sind `noindex, follow` — sie bleiben online und verlinkt,
+zählen aber nicht in Googles Qualitätsurteil über die Site. Landingpages sind nur indexierbar, wenn
+sie ≥ 3 Fokus-Events enthalten. Hintergrund: Google hatte am 01.06.2026 die komplette Subdomain
+auf 0 indexierte Seiten gesetzt (Startseite inklusive „Gecrawlt – nicht indexiert"); Bing indexiert
+parallel ~7.000 Seiten. Der Weg zurück führt über wenige, dichte, DE/AT-fokussierte Seiten.
+
+- **Liste:** `src/data/index-focus.json` (Slugs, Stand, Verteilung nach Land). **Nicht von Hand
+  editieren**, sondern mit `node scripts/select-index-focus.mjs` neu erzeugen. Das Script ist
+  *sticky*: bestehende Einträge bleiben, bis sie vergangen oder gelöscht sind; frei gewordene Plätze
+  werden mit den bestpunktierten Kandidaten aufgefüllt (DE/AT bekommen +30 Bonus, Events mit Start
+  in < 60 Tagen −20). `--dry-run` zeigt die Tabelle, `--report` die Score-Begründung je Slug,
+  `--rebuild` ignoriert die bestehende Liste (nur bewusst einsetzen, Churn ist selbst ein Signal).
+- **Limit 150 bleibt, bis Google Seiten aus dem Set indexiert.** Erst wenn Search Console für das
+  Set „Indexiert" meldet (User prüft), wird `--limit` schrittweise erhöht (z. B. +50). Nicht
+  eigenmächtig erhöhen.
+- **Enrichment-Reihenfolge pro Lauf (ersetzt die alte Reihenfolge, s. u.):**
+  1. **Fokus-Events zuerst.** `node scripts/select-index-focus.mjs --report` ausführen; die
+     Einträge am Tabellenende („weakest in set") und alle Fokus-Events ohne die neuen Tiefenfelder
+     zuerst anfassen. Ziel je Fokus-Seite: Beschreibung ≥ 120 Wörter mit Streckencharakter, Historie,
+     Anmelde-Besonderheiten **und** so viele der Tiefenfelder wie offiziell belegbar:
+     `distances` (alle Strecken mit km, Höhenmeter, bei Triathlon `split`), `entryFee` (so wie der
+     Veranstalter es schreibt, inkl. Staffelung), `registrationDeadline`, `startTime`,
+     `participantLimit`. Ohne offizielle Quelle Feld weglassen — nie schätzen.
+  2. Fokus-Events auf Absage/Terminänderung prüfen (ein Fokus-Platz für ein Phantom ist der
+     teuerste Fehler). Abgesagt → Datei entfernen oder `confirmed:false`, BLACKLIST, Script neu
+     laufen lassen, damit der Platz nachbesetzt wird.
+  3. Erst danach Nicht-Fokus-Events anreichern und neue Events anlegen.
+- **Mindestens 15 Fokus-Events pro Lauf vertiefen** (Tiefenfelder + Beschreibung). Das ist das
+  Hauptziel jedes Laufs, Neuanlagen sind nachrangig.
+- **Neue starke DE/AT-Events** (Klassiker, Ironman/Challenge, große Radmarathons) werden nur dann
+  Teil des Sets, wenn ein Platz frei wird oder das Limit steigt; das entscheidet das Script.
+- Nach jedem Lauf: `node scripts/select-index-focus.mjs` (ohne Flags) ausführen und die
+  aktualisierte JSON mit committen. Die Zusammenfassung (kept/added/dropped, Länderverteilung,
+  „weakest in set") in `progress.md` → STATE → FOKUS übernehmen.
+- Startseite und Event-Detailseiten verlinken automatisch in das Set („Weitere Rennen …");
+  Verlinkung nicht manuell nachbauen.
+
 ## Saisonen: 2026 auslaufend, 2027 Zielsaison (seit 2026-09-16)
 
 Die Site führt mehrere Saisonen parallel (`SEASONS` in `src/lib/types.ts`, UI-Toggle im Filter,
@@ -49,10 +89,12 @@ eigene JSON-Datei** mit Jahres-Suffix (`<slug>-2026.json`, `<slug>-2027.json`).
   templatisierten Stub-Seiten, keine Massen-Merges aus Aggregator-Daten ohne Einzelprüfung. Kandidaten,
   die in diesem Lauf nicht sauber recherchiert werden können, in `progress.md` als BACKLOG notieren.
 - **Reihenfolge pro Lauf:**
-  1. Vorhandene künftige Events **vervollständigen** (fehlende `distanceKm`, `elevationGainM`,
+  1. **Fokus-Set vertiefen** (siehe Abschnitt „Fokus-Set" oben) — Tiefenfelder + Beschreibung für
+     mindestens 15 Fokus-Events.
+  2. Übrige künftige Events **vervollständigen** (fehlende `distanceKm`, `elevationGainM`,
      `imageUrl`, dünne Beschreibungen verbessern).
-  2. Datenfehler/Dubletten fixen, unverifizierbare Events entfernen.
-  3. Neue, gut recherchierte Events anlegen (Zielsaison 2027, siehe oben).
+  3. Datenfehler/Dubletten fixen, unverifizierbare Events entfernen.
+  4. Neue, gut recherchierte Events anlegen (Zielsaison 2027, siehe oben).
 
 ## Detailseiten-Content (gegen "Gecrawlt – nicht indexiert")
 
@@ -66,6 +108,13 @@ Dünne, austauschbare Seiten indexiert Google nicht. Jede Event-Detailseite muss
 - **Strukturfelder füllen:** `distanceKm` und `elevationGainM` wo aus offizieller Quelle belegbar
   (Rad + Zeitfahren; bei Triathlon Distanzsumme sinnvoll). Nur weglassen wenn keine belegbare Quelle
   (siehe Quellen-Regeln in CLAUDE.md — kein prommer.net, kein Raten).
+- **Tiefenfelder (seit 2026-10-17, Schema in `src/content.config.ts`, Beispiel in `_template.json`):**
+  `distances[]` (`name`, `km`, optional `elevationGainM`, bei Triathlon `split` wie
+  „1,9 km / 90 km / 21,1 km"), `entryFee` (Freitext wie vom Veranstalter, z. B. „ab 89 €" oder
+  „45–65 €"), `registrationDeadline` (ISO-Datum), `startTime` („HH:MM" des ersten Starts),
+  `participantLimit` (Zahl). Sie erscheinen als Eckdaten + Streckentabelle auf der Detailseite und
+  fließen ins `SportsEvent`-JSON-LD (`offers.price`, `validThrough`, `maximumAttendeeCapacity`).
+  Pflicht-Ziel für Fokus-Events, willkommen für alle anderen.
 - **Ziel je Lauf:** mindestens 20 künftige Events inhaltlich anreichern (Felder + Beschreibung),
   auch wenn keine neuen dazukommen.
 
@@ -131,7 +180,9 @@ inhaltlich nötig, nicht spekulativ.
 
 ## SEO / Sitemap — jeden Lauf prüfen
 
-- `sitemap` (`@astrojs/sitemap`) baut korrekt, enthält alle **indexierbaren** URLs, keine noindex-URLs.
+- `sitemap` (`@astrojs/sitemap`) baut korrekt, enthält **nur** Startseite, Formulare, die Fokus-Events
+  und Landingpages mit ≥ 3 Fokus-Events (Stand 10-17: 157 URLs). Keine noindex-URLs. Nach dem Build
+  `grep -c '/events/' dist/sitemap-0.xml` muss der Fokus-Zahl entsprechen.
 - Landingpages sind pro Jahr (`/radrennen/oesterreich/2027`) und entstehen ab 3 Events je
   Sport × Land × Jahr automatisch — kein manuelles Anlegen nötig.
 - JSON-LD aktuell: `SportsEvent` auf Detailseiten (Datum, Ort, Geo, Offers), `ItemList`/`Breadcrumb`

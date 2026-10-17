@@ -5,6 +5,19 @@
 > Kompaktes Gedächtnis zwischen den Läufen. Immer aktuell halten. Details der letzten
 > 3 Sessions stehen darunter; alles Ältere liegt in `progress-archive.md`.
 
+### FOKUS — 150 indexierbare Seiten (seit 2026-10-17, höchste Priorität)
+- Nur `src/data/index-focus.json` ist indexierbar (150 Events: DE 88, AT 59, ES 3) + 4 Landingpages
+  (Radrennen/Triathlon × DE/AT 2027). Alle anderen Event-Seiten `noindex, follow`. Sitemap: 157 URLs.
+- Pro Lauf: `node scripts/select-index-focus.mjs --report` → mind. 15 Fokus-Events mit Tiefenfeldern
+  (`distances`, `entryFee`, `registrationDeadline`, `startTime`, `participantLimit`) + Beschreibung
+  ≥ 120 Wörter vertiefen. Am Ende Script ohne Flags laufen lassen, JSON mit committen.
+- Limit 150 **nicht** erhöhen, bis der User meldet, dass Google Seiten aus dem Set indexiert.
+- Stand 10-17: 0 Fokus-Events haben bereits Tiefenfelder (Felder sind neu). Schwächste im Set
+  (zuerst): ith-hennesee-triathlon-meschede-2027, koberbachtal-triathlon-werdau-2027,
+  muenster-city-triathlon-2027, scharmuetzelsee-triathlon-bad-saarow-2027, waltriathlon-brunsbuettel-2027,
+  woerthersee-gravel-race-2027, bike-the-lies-2027, ironman-703-alcudia-mallorca-2027,
+  pirker-grenzerfahrung-2027, ruegen-rund-tour-2027.
+
 ### Saison-Modus (seit 2026-09-16)
 - **Zielsaison für Neuanlagen: 2027.** UI-Default 2027 (Toggle im Filter, localStorage + `?saison=`).
 - Pro Ausgabe eigene Datei (`<slug>-2027.json`); 2026-Dateien nie umdatieren. Details: `routine-prompt.md` → „Saisonen".

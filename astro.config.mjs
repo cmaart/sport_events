@@ -32,6 +32,36 @@ function pastEventSlugs() {
 }
 const PAST_EVENT_SLUGS = pastEventSlugs();
 
+// Index focus set (see scripts/select-index-focus.mjs): only these event pages
+// are indexable, and a landing page is indexable only when it holds at least
+// MIN_FOCUS_PER_LANDING of them. Mirrors src/lib/focus.ts for the sitemap.
+const FOCUS = JSON.parse(fs.readFileSync(path.resolve('src/data/index-focus.json'), 'utf8'));
+const FOCUS_SLUGS = new Set(FOCUS.slugs);
+const MIN_FOCUS_PER_LANDING = 3;
+/** @type {Record<string, string>} */
+const SPORT_SLUGS = { cycling: 'radrennen', triathlon: 'triathlon' };
+function landingFocusCounts() {
+  const dir = path.resolve('src/content/events');
+  /** @type {Record<string, string>} */
+  const countrySlugs = JSON.parse(fs.readFileSync(path.resolve('src/data/country-slugs.json'), 'utf8'));
+  const counts = new Map();
+  for (const file of fs.readdirSync(dir)) {
+    if (!file.endsWith('.json') || file.startsWith('_')) continue;
+    const slug = file.replace(/\.json$/, '');
+    if (!FOCUS_SLUGS.has(slug)) continue;
+    try {
+      const d = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
+      const year = new Date(d.dates.start).getFullYear();
+      const key = `/${SPORT_SLUGS[d.sport]}/${countrySlugs[d.country]}/${year}/`;
+      counts.set(key, (counts.get(key) ?? 0) + 1);
+    } catch {
+      // invalid files fail the build elsewhere
+    }
+  }
+  return counts;
+}
+const LANDING_FOCUS = landingFocusCounts();
+
 // Last commit date per event slug, derived from git history in one pass. Used
 // as sitemap <lastmod> so it only moves when an event actually changed —
 // a build-time stamp on every URL is a signal Google learns to ignore.
@@ -76,8 +106,12 @@ export default defineConfig({
     preact(),
     sitemap({
       filter: (page) => {
-        const m = page.match(/\/events\/([^/]+)\/?$/);
-        return !(m && PAST_EVENT_SLUGS.has(m[1]));
+        const pathname = new URL(page).pathname;
+        const m = pathname.match(/^\/events\/([^/]+)\/?$/);
+        if (m) return FOCUS_SLUGS.has(m[1]) && !PAST_EVENT_SLUGS.has(m[1]);
+        const l = pathname.match(/^\/(radrennen|triathlon)\/[^/]+\/\d{4}\/$/);
+        if (l) return (LANDING_FOCUS.get(pathname) ?? 0) >= MIN_FOCUS_PER_LANDING;
+        return true;
       },
       // @ts-expect-error changefreq string literals cause a union-type mismatch in @astrojs/sitemap typings
       serialize(item) {

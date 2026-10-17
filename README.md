@@ -76,6 +76,8 @@ Jedes Event ist eine eigene JSON-Datei unter `src/content/events/`.
 - **`country`**: `AT` oder `DE` (Pflichtfeld)
 - **`location.region`** (optional, nur für AT-Bundesländer): `Wien`, `Niederösterreich`, `Oberösterreich`, `Salzburg`, `Steiermark`, `Kärnten`, `Tirol`, `Vorarlberg`, `Burgenland`. Für DE-Events weglassen.
 - **`dates.confirmed`**: `false` setzen, wenn der genaue Termin der Saison noch nicht offiziell bestätigt ist. Die Karte/Liste zeigt dann „Datum noch offen“ statt des Datums.
+- **`distances`** (optional): Liste aller Strecken mit `name`, `km`, optional `elevationGainM` und bei Triathlon `split` (z. B. „1,9 km / 90 km / 21,1 km"). Wird als Streckentabelle gerendert.
+- **`entryFee`**, **`registrationDeadline`**, **`startTime`**, **`participantLimit`** (optional): Startgeld als Freitext wie vom Veranstalter („ab 89 €"), Anmeldeschluss als ISO-Datum, erster Start als „HH:MM", Startplatzlimit als Zahl. Nur aus der offiziellen Quelle übernehmen, sonst weglassen.
 - **`imageUrl`** (optional): URL eines Hero-Bilds vom Veranstalter, das beim Teilen der Event-Detailseite auf WhatsApp, LinkedIn oder Facebook als Preview angezeigt wird. Empfehlung: mindestens 1200×630 px im Seitenverhältnis 1.91:1 (16:9 wie 1920×1080 wird ebenfalls sauber gecroppt). Bei Hotlink-Sperre des Veranstalters oder schlechter Bildqualität das Feld besser weglassen — dann wird das Default-OG-Bild der Seite verwendet.
 
 ## Saisonen
