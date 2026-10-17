@@ -18,7 +18,12 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://rfv-weibern.at/bike-the-lies/",
-  "description": "Bike the Lies ist ein Einzelzeitfahren auf dem Haager Lies Radweg in Oberösterreich und wird 2027 am 30. Mai ab 10:00 Uhr ausgetragen. Die 21,8 Kilometer lange Strecke verläuft auf einer ehemaligen Bahntrasse zwischen Neukirchen bei Lambach und Haag am Hausruck und ist für das Rennen komplett gesperrt. Mit rund 240 Höhenmetern steigt der Kurs gleichmäßig an – ideal für Fahrer, die eine konstante Leistung über gut eine halbe Stunde halten können. Neben der Einzelwertung gibt es eine Teamwertung für Dreier-Mannschaften. Veranstalter ist der RFV Weibern; das Zeitfahren ist in den oberösterreichischen ZeitFahr-Cup eingebunden.",
+  "description": "Bike the Lies ist ein Einzelzeitfahren auf dem Haager Lies Radweg in Oberösterreich und wird 2027 am 30. Mai ab 10:00 Uhr ausgetragen. Die 21,8 Kilometer lange Strecke verläuft auf einer ehemaligen Bahntrasse zwischen Neukirchen bei Lambach und Haag am Hausruck und ist für das Rennen komplett gesperrt. Gestartet wird in den Klassen Rennrad, Zeitfahrrad und Vintage sowie in einer Teamwertung für Dreier-Mannschaften. Das Nenngeld beginnt bei 44 Euro für Einzelstarter und bei 114 Euro für Teams und steigt mit der Zahl der Anmeldungen. Die Startnummernausgabe ist am Samstag von 18 bis 20 Uhr beim Sportzentrum Weibern und am Sonntag ab 7:30 Uhr direkt beim Start am Bahnhof Neukirchen. Veranstalter ist der RFV Weibern; das Zeitfahren ist in den oberösterreichischen ZeitFahr-Cup eingebunden.",
   "distanceKm": 22,
-  "elevationGainM": 240
+  "elevationGainM": 240,
+  "distances": [
+    { "name": "Einzelzeitfahren", "km": 21.8 }
+  ],
+  "entryFee": "Einzel ab 44 €, Team ab 114 €",
+  "startTime": "10:00"
 }

@@ -18,7 +18,19 @@
     "region": "Sachsen"
   },
   "websiteUrl": "http://grenzerfahrung.vcc-pirk.de/",
-  "description": "Die nächste Pirker GRENZErfahrung des VC Concordia Pirk findet am Sonntag, 8. August 2027 statt. Die Radmarathonstrecke führt über rund 205 Kilometer und 3.050 Höhenmeter durch den Oberpfälzer Wald entlang der tschechischen Grenze und gehört zu den anspruchsvollsten Radmarathons Bayerns. Daneben gibt es RTF-Strecken zwischen 45 und 175 Kilometern, eine CTF-Runde für Mountainbikes und ein Volksradfahren für Familien. Die 1998 gestartete Veranstaltung zieht inzwischen 1.000 bis 1.500 Teilnehmende an und war zuletzt Teil des Radmarathon-Cups Deutschland. Start und Ziel liegen in Pirk bei Weiden.",
+  "description": "Die nächste Pirker GRENZErfahrung des VC Concordia Pirk findet am Sonntag, 8. August 2027 statt. Die Radmarathonstrecke führt über 205 Kilometer und 3.150 Höhenmeter durch die hügelige Landschaft der nördlichen Oberpfalz und des West-Böhmerwaldes; ein rund 60 Kilometer langer Abschnitt verläuft durch Tschechien, höchster Punkt ist die Silberhütte auf 816 Metern. Daneben gibt es RTF-Strecken über 175, 155, 125, 80 und 45 Kilometer, eine 55 Kilometer lange CTF-Runde für Mountainbikes, eine 65 Kilometer lange Gravelrunde ohne Ausschilderung sowie ein 20 Kilometer langes Volksradfahren für Familien. Die Marathonstrecke hat fünf Kontroll- und Verpflegungsstellen, die Startzeiten liegen je nach Distanz zwischen 7:00 und 11:00 Uhr. Start und Ziel sind an der Josef-Faltenbacher-Schule in Pirk bei Weiden. Die 1998 gestartete Veranstaltung zählte zuletzt 1.250 Teilnehmende und gehört seit 2018 zum Radmarathon-Cup Deutschland.",
   "distanceKm": 205,
-  "elevationGainM": 3050
+  "elevationGainM": 3150,
+  "distances": [
+    { "name": "Radmarathon", "km": 205, "elevationGainM": 3150 },
+    { "name": "RTF 175 km", "km": 175, "elevationGainM": 2600 },
+    { "name": "RTF 155 km", "km": 155, "elevationGainM": 2300 },
+    { "name": "RTF 125 km", "km": 125, "elevationGainM": 1800 },
+    { "name": "RTF 80 km", "km": 80, "elevationGainM": 800 },
+    { "name": "RTF 45 km", "km": 45, "elevationGainM": 320 },
+    { "name": "CTF 55 km (MTB)", "km": 55, "elevationGainM": 550 },
+    { "name": "Gravel 65 km", "km": 65, "elevationGainM": 800 },
+    { "name": "Volksradfahren 20 km", "km": 20 }
+  ],
+  "startTime": "07:00"
 }

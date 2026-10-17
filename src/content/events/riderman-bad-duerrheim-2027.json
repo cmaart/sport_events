@@ -20,7 +20,24 @@
   "websiteUrl": "https://www.riderman.de/",
   "registrationUrl": "https://www.riderman.de/anmeldung/",
   "imageUrl": "https://www.riderman.de/wp-content/uploads/2026/08/rm_strecke_bonndorf_gruppe_vonhinten_1x1_-freuleingraf-01121-1920w-1920x1125.webp",
-  "description": "Der RiderMan in Bad Dürrheim ist ein Jedermann-Etappenrennen über drei Tage im südöstlichen Schwarzwald, bei dem Amateure vom 3. bis 5. September 2027 „wie die Profis\" auf vollständig gesperrten Straßen fahren. Den Auftakt macht am Freitag ein Einzelzeitfahren über 16,1 km (226 Hm), am Samstag folgt die lange Bergetappe über 112,9 km (1.520 Hm) und am Sonntag die Schlussetappe über 95,0 km (1.239 Hm). Gewertet wird eine Gesamtzeit über alle drei Etappen – ein echtes Rundfahrt-Format für Hobbyfahrer:innen. Die kupierten Strecken führen durch die bewaldeten Höhenzüge der Baar und rund um Bonndorf. In Summe warten rund 224 km und knapp 3.000 Höhenmeter; die Anmeldung läuft über riderman.de.",
+  "description": "Der RiderMan in Bad Dürrheim ist ein Jedermann-Etappenrennen über drei Tage im südöstlichen Schwarzwald, bei dem Amateure vom 3. bis 5. September 2027 „wie die Profis\" auf vollständig gesperrten Straßen fahren. Den Auftakt macht am Freitag ein Einzelzeitfahren über 16,1 km (226 Hm), am Samstag folgt die lange Bergetappe über 112,9 km (1.520 Hm) und am Sonntag die Schlussetappe über 95,0 km (1.239 Hm). Gewertet wird eine Gesamtzeit über alle drei Etappen – ein echtes Rundfahrt-Format für Hobbyfahrer:innen. Die kupierten Strecken führen durch die bewaldeten Höhenzüge der Baar und rund um Bonndorf. Die Bergetappe am Samstag gilt als Königsetappe des Wochenendes und ist zugleich die längste und höhenmeterreichste der drei Etappen. In Summe warten rund 224 km und knapp 3.000 Höhenmeter; die Anmeldung läuft über riderman.de.",
+  "distances": [
+    {
+      "name": "Einzelzeitfahren",
+      "km": 16.1,
+      "elevationGainM": 226
+    },
+    {
+      "name": "Bergetappe",
+      "km": 112.9,
+      "elevationGainM": 1520
+    },
+    {
+      "name": "Schlussetappe",
+      "km": 95,
+      "elevationGainM": 1239
+    }
+  ],
   "distanceKm": 224,
   "elevationGainM": 2985
 }

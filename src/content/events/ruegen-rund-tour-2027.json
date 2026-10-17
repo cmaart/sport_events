@@ -17,8 +17,12 @@
     "lng": 13.6828,
     "region": "Mecklenburg-Vorpommern"
   },
-  "websiteUrl": "https://ketterechts.eu",
-  "description": "Die 5. Rügen Rund Tour findet am Samstag, 5. Juni 2027 mit Start und Ziel in Sellin auf Rügen statt. Die Tour bietet zwei Distanzen: die vollständige Inselumrundung über rund 244 Kilometer mit gut 1.000 Höhenmetern und eine kürzere Runde über rund 86 Kilometer. Die Strecken führen über die Halbinseln, Bodden und Alleen der größten deutschen Insel. Wer die lange Runde im Zeitlimit schafft, erhält eine Finishermedaille. Veranstalter ist das Team von Kette Rechts, das im Oktober auch die Tour d'Allée auf Rügen ausrichtet.",
+  "websiteUrl": "https://ketterechts.eu/etn/5-ruegen-rund-tour-2027/",
+  "description": "Die 5. Rügen Rund Tour findet am Samstag, 5. Juni 2027 mit Start und Ziel in Sellin auf Rügen statt. Laut Veranstalter stehen voraussichtlich wieder zwei Strecken zur Auswahl: eine vollständige Inselumrundung über rund 244 Kilometer und eine kürzere Runde über rund 87 Kilometer. Die Strecken führen über die Halbinseln, Bodden und Alleen der größten deutschen Insel. Wer die lange Runde innerhalb des Zeitlimits beendet, erhält eine Finishermedaille. Die Anmeldung für die Ausgabe 2027 ist zum jetzigen Zeitpunkt noch nicht geöffnet und wird vom Veranstalter nachgereicht. Ausgerichtet wird die Tour vom Team von Kette Rechts rund um Olaf Ludwig, das im Oktober auf Rügen auch die Tour d'Allée veranstaltet. Sellin ist über die Bäderbahn und die Ostseebäder der Halbinsel Mönchgut gut erreichbar.",
   "distanceKm": 244,
-  "elevationGainM": 1050
+  "elevationGainM": 1050,
+  "distances": [
+    { "name": "Inselumrundung", "km": 244 },
+    { "name": "Kurze Runde", "km": 87 }
+  ]
 }
