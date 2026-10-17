@@ -7,7 +7,11 @@
       "Read(//c/dev/privat/endure-website/**)",
       "Bash(npm run *)",
       "mcp__kapture__list_tabs",
-      "mcp__kapture__new_tab"
+      "mcp__kapture__new_tab",
+      "Bash(mkdir -p \"C:/Users/cmarti/.claude/skills\")",
+      "Bash(mv .claude/skills/seo-geo-aeo \"C:/Users/cmarti/.claude/skills/\")",
+      "Bash(rmdir .claude/skills)",
+      "Read(//c/Users/cmarti/.claude/skills/**)"
     ]
   }
 }

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "google-search": {
+      "command": "node",
+      "args": ["C:/Users/cmarti/.mcp/google-search-mcp/node_modules/@mcp-server/google-search-mcp/dist/index.js"]
+    },
+    "search-console": {
+      "command": "node",
+      "args": ["C:/Users/cmarti/.mcp/search-console-mcp/node_modules/search-console-mcp/dist/index.js"]
+    }
+  }
+}
