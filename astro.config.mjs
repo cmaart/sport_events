@@ -91,6 +91,13 @@ function eventLastModMap() {
   return map;
 }
 const EVENT_LASTMOD = eventLastModMap();
+// The detail page prints "Stand <Datum>" per event. Persist the map so the
+// page can read it at build time without running git once per page.
+fs.mkdirSync(path.resolve('.astro'), { recursive: true });
+fs.writeFileSync(
+  path.resolve('.astro/event-lastmod.json'),
+  JSON.stringify(Object.fromEntries([...EVENT_LASTMOD].map(([k, v]) => [k, v.toISOString().slice(0, 10)]))),
+);
 const LATEST_EVENT_CHANGE = [...EVENT_LASTMOD.values()].sort((a, b) => b - a)[0];
 
 export default defineConfig({

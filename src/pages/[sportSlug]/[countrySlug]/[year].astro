@@ -9,6 +9,7 @@ import { seasonOf } from '../../../lib/types';
 import { buildLandingIntro } from '../../../lib/landing-intro';
 import { buildLandingGuide } from '../../../lib/landing-guide';
 import type { EventData } from '../../../lib/filters';
+import { formatShortDate, formatDate } from '../../../lib/i18n';
 import { FOCUS_SLUGS, MIN_FOCUS_PER_LANDING } from '../../../lib/focus';
 
 export async function getStaticPaths() {
@@ -56,6 +57,30 @@ const events: EventData[] = entries
     elevationGainM: entry.data.elevationGainM,
   }))
   .sort((a, b) => +new Date(a.dates.start) - +new Date(b.dates.start));
+
+// Comparison table rows (all events of the page, one line each). Answer
+// engines resolve "which race in <country> in <month> has the most climbing"
+// from a table like this, not from cards.
+const bySlug = new Map(entries.map((en) => [en.id.replace(/\.json$/, ''), en.data]));
+const tableRows = events.map((ev) => {
+  const d = bySlug.get(ev.slug)!;
+  const longest = d.distances?.length ? d.distances.reduce((a, b) => (b.km > a.km ? b : a)) : undefined;
+  return {
+    slug: ev.slug,
+    name: ev.name,
+    place: ev.location.name,
+    category: ev.categories[0],
+    date: ev.dates.confirmed ? formatShortDate(new Date(ev.dates.start)) : t('event.date.tba'),
+    dateIso: new Date(ev.dates.start).toISOString().slice(0, 10),
+    km: longest?.km ?? ev.distanceKm,
+    hm: longest?.elevationGainM ?? ev.elevationGainM,
+    courses: d.distances?.length ?? 0,
+    fee: d.entryFee,
+    deadline: d.registrationDeadline ? formatDate(new Date(d.registrationDeadline)) : undefined,
+  };
+});
+const tableHasFee = tableRows.some((r) => r.fee);
+const tableHasDeadline = tableRows.some((r) => r.deadline);
 
 // Landing pages stay indexable only when they carry enough focus events;
 // otherwise they are crawl paths (noindex,follow). See src/lib/focus.ts.
@@ -204,6 +229,47 @@ const breadcrumbsLd = {
       </div>
     ))}
   </section>
+
+  {tableRows.length > 0 && (
+    <section class="border-t border-[var(--color-ink-100)]">
+      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 sm:py-12">
+        <h2 class="text-xl sm:text-2xl font-semibold tracking-tight mb-2">{t('landing.table.heading', { title: h1 })}</h2>
+        <p class="text-sm text-[var(--color-ink-700)] max-w-prose mb-5">{t('landing.table.intro')}</p>
+        <div class="overflow-x-auto rounded-xl border border-[var(--color-ink-100)] bg-white">
+          <table class="w-full text-sm">
+            <thead class="text-xs uppercase tracking-wide text-[var(--color-ink-500)] bg-[var(--color-surface)]">
+              <tr>
+                <th scope="col" class="text-left font-medium px-3 py-2.5 whitespace-nowrap">{t('landing.table.date')}</th>
+                <th scope="col" class="text-left font-medium px-3 py-2.5">{t('landing.table.event')}</th>
+                <th scope="col" class="text-left font-medium px-3 py-2.5">{t('landing.table.place')}</th>
+                <th scope="col" class="text-left font-medium px-3 py-2.5">{t('landing.table.category')}</th>
+                <th scope="col" class="text-right font-medium px-3 py-2.5">{t('landing.table.km')}</th>
+                <th scope="col" class="text-right font-medium px-3 py-2.5">{t('landing.table.hm')}</th>
+                {tableHasFee && <th scope="col" class="text-left font-medium px-3 py-2.5">{t('landing.table.fee')}</th>}
+                {tableHasDeadline && <th scope="col" class="text-left font-medium px-3 py-2.5">{t('landing.table.deadline')}</th>}
+              </tr>
+            </thead>
+            <tbody>
+              {tableRows.map((r) => (
+                <tr class="border-t border-[var(--color-ink-100)]">
+                  <td class="px-3 py-2 whitespace-nowrap tabular-nums"><time datetime={r.dateIso}>{r.date}</time></td>
+                  <th scope="row" class="text-left font-semibold px-3 py-2">
+                    <a href={`${base}/events/${r.slug}/`} class="hover:text-[var(--color-brand-600)] hover:underline">{r.name}</a>
+                  </th>
+                  <td class="px-3 py-2 text-[var(--color-ink-700)]">{r.place}</td>
+                  <td class="px-3 py-2 text-[var(--color-ink-700)]">{r.category}</td>
+                  <td class="px-3 py-2 text-right tabular-nums">{r.km ? r.km.toLocaleString('de-DE') : ''}{r.courses > 1 ? <span class="text-xs text-[var(--color-ink-500)]"> ({r.courses})</span> : null}</td>
+                  <td class="px-3 py-2 text-right tabular-nums">{r.hm ? r.hm.toLocaleString('de-DE') : ''}</td>
+                  {tableHasFee && <td class="px-3 py-2 text-[var(--color-ink-700)] whitespace-nowrap">{r.fee ?? ''}</td>}
+                  {tableHasDeadline && <td class="px-3 py-2 text-[var(--color-ink-700)] whitespace-nowrap">{r.deadline ?? ''}</td>}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  )}
 
   {guide.sections.length > 0 && (
     <section class="border-t border-[var(--color-ink-100)] bg-[var(--color-surface)]">

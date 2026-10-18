@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://events.endure-cycling.com/sitemap-index.xml
+# LLM-oriented site brief: https://events.endure-cycling.com/llms.txt

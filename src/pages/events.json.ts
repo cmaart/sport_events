@@ -30,6 +30,11 @@ export const GET: APIRoute = async () => {
     description: entry.data.description,
     distanceKm: entry.data.distanceKm,
     elevationGainM: entry.data.elevationGainM,
+    distances: entry.data.distances,
+    entryFee: entry.data.entryFee,
+    registrationDeadline: entry.data.registrationDeadline?.toISOString().slice(0, 10),
+    startTime: entry.data.startTime,
+    participantLimit: entry.data.participantLimit,
   }));
   return new Response(JSON.stringify(events), {
     headers: { 'Content-Type': 'application/json; charset=utf-8' },

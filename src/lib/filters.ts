@@ -15,6 +15,12 @@ export interface EventData {
   description: string;
   distanceKm?: number;
   elevationGainM?: number;
+  distances?: { name: string; km: number; elevationGainM?: number; split?: string }[];
+  entryFee?: string;
+  /** ISO date (YYYY-MM-DD). */
+  registrationDeadline?: string;
+  startTime?: string;
+  participantLimit?: number;
 }
 
 export interface Filters {

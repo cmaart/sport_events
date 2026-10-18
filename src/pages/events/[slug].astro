@@ -8,6 +8,8 @@ import { formatDateRange, t } from '../../lib/i18n';
 import { COUNTRY_LABELS, isRtf, seasonOf } from '../../lib/types';
 import { collectLandingPaths, landingHref } from '../../lib/landing';
 import { isFocus, FOCUS_SLUGS } from '../../lib/focus';
+import { buildEventFacts } from '../../lib/event-facts';
+import fs from 'node:fs';
 
 export async function getStaticPaths() {
   const entries = await getCollection('events');
@@ -36,6 +38,26 @@ const isPast = e.dates.confirmed && (end ?? start) < today;
 const inFocus = isFocus(slug);
 const noindex = isPast || !inFocus;
 const deadlineLabel = e.registrationDeadline ? formatDateRange(new Date(e.registrationDeadline)) : undefined;
+
+// Last content change of this event (written by astro.config.mjs from git
+// history). Falls back to the build date in a shallow checkout.
+const lastModMap: Record<string, string> = (() => {
+  try {
+    return JSON.parse(fs.readFileSync('.astro/event-lastmod.json', 'utf8'));
+  } catch {
+    return {};
+  }
+})();
+const lastModified = lastModMap[slug] ? new Date(lastModMap[slug]) : new Date();
+const facts = buildEventFacts(
+  {
+    ...e,
+    dates: { start, end, confirmed: e.dates.confirmed },
+    registrationDeadline: e.registrationDeadline ? new Date(e.registrationDeadline) : undefined,
+  },
+  lastModified,
+  year,
+);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const mapUrl = `https://www.google.com/maps/search/?api=1&query=${e.location.lat},${e.location.lng}`;
 // Organiser hero images are hotlinked originals (often 0.5–1 MB, 1920px+). Serve
@@ -146,6 +168,7 @@ if (offerUrl) {
   }
 }
 if (e.participantLimit) sportsEventLd.maximumAttendeeCapacity = e.participantLimit;
+sportsEventLd.dateModified = lastModified.toISOString().slice(0, 10);
 if (e.startTime && e.dates.confirmed) sportsEventLd.doorTime = `${startIso}T${e.startTime}:00`;
 
 // Landing page for this sport+country (only exists when the country has
@@ -252,8 +275,15 @@ const breadcrumbsLd = {
     </div>
 
     <h1 class="text-3xl sm:text-4xl font-bold tracking-tight mb-3">{e.name}</h1>
-    <p class="text-lg text-[var(--color-ink-500)] mb-6">
+    <p class="text-lg text-[var(--color-ink-500)] mb-4">
       <span aria-hidden="true">{country.flag}</span> {e.location.name}{e.location.region ? ` · ${e.location.region}` : ''}
+    </p>
+    {/* Quotable facts paragraph: one plain statement of date, place, courses,
+        fee, deadline, limit, plus provenance. This is what answer engines cite. */}
+    <p class="text-[15px] sm:text-base text-[var(--color-ink-900)] leading-relaxed max-w-prose mb-1">{facts.text}</p>
+    <p class="text-xs text-[var(--color-ink-500)] mb-6">
+      {facts.source}
+      <time datetime={lastModified.toISOString().slice(0, 10)} class="sr-only">{lastModified.toISOString().slice(0, 10)}</time>
     </p>
 
     {e.imageUrl && (
