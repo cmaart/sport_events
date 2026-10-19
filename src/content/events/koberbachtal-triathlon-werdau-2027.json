@@ -19,7 +19,24 @@
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.koberbachtal-triathlon.de/",
-  "description": "Der 17. GSYSTEMS-Koberbachtal-Triathlon findet am 4. und 5. Juni 2027 an der Koberbachtalsperre bei Langenhessen westlich von Zwickau statt, ausgerichtet vom SV Sachsen 90 Werdau. Geschwommen wird im Stausee, die Radstrecke ist hügelig und führt durch das westsächsische Umland, die Laufstrecke entlang des steilen Ufers hat teils Cross-Charakter. Angeboten werden ein Sprint (750 m / 20 km / 5 km) und die Olympische Distanz (1,51 km / 36 km / 10 km). Den Koberbachtal-Triathlon gibt es seit 2010; der Verein bietet im Vorfeld auch einen Schwimmlehrgang an. Die Online-Voranmeldung wird auf der offiziellen Seite verlinkt.",
+  "description": "Der 17. GSYSTEMS-Koberbachtal-Triathlon findet am 4. und 5. Juni 2027 an der Koberbachtalsperre bei Langenhessen westlich von Zwickau statt, ausgerichtet vom SV Sachsen 90 Werdau. Geschwommen wird im Stausee, die Radstrecke führt in Runden durch das westsächsische Umland, die Laufstrecke entlang des steilen Ufers hat teils Cross-Charakter. Die Olympische Distanz umfasst 1510 m Schwimmen, 36 km Rad über zwei Runden und 10 km Lauf über zwei Runden zu je 5 km. Das Jedermann-Rennen als Sprint geht über 750 m Schwimmen, 20 km Rad in einer Runde und 5 km Lauf. Daneben gibt es einen Schülertriathlon über 200 m, 3 km und 1 km sowie Kinder-, Mini- und Einsteigerwettbewerbe und ein Meilenschwimmen über 1852 m. Den Koberbachtal-Triathlon gibt es seit 2010. Die Online-Voranmeldung wird auf der offiziellen Seite verlinkt, nur Vorangemeldete zählen für die Meisterschaftswertung.",
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 47.51,
+      "split": "1,51 km / 36 km / 10 km"
+    },
+    {
+      "name": "Jedermann/Sprint",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    },
+    {
+      "name": "Schülertriathlon",
+      "km": 4.2,
+      "split": "0,2 km / 3 km / 1 km"
+    }
+  ],
   "distanceKm": 48,
   "imageUrl": "https://www.koberbachtal-triathlon.de/wp-content/uploads/ogimg.jpg"
 }

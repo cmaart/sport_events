@@ -1,0 +1,31 @@
+{
+  "id": "luschnouar-ironmaennli-2027",
+  "name": "Skinfit Luschnouar Ironmännli Lustenau",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lustenau",
+    "lat": 47.4248,
+    "lng": 9.6563,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.triathlon-vorarlberg.at",
+  "description": "Das Skinfit Luschnouar Ironmännli in Lustenau findet 2027 laut ÖTRV-Kalender am 5. Juni statt. Der Volkstriathlon im Parkbad Lustenau gilt als familiäres Einstiegsrennen: 500 m Schwimmen im Freibad, 18 km Radfahren durch die flache Rheinebene und 4,8 km Laufen. Das Format eignet sich besonders für Newcomer und Schulkinder und wird um Nachwuchsbewerbe ergänzt. Als Abendrennen mit Rahmenprogramm ist der Bewerb fest im Vorarlberger Rheintal verankert. Organisiert wird er im Umfeld des Triathlonverbands Vorarlberg, der die Veranstaltung über seinen Terminkalender ausweist.",
+  "distanceKm": 23.3,
+  "distances": [
+    {
+      "name": "Volkstriathlon",
+      "km": 23.3,
+      "split": "0,5 km / 18 km / 4,8 km"
+    }
+  ],
+  "imageUrl": "https://www.triteam.at/uploads/1/0/1/4/101449128/ironmaennli2014-047_orig.jpg"
+}

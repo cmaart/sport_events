@@ -3,7 +3,6 @@
   "name": "Paradiestriathlon Jena",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -19,8 +18,19 @@
     "region": "Thüringen"
   },
   "websiteUrl": "https://paradiestriathlon.de/",
-  "description": "Der Paradiestriathlon Jena findet 2027 am 26. und 27. Juni statt – erstmals auf zwei Tage verteilt. Das größte Multisport-Event der Saalestadt zieht jedes Jahr über 1.000 Sportlerinnen und Sportler in den Jenaer Paradiespark und besteht seit mehr als 35 Jahren. Angeboten werden Kurz- und Sprintdistanzen für Jung und Alt, Rennen des DTU Jugend Cups sowie das größte Firmenstaffel-Event Mitteldeutschlands. Die Strecken führen durch das Saaletal, gelaufen wird an der Saale. Die Ausgabe 2026 war ausgebucht; die Anmeldung für 2027 öffnet voraussichtlich Anfang Dezember 2026.",
-  "distanceKm": 52,
-  "elevationGainM": 400,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/thuringe/chromecars-paradiestriathlon/jeas7j0iyb4vm5ml0ltv"
+  "description": "Der Paradiestriathlon Jena findet 2027 erstmals an zwei Tagen statt, am 26. und 27. Juni. Als 36. Ausgabe folgt er auf den 35. Paradiestriathlon 2026, der ausgebucht war. Das größte Multisport-Event der Saalestadt zieht jedes Jahr mehr als 1.000 Sportlerinnen und Sportler an. Geschwommen wird im Schleichersee, einem Natursee am Südbad Jena, die Radstrecke verläuft als Wendepunktstrecke auf der asphaltierten Stadtrodaer Straße mit Windschattenverbot, der flache Lauf führt über festen Schotter und gepflasterte Wege im Sportgelände. In den vergangenen Jahren reichte das Programm vom Einsteiger über 0,4 km, 10 km und 2,5 km bis zur Sprintdistanz über 0,75 km, 20 km und 5 km, dazu kamen der DTU Jugend Cup, die Deutsche Meisterschaft im Mixed Team Relay und das große Firmen- und Staffeltriathlon. Die Anmeldung für 2027 öffnet voraussichtlich Anfang Dezember 2026.",
+  "distanceKm": 25.75,
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/thuringe/chromecars-paradiestriathlon/jeas7j0iyb4vm5ml0ltv",
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    },
+    {
+      "name": "Einsteiger",
+      "km": 12.9,
+      "split": "0,4 km / 10 km / 2,5 km"
+    }
+  ]
 }

@@ -19,7 +19,33 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://www.trifunhennesee.de/ith-hennesee-triathlon/",
-  "description": "Der 18. ITH-Hennesee-Triathlon findet am Samstag, 26. Juni 2027 am Hennesee bei Meschede im Sauerland statt. Getragen wird die Veranstaltung vom Trio aus ITH Schraubtechnik, dem Stadtmarketing Meschede und dem ausrichtenden Verein TriFun Hennesee. Auf dem Programm stehen die Olympische Distanz über 1.500 m Schwimmen, 40 km Rad und 10 km Lauf, eine Volksdistanz (500 m / 20 km / 5 km), eine Sprintdistanz mit 200 m Schwimmen sowie Schüler- und Jugendrennen. Geschwommen wird im Stausee am Rand des Naturparks Arnsberger Wald, die Radstrecke ist sauerländisch hügelig. Der Verein richtet außerdem den Hennesee Panoramalauf aus.",
-  "distanceKm": 51,
+  "description": "Der 18. ITH-Hennesee-Triathlon findet am Samstag, 26. Juni 2027 am Hennesee bei Meschede im Sauerland statt. Ausrichter ist der Verein TriFun Hennesee gemeinsam mit ITH Schraubtechnik und dem Stadtmarketing Meschede. Geschwommen wird im Hennestausee am Rand des Naturparks Arnsberger Wald. Die Olympische Distanz umfasst 1500 m Schwimmen, 45 km Rad und 10 km Lauf und startet um 12:00 Uhr, begrenzt auf 120 Starterinnen und Starter. Die Volksdistanz über 500 m, 20 km und 5 km beginnt um 13:00 Uhr, die Anfänger- und Sprintdistanz über 200 m, 20 km und 5 km um 13:05 Uhr. Um 10:45 Uhr startet der Schüler- und Jugendtriathlon über 200 m, 5 km und 1 km. Die Radstrecke ist sauerländisch hügelig. Die Online-Anmeldung läuft bis 16. Juni 2027, das gesamte Teilnehmerfeld ist auf 380 Personen begrenzt. Frühbucher melden bis 30. November 2026 vergünstigt.",
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 56.5,
+      "split": "1,5 km / 45 km / 10 km"
+    },
+    {
+      "name": "Volksdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    },
+    {
+      "name": "Anfänger-/Sprintdistanz",
+      "km": 25.2,
+      "split": "0,2 km / 20 km / 5 km"
+    },
+    {
+      "name": "Schüler-/Jugendtriathlon",
+      "km": 6.2,
+      "split": "0,2 km / 5 km / 1 km"
+    }
+  ],
+  "entryFee": "Olympische Distanz 50/55 €, Volksdistanz 36/41 €, Sprint 31/36 €, Schüler/Jugend 10/12 € (Frühbucher bis 30.11.2026 / danach)",
+  "registrationDeadline": "2027-06-16",
+  "startTime": "10:45",
+  "participantLimit": 380,
+  "distanceKm": 56.5,
   "imageUrl": "https://dam.destination.one/3448680/929f36d360019bebdd0f1667e0797705e5ed1280985f92e30516270171ce86ef/2025_triathlon_003-jpg.jpg"
 }

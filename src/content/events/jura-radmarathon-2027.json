@@ -19,7 +19,60 @@
   },
   "websiteUrl": "https://www.dreilaenderbike.de/events/jura-radmarathon/",
   "imageUrl": "https://www.dreilaenderbike.de/cms/upload/events/Lupburg/P1180675.jpeg",
-  "description": "Der Jura-Radmarathon findet am Sonntag, 20. Juni 2027 in Lupburg im Oberpfälzer Jura statt. Veranstalter ist der SV Lupburg, der die Traditionsveranstaltung seit über 25 Jahren ausrichtet. Angeboten werden Rennradstrecken über 30, 80, 118, 156 und 206 Kilometer mit bis zu rund 3.500 Höhenmetern sowie MTB- und Gravel-Routen. Die Strecken führen durch die Kuppenlandschaft des Landkreises Neumarkt und angrenzende Juradörfer. Die Anmeldung für 2027 startet am 1. März 2027; 2026 war die Veranstaltung ausgebucht.",
+  "description": "Der Jura-Radmarathon findet am Sonntag, 20. Juni 2027 in Lupburg im Oberpfälzer Jura statt und wird vom SV Lupburg ausgerichtet. Angeboten werden fünf leistungsabgestufte Rennradstrecken über 30, 80, 118, 156 und 206 Kilometer, eine Gravelstrecke über 90 Kilometer mit 1.180 Höhenmetern sowie fünf Mountainbikerouten über 30 Kilometer (500 Höhenmeter), 45 Kilometer (800 Höhenmeter), 56 Kilometer (1.100 Höhenmeter), 75 Kilometer (1.300 Höhenmeter) und 94 Kilometer (1.700 Höhenmeter). Die Strecken führen durch die Kuppenlandschaft des Landkreises Neumarkt und angrenzende Juradörfer. Das offizielle Teilnehmerlimit beträgt 1.500 Einzelfahrer; der Zielkontrollschluss ist um 18:00 Uhr. Die Anmeldung für 2027 startet am 1. März 2027. Die Veranstaltung wird seit über 20 Jahren am dritten Junisonntag ausgetragen und war 2026 ausgebucht.",
   "distanceKm": 206,
-  "elevationGainM": 3500
+  "elevationGainM": 3500,
+  "distances": [
+    {
+      "name": "Rennrad 206 km",
+      "km": 206
+    },
+    {
+      "name": "Rennrad 156 km",
+      "km": 156
+    },
+    {
+      "name": "Rennrad 118 km",
+      "km": 118
+    },
+    {
+      "name": "Rennrad 80 km",
+      "km": 80
+    },
+    {
+      "name": "Rennrad 30 km",
+      "km": 30
+    },
+    {
+      "name": "Gravel 90 km",
+      "km": 90,
+      "elevationGainM": 1180
+    },
+    {
+      "name": "MTB 94 km",
+      "km": 94,
+      "elevationGainM": 1700
+    },
+    {
+      "name": "MTB 75 km",
+      "km": 75,
+      "elevationGainM": 1300
+    },
+    {
+      "name": "MTB 56 km",
+      "km": 56,
+      "elevationGainM": 1100
+    },
+    {
+      "name": "MTB 45 km",
+      "km": 45,
+      "elevationGainM": 800
+    },
+    {
+      "name": "MTB 30 km",
+      "km": 30,
+      "elevationGainM": 500
+    }
+  ],
+  "participantLimit": 1500
 }

@@ -1,0 +1,36 @@
+{
+  "id": "jannersee-triathlon-2027",
+  "name": "Skinfit Jannersee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-07",
+    "end": "2027-08-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Jannersee, Lauterach",
+    "lat": 47.4769,
+    "lng": 9.7358,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://jannersee-triathlon.at",
+  "imageUrl": "https://jannersee-triathlon.at/wp-content/uploads/2020/03/20190817_Jannersee2019_Hobby_swimMO15.jpg",
+  "description": "Der Skinfit Jannersee Triathlon in Lauterach steht 2027 laut ÖTRV-Kalender für den 7. August und geht in seine 33. Austragung, ausgerichtet vom Triathlonclub Dornbirn. Der Sprinttriathlon der allgemeinen Klasse wird traditionell als Abendbewerb gestartet; geschwommen wird im Jannersee im Lauteracher Ried. Die Distanzen betragen 400 m Schwimmen, 16 km Radfahren und 4 km Laufen, für die Jugend verkürzt auf 400 m, 11,5 km und 3 km. Die Nachwuchsbewerbe für Schüler und Jugend beginnen bereits am Nachmittag. Die flache, familiäre Strecke im Rheintal eignet sich gut für Einsteiger; der Einzelbewerb ist meist früh ausgebucht, während für Staffeln und Nachwuchs häufig noch Plätze frei sind.",
+  "distanceKm": 20.4,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 20.4,
+      "split": "0,4 km / 16 km / 4 km"
+    },
+    {
+      "name": "Jugend",
+      "km": 14.9,
+      "split": "0,4 km / 11,5 km / 3 km"
+    }
+  ]
+}

@@ -18,7 +18,19 @@
     "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://www.waltriathlon.de",
-  "description": "Der 33. Waltriathlon Brunsbüttel findet am Samstag, 29. Mai 2027 statt, ausgerichtet vom TSV Brunsbüttel; die Anmeldung öffnet am 1. Januar 2027. Geschwommen wird im Freibad am Elbdeich – 500 m im Jedermann-Rennen, 750 m im Sprint. Die maximal 19 km lange Radstrecke führt durch die flache, oft windige Marschlandschaft Dithmarschens, der abschließende 5-km-Lauf verläuft an den Schrebergärten vorbei Richtung Schleusen des Nord-Ostsee-Kanals. Laut DTU-Kalender gibt es neben dem Jedermann- und Sprintrennen zahlreiche Nachwuchswettkämpfe von den Schülern C bis zu den Junioren. Das Küstenflair mit Blick auf die Elbschifffahrt macht den Reiz der Veranstaltung aus.",
+  "description": "Der 33. Waltriathlon Brunsbüttel findet am Samstag, 29. Mai 2027 statt, ausgerichtet vom TSV Brunsbüttel. Die Anmeldung öffnet am 1. Januar 2027. Geschwommen wird im Freibad am Elbdeich: 500 m im Jedermann-Wettkampf und 750 m im Sprint. Die 19 km lange Radstrecke führt durch die flache, oft windige Marschlandschaft Dithmarschens, der abschließende 5-km-Lauf verläuft an den Schrebergärten entlang Richtung Schleusen des Nord-Ostsee-Kanals. Beide Hauptwettkämpfe sind auch als Staffel über zwei oder drei Personen möglich. Neben Jedermann und Sprint gibt es zahlreiche Nachwuchswettkämpfe von den Schülern C bis zu den Junioren mit verkürzten Distanzen. Die Radstrecke ist durchgängig flach, nennenswerte Höhenmeter gibt es nicht. Das Küstenflair mit Blick auf die Elbschifffahrt prägt die Veranstaltung. Die Startplätze im Erwachsenenbereich sind begrenzt und erfahrungsgemäß früh vergeben.",
   "distanceKm": 25,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 24.75,
+      "split": "0,75 km / 19 km / 5 km"
+    },
+    {
+      "name": "Jedermann",
+      "km": 24.5,
+      "split": "0,5 km / 19 km / 5 km"
+    }
+  ],
   "imageUrl": "https://www.waltriathlon.de/images/waltriathlon/Wahltriathlon-2.png"
 }

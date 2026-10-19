@@ -19,7 +19,24 @@
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://muenster-triathlon.de",
-  "description": "Der Sparda Münster City Triathlon findet 2027 am Sonntag, 20. Juni statt – es ist die 20. Auflage der Veranstaltung. Geschwommen wird im Aasee, die Radstrecke führt durch das Münsterland und der Lauf durch die Innenstadt. Zur Wahl stehen Volksdistanz, Olympische Distanz und Staffel, außerdem gibt es Inklusions-Wettbewerbe als Einzel und Staffel. Am Vortag bietet der Veranstalter einen Shake-Out-Run an, zur Veranstaltung gehört eine Expo. Die Anmeldung öffnete in den Vorjahren jeweils zu Jahresbeginn; Fotos der Teilnehmenden liefert Sportograf.",
+  "description": "Der Sparda Münster City Triathlon findet 2027 am Sonntag, 20. Juni statt. Es ist die 20. Auflage der Veranstaltung. Geschwommen wird im Aasee mitten in Münster, die Radstrecke führt durch das Münsterland und der Lauf durch die Innenstadt. Angeboten werden die Volksdistanz über 500 m Schwimmen, 20 km Rad und 5 km Lauf, die Olympische Distanz über 1350 m, 40 km und 10 km sowie ein Staffeltriathlon auf der Volksdistanz. Dazu kommen Inklusionswettbewerbe als Einzel und Staffel über 250 m Schwimmen, 12 km Rad und 3,4 km Lauf. Am Vortag bietet der Veranstalter einen Shake-Out-Run an, zur Veranstaltung gehört eine Expo. Die Anmeldung wird nach Veranstalterangabe voraussichtlich im Februar freigeschaltet, die Felder der einzelnen Distanzen sind begrenzt. Fotos der Teilnehmenden liefert Sportograf.",
+  "distances": [
+    {
+      "name": "Volksdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 51.35,
+      "split": "1,35 km / 40 km / 10 km"
+    },
+    {
+      "name": "Volksdistanz Inklusion",
+      "km": 15.65,
+      "split": "0,25 km / 12 km / 3,4 km"
+    }
+  ],
   "distanceKm": 51,
   "elevationGainM": 200,
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/sparda-munster-city-triathlon/mfsnn62j086l9u6dfpli"

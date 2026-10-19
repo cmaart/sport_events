@@ -20,7 +20,29 @@
   },
   "websiteUrl": "https://www.woerthersee-gravel.com",
   "imageUrl": "https://www.woerthersee-gravel.com/wp-content/uploads/2026/04/NK2_5728-scaled-1.webp",
-  "description": "Das Wörthersee Gravel Race in Velden am Wörthersee ist für den 18. April 2027 angekündigt; der Veranstalter bezeichnet den Termin noch als vorläufig. Das Rennen ist Teil der UCI Gravel World Series und dient als Qualifikation für die UCI Gravel-Weltmeisterschaften. Die Strecken führen rund um den Wörthersee und durch die Kärntner Hügellandschaft, die lange Distanz umfasste zuletzt rund 120 Kilometer und 2.000 Höhenmeter. Mit rund 2.000 Teilnehmenden aus über 40 Nationen gilt es als größtes Gravel-Event Österreichs. Eine Voranmeldung zum günstigsten Preis ist bereits über die offizielle Seite möglich.",
-  "distanceKm": 120,
-  "elevationGainM": 2000
+  "description": "Das Wörthersee Gravel Race startet in Velden am Wörthersee und ist für den 18. April 2027 angekündigt; der Veranstalter bezeichnet diesen Termin noch als vorläufig. Das Rennen gehört zur UCI Gravel World Series und dient als Qualifikation für die UCI Gravel-Weltmeisterschaften. Gefahren wird auf Schotter- und Feldwegen rund um den Wörthersee und durch die Hügel des Kärntner Umlands. Der Hauptbewerb Beat Gralf führt die Elite sowie Männer von 19 bis 59 und Frauen von 19 bis 49 über 150 Kilometer mit 1.713 Höhenmetern; ältere Altersklassen fahren 94 Kilometer mit 1.182 Höhenmetern. Beim Bewerb Catch Gralf entscheiden die Teilnehmenden unterwegs zwischen 78 Kilometern mit 936 Höhenmetern und 94 Kilometern. Die Einsteigerrunde Find Gralf misst 67 Kilometer mit 688 Höhenmetern. Die Startplätze sind begrenzt; laut Veranstalter wurde das Teilnehmerlimit auf 1.000 angehoben. Eine Voranmeldung über die offizielle Seite sichert den günstigsten Preis.",
+  "distanceKm": 150,
+  "elevationGainM": 1713,
+  "distances": [
+    {
+      "name": "Beat Gralf (Elite)",
+      "km": 150,
+      "elevationGainM": 1713
+    },
+    {
+      "name": "Catch Gralf",
+      "km": 94,
+      "elevationGainM": 1182
+    },
+    {
+      "name": "Catch Gralf",
+      "km": 78,
+      "elevationGainM": 936
+    },
+    {
+      "name": "Find Gralf",
+      "km": 67,
+      "elevationGainM": 688
+    }
+  ]
 }

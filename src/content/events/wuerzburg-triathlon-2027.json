@@ -21,7 +21,26 @@
   },
   "websiteUrl": "https://www.wuerzburg-triathlon.de/",
   "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/08/67/lifestyle-wuerzburg-triathlon-82-1493900756.jpg",
-  "description": "Der 18. Würzburg Triathlon findet am Sonntag, 13. Juni 2027 statt; die Anmeldung öffnet am 1. Oktober 2026. Austragungsort ist der Erlabrunner See nördlich von Würzburg in Unterfranken, der Veranstalter beschreibt das Rennen als „familiären Triathlon“. Angeboten werden eine Jedermann-Distanz, die Olympische Distanz und eine Mitteldistanz; Staffeln sind auf allen Distanzen möglich. Die Radstrecken führen durch das Maintal und die Weinlandschaft rund um Würzburg. Organisiert wird die Veranstaltung von der J.A. Schweighöfer Veranstaltungs UG.",
+  "description": "Der 18. Würzburg Triathlon findet am Sonntag, 13. Juni 2027 am Erlabrunner See nördlich von Würzburg statt. Die Anmeldung öffnet am 1. Oktober 2026. Angeboten werden drei Distanzen: die Jedermann-Distanz über 0,6 km Schwimmen, 22 km Rad und 5 km Lauf mit Start um 8:00 Uhr, die Olympische Distanz über 1,5 km, 44 km und 10 km ab 11:30 Uhr sowie die Mitteldistanz über 2,1 km, 90 km auf zwei Runden und 21 km Lauf ab 9:00 Uhr. Staffeln mit zwei oder drei Personen sind auf allen Distanzen möglich. Die Radstrecken führen durch das Maintal und die Weinlandschaft rund um Würzburg in Unterfranken und bewegen sich in Höhen zwischen 163 und 349 Metern. Veranstalter ist die J.A. Schweighöfer Veranstaltungs UG. Die Ausgabe 2026 war ausgebucht.",
   "distanceKm": 52,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "distances": [
+    {
+      "name": "Jedermann",
+      "km": 27.6,
+      "split": "0,6 km / 22 km / 5 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 55.5,
+      "split": "1,5 km / 44 km / 10 km"
+    },
+    {
+      "name": "Mitteldistanz",
+      "km": 113.1,
+      "split": "2,1 km / 90 km / 21 km"
+    }
+  ],
+  "entryFee": "Jedermann ab 95 €, Olympische Distanz ab 110 € zzgl. 20 € Tageslizenz, Mitteldistanz ab 205 € zzgl. 25 € Tageslizenz",
+  "startTime": "08:00"
 }

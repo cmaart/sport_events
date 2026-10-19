@@ -17,7 +17,20 @@
   },
   "websiteUrl": "https://challengefamily.com/races/challenge-mogan-gran-canaria/",
   "imageUrl": "https://challengefamily.com/wp-content/uploads/sites/2/2025/12/Gran-Canaria-Swim-Start-2.jpg",
-  "description": "Die Anfi Challenge Mogán Gran Canaria findet 2027 am 17. April im Süden Gran Canarias statt und stellt in Kooperation mit der PTO erstmals auf das neue 100er-Format (T100) um: 2 km Schwimmen, 80 km Rad und 18 km Laufen. Geschwommen wird über zwei Runden am Strand von Anfi del Mar mit Wende am Strand. Der 80 km lange Radkurs führt in vier Runden von Anfi del Mar nach Taurito und zurück und ist mit rund 1.462 Höhenmetern ausgesprochen hügelig – die Küstenstraße durch die raue Vulkanlandschaft kennt kaum flache Meter. Der 18-km-Lauf verläuft in vier Runden direkt am Meer entlang des Balito Beach (rund 232 Höhenmeter). Für 2027 wird das Event auf ein Zwei-Tages-Format ausgeweitet, ergänzt um eine Standarddistanz. Das milde April-Klima mit rund 22 °C macht das Rennen zu einem beliebten Saisonauftakt; die Anmeldung ist über die offizielle Challenge-Family-Seite geöffnet.",
+  "description": "Die Anfi Challenge Mogán Gran Canaria findet 2027 am 17. April im Süden Gran Canarias statt und setzt in Kooperation mit der PTO auf das 100er-Format: 2 km Schwimmen, 80 km Rad und 18 km Laufen. Geschwommen wird über zwei Runden am Strand von Anfi del Mar mit Wende im Wasser und Start wie Ziel direkt am Strand. Der 80 km lange Radkurs führt in vier Runden von Anfi del Mar nach Taurito und zurück und ist mit rund 1.462 Höhenmetern ausgesprochen hügelig, da die Küstenstraße durch die Vulkanlandschaft kaum flache Abschnitte kennt. Der 18 km lange Lauf verläuft in vier Runden am Meer entlang des Balito Beach (rund 232 Höhenmeter). Laut offizieller Challenge-Family-Seite gibt es 2027 zusätzlich eine Standarddistanz über 1,9 km Schwimmen, 42 km Rad und 12,6 km Laufen. Das milde April-Klima macht das Rennen zu einem beliebten Saisonauftakt; die Anmeldung läuft über die offizielle Challenge-Family-Seite, die Pakete aus Unterkunft und Startplatz ab 399 € (Kurzdistanz) und ab 479 € (Mitteldistanz) nennt.",
+  "distances": [
+    {
+      "name": "100 (T100)",
+      "km": 100,
+      "elevationGainM": 1462,
+      "split": "2 km / 80 km / 18 km"
+    },
+    {
+      "name": "Standarddistanz",
+      "km": 56.5,
+      "split": "1,9 km / 42 km / 12,6 km"
+    }
+  ],
   "distanceKm": 100,
   "elevationGainM": 1462
 }
