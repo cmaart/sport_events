@@ -22,5 +22,12 @@
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/autriche/carinthie/klagenfurt/ironman-de-carinthie-klagenfurt/yjll28y24znlsscqoqne",
   "description": "Der IRONMAN Kärnten-Klagenfurt kehrt am 13. Juni 2027 an den Wörthersee zurück – seit 1999 einer der beliebtesten und schnellsten Langdistanz-Kurse der Welt. Geschwommen wird 3,8 km im Wörthersee mit dem berühmten Schlussabschnitt durch den Lendkanal, danach 180 km Rad in zwei Runden durch das Drautal und Rosental mit dem Rupertiberg als Schlüsselstelle (rund 1.500 Höhenmeter). Der Marathon über 42,2 km führt flach entlang von See und Lendkanal in die Klagenfurter Innenstadt.\n\nDie Anmeldung für 2027 öffnete bereits im Juni 2026 und ist inklusive IRONMAN Experiences ausverkauft – wer 2027 starten will, muss auf Foundation-Slots oder Nachrücker hoffen.",
   "distanceKm": 226,
-  "elevationGainM": 1500
+  "elevationGainM": 1500,
+  "distances": [
+    {
+      "name": "Langdistanz",
+      "km": 226,
+      "split": "3,8 km / 180 km / 42,2 km"
+    }
+  ]
 }
