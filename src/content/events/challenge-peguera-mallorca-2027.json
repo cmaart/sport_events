@@ -1,0 +1,32 @@
+{
+  "id": "challenge-peguera-mallorca-2027",
+  "name": "Challenge Peguera Mallorca",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-10-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Peguera",
+    "lat": 39.5306,
+    "lng": 2.4566
+  },
+  "websiteUrl": "https://challengefamily.com/races/challenge-peguera-mallorca/",
+  "description": "Die Challenge Peguera Mallorca geht 2027 am Samstag, 16. Oktober über die Bühne, eine Mitteldistanz in Peguera in der Gemeinde Calvià im Südwesten der Insel. Gestartet wird mit dem Schwimmen über 1,9 km im Mittelmeer in Pegueras geschützter Bucht. Die Radstrecke führt über zwei Runden à 45 km durch die Ausläufer der Serra de Tramuntana (UNESCO-Weltkulturerbe) über Es Capdellà und Calvià, mit rund 500 Höhenmetern pro Runde, technischen Anstiegen und schnellen Abfahrten. Abschließend stehen 21,1 km Laufen auf einem flachen Kurs entlang der Promenade an. Als etablierter Saisonabschluss im Oktober ist das Rennen ein offizieller Challenge-Family-Qualifier für The Championship in Šamorín. Zum Rahmenprogramm zählen in den Vorjahren eine Staffelwertung sowie Junior-Rennen am Veranstaltungswochenende.",
+  "distanceKm": 113,
+  "elevationGainM": 1000,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 113,
+      "elevationGainM": 1000,
+      "split": "1,9 km / 90 km / 21,1 km"
+    }
+  ],
+  "startTime": "09:00",
+  "imageUrl": "https://challenge-mallorca.com/wp-content/uploads/sites/11/2019/10/sin-titulo-1_0001_challenge_paguera-38.jpg"
+}

@@ -19,7 +19,22 @@
     "region": "Brandenburg"
   },
   "websiteUrl": "https://scharmuetzelsee-triathlon.de",
-  "description": "Am 1. August 2027 geht der Scharmützelsee-Triathlon in seine 8. Auflage. Bad Saarow im Seenland Oder-Spree ist erneut Gastgeber, Wechselzone und Ziel befinden sich wieder auf der Schwanenwiese an der Seestraße direkt beim Dampferanleger. Geschwommen wird im Scharmützelsee. Auf dem Programm stehen die Olympische Distanz (1,5 km / 38 km / 10 km), ein Sprint über 0,75 / 20 / 5 km und eine Staffelwertung für Teams. In den Vorjahren war die Olympische Distanz Austragungsort der Landesmeisterschaften Berlin-Brandenburg und Teil des Brandenburg-Cups. Ausrichter ist der TV Fürstenwalde; die Anmeldung lief in den Vorjahren über Berlin-Timing.",
+  "description": "Am 1. August 2027 geht der Scharmützelsee-Triathlon in seine 8. Auflage. Bad Saarow im Seenland Oder-Spree ist erneut Gastgeber, Wechselzone und Ziel befinden sich wieder auf der Schwanenwiese an der Seestraße direkt beim Dampferanleger. Geschwommen wird im Scharmützelsee. Auf dem Programm stehen die Olympische Distanz (1,5 km / 38 km / 10 km), ein Sprint über 0,75 / 20 / 5 km sowie offene Staffeln über die Sprintdistanz. Laut vorläufiger Ausschreibung startet der Sprint um 10:00 Uhr, die Olympische Distanz um 11:00 Uhr; je Wettkampf sind maximal 350 Teilnehmer vorgesehen. Die Anmeldung läuft vom 1. Oktober 2026 bis 25. Juli 2027 über Berlin-Timing. In den Vorjahren war die Olympische Distanz Austragungsort der Landesmeisterschaften Berlin-Brandenburg und Teil des Brandenburg-Cups. Ausrichter ist der TV Fürstenwalde.",
   "distanceKm": 50,
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 49.5,
+      "split": "1,5 km / 38 km / 10 km"
+    },
+    {
+      "name": "Sprint",
+      "km": 25.8,
+      "split": "0,75 km / 20 km / 5 km"
+    }
+  ],
+  "entryFee": "Sprint-Einzel 50 €, Sprint-Staffel 75 €, Olympische Distanz 65 € (mit DTU-Startpass) bzw. 80 €",
+  "registrationDeadline": "2027-07-25",
+  "startTime": "10:00",
   "imageUrl": "https://scharmuetzelsee-triathlon.de/wp-content/uploads/2026/03/Triathlon-Olympische-Distanz-LM-2026-1.png"
 }

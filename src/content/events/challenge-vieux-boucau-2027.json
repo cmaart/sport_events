@@ -1,0 +1,32 @@
+{
+  "id": "challenge-vieux-boucau-2027",
+  "name": "Challenge Vieux-Boucau",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-10-02",
+    "end": "2027-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vieux-Boucau-les-Bains",
+    "lat": 43.7938,
+    "lng": -1.3978
+  },
+  "websiteUrl": "https://challengefamily.com/races/challenge-vieux-boucau/",
+  "description": "Das Challenge-Rennwochenende in Vieux-Boucau-les-Bains in den französischen Landes findet 2027 am 2. und 3. Oktober statt: die Mitteldistanz über 1,9 / 90 / 21,1 km am Samstag, olympische und Sprintdistanz sowie Kinderrennen am Sonntag. Geschwommen wird im ruhigen Salzwasser des Lac Marin direkt am Ort. Die 90 km lange Radstrecke ist eine einzelne Runde durch die Kiefernwälder der Landes und die Dörfer der Gascogne und mit nur rund 57 Höhenmetern ausgesprochen flach und schnell, was den Kurs zu einem der schnellsten im Challenge-Kalender macht. Der abschließende Halbmarathon führt in mehreren Schleifen um den Lac Marin und durch den Ortskern. Das Rennen ist ein offizieller Challenge-Family-Qualifier für The Championship und liegt an der wilden Atlantikküste zwischen Bayonne und Bordeaux.",
+  "distanceKm": 113,
+  "elevationGainM": 57,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 113,
+      "elevationGainM": 57,
+      "split": "1,9 km / 90 km / 21,1 km"
+    }
+  ],
+  "startTime": "10:00"
+}

@@ -18,7 +18,19 @@
     "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://www.waltriathlon.de",
-  "description": "Der 33. Waltriathlon Brunsbüttel findet am Samstag, 29. Mai 2027 statt, ausgerichtet vom TSV Brunsbüttel; die Anmeldung öffnet am 1. Januar 2027. Geschwommen wird im Freibad am Elbdeich – 500 m im Jedermann-Rennen, 750 m im Sprint. Die maximal 19 km lange Radstrecke führt durch die flache, oft windige Marschlandschaft Dithmarschens, der abschließende 5-km-Lauf verläuft an den Schrebergärten vorbei Richtung Schleusen des Nord-Ostsee-Kanals. Laut DTU-Kalender gibt es neben dem Jedermann- und Sprintrennen zahlreiche Nachwuchswettkämpfe von den Schülern C bis zu den Junioren. Das Küstenflair mit Blick auf die Elbschifffahrt macht den Reiz der Veranstaltung aus.",
+  "description": "Der 33. Waltriathlon Brunsbüttel findet am Samstag, 29. Mai 2027 statt, ausgerichtet vom TSV Brunsbüttel; die Anmeldung öffnet am 1. Januar 2027. Geschwommen wird im Freibad Ulitzhörn, 500 m im Jedermann-Rennen und 750 m im Sprint. Die rund 19 km lange Radstrecke ist eine Wendepunktstrecke vom Schwimmbad nach Neufeld und zurück und führt durch die flache, oft windige Marschlandschaft Dithmarschens. Der abschließende 5-km-Lauf verläuft an den Schrebergärten vorbei Richtung Schleusen des Nord-Ostsee-Kanals. Der Sprint setzt einen DTU-Startpass oder eine Tageslizenz voraus, das Jedermann-Rennen ist ohne Startpass offen. Neben dem Jedermann- und dem Sprintrennen richtet der Verein zahlreiche Nachwuchswettkämpfe mit 400-m- und 1000-m-Läufen aus; beim Schwimmen starten jeweils maximal 32 Teilnehmer gleichzeitig. Startgeld, Meldeschluss und Zeitplan für die 33. Auflage veröffentlicht der Verein mit dem Öffnen der Anmeldung zu Jahresbeginn. Das Küstenflair mit Blick auf die Elbschifffahrt macht den Reiz der Veranstaltung aus.",
   "distanceKm": 25,
+  "distances": [
+    {
+      "name": "Sprint",
+      "km": 24.8,
+      "split": "750 m / 19 km / 5 km"
+    },
+    {
+      "name": "Jedermann",
+      "km": 24.5,
+      "split": "500 m / 19 km / 5 km"
+    }
+  ],
   "imageUrl": "https://www.waltriathlon.de/images/waltriathlon/Wahltriathlon-2.png"
 }

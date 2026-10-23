@@ -18,7 +18,13 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://ultra-bike.de",
-  "description": "Der Black Forest ULTRA Bike Marathon findet 2027 vom 23. bis 25. Juli in Kirchzarten im Dreisamtal östlich von Freiburg statt. Nach der 26. Auflage 2026 mit knapp 2.400 Mountainbikerinnen und Mountainbikern auf vier Strecken geht der Klassiker in sein 27. Jahr. Die Ultra-Distanz umfasst rund 118 Kilometer und etwa 4.000 Höhenmeter, dazu kommen kürzere Marathon- und Halbmarathon-Strecken. Gefahren wird auf Waldwegen, Schotterpisten und Trails des Hochschwarzwalds rund um Schauinsland und Dreisamtal. Rahmenprogramm, Kids Races und der Black Forest ULTRA Gravel verteilen sich über das Festivalwochenende.",
-  "distanceKm": 118,
-  "elevationGainM": 4000
+  "description": "Der Black Forest ULTRA Bike Marathon findet 2027 vom 23. bis 25. Juli in Kirchzarten im Dreisamtal östlich von Freiburg statt und zählt zu den großen Mountainbike-Marathons im Hochschwarzwald. Angeboten werden vier Strecken: die Ultra-Distanz über 115 Kilometer und rund 3.550 Höhenmeter, der Marathon über 70 Kilometer (2.170 Höhenmeter), der Speed Track über 54 Kilometer (1.230 Höhenmeter) und der Short Track über 40 Kilometer (850 Höhenmeter). Gefahren wird auf Waldwegen, Schotterpisten und Trails rund um Schauinsland und Dreisamtal. 2026 standen knapp 2.400 Mountainbikerinnen und Mountainbiker am Start. Ergänzt wird das Festivalwochenende durch den Black Forest ULTRA Gravel, Kids Races und ein Rahmenprogramm; parallel ist Kirchzarten Austragungsort eines Laufs des UCI Mountainbike Marathon World Cup. Start und Ziel liegen auf dem Festivalgelände in Kirchzarten.",
+  "distances": [
+    { "name": "Ultra", "km": 115, "elevationGainM": 3550 },
+    { "name": "Marathon", "km": 70, "elevationGainM": 2170 },
+    { "name": "Speed Track", "km": 54, "elevationGainM": 1230 },
+    { "name": "Short Track", "km": 40, "elevationGainM": 850 }
+  ],
+  "distanceKm": 115,
+  "elevationGainM": 3550
 }

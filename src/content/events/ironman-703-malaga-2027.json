@@ -1,0 +1,30 @@
+{
+  "id": "ironman-703-malaga-2027",
+  "name": "IRONMAN 70.3 Málaga",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "ES",
+  "dates": {
+    "start": "2027-10-31",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Málaga",
+    "lat": 36.7213,
+    "lng": -4.4214
+  },
+  "websiteUrl": "https://www.ironman.com/im703-malaga",
+  "description": "Der IRONMAN 70.3 Málaga wird 2027 am Sonntag, 31. Oktober ausgetragen und geht damit in seine zweite Auflage, nachdem er 2026 die Nachfolge des IRONMAN 70.3 Marbella angetreten hatte. Das 1,9 km lange Schwimmen findet im geschützten Hafenbecken von Málaga (Puerto de Málaga) statt, gefolgt von einer flachen 90-km-Radrunde mit nur rund 250 Höhenmetern auf komplett gesperrten Straßen entlang der Costa del Sol. Der abschließende Halbmarathon verläuft über zwei flache Runden auf der Strandpromenade der Malagueta und endet mit einem stimmungsvollen Zieleinlauf auf der berühmten Einkaufsstraße Calle Larios. Durch den kompakten Rennaufbau mit großer Einzelwechselzone ist der Kurs auf hohe Durchschnittsgeschwindigkeiten und einen reibungslosen Ablauf ausgelegt. Mit milden Herbsttemperaturen eignet sich Málaga ideal als Saisonabschluss und vergibt Qualifikationsplätze für die IRONMAN 70.3-Weltmeisterschaft.",
+  "distanceKm": 113,
+  "elevationGainM": 250,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 113,
+      "elevationGainM": 250,
+      "split": "1,9 km / 90 km / 21,1 km"
+    }
+  ]
+}
