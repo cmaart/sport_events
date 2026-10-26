@@ -1,7 +1,9 @@
 # Sport-Events Wartungs-Routine (wöchentlich)
 
 > Arbeite im **caveman-Modus** (`/caveman full`) für Token-Effizienz. Code/JSON/Commits normal.
-> Branch: **master**. Am Ende committen + auf master pushen (triggert Deployment).
+> Start: aktueller Stand von **master**. Am Ende auf einen eigenen `claude/…`-Branch pushen und einen PR gegen
+> master öffnen. `.github/workflows/auto-merge-routine.yml` baut den PR und merged ihn bei grünem Build
+> automatisch (danach Deployment). Nicht direkt auf master pushen.
 
 ## Kontext & oberstes Ziel
 
@@ -214,5 +216,7 @@ nicht unbegrenzt anhängen, sondern aktuell halten:
 
 ## Abschluss
 
-- `npm run build` grün → committen (aussagekräftige Messages) → **push auf master**.
+- `npm run build` grün → committen (aussagekräftige Messages) → Branch `claude/…` pushen → **PR gegen master
+  öffnen** (Titel = Lauf-Summary). Der Auto-Merge-Workflow merged bei grünem Build. Kein PR = Arbeit geht verloren,
+  weil der nächste Lauf wieder vom alten master startet.
 - Kurzes Lauf-Summary in `progress.md`.

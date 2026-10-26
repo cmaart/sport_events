@@ -1,0 +1,59 @@
+name: Auto-merge routine PRs
+
+# The Claude maintenance routine runs in the cloud and may only push to claude/* branches.
+# It opens a PR against master; this workflow builds it (Zod schema validation) and, if green,
+# squash-merges it and triggers the deploy. Merges made with GITHUB_TOKEN do not fire `push`
+# workflows, so deploy.yml is started explicitly via workflow_dispatch.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches: [master]
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: auto-merge-routine
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: >-
+      startsWith(github.head_ref, 'claude/') &&
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      !github.event.pull_request.draft
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+  merge:
+    needs: build
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+      PR: ${{ github.event.pull_request.number }}
+    steps:
+      - name: Squash-merge PR
+        run: gh pr merge "$PR" --squash --delete-branch
+
+      - name: Trigger deploy
+        run: gh workflow run deploy.yml --ref master
