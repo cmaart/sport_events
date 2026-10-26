@@ -1,0 +1,30 @@
+{
+  "id": "ironman-portugal-cascais-2027",
+  "name": "IRONMAN Portugal-Cascais",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2027-10-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cascais",
+    "lat": 38.6979,
+    "lng": -9.4215
+  },
+  "websiteUrl": "https://www.ironman.com/im-cascais",
+  "description": "Der IRONMAN Portugal-Cascais über die volle Distanz findet 2027 am Samstag, 23. Oktober an der Atlantikküste westlich von Lissabon statt, parallel zur Mitteldistanz am selben Renntag. Das 3,8 km lange Schwimmen beginnt bei Sonnenaufgang in der Bucht von Cascais und gilt mit seiner Kulisse aus Festung und Promenade als einer der stimmungsvollsten Starts in Europa. Auf der 180 km langen Radstrecke rollen die Athletinnen und Athleten entlang der Avenida Marginal Richtung Guincho, ergänzt um eine Runde auf dem Formel-1-Kurs Autódromo do Estoril, bei rund 900 Höhenmetern. Der abschließende Marathon über 42,2 km führt über die Strandpromenade zwischen Cascais, Estoril und São Pedro. Viele Finisher verbinden das Rennen mit einigen Tagen in Lissabon, das nur eine kurze Bahnfahrt entfernt liegt. Der Wettkampf vergibt Qualifikationsplätze für die IRONMAN-Weltmeisterschaft; die Anmeldung läuft über die offizielle Rennseite.",
+  "distanceKm": 226,
+  "elevationGainM": 900,
+  "distances": [
+    {
+      "name": "Langdistanz",
+      "km": 226,
+      "elevationGainM": 900,
+      "split": "3,8 km / 180 km / 42,2 km"
+    }
+  ]
+}

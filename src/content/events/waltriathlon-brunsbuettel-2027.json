@@ -13,12 +13,21 @@
   },
   "location": {
     "name": "Brunsbüttel",
-    "lat": 53.8956,
-    "lng": 9.1344,
+    "lat": 53.8973,
+    "lng": 9.1399,
     "region": "Schleswig-Holstein"
   },
   "websiteUrl": "https://www.waltriathlon.de",
-  "description": "Der 33. Waltriathlon Brunsbüttel findet am Samstag, 29. Mai 2027 statt, ausgerichtet vom TSV Brunsbüttel; die Anmeldung öffnet am 1. Januar 2027. Geschwommen wird im Freibad am Elbdeich – 500 m im Jedermann-Rennen, 750 m im Sprint. Die maximal 19 km lange Radstrecke führt durch die flache, oft windige Marschlandschaft Dithmarschens, der abschließende 5-km-Lauf verläuft an den Schrebergärten vorbei Richtung Schleusen des Nord-Ostsee-Kanals. Laut DTU-Kalender gibt es neben dem Jedermann- und Sprintrennen zahlreiche Nachwuchswettkämpfe von den Schülern C bis zu den Junioren. Das Küstenflair mit Blick auf die Elbschifffahrt macht den Reiz der Veranstaltung aus.",
-  "distanceKm": 25,
-  "imageUrl": "https://www.waltriathlon.de/images/waltriathlon/Wahltriathlon-2.png"
+  "imageUrl": "https://www.waltriathlon.de/images/waltriathlon/Wahltriathlon-2.png",
+  "description": "Der 33. Waltriathlon findet am 29. Mai 2027 in Brunsbüttel an der Elbmündung in Schleswig-Holstein statt. Die Sprintdistanz umfasst 0,75 km Schwimmen, 19 km Rad und 5 km Lauf; die flache Radstrecke führt durch das Marschland an der Unterelbe. Neben dem Sprint gibt es ein Jedermann-Rennen über die gleiche Rad- und Laufdistanz, eine Staffelwertung sowie Schüler- und Jugendwettbewerbe. Das Teilnehmerfeld ist auf insgesamt 384 Startplätze begrenzt, je zur Hälfte für die Hauptrennen und die Nachwuchswettbewerbe. Der erste Startblock geht um 10:00 Uhr auf die Strecke. Die Anmeldung öffnet am 1. Januar 2027. Ausgerichtet wird der Klassiker von einem örtlichen Verein, der den Waltriathlon seit über drei Jahrzehnten organisiert; er zählt zu den traditionsreichsten Triathlons an der schleswig-holsteinischen Westküste.",
+  "distanceKm": 24.75,
+  "distances": [
+    {
+      "name": "Sprint-Triathlon",
+      "km": 24.75,
+      "split": "0,75 km / 19 km / 5 km"
+    }
+  ],
+  "startTime": "10:00",
+  "participantLimit": 384
 }

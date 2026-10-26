@@ -22,5 +22,12 @@
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/hambourg/ironman-european-championship-hamburg/era8osaplhxrkiwn38vs",
   "description": "Zehnte Auflage der IRONMAN Hamburg European Championship am 6. Juni 2027, Rennwoche vom 3. bis 7. Juni. Der Kurs gehört zu den schnellsten Langdistanzen Europas: 3,8 km Schwimmen in der Alster mitten in der City, 180 km (offiziell 178 km) nahezu flache Radrunden durch Hamburgs Süden und Umland mit rund 400 Höhenmetern insgesamt, anschließend 42,2 km Marathon in vier Runden durch die Innenstadt mit Ziel am Rathausmarkt.\n\nAls Europameisterschaft werden Kona-Slots vergeben, entsprechend groß ist das Interesse: General Entry und IRONMAN Experiences für 2027 sind bereits ausverkauft, nur Foundation- und Sonderstartplätze sind noch offen.",
   "distanceKm": 226,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "distances": [
+    {
+      "name": "Langdistanz",
+      "km": 226,
+      "split": "3,8 km / 180 km / 42,2 km"
+    }
+  ]
 }

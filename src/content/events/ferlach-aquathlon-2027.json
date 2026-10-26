@@ -1,0 +1,31 @@
+{
+  "id": "ferlach-aquathlon-2027",
+  "name": "Ferlach Aquathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-10",
+    "end": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ferlach",
+    "lat": 46.529,
+    "lng": 14.3066,
+    "region": "Kärnten"
+  },
+  "websiteUrl": "https://www.ferlach-aquathlon.at",
+  "imageUrl": "https://www.ferlach-aquathlon.at/wp-content/uploads/2025/11/OeSTM-2026-Aquathlon-Ferlach-1-1024x512.png",
+  "description": "Der 11. Ferlach Aquathlon findet 2027 am 10. Juli in Ferlach in Kärnten statt und gehört zu den wichtigsten Aquathlon-Terminen des Landes. Gestartet wird mit Wasserstart im Ressnigteich; die allgemeine Klasse absolviert 1,0 km Schwimmen und anschließend 5 km Laufen in Runden zu je rund 1.670 m. Für den Nachwuchs gibt es abgestufte Bewerbe mit 3.000 m, 2.000 m und 1.000 m Laufstrecke. Veranstalter ist 3athlon Kärnten rund um Mario Kapler. Das kompakte Schwimm-Lauf-Format ohne Radstrecke und die Lage am Teich im Rosental machen den Bewerb auch für Familien und Einsteiger attraktiv.",
+  "distanceKm": 6,
+  "distances": [
+    {
+      "name": "Allgemeine Klasse",
+      "km": 6,
+      "split": "1,0 km Schwimmen / 5 km Lauf"
+    }
+  ]
+}

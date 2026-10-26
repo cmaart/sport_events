@@ -1,0 +1,30 @@
+{
+  "id": "tri-x-aquathlon-kufstein-2027",
+  "name": "Tri-X-Aquathlon Kufstein",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kufstein",
+    "lat": 47.5831,
+    "lng": 12.1686,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://tri-x-kufstein.at/",
+  "description": "Der Tri-X-Aquathlon Kufstein eröffnet 2027 am 1. Mai die Tiroler Triathlonsaison und wird vom Verein TRI-X Kufstein ausgerichtet. Das Schwimm-Lauf-Format startet mit 400 m Schwimmen im Freibad Kufstein, gefolgt von 3 km Laufen entlang der Innpromenade; der erste Startblock geht um 9:00 Uhr ins Rennen. Für den Nachwuchs gibt es abgestufte Schülerklassen über kürzere Distanzen sowie eine Fun-Staffel. Als Aquathlon ohne Radstrecke eignet sich der Bewerb gut für Einsteiger und als früher Formtest vor der Triathlonsaison. Die Lage am Inn mit der Festung Kufstein als Kulisse macht das Rennen zu einem stimmungsvollen Saisonauftakt im Tiroler Unterland.",
+  "distanceKm": 3.4,
+  "distances": [
+    {
+      "name": "Aquathlon",
+      "km": 3.4,
+      "split": "0,4 km Schwimmen / 3 km Lauf"
+    }
+  ],
+  "startTime": "09:00"
+}

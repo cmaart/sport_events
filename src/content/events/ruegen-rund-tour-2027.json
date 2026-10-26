@@ -17,8 +17,20 @@
     "lng": 13.6828,
     "region": "Mecklenburg-Vorpommern"
   },
-  "websiteUrl": "https://ketterechts.eu",
-  "description": "Die 5. Rügen Rund Tour findet am Samstag, 5. Juni 2027 mit Start und Ziel in Sellin auf Rügen statt. Die Tour bietet zwei Distanzen: die vollständige Inselumrundung über rund 244 Kilometer mit gut 1.000 Höhenmetern und eine kürzere Runde über rund 86 Kilometer. Die Strecken führen über die Halbinseln, Bodden und Alleen der größten deutschen Insel. Wer die lange Runde im Zeitlimit schafft, erhält eine Finishermedaille. Veranstalter ist das Team von Kette Rechts, das im Oktober auch die Tour d'Allée auf Rügen ausrichtet.",
+  "websiteUrl": "https://ketterechts.eu/etn/5-ruegen-rund-tour-2027/",
+  "imageUrl": "https://ketterechts.eu/wp-content/uploads/2026/06/Ruegen-Rund-2026-65-1-scaled.jpg",
+  "description": "Die 5. Rügen Rund Tour findet am Samstag, 5. Juni 2027, mit Start und Ziel im Ostseebad Sellin auf Rügen statt. Angeboten werden zwei Distanzen: die vollständige Inselumrundung über voraussichtlich rund 244 Kilometer mit etwa 1.000 Höhenmetern sowie eine kürzere Runde über rund 87 Kilometer. Die Strecken führen über die Halbinseln, Bodden, Steilküsten und Alleen der größten deutschen Insel und verbinden Seebäder wie Binz und Sellin mit dem ländlichen Norden Rügens. Auf der langen Runde stehen vier Verpflegungsstationen bereit, auf der kurzen eine; wer die lange Distanz im Zeitlimit beendet, erhält eine Finishermedaille. Die Teilnahmegebühr beträgt für 2027 99 Euro auf der langen und 55 Euro auf der kurzen Strecke. Veranstalter ist das Team von Kette Rechts, das auf Rügen im Oktober zusätzlich die Tour d'Allée ausrichtet. Die genauen Streckenlängen gibt der Veranstalter noch als vorläufig an.",
   "distanceKm": 244,
-  "elevationGainM": 1050
+  "elevationGainM": 1050,
+  "distances": [
+    {
+      "name": "Lange Tour",
+      "km": 244
+    },
+    {
+      "name": "Kurze Tour",
+      "km": 87
+    }
+  ],
+  "entryFee": "Lange Strecke 99 € p. P. (4 Verpflegungsstationen); kurze Strecke 55 € p. P. (1 Verpflegungsstation) — Teilnahmegebühren 2027"
 }

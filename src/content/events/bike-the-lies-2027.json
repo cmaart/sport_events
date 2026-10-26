@@ -18,7 +18,16 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://rfv-weibern.at/bike-the-lies/",
-  "description": "Bike the Lies ist ein Einzelzeitfahren auf dem Haager Lies Radweg in Oberösterreich und wird 2027 am 30. Mai ab 10:00 Uhr ausgetragen. Die 21,8 Kilometer lange Strecke verläuft auf einer ehemaligen Bahntrasse zwischen Neukirchen bei Lambach und Haag am Hausruck und ist für das Rennen komplett gesperrt. Mit rund 240 Höhenmetern steigt der Kurs gleichmäßig an – ideal für Fahrer, die eine konstante Leistung über gut eine halbe Stunde halten können. Neben der Einzelwertung gibt es eine Teamwertung für Dreier-Mannschaften. Veranstalter ist der RFV Weibern; das Zeitfahren ist in den oberösterreichischen ZeitFahr-Cup eingebunden.",
-  "distanceKm": 22,
-  "elevationGainM": 240
+  "registrationUrl": "https://time2win.at/event/1061",
+  "description": "Bike the Lies ist ein Einzelzeitfahren auf dem Haager Lies Radweg in Oberösterreich und wird 2027 am 30. Mai ab 10:00 Uhr ausgetragen. Die 21,8 Kilometer lange Strecke verläuft auf einer ehemaligen Bahntrasse zwischen Neukirchen bei Lambach und Haag am Hausruck und ist für das Rennen komplett gesperrt. Der Kurs steigt gleichmäßig an und belohnt Fahrerinnen und Fahrer, die eine konstante Leistung über gut eine halbe Stunde halten können. Gewertet wird in den Klassen Rennrad, Zeitfahrrad und Vintage, dazu gibt es eine Teamwertung für Dreier-Mannschaften. Die Startgebühr ist nach Anmeldezeitpunkt gestaffelt und beginnt bei 44 Euro für Einzelstarter; eine Teammeldung kostet ab 114 Euro. Veranstalter ist der RFV Weibern, die Anmeldung läuft über die Plattform time2win. Das Zeitfahren ist in den oberösterreichischen ZeitFahr-Cup eingebunden und gilt als idealer Formtest zum Saisonauftakt.",
+  "distanceKm": 21.8,
+  "elevationGainM": 240,
+  "distances": [
+    {
+      "name": "Zeitfahren",
+      "km": 21.8
+    }
+  ],
+  "entryFee": "Rennrad Einzel 44 € (bis 80 Anm.) / 46 € (bis 160) / 48 € (ab 161); Zeitfahrrad Einzel 44 € (bis 30) / 46 € (bis 60) / 48 € (ab 61); Vintage 44 €; Team 114 € (bis 10) / 120 € (bis 20) / 126 € (ab 21)",
+  "startTime": "10:00"
 }

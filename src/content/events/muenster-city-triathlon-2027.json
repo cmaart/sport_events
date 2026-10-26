@@ -14,13 +14,25 @@
   },
   "location": {
     "name": "Münster",
-    "lat": 51.9607,
-    "lng": 7.6261,
+    "lat": 51.9526,
+    "lng": 7.6183,
     "region": "Nordrhein-Westfalen"
   },
   "websiteUrl": "https://muenster-triathlon.de",
-  "description": "Der Sparda Münster City Triathlon findet 2027 am Sonntag, 20. Juni statt – es ist die 20. Auflage der Veranstaltung. Geschwommen wird im Aasee, die Radstrecke führt durch das Münsterland und der Lauf durch die Innenstadt. Zur Wahl stehen Volksdistanz, Olympische Distanz und Staffel, außerdem gibt es Inklusions-Wettbewerbe als Einzel und Staffel. Am Vortag bietet der Veranstalter einen Shake-Out-Run an, zur Veranstaltung gehört eine Expo. Die Anmeldung öffnete in den Vorjahren jeweils zu Jahresbeginn; Fotos der Teilnehmenden liefert Sportograf.",
-  "distanceKm": 51,
+  "registrationUrl": "https://muenster-triathlon.de/wettkampf/anmeldung/",
+  "description": "Der Sparda Münster City Triathlon wird am 20. Juni 2027 am Aasee mitten in Münster ausgetragen. Das Stadtevent verbindet Schwimmen im Aasee, eine Radrunde durch die Stadt und den Promenadenlauf durch das Zentrum der westfälischen Fahrradhauptstadt. Die Olympische Distanz umfasst 1,35 km Schwimmen, 40 km Rad und 10 km Lauf, die Volksdistanz 0,5 km, 20 km und 5 km; dazu kommen ein Staffeltriathlon und Inklusionswettkämpfe für Athletinnen und Athleten mit Behinderung. Der Zieleinlauf vor der Kulisse der Innenstadt und die kurzen Wege machen das Rennen auch für Zuschauer attraktiv. Der Check-in ist ab 8:00 Uhr möglich, der Zielschluss liegt bei 16:00 Uhr. Die Startplätze sind je Distanz kontingentiert und werden geschlossen, sobald das jeweilige Feld voll ist; die Anmeldung läuft über die offizielle Veranstalterseite. Mit seiner innerstädtischen Strecke zählt der City-Triathlon zu den größten Breitensport-Triathlons im Münsterland.",
+  "distanceKm": 51.35,
   "elevationGainM": 200,
-  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/sparda-munster-city-triathlon/mfsnn62j086l9u6dfpli"
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 51.35,
+      "split": "1,35 km / 40 km / 10 km"
+    },
+    {
+      "name": "Volksdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
 }

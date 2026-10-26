@@ -18,8 +18,47 @@
     "region": "Oberösterreich"
   },
   "websiteUrl": "https://www.salzkammergut-trophy.at/",
-  "description": "Die 30. Salzkammergut Trophy findet am Samstag, 17. Juli 2027 in Bad Goisern am Hallstättersee statt, eingebettet in ein Festivalwochenende vom 16. bis 18. Juli. Österreichs größter MTB-Marathon bietet sieben Marathonstrecken zwischen 22 und 201 Kilometern sowie mehrere Gravel-Routen. Die Extremstrecke A misst 201,9 Kilometer mit rund 7.020 Höhenmetern und führt durch das UNESCO-Welterbe Hallstatt–Dachstein – sie gilt als einer der härtesten Eintages-MTB-Marathons Europas. Regelmäßig starten über 3.500 Bikerinnen und Biker aus dem In- und Ausland. Zum Jubiläum ist die Anmeldung für 2027 bereits geöffnet, für kurze Zeit noch zu den Tarifen von 2026.",
+  "description": "Die 30. Salzkammergut Trophy findet am Samstag, 17. Juli 2027 in Bad Goisern am Hallstättersee statt, eingebettet in ein Festivalwochenende vom 16. bis 18. Juli. Österreichs größter MTB-Marathon bietet sieben Marathonstrecken zwischen 21,8 und 201,9 Kilometern sowie mehrere Gravel-Routen. Die Extremstrecke A misst 201,9 Kilometer mit rund 7.020 Höhenmetern und führt durch das UNESCO-Welterbe Hallstatt/Dachstein; sie gilt als einer der härtesten Eintages-MTB-Marathons Europas. Die Strecke A startet um 05:00 Uhr am Marktplatz in Bad Goisern, die kürzeren Strecken folgen über den Vormittag gestaffelt. Regelmäßig starten über 3.500 Bikerinnen und Biker aus dem In- und Ausland. Zum Jubiläum ist die Anmeldung für 2027 bereits geöffnet, für kurze Zeit noch zu den Tarifen von 2026, die zwischen 39 Euro für die kürzeste und 139 Euro für die längste Strecke liegen.",
   "distanceKm": 201,
   "elevationGainM": 7020,
-  "imageUrl": "https://www.salzkammergut-trophy.at/_uploads/_fotos/10113_0358_Salzkammergut_Trophy25_Bernd_Schrckelsberger_Presse.jpg"
+  "imageUrl": "https://www.salzkammergut-trophy.at/_uploads/_fotos/10113_0358_Salzkammergut_Trophy25_Bernd_Schrckelsberger_Presse.jpg",
+  "distances": [
+    {
+      "name": "Strecke A (Extrem)",
+      "km": 201.9,
+      "elevationGainM": 7020
+    },
+    {
+      "name": "Strecke B",
+      "km": 119.6,
+      "elevationGainM": 3521
+    },
+    {
+      "name": "Strecke C",
+      "km": 74.7,
+      "elevationGainM": 2183
+    },
+    {
+      "name": "Strecke D (All-Mountain)",
+      "km": 57.7,
+      "elevationGainM": 2114
+    },
+    {
+      "name": "Strecke E",
+      "km": 54.9,
+      "elevationGainM": 1719
+    },
+    {
+      "name": "Strecke F",
+      "km": 37.3,
+      "elevationGainM": 1044
+    },
+    {
+      "name": "Strecke G",
+      "km": 21.8,
+      "elevationGainM": 567
+    }
+  ],
+  "entryFee": "39–139 € je nach Strecke (Tarife 2026)",
+  "startTime": "05:00"
 }

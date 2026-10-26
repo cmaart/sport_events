@@ -20,8 +20,28 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://altmuehltal-radmarathon.de/",
-  "description": "Die vierte Austragung des Altmühltal Radmarathons findet am Samstag, 29. Mai 2027 in Beilngries statt. Die Routen führen durch die Kalksteintäler und Juradörfer des Naturparks Altmühltal im Herzen Bayerns. Drei Rennradstrecken zwischen 120 und 200 Kilometern mit bis zu rund 2.300 Höhenmetern stehen zur Wahl, dazu reine Gravel-Strecken zwischen 60 und 120 Kilometern. Gefahren wird ohne Zeitnahme und Wettkampfdruck, Verpflegungsstationen liegen entlang der Strecken. Die Anmeldung für 2027 ist laut Veranstalter ab 1. Oktober 2026 geöffnet.",
+  "registrationUrl": "https://my.raceresult.com/401256/registration",
+  "description": "Die vierte Austragung des Altmühltal Radmarathons findet am Samstag, 29. Mai 2027, in Beilngries statt. Die Routen führen durch die Kalksteintäler und Juradörfer des Naturparks Altmühltal im Herzen Bayerns. Auf die Rennradfahrer warten drei ausgeschilderte Strecken: der Radmarathon über 200 km mit rund 2.300 Höhenmetern, die Panoramatour über 150 km (rund 1.700 Höhenmeter) und die Willkommenstour über 120 km mit etwa 1.320 Höhenmetern; dazu kommen reine Gravel-Routen. Gefahren wird ohne Zeitnahme und Wettkampfdruck als selbst gefahrene Tour, Verpflegungsstationen liegen entlang der Strecken. Die Startgebühr ist in mehreren Zeiträumen gestaffelt und reicht beim Radmarathon von 105 Euro bei früher Anmeldung bis 135 Euro kurz vor dem Event; ein Trikot ist in den frühen Phasen inbegriffen. Die Anmeldung öffnet am 1. Oktober 2026 und läuft über raceresult; letzter Anmeldetermin ist der 9. Mai 2027. Die familiäre Atmosphäre und die abwechslungsreichen Juraanstiege machen den Marathon zu einem beliebten Saisonstart in Bayern.",
   "distanceKm": 200,
   "elevationGainM": 2300,
-  "imageUrl": "https://altmuehltal-radmarathon.de/wp-content/uploads/sites/4/2025/11/251110_Background.jpg"
+  "imageUrl": "https://altmuehltal-radmarathon.de/wp-content/uploads/sites/4/2025/11/251110_Background.jpg",
+  "distances": [
+    {
+      "name": "Radmarathon",
+      "km": 200,
+      "elevationGainM": 2300
+    },
+    {
+      "name": "Panoramatour",
+      "km": 150,
+      "elevationGainM": 1700
+    },
+    {
+      "name": "Willkommenstour",
+      "km": 120,
+      "elevationGainM": 1320
+    }
+  ],
+  "entryFee": "Radmarathon 105 € (01.10.–30.10.26) / 115 € (01.11.–31.12.26) / 125 € (01.01.–28.02.27) / 135 € (01.03.–09.05.27); Panoramatour 95/105/115/125 €; Willkommenstour 85/95/105/105 €. Trikot in den ersten drei Zeiträumen inkludiert.",
+  "registrationDeadline": "2027-05-09"
 }

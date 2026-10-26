@@ -1,0 +1,21 @@
+{
+  "id": "ober-grafendorfer-triathlon-2027",
+  "name": "Ober-Grafendorfer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ober-Grafendorf",
+    "lat": 48.1667,
+    "lng": 15.5522,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://obergrafendorf.sportunion.at/",
+  "description": "Der Ober-Grafendorfer Triathlon findet 2027 am 8. Mai in Ober-Grafendorf im niederösterreichischen Pielachtal statt und gehört mit einer Geschichte bis 1984 zu den ältesten Triathlons Österreichs. Nachdem die Ausgabe 2026 wegen Straßenbauarbeiten abgesagt werden musste, kündigt der Veranstalter Sportunion Ober-Grafendorf die Rückkehr des Bewerbs für 2027 an. Geschwommen wird im Ebersdorfer See nahe dem Ort, die Rad- und Laufstrecke führen durch das hügelige Mostviertel südlich von St. Pölten. Ausgetragen wird ein Sprinttriathlon, der in früheren Jahren auch als niederösterreichische Landesmeisterschaft diente. Zeitnahme und Anmeldung laufen über Pentek Timing. Der frühe Mai-Termin macht das Rennen zu einem traditionellen Saisonauftakt für Age-Grouper aus dem Großraum St. Pölten."
+}

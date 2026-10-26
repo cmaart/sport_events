@@ -14,12 +14,26 @@
   },
   "location": {
     "name": "Werdau",
-    "lat": 50.717,
-    "lng": 12.365,
+    "lat": 50.726,
+    "lng": 12.374,
     "region": "Sachsen"
   },
   "websiteUrl": "https://www.koberbachtal-triathlon.de/",
-  "description": "Der 17. GSYSTEMS-Koberbachtal-Triathlon findet am 4. und 5. Juni 2027 an der Koberbachtalsperre bei Langenhessen westlich von Zwickau statt, ausgerichtet vom SV Sachsen 90 Werdau. Geschwommen wird im Stausee, die Radstrecke ist hügelig und führt durch das westsächsische Umland, die Laufstrecke entlang des steilen Ufers hat teils Cross-Charakter. Angeboten werden ein Sprint (750 m / 20 km / 5 km) und die Olympische Distanz (1,51 km / 36 km / 10 km). Den Koberbachtal-Triathlon gibt es seit 2010; der Verein bietet im Vorfeld auch einen Schwimmlehrgang an. Die Online-Voranmeldung wird auf der offiziellen Seite verlinkt.",
-  "distanceKm": 48,
+  "registrationUrl": "https://www.koberbachtal-triathlon.de/wettkaempfe/anmeldung/",
+  "description": "Der 17. GSYSTEMS-Koberbachtal-Triathlon findet am 4. und 5. Juni 2027 an der Koberbachtalsperre bei Werdau in Westsachsen statt. Geschwommen wird im Stausee, Rad- und Laufstrecke verlaufen im angrenzenden Erholungsgebiet. Die olympische Distanz umfasst 1,51 km Schwimmen, 36 km Rad und 10 km Lauf, das Jedermann-Rennen 0,75 km, 20 km und 5 km; beide Distanzen sind auch als Staffel ausgeschrieben. Der Wettkampf erstreckt sich über zwei Tage: Am Freitag eröffnet der Kobylon-Nachwuchswettbewerb, die olympische Distanz startet am Samstag um 10:00 Uhr, das Jedermann-Rennen am Nachmittag. Einzelstarter auf der olympischen Distanz benötigen einen Startpass oder lösen eine Tageslizenz. Die Startgebühren sind in drei Anmeldephasen gestaffelt; die Anmeldung läuft über die offizielle Veranstalterseite. Ausgerichtet wird der Triathlon von einem ortsansässigen Verein, der die Veranstaltung seit vielen Jahren an der Talsperre im Zwickauer Land organisiert.",
+  "distanceKm": 47.5,
+  "distances": [
+    {
+      "name": "Triathlon Olympisch",
+      "km": 47.51,
+      "split": "1,51 km / 36 km / 10 km"
+    },
+    {
+      "name": "Triathlon Jedermann",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    }
+  ],
+  "startTime": "10:00",
   "imageUrl": "https://www.koberbachtal-triathlon.de/wp-content/uploads/ogimg.jpg"
 }

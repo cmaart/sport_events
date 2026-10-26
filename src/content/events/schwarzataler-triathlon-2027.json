@@ -1,0 +1,33 @@
+{
+  "id": "schwarzataler-triathlon-2027",
+  "name": "Schwarzataler Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-17",
+    "end": "2027-05-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ternitz",
+    "lat": 47.7197,
+    "lng": 15.9972,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.tri-ternitz.at",
+  "imageUrl": "https://www.atsv-ternitz.at/wp-content/uploads/2023/01/20230112-Schwarzataler-Triathlon_bild-01.jpg",
+  "description": "Der Schwarzataler Triathlon findet 2027 am 17. Mai in Ternitz im südlichen Niederösterreich statt und wird vom ATSV Tri Ternitz ausgerichtet. Angeboten werden die Sprintdistanz und die Olympische Distanz über 1,5 km Schwimmen, 40 km Rad und 10 km Lauf, jeweils auch als Staffel. Geschwommen wird im Stausee, die Radstrecke führt durch das hügelige Schwarzatal, der Laufkurs verläuft entlang der Schwarza. Das familiäre Rennen zählt zu den traditionellen Saisonauftakten im südlichen Niederösterreich am Übergang zur Steiermark. Die Strecke mit welligem Radkurs und flachem Lauf eignet sich sowohl für ambitionierte Age-Grouper als auch für Einsteiger auf der kürzeren Distanz.",
+  "distanceKm": 52,
+  "elevationGainM": 400,
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    }
+  ]
+}

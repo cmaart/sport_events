@@ -1,0 +1,36 @@
+{
+  "id": "europe-triathlon-championships-kitzbuehel-2027",
+  "name": "Europe Triathlon Championships Kitzbühel",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-11",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kitzbühel",
+    "lat": 47.4464,
+    "lng": 12.3924,
+    "region": "Tirol"
+  },
+  "websiteUrl": "https://www.triathlon-kitzbuehel.com/",
+  "description": "Die Europe Triathlon Championships 2027 finden vom 11. bis 13. Juni in Kitzbühel in Tirol statt. Nach 2014 und 2017 richtet die Gamsstadt zum dritten Mal eine Triathlon-Europameisterschaft aus; organisiert wird sie vom Triathlonverein Kitzbühel gemeinsam mit Europe Triathlon. Auf dem Programm stehen die Elite-Europameisterschaften, die Para-Europameisterschaften sowie die Altersklassen-Europameisterschaften über die Standard- bzw. olympische Distanz (1,5 km Schwimmen, 40 km Rad, 10 km Lauf) und die Sprintdistanz (0,75 km / 20 km / 5 km). Begleitet wird die EM vom lokalen Breitensport-Event Kitz Tri Games. Erwartet werden rund 2.000 Athletinnen und Athleten aus über 40 Nationen. Geschwommen wird im Schwarzsee, die Rad- und Laufstrecken führen durch Kitzbühel und das umliegende Bergpanorama.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Standard-/Olympische Distanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hubiman-2027",
+  "name": "Hubiman",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kobenz",
+    "lat": 47.2181,
+    "lng": 14.7731,
+    "region": "Steiermark"
+  },
+  "websiteUrl": "https://www.hubiman.at/",
+  "description": "Der Hubiman findet 2027 am 18. Juli in Kobenz im steirischen Murtal statt und feiert nach einer Umstrukturierungspause sein Comeback. Veranstalter ist das Team Coaches Corner, das den Supersprint-Triathlon aus Schwimmen, Radfahren und Laufen als kompakten, schnellen Bewerb im oberen Murtal positioniert. Die kurze Supersprint-Distanz richtet sich bewusst an Einsteiger, Nachwuchs und Age-Grouper, die ein zügiges Rennformat suchen. Die genauen Streckenlängen sowie Startzeit und Startgebühr für 2027 gibt der Veranstalter noch bekannt; die Anmeldung öffnet in Kürze. Die Lage im Murtal mit Bergpanorama und die familiäre Organisation machen den Bewerb zu einem sympathischen Sommertermin in der Obersteiermark."
+}
