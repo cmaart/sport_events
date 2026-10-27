@@ -6,7 +6,7 @@
 
 ---
 
-Arbeite im Repository C:\dev\privat\sport_events auf dem master-Branch.
+Arbeite im Repository C:\dev\privat\sport_events ausgehend vom aktuellen master-Branch.
 
 ## 1. Gedächtnis laden (zuerst, vor allem anderen)
 Lies den Kopf von `claude-automation/sport-events-checker/progress.md`, insbesondere den Block
@@ -23,7 +23,8 @@ beschriebene wöchentliche Wartungs-Routine exakt nach diesen Instruktionen aus 
 die 150 indexierbaren Seiten aus `src/data/index-focus.json` vertiefen, danach Saison-Regeln —
 Zielsaison 2027, eigene `-2027`-Dateien —, Content-Tiefe, noindex für vergangene Events,
 Verifikation, imageUrl, SEO/Sitemap-Check, `node scripts/select-index-focus.mjs` am Ende sowie
-Commit + Push auf master).
+Commit, Push auf einen `claude/…`-Branch und **PR gegen master** — der PR wird nach
+grünem Build automatisch gemergt; ohne PR landet nichts auf der Seite).
 
 ## 3. Gedächtnis fortschreiben (rollend, am Ende)
 Aktualisiere `progress.md`:

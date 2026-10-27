@@ -18,7 +18,45 @@
     "region": "Niedersachsen"
   },
   "websiteUrl": "https://www.weserrunde.de/",
-  "description": "Die Große Weserrunde findet am Samstag, 21. August 2027 in Rinteln im Weserbergland statt. Der Langstrecken-Radmarathon bietet Distanzen bis zu 350 Kilometern an einem Tag und zählt damit zu den längsten eintägigen Radmarathons Deutschlands. Zuletzt standen sechs Strecken über 80, 150, 200, 250, 300 und 350 Kilometer zur Wahl. Die Routen führen über welliges Terrain entlang der Weser und durch das Weserbergland. Die Streckenübersicht für 2027 ist bereits veröffentlicht, die Anmeldung startet laut Veranstalter im Oktober 2026. 2026 waren die Startplätze bereits Wochen vor dem Event nahezu ausgebucht.",
+  "registrationUrl": "https://www.freizeit-kiosk.de/grosse-weserrunde/",
+  "imageUrl": "https://www.weserrunde.de/cdn/uploads/gwr-ziel2025.jpg",
+  "description": "Die 17. Große Weserrunde findet am Samstag, 21. August 2027, in Rinteln im Weserbergland statt. Der Langstrecken-Radmarathon bietet sechs Distanzen über 80, 150, 200, 250, 300 und 350 Kilometer an einem Tag und zählt mit der Königsdistanz über 350 km und rund 2.200 Höhenmetern zu den längsten eintägigen Radmarathons Deutschlands. Die Routen führen über welliges Terrain entlang der Weser und durch das Weserbergland; die Höhenmeter reichen von rund 600 auf der kürzesten bis 2.200 auf der längsten Strecke. Die 350-km-Runde startet als erste bereits um 5:00 Uhr, die weiteren Distanzen folgen zeitversetzt. Für die Veranstaltung stehen maximal 1.600 Startplätze zur Verfügung; die Startgebühr ist über drei Phasen gestaffelt und reicht je nach Distanz von 44 bis 89 Euro, Inhaber einer German-Cycling-Lizenz erhalten fünf Euro Rabatt. Die Online-Anmeldung über freizeit-kiosk.de ist bis zwei Tage vor dem Event am 19. August 2027 möglich, einen Verkauf vor Ort gibt es nicht.",
   "distanceKm": 350,
-  "imageUrl": "https://www.weserrunde.de/cdn/uploads/gwr-ziel2025.jpg"
+  "elevationGainM": 2200,
+  "distances": [
+    {
+      "name": "80 km",
+      "km": 80,
+      "elevationGainM": 600
+    },
+    {
+      "name": "150 km",
+      "km": 150,
+      "elevationGainM": 1150
+    },
+    {
+      "name": "200 km",
+      "km": 200,
+      "elevationGainM": 1450
+    },
+    {
+      "name": "250 km",
+      "km": 250,
+      "elevationGainM": 1670
+    },
+    {
+      "name": "300 km",
+      "km": 300,
+      "elevationGainM": 1900
+    },
+    {
+      "name": "350 km",
+      "km": 350,
+      "elevationGainM": 2200
+    }
+  ],
+  "entryFee": "Startgeld gestaffelt über 3 Phasen (Super Early Bird bis 31.01.2027 / Early Bird bis 02.05.2027 / Regular bis 19.08.2027), Einzelpreis: 80 km 44–57 €, 150 km 60–73 €, 200 km 65–79 €, 250 km 66–80 €, 300 km 69–86 €, 350 km 73–89 €. German-Cycling-Lizenznehmer 5 € Rabatt.",
+  "registrationDeadline": "2027-08-19",
+  "startTime": "05:00",
+  "participantLimit": 1600
 }

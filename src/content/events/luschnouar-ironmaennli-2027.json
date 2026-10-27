@@ -1,0 +1,36 @@
+{
+  "id": "luschnouar-ironmaennli-2027",
+  "name": "Skinfit Luschnouar Ironmännli",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lustenau",
+    "lat": 47.4269,
+    "lng": 9.6581,
+    "region": "Vorarlberg"
+  },
+  "websiteUrl": "https://www.triteam.at/",
+  "description": "Das Skinfit Luschnouar Ironmännli findet 2027 am 5. Juni in Lustenau in Vorarlberg statt und geht in seine 36. Auflage. Ausgerichtet vom TRITEAM Lustenau, bietet der Bewerb eine Sprintdistanz über 500 m Schwimmen, 17,5 km Rad und 4,8 km Lauf sowie eine Einsteigerdistanz über 200 m, 10,5 km und 2,4 km. Die flache Rad- und Laufstrecke verläuft durch das Vorarlberger Rheintal, gestartet wird im Einzelstart. Der Name „Luschnouar Ironmännli“ spielt augenzwinkernd auf den lokalen Dialekt und das kompakte Format an. Die kurze, schnelle Strecke und die familiäre Atmosphäre machen das Rennen zu einem beliebten Einstiegswettkampf im Dreiländereck Österreich–Schweiz–Deutschland.",
+  "distanceKm": 22.8,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 22.8,
+      "split": "0,5 km / 17,5 km / 4,8 km"
+    },
+    {
+      "name": "Einsteigerdistanz",
+      "km": 13.1,
+      "split": "0,2 km / 10,5 km / 2,4 km"
+    }
+  ],
+  "imageUrl": "https://www.triteam.at/uploads/1/0/1/4/101449128/ironmaennli2014-047_orig.jpg"
+}

@@ -14,12 +14,28 @@
   },
   "location": {
     "name": "Bad Saarow",
-    "lat": 52.2809,
-    "lng": 14.0492,
+    "lat": 52.2847,
+    "lng": 14.0686,
     "region": "Brandenburg"
   },
   "websiteUrl": "https://scharmuetzelsee-triathlon.de",
-  "description": "Am 1. August 2027 geht der Scharmützelsee-Triathlon in seine 8. Auflage. Bad Saarow im Seenland Oder-Spree ist erneut Gastgeber, Wechselzone und Ziel befinden sich wieder auf der Schwanenwiese an der Seestraße direkt beim Dampferanleger. Geschwommen wird im Scharmützelsee. Auf dem Programm stehen die Olympische Distanz (1,5 km / 38 km / 10 km), ein Sprint über 0,75 / 20 / 5 km und eine Staffelwertung für Teams. In den Vorjahren war die Olympische Distanz Austragungsort der Landesmeisterschaften Berlin-Brandenburg und Teil des Brandenburg-Cups. Ausrichter ist der TV Fürstenwalde; die Anmeldung lief in den Vorjahren über Berlin-Timing.",
-  "distanceKm": 50,
+  "registrationUrl": "https://www.berlin-timing.de/Scharmuetzelsee-Triathlon/Anmeldung",
+  "description": "Der 8. Scharmützelsee-Triathlon findet am 1. August 2027 in Bad Saarow am Scharmützelsee südöstlich von Berlin statt. Geschwommen wird im klaren Scharmützelsee, einem der größten Seen Brandenburgs, Rad- und Laufstrecke führen durch den Kurort und das umliegende Seengebiet. Die Sprintdistanz umfasst 0,75 km Schwimmen, 20 km Rad und 5 km Lauf und ist auch als offene Staffel startbar; die als Kurzdistanz ausgeschriebene olympische Distanz über 1,5 km, 38 km und 10 km trägt zugleich die Wertung zur Landesmeisterschaft. Der erste Startblock der Sprintdistanz geht um 10:00 Uhr ins Wasser, die Kurzdistanz folgt um 11:00 Uhr. Die Startgebühr beträgt 50 Euro für die Sprintdistanz und 65 Euro für die Kurzdistanz mit gültigem Startpass, ohne Startpass 80 Euro. Die Anmeldung läuft über das Portal von berlin-timing. Das familiäre Seebad und die flache, schnelle Strecke machen das Rennen zu einem beliebten Saisonziel im Berliner Umland.",
+  "distanceKm": 49.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz (olympische Distanz)",
+      "km": 49.5,
+      "split": "1,5 km / 38 km / 10 km"
+    }
+  ],
+  "entryFee": "Sprintdistanz Einzel 50 €; Sprintdistanz offene Staffel 75 €; Kurzdistanz mit Startpass 65 €; Kurzdistanz ohne Startpass 80 €",
+  "startTime": "10:00",
+  "registrationDeadline": "2027-07-25",
   "imageUrl": "https://scharmuetzelsee-triathlon.de/wp-content/uploads/2026/03/Triathlon-Olympische-Distanz-LM-2026-1.png"
 }

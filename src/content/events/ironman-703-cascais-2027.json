@@ -1,0 +1,29 @@
+{
+  "id": "ironman-703-cascais-2027",
+  "name": "IRONMAN 70.3 Portugal-Cascais",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "PT",
+  "dates": {
+    "start": "2027-10-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cascais",
+    "lat": 38.6979,
+    "lng": -9.4215
+  },
+  "websiteUrl": "https://www.ironman.com/im703-cascais",
+  "description": "Der IRONMAN 70.3 Portugal-Cascais wird 2027 am Samstag, 23. Oktober in der Festungsstadt westlich von Lissabon ausgetragen, am selben Renntag wie die volle Distanz. Das 1,9 km lange Schwimmen startet bei Sonnenaufgang in der Bucht von Cascais, einer der spektakulärsten Buchten Portugals, umringt von Zuschauern an der Uferpromenade. Die 90 km lange Radstrecke führt entlang der Avenida Marginal in Richtung Guincho und bindet eine Runde auf dem Formel-1-Kurs Autódromo do Estoril ein. Der abschließende Halbmarathon über 21,1 km verläuft auf der Paredão-Promenade zwischen Cascais, Estoril und São Pedro mit permanentem Atlantikblick. Dank des milden Klimas und rund 3.000 Sonnenstunden pro Jahr zählt Cascais zu den beliebtesten Herbstterminen im europäischen Kalender. Das Rennen vergibt Qualifikationsplätze für die IRONMAN 70.3-Weltmeisterschaft; die Anmeldung läuft über die offizielle Rennseite.",
+  "distanceKm": 113,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 113,
+      "split": "1,9 km / 90 km / 21,1 km"
+    }
+  ],
+  "imageUrl": "https://images.rouvy.com/9kaWNEC_dWD4NA67SFqgCHDsfew=/1920x738/center/middle/%2Fcms%2FHeader_desktop_IM_new_ef1ac6ac87%2FHeader_desktop_IM_new_ef1ac6ac87.jpg"
+}

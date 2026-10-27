@@ -1,0 +1,36 @@
+{
+  "id": "poettschinger-aquathlon-2027",
+  "name": "17. Pöttschinger Aquathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Pöttsching",
+    "lat": 47.8467,
+    "lng": 16.5803,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.triathlon-poettsching.at/",
+  "imageUrl": "https://www.triathlon-poettsching.at/images/pictures/5c62c8a1/_1000452.jpg?w=1097&r=6",
+  "description": "Der 17. Pöttschinger Aquathlon findet 2027 am 28. August im burgenländischen Pöttsching statt und wird vom Tri Team Pöttsching ausgerichtet. Angeboten werden ein Fun-Bewerb über 200 m Schwimmen und 3 km Laufen sowie ein Speed-Bewerb über 266 m Schwimmen und 4 km Laufen, dazu Nachwuchs-Aquathlons für Kinder und Jugendliche auf verschiedenen Distanzen. Geschwommen wird im örtlichen Badeteich, die Laufstrecke verläuft im Umfeld der Anlage. Das familiäre Schwimm-Lauf-Format im Nordburgenland ist ein beliebter Spätsommer-Termin für Vereine und Einsteiger aus dem Raum Wiener Neustadt und Eisenstadt. Der Bewerb zählt zu den etablierten Aquathlons im Burgenland.",
+  "distances": [
+    {
+      "name": "Fun-Bewerb",
+      "km": 3.2,
+      "split": "200 m Schwimmen / 3 km Lauf"
+    },
+    {
+      "name": "Speed-Bewerb",
+      "km": 4.27,
+      "split": "266 m Schwimmen / 4 km Lauf"
+    }
+  ],
+  "distanceKm": 4.27
+}

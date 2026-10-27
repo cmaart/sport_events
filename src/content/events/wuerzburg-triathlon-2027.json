@@ -20,8 +20,28 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://www.wuerzburg-triathlon.de/",
+  "registrationUrl": "https://my.raceresult.com/407234/registration",
   "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/c2/08/67/lifestyle-wuerzburg-triathlon-82-1493900756.jpg",
-  "description": "Der 18. Würzburg Triathlon findet am Sonntag, 13. Juni 2027 statt; die Anmeldung öffnet am 1. Oktober 2026. Austragungsort ist der Erlabrunner See nördlich von Würzburg in Unterfranken, der Veranstalter beschreibt das Rennen als „familiären Triathlon“. Angeboten werden eine Jedermann-Distanz, die Olympische Distanz und eine Mitteldistanz; Staffeln sind auf allen Distanzen möglich. Die Radstrecken führen durch das Maintal und die Weinlandschaft rund um Würzburg. Organisiert wird die Veranstaltung von der J.A. Schweighöfer Veranstaltungs UG.",
+  "description": "Der 18. Würzburg Triathlon findet am Sonntag, 13. Juni 2027, am Erlabrunner See nördlich von Würzburg in Unterfranken statt. Der Veranstalter beschreibt das Rennen als familiären Triathlon mit Distanzen für Einsteiger wie für Langdistanz-Ambitionierte. Angeboten werden eine Jedermann-Distanz über 0,6 km Schwimmen, 22 km Rad und 5 km Lauf, die Olympische Distanz über 1,5 km, 44 km und 10 km sowie eine Mitteldistanz über 2,1 km, 90 km und 21 km; alle Distanzen sind auch als Staffel startbar. Geschwommen wird im Baggersee, die Radstrecken führen durch das Maintal und die Weinlandschaft rund um Würzburg. Der erste Start erfolgt um 8:00 Uhr mit der Jedermann-Distanz, die Mitteldistanz folgt um 9:00 Uhr, die Olympische Distanz um 11:30 Uhr. Die Startgebühren beginnen bei 95 Euro für die Jedermann-Distanz, 110 Euro für die Olympische und 200 Euro für die Mitteldistanz, jeweils zuzüglich 3 Euro Spende an World Bicycle Relief. Die Anmeldung öffnet am 1. Oktober 2026 über raceresult.",
   "distanceKm": 52,
-  "elevationGainM": 400
+  "elevationGainM": 400,
+  "distances": [
+    {
+      "name": "Jedermann",
+      "km": 27.6,
+      "split": "0,6 km / 22 km / 5 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 55.5,
+      "split": "1,5 km / 44 km / 10 km"
+    },
+    {
+      "name": "Mitteldistanz",
+      "km": 113.1,
+      "split": "2,1 km / 90 km / 21 km"
+    }
+  ],
+  "entryFee": "Frühbucher-ab-Preise: Jedermann ab 95 €, Olympische Distanz ab 110 €, Mitteldistanz ab 200 €, Staffel ab 120 € pro Team; je Anmeldung zzgl. 3 € für World Bicycle Relief (Preis abhängig vom Anmeldedatum)",
+  "startTime": "08:00"
 }

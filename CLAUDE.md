@@ -23,6 +23,7 @@ There is no test suite. Validation is enforced at build time via Zod schemas —
 - **Default branch is `master`** — `.github/workflows/deploy.yml` triggers on push to `master` and `workflow_dispatch`. (A `main` branch may also exist as a leftover; the workflow is bound to `master`.)
 - Pages must be configured to source = "GitHub Actions" in repo settings (one-time setup).
 - The `github-pages` environment needs `master` allowed in "Deployment branches and tags" — by default GitHub may restrict it.
+- The maintenance routine (cloud, `claude-automation/sport-events-checker/`) can only push `claude/*` branches. It opens a PR; `.github/workflows/auto-merge-routine.yml` builds it, squash-merges when green and dispatches `deploy.yml` (merges via `GITHUB_TOKEN` don't trigger `push` workflows).
 
 ## Architecture
 

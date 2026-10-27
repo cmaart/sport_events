@@ -4,6 +4,7 @@
   "sport": "triathlon",
   "categories": [
     "Langdistanz",
+    "Mitteldistanz",
     "Sprintdistanz"
   ],
   "country": "DE",
@@ -20,7 +21,24 @@
   },
   "websiteUrl": "https://nordschwarzwald-triathlon.de",
   "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/bade-wurtemberg/arrondissement-de-karlsruhe/nordschwarzwald-triathlon/rhdsk5fnm3yzuttr1wyy",
-  "description": "Der Nordschwarzwald Triathlon powered by Sparkasse Pforzheim Calw findet 2027 am 14. und 15. August statt, veranstaltet von der Tri-Events Baden-Württemberg gGmbH; die Registrierung ist auf der offiziellen Seite verlinkt. Kern ist die Langdistanz: 3,8 km Schwimmen in zwei Runden mit Landgang in der Nagoldtalsperre (Erzgrube) bei Seewald, 180 km Rad über Altensteig nach Nagold und dann in drei Runden über Mindersbach, Wart, Simmersfeld und Rohrdorf mit rund 1.484 Höhenmetern sowie ein Marathon in fünf Runden. Als Rahmenwettbewerbe gab es zuletzt eine Sprintdistanz (400 m / 20 km / 5 km), Aquabike und Einzelzeitfahren über 50 und 100 km. 2025 und 2026 war das Rennen Schauplatz der Deutschen Meisterschaft Langdistanz. In der Expo lädt am Samstag eine TauschZone zum Flohmarkt für Triathlon-Equipment ein.",
+  "description": "Der Nordschwarzwald Triathlon powered by Sparkasse Pforzheim Calw findet 2027 am 14. und 15. August statt, veranstaltet von der Tri-Events Baden-Württemberg gGmbH; die Registrierung ist auf der offiziellen Seite verlinkt. Kern ist die Langdistanz: 3,8 km Schwimmen in zwei Runden mit Landgang in der Nagoldtalsperre (Erzgrube) bei Seewald, 180 km Rad über Altensteig nach Nagold und dann in drei Runden über Mindersbach, Wart, Simmersfeld und Rohrdorf mit rund 1.484 Höhenmetern sowie ein Marathon in fünf Runden. Neu im Programm 2027 ist eine Mitteldistanz über 1,9 km Schwimmen, rund 86 km Rad und 21 km Laufen. Als weitere Bewerbe gibt es eine Sprintdistanz (400 m / 19 km / 5 km), Aquabike und Einzelzeitfahren über 50 und 100 km. 2025 und 2026 war das Rennen Schauplatz der Deutschen Meisterschaft Langdistanz. In der Expo lädt am Samstag eine TauschZone zum Flohmarkt für Triathlon-Equipment ein.",
+  "distances": [
+    {
+      "name": "Langdistanz",
+      "km": 226,
+      "split": "3,8 km / 180 km / 42,195 km"
+    },
+    {
+      "name": "Mitteldistanz",
+      "km": 108.9,
+      "split": "1,9 km / 86 km / 21 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 24.4,
+      "split": "0,4 km / 19 km / 5 km"
+    }
+  ],
   "distanceKm": 226,
   "elevationGainM": 1484
 }

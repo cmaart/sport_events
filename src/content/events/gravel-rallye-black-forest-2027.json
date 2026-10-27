@@ -18,7 +18,14 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://gravel-rallye.com/black-forest",
-  "description": "Die Gravel Rallye Black Forest findet vom 15. bis 18. Juli 2027 in den Highlands des Südschwarzwalds rund um den Feldberg statt. Das Event gehört zur Gravel Rallye Series, die 2027 nach zehn Jahren mit einem freieren, intensiveren Format antritt. Gefahren wird auf Forstwegen und Schotterpisten rund um den Feldberg und durch die Hochtäler des Schwarzwalds. Das Format verbindet Rallye-Wertung und Bikepacking-Erlebnis, 2026 kamen rund 180 Kilometer und 5.000 Höhenmeter zusammen. Die Rhine Valley Gravel im April 2027 in Freiburg bildet den Saisonauftakt der Serie.",
-  "distanceKm": 180,
-  "elevationGainM": 5000
+  "description": "Die Gravel Rallye Black Forest findet vom 15. bis 18. Juli 2027 in den Highlands des Südschwarzwalds rund um den Feldberg statt und gehört zur Gravel Rallye Series, die 2027 nach zehn Jahren mit einem freieren Format antritt. Herzstück ist der zweitägige Overnighter, dessen Tagesabschnitte sich kombinieren lassen: die lange Variante kommt auf rund 250 Kilometer und 4.300 Höhenmeter, die kurze auf rund 120 Kilometer und 2.300 Höhenmeter. Dazu gibt es drei Gruppenstart-Runden ab dem Festivalgelände, die Blaue Forelle über 60 Kilometer (1.200 Höhenmeter), den Roten Fuchs über 90 Kilometer (1.700 Höhenmeter) und die Schwarze Schlange über 110 Kilometer (2.100 Höhenmeter), sowie eine unbegleitete Long-Distance-Runde über mehr als 150 Kilometer. Gefahren wird zu etwa 80 Prozent auf Schotter, über Forstwege und durch die Hochtäler des Schwarzwalds. Die offizielle Anmeldung startet am 15. November.",
+  "distances": [
+    { "name": "Overnighter (lang)", "km": 250, "elevationGainM": 4300 },
+    { "name": "Overnighter (kurz)", "km": 120, "elevationGainM": 2300 },
+    { "name": "Blaue Forelle", "km": 60, "elevationGainM": 1200 },
+    { "name": "Roter Fuchs", "km": 90, "elevationGainM": 1700 },
+    { "name": "Schwarze Schlange", "km": 110, "elevationGainM": 2100 }
+  ],
+  "distanceKm": 250,
+  "elevationGainM": 4300
 }
