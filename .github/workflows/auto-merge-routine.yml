@@ -1,18 +1,17 @@
-name: Auto-merge routine PRs
+name: Auto-merge routine runs
 
-# The Claude maintenance routine runs in the cloud and may only push to claude/* branches.
-# It opens a PR against master; this workflow builds it (Zod schema validation) and, if green,
-# squash-merges it and triggers the deploy. Merges made with GITHUB_TOKEN do not fire `push`
-# workflows, so deploy.yml is started explicitly via workflow_dispatch.
+# The Claude maintenance routine runs in the cloud and may only push to claude/* branches;
+# it has no GitHub CLI, so it cannot open PRs. Every push to a routine branch is therefore
+# squash-merged onto current master here, built (Zod schema validation) and, if green, pushed
+# to master. Pushes made with GITHUB_TOKEN do not fire `push` workflows, so deploy.yml is
+# started explicitly via workflow_dispatch.
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened, ready_for_review]
-    branches: [master]
+  push:
+    branches: ['claude/intelligent-clarke-**']
 
 permissions:
   contents: write
-  pull-requests: write
   actions: write
 
 concurrency:
@@ -20,40 +19,53 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
-    if: >-
-      startsWith(github.head_ref, 'claude/') &&
-      github.event.pull_request.head.repo.full_name == github.repository &&
-      !github.event.pull_request.draft
+  merge:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+      BRANCH: ${{ github.ref_name }}
     steps:
-      - name: Checkout
+      - name: Checkout master
         uses: actions/checkout@v4
         with:
+          ref: master
           fetch-depth: 0
 
+      - name: Squash-merge routine branch
+        run: |
+          git fetch origin "$BRANCH"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git merge --squash "origin/$BRANCH"
+          if git diff --cached --quiet; then
+            echo "Nothing to merge."
+            echo "EMPTY=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          AUTHOR=$(git log -1 --format='%an <%ae>' "origin/$BRANCH")
+          git log -1 --format='%B' "origin/$BRANCH" > /tmp/msg
+          printf '\nSquash-merged from %s by auto-merge-routine.\n' "$BRANCH" >> /tmp/msg
+          git commit --author="$AUTHOR" -F /tmp/msg
+
       - name: Setup Node
+        if: env.EMPTY != '1'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: Install dependencies
-        run: npm ci
-
       - name: Build
-        run: npm run build
+        if: env.EMPTY != '1'
+        run: |
+          npm ci
+          npm run build
 
-  merge:
-    needs: build
-    runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      GH_REPO: ${{ github.repository }}
-      PR: ${{ github.event.pull_request.number }}
-    steps:
-      - name: Squash-merge PR
-        run: gh pr merge "$PR" --squash --delete-branch
+      - name: Push master and deploy
+        if: env.EMPTY != '1'
+        run: |
+          git push origin HEAD:master
+          gh workflow run deploy.yml --ref master
 
-      - name: Trigger deploy
-        run: gh workflow run deploy.yml --ref master
+      - name: Delete routine branch
+        run: git push origin --delete "$BRANCH"

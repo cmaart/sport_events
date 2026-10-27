@@ -23,8 +23,8 @@ beschriebene wöchentliche Wartungs-Routine exakt nach diesen Instruktionen aus 
 die 150 indexierbaren Seiten aus `src/data/index-focus.json` vertiefen, danach Saison-Regeln —
 Zielsaison 2027, eigene `-2027`-Dateien —, Content-Tiefe, noindex für vergangene Events,
 Verifikation, imageUrl, SEO/Sitemap-Check, `node scripts/select-index-focus.mjs` am Ende sowie
-Commit, Push auf einen `claude/…`-Branch und **PR gegen master** — der PR wird nach
-grünem Build automatisch gemergt; ohne PR landet nichts auf der Seite).
+Commit und Push auf den `claude/intelligent-clarke-…`-Branch — ein GitHub-Workflow merged
+jeden Push nach grünem Build automatisch auf master und deployt; kein PR nötig).
 
 ## 3. Gedächtnis fortschreiben (rollend, am Ende)
 Aktualisiere `progress.md`:

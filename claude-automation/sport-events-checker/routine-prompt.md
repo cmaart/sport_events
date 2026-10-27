@@ -1,9 +1,9 @@
 # Sport-Events Wartungs-Routine (wöchentlich)
 
 > Arbeite im **caveman-Modus** (`/caveman full`) für Token-Effizienz. Code/JSON/Commits normal.
-> Start: aktueller Stand von **master**. Am Ende auf einen eigenen `claude/…`-Branch pushen und einen PR gegen
-> master öffnen. `.github/workflows/auto-merge-routine.yml` baut den PR und merged ihn bei grünem Build
-> automatisch (danach Deployment). Nicht direkt auf master pushen.
+> Start: aktueller Stand von **master**. Am Ende auf den eigenen `claude/intelligent-clarke-…`-Branch pushen.
+> `.github/workflows/auto-merge-routine.yml` squash-merged jeden Push auf diese Branches auf master, baut und
+> deployt bei grünem Build automatisch. Kein PR nötig. Nicht direkt auf master pushen.
 
 ## Kontext & oberstes Ziel
 
@@ -216,7 +216,7 @@ nicht unbegrenzt anhängen, sondern aktuell halten:
 
 ## Abschluss
 
-- `npm run build` grün → committen (aussagekräftige Messages) → Branch `claude/…` pushen → **PR gegen master
-  öffnen** (Titel = Lauf-Summary). Der Auto-Merge-Workflow merged bei grünem Build. Kein PR = Arbeit geht verloren,
-  weil der nächste Lauf wieder vom alten master startet.
+- `npm run build` grün → **ein** Commit (Message = Lauf-Summary, wird die master-Commit-Message) → Branch
+  `claude/intelligent-clarke-…` pushen. Der Auto-Merge-Workflow merged auf master und deployt. Schlägt sein Build
+  fehl, bleibt der Branch liegen und der nächste Lauf startet ohne diese Änderungen.
 - Kurzes Lauf-Summary in `progress.md`.
