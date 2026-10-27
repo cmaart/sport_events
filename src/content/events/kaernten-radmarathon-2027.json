@@ -21,5 +21,7 @@
   "websiteUrl": "https://www.kaernten-radmarathon.at",
   "description": "Der ARBÖ Kärnten Radmarathon startet am Sonntag, 6. Juni 2027 um 7:30 Uhr in Bad Kleinkirchheim in den Nockbergen. Die lange Strecke A mit 106 Kilometern und rund 2.150 Höhenmetern führt über die Nockalmstraße durch den Biosphärenpark Nockberge und bietet zwei Bergwertungen über 2.000 Metern Seehöhe. Die kürzere Strecke B umrundet auf 65 Kilometern mit rund 950 Höhenmetern den Millstätter See. Für 2027 hebt der Veranstalter das Teilnehmerlimit auf 800 Starterinnen und Starter an und führt erstmals eine Teamchallenge für Firmen und Vereine ein. Wer sich früh anmeldet, profitiert von einem reduzierten Nenngeld.",
   "distanceKm": 106,
-  "elevationGainM": 2150
+  "elevationGainM": 2150,
+  "startTime": "07:30",
+  "participantLimit": 800
 }

@@ -1,0 +1,23 @@
+{
+  "id": "mussbach-triathlon-neustadt-weinstrasse-2027",
+  "name": "Mußbach-Triathlon Neustadt an der Weinstraße",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Neustadt an der Weinstraße (Mußbach)",
+    "lat": 49.3558,
+    "lng": 8.1736,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "http://tv-mussbach.de/sportangebote/triathlon/mussbach-triathlon",
+  "description": "Der TV 1860 Mußbach lädt am Sonntag, 6. Juni 2027, zur 34. Ausgabe seines Triathlons im Neustadter Ortsteil Mußbach ein. Gestartet wird auf der Sprintdistanz mit 750 m Schwimmen, 20 km Radfahren und 5 km Laufen. Der Termin liegt traditionell Anfang Juni, die Veranstaltung ist ein lokaler Wettkampf im Weingebiet der Pfalz. Der Verein veröffentlicht Ausschreibung, Wettkampfbedingungen und Startunterlagen auf seiner Webseite. Startzeit, Startgeld und Anmeldeschluss sind für 2027 dort noch nicht ausgewiesen.",
+  "distanceKm": 26
+}

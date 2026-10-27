@@ -18,8 +18,22 @@
     "region": "Salzburg"
   },
   "websiteUrl": "https://www.saalbach.com/en/events/worldgames",
-  "description": "Die 28. World Games of Mountainbiking finden vom 10. bis 12. September 2027 in Saalbach-Hinterglemm im Salzburger Glemmtal statt. Das Festival gehört zu den ältesten und größten Mountainbike-Veranstaltungen Österreichs und richtet sich an Hobby- und Lizenzfahrer. Herzstück ist der MTB-Marathon mit Distanzen von rund 21 bis 80 Kilometern und bis zu etwa 2.200 Höhenmetern durch die Glemmtaler Alpen. Ergänzt wird das Programm durch Cross-Country-, Enduro- und Downhill-Bewerbe rund um Saalbach-Hinterglemm.",
+  "description": "Die 28. World Games of Mountainbiking finden vom 10. bis 12. September 2027 in Saalbach-Hinterglemm im Salzburger Glemmtal statt. Das Festival gehört zu den ältesten und größten Mountainbike-Veranstaltungen Österreichs und richtet sich an Hobby- und Lizenzfahrer. Herzstück ist der MTB-Marathon am Samstag, 11. September 2027, mit Start um 09:00 Uhr (Änderungen vorbehalten). Es gibt fünf Distanzen: Marathon 21 mit 780 Höhenmetern, Marathon 31 mit 967, Marathon 42 mit 2.040, Marathon 58 mit 3.005 und Marathon 80 mit 3.720 Höhenmetern. Die Strecke führt in Höhenlagen zwischen 1.000 und 2.100 Metern durch die Glemmtaler Alpen und wird erst rund eine Woche vor dem Start veröffentlicht. Die Online-Anmeldung schließt am Freitag, 10. September 2027, um 08:00 Uhr, Nachmeldung ist im Rennbüro bis eine Stunde vor dem Start möglich. Das Startgeld für 2027 ist noch nicht veröffentlicht. Der E-MTB-Marathon läuft ebenfalls am Samstag, die Junior Trophy am Sonntag. Ergänzt wird das Programm durch Cross-Country-, Enduro- und Downhill-Bewerbe.",
   "distanceKm": 80,
-  "elevationGainM": 2200,
-  "imageUrl": "https://www.saalbach.com/fotos-event/sommer/world-games-of-mountainbiking/2024/image-thumb__8265252__box-img/WGOM24%20Marathon%20c%20Martin%20Steiger%20%28098%29.jpg"
+  "elevationGainM": 3720,
+  "imageUrl": "https://www.saalbach.com/fotos-event/sommer/world-games-of-mountainbiking/2024/image-thumb__8265252__box-img/WGOM24%20Marathon%20c%20Martin%20Steiger%20%28098%29.jpg",
+  "distances": [
+    {
+      "name": "Marathon 42",
+      "km": 42,
+      "elevationGainM": 2040
+    },
+    {
+      "name": "Marathon 58",
+      "km": 58,
+      "elevationGainM": 3005
+    }
+  ],
+  "startTime": "09:00",
+  "registrationDeadline": "2027-09-10"
 }

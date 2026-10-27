@@ -18,9 +18,68 @@
     "region": "Sachsen-Anhalt"
   },
   "websiteUrl": "https://harz-radmarathon.de",
-  "description": "Der 4. Harzer Radmarathon findet am Samstag, 26. Juni 2027 mit Start und Ziel in Halberstadt statt. Herzstück ist die komplette Harzumrundung über rund 303 Kilometer und etwa 3.000 Höhenmeter, eine der längsten Eintagesstrecken im Norden Deutschlands. Der erste Startblock des Radmarathons geht um 5:30 Uhr auf die Strecke; die weiteren Startgruppen des langen Kurses werden nach Zielgeschwindigkeit von 22 über 25 bis 28 Kilometer pro Stunde gestaffelt. Daneben gibt es zahlreiche kürzere Varianten zwischen rund 22 und 250 Kilometern, darunter eine Harzquerfahrt und eine Brockentour sowie Gravel- und Mountainbike-Optionen, sodass die Veranstaltung auch für Einsteiger und Familien zugänglich ist. Die Routen führen aus der historischen Domstadt Halberstadt rund um das Mittelgebirge mit Anstiegen an den Harzrändern. Die Anmeldung für 2027 ist seit August 2026 geöffnet.",
+  "description": "Der 4. Harzer Radmarathon findet am Samstag, 26. Juni 2027 mit Start und Ziel in Halberstadt statt. Herzstück ist die komplette Harzumrundung über rund 303 Kilometer und etwa 2.400 Höhenmeter, eine der längsten Eintagesstrecken im Norden Deutschlands. Der erste Startblock des Radmarathons geht um 5:30 Uhr auf die Strecke; die weiteren Startgruppen des langen Kurses werden nach Zielgeschwindigkeit von 22 über 25 bis 28 Kilometer pro Stunde gestaffelt. Daneben gibt es zahlreiche kürzere Varianten zwischen rund 22 und 250 Kilometern, darunter eine Harzquerfahrt und eine Brockentour sowie Gravel- und Mountainbike-Optionen, sodass die Veranstaltung auch für Einsteiger und Familien zugänglich ist. Die Routen führen aus der historischen Domstadt Halberstadt rund um das Mittelgebirge mit Anstiegen an den Harzrändern. Die Anmeldung für 2027 ist seit August 2026 geöffnet. Laut Ausschreibung endet die Online-Anmeldung am 15. Juni 2027 um 22:00 Uhr, Nachmeldungen sind ab 16. Juni online und vor Ort bis 30 Minuten vor dem Start gegen 20 € Gebühr möglich. Das Startgeld staffelt sich in drei Stufen, bei der 303-km-Tour sind es 60, 75 und 90 €. Die Startzeiten der kürzeren Touren liegen zwischen 07:30 und 14:00 Uhr.",
   "distanceKm": 303,
-  "elevationGainM": 3000,
+  "elevationGainM": 2400,
   "startTime": "05:30",
-  "imageUrl": "https://harzumrundung.de/wp-content/uploads/2025/07/HarzerRadmarathon-1.jpeg"
+  "imageUrl": "https://harzumrundung.de/wp-content/uploads/2025/07/HarzerRadmarathon-1.jpeg",
+  "distances": [
+    {
+      "name": "Harzumrundung",
+      "km": 303,
+      "elevationGainM": 2400
+    },
+    {
+      "name": "Harzumrundung kurz",
+      "km": 250,
+      "elevationGainM": 2100
+    },
+    {
+      "name": "Kyffhäuser-Harzquerfahrt",
+      "km": 202,
+      "elevationGainM": 2400
+    },
+    {
+      "name": "Harzquerfahrt",
+      "km": 155,
+      "elevationGainM": 1400
+    },
+    {
+      "name": "Brockentour",
+      "km": 111,
+      "elevationGainM": 1400
+    },
+    {
+      "name": "MTB/Gravel Brockentour",
+      "km": 100,
+      "elevationGainM": 1500
+    },
+    {
+      "name": "Harzanstieg",
+      "km": 88,
+      "elevationGainM": 1000
+    },
+    {
+      "name": "Gravel/MTB Vorharzausflug",
+      "km": 80,
+      "elevationGainM": 400
+    },
+    {
+      "name": "Vorharzausfahrt",
+      "km": 77,
+      "elevationGainM": 500
+    },
+    {
+      "name": "Rund um den Huy",
+      "km": 44,
+      "elevationGainM": 400
+    },
+    {
+      "name": "Kinder- und Familientour",
+      "km": 22,
+      "elevationGainM": 100
+    }
+  ],
+  "entryFee": "10 bis 90 € je nach Tour und Anmeldezeitpunkt",
+  "registrationDeadline": "2027-06-15"
 }

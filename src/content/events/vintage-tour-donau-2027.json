@@ -18,8 +18,22 @@
     "region": "Niederösterreich"
   },
   "websiteUrl": "https://www.vintage-tour.at/",
-  "description": "Die Vintage-Tour Donau findet am 5. September 2027 mit Start beim Weingut Lenz Moser in Rohrendorf bei Krems statt. Zugelassen sind klassische Stahlrahmen-Räder mit Baujahr 1990 oder älter, passendes Retro-Outfit ist ausdrücklich erwünscht. Zwei Routen stehen zur Wahl: die Vintage-Tour über 69 Kilometer mit 570 Höhenmetern und die Vintage-Tour+ über 99 Kilometer mit 820 Höhenmetern. Die Strecken führen über Wirtschaftswege, Schotterabschnitte und Weingärten durch das Kremstal und die Wachau, unter anderem vorbei an Schloss Gobelsburg. Es gibt keine Zeitnahme und keinen Rennmodus – die Ausfahrt versteht sich als Genussfahrt für Liebhaber historischer Räder.",
+  "description": "Die Vintage-Tour Donau findet am 5. September 2027 mit Start beim Weingut Lenz Moser in Rohrendorf bei Krems statt. Zugelassen sind klassische Stahlrahmen-Räder mit Baujahr 1990 oder älter, passendes Retro-Outfit ist ausdrücklich erwünscht. Zwei Routen stehen zur Wahl: die Vintage-Tour über 69 Kilometer mit 570 Höhenmetern und die Vintage-Tour+ über 99 Kilometer mit 820 Höhenmetern. Die Strecken führen über Wirtschaftswege, Schotterabschnitte und Weingärten durch das Kremstal und die Wachau, unter anderem vorbei an Schloss Gobelsburg. Es gibt keine Zeitnahme und keinen Rennmodus – die Ausfahrt versteht sich als Genussfahrt für Liebhaber historischer Räder.\n\nBeide Routen starten um 10:00 Uhr in Rohrendorf. Das Startgeld staffelt sich nach Anmeldezeitpunkt: Die Vintage-Tour kostet 55 Euro bis 31. März, 65 Euro bis 31. Juli und 75 Euro bis 1. September, die Vintage-Tour+ jeweils 5 Euro mehr. Vor Ort betragen beide Startgelder 85 Euro. Die Vintage-Tour+ hängt eine zusätzliche Schleife von 30 Kilometern an die kürzere Runde an.",
   "distanceKm": 99,
   "elevationGainM": 820,
-  "imageUrl": "https://static.wixstatic.com/media/89d41b_91fd18c493564c368040542d3dce4f10~mv2.jpg"
+  "imageUrl": "https://static.wixstatic.com/media/89d41b_91fd18c493564c368040542d3dce4f10~mv2.jpg",
+  "distances": [
+    {
+      "name": "Vintage-Tour",
+      "km": 69,
+      "elevationGainM": 570
+    },
+    {
+      "name": "Vintage-Tour+",
+      "km": 99,
+      "elevationGainM": 820
+    }
+  ],
+  "entryFee": "55 € bis 31.03., 65 € bis 31.07., 75 € bis 01.09., vor Ort 85 € (Vintage-Tour); 60 / 70 / 80 / 85 € (Vintage-Tour+)",
+  "startTime": "10:00"
 }
