@@ -20,8 +20,28 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://triathlon-ingolstadt.de",
-  "description": "Der Audi Triathlon Ingolstadt findet 2027 am Sonntag, 6. Juni statt – eine Woche früher als 2026. Das Triathlonfest an der Donau bietet drei Distanzen: die Mitteldistanz über 1,9 km Schwimmen, 81,2 km Rad und 20,5 km Lauf, die Olympische Distanz (1,5 km / 42,6 km / 10,5 km) und einen Sprint über 750 m, 19 km und 5 km. Geschwommen wird im Baggersee, Rad- und Laufstrecken führen durch das Ingolstädter Umland. Die Anmeldung für 2027 öffnet am 1. Oktober 2026; erfahrungsgemäß sind die Startplätze schnell vergeben, die Olympische Distanz meist als erste. Rund um das Rennen bietet der Veranstalter Streckenchecks, Workshops, einen Shuttleservice und den Kinderlauf „Goals for Kids Run“ an.",
-  "distanceKm": 103,
-  "elevationGainM": 600,
-  "imageUrl": "https://triathlonbayern.de/wp-content/uploads/ATI_race24_tops_07-scaled.jpg"
+  "description": "Der Audi Triathlon Ingolstadt findet 2027 am Sonntag, 6. Juni statt, eine Woche früher als 2026. Geschwommen wird im Baggersee im Naherholungsgebiet Ingolstadt, das Ziel liegt im Klenzepark in der Innenstadt. Zur Wahl stehen drei Distanzen: die Mitteldistanz mit 1,9 km Schwimmen, 86 km Rad und 20 km Laufen, die Olympische Distanz mit 1,5 km, 40 km und 10 km sowie der Sprint mit 750 m, 20 km und 5 km. Die Mitteldistanz startet um 07:30 Uhr, die Olympische Distanz um 10:40 Uhr und der Sprint um 12:40 Uhr. Die Anmeldung öffnet am 31. Oktober 2026 um 08:00 Uhr und endet am 14. Mai 2027, früher, wenn das Teilnehmerlimit erreicht ist. Das Startgeld richtet sich nach der Reihenfolge der Anmeldung. Für die Mitteldistanz und die Olympische Distanz sind jeweils 1.000 Einzelstarter zugelassen, für den Sprint 400. Staffeln gibt es auf allen drei Distanzen. Rund um das Rennen bietet der Veranstalter Workshops, einen Shuttleservice und den Kinderlauf Goals for Kids Run an.",
+  "distanceKm": 108,
+  "imageUrl": "https://triathlonbayern.de/wp-content/uploads/ATI_race24_tops_07-scaled.jpg",
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 107.9,
+      "split": "1,9 km / 86 km / 20 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 52,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "750 m / 20 km / 5 km"
+    }
+  ],
+  "entryFee": "Sprint 110 bis 130 €, Olympische Distanz 150 bis 180 €, Mitteldistanz 270 bis 340 € (gestaffelt nach Anmeldereihenfolge, inkl. MwSt.)",
+  "registrationDeadline": "2027-05-14",
+  "startTime": "07:30",
+  "participantLimit": 1000
 }

@@ -20,8 +20,36 @@
     "region": "Hessen"
   },
   "websiteUrl": "https://frankfurt-city-triathlon.de",
-  "description": "Der Frankfurt City Triathlon findet 2027 am Sonntag, 1. August am Langener Waldsee statt; die Anmeldung öffnet am 2. November 2026 um 10:00 Uhr. Fünf Formate stehen zur Wahl: die Mitteldistanz über 2 km Schwimmen, 80 km Rad und 20 km Laufen, die Olympische Distanz (1,5 / 45 / 10 km), die Sprintdistanz (0,75 / 28 / 5 km), die Jedermann-Distanz (0,4 / 12 / 5 km) und ein Aquabike über 2 km und 80 km. Geschwommen wird im Langener Waldsee südlich von Frankfurt – dem See, in dem auch der IRONMAN Frankfurt startet. Bei der Leserwahl „Rennen des Jahres 2025“ belegte der Frankfurt City Triathlon sowohl über Sprint/Kurzdistanz als auch über die Mitteldistanz Platz 3. Die Ausgabe 2026 war ausgebucht.",
+  "description": "Der Frankfurt City Triathlon findet 2027 am Sonntag, 1. August am Langener Waldsee statt; die Anmeldung öffnet am 2. November 2026 um 12:00 Uhr. Fünf Formate stehen zur Wahl: die Mitteldistanz über 2 km Schwimmen, 80 km Rad und 20 km Laufen, die Olympische Distanz (1,5 / 45 / 10 km), die Sprintdistanz (0,75 / 28 / 5 km), die Jedermann-Distanz (0,4 / 12 / 5 km) und ein Aquabike über 2 km und 80 km. Geschwommen wird im Langener Waldsee südlich von Frankfurt – dem See, in dem auch der IRONMAN Frankfurt startet. Bei der Leserwahl „Rennen des Jahres 2025“ belegte der Frankfurt City Triathlon sowohl über Sprint/Kurzdistanz als auch über die Mitteldistanz Platz 3. Die Ausgabe 2026 war ausgebucht. Beim Aquabike endet die Zeitnahme am Radabstieg, bis ins Ziel sind danach noch 1 km zu laufen. Die Startgebühren staffeln sich nach der Reihenfolge der Anmeldung, die ersten 400 Startenden zahlen weniger als alle danach.",
   "distanceKm": 102,
   "elevationGainM": 500,
-  "imageUrl": "https://www.frankfurt-city-triathlon.de/wp-content/uploads/2022/10/IKW_9668-scaled.jpg"
+  "imageUrl": "https://www.frankfurt-city-triathlon.de/wp-content/uploads/2022/10/IKW_9668-scaled.jpg",
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 102,
+      "split": "2 km / 80 km / 20 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 56.5,
+      "split": "1,5 km / 45 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 33.75,
+      "split": "0,75 km / 28 km / 5 km"
+    },
+    {
+      "name": "Jedermann-Distanz",
+      "km": 17.4,
+      "split": "0,4 km / 12 km / 5 km"
+    },
+    {
+      "name": "Aquabike",
+      "km": 82,
+      "split": "2 km / 80 km"
+    }
+  ],
+  "entryFee": "Mitteldistanz 290 € (ab Startplatz 401: 340 €), Olympische Distanz 180 € (200 €), Sprint 150 € (170 €), Jedermann 90 € (100 €), Aquabike 270 € (300 €); Staffeln je nach Distanz 105 bis 390 €; für Mittel und Olympische Distanz ist eine Tageslizenz nötig"
 }

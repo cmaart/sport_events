@@ -1,0 +1,30 @@
+{
+  "id": "etape-du-tour-2027",
+  "name": "L'Étape du Tour de France 2027",
+  "sport": "cycling",
+  "categories": [
+    "Gran Fondo"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Cluses",
+    "lat": 46.0603,
+    "lng": 6.5791
+  },
+  "websiteUrl": "https://www.letapedutourdefrance.com/en",
+  "description": "Die 35. Ausgabe der Étape du Tour de France findet am 11. Juli 2027 statt. Laut offizieller Streckenseite führt die Route von Cluses in Haute-Savoie zu den Saisies in Savoyen und misst 154 km mit 4.850 Höhenmetern und fünf großen Anstiegen, darunter der Col de la Colombière und der Anstieg nach Bisanne. Die Anmeldung für das Publikum öffnet am 2. November 2026 um 14:00 Uhr. Wie in den Vorjahren fahren Hobbyradsportler die Strecke einer Tour-de-France-Etappe auf gesperrten Straßen, bevor die Profis folgen.",
+  "distanceKm": 154,
+  "elevationGainM": 4850,
+  "distances": [
+    {
+      "name": "Étape du Tour",
+      "km": 154,
+      "elevationGainM": 4850
+    }
+  ],
+  "registrationUrl": "https://www.letapedutourdefrance.com/en"
+}

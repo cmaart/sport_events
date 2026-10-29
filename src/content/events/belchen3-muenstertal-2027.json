@@ -18,8 +18,27 @@
     "region": "Baden-Württemberg"
   },
   "websiteUrl": "https://www.hirsch-sprung.com/kurse-reisen-events/rennrad-langstrecken-event-trinational-belchen-hoch3/",
-  "description": "Belchen³ ist ein trinationaler Rennrad-Marathon im Schwarzwald, der am 4. Juli 2027 mit Start und Ziel an der Belchenhalle in Münstertal stattfindet. Die Routen verbinden den Belchen im Schwarzwald, die Belchenflue im Schweizer Jura und den Grand Ballon in den Vogesen. Angeboten werden Belchen Speed über 120 Kilometer und 2.500 Höhenmeter, Ballon Battle über 220 Kilometer und 3.000 Höhenmeter sowie die Classic-Runde über 320 Kilometer und rund 4.200 Höhenmeter. Die Registrierung und Startnummernausgabe beginnt am Renntag bereits um 3:30 Uhr, die Logistik öffnet am Vortag an der Belchenhalle. Zusätzlich lassen sich die Strecken über eine Rallye-App von April bis Dezember individuell fahren. Die Veranstaltung wurde mit dem Trinationalen Sportpreis ausgezeichnet; die Startplätze sind begrenzt.",
+  "description": "Belchen³ ist ein trinationaler Rennrad-Marathon im Schwarzwald, der am 4. Juli 2027 mit Start und Ziel an der Belchenhalle in Münstertal stattfindet. Die Routen verbinden den Belchen im Schwarzwald, die Belchenflue im Schweizer Jura und den Grand Ballon in den Vogesen. Angeboten werden Belchen Speed über 120 Kilometer und 2.500 Höhenmeter, Ballon Battle über 220 Kilometer und 3.000 Höhenmeter sowie die Classic-Runde über 320 Kilometer und rund 4.200 Höhenmeter. Die Startzeiten liegen bei 4:30 Uhr für die 320 Kilometer, 7:00 Uhr für Ballon Battle und 9:00 Uhr für Belchen Speed; die Registrierung beginnt jeweils eine Stunde vorher, für die Classic-Runde also um 3:30 Uhr, die Logistik öffnet am Vortag an der Belchenhalle. Zusätzlich lassen sich die Strecken über eine Rallye-App von April bis Dezember individuell fahren. Die Veranstaltung wurde mit dem Trinationalen Sportpreis ausgezeichnet; die Startplätze sind begrenzt, der Veranstalter nennt 80 Tickets für jeden Loop.",
   "distanceKm": 320,
   "elevationGainM": 4200,
-  "imageUrl": "https://www.hirsch-sprung.com/wp-content/uploads/2025/11/belchen-hoch-3-header.jpg"
+  "imageUrl": "https://www.hirsch-sprung.com/wp-content/uploads/2025/11/belchen-hoch-3-header.jpg",
+  "distances": [
+    {
+      "name": "Belchen hoch 3 (Classic)",
+      "km": 320,
+      "elevationGainM": 4200
+    },
+    {
+      "name": "Ballon Battle",
+      "km": 220,
+      "elevationGainM": 3000
+    },
+    {
+      "name": "Belchen Speed",
+      "km": 120,
+      "elevationGainM": 2500
+    }
+  ],
+  "entryFee": "ab 79 € bis 31.12.2026, ab 89 € bis 31.03.2027, ab 99 € bis 30.06.2027; Rallye-App-Variante 49 €",
+  "startTime": "04:30"
 }

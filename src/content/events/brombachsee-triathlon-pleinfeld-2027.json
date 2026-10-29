@@ -18,8 +18,14 @@
     "region": "Bayern"
   },
   "websiteUrl": "https://brombachseetriathlon.com",
-  "description": "Der 3. Brombachseetriathlon findet am 18. und 19. September 2027 im Seezentrum Allmannsdorf am Großen Brombachsee statt – erstmals als zweitägige Veranstaltung und rund drei Wochen später im Jahr als 2026. Die Anmeldung öffnet am 11. November 2026 um 11:11 Uhr. Kern ist die Mitteldistanz über 1,9 km Schwimmen, 90 km Rad und 21 km Lauf: eine Schwimmrunde im See, drei hügelige Radrunden durch das Fränkische Seenland mit rund 375 Höhenmetern pro Runde und eine Begegnungs-Laufstrecke am Ufer. Bei der zweiten Auflage Ende August 2026 waren mit mehr als 1.100 Meldungen alle Startplätze Wochen vor dem Termin vergeben. Ausrichter ist der OAI e.V.",
+  "description": "Der 3. Brombachseetriathlon findet am 18. und 19. September 2027 im Seezentrum Allmannsdorf am Großen Brombachsee in Pleinfeld statt. Am Samstag, 18. September, stehen Registrierung, Bike-Check-in, Expo und ein Rahmenprogramm an. Der Wettkampftag ist Sonntag, 19. September 2027. Geplant ist die Mitteldistanz mit 1,9 Kilometern Schwimmen, 90 Kilometern Radfahren und 21,1 Kilometern Laufen, neben den Einzelstartern sollen wieder Staffeln antreten können. Die konkreten Streckenführungen hat der Veranstalter noch nicht veröffentlicht. Die Online-Anmeldung öffnet am 11. November 2026 um 11:11 Uhr. Bei der zweiten Auflage Ende August 2026 waren mit mehr als 1.100 Meldungen alle Startplätze Wochen vor dem Termin vergeben, eine frühe Anmeldung ist also ratsam. Ausrichter ist der OAI e.V., Organisationsleiter ist Stefan Schwenk.",
   "distanceKm": 113,
-  "elevationGainM": 1125,
-  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/80/8f/34/brombachsee-triathlon-87-1730878076.webp"
+  "imageUrl": "https://www.hdsports.org/media/reviews/photos/original/80/8f/34/brombachsee-triathlon-87-1730878076.webp",
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 113,
+      "split": "1,9 km / 90 km / 21,1 km"
+    }
+  ]
 }

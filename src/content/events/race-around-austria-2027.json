@@ -20,7 +20,26 @@
   "websiteUrl": "https://www.racearoundaustria.at",
   "registrationUrl": "https://www.racearoundaustria.at/raa/anmeldeinfo",
   "imageUrl": "https://assets.tourdata.at/1920x/254604/EE6F92622DAFA9C18057776768DB8C314EF4A320A6EC88074926E329CE8BC73D/race-around-austria.jpg",
-  "description": "Race Around Austria 2027 vom 9. bis 15. August 2027 mit Start und Ziel in St. Georgen im Attergau – das Nonstop-Ultracycling-Rennen einmal rund um Österreich. Die Solo-Distanz führt über rund 2.200 km und 30.000 Höhenmeter entlang der Staatsgrenze; dazu kommen Team-Wertungen (2er, 4er, 8er), die Challenge-Distanz über 560 km sowie als Rahmenbewerb das Gravel Around Salzkammergut am 14. August 2027 (163 oder 217 km).\n\nDie Registrierung öffnet am 1. Oktober 2026 um 09:00 Uhr und läuft bis 1. Juli 2027 mit gestaffelten Startgeldern (Stichtage 1. April und 1. Juni); Nachmeldungen sind im Juli 2027 per E-Mail möglich.",
+  "description": "Race Around Austria 2027 vom 9. bis 15. August 2027 mit Start und Ziel in St. Georgen im Attergau, das Nonstop-Ultracycling-Rennen einmal rund um Österreich. Das Extreme Race Around Austria führt solo über rund 2.200 km und 30.000 Höhenmeter entlang der Staatsgrenze, ohne Etappen und mit laufender Zeit. Der erste Start ist am Montag, 9. August 2027, um 20:30 Uhr im C-Startblock der Extreme-Wertung. Dazu kommen Team-Wertungen für 2er und 4er Teams, das Race Around Austria 1500 mit rund 17.500 Höhenmetern sowie die Challenge über 560 km. Als Rahmenbewerb findet das Gravel Around Salzkammergut am 14. August 2027 über 163 oder 217 km statt.\n\nDie Registrierung öffnet am 1. Oktober 2026 um 09:00 Uhr und endet am 1. Juli 2027 um 24:00 Uhr. Die Startgelder steigen mit den Stichtagen 1. April und 1. Juni. Nachmeldungen sind vom 2. bis 31. Juli 2027 ausschließlich per E-Mail möglich. Zum Starterpackage gehören ein leihweiser GPS-Tracker, das Routenbuch, T-Shirts und ein Finisherpokal.",
   "distanceKm": 2200,
-  "elevationGainM": 30000
+  "elevationGainM": 30000,
+  "distances": [
+    {
+      "name": "Extreme Race Around Austria",
+      "km": 2200,
+      "elevationGainM": 30000
+    },
+    {
+      "name": "Race Around Austria 1500",
+      "km": 1500,
+      "elevationGainM": 17500
+    },
+    {
+      "name": "Challenge",
+      "km": 560
+    }
+  ],
+  "startTime": "20:30",
+  "registrationDeadline": "2027-07-01",
+  "entryFee": "Solo Extreme 800 € bis 1. April 2027, 950 € bis 1. Juni, 1.100 € bis 1. Juli; Solo 1500 700 / 850 / 1.000 €; 2er Team 900 bis 1.200 €, 4er Team 1.000 bis 1.300 € pro Team"
 }

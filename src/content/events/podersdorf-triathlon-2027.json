@@ -23,6 +23,33 @@
   "websiteUrl": "https://www.austria-triathlon.at/",
   "registrationUrl": "https://www.austria-triathlon.at/anmeldung-austria-triathlon-podersdorf-2027/",
   "imageUrl": "https://www.austria-triathlon.at/wp-content/uploads/2026/08/Best-Of-19-2048x1365-1.jpg",
-  "description": "Der Austria Triathlon Podersdorf, seit 1988 einer der traditionsreichsten Triathlons Europas, geht 2027 von 3. bis 5. September am Neusiedler See in seine 40. Auflage. Am Freitag starten Kids Aquathlon und Age-Group-Aquathlon (0,75 km Schwimmen / 5 km Laufen), am Samstag die Ironman-Distanz (3,8 km / 180 km / 42 km) und die Halbdistanz (1,9 km / 88 km / 21 km), jeweils auch als Aquabike. Der Sonntag gehört der Olympischen Distanz (1,5 km / 40 km / 10 km) und der Sprintdistanz (0,75 km / 24,4 km / 5 km). Bekannt ist der Bewerb für seine gesperrte, flache Radstrecke im Seewinkel, auf der allerdings der oft kräftige Wind den Rückweg hart machen kann. Gelaufen wird unter anderem durch den legendären Streckenabschnitt „Hölle\". Mit über 2.800 Teilnehmer:innen und familiärer Atmosphäre vor den Toren Wiens ist Podersdorf ein Fixpunkt im österreichischen Kalender; die Anmeldung für 2027 ist geöffnet.",
-  "distanceKm": 225.8
+  "description": "Der Austria Triathlon Podersdorf, seit 1988 einer der traditionsreichsten Triathlons Europas, geht 2027 von 3. bis 5. September am Neusiedler See in seine 40. Auflage. Am Freitag starten Kids Aquathlon und Age-Group-Aquathlon (0,75 km Schwimmen / 5 km Laufen), am Samstag die Ironman-Distanz (3,8 km / 180 km / 42 km) und die Halbdistanz (1,9 km / 88 km / 21 km), jeweils auch als Aquabike. Der Sonntag gehört der Olympischen Distanz (1,5 km / 40 km / 10 km) und der Sprintdistanz (0,75 km / 24,4 km / 5 km). Bekannt ist der Bewerb für seine gesperrte, flache Radstrecke im Seewinkel, auf der allerdings der oft kräftige Wind den Rückweg hart machen kann. Gelaufen wird unter anderem durch den legendären Streckenabschnitt „Hölle\". Mit über 2.800 Teilnehmer:innen und familiärer Atmosphäre vor den Toren Wiens ist Podersdorf ein Fixpunkt im österreichischen Kalender; die Anmeldung für die 40. Auflage öffnete am 22. September 2026 um 20:00 Uhr über time2win. Der Veranstalter nennt als Ziel, erstmals die Marke von 3.000 Startenden zu erreichen.",
+  "distanceKm": 225.8,
+  "distances": [
+    {
+      "name": "Ironman",
+      "km": 225.8,
+      "split": "3,8 km / 180 km / 42 km"
+    },
+    {
+      "name": "Halbdistanz",
+      "km": 110.9,
+      "split": "1,9 km / 88 km / 21 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 30.15,
+      "split": "0,75 km / 24,4 km / 5 km"
+    },
+    {
+      "name": "Age-Group-Aquathlon",
+      "km": 5.75,
+      "split": "0,75 km / 5 km"
+    }
+  ]
 }

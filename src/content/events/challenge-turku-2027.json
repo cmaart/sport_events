@@ -9,7 +9,7 @@
   "dates": {
     "start": "2027-07-24",
     "end": "2027-07-25",
-    "confirmed": true
+    "confirmed": false
   },
   "location": {
     "name": "Turku",
