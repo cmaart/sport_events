@@ -1,0 +1,23 @@
+{
+  "id": "embrunman-2027",
+  "name": "Embrunman",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz"
+  ],
+  "country": "FR",
+  "dates": {
+    "start": "2027-08-15",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Embrun",
+    "lat": 44.566,
+    "lng": 6.497
+  },
+  "websiteUrl": "https://www.embrunman.com/",
+  "description": "Embrunman in Embrun (Hautes-Alpes): Langdistanz mit 3,8 km Schwimmen im Lac de Serre-Ponçon, 185 km Rad über den Col de l'Izoard (3.600 Hm) und 42,2 km Laufen. Gilt als einer der schwersten Langdistanz-Triathlons der Welt und ist auf 1.300 Athleten limitiert. Das Rennen findet traditionell am 15. August (französischer Nationalfeiertag) statt; der Termin 2027 ist vom Veranstalter noch nicht offiziell bestätigt.",
+  "distanceKm": 231,
+  "elevationGainM": 3600,
+  "imageUrl": "https://embrunman.com/my_uploads/izoard3.webp"
+}
