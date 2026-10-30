@@ -16,7 +16,7 @@ templatisierter Seiten auf einer jungen, backlink-losen Domain.**
 aber jede Seite muss **Qualität und Tiefe** haben — indexwürdig statt austauschbar. Seit 2026-09-24
 gibt es kein Mengen-Limit pro Lauf mehr; die Bremse ist das Qualitäts-Gate (siehe „Neuanlagen").
 
-## Fokus-Set: die 150 indexierbaren Seiten (seit 2026-10-17 — höchste Priorität)
+## Fokus-Set: die 20 indexierbaren Seiten (seit 2026-10-17, ab 2026-10-30 auf 20 reduziert — höchste Priorität)
 
 Seit 2026-10-17 ist **nur noch ein kleines Fokus-Set von Event-Seiten indexierbar** (`robots: index`
 + Sitemap). Alle anderen Event-Seiten sind `noindex, follow` — sie bleiben online und verlinkt,
@@ -31,8 +31,8 @@ parallel ~7.000 Seiten. Der Weg zurück führt über wenige, dichte, DE/AT-fokus
   werden mit den bestpunktierten Kandidaten aufgefüllt (DE/AT bekommen +30 Bonus, Events mit Start
   in < 60 Tagen −20). `--dry-run` zeigt die Tabelle, `--report` die Score-Begründung je Slug,
   `--rebuild` ignoriert die bestehende Liste (nur bewusst einsetzen, Churn ist selbst ein Signal).
-- **Limit 150 bleibt, bis Google Seiten aus dem Set indexiert.** Erst wenn Search Console für das
-  Set „Indexiert" meldet (User prüft), wird `--limit` schrittweise erhöht (z. B. +50). Nicht
+- **Limit 20 bleibt, bis Google Seiten aus dem Set indexiert** (am 2026-10-30 von 150 auf 20 gesenkt). Erst wenn Search Console für das
+  Set „Indexiert" meldet (User prüft), wird `--limit` schrittweise erhöht (z. B. +10). Nicht
   eigenmächtig erhöhen.
 - **Enrichment-Reihenfolge pro Lauf (ersetzt die alte Reihenfolge, s. u.):**
   1. **Fokus-Events zuerst.** `node scripts/select-index-focus.mjs --report` ausführen; die
@@ -46,7 +46,7 @@ parallel ~7.000 Seiten. Der Weg zurück führt über wenige, dichte, DE/AT-fokus
      teuerste Fehler). Abgesagt → Datei entfernen oder `confirmed:false`, BLACKLIST, Script neu
      laufen lassen, damit der Platz nachbesetzt wird.
   3. Erst danach Nicht-Fokus-Events anreichern und neue Events anlegen.
-- **Mindestens 15 Fokus-Events pro Lauf vertiefen** (Tiefenfelder + Beschreibung). Das ist das
+- **Alle Fokus-Events pro Lauf prüfen und vertiefen** (Tiefenfelder + Beschreibung). Das ist das
   Hauptziel jedes Laufs, Neuanlagen sind nachrangig.
 - **Neue starke DE/AT-Events** (Klassiker, Ironman/Challenge, große Radmarathons) werden nur dann
   Teil des Sets, wenn ein Platz frei wird oder das Limit steigt; das entscheidet das Script.

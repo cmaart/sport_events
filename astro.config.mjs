@@ -118,6 +118,8 @@ export default defineConfig({
         if (m) return FOCUS_SLUGS.has(m[1]) && !PAST_EVENT_SLUGS.has(m[1]);
         const l = pathname.match(/^\/(radrennen|triathlon)\/[^/]+\/\d{4}\/$/);
         if (l) return (LANDING_FOCUS.get(pathname) ?? 0) >= MIN_FOCUS_PER_LANDING;
+        // Submit form + thank-you page are noindex (thin utility pages).
+        if (/^\/event-vor(ge)?schlagen\/$/.test(pathname)) return false;
         return true;
       },
       // @ts-expect-error changefreq string literals cause a union-type mismatch in @astrojs/sitemap typings

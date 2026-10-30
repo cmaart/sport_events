@@ -33,7 +33,9 @@ const OUT = path.join(ROOT, 'src', 'data', 'index-focus.json');
 
 const args = new Set(process.argv.slice(2));
 const limitArg = [...args].find((a) => a.startsWith('--limit='));
-const LIMIT = limitArg ? Number(limitArg.split('=')[1]) : 150;
+// 150 from 2026-10-17; cut to 20 on 2026-10-30 after the homepage was crawled
+// with the 150 set live and still rejected ("Gecrawlt – zurzeit nicht indexiert").
+const LIMIT = limitArg ? Number(limitArg.split('=')[1]) : 20;
 const DRY = args.has('--dry-run');
 const REBUILD = args.has('--rebuild');
 const REPORT = args.has('--report');
@@ -122,8 +124,13 @@ if (!REBUILD && fs.existsSync(OUT)) {
   }
 }
 
-// Keep sticky entries that still exist and are still upcoming.
-const kept = existing.filter((slug) => bySlug.has(slug) && isFuture(bySlug.get(slug).data));
+// Keep sticky entries that still exist and are still upcoming. If the limit was
+// lowered, keep only the best-scoring ones.
+const scoreBySlug = new Map(candidates.map((c) => [c.slug, c.score]));
+const kept = existing
+  .filter((slug) => bySlug.has(slug) && isFuture(bySlug.get(slug).data))
+  .sort((a, b) => scoreBySlug.get(b) - scoreBySlug.get(a) || a.localeCompare(b))
+  .slice(0, LIMIT);
 const dropped = existing.filter((slug) => !kept.includes(slug));
 const keptSet = new Set(kept);
 const added = [];
@@ -152,7 +159,7 @@ if (REPORT || DRY) {
 }
 console.log(`\nfocus set: ${slugs.length}/${LIMIT}  kept ${kept.length}  added ${added.length}  dropped ${dropped.length}`);
 console.log('by country:', Object.entries(byCountry).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k}:${v}`).join(' '));
-if (dropped.length) console.log('dropped (past/deleted):', dropped.join(', '));
+if (dropped.length) console.log('dropped (past/deleted/over limit):', dropped.join(', '));
 if (added.length && !REBUILD) console.log('added:', added.join(', '));
 const weakest = slugs.slice(-10).map((s) => `${s} (${scoreOf.get(s).score})`);
 console.log('weakest in set (enrich these first):', weakest.join(', '));
