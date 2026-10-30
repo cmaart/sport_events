@@ -168,7 +168,10 @@ Aggregatoren (nur Discovery — Fakten immer gegen die offizielle Veranstalterse
 - Triathlon europaweit: https://www.k226.com/events/events.aspx
 - Rad AT/DE (hdsports): https://www.hdsports.at/rad — paginiert (`?page=2`, `?page=3` …), alle Seiten
   durchgehen; Detailseiten `/rad/<slug>` zeigen auch schon 2027-Termine.
-- Triathlon AT/DE (hdsports): https://www.hdsports.at/triathlonkalender — paginiert wie oben.
+- Triathlon AT (hdsports): https://www.hdsports.at/triathlonkalender — paginiert wie oben.
+- Triathlon DE (hdsports): https://www.hdsports.at/triathlonkalender-deutschland — ~19 Seiten
+  (`?page=N`), alle durchgehen; Filter „Termin 2027" für die neue Saison nutzen. Diese Liste ist
+  deutlich breiter als der DTU-Kalender (Beispiel, das gefehlt hatte: Aasee Triathlon Bocholt).
 
 Fokus AT/DE für Breite; Ironman/Challenge + Radklassiker europaweit. Neue `country`/`category`-Werte
 bei Bedarf in `src/lib/types.ts` ergänzen (Zod übernimmt automatisch) — neue Filter nur anlegen wenn

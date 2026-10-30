@@ -1,0 +1,32 @@
+{
+  "id": "aasee-triathlon-bocholt-2027",
+  "name": "Aasee Triathlon Bocholt",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bocholt",
+    "lat": 51.8357,
+    "lng": 6.6169,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.aasee-triathlon.de/",
+  "imageUrl": "https://res.cloudinary.com/kavval/image/upload/c_lfill,f_auto,w_1600,h_550,g_auto,q_auto:low/events/europe/allemagne/rhenanie-du-nord-westphalie/district-de-munster/aasee-triathlon/pttmx28t98um7plztd1n",
+  "description": "Der Aasee Triathlon in Bocholt startet am Freizeitzentrum Aasee und wird vom Bocholter Wassersportverein 1920 e.V. ausgerichtet. Für den 13. Juni 2027 ist die Mitteldistanz (2.000 m/90 km/20 km) angekündigt; 2026 gab es zusätzlich Sprintdistanz (500 m/20 km/5 km), Bocholter Distanz (1.500 m/40 km/10 km), Staffel und Schülertriathlon. Die Anmeldung öffnet am 13.12.2026 um 12:00 Uhr.",
+  "distanceKm": 112,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 112,
+      "split": "2 km / 90 km / 20 km"
+    }
+  ]
+}
