@@ -51,5 +51,7 @@
       "split": "2 km / 80 km"
     }
   ],
-  "entryFee": "Mitteldistanz 290 € (ab Startplatz 401: 340 €), Olympische Distanz 180 € (200 €), Sprint 150 € (170 €), Jedermann 90 € (100 €), Aquabike 270 € (300 €); Staffeln je nach Distanz 105 bis 390 €; für Mittel und Olympische Distanz ist eine Tageslizenz nötig"
+  "entryFee": "Mitteldistanz 290 € (ab Startplatz 401: 340 €), Olympische Distanz 180 € (200 €), Sprint 150 € (170 €), Jedermann 90 € (100 €), Aquabike 270 € (300 €); Staffeln je nach Distanz 105 bis 390 €; für Mittel und Olympische Distanz ist eine Tageslizenz nötig",
+  "registrationDeadline": "2027-07-18",
+  "participantLimit": 2800
 }

@@ -1,0 +1,30 @@
+{
+  "name": "Swim Run powered by Skinfit",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-03-14",
+    "end": "2027-03-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Maria Enzersdorf, Südstadt",
+    "lat": 48.0963,
+    "lng": 16.3148,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.triheroes.at/",
+  "description": "Der Swim Run powered by Skinfit findet laut ÖTRV-Verbandskalender am 14. März 2027 in der Südstadt von Maria Enzersdorf südlich von Wien statt. Organisiert wird er von den Triheroes ASKÖ NÖ aus Wiener Neustadt, die ihn als frühen Saisonauftakt für Triathleten anbieten. Im Erwachsenenbewerb schwimmen die Teilnehmer 0,4 km und laufen anschließend 3 km, es handelt sich also um einen kurzen Aquathlon. Zusätzlich gibt es Nachwuchsbewerbe mit verschiedenen Distanzen. Die Ausgabe 2026 lief am 22. März, die Ausschreibung für 2027 hat der Veranstalter noch nicht veröffentlicht, daher sind Startgeld und Zeitplan offen.",
+  "distanceKm": 3.4,
+  "distances": [
+    {
+      "name": "Erwachsenenbewerb",
+      "km": 3.4,
+      "split": "0,4 km Schwimmen, 3 km Laufen"
+    }
+  ],
+  "id": "swim-run-maria-enzersdorf-2027",
+  "sport": "triathlon"
+}

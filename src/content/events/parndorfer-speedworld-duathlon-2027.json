@@ -1,0 +1,35 @@
+{
+  "name": "14. Int. Parndorfer Speedworld Supersprint Duathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-05-10",
+    "end": "2027-05-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Speedworld, Pachfurth",
+    "lat": 48.0361,
+    "lng": 16.8232,
+    "region": "Burgenland"
+  },
+  "websiteUrl": "https://www.lc-parndorf.com/",
+  "description": "Der 14. Internationale Parndorfer Speedworld Supersprint Duathlon ist im ÖTRV-Verbandskalender für den 10. Mai 2027 eingetragen. Veranstalter ist der 1. Laufclub Parndorf mit seinem Tri Team, Austragungsort ist das Gelände der Speedworld bei Pachfurth im Nordburgenland. Der Supersprint besteht aus 3 km Laufen, 10 km Radfahren und 1,5 km Laufen und kann auch als Zweierstaffel bestritten werden. Der Nachwuchsbewerb führt über 2 km Laufen, 6 km Radfahren und 1 km Laufen. Dazu gibt es einen Kids Duathlon mit altersgerechten Distanzen. Die kurze, flache Strecke macht den Termin zu einem Einstieg in die Duathlonsaison. Startgeld und Anmeldeschluss für 2027 sind noch nicht veröffentlicht.",
+  "distanceKm": 14.5,
+  "distances": [
+    {
+      "name": "Supersprint Duathlon",
+      "km": 14.5,
+      "split": "3 km Laufen, 10 km Rad, 1,5 km Laufen"
+    },
+    {
+      "name": "Supersprint Nachwuchs",
+      "km": 9,
+      "split": "2 km Laufen, 6 km Rad, 1 km Laufen"
+    }
+  ],
+  "id": "parndorfer-speedworld-duathlon-2027",
+  "sport": "triathlon"
+}

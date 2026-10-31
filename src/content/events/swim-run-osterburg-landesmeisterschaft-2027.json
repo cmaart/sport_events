@@ -1,0 +1,30 @@
+{
+  "name": "Landesmeisterschaft / Jedermann-Rennen Swim & Run Sachsen-Anhalt",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-11-14",
+    "end": "2027-11-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Osterburg (Altmark)",
+    "lat": 52.797,
+    "lng": 11.742,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://tvsa-online.de/",
+  "description": "Die Landesmeisterschaft im Swim & Run von Sachsen-Anhalt mit begleitendem Jedermann-Rennen findet laut DTU-Veranstaltungskalender am 14. November 2027 in Osterburg in der Altmark statt. Eingetragen ist die Veranstaltung von aktivLeben, der Triathlonverband Sachsen-Anhalt (TVSA) führt sie unter seinen Wettkämpfen. Gewertet wird die Jedermann- und Altersklassenkonkurrenz über 0,4 km Schwimmen und 5 km Laufen. Das Rennen ist ein Saisonabschluss im Spätherbst und läuft ohne Radabschnitt. Die DTU erwartet etwa 100 Teilnehmer, die Genehmigungsnummer ist 14-27-08-06910. Ausschreibung, Startgeld und Anmeldeschluss hat der Veranstalter bislang nicht veröffentlicht.",
+  "distanceKm": 5.4,
+  "distances": [
+    {
+      "name": "Jedermann / Altersklassen",
+      "km": 5.4,
+      "split": "0,4 km Schwimmen, 5 km Laufen"
+    }
+  ],
+  "id": "swim-run-osterburg-landesmeisterschaft-2027",
+  "sport": "triathlon"
+}

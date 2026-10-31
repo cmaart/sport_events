@@ -51,5 +51,8 @@
       "km": 5.75,
       "split": "0,75 km / 5 km"
     }
-  ]
+  ],
+  "entryFee": "Ironman-Distanz 429 € (erste 100 Anmeldungen), danach 459 € / 499 €; Halbdistanz ab 249 € (289 € / 329 €); Olympische Distanz ab 99 € (129 € / 149 €); Sprint ab 89 € (99 € / 109 €); Age-Group-Aquathlon 35 €; Kids-Aquathlon 25 €; Staffeln und Aquabike abweichend; zzgl. Bearbeitungsgebühr (0,60 € + 4,2 %) und ggf. Tageslizenz",
+  "registrationDeadline": "2027-08-01",
+  "startTime": "07:00"
 }

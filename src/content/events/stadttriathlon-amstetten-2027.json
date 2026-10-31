@@ -1,0 +1,30 @@
+{
+  "name": "3. Volksbank Stadttriathlon Amstetten",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Amstetten",
+    "lat": 48.1203,
+    "lng": 14.8752,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.triateamnoewest.at/",
+  "description": "Der 3. Volksbank Stadttriathlon Amstetten findet laut ÖTRV-Verbandskalender am 20. Juni 2027 statt. Veranstalter ist der Verein Tria Team NÖ West aus dem Mostviertel. Die Premiere war 2025, die zweite Ausgabe folgte 2026, und der Wettkampf wird im Zentrum der Bezirkshauptstadt Amstetten ausgetragen. Geschwommen wird im Stadtbad, danach geht es auf eine kurze Radrunde und eine Laufstrecke durch die Stadt. Ausgeschrieben ist ein Hobbybewerb mit 0,3 km Schwimmen, 9,1 km Radfahren und 3 km Laufen, der sich vor allem an Einsteiger richtet. Startgeld, Anmeldeschluss und Teilnehmerlimit für 2027 hat der Veranstalter noch nicht veröffentlicht.",
+  "distanceKm": 12.4,
+  "distances": [
+    {
+      "name": "Hobbybewerb",
+      "km": 12.4,
+      "split": "0,3 km Schwimmen, 9,1 km Rad, 3 km Laufen"
+    }
+  ],
+  "id": "stadttriathlon-amstetten-2027",
+  "sport": "triathlon"
+}

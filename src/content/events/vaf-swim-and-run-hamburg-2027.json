@@ -1,0 +1,30 @@
+{
+  "name": "17. VAF Swim and Run",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-02-28",
+    "end": "2027-02-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.576,
+    "lng": 9.887,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://vafev.de/",
+  "description": "Der 17. VAF Swim and Run ist im DTU-Veranstaltungskalender für den 28. Februar 2027 eingetragen. Veranstalter ist der Verein Aktive Freizeit (VAF) in Hamburg,. Beim Swim and Run folgt auf das Schwimmen ein Lauf, einen Radabschnitt gibt es nicht. Die Wertung für Jedermänner und Altersklassen umfasst 0,75 km Schwimmen und 5 km Laufen. Die DTU rechnet mit etwa 200 Teilnehmern und führt die Veranstaltung mit der Genehmigungsnummer 06-27-08-07006. Eine eigene Ausschreibung für 2027 hat der Verein bislang nicht veröffentlicht, Startgeld und Zeitplan sind deshalb offen.",
+  "distanceKm": 5.75,
+  "distances": [
+    {
+      "name": "Jedermann / Altersklassen",
+      "km": 5.75,
+      "split": "0,75 km Schwimmen, 5 km Laufen"
+    }
+  ],
+  "id": "vaf-swim-and-run-hamburg-2027",
+  "sport": "triathlon"
+}

@@ -21,23 +21,31 @@
   "registrationUrl": "https://www.riderman.de/anmeldung/",
   "imageUrl": "https://www.riderman.de/wp-content/uploads/2026/08/rm_strecke_bonndorf_gruppe_vonhinten_1x1_-freuleingraf-01121-1920w-1920x1125.webp",
   "description": "Der RiderMan in Bad Dürrheim ist ein Jedermann-Etappenrennen über drei Tage im südöstlichen Schwarzwald, bei dem Amateure vom 3. bis 5. September 2027 „wie die Profis\" auf vollständig gesperrten Straßen fahren. Den Auftakt macht am Freitag ein Einzelzeitfahren über 16,1 km (226 Hm), am Samstag folgt die lange Bergetappe über 112,9 km (1.520 Hm) und am Sonntag die Schlussetappe über 95,0 km (1.239 Hm). Die lange Bergetappe am Samstag gilt als Königsetappe des Wochenendes. Gewertet wird eine Gesamtzeit über alle drei Etappen, ein echtes Rundfahrt-Format für Hobbyfahrer:innen, bei dem jede Sekunde aus Zeitfahren und Straßenrennen zusammenzählt. Die kupierten Strecken führen durch die bewaldeten Höhenzüge der Baar und rund um Bonndorf. In Summe warten rund 224 km und knapp 3.000 Höhenmeter. Rund um das Rennen gibt es ein Rahmenprogramm mit Kids-Day und einer Oldtimer-Präsentationsfahrt; die Anmeldung läuft über riderman.de.",
-  "distanceKm": 224,
-  "elevationGainM": 2985,
+  "distanceKm": 230,
   "distances": [
     {
       "name": "Etappe 1 – Einzelzeitfahren",
-      "km": 16.1,
-      "elevationGainM": 226
+      "km": 22
     },
     {
       "name": "Etappe 2 – Straßenrennen",
-      "km": 112.9,
+      "km": 113,
       "elevationGainM": 1520
     },
     {
       "name": "Etappe 3 – Straßenrennen",
       "km": 95,
       "elevationGainM": 1239
+    },
+    {
+      "name": "SILVA NIGRA 95 (Sonntag)",
+      "km": 95
+    },
+    {
+      "name": "SILVA NIGRA 65 (Sonntag)",
+      "km": 65
     }
-  ]
+  ],
+  "entryFee": "SILVA NIGRA 230 (3 Tage) 230 € bis 330 €, SILVA NIGRA 95 80 € bis 110 €, SILVA NIGRA 65 70 € bis 100 € (Preisstufen nach Startplatznummer)",
+  "registrationDeadline": "2027-08-29"
 }

@@ -1,0 +1,36 @@
+{
+  "name": "22. Interregionaler Triathlon Langau",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "AT",
+  "dates": {
+    "start": "2027-06-19",
+    "end": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bergwerksee Langau",
+    "lat": 48.8445,
+    "lng": 15.7282,
+    "region": "Niederösterreich"
+  },
+  "websiteUrl": "https://www.triathlon-langau.at/",
+  "description": "Der 22. Interregionale Triathlon Langau steht im ÖTRV-Verbandskalender für den 19. Juni 2027. Veranstalter ist die SVU Langau, ausgetragen wird der Wettkampf am Bergwerksee im nördlichen Waldviertel nahe der tschechischen Grenze. Die Veranstaltung ist ein bewährter Termin im Niederösterreichischen Triathlon-Kalender und läuft unter der ÖTRV-Nummer 2/042/09. Auf der Olympischen Distanz sind 1,5 km Schwimmen, 40 km Radfahren und 10 km Laufen zu absolvieren. Der Sprintbewerb, der als Waldviertelman geführt wird, umfasst 0,3 km Schwimmen, 20 km Radfahren und 3,3 km Laufen. Ergänzend gab es in den Vorjahren Hobby- und Staffelwertungen sowie Kinderbewerbe. Startgeld und Anmeldeschluss für 2027 stehen noch nicht fest.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 51.5,
+      "split": "1,5 km Schwimmen, 40 km Rad, 10 km Laufen"
+    },
+    {
+      "name": "Sprint (Waldviertelman)",
+      "km": 23.6,
+      "split": "0,3 km Schwimmen, 20 km Rad, 3,3 km Laufen"
+    }
+  ],
+  "id": "triathlon-langau-2027",
+  "sport": "triathlon"
+}

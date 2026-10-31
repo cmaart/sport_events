@@ -24,6 +24,16 @@
   "imageUrl": "https://www.saalbach.com/fotos-event/sommer/world-games-of-mountainbiking/2024/image-thumb__8265252__box-img/WGOM24%20Marathon%20c%20Martin%20Steiger%20%28098%29.jpg",
   "distances": [
     {
+      "name": "Marathon 21",
+      "km": 21,
+      "elevationGainM": 780
+    },
+    {
+      "name": "Marathon 31",
+      "km": 31,
+      "elevationGainM": 967
+    },
+    {
       "name": "Marathon 42",
       "km": 42,
       "elevationGainM": 2040
@@ -32,6 +42,11 @@
       "name": "Marathon 58",
       "km": 58,
       "elevationGainM": 3005
+    },
+    {
+      "name": "Marathon 80",
+      "km": 80,
+      "elevationGainM": 3720
     }
   ],
   "startTime": "09:00",

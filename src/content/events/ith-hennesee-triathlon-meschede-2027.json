@@ -29,6 +29,11 @@
       "split": "1,5 km / 45 km / 10 km"
     },
     {
+      "name": "Volksdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    },
+    {
       "name": "Anfänger-/Sprintdistanz",
       "km": 25.2,
       "split": "0,2 km / 20 km / 5 km"
@@ -37,6 +42,6 @@
   "entryFee": "Olympische Distanz 50 € (Frühbucher bis 30.11.2026) / 55 € danach; Anfänger/Sprint 31 € / 36 €; Volkstriathlon 36 € / 41 €; Schüler/Jugend 10 € / 12 €; zzgl. 21 € Tageslizenz ohne DTU-Startpass",
   "registrationDeadline": "2027-06-16",
   "startTime": "10:45",
-  "participantLimit": 380,
+  "participantLimit": 440,
   "imageUrl": "https://dam.destination.one/3448680/929f36d360019bebdd0f1667e0797705e5ed1280985f92e30516270171ce86ef/2025_triathlon_003-jpg.jpg"
 }

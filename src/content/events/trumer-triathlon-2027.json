@@ -38,6 +38,11 @@
       "name": "Sprinttriathlon",
       "km": 31.35,
       "split": "0,75 km / 25,4 km / 5,2 km"
+    },
+    {
+      "name": "Funtriathlon",
+      "km": 15.25,
+      "split": "0,25 km / 12,5 km / 2,5 km"
     }
   ],
   "entryFee": "Mitteldistanz ab 180 €, Kurzdistanz ab 95 €, Sprinttriathlon ab 65 €",

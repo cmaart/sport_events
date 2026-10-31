@@ -1432,3 +1432,17 @@ Voll-Lauf mit Pflicht-Durchsuchung **aller** Quellen (keine Rotation). 6 Researc
 
 ---
 
+
+## Nachtrag 2026-10-26 — Konsolidierung der Routine-Läufe 10-17 bis 10-25 auf master
+
+Die Cloud-Routine durfte nicht auf master pushen und hat fünf Läufe auf eigene Branches gelegt
+(`claude/intelligent-clarke-{x2bque,0pfoed,9f44s6,4mc4gr,9ik7rz}`). Jeder Lauf startete vom selben
+master und bearbeitete viele Fokus-Events doppelt. Konsolidiert per Datei (neuester Lauf gewinnt),
+dann feldweise: Felder, die nur ein älterer Lauf geändert oder ergänzt hatte, wurden übernommen
+(u. a. oetztaler distances/startTime/limit, pirker Hm 3150, scharmuetzelsee Deadline, Beschreibungen
+challenge-roth/cyclassics/salzkammergut/mogan). Dublette `skinfit-luschnouar-ironmaennli-2027` in
+`luschnouar-ironmaennli-2027` (Stamm der 2026-Datei) zusammengeführt. Aggregatorbilder (kavval) blieben
+entfernt. `index-focus.json` neu erzeugt. Session-Details der Läufe 10-17, 10-19, 10-21 und 10-23 stehen
+in den Commit-Messages der genannten Branches. **Ab jetzt:** jeder Lauf öffnet einen PR, der nach grünem
+Build automatisch gemergt wird (`.github/workflows/auto-merge-routine.yml`).
+

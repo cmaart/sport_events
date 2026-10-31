@@ -40,5 +40,6 @@
     }
   ],
   "entryFee": "ab 79 € bis 31.12.2026, ab 89 € bis 31.03.2027, ab 99 € bis 30.06.2027; Rallye-App-Variante 49 €",
-  "startTime": "04:30"
+  "startTime": "04:30",
+  "participantLimit": 240
 }

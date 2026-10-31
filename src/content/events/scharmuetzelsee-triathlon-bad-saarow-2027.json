@@ -37,5 +37,6 @@
   "entryFee": "Sprintdistanz Einzel 50 €; Sprintdistanz offene Staffel 75 €; Kurzdistanz mit Startpass 65 €; Kurzdistanz ohne Startpass 80 €",
   "startTime": "10:00",
   "registrationDeadline": "2027-07-25",
-  "imageUrl": "https://scharmuetzelsee-triathlon.de/wp-content/uploads/2026/03/Triathlon-Olympische-Distanz-LM-2026-1.png"
+  "imageUrl": "https://scharmuetzelsee-triathlon.de/wp-content/uploads/2026/03/Triathlon-Olympische-Distanz-LM-2026-1.png",
+  "participantLimit": 700
 }

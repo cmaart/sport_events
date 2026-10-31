@@ -1,0 +1,30 @@
+{
+  "name": "18. LVM-Versicherung Swim & Run",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-02-27",
+    "end": "2027-02-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Güstrow",
+    "lat": 53.785,
+    "lng": 12.205,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.trifun.de/",
+  "description": "Der 18. LVM-Versicherung Swim & Run in Güstrow steht im DTU-Veranstaltungskalender am 27. Februar 2027. Veranstalter ist der Verein Tri Fun Güstrow, der auch die Trinale, das Güstrower Cross-Duathlon und den Inselseelauf ausrichtet. Der Wettkampf ist ein Winterformat ohne Radabschnitt: Auf das Schwimmen folgt ein Lauf. In der Jedermann- und Altersklassenwertung sind 0,75 km Schwimmen und 5 km Laufen zu absolvieren. Die DTU erwartet rund 100 Teilnehmer, die Genehmigungsnummer lautet 08-27-08-06999. Eine Ausschreibung für 2027 liegt auf der Vereinsseite noch nicht vor, Startgeld und Anmeldeschluss sind daher offen.",
+  "distanceKm": 5.75,
+  "distances": [
+    {
+      "name": "Jedermann / Altersklassen",
+      "km": 5.75,
+      "split": "0,75 km Schwimmen, 5 km Laufen"
+    }
+  ],
+  "id": "lvm-swim-run-guestrow-2027",
+  "sport": "triathlon"
+}

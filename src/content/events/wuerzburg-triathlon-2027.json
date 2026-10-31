@@ -42,6 +42,7 @@
       "split": "2,1 km / 90 km / 21 km"
     }
   ],
-  "entryFee": "Frühbucher-ab-Preise: Jedermann ab 95 €, Olympische Distanz ab 110 €, Mitteldistanz ab 200 €, Staffel ab 120 € pro Team; je Anmeldung zzgl. 3 € für World Bicycle Relief (Preis abhängig vom Anmeldedatum)",
-  "startTime": "08:00"
+  "entryFee": "Jedermann 95 € (Frühbucher bis 31.12.2026), 110 € bis 31.03.2027, danach 120 €; Olympische Distanz 110 € / 120 € / 135 € zzgl. 20 € Tageslizenz ohne Startpass; Mitteldistanz 205 € / 230 € / 250 € zzgl. 25 € Tageslizenz ohne Startpass; Staffeln je Team 120 bis 280 €; je Anmeldung zzgl. 3 € für World Bicycle Relief",
+  "startTime": "08:00",
+  "registrationDeadline": "2027-06-13"
 }
