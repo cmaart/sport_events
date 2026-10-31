@@ -1,0 +1,24 @@
+{
+  "id": "go-triathlon-herkingen-2027",
+  "name": "GO Triathlon Herkingen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-09-04",
+    "end": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Herkingen",
+    "lat": 51.7095,
+    "lng": 4.086
+  },
+  "websiteUrl": "https://gosportevents.nl/parcours-herkingen/",
+  "registrationUrl": "https://gotriathlon.bbtiming.com/event/2896",
+  "description": "Der GO Triathlon Herkingen auf Goeree-Overflakkee bietet eine Achtel- und eine Viertel-Distanz. Geschwommen wird im Hafen von Herkingen, 500 m für die Achtel und 1000 m für die Viertel; die Radstrecke führt in zwei beziehungsweise vier Runden um Battenoord, Nieuwe-Tonge und Herkingen, gelaufen wird auf einer Pendelstrecke mit zwei Wendepunkten. Wechselzone, Start und Ziel liegen am Hafen nah beieinander. Die Anmeldung öffnet am 1. November 2026 um 12 Uhr.",
+  "startTime": "09:00"
+}

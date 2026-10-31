@@ -1,0 +1,36 @@
+{
+  "id": "go-triathlon-brouwersdam-2027",
+  "name": "GO Triathlon Brouwersdam",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ouddorp (Brouwersdam)",
+    "lat": 51.754,
+    "lng": 3.8522
+  },
+  "websiteUrl": "https://gosportevents.nl/parcours-brouwersdam/",
+  "registrationUrl": "https://gotriathlon.bbtiming.com/event/2695",
+  "description": "Der GO Triathlon Brouwersdam startet am Zeil- en Surfcentrum Brouwersdam bei Ouddorp an der Grenze zwischen Goeree-Overflakkee und Schouwen-Duiveland. Geschwommen wird 1 km in den Grevelingen, dem größten Salzwassersee Europas, die Radrunde auf dem Brouwersdam ist 20 km lang und die Laufrunde 3,3 km mit zwei Wendepunkten. Angeboten werden der Brouwersdam90 mit vier Radrunden und eine Viertel-Distanz mit zwei Radrunden. Die Anmeldung öffnet am 1. November 2026 um 12 Uhr.",
+  "distanceKm": 91,
+  "distances": [
+    {
+      "name": "Brouwersdam90",
+      "km": 91,
+      "split": "1 km / 80 km / 10 km"
+    },
+    {
+      "name": "1/4 Triathlon",
+      "km": 51,
+      "split": "1 km / 40 km / 10 km"
+    }
+  ],
+  "startTime": "09:00"
+}

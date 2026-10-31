@@ -1,0 +1,37 @@
+{
+  "id": "go-triathlon-zierikzee-2027",
+  "name": "GO Triathlon Zierikzee",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "NL",
+  "dates": {
+    "start": "2027-09-25",
+    "end": "2027-09-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zierikzee",
+    "lat": 51.6494,
+    "lng": 3.9226
+  },
+  "websiteUrl": "https://gosportevents.nl/informatie-zierikzee/",
+  "registrationUrl": "https://gotriathlon.bbtiming.com/event/2897",
+  "description": "Der GO Triathlon Zierikzee führt durch die historische Altstadt der Stadt auf Schouwen-Duiveland. Gestartet wird im Wasser des Nieuwe Haven, geschwommen wird bis in den Oude Haven, einen denkmalgeschützten Gezeitenhafen, wo auch gewechselt wird. Die Achtel-Distanz fährt eine 20 km lange Radrunde und läuft zwei Runden à 2,5 km, die Viertel-Distanz fährt zwei Radrunden und läuft vier Runden. Ziel ist im Havenpark, die Anmeldung öffnet am 1. November 2026 um 12 Uhr.",
+  "distanceKm": 51,
+  "distances": [
+    {
+      "name": "1/4 Triathlon",
+      "km": 51,
+      "split": "1 km / 40 km / 10 km"
+    },
+    {
+      "name": "1/8 Triathlon",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ],
+  "startTime": "10:30"
+}
