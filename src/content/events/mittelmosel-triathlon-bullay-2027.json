@@ -1,0 +1,22 @@
+{
+  "id": "mittelmosel-triathlon-bullay-2027",
+  "name": "Mittelmosel Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bullay",
+    "lat": 50.025,
+    "lng": 7.074,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "http://www.mittelmosel-triathlon.de",
+  "description": "Der Mittelmosel Triathlon findet am 20. Juni 2027 in Bullay an der Mosel statt, veranstaltet vom TSV Bullay-Alf. Geschwommen wird in der Mosel, die Radstrecke führt über den Monte Barlo durch die Weinberge, gelaufen wird entlang des Flusses. Bisher wurden eine Jedermann- und eine Einsteigerdistanz angeboten."
+}

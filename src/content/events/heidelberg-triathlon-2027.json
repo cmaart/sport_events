@@ -1,0 +1,30 @@
+{
+  "id": "heidelberg-triathlon-2027",
+  "name": "Heidelberg Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-25",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heidelberg",
+    "lat": 49.3988,
+    "lng": 8.6724,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://heidelberg-triathlon.de/",
+  "description": "Der Heidelberg Triathlon findet am Sonntag, 25. Juli 2027, statt, ausgerichtet vom SV Nikar Heidelberg. Die Olympische Distanz führt über 1,6 km Schwimmen im Neckar, 36 km Rad mit Anstieg zum Königstuhl und 10 km Lauf über den Philosophenweg; daneben gibt es eine Staffel und einen Kinderlauf. Die Anmeldung startet am 1. Januar 2027 um 10 Uhr, in den Vorjahren waren die Plätze schnell vergeben.",
+  "distanceKm": 47.6,
+  "distances": [
+    {
+      "name": "Olympische Distanz",
+      "km": 47.6,
+      "split": "1,6 km / 36 km / 10 km"
+    }
+  ]
+}

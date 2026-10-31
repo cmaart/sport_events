@@ -1,0 +1,23 @@
+{
+  "id": "drachentriathlon-furth-im-wald-2027",
+  "name": "Drachentriathlon Furth im Wald",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Furth im Wald",
+    "lat": 49.3072,
+    "lng": 12.8444,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.drachentriathlon.de",
+  "description": "Der Drachentriathlon in Furth im Wald an der bayerisch-tschechischen Grenze soll 2027 wieder stattfinden; Termin und Format hat der Veranstalter noch nicht bekanntgegeben. Das Datum hier ist eine Schätzung nach dem ursprünglichen Termin von 2026. Die Ausgabe 2026 wurde wegen Hitze und Blaualgen im Drachensee in den September verlegt und für Erwachsene als Duathlon ausgetragen."
+}

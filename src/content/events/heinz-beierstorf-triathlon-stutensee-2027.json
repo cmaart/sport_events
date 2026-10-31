@@ -1,0 +1,30 @@
+{
+  "id": "heinz-beierstorf-triathlon-stutensee-2027",
+  "name": "Heinz Beierstorf Triathlon Stutensee",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Stutensee",
+    "lat": 49.0822,
+    "lng": 8.4644,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.tsg-blankenloch.de/Veranstaltungen/StutenseeTriathlon/",
+  "description": "Der 33. Heinz Beierstorf Triathlon findet am 27. Juni 2027 in Stutensee nördlich von Karlsruhe statt, ausgerichtet von der TSG Blankenloch. Geschwommen wird im Baggersee, die Sprintdistanz führt über 500 m Schwimmen, 20 km Rad und 5 km Lauf und wird auch als Staffel angeboten. 2026 waren Einzel- und Staffelplätze schon im Februar vergeben, rund 500 Aktive gingen an den Start.",
+  "distanceKm": 25.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
+}

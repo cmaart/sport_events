@@ -1,0 +1,43 @@
+{
+  "id": "vorpommern-duathlon-lubmin-2027",
+  "name": "Vorpommern Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-02",
+    "end": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lubmin",
+    "lat": 54.1322,
+    "lng": 13.6138,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.tri-hgwaii.de/01_news/wordpress/events/18-vorpommern-duathlon/",
+  "description": "Der 35. Vorpommern Duathlon findet am 2. Mai 2027 in Lubmin bei Greifswald statt, Start und Ziel liegen am Sportplatz des SV Sturmvogel. Veranstalter ist die Triathlonabteilung der HSG Universität Greifswald. Zur Wahl stehen drei Distanzen: 10 / 60 / 10 km, 5 / 30 / 5 km (zugleich Landesmeisterschaft) und 2,5 / 15 / 2,5 km, jeweils auch als Staffel. Die Anmeldung öffnet am 1. November 2026, Meldeschluss ist der 23. April 2027.",
+  "distanceKm": 80,
+  "distances": [
+    {
+      "name": "Lang",
+      "km": 80,
+      "split": "10 km / 60 km / 10 km"
+    },
+    {
+      "name": "Mittel",
+      "km": 40,
+      "split": "5 km / 30 km / 5 km"
+    },
+    {
+      "name": "Sprint",
+      "km": 20.0,
+      "split": "2,5 km / 15 km / 2,5 km"
+    }
+  ],
+  "entryFee": "Einzel 25–45 € bis 31.12.2026, danach 30–50 €",
+  "registrationDeadline": "2027-04-23",
+  "startTime": "10:00"
+}

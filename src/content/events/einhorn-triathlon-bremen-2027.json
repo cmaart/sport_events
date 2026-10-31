@@ -1,0 +1,23 @@
+{
+  "id": "einhorn-triathlon-bremen-2027",
+  "name": "8. Einhorn-Triathlon Bremen",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bremen",
+    "lat": 53.0793,
+    "lng": 8.8017,
+    "region": "Bremen"
+  },
+  "websiteUrl": "https://www.einhorn-triathlon.de/",
+  "description": "Der 8. Einhorn-Triathlon des Triathlon Club Bremen findet am 13. Juni 2027 in Bremen statt. Geschwommen wird im Stadtwaldsee (Unisee), angeboten werden eine Sprintdistanz und eine Olympische Distanz."
+}

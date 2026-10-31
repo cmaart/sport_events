@@ -1,0 +1,22 @@
+{
+  "id": "oettinger-triathlon-2027",
+  "name": "Oettinger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-01",
+    "end": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Oettingen i. Bayern",
+    "lat": 48.9499,
+    "lng": 10.5993,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon-oettingen.de/",
+  "description": "Der Oettinger Triathlon des TSV 1861 Oettingen ist für den 1. August 2027 angekündigt und wird am Freibad Oettingen im Nördlinger Ries ausgetragen. Zuletzt wurde eine Sprintdistanz über 0,5 km Schwimmen, 20 km Rad und 5 km Laufen angeboten, Staffeln waren zugelassen. Eine Woche später, am 7. August 2027, folgt der Oettinger Stadtlauf."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kn-foerde-triathlon-kiel-2027",
+  "name": "KN Förde-Triathlon Kiel",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-22",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kiel-Düsternbrook",
+    "lat": 54.3488,
+    "lng": 10.1481,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.kiel-triathlon.de/",
+  "description": "Der 38. KN Förde-Triathlon findet am Sonntag, 22. August 2027, in Kiel statt; geschwommen wird in der Kieler Förde. Laut DTU-Kalender führt die Sprintdistanz über 500 m Schwimmen, 22 km Rad und 5 km Lauf, dazu kommen eine Sprint-Staffel und ein Supersprint im Rahmen der Landesliga. Die Anmeldung startet am 1. Februar 2027.",
+  "distanceKm": 27.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 27.5,
+      "split": "0,5 km / 22 km / 5 km"
+    }
+  ]
+}

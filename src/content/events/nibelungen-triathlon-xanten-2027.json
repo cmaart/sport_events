@@ -1,0 +1,23 @@
+{
+  "id": "nibelungen-triathlon-xanten-2027",
+  "name": "Nibelungen-Triathlon Xanten",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Xanten",
+    "lat": 51.6578,
+    "lng": 6.4558,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://triathlon-xanten.de",
+  "description": "Der 41. Nibelungen-Triathlon findet laut Ausschreibung des TuS Xanten am Sonntag, 5. September 2027, in Xanten am Niederrhein statt. Geschwommen wird in der Xantener Nordsee nahe dem Archäologischen Park. Auf dem Programm stehen Olympische Distanz und Sprintdistanz. Die Anmeldung öffnet am 1. Februar 2027 um 12 Uhr."
+}

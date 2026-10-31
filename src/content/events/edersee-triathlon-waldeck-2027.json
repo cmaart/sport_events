@@ -1,0 +1,23 @@
+{
+  "id": "edersee-triathlon-waldeck-2027",
+  "name": "42. Waldecker Edersee-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-26",
+    "end": "2027-06-26",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waldeck",
+    "lat": 51.1982,
+    "lng": 9.0641,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://edersee-triathlon.de",
+  "description": "Der 42. Edersee-Triathlon des TSV Eintracht Waldeck findet am 26. Juni 2027 am Edersee statt. Angeboten werden eine Sprintdistanz und eine Olympische Distanz mit Schwimmen im Edersee und einer hügeligen Radstrecke im Waldecker Land. Die Ausgabe 2026 war ausgebucht."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "viernheimer-triathlon-2027",
+  "name": "Viernheimer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-22",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Viernheim",
+    "lat": 49.5402,
+    "lng": 8.5783,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://triathlonviernheim.de/viernheimer-triathlon/",
+  "description": "Der Viernheimer Triathlon von Triathlon Viernheim soll 2027 zum 43. Mal stattfinden, der Verein verabschiedete sich 2026 mit „Wir sehen uns 2027!“. Ein Termin ist noch nicht veröffentlicht, das Datum hier folgt dem Wochenende von 2026. 2026 wurde im Hemsbacher Wiesensee geschwommen, das Ziel lag im Viernheimer Waldstadion, mit Sprint- und Nachwuchsrennen am Samstag und der Olympischen Distanz am Sonntag."
+}

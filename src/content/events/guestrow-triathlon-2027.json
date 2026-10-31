@@ -1,0 +1,35 @@
+{
+  "id": "guestrow-triathlon-2027",
+  "name": "EURAWASSER Trinale",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-14",
+    "end": "2027-08-14",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Boitin bei Güstrow",
+    "lat": 53.7595,
+    "lng": 11.9804,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.trifun.de/events/trinale",
+  "registrationUrl": "https://redtime.de/anmeldung.php?event=trinale2027",
+  "description": "Die 5. EURAWASSER Trinale findet am 14. August 2027 am Boitiner See zwischen Güstrow, Bützow und Sternberg statt, veranstaltet von Tri Fun Güstrow. Gefahren wird ein Eliminator über 250 m Schwimmen, 7,6 km Rad und 1,7 km Lauf in drei Runden (Viertelfinale, Halbfinale, Finale), gestartet wird mit Zeitvorsprüngen nach Alter und Geschlecht. Startberechtigt sind Athletinnen und Athleten ab Jugend A, das Feld ist auf 100 Teilnehmende begrenzt.",
+  "distanceKm": 9.55,
+  "distances": [
+    {
+      "name": "Eliminator (je Runde)",
+      "km": 9.55,
+      "split": "0,25 km / 7,6 km / 1,7 km"
+    }
+  ],
+  "entryFee": "30 €",
+  "registrationDeadline": "2027-08-11",
+  "startTime": "10:00",
+  "participantLimit": 100
+}

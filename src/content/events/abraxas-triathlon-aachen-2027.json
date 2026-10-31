@@ -1,0 +1,36 @@
+{
+  "id": "abraxas-triathlon-aachen-2027",
+  "name": "ABRAXAS-Triathlon Aachen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-02",
+    "end": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Aachen",
+    "lat": 50.73,
+    "lng": 6.18,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://brander-sv.de/triathlon/abraxas-triathlon/",
+  "description": "Der ABRAXAS-Triathlon des Brander Schwimmvereins 1973 findet am Sonntag, 2. Mai 2027 in Aachen-Brand statt, Start und Ziel ist die Schwimmhalle an der Wolferskaul. Die Jedermann-Distanz umfasst 500 m Schwimmen im Hallenbad, 21 km Rad und 5 km Lauf, dazu kommen Schnupper-, Schüler-, Jugend- und Staffelwertungen. Die Zeitnahme läuft über ChampionChip, Leihchips gibt es am Wettkampftag. Für Einsteiger bietet der Verein am 29. April 2027 eine Infoveranstaltung im Theater Brand an.",
+  "distanceKm": 26.5,
+  "distances": [
+    {
+      "name": "Jedermann",
+      "km": 26.5,
+      "split": "0,5 km / 21 km / 5 km"
+    },
+    {
+      "name": "Schnupper",
+      "km": 10.5,
+      "split": "0,2 km / 8 km / 2,3 km"
+    }
+  ],
+  "entryFee": "39 € Jedermann, 24 € Schnupper, 60 € Staffel (Preise unter Vorbehalt)"
+}

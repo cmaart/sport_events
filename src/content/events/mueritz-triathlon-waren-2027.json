@@ -1,0 +1,23 @@
+{
+  "id": "mueritz-triathlon-waren-2027",
+  "name": "Müritz-Triathlon Waren",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-24",
+    "end": "2027-07-24",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Waren (Müritz)",
+    "lat": 53.52,
+    "lng": 12.68,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://mueritzsportclub.de/mueritz-triathlon/",
+  "description": "Der 41. Müritz-Triathlon in Waren (Müritz) wird vom Müritz Sportclub ausgerichtet, die Anmeldung ist laut Veranstalter ab 1. Februar 2027 möglich. Ein genauer Termin ist noch nicht veröffentlicht, das Datum hier folgt dem Wochenende von 2026. 2026 standen eine Mitteldistanz und Jedermann-Rennen mit Schwimmen in der Müritz auf dem Programm."
+}

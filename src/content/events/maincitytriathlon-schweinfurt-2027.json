@@ -1,0 +1,23 @@
+{
+  "id": "maincitytriathlon-schweinfurt-2027",
+  "name": "Deutsche Dienstrad MainCityTriathlon Schweinfurt",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schweinfurt",
+    "lat": 50.0489,
+    "lng": 10.2338,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://laufen-triathlon.de/maincitytriathlon/",
+  "description": "Der MainCityTriathlon der TG 48 Schweinfurt findet am 6. Juni 2027 statt, am Vortag läuft der MainCityRun. Zuletzt standen eine Sprintdistanz über 0,5 km Schwimmen, 20 km Rad und 5 km Laufen, eine Kurzdistanz über 1,5 km, 40 km und 10 km sowie Staffeln und ein Paratriathlon auf dem Programm. Die Anmeldung soll laut Veranstalter voraussichtlich am 1. Dezember 2026 öffnen."
+}

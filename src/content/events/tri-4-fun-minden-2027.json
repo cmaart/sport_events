@@ -1,0 +1,22 @@
+{
+  "id": "tri-4-fun-minden-2027",
+  "name": "Tri-4-Fun Minden",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-21",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Minden",
+    "lat": 52.2899,
+    "lng": 8.9169,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://svkt07minden.de/sportarten/triathlon/",
+  "description": "Der Tri-4-Fun Minden wird vom Triathlonteam der Spvg. Kutenhausen/Todtenhausen 07 im Mindener Ortsteil Kutenhausen ausgetragen. Der Verein hat angekündigt, dass es den Triathlon auch 2027 gibt; Termin und Anmeldung stehen noch aus. Das Programm umfasste bisher eine Sprintdistanz sowie Staffel-, Schüler- und Jugendrennen."
+}

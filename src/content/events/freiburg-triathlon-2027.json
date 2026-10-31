@@ -1,0 +1,36 @@
+{
+  "id": "freiburg-triathlon-2027",
+  "name": "LEXWARE Freiburg-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Seepark Freiburg im Breisgau",
+    "lat": 48.0106,
+    "lng": 7.8207,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triteamfreiburg.de/",
+  "description": "Der LEXWARE Freiburg-Triathlon findet am 4. Juli 2027 im Seepark Freiburg statt, ausgerichtet vom Tri-Team Freiburg. Laut DTU-Kalender gibt es eine Kurzdistanz über 1,5 km Schwimmen, 40 km Rad und 10 km Lauf (auch als Staffel), eine Sprintdistanz über 0,4 / 20 / 5 km und Schülerrennen. Die Anmeldung soll voraussichtlich im Dezember 2026 öffnen.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.4,
+      "split": "0,4 km / 20 km / 5 km"
+    }
+  ]
+}

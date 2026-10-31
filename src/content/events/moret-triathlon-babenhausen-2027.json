@@ -1,0 +1,24 @@
+{
+  "id": "moret-triathlon-babenhausen-2027",
+  "name": "43. Moret Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-29",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Babenhausen-Sickenhofen",
+    "lat": 49.9758,
+    "lng": 8.9711,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.vfl-muenster.de/morettriathlon/",
+  "description": "Der 43. Moret Triathlon des VfL Münster findet am 29. August 2027 am Sickenhöfer See in Babenhausen statt. Neben der Mitteldistanz gibt es Rennen über die Olympische Distanz und die Sprintdistanz sowie Wettbewerbe für Jugend und Schüler. Ausschreibung und Anmeldung für 2027 sind online."
+}

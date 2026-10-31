@@ -1,0 +1,35 @@
+{
+  "id": "gisaduathlon-halle-2027",
+  "name": "GISAduathlon Halle",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-17",
+    "end": "2027-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Döllnitz (Schkopau) bei Halle",
+    "lat": 51.4081,
+    "lng": 12.0283,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://triathlon-halle.de/",
+  "description": "Der 12. GISAduathlon Halle findet am 17. und 18. April 2027 in Döllnitz, einem Ortsteil von Schkopau südlich von Halle, statt. Veranstalter ist die Triathlonabteilung des SV Halle. Am Samstag wird die Deutsche Meisterschaft im Sprint-Duathlon der Altersklassen über 5 km Lauf, 21 km Rad und 3 km Lauf ausgetragen, dazu Rennen des DTU Jugend-Cups; am Sonntag folgen ein Jedermann-Duathlon (3 / 14 / 2 km) und Schülerrennen. Gelaufen wird auf einer flachen 1-km-Runde, die 7-km-Radrunde ist wellig und asphaltiert.",
+  "distanceKm": 29,
+  "distances": [
+    {
+      "name": "DM Sprint (Altersklassen)",
+      "km": 29,
+      "split": "5 km / 21 km / 3 km"
+    },
+    {
+      "name": "Jedermann",
+      "km": 19,
+      "split": "3 km / 14 km / 2 km"
+    }
+  ]
+}

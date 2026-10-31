@@ -1,0 +1,22 @@
+{
+  "id": "schwarzachtal-triathlon-ertingen-2027",
+  "name": "Schwarzachtal Triathlon Ertingen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ertingen",
+    "lat": 48.0636,
+    "lng": 9.3178,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-schwarzachtal.de/",
+  "description": "Der Schwarzachtal Triathlon findet laut Veranstalter am Samstag, 28. August 2027 an den Schwarzachtalseen in Ertingen in Oberschwaben statt. Auf dem Programm steht eine Jedermann- und Sprintdistanz mit Schwimmen im See, einem Radkurs in Runden und einem Lauf, dazu ein Jugendtriathlon und eine Staffelwertung. Nähere Informationen und den Anmeldestart kündigt der Veranstalter für Ende November oder Anfang Dezember 2026 an."
+}

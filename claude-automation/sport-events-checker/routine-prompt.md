@@ -158,7 +158,20 @@ Verbands-/Serienquellen (offiziell — für Datum/Durchführung vertrauenswürdi
 möglich auf der Veranstalterseite gegenprüfen):
 - Triathlon AT (ÖTRV): https://www.triathlon-austria.at/de/service-termine — maßgebliche Liste für
   österreichische Triathlons/Duathlons/Aquathlons, inkl. „ABGESAGT"-Markierungen.
-- Triathlon DE (DTU): https://www.triathlondeutschland.de/termine/veranstaltungskalender
+- **Triathlon DE (DTU) — PFLICHTQUELLE, höchste Priorität:**
+  https://www.triathlondeutschland.de/termine/veranstaltungskalender
+  - In JEDEM Lauf **alle Seiten** scrapen: `?date_from%5Bmin%5D=<heute MM/DD/YYYY>&date_from%5Bmax%5D=12/31/2050&page=N`
+    (N = 0, 1, 2 … bis keine `views-row` mehr kommt). Pro Eintrag liefern `data-name` und
+    `data-popupcontent` Datum, Name, Ort und Detail-URL; die Detailseite hat Distanzen + Veranstalter-Link.
+  - Jeden Eintrag gegen den Bestand abgleichen (Datum + Ort, nicht nur Slug). **Jeder Erwachsenen-Wettkampf
+    im DTU-Kalender muss im Repo existieren** (Ausnahmen: reine Kinder-/Schüler-/Jugendrennen, Indoor-Events,
+    Duplikate wie „DM …"-Einträge für ein bereits erfasstes Rennen). DTU-Eintrag = offizielle Bestätigung
+    von Datum und Durchführung; Details (Distanzen, Gebühr) wenn möglich von der Veranstalterseite.
+  - Zusätzlich **Lückenliste**: alle DE-Triathlons, deren Vorjahresausgabe in der Git-History steht
+    (gelöschte Past-Dateien, z. B. `git show 9b7fd1d --name-only`), aber ohne Datei für die neue Saison →
+    Veranstalterseite auf neue Ausgabe prüfen. Viele Veranstalter tragen sich erst spät im DTU-Kalender ein.
+  - Hintergrund: Am 2026-10-31 fehlten u. a. Heidelberg Triathlon, Köln Triathlon, KnappenMan,
+    Freiburg-Triathlon, DATAGROUP Nürnberg für 2027, obwohl sie im DTU-Kalender standen.
 - Ironman & Challenge (europaweit, Mittel- + Langdistanz): offizielle Übersichts-/Kalenderseiten von
   ironman.com und challenge-family.com, die Rennen direkt auflisten.
 - Große bekannte Radrennen europaweit: UCI Gran Fondo World Series, etablierte Marathons/Etappenrennen.

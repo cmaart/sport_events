@@ -1,0 +1,24 @@
+{
+  "id": "steinfurter-volksbank-triathlon-2027",
+  "name": "Steinfurter Volksbank Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Steinfurt",
+    "lat": 52.1495,
+    "lng": 7.3356,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://triteam-steinfurt.de/triathlon/",
+  "description": "Der Steinfurter Volksbank Triathlon wird vom Tri-Team Steinfurt am Freibad Burgsteinfurt im Münsterland ausgetragen. Der Veranstalter nennt auf seiner Website bereits Meldefristen für 2027, ein Termin ist noch nicht veröffentlicht. Bisher umfasste das Programm Volksdistanz, Olympische Distanz, Mitteldistanz und Staffel."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "fuerstenwalder-cross-duathlon-rauen-2027",
+  "name": "Fürstenwalder Cross-Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-17",
+    "end": "2027-04-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rauen bei Fürstenwalde",
+    "lat": 52.3305,
+    "lng": 14.0269,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://tv-fuerstenwalde.org/ausschreibung-cross-duathlon/",
+  "registrationUrl": "https://www.stoppuhr.net/_dateien/_OnlineMeld/FuewaDu/meldungen.php?OM=1",
+  "description": "Der 35. Fürstenwalder Cross-Duathlon findet am 17. April 2027 am Sportplatz der SG Rauen statt, veranstaltet vom Triathlonverein Fürstenwalde 1990. Das Hauptrennen führt über 6 km Lauf, 18 km Rad und 3 km Lauf auf befestigten und unbefestigten Waldwegen und ist zugleich Landesmeisterschaft Brandenburg; Räder mit klassischem Rennradlenker sind in der Meisterschaftswertung nicht erlaubt. Dazu gibt es einen Jedermann-Duathlon (2 / 10 / 1 km), eine Teamwertung und ein Schülerrennen. Anmeldung vom 1. Januar bis 13. April 2027.",
+  "distanceKm": 27,
+  "distances": [
+    {
+      "name": "Hauptrennen",
+      "km": 27,
+      "split": "6 km / 18 km / 3 km"
+    },
+    {
+      "name": "Jedermann",
+      "km": 13,
+      "split": "2 km / 10 km / 1 km"
+    }
+  ],
+  "entryFee": "Hauptrennen 30 €, 2er-Team 35 €, Jedermann 15 €",
+  "registrationDeadline": "2027-04-13",
+  "startTime": "09:30",
+  "participantLimit": 60
+}

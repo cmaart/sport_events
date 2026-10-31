@@ -1,0 +1,22 @@
+{
+  "id": "neustaedter-soehrenberg-triathlon-2027",
+  "name": "Neustädter Söhrenberg-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-10-03",
+    "end": "2027-10-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waiblingen",
+    "lat": 48.8321,
+    "lng": 9.3164,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-neustadt.de",
+  "description": "Der Neustädter Söhrenberg-Triathlon des TSV Neustadt/Rems ist für den 3. Oktober 2027 angekündigt und findet wieder in Waiblingen-Neustadt bei Stuttgart statt. Zuletzt war es ein Jedermann-Triathlon über die Sprintdistanz mit Schwimmen im Hallenbad Neustadt, einer Radstrecke in Runden auf den Söhrenberg und einem Lauf. Ausschreibung, Distanzen und Anmeldestart für 2027 hat der Veranstalter noch nicht veröffentlicht."
+}

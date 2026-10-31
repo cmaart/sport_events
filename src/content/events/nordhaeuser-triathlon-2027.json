@@ -1,0 +1,23 @@
+{
+  "id": "nordhaeuser-triathlon-2027",
+  "name": "Nordhäuser Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "end": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nordhausen",
+    "lat": 51.5,
+    "lng": 10.79,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://triathlon-nordhausen.de/",
+  "description": "Der Nordhäuser Triathlon findet am 5. und 6. Juni 2027 statt, den Termin nennt der Veranstalter auf seiner Website. Geschwommen wird im Sundhäuser See, Rad- und Laufstrecke liegen in der Goldenen Aue südlich des Harzes. Im Programm sind eine Olympische Distanz und kürzere Wettkämpfe."
+}

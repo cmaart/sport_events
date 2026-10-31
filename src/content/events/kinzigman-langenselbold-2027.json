@@ -1,0 +1,22 @@
+{
+  "id": "kinzigman-langenselbold-2027",
+  "name": "15. Kinzigman",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Langenselbold",
+    "lat": 50.1646,
+    "lng": 9.0312,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://kinzigman.wordpress.com/",
+  "description": "Der 15. Kinzigman findet am 23. Mai 2027 in Langenselbold im Main-Kinzig-Kreis statt. Der Volkstriathlon wird über die Sprintdistanz ausgetragen. Die Ausschreibung für 2027 ist auf der Veranstalterseite veröffentlicht."
+}

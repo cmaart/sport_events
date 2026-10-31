@@ -1,0 +1,42 @@
+{
+  "id": "koeln-triathlon-2027",
+  "name": "Köln Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Köln",
+    "lat": 50.9378,
+    "lng": 6.9562,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.koeln-triathlon.com/",
+  "description": "Der Köln Triathlon findet am 5. September 2027 in der Kölner Innenstadt statt; über die Mitteldistanz wird erstmals in Köln die Deutsche Meisterschaft der DTU ausgetragen. Geschwommen wird im Rhein mit der Strömung, die Radstrecke verläuft am linken Rheinufer, der Lauf führt über die Hohenzollernbrücke und am Dom vorbei. Angeboten werden Mitteldistanz, Olympische Distanz, Sprintdistanz und eine Olympische Staffel; die Anmeldung öffnet am 18. November 2026. 2026 kamen rund 4.200 Aktive.",
+  "distanceKm": 108.9,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 108.9,
+      "split": "2,6 km / 87,3 km / 19 km"
+    },
+    {
+      "name": "Olympische Distanz",
+      "km": 57.5,
+      "split": "2,2 km / 45,9 km / 9,4 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 26.2,
+      "split": "1,4 km / 20 km / 4,8 km"
+    }
+  ]
+}

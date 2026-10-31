@@ -1,0 +1,22 @@
+{
+  "id": "werrataltriathlon-breitungen-2027",
+  "name": "Werrataltriathlon Breitungen",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Breitungen/Werra",
+    "lat": 50.6856,
+    "lng": 10.3297,
+    "region": "Thüringen"
+  },
+  "websiteUrl": "https://www.triathlonverein-werratal.de/werrataltriathlon/",
+  "description": "Der 39. Werratal-Crosstriathlon findet am Sonntag, 20. Juni 2027, am Strandbad Breitungen an der Werra statt. Veranstalter ist der Triathlonverein Werratal, der Wettkampf gilt als ältester Triathlon Thüringens. Die Anmeldung öffnet laut Veranstalter am 1. März 2027."
+}

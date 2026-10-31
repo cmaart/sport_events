@@ -1,0 +1,30 @@
+{
+  "id": "wolfsburger-crossduathlon-2027",
+  "name": "Wolfsburger Crossduathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-03-07",
+    "end": "2027-03-07",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wolfsburg-Rabenberg",
+    "lat": 52.4071,
+    "lng": 10.7906,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.crossduathlon-wolfsburg.de/",
+  "description": "Der 28. Wolfsburger Crossduathlon findet am 7. März 2027 statt, veranstaltet von der Triathlonabteilung des VfB Fallersleben. Wechselzone, Umkleiden und Startunterlagen befinden sich an der Eichendorffschule im Wolfsburger Stadtteil Rabenberg. Laut DTU-Kalender umfasst der Wettkampf 5,4 km Lauf, 18 km Rad im Gelände und erneut 5,4 km Lauf, als Einzelstart oder Staffel.",
+  "distanceKm": 28.8,
+  "distances": [
+    {
+      "name": "Crossduathlon",
+      "km": 28.8,
+      "split": "5,4 km / 18 km / 5,4 km"
+    }
+  ]
+}

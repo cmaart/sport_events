@@ -1,0 +1,23 @@
+{
+  "id": "vredener-sparkassen-triathlon-2027",
+  "name": "Vredener Sparkassen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-11",
+    "end": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Vreden",
+    "lat": 52.0383,
+    "lng": 6.8256,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.triathlonvreden.de/",
+  "description": "Der 15. Vredener Sparkassen Triathlon findet am Samstag, 11. September 2027, im Vredener Freibad an der Ottensteiner Straße statt. Die Rennen beginnen ab 10 Uhr. Angeboten werden ein Jedermanntriathlon sowie Familien- und Nachwuchswettbewerbe im westlichen Münsterland nahe der niederländischen Grenze.",
+  "startTime": "10:00"
+}

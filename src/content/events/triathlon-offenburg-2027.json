@@ -1,0 +1,30 @@
+{
+  "id": "triathlon-offenburg-2027",
+  "name": "Triathlon Offenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-09",
+    "end": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Offenburg",
+    "lat": 48.4735,
+    "lng": 7.9402,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://triathlon-offenburg.de",
+  "description": "Der Triathlon Offenburg findet am 9. Mai 2027 am Strandbad Gifizsee in Offenburg statt. Laut offiziellem Meldeportal wird eine Sprintdistanz über 0,5 km Schwimmen, 22 km Rad und 5 km Laufen angeboten, auch als Staffel und als Elite-Sprint. Für Schüler und Jugend gibt es kürzere Wettkämpfe ab 50 m Schwimmen. Die Anmeldung für 2027 ist seit dem 3. Oktober 2026 geöffnet.",
+  "distanceKm": 27.5,
+  "distances": [
+    {
+      "name": "Sprint",
+      "km": 27.5,
+      "split": "0,5 km / 22 km / 5 km"
+    }
+  ]
+}

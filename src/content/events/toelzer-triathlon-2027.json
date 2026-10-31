@@ -1,0 +1,22 @@
+{
+  "id": "toelzer-triathlon-2027",
+  "name": "Tölzer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Kirchsee, Sachsenkam",
+    "lat": 47.7505,
+    "lng": 11.5723,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://wsv-toelz.de/toelzer-triathlon/",
+  "description": "Der Tölzer Triathlon des WSV Bad Tölz wird am Kirchsee bei Sachsenkam ausgetragen, angeboten werden eine Sprintdistanz und eine Olympische Distanz. Laut Veranstalter laufen die Planungen für die Ausgabe 2027, ein genauer Termin ist noch nicht veröffentlicht. Das angegebene Datum orientiert sich am Juni-Wochenende der Ausgabe 2026."
+}

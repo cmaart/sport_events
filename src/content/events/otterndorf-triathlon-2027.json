@@ -1,0 +1,36 @@
+{
+  "id": "otterndorf-triathlon-2027",
+  "name": "Volksbank-Triathlon Otterndorf",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-29",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Otterndorf",
+    "lat": 53.8139,
+    "lng": 8.8956,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://otterndorf-triathlon.de/",
+  "description": "Der 39. Volksbank-Triathlon des TSV Otterndorf findet am 29. August 2027 in Otterndorf im Landkreis Cuxhaven statt. Geschwommen wird im See Achtern Diek, Rad- und Laufstrecke liegen im flachen Land an der Elbmündung. Angeboten werden die Kurzdistanz über 1,5 km, 40 km und 10 km sowie die Sprintdistanz über 0,5 / 20 / 5 km, die auch als Staffel startet.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
+}

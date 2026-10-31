@@ -1,0 +1,50 @@
+{
+  "id": "knappenman-lohsa-2027",
+  "name": "Sparkassen KnappenMan Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dreiweiberner See bei Lohsa",
+    "lat": 51.3988,
+    "lng": 14.4109,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.knappenman.com/",
+  "registrationUrl": "https://www.knappenman.com/anmeldung-2027/",
+  "description": "Der 39. Sparkassen KnappenMan findet am 28. und 29. August 2027 am Dreiweiberner See bei Lohsa im Lausitzer Seenland statt. Am Sonntag wird über die Langdistanz (3,8 / 180 / 42,2 km) die Deutsche Meisterschaft der DTU ausgetragen, am selben Tag startet die Mitteldistanz (1,9 / 90 / 21 km). Am Samstag folgen die Kurzdistanz (1,5 / 40 / 10 km) und die Sprintdistanz (0,75 / 20 / 5 km), alle Rennen auch als Staffel. Die Anmeldung für 2027 ist geöffnet, die Startplätze werden erfahrungsgemäß schnell vergeben.",
+  "distanceKm": 226.0,
+  "distances": [
+    {
+      "name": "Langdistanz",
+      "km": 226.0,
+      "split": "3,8 km / 180 km / 42,2 km"
+    },
+    {
+      "name": "Mitteldistanz",
+      "km": 112.9,
+      "split": "1,9 km / 90 km / 21 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    }
+  ],
+  "startTime": "09:00"
+}

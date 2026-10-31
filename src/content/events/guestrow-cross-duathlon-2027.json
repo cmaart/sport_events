@@ -1,0 +1,35 @@
+{
+  "id": "guestrow-cross-duathlon-2027",
+  "name": "Güstrower Cross-Duathlon „Das Härteste im Norden“",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-10-09",
+    "end": "2027-10-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mühl Rosin bei Güstrow",
+    "lat": 53.7599,
+    "lng": 12.2113,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.trifun.de/events/cross-duathlon",
+  "description": "Der 35. Güstrower Cross-Duathlon „Das Härteste im Norden“ findet am 9. Oktober 2027 bei Mühl Rosin südlich von Güstrow statt, veranstaltet von Tri Fun Güstrow. Das Hauptrennen führt über 5 km Lauf, 27 km Rad und 5 km Lauf, der Jedermann-Duathlon über 2,5 / 14 / 2,5 km. Der Radkurs liegt im Gelände, der Veranstalter empfiehlt ein Mountainbike.",
+  "distanceKm": 37,
+  "distances": [
+    {
+      "name": "Das Härteste im Norden",
+      "km": 37,
+      "split": "5 km / 27 km / 5 km"
+    },
+    {
+      "name": "Jedermann",
+      "km": 19.0,
+      "split": "2,5 km / 14 km / 2,5 km"
+    }
+  ]
+}

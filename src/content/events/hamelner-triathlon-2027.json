@@ -1,0 +1,23 @@
+{
+  "id": "hamelner-triathlon-2027",
+  "name": "Hamelner Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hameln",
+    "lat": 52.1042,
+    "lng": 9.3607,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.hamelnertriathlon.de",
+  "description": "Der 36. Hamelner Triathlon des ESV Eintracht Hameln findet am Sonntag, 23. Mai 2027 statt und eröffnet die Triathlonsaison im Landkreis Hameln-Pyrmont. Auf dem Programm stehen eine Volksdistanz und eine Olympische Distanz, die Radstrecke führt durch das Weserbergland. Die Anmeldung beginnt laut Veranstalter Anfang 2027."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "jag-de-wuidsau-burglengenfeld-2027",
+  "name": "Jag de Wuidsau Cross-Duathlon Burglengenfeld",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-25",
+    "end": "2027-09-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Burglengenfeld",
+    "lat": 49.2049,
+    "lng": 12.0242,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://jagdewuidsau.de/",
+  "description": "Die 14. Jag de Wuidsau findet am 25. September 2027 auf dem Lanzenanger in Burglengenfeld statt, veranstaltet von der Multisportgruppe des TV Burglengenfeld. 2027 wird hier die Deutsche Meisterschaft der DTU im Cross-Duathlon ausgetragen. Das Hauptrennen führte zuletzt über rund 6 km Lauf, 22,8 km Rad und 4 km Lauf im Gelände, dazu gibt es kürzere Jedermann- und Nachwuchsrennen."
+}

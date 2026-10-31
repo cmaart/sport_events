@@ -1,0 +1,23 @@
+{
+  "id": "erich-fill-triathlon-taunusstein-2027",
+  "name": "Erich-Fill-Triathlon Taunusstein",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-16",
+    "end": "2027-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Taunusstein",
+    "lat": 50.1418,
+    "lng": 8.1583,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://erich-fill-triathlon.de",
+  "description": "Der 39. Erich-Fill-Triathlon findet am 16. Mai 2027 am Freibad Taunusstein-Hahn statt, erstmals ausgerichtet vom United Teams Rhein-Ruhr e. V. Angeboten werden eine Sprint- und eine Olympische Distanz; geschwommen wird im 50-m-Sportbecken des Freibads, die Radstrecke führt durch den Untertaunus. Die Anmeldung soll in Kürze öffnen."
+}

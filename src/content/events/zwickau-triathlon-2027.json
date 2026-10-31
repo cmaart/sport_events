@@ -1,0 +1,24 @@
+{
+  "id": "zwickau-triathlon-2027",
+  "name": "Zwickau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-12",
+    "end": "2027-09-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Zwickau",
+    "lat": 50.7189,
+    "lng": 12.4955,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://zwickau-triathlon.de/",
+  "description": "Der Zwickau Triathlon findet am 12. September 2027 statt, Wettkampfzentrum ist die Glück-Auf-Schwimmhalle in der Tonstraße. Auf dem Programm stehen eine Mitteldistanz (1,9 km Schwimmen, 83 km Rad, 20 km Lauf), eine Olympische Distanz (1,5 / 42 / 10 km) und ein Jedermann-Triathlon (0,7 / 19 / 5 km). Dazu kommen Einsteiger-, Junior- und Kinderwettkämpfe sowie Staffel- und Para-Starts."
+}

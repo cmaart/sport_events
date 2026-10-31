@@ -1,0 +1,22 @@
+{
+  "id": "weserberglandtriathlon-hoexter-2027",
+  "name": "Weserberglandtriathlon Hoexter",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hoexter-Godelheim",
+    "lat": 51.7725,
+    "lng": 9.3833,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://weserberglandtriathlon.de/",
+  "description": "Der Weserberglandtriathlon findet am Sonntag, 5. September 2027, im und am Godelheimer See in Höxter statt. Auf dem Programm steht eine Sprintdistanz mit Schwimmen im See, einer Radstrecke durch das Weserbergland und einem Lauf um den See. Ausschreibung, Zeitplan und Streckenplan veröffentlicht der Veranstalter auf seiner Website."
+}

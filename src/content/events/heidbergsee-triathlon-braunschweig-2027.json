@@ -1,0 +1,22 @@
+{
+  "id": "heidbergsee-triathlon-braunschweig-2027",
+  "name": "Heidbergsee Triathlon Braunschweig",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": false
+  },
+  "location": {
+    "name": "Braunschweig",
+    "lat": 52.2535,
+    "lng": 10.5511,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://triathlon-team-bs.de/heidbergsee-triathlon/",
+  "description": "Der Heidbergsee Triathlon des Triathlon Team Braunschweig am Heidbergsee im Süden Braunschweigs soll auch 2027 stattfinden, der Verein kündigt den Start der Anmeldung für 2027 an. Ein genauer Termin steht noch nicht fest, das Datum hier folgt dem Wochenende von 2026. Angeboten wird eine Sprintdistanz mit Schwimmen im Heidbergsee."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "breisgau-triathlon-malterdingen-2027",
+  "name": "Breisgau Triathlon Malterdingen",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-22",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Malterdingen",
+    "lat": 48.1003,
+    "lng": 7.805,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.breisgau-triathlon.de/",
+  "registrationUrl": "https://breisgau-triathlon-2027.racepedia.de/",
+  "description": "Der 36. Breisgau Triathlon findet am 22. August 2027 in Malterdingen nördlich von Freiburg statt, ausgerichtet vom Verein Triathlon Nördlicher Breisgau. Angeboten werden eine Mitteldistanz über 1,9 km Schwimmen, 80 km Rad und 21 km Lauf (auch als Staffel, 2027 zugleich Landesmeisterschaft) und eine Jedermann-Distanz über 0,7 / 32 / 5 km. Die Anmeldung öffnet am 1. November 2026 um 18 Uhr.",
+  "distanceKm": 102.9,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 102.9,
+      "split": "1,9 km / 80 km / 21 km"
+    },
+    {
+      "name": "Jedermann-Distanz",
+      "km": 37.7,
+      "split": "0,7 km / 32 km / 5 km"
+    }
+  ]
+}

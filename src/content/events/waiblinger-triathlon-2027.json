@@ -1,0 +1,30 @@
+{
+  "id": "waiblinger-triathlon-2027",
+  "name": "Waiblinger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waiblingen",
+    "lat": 48.8304,
+    "lng": 9.3186,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-vfl-waiblingen.de/",
+  "description": "Der 33. Waiblinger Triathlon findet am 13. Juni 2027 in der Talaue in Waiblingen statt, ausgerichtet von der Triathlonabteilung des VfL Waiblingen. Geschwommen wird im beheizten 50-m-Becken des Freibads, die Radstrecke zwischen Waiblingen und Endersbach ist komplett gesperrt, gelaufen wird in Runden durch die Talaue. Der Volkstriathlon führt laut DTU-Kalender über 500 m, 20 km und 5,4 km, dazu kommen Staffeln, ein Ligarennen des BWTV und Schnupperrennen für Kinder. Das Meldeportal soll noch vor Weihnachten 2026 öffnen.",
+  "distanceKm": 25.9,
+  "distances": [
+    {
+      "name": "Volkstriathlon",
+      "km": 25.9,
+      "split": "0,5 km / 20 km / 5,4 km"
+    }
+  ]
+}

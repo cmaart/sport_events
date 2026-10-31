@@ -1,0 +1,22 @@
+{
+  "id": "nordhorner-triathlon-2027",
+  "name": "Nordhorner Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-04",
+    "end": "2027-07-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nordhorn",
+    "lat": 52.4307,
+    "lng": 7.0693,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.nordhorner-triathlon.de",
+  "description": "Der Nordhorner Triathlon am Vechtesee ist für Sonntag, 4. Juli 2027 angekündigt, Start und Ziel liegen am Bootsclub Nordhorn. Ausgetragen werden ein Volkstriathlon und ein Staffeltriathlon auf der Sprintdistanz. Die Startplätze sind begrenzt."
+}

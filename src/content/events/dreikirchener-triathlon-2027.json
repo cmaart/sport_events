@@ -1,0 +1,22 @@
+{
+  "id": "dreikirchener-triathlon-2027",
+  "name": "Dreikirchener systemceram Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "end": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dreikirchen / Hundsangen",
+    "lat": 50.4333,
+    "lng": 7.95,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "https://www.sc-dreikirchen.de/triathlon/systemceram-triathlon-duathlon/",
+  "description": "Der 29. Dreikirchener systemceram Triathlon/Duathlon findet am Sonntag, 27. Juni 2027, im Westerwald statt. Veranstalter ist der SC Alemannia Dreikirchen, geschwommen wird im Freibad Hundsangen. Neben dem Sprinttriathlon gibt es einen Duathlon und einen Staffelwettbewerb. Die Anmeldung läuft über das Onlineportal des Vereins."
+}

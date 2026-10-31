@@ -1,0 +1,22 @@
+{
+  "id": "o-see-challenge-zittau-2027",
+  "name": "XTERRA O-SEE Challenge Zittau",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-13",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Olbersdorfer See bei Zittau",
+    "lat": 50.8893,
+    "lng": 14.78,
+    "region": "Sachsen"
+  },
+  "websiteUrl": "https://www.o-see-sports.de/o-see-challenge/",
+  "description": "Die XTERRA O-SEE Challenge findet vom 13. bis 15. August 2027 am Olbersdorfer See im Naturpark Zittauer Gebirge statt, veranstaltet vom O-SEE Sports e.V. Sie gehört seit 2004 zur XTERRA-Serie; laut DTU-Kalender wird der Cross-Triathlon am 14. August ausgetragen. 2026 führte die Hauptdistanz über 1,5 km Schwimmen, 37 km Mountainbike und 10 km Geländelauf, dazu kamen Team-Rennen und die X'Kids Challenge. Die Anmeldung öffnet Anfang 2027."
+}

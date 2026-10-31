@@ -1,0 +1,41 @@
+{
+  "id": "datagroup-triathlon-nuernberg-2027",
+  "name": "DATAGROUP Triathlon Nürnberg",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-15",
+    "end": "2027-08-15",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Nürnberg",
+    "lat": 49.4521,
+    "lng": 11.0767,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.nuernberg-triathlon.de/",
+  "description": "Der DATAGROUP Triathlon Nürnberg findet am Sonntag, 15. August 2027, statt; Veranstalter ist die Deutsche Triathlon gGmbH. Laut DTU-Kalender gibt es eine Kurzdistanz über 1,5 km, 40 km und 9,2 km, eine Sprintdistanz über 0,5 / 20 / 4,6 km, beide auch als Staffel, sowie eine Supersprintdistanz. Die Anmeldung mit drei Preisstufen öffnete am 29. Oktober 2026; 2026 war die Veranstaltung Mitte Juli ausverkauft.",
+  "distanceKm": 50.7,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 50.7,
+      "split": "1,5 km / 40 km / 9,2 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.1,
+      "split": "0,5 km / 20 km / 4,6 km"
+    },
+    {
+      "name": "Supersprint",
+      "km": 13.3,
+      "split": "0,3 km / 10 km / 3 km"
+    }
+  ]
+}

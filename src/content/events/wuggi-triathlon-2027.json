@@ -1,0 +1,21 @@
+{
+  "id": "wuggi-triathlon-2027",
+  "name": "12. Wuggi-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Höllensteinsee, Prackenbach",
+    "lat": 49.012,
+    "lng": 12.797,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://bayronman.com",
+  "description": "Der 12. Wuggi-Triathlon findet laut Veranstalter am 10. Juli 2027 am Höllensteinsee bei Prackenbach im Bayerischen Wald statt. Ausgetragen wird ein Cross-Triathlon mit Schwimmen im Höllensteinsee, Mountainbike- und Laufstrecke; Veranstalter ist der Bayronman e.V."
+}

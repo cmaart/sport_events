@@ -1,0 +1,27 @@
+{
+  "id": "hoelle-von-q-triathlon-2027",
+  "name": "11. Hölle von Q Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "end": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Ditfurt/Quedlinburg",
+    "lat": 51.8689,
+    "lng": 11.1619,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://www.hoelle-von-q.de/",
+  "description": "Die 11. Hölle von Q findet am Sonntag, 5. September 2027, statt; der Veranstalter hat den Termin offiziell bestätigt. Die Mitteldistanz führt über 2,0 km Schwimmen, 83 km Rad mit rund 1.600 Höhenmetern durch Ditfurt, Thale und Quedlinburg sowie 21,1 km Laufen. Strecken und Abläufe bleiben laut Veranstalter wie in den Vorjahren, vorbehaltlich der behördlichen Genehmigungen. Die Anmeldung öffnet am 15. November 2026.",
+  "distances": [
+    { "name": "Mitteldistanz", "km": 106.1, "elevationGainM": 1600, "split": "2,0 km / 83 km / 21,1 km" }
+  ],
+  "distanceKm": 106,
+  "elevationGainM": 1600
+}

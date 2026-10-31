@@ -1,0 +1,42 @@
+{
+  "id": "wasserstadt-triathlon-hannover-2027",
+  "name": "Wasserstadt-Triathlon Hannover",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hannover-Limmer",
+    "lat": 52.375,
+    "lng": 9.691,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.wasserstadt-triathlon.de/",
+  "registrationUrl": "https://portal.run-timing.de/1044/registration",
+  "description": "Der 15. Wasserstadt-Triathlon findet am 13. Juni 2027 im Stadtteil Limmer in Hannover statt, veranstaltet von der Trimindous UG zusammen mit den Hannover Runners. Geschwommen wird auf einem Wendepunktkurs im Lindener Stichkanal, die Radstrecke ist in Fahrtrichtung gesperrt und führt ins Calenberger Land, gelaufen wird durch die Wasserstadt und die Leineauen. Angeboten werden eine Mitteldistanz über 1,9 km, 90 km (drei Runden, rund 460 Hm) und 21,1 km sowie eine Volks- und Sprintdistanz über 750 m, 20 km und 5 km, jeweils auch als Staffel. Die Startgelder steigen mit der Zahl der Anmeldungen, Anmeldeschluss online ist der 12. Juni 2027.",
+  "distanceKm": 113.0,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 113.0,
+      "elevationGainM": 460,
+      "split": "1,9 km / 90 km / 21,1 km"
+    },
+    {
+      "name": "Volks-/Sprintdistanz",
+      "km": 25.75,
+      "elevationGainM": 100,
+      "split": "0,75 km / 20 km / 5 km"
+    }
+  ],
+  "entryFee": "Volks-/Sprintdistanz ab 45 €, Mitteldistanz ab 144 €",
+  "registrationDeadline": "2027-06-12",
+  "startTime": "09:00"
+}

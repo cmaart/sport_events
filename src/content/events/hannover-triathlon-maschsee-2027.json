@@ -1,0 +1,23 @@
+{
+  "id": "hannover-triathlon-maschsee-2027",
+  "name": "Hannover Triathlon am Maschsee",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hannover",
+    "lat": 52.3587,
+    "lng": 9.7367,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://triathlon-hannover.de",
+  "description": "Der Hannover Triathlon am Maschsee ist für Samstag, 28. August 2027 angekündigt, 2026 fand die 19. Ausgabe statt. Geschwommen wird im Maschsee, Rad- und Laufstrecke führen durch die Stadt und am Seeufer entlang. Angeboten werden Sprint- und Olympische Distanz."
+}

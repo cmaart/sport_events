@@ -1,0 +1,21 @@
+{
+  "id": "vr-triathlon-lauingen-2027",
+  "name": "VR-Triathlon Lauingen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lauingen",
+    "lat": 48.5711,
+    "lng": 10.4314,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon.tvl.de/",
+  "description": "Der 21. VR-Triathlon Lauingen des TV Lauingen findet am 13. Juni 2027 in Lauingen an der Donau statt. Angeboten wird eine Sprintdistanz, die Anmeldung ist über die Vereinsseite verlinkt. Am Vortag richtet der Verein ein Langstreckenschwimmen aus."
+}

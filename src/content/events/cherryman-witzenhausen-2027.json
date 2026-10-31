@@ -1,0 +1,22 @@
+{
+  "id": "cherryman-witzenhausen-2027",
+  "name": "27. CherryMan",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-12",
+    "end": "2027-06-12",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Witzenhausen",
+    "lat": 51.3414,
+    "lng": 9.8585,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.cherry-man.de/",
+  "description": "Der 27. CherryMan in Witzenhausen findet laut Save the Date des Veranstalters am 12. Juni 2027 statt. Der Volkstriathlon wird über die Sprintdistanz ausgetragen, dazu kommen Wertungen für Jugendliche und Staffeln. Die Anmeldung öffnet am 15. März 2027."
+}

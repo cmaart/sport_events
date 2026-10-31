@@ -1,0 +1,23 @@
+{
+  "id": "karlsfelder-triathlon-2027",
+  "name": "Karlsfelder Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-18",
+    "end": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Karlsfeld – Karlsfelder See",
+    "lat": 48.236,
+    "lng": 11.468,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://karlsfelder-triathlon.org/",
+  "description": "Der 37. Karlsfelder Triathlon findet am 18. Juli 2027 am Karlsfelder See nordwestlich von München im Landkreis Dachau statt. Im Programm standen zuletzt eine Olympische Distanz und eine Sprintdistanz für Einzelstarter und Staffeln, geschwommen wird im Karlsfelder See. Die Anmeldung öffnet laut Veranstalter am 1. Januar 2027."
+}

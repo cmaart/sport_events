@@ -1,0 +1,23 @@
+{
+  "id": "mendener-cross-triathlon-2027",
+  "name": "Mendener Cross-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "end": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Menden (Sauerland)",
+    "lat": 51.4393,
+    "lng": 7.7905,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.menden-crosstriathlon.de/",
+  "description": "Der 31. Menden Cross-Triathlon findet am 28. August 2027 statt, veranstaltet vom Marathon-Club Menden im Bürgerbad Leitmecke. Geschwommen wird im Freibad mit Neoprenverbot, die Mountainbike-Runden führen über befestigte und unbefestigte Waldwege der Waldemei mit rund 120 Höhenmetern pro Runde. Angeboten werden Kurz- und Sprintdistanz, Staffeln sowie Jedermann- und Junior-Cross. Die Online-Anmeldung ist bis 24. August 2027 oder bis zum Erreichen des Teilnehmerlimits möglich.",
+  "registrationDeadline": "2027-08-24"
+}

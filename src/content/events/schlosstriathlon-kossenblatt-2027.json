@@ -1,0 +1,42 @@
+{
+  "id": "schlosstriathlon-kossenblatt-2027",
+  "name": "Kossenblatter Schlosstriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kossenblatt (Tauche)",
+    "lat": 52.115,
+    "lng": 14.075,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://www.schlosstri.de/",
+  "description": "Der 11. Kossenblatter Schlosstriathlon findet am 21. August 2027 rund um Schloss Kossenblatt in der Gemeinde Tauche (Landkreis Oder-Spree) statt, veranstaltet vom Multisport LOS e.V. Geschwommen wird in der Spree, die Radstrecke führt über Wald- und Feldwege, gelaufen wird im Gelände bis zum Ziel auf der Schlosswiese. Laut DTU-Kalender gibt es eine Kurzdistanz über 1,25 km Schwimmen, 26,75 km Rad und 8 km Lauf, eine Sprintdistanz (0,55 / 13,75 / 4 km, auch als Staffel) und einen Volkstriathlon (0,2 / 5 / 1 km) sowie Kinderrennen.",
+  "distanceKm": 36.0,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 36.0,
+      "split": "1,25 km / 26,75 km / 8 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 18.3,
+      "split": "0,55 km / 13,75 km / 4 km"
+    },
+    {
+      "name": "Volkstriathlon",
+      "km": 6.2,
+      "split": "0,2 km / 5 km / 1 km"
+    }
+  ]
+}

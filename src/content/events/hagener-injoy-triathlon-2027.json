@@ -1,0 +1,23 @@
+{
+  "id": "hagener-injoy-triathlon-2027",
+  "name": "Hagener IINJOY Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "end": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hagen",
+    "lat": 51.3671,
+    "lng": 7.4631,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.injoy-triathlon-hagen.de/",
+  "description": "Der 35. INJOY Hagener Triathlon ist vom Veranstalter für den 23. Mai 2027 angekündigt. Das Datum steht auf der offiziellen Save-the-Date-Grafik des Veranstalters. Bisher wurden in Hagen eine Olympische Distanz und eine Volksdistanz angeboten."
+}

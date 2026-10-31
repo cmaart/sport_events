@@ -1,0 +1,22 @@
+{
+  "id": "tankumsee-triathlon-gifhorn-2027",
+  "name": "BRAWO Tankumsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-13",
+    "end": "2027-06-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Tankumsee bei Gifhorn",
+    "lat": 52.4513,
+    "lng": 10.6236,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.triathlon-gifhorn.de/",
+  "description": "Der 23. Tankumsee Triathlon findet am 13. Juni 2027 am Tankumsee südöstlich von Gifhorn statt, veranstaltet vom VfL Wolfsburg. Geschwommen wird im Tankumsee, im DTU-Kalender ist für 2027 eine Sprintdistanz mit 20 km Rad und 5 km Lauf eingetragen. Bei der 22. Ausgabe 2026 machten Regen und Wind die Radstrecke schwer."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rigolator-triathlon-riegel-2027",
+  "name": "Rigolator Triathlon Riegel am Kaiserstuhl",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "end": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Riegel am Kaiserstuhl",
+    "lat": 48.1481,
+    "lng": 7.7375,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.rigolator.com/",
+  "description": "Der 18. Rigolator findet am 20. Juni 2027 in Riegel am Kaiserstuhl statt, ausgerichtet vom TV Riegel 1965. Um 9:45 Uhr startet der Einsteigertriathlon über 200 m Schwimmen, 8 km Rad und 2 km Lauf, um 10:45 Uhr die Sprintdistanz über 500 m, 28 km und 5,5 km.",
+  "distanceKm": 34.0,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 34.0,
+      "split": "0,5 km / 28 km / 5,5 km"
+    },
+    {
+      "name": "Einsteigertriathlon",
+      "km": 10.2,
+      "split": "0,2 km / 8 km / 2 km"
+    }
+  ],
+  "startTime": "09:45"
+}
