@@ -80,7 +80,7 @@
 - **neu (10-09) — la-pyreneenne-bagneres-2027:** 2027 zieht von Bagnères-de-Bigorre nach Saint-Lary-Soulan um (Location bereits Saint-Lary); Slug-Stamm „bagneres" damit geografisch stale, bei 2028 ggf. umbenennen.
 
 ### BACKLOG (offene Aufgaben — Stand 10-31)
-- **NEU 10-31:** ÖTRV/DTU-Lücken abgearbeitet (7 angelegt, s. Lauf-Summary). Organiserseiten von Langau/Amstetten/Maria Enzersdorf/Parndorf nach 2027-Infos re-checken (entryFee, Deadline). riderman → SILVA NIGRA Umbenennung prüfen. Kaiserstuhl Cross-Duathlon 2027 re-check.
+- **NEU 10-31:** ÖTRV/DTU-Lücken abgearbeitet (7 angelegt, s. Lauf-Summary). Organiserseiten von Langau/Amstetten/Maria Enzersdorf/Parndorf nach 2027-Infos re-checken (entryFee, Deadline). riderman → SILVA NIGRA erledigt 11-01. Kaiserstuhl Cross-Duathlon 2027 re-check.
 - **NEU 10-29:** ÖTRV-2027 ohne Datei: Stadttriathlon Amstetten (20.06.), Triathlon Langau (19.06.), Parndorfer Speedworld Supersprint Duathlon (10.05.), Swim Run Maria Enzersdorf (14.03.) → Organiser-Seite prüfen, `-2027` anlegen. DTU-2027 ohne Datei: Kaiserstuhl Cross-Duathlon, Hannover Wasserstadt, Waiblinger, Mühlacker, Eurawasser Trinale, Fürstenwalder Cross-Duathlon (17.04.), Vorpommern Duathlon (02.05.) u.a. (Namensabgleich nötig). challenge-barcelona-2027 (nur „Oktober 2027", confirmed:false) anlegen. ironman-703-st-poelten-2027: ÖTRV zeigt keinen Eintrag, kein offizieller Beleg → gegenprüfen, ggf. confirmed:false. IRONMAN 70.3 Vilamoura unverifiziert. Offen: 3rides-weinstrasse, shades-of-speed (Streckenwerte uneinheitlich), styroica registrationDeadline (Seite nennt 03.09.2026, wohl Tippfehler), erzgebirgstour/heilbronn/viking/kitzbuehel/ostseeman ohne 2027-Details.
 - **NEU 10-27:** mussbach-triathlon angelegt (06.06.2027, tv-mussbach.de). Etape du Tour 2027: 11.07., Reg 02.11.2026, Route 22.10. enthüllt (Cluses–Les Saisies laut Medien, offizielle Parcours-Seite nicht lesbar) → anlegen sobald offiziell lesbar (Cluses 46.06/6.58, Gran Fondo). challenge-st-poelten: ÖTRV führt nun IRONMAN 70.3 St. Pölten (Wechsel prüfen). kraigerseetriathlon 2027 ohne Datum; starlim-city-triathlon-wels Domain geblockt; svsee-cross offen. Challenge-Seiten zeigen 2027-Banner → Challenge-Re-check lohnt. Prüfpunkte: bonn-triathlon Distanzen (Startseite 4,2/65/15 passt nicht zu OD/Sprint); dolomitenradrundfahrt „seit 1950“ vs. 1951; pirker-grenzerfahrung region „Sachsen“ wohl falsch + Seite 503; wendelsteinrundfahrt Seite/Bild 403; harzer-radmarathon Datum 25./26.06.2027 uneinheitlich.
 - **NEU 10-25 offen:** **mussbach-triathlon-neustadt-weinstrasse-2027** NICHT angelegt — 2026-Datei nur Aggregator-Quelle (triafreunde websiteUrl + kavval-Bild), erst offizielle Veranstalterseite suchen (DTU nennt 06.06.2027). **parndorfer-speedworld-supersprint-duathlon** (ÖTRV 10.05.2027, Burgenland) — keine offizielle Veranstalterseite auffindbar, nur Aggregatoren → anlegen sobald Organiser-Seite gefunden. **etape-du-tour-2027** (letapedutourdefrance.com: 35. Ausgabe **11.07.2027** offiziell, Reg 02.11.2026) — Ort/Route erst nach TdF-2027-Präsentation; lat/lng fehlen → anlegen sobald Host-Stadt bekannt.
@@ -96,7 +96,7 @@
 ### QUELLEN-STAND (zuletzt geprüft — ALLE Quellen jeden Lauf durchsuchen)
 | Quelle | zuletzt |
 |---|---|
-| triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-10-29 (4 Seiten, keine ABGESAGT) / 10-25 (2027-Liste durchgegangen, keine „ABGESAGT"; 8 Roll-forwards + 5 neu AT angelegt) |
+| triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-11-01 (Seite 1, keine ABGESAGT) / 2026-10-29 (4 Seiten, keine ABGESAGT) / 10-25 (2027-Liste durchgegangen, keine „ABGESAGT"; 8 Roll-forwards + 5 neu AT angelegt) |
 | triathlondeutschland.de / dtu-kalender.de | 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
 | ironman.com | 2026-10-29 (weiter 403) / 10-27 (geblockt, erneut 403; Stand 10-25: 70.3-Euro-Rennen weiter ohne offiz. 2027-Datum → BACKLOG; alcudia-mallorca Tiefenfelder Site-down) |
 | challengefamily.com/races + Race-Sites | 2026-10-29 (Forte Village 24.10.2027 offiziell, Barcelona nur Okt, Sanremo/St. Pölten kein 2027) / 10-25 (peguera-mallorca + vieux-boucau 2027-Daten offiziell → angelegt; Forte Village/Barcelona/Sanremo/Sandefjord noch kein 2027) |
@@ -109,6 +109,10 @@
 > Nicht erreichbar/geblockt 10-25: ironman.com (403 WebFetch + Hotlink), grenzerfahrung.vcc-pirk.de (503), harz-radmarathon.de (WordPress PHP-500), parndorfer-speedworld-duathlon (keine offizielle Seite auffindbar).
 
 ---
+
+## Lauf 2026-11-01 — Kurzlauf: SILVA NIGRA-Umbenennung, ÖTRV-Scan
+
+ÖTRV-2027-Kalender (Seite 1) ohne ABGESAGT. riderman-bad-duerrheim-2027 laut riderman.de umbenannt zu „SILVA NIGRA Bad Dürrheim (ehemals RiderMan)", Zeitfahren ~22 km (statt 16,1), Anmeldestart 13.11.2026 16:00 ergänzt, Hm-Summe entfernt (nicht offiziell). Fokus-Set unverändert 20, Build grün (538 Seiten). Nicht erledigt: weitere Fokus-Vertiefung, DTU-Scan, ironman.com-Re-check, Aggregatoren (BACKLOG bleibt).
 
 ## Lauf 2026-10-31 — Fokus-Set (20) vertieft, 7 neue 2027-Ausgaben AT/DE
 
