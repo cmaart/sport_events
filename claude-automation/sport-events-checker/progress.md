@@ -79,7 +79,8 @@
 - ✅ **challenge-sandefjord-2027 entfernt (10-27)** → BLACKLIST.
 - **neu (10-09) — la-pyreneenne-bagneres-2027:** 2027 zieht von Bagnères-de-Bigorre nach Saint-Lary-Soulan um (Location bereits Saint-Lary); Slug-Stamm „bagneres" damit geografisch stale, bei 2028 ggf. umbenennen.
 
-### BACKLOG (offene Aufgaben — Stand 10-31)
+### BACKLOG (offene Aufgaben — Stand 11-05)
+- **NEU 11-05:** DTU-2027-Lücken ohne Datei und ohne offizielle Veranstalterseite (nur DTU-Eintrag, Websuche ergebnislos): Konstanzer Triathlon (24.04.2027), Zeller-Bäderbau Triathlon Heidenheim (09.05.2027; Veranstalter SV Mergelstetten, 2026 ausverkauft) → Organiser-Seite finden, dann anlegen. rosa200: Seite nennt 25.–26.06.2027, Start ab 06:00 (bereits im Datensatz), keine Gebühr/Distanzen/Limit publiziert.
 - **NEU 10-31:** ÖTRV/DTU-Lücken abgearbeitet (7 angelegt, s. Lauf-Summary). Organiserseiten von Langau/Amstetten/Maria Enzersdorf/Parndorf nach 2027-Infos re-checken (entryFee, Deadline). riderman → SILVA NIGRA erledigt 11-01. Kaiserstuhl Cross-Duathlon 2027 re-check.
 - **NEU 10-29:** ÖTRV-2027 ohne Datei: Stadttriathlon Amstetten (20.06.), Triathlon Langau (19.06.), Parndorfer Speedworld Supersprint Duathlon (10.05.), Swim Run Maria Enzersdorf (14.03.) → Organiser-Seite prüfen, `-2027` anlegen. DTU-2027 ohne Datei: Kaiserstuhl Cross-Duathlon, Hannover Wasserstadt, Waiblinger, Mühlacker, Eurawasser Trinale, Fürstenwalder Cross-Duathlon (17.04.), Vorpommern Duathlon (02.05.) u.a. (Namensabgleich nötig). challenge-barcelona-2027 (nur „Oktober 2027", confirmed:false) anlegen. ironman-703-st-poelten-2027: ÖTRV zeigt keinen Eintrag, kein offizieller Beleg → gegenprüfen, ggf. confirmed:false. IRONMAN 70.3 Vilamoura unverifiziert. Offen: 3rides-weinstrasse, shades-of-speed (Streckenwerte uneinheitlich), styroica registrationDeadline (Seite nennt 03.09.2026, wohl Tippfehler), erzgebirgstour/heilbronn/viking/kitzbuehel/ostseeman ohne 2027-Details.
 - **NEU 10-27:** mussbach-triathlon angelegt (06.06.2027, tv-mussbach.de). Etape du Tour 2027: 11.07., Reg 02.11.2026, Route 22.10. enthüllt (Cluses–Les Saisies laut Medien, offizielle Parcours-Seite nicht lesbar) → anlegen sobald offiziell lesbar (Cluses 46.06/6.58, Gran Fondo). challenge-st-poelten: ÖTRV führt nun IRONMAN 70.3 St. Pölten (Wechsel prüfen). kraigerseetriathlon 2027 ohne Datum; starlim-city-triathlon-wels Domain geblockt; svsee-cross offen. Challenge-Seiten zeigen 2027-Banner → Challenge-Re-check lohnt. Prüfpunkte: bonn-triathlon Distanzen (Startseite 4,2/65/15 passt nicht zu OD/Sprint); dolomitenradrundfahrt „seit 1950“ vs. 1951; pirker-grenzerfahrung region „Sachsen“ wohl falsch + Seite 503; wendelsteinrundfahrt Seite/Bild 403; harzer-radmarathon Datum 25./26.06.2027 uneinheitlich.
@@ -97,7 +98,7 @@
 | Quelle | zuletzt |
 |---|---|
 | triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-11-03 (keine ABGESAGT) / 2026-11-01 (Seite 1, keine ABGESAGT) / 2026-10-29 (4 Seiten, keine ABGESAGT) / 10-25 (2027-Liste durchgegangen, keine „ABGESAGT"; 8 Roll-forwards + 5 neu AT angelegt) |
-| triathlondeutschland.de / dtu-kalender.de | 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
+| triathlondeutschland.de / dtu-kalender.de | 2026-11-05 (Seite 0 ab 05.11., keine Absagen; Lücken Konstanz, Heidenheim → BACKLOG) / 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
 | ironman.com | 2026-10-29 (weiter 403) / 10-27 (geblockt, erneut 403; Stand 10-25: 70.3-Euro-Rennen weiter ohne offiz. 2027-Datum → BACKLOG; alcudia-mallorca Tiefenfelder Site-down) |
 | challengefamily.com/races + Race-Sites | 2026-10-29 (Forte Village 24.10.2027 offiziell, Barcelona nur Okt, Sanremo/St. Pölten kein 2027) / 10-25 (peguera-mallorca + vieux-boucau 2027-Daten offiziell → angelegt; Forte Village/Barcelona/Sanremo/Sandefjord noch kein 2027) |
 | k226.com/events/events.aspx | 2026-10-25 (Discovery; keine neuen confirmten Kandidaten) |
@@ -107,6 +108,12 @@
 | GFNY / L'Étape-Serie / Classics (RCS, Marmotte, Haute Route) | 2026-10-25 (Etape du Tour 2027 jetzt 11.07. offiziell — Ort offen, BACKLOG; sonst keine neuen Termine) |
 | Fokus-Veranstalterseiten (Tiefenfeld-Enrichment 16 Events) | 2026-10-25 (offizielle Distances/Fee/Deadline/StartTime/Limit; alle imageUrls per curl 200 geprüft) |
 > Nicht erreichbar/geblockt 10-25: ironman.com (403 WebFetch + Hotlink), grenzerfahrung.vcc-pirk.de (503), harz-radmarathon.de (WordPress PHP-500), parndorfer-speedworld-duathlon (keine offizielle Seite auffindbar).
+
+---
+
+## Lauf 2026-11-05 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (kept 20, DE 13 / AT 7). ÖTRV-2027 Seite 1: keine ABGESAGT, alle Einträge im Bestand. DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim nur im BACKLOG (keine offizielle Quelle). rosa200 ohne neue Fakten. Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
 
 ---
 
@@ -120,16 +127,3 @@ Fokus-Set 20/20 unverändert (kept 20). ruegen-rund-tour-2027: registrationUrl (
 
 ÖTRV-2027-Kalender (Seite 1) ohne ABGESAGT. riderman-bad-duerrheim-2027 laut riderman.de umbenannt zu „SILVA NIGRA Bad Dürrheim (ehemals RiderMan)", Zeitfahren ~22 km (statt 16,1), Anmeldestart 13.11.2026 16:00 ergänzt, Hm-Summe entfernt (nicht offiziell). Fokus-Set unverändert 20, Build grün (538 Seiten). Nicht erledigt: weitere Fokus-Vertiefung, DTU-Scan, ironman.com-Re-check, Aggregatoren (BACKLOG bleibt).
 
-## Lauf 2026-10-31 — Fokus-Set (20) vertieft, 7 neue 2027-Ausgaben AT/DE
-
-Fokus-Limit seit 10-30 = 20 (nicht mehr 150; Texte oben im STATE zu 150 sind veraltet). 12 von 14 Fokus-Events angereichert: participantLimit (frankfurt-city 2800, belchen3 240, scharmuetzelsee 700, ith-hennesee 440 korrigiert), entryFee/Deadline/startTime (podersdorf, wuerzburg, allgaeu, riderman, rosa200), zusätzliche distances (ith-hennesee, trumer, world-games). Entfernt, weil nicht offiziell belegt: rosa200 participantLimit 650, ruegen-rund-tour Hm 1050, allgaeu startTime 07:45 (2026-Zeitplan), riderman Etappe-1-Hm. **Offen:** riderman-bad-duerrheim heißt laut Veranstalter 2027 „SILVA NIGRA" (Event-Name ggf. umbenennen). Neu (Quelle ÖTRV/DTU-Kalender, Veranstalterseiten zeigen nur 2026): stadttriathlon-amstetten, triathlon-langau, swim-run-maria-enzersdorf, parndorfer-speedworld-duathlon, vaf-swim-and-run-hamburg, lvm-swim-run-guestrow, swim-run-osterburg-landesmeisterschaft (Koordinaten per OSM geprüft; DE-Swim&Run-Dateien dünn, nur DTU-Eintrag). Kaiserstuhl Cross-Duathlon: kein 2027-Eintrag (nur 13.12.2026). DTU (70 Einträge) + ÖTRV ohne ABGESAGT. Build grün (538 Seiten), Fokus-Set unverändert 20.
-
-## Lauf 2026-10-29 — 11 Fokus-Events vertieft, Ötztaler bestätigt, Étape du Tour 2027 + Forte Village 2027 neu
-
-4 Enrichment-Agents (24→24 Events angefragt, 11 geändert) + 1 Scan-Agent. Neue distances[]: podersdorf, austria-extreme, frankfurt-city (+entryFee), belchen3 (+Fee/startTime), indeland, seestadt, dirndltal-race (+Fee/Deadline), styroica (+Fee/startTime), triathlon-bregenz, brombachsee, audi-triathlon-ingolstadt (voll), grand-escape, race-across-austria-east-west, vienna-triathlon, race-around-austria (voll). Korrekturen: vulkanland (B66-Radstrecke entfällt, Anmeldung ab ~01.12.2026, distanceKm entfernt), styroica (120 km statt 200), brombachsee (Hm entfernt), audi (86 km Rad), dirndltal (Adventure 100 km). Unverändert (Seite ohne 2027-Daten): brezel-race, 3rides-weinstrasse, erzgebirgstour, heilbronn, viking, kitzbuehel, ostseeman, shades-of-speed. Neu: etape-du-tour-2027 (11.07., Cluses–Les Saisies, 154 km/4850 Hm, Reg 02.11.2026), challenge-forte-village-sardinia-2027 (24.10.2027). Flip: oetztaler-radmarathon-2027 confirmed (soelden.com 29.08.2027). challenge-turku-2027 auf confirmed:false (Challenge: TBC). Keine Absagen (ÖTRV/DTU/Challenge ohne ABGESAGT). Build grün, 1621 Seiten.
-
-## Lauf 2026-10-27 — 10 Fokus-Events vertieft, mussbach neu, sandefjord entfernt
-
-4 Enrichment-Agents (offizielle Seiten) + 1 Discovery/Absage-Scan. Vertieft: rosa200-faak-am-see, swimrun-rheinsberg, world-games-mountainbiking-saalbach, harzer-radmarathon (11 Touren, 303 km Hm 3000→2400 laut Ausschreibung), albtal-triathlon (distances, Aggregatorbild entfernt), vintage-tour-donau, glocknerkoenig, kaernten-radmarathon, neuseenman-ferropolis (404-Bild entfernt), bonn-triathlon. Nicht anreicherbar (Seite down/403/nur 2026-Stand/keine belegbaren Felder): ironman-703-alcudia, pirker-grenzerfahrung, wendelsteinrundfahrt, allgaeu-gravel-ride, race-across-the-alps, black-forest-ultra-gravel, in-velo-veritas, heinerman, walchsee, kalkar, myeifelride, silbersee, dolomitenradrundfahrt. Neu: mussbach-triathlon-neustadt-weinstrasse-2027. Entfernt: challenge-sandefjord-2027 (BLACKLIST). Steiraman 2027 pausiert (BLACKLIST). ÖTRV ohne „ABGESAGT“; ironman.com weiter geblockt. Build grün (1619 Seiten), Fokus-Set unverändert 150, 50/150 mit distances. Ziel von 15 vertieften Fokus-Events verfehlt (10), weil viele Veranstalterseiten für 2027 noch nichts publizieren.
-
-> Ältere Session-Summaries (2026-10-03 und früher) in `progress-archive.md`.
