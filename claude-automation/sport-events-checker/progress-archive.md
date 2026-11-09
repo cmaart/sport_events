@@ -1459,3 +1459,8 @@ Fokus-Limit seit 10-30 = 20 (nicht mehr 150; Texte oben im STATE zu 150 sind ver
 4 Enrichment-Agents (offizielle Seiten) + 1 Discovery/Absage-Scan. Vertieft: rosa200-faak-am-see, swimrun-rheinsberg, world-games-mountainbiking-saalbach, harzer-radmarathon (11 Touren, 303 km Hm 3000→2400 laut Ausschreibung), albtal-triathlon (distances, Aggregatorbild entfernt), vintage-tour-donau, glocknerkoenig, kaernten-radmarathon, neuseenman-ferropolis (404-Bild entfernt), bonn-triathlon. Nicht anreicherbar (Seite down/403/nur 2026-Stand/keine belegbaren Felder): ironman-703-alcudia, pirker-grenzerfahrung, wendelsteinrundfahrt, allgaeu-gravel-ride, race-across-the-alps, black-forest-ultra-gravel, in-velo-veritas, heinerman, walchsee, kalkar, myeifelride, silbersee, dolomitenradrundfahrt. Neu: mussbach-triathlon-neustadt-weinstrasse-2027. Entfernt: challenge-sandefjord-2027 (BLACKLIST). Steiraman 2027 pausiert (BLACKLIST). ÖTRV ohne „ABGESAGT“; ironman.com weiter geblockt. Build grün (1619 Seiten), Fokus-Set unverändert 150, 50/150 mit distances. Ziel von 15 vertieften Fokus-Events verfehlt (10), weil viele Veranstalterseiten für 2027 noch nichts publizieren.
 
 > Ältere Session-Summaries (2026-10-03 und früher) in `progress-archive.md`.
+
+## Lauf 2026-11-01 — Kurzlauf: SILVA NIGRA-Umbenennung, ÖTRV-Scan
+
+ÖTRV-2027-Kalender (Seite 1) ohne ABGESAGT. riderman-bad-duerrheim-2027 laut riderman.de umbenannt zu „SILVA NIGRA Bad Dürrheim (ehemals RiderMan)", Zeitfahren ~22 km (statt 16,1), Anmeldestart 13.11.2026 16:00 ergänzt, Hm-Summe entfernt (nicht offiziell). Fokus-Set unverändert 20, Build grün (538 Seiten). Nicht erledigt: weitere Fokus-Vertiefung, DTU-Scan, ironman.com-Re-check, Aggregatoren (BACKLOG bleibt).
+
