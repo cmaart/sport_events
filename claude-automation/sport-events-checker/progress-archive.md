@@ -1464,3 +1464,9 @@ Fokus-Limit seit 10-30 = 20 (nicht mehr 150; Texte oben im STATE zu 150 sind ver
 
 ÖTRV-2027-Kalender (Seite 1) ohne ABGESAGT. riderman-bad-duerrheim-2027 laut riderman.de umbenannt zu „SILVA NIGRA Bad Dürrheim (ehemals RiderMan)", Zeitfahren ~22 km (statt 16,1), Anmeldestart 13.11.2026 16:00 ergänzt, Hm-Summe entfernt (nicht offiziell). Fokus-Set unverändert 20, Build grün (538 Seiten). Nicht erledigt: weitere Fokus-Vertiefung, DTU-Scan, ironman.com-Re-check, Aggregatoren (BACKLOG bleibt).
 
+
+## Lauf 2026-11-03 — Kurzlauf: Fokus-Check, ÖTRV-Scan
+
+Fokus-Set 20/20 unverändert (kept 20). ruegen-rund-tour-2027: registrationUrl (raceresult) ergänzt; Startzeit/Deadline/Limit auf der Veranstalterseite nicht genannt. rosa200 (Anmeldephase folgt, kein Deadline/Limit) und vintage-tour-donau ohne neue offizielle Fakten. ÖTRV-2027: keine ABGESAGT. Nicht erledigt: DTU-Scan, ironman.com, Aggregatoren, Neuanlagen (BACKLOG bleibt).
+
+---
