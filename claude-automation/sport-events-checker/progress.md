@@ -97,8 +97,8 @@
 ### QUELLEN-STAND (zuletzt geprüft — ALLE Quellen jeden Lauf durchsuchen)
 | Quelle | zuletzt |
 |---|---|
-| triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-11-11 (keine ABGESAGT) / 2026-11-09 (keine ABGESAGT) / 2026-11-07 (keine ABGESAGT) / 2026-11-03 (keine ABGESAGT) / 2026-11-01 (Seite 1, keine ABGESAGT) / 2026-10-29 (4 Seiten, keine ABGESAGT) / 10-25 (2027-Liste durchgegangen, keine „ABGESAGT"; 8 Roll-forwards + 5 neu AT angelegt) |
-| triathlondeutschland.de / dtu-kalender.de | 2026-11-11 (Seite 0, keine Absagen) / 2026-11-09 (Seiten 0-2, keine Absagen) / 2026-11-07 (Seite 0, keine Absagen; Konstanz/Heidenheim weiter nur DTU → BACKLOG) / 2026-11-05 (Seite 0 ab 05.11., keine Absagen; Lücken Konstanz, Heidenheim → BACKLOG) / 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
+| triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-11-13 (keine ABGESAGT) / 2026-11-11 (keine ABGESAGT) / 2026-11-09 (keine ABGESAGT) / 2026-11-07 (keine ABGESAGT) / 2026-11-03 (keine ABGESAGT) / 2026-11-01 (Seite 1, keine ABGESAGT) / 2026-10-29 (4 Seiten, keine ABGESAGT) / 10-25 (2027-Liste durchgegangen, keine „ABGESAGT"; 8 Roll-forwards + 5 neu AT angelegt) |
+| triathlondeutschland.de / dtu-kalender.de | 2026-11-13 (Seite lieferte nur 2021-Einträge, kein Scan möglich) / 2026-11-11 (Seite 0, keine Absagen) / 2026-11-09 (Seiten 0-2, keine Absagen) / 2026-11-07 (Seite 0, keine Absagen; Konstanz/Heidenheim weiter nur DTU → BACKLOG) / 2026-11-05 (Seite 0 ab 05.11., keine Absagen; Lücken Konstanz, Heidenheim → BACKLOG) / 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
 | ironman.com | 2026-10-29 (weiter 403) / 10-27 (geblockt, erneut 403; Stand 10-25: 70.3-Euro-Rennen weiter ohne offiz. 2027-Datum → BACKLOG; alcudia-mallorca Tiefenfelder Site-down) |
 | challengefamily.com/races + Race-Sites | 2026-10-29 (Forte Village 24.10.2027 offiziell, Barcelona nur Okt, Sanremo/St. Pölten kein 2027) / 10-25 (peguera-mallorca + vieux-boucau 2027-Daten offiziell → angelegt; Forte Village/Barcelona/Sanremo/Sandefjord noch kein 2027) |
 | k226.com/events/events.aspx | 2026-10-25 (Discovery; keine neuen confirmten Kandidaten) |
@@ -108,6 +108,12 @@
 | GFNY / L'Étape-Serie / Classics (RCS, Marmotte, Haute Route) | 2026-10-25 (Etape du Tour 2027 jetzt 11.07. offiziell — Ort offen, BACKLOG; sonst keine neuen Termine) |
 | Fokus-Veranstalterseiten (Tiefenfeld-Enrichment 16 Events) | 2026-10-25 (offizielle Distances/Fee/Deadline/StartTime/Limit; alle imageUrls per curl 200 geprüft) |
 > Nicht erreichbar/geblockt 10-25: ironman.com (403 WebFetch + Hotlink), grenzerfahrung.vcc-pirk.de (503), harz-radmarathon.de (WordPress PHP-500), parndorfer-speedworld-duathlon (keine offizielle Seite auffindbar).
+
+---
+
+## Lauf 2026-11-13 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027: keine ABGESAGT. DTU-Kalender lieferte heute trotz Datumsfilter nur Einträge von 2021 (Seite offenbar defekt/gecacht) → kein verwertbarer Scan, nächsten Lauf erneut versuchen. Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
 
 ---
 
@@ -128,10 +134,3 @@ Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 
 Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle Fokus-Events mit Tiefenfeldern. ÖTRV-2027 und DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim weiter ohne Organiser-Seite (BACKLOG). Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
 
 ---
-
-## Lauf 2026-11-05 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
-
-Fokus-Set 20/20 unverändert (kept 20, DE 13 / AT 7). ÖTRV-2027 Seite 1: keine ABGESAGT, alle Einträge im Bestand. DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim nur im BACKLOG (keine offizielle Quelle). rosa200 ohne neue Fakten. Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
-
----
-

@@ -1470,3 +1470,8 @@ Fokus-Limit seit 10-30 = 20 (nicht mehr 150; Texte oben im STATE zu 150 sind ver
 Fokus-Set 20/20 unverändert (kept 20). ruegen-rund-tour-2027: registrationUrl (raceresult) ergänzt; Startzeit/Deadline/Limit auf der Veranstalterseite nicht genannt. rosa200 (Anmeldephase folgt, kein Deadline/Limit) und vintage-tour-donau ohne neue offizielle Fakten. ÖTRV-2027: keine ABGESAGT. Nicht erledigt: DTU-Scan, ironman.com, Aggregatoren, Neuanlagen (BACKLOG bleibt).
 
 ---
+
+
+## Lauf 2026-11-05 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (kept 20, DE 13 / AT 7). ÖTRV-2027 Seite 1: keine ABGESAGT, alle Einträge im Bestand. DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim nur im BACKLOG (keine offizielle Quelle). rosa200 ohne neue Fakten. Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
