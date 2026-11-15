@@ -1,0 +1,29 @@
+{
+  "id": "sparkassen-kanal-triathlon-rendsburg-2027",
+  "name": "Sparkassen Kanal Triathlon Rendsburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rendsburg",
+    "lat": 54.301,
+    "lng": 9.664,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://kanal-triathlon.de/",
+  "description": "Sparkassen Kanal Triathlon Rendsburg in Rendsburg findet am 4. September 2027 statt (13. Ausgabe), Veranstalter ist SG Athletico Büdelsdorf. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (500 m, 25 km, 5 km). Laut DTU sind 200 Einzelstarter und 20 Staffeln vorgesehen. Die Veranstalterseite nennt Rendsburg Kreishafen als Austragungsort. Die Radstrecke ist mit 25 km etwas länger als bei einer klassischen Sprintdistanz. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 30.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 30.5,
+      "split": "500 m / 25 km / 5 km"
+    }
+  ]
+}

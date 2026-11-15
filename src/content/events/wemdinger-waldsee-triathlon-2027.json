@@ -1,0 +1,29 @@
+{
+  "id": "wemdinger-waldsee-triathlon-2027",
+  "name": "Wemdinger Waldsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wemding",
+    "lat": 48.8667,
+    "lng": 10.7167,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.lg-maerchenwald.de/triathlon",
+  "description": "Wemdinger Waldsee Triathlon in Wemding findet am 27. Juni 2027 statt (Ausgabe 2027), Veranstalter ist TSV Wemding und LG Märchenwald. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (450 m, 15 km, 5 km). Laut DTU sind 250 Startplätze vorgesehen. Die Radstrecke ist mit 15 km kürzer als bei einer üblichen Sprintdistanz. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 20.45,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 20.45,
+      "split": "450 m / 15 km / 5 km"
+    }
+  ]
+}

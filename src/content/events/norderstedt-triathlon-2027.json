@@ -1,0 +1,40 @@
+{
+  "id": "norderstedt-triathlon-2027",
+  "name": "Norderstedt Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Norderstedt",
+    "lat": 53.706,
+    "lng": 9.98,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.norderstedt-triathlon.de/",
+  "description": "Norderstedt Triathlon in Norderstedt findet am 5. September 2027 statt (20. Ausgabe), Veranstalter ist SG Wasserratten Norderstedt. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Supersprint (200 m, 10 km, 2,5 km), Sprintdistanz (500 m, 20 km, 5 km), Kurzdistanz (1,5 km, 40 km, 10 km). Laut DTU sind mehrere Wertungen vorgesehen, darunter eine Landesliga Wertung über die Kurzdistanz mit 150 Plätzen und Staffeln über die Sprintdistanz. Die Veranstalterseite bestätigt den Termin 5. September 2027. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Supersprint",
+      "km": 12.7,
+      "split": "200 m / 10 km / 2,5 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "500 m / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    }
+  ]
+}

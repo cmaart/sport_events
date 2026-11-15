@@ -1,0 +1,35 @@
+{
+  "id": "deggendorfer-triathlon-2027",
+  "name": "Deggendorfer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Deggendorf",
+    "lat": 48.8408,
+    "lng": 12.9608,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.lv-deggendorf.de/",
+  "description": "Deggendorfer Triathlon in Deggendorf findet am 30. Mai 2027 statt (21. Ausgabe), Veranstalter ist LV Deggendorf. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (400 m, 20,3 km, 5 km), Kurzdistanz (1,5 km, 39,3 km, 10 km). Für die Einzelstarts sind laut DTU-Meldung je Distanz 150 Teilnehmer vorgesehen, für die Staffeln je 30. Beide Distanzen werden auch als Staffel ausgeschrieben. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 50.8,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.7,
+      "split": "400 m / 20,3 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 50.8,
+      "split": "1,5 km / 39,3 km / 10 km"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mettmanner-duathlon-2027",
+  "name": "Mettmanner Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Mettmann",
+    "lat": 51.25,
+    "lng": 6.9667,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.me-sport.de/de/me-sport-plus/duathlon/",
+  "description": "Mettmanner Duathlon in Mettmann findet am 18. April 2027 statt (23. Ausgabe), Veranstalter ist mettmann sport. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (5 km, 24 km, 2,5 km), Kurzdistanz (10 km, 44 km, 5 km). Laut DTU sind 190 Einzelstarter auf der Sprintdistanz, 125 auf der Kurzdistanz und 70 in der Elite und U23 Wertung vorgesehen, dazu Staffeln über beide Distanzen. Die Distanzen bestehen aus Laufen, Radfahren und einem zweiten Lauf. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 59,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 31.5,
+      "split": "5 km / 24 km / 2,5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 59,
+      "split": "10 km / 44 km / 5 km"
+    }
+  ]
+}

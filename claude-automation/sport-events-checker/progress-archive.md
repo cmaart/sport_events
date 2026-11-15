@@ -1475,3 +1475,15 @@ Fokus-Set 20/20 unverändert (kept 20). ruegen-rund-tour-2027: registrationUrl (
 ## Lauf 2026-11-05 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
 
 Fokus-Set 20/20 unverändert (kept 20, DE 13 / AT 7). ÖTRV-2027 Seite 1: keine ABGESAGT, alle Einträge im Bestand. DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim nur im BACKLOG (keine offizielle Quelle). rosa200 ohne neue Fakten. Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
+
+## Lauf 2026-11-09 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 und DTU Seiten 0-2: keine Absagen; keine neuen Lücken (DTU-Einträge bis 12/2026 im Bestand; Konstanz/Heidenheim weiter BACKLOG). Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
+
+---
+
+## Lauf 2026-11-07 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle Fokus-Events mit Tiefenfeldern. ÖTRV-2027 und DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim weiter ohne Organiser-Seite (BACKLOG). Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
+
+---

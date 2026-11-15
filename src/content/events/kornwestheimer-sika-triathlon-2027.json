@@ -1,0 +1,29 @@
+{
+  "id": "kornwestheimer-sika-triathlon-2027",
+  "name": "Kornwestheimer Sika Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kornwestheim",
+    "lat": 48.8603,
+    "lng": 9.1856,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.szk-triathlon.de/",
+  "description": "Kornwestheimer Sika Triathlon in Kornwestheim findet am 19. September 2027 statt (34. Ausgabe), Veranstalter ist Skizunft Kornwestheim. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (500 m, 20 km, 5,1 km). Laut DTU sind 400 Einzelstarter und 20 Staffeln vorgesehen. Die Veranstalterseite führt bereits eine Rubrik für 2027. Das Rennen zählt zum RegioCup Stuttgart und hat ein eigenes Kinderprogramm. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 25.6,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.6,
+      "split": "500 m / 20 km / 5,1 km"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lsv-volksbank-triathlon-wolfenbuettel-2027",
+  "name": "LSV Volksbank Triathlon Wolfenbüttel",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wolfenbüttel",
+    "lat": 52.163,
+    "lng": 10.538,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.lsv-triathlon.de/",
+  "description": "LSV Volksbank Triathlon Wolfenbüttel in Wolfenbüttel findet am 2. Mai 2027 statt (29. Ausgabe), Veranstalter ist Lindener SV Triathlon. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (400 m, 20 km, 5 km). Laut DTU sind 350 Einzelstarter und 60 Staffeln vorgesehen. Der Termin am 2. Mai macht den Wettkampf zu einem frühen Saisontest im niedersächsischen Raum. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 25.4,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.4,
+      "split": "400 m / 20 km / 5 km"
+    }
+  ]
+}

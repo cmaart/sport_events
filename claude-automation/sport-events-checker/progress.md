@@ -80,6 +80,7 @@
 - **neu (10-09) — la-pyreneenne-bagneres-2027:** 2027 zieht von Bagnères-de-Bigorre nach Saint-Lary-Soulan um (Location bereits Saint-Lary); Slug-Stamm „bagneres" damit geografisch stale, bei 2028 ggf. umbenennen.
 
 ### BACKLOG (offene Aufgaben — Stand 11-15)
+- **11-15 abgearbeitet (12 angelegt, s. Lauf-Summary).** Noch MISSING bei DTU (23): Frankfurter Nikolaus-Duathlon (05.12.2026), Bonner Swimathlon, Hannover 96 Young Swim&Run, Coburg, Eifeler Crossduathlon, Konstanz, Bad Waldseer Lauffieber, Heidenheim, Powerman Alsdorf (EM), Stackmann Altes Land, SCI Triathlon Schenefeld, Super-Cross-Sprint Merzig, Altmark-Triathlon, Biosphärentriathlon Gersheim, Harzflow, Herrenkoog (keine Website), Salzgitter, ENDURR Flowing Harz, Saarland-Staffel, DM-Finals Stuttgart/Halle (DM-Einträge). Nächster Lauf: mind. 8 davon.
 - **NEU 11-15 (höchste Priorität): DTU-Lückenliste.** Der DTU-Kalender ignoriert seinen Datumsfilter, alle WebFetch-Scans seit 11-01 sahen nur 2021. Neues Skript `node scripts/dtu-calendar-diff.mjs` (s. routine-prompt.md) meldete am 11-15: 120 künftige Einträge, 68 im Bestand, **32 fehlen**, u. a. Konstanz, Heidenheim, Wolfenbüttel (LSV), Powerman Alsdorf (EM), Deggendorf, Elbe-Triathlon Hamburg, Churfranken Niedernberg, Kratschmayer Waldenburg, Norderstedt, Kornwestheim, Rendsburg Kanal, Bibermann Bleckede, Herrenkoog, Wemding, Drensteinfurt, Mettmann Duathlon, Eifeler Crossduathlon, Frankfurter Nikolaus-Duathlon (05.12.2026). Jeden Lauf mind. 8 davon anlegen (Veranstalterseite prüfen). Erlanger Triathlon 2027 am 11-15 manuell angelegt (Formspree-Vorschlag; fehlte, weil 2026 als past gelöscht wurde). neuseenMAN steht bei DTU auf 27.05.**2028**; Datum von `neuseenman-ferropolis-2027` gegenprüfen.
 - **NEU 11-05:** DTU-2027-Lücken ohne Datei und ohne offizielle Veranstalterseite (nur DTU-Eintrag, Websuche ergebnislos): Konstanzer Triathlon (24.04.2027), Zeller-Bäderbau Triathlon Heidenheim (09.05.2027; Veranstalter SV Mergelstetten, 2026 ausverkauft) → Organiser-Seite finden, dann anlegen. rosa200: Seite nennt 25.–26.06.2027, Start ab 06:00 (bereits im Datensatz), keine Gebühr/Distanzen/Limit publiziert.
 - **NEU 10-31:** ÖTRV/DTU-Lücken abgearbeitet (7 angelegt, s. Lauf-Summary). Organiserseiten von Langau/Amstetten/Maria Enzersdorf/Parndorf nach 2027-Infos re-checken (entryFee, Deadline). riderman → SILVA NIGRA erledigt 11-01. Kaiserstuhl Cross-Duathlon 2027 re-check.
@@ -112,6 +113,12 @@
 
 ---
 
+## Lauf 2026-11-15 — DTU-Lückenliste: 12 Neuanlagen
+
+`dtu-calendar-diff.mjs`: 134 Einträge ab heute, 35 MISSING. 12 DE-Events als `-2027` angelegt (Datum, Distanzen, Veranstalter und geplante Teilnehmerzahlen aus dem DTU-Eintrag, Veranstalterseite als websiteUrl, bei Drensteinfurt/Norderstedt/Churfranken/Kornwestheim/Elbe-Triathlon Termin oder Ausgabe auf der Veranstalterseite gegengeprüft): Deggendorf, Elbe-Triathlon Hamburg, Churfranken Niedernberg, Kanal-Triathlon Rendsburg, Bibermann Bleckede, Wemding Waldsee, Drensteinfurt, LSV Wolfenbüttel, Mettmanner Duathlon, Kornwestheim, Norderstedt, Kratschmayer Waldenburg. Fokus-Set 20/20 unverändert (alle mit Tiefenfeldern). Build grün (551 Seiten). Noch offen: Gebühr/Frist dieser 12 (Veranstalterseiten nennen sie noch nicht). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
+
+---
+
 ## Lauf 2026-11-13 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
 
 Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027: keine ABGESAGT. DTU-Kalender lieferte heute trotz Datumsfilter nur Einträge von 2021 (Seite offenbar defekt/gecacht) → kein verwertbarer Scan, nächsten Lauf erneut versuchen. Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
@@ -124,14 +131,3 @@ Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 
 
 ---
 
-## Lauf 2026-11-09 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
-
-Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 und DTU Seiten 0-2: keine Absagen; keine neuen Lücken (DTU-Einträge bis 12/2026 im Bestand; Konstanz/Heidenheim weiter BACKLOG). Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
-
----
-
-## Lauf 2026-11-07 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
-
-Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle Fokus-Events mit Tiefenfeldern. ÖTRV-2027 und DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim weiter ohne Organiser-Seite (BACKLOG). Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
-
----

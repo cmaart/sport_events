@@ -1,0 +1,41 @@
+{
+  "id": "drensteinfurt-triathlon-2027",
+  "name": "Drensteinfurt Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-16",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Drensteinfurt",
+    "lat": 51.7945,
+    "lng": 7.7358,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.drensteinfurt-triathlon.de/",
+  "description": "Drensteinfurt Triathlon in Drensteinfurt findet am 16. Mai 2027 statt (5. Ausgabe), Veranstalter ist Leichtertriathlon. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (400 m, 20 km, 5 km), Kurzdistanz (800 m, 40 km, 10 km), Mitteldistanz (1,2 km, 60 km, 15 km). Laut DTU sind 160 Starter auf der Sprintdistanz, 320 auf der Kurzdistanz und 240 auf der Mitteldistanz vorgesehen. Zusätzlich gibt es Staffeln über Supersprint (200 m / 10 km / 2,5 km), Sprint und Kurzdistanz. Die Veranstalterseite kündigt die fünfte Auflage für Sonntag, den 16. Mai 2027 an. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 76.2,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.4,
+      "split": "400 m / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 50.8,
+      "split": "800 m / 40 km / 10 km"
+    },
+    {
+      "name": "Mitteldistanz",
+      "km": 76.2,
+      "split": "1,2 km / 60 km / 15 km"
+    }
+  ]
+}

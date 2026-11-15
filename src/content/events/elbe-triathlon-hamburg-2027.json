@@ -1,0 +1,35 @@
+{
+  "id": "elbe-triathlon-hamburg-2027",
+  "name": "Elbe-Triathlon Hamburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hamburg",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "region": "Hamburg"
+  },
+  "websiteUrl": "https://www.elbetriathlon.de/",
+  "description": "Elbe-Triathlon Hamburg in Hamburg findet am 27. Juni 2027 statt (15. Ausgabe), Veranstalter ist Triabolos Triathlon Hamburg. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (500 m, 20 km, 5 km), Kurzdistanz (1,5 km, 40 km, 10 km). Laut DTU sind 900 Plätze auf der Sprintdistanz und 600 auf der Kurzdistanz vorgesehen, dazu ein Mixed Relay für Teams aus zwei Frauen und zwei Männern (250 m / 7,3 km / 2,3 km je Teilnehmer, 200 Plätze). Damit gehört die Veranstaltung zu den größeren Jedermann Wettkämpfen im Hamburger Raum. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "500 m / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    }
+  ]
+}

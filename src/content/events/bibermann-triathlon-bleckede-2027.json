@@ -1,0 +1,35 @@
+{
+  "id": "bibermann-triathlon-bleckede-2027",
+  "name": "Sparkassen Bibermann Triathlon Bleckede",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bleckede",
+    "lat": 53.2975,
+    "lng": 10.7279,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "http://www.bibermann-triathlon.de/",
+  "description": "Sparkassen Bibermann Triathlon Bleckede in Bleckede findet am 5. September 2027 statt (Ausgabe 2027), Veranstalter ist RSC Lüneburg. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (500 m, 20 km, 5 km), Kurzdistanz (1,5 km, 38 km, 10 km). Laut DTU sind mehrere Wertungen mit zusammen rund 540 Plätzen vorgesehen, darunter eine zweite Sprintvariante mit 750 m Schwimmen und Staffeln für beide Distanzen. Die Kurzdistanz hat mit 38 km eine etwas kürzere Radstrecke als die DTU Standarddistanz. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 49.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "500 m / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 49.5,
+      "split": "1,5 km / 38 km / 10 km"
+    }
+  ]
+}

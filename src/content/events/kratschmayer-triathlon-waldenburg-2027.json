@@ -1,0 +1,29 @@
+{
+  "id": "kratschmayer-triathlon-waldenburg-2027",
+  "name": "Kratschmayer Triathlon Waldenburg",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-18",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Waldenburg",
+    "lat": 49.19,
+    "lng": 9.635,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.tsg-waldenburg.de/",
+  "description": "Kratschmayer Triathlon Waldenburg in Waldenburg findet am 18. Juli 2027 statt (36. Ausgabe), Veranstalter ist TSG Waldenburg. Der Termin steht im Veranstaltungskalender der Deutschen Triathlon Union. Ausgeschrieben sind Sprintdistanz (500 m, 20 km, 5 km). Laut DTU sind 200 Einzelstarter und 50 Staffeln vorgesehen. Mit der 36. Auflage gehört der Wettkampf zu den lange etablierten Sprint Triathlons in Hohenlohe. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen auf der Seite des Veranstalters.",
+  "distanceKm": 25.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "500 m / 20 km / 5 km"
+    }
+  ]
+}
