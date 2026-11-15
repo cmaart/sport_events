@@ -90,9 +90,16 @@ eigene JSON-Datei** mit Jahres-Suffix (`<slug>-2026.json`, `<slug>-2027.json`).
   4–8 Sätze nach „Detailseiten-Content", belegte Felder, offiziell verifiziertes Datum). Keine
   templatisierten Stub-Seiten, keine Massen-Merges aus Aggregator-Daten ohne Einzelprüfung. Kandidaten,
   die in diesem Lauf nicht sauber recherchiert werden können, in `progress.md` als BACKLOG notieren.
+- **Keine reinen Kurzläufe.** Zwischen 01. und 13.11.2026 bestanden sieben Läufe nur aus Fokus-Check
+  und Absage-Scan, null Neuanlagen, während ~30 DTU-2027-Events fehlten. Ist das Fokus-Set bereits
+  vollständig vertieft (alle 20 mit Tiefenfeldern), dauert dessen Prüfung höchstens einen kurzen
+  Durchgang; die übrige Zeit gehört der DTU-Lückenliste und anderen Neuanlagen. **Mindestziel pro
+  Lauf: 8 neue, verifizierte Events** (bzw. Kandidaten mit Grund in den BACKLOG verschoben), solange
+  `node scripts/dtu-calendar-diff.mjs` noch MISSING-Einträge meldet.
 - **Reihenfolge pro Lauf:**
+  0. `node scripts/dtu-calendar-diff.mjs` ausführen (≈ 1 Minute) und die MISSING-Liste notieren.
   1. **Fokus-Set vertiefen** (siehe Abschnitt „Fokus-Set" oben) — Tiefenfelder + Beschreibung für
-     mindestens 15 Fokus-Events.
+     mindestens 15 Fokus-Events (bzw. alle, die noch Lücken haben).
   2. Übrige künftige Events **vervollständigen** (fehlende `distanceKm`, `elevationGainM`,
      `imageUrl`, dünne Beschreibungen verbessern).
   3. Datenfehler/Dubletten fixen, unverifizierbare Events entfernen.
@@ -160,9 +167,13 @@ möglich auf der Veranstalterseite gegenprüfen):
   österreichische Triathlons/Duathlons/Aquathlons, inkl. „ABGESAGT"-Markierungen.
 - **Triathlon DE (DTU) — PFLICHTQUELLE, höchste Priorität:**
   https://www.triathlondeutschland.de/termine/veranstaltungskalender
-  - In JEDEM Lauf **alle Seiten** scrapen: `?date_from%5Bmin%5D=<heute MM/DD/YYYY>&date_from%5Bmax%5D=12/31/2050&page=N`
-    (N = 0, 1, 2 … bis keine `views-row` mehr kommt). Pro Eintrag liefern `data-name` und
-    `data-popupcontent` Datum, Name, Ort und Detail-URL; die Detailseite hat Distanzen + Veranstalter-Link.
+  - **Nicht per WebFetch scannen**, sondern in JEDEM Lauf `node scripts/dtu-calendar-diff.mjs` ausführen.
+    Seit Nov 2026 ignoriert die Seite den `date_from`-Filter und liefert das komplette Archiv ab 2009
+    unsortiert (~350 Seiten); Seite 0 zeigt nur 2021-Einträge. Das Skript lädt alle Seiten per HTTP,
+    filtert ab heute, gleicht mit dem Bestand ab und listet fehlende Erwachsenen-Events (MISSING) mit
+    DTU-Detail-URL (dort Distanzen + Veranstalter-Link). `--all` zeigt auch die Treffer, `--from=YYYY-MM-DD`
+    verschiebt den Start. Meldet es „pages failed" (HTTP 500), einmal wiederholen. Ein MISSING-Eintrag
+    kann ein Matching-Fehler sein (Name und Ort weichen stark ab) → vor dem Anlegen per `ls | grep` prüfen.
   - Jeden Eintrag gegen den Bestand abgleichen (Datum + Ort, nicht nur Slug). **Jeder Erwachsenen-Wettkampf
     im DTU-Kalender muss im Repo existieren** (Ausnahmen: reine Kinder-/Schüler-/Jugendrennen, Indoor-Events,
     Duplikate wie „DM …"-Einträge für ein bereits erfasstes Rennen). DTU-Eintrag = offizielle Bestätigung

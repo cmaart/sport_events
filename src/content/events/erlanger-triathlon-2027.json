@@ -1,0 +1,41 @@
+{
+  "id": "erlanger-triathlon-2027",
+  "name": "M-net Erlanger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-25",
+    "end": "2027-07-25",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Erlangen",
+    "lat": 49.5878,
+    "lng": 10.9787,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.tv48-erlangen.de/de/Veranstaltungen-Geselligkeit/erlanger-triathlon/",
+  "registrationUrl": "https://anmeldung.zeitgemaess.info/202607262",
+  "description": "36. Ausgabe des Erlanger Triathlons, ausgerichtet vom TV 1848 Erlangen. Geschwommen wird im Main-Donau-Kanal am Kosbacher Damm, auf der Kurzdistanz (1,5/43/10 km) und der Mitteldistanz (2,0/84/20 km), beide auch als Staffel. Insgesamt gibt es 800 Startplätze, davon 50 für Staffeln. Die Anmeldung öffnet am 29.11.2026, ab 01.03.2027 steigt das Startgeld.",
+  "distanceKm": 106,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 106,
+      "split": "2,0 km / 84 km / 20 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 54.5,
+      "split": "1,5 km / 43 km / 10 km"
+    }
+  ],
+  "entryFee": "Kurzdistanz 125 €, Mitteldistanz 199 € bis 28.02.2027; danach 150 € bzw. 220 €. Staffeln 180 € bzw. 255 € (ab 01.03.2027: 200 € bzw. 270 €)",
+  "registrationDeadline": "2027-07-09",
+  "startTime": "09:00",
+  "participantLimit": 800
+}
