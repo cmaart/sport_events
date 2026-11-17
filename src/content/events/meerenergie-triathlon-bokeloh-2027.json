@@ -1,0 +1,29 @@
+{
+  "id": "meerenergie-triathlon-bokeloh-2027",
+  "name": "Meerenergie Triathlon Bokeloh",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Wunstorf-Bokeloh",
+    "lat": 52.4247,
+    "lng": 9.44,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.svbutteramt.de",
+  "description": "Der 25. Meerenergie Triathlon Bokeloh findet am 6. Juni 2027 in Bokeloh bei Wunstorf in der Region Hannover statt, Veranstalter ist der SV Butteramt. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben ist für Jedermann und Altersklassen eine Sprintdistanz mit 21,2 km Rad und 5,2 km Laufen; ein Lauf zählt zur Verbandsliga, der Schwimmabschnitt ist bei der DTU mit 500 m beziehungsweise 700 m uneinheitlich gemeldet. Dazu kommen Schüler- und Jugendstarts, die Schüler A und Jugend B zählen zur Landesmeisterschaft. Laut DTU sind insgesamt rund 650 Starter geplant. Die Angaben sind die bei der DTU gemeldeten Planwerte, die Schwimmstrecke ist beim Veranstalter zu prüfen.",
+  "distanceKm": 26.4,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 26.4,
+      "split": "500 m / 21,2 km / 5,2 km"
+    }
+  ]
+}

@@ -1487,3 +1487,10 @@ Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 
 Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle Fokus-Events mit Tiefenfeldern. ÖTRV-2027 und DTU Seite 0: keine Absagen; Lücken Konstanz + Heidenheim weiter ohne Organiser-Seite (BACKLOG). Nicht erledigt: ironman.com, Aggregatoren, weitere DTU-Seiten, Neuanlagen.
 
 ---
+
+## Lauf 2026-11-11 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 und DTU Seite 0 (ab 11.11.): keine Absagen, keine neuen Lücken (Konstanz/Heidenheim weiter BACKLOG). Build grün (538 Seiten). Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
+
+---
+

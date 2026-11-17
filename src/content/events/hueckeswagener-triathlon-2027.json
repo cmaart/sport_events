@@ -1,0 +1,35 @@
+{
+  "id": "hueckeswagener-triathlon-2027",
+  "name": "Hückeswagener Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hückeswagen",
+    "lat": 51.1475,
+    "lng": 7.3402,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "http://www.atv-triathlon.de",
+  "description": "Der 42. Hückeswagener Triathlon findet am 20. Juni 2027 in Hückeswagen im Bergischen Land statt, Veranstalter ist der ATV Hückeswagen. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind für Jedermann und Altersklassen eine Sprintdistanz (500 m, 20 km, 5 km) und eine Kurzdistanz (1,5 km, 40 km, 10 km), beide auch als Staffel. Laut DTU sind je Distanz 250 Einzelstarter und 50 Staffeln geplant. Die Veranstaltung ist mit der Wettkampfgenehmigung 10-27-01-06914 gemeldet. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen beim Veranstalter.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "500 m / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    }
+  ]
+}

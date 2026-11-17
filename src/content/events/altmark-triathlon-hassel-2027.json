@@ -1,0 +1,30 @@
+{
+  "id": "altmark-triathlon-hassel-2027",
+  "name": "Altmark-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hassel (Wischer)",
+    "lat": 52.6,
+    "lng": 11.8,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://altmark-triathlon.com",
+  "description": "Der 39. Altmark-Triathlon findet am 11. Juli 2027 in Hassel im Ortsteil Wischer in der Altmark statt, Veranstalter ist der Hasselaner Triathlon Club. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben ist ein Einzelwettkampf für Jedermann und Altersklassen über die Kurzdistanz mit 1,5 km Schwimmen, 43,5 km Rad und 10 km Laufen, gewertet als Landesliga. Laut DTU sind 120 Starter geplant. Die Koordinate ist ein Näherungswert für die Gemeinde. Strecken und Teilnehmerzahl sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen beim Veranstalter.",
+  "distanceKm": 55,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 55,
+      "split": "1,5 km / 43,5 km / 10 km"
+    }
+  ],
+  "participantLimit": 120
+}

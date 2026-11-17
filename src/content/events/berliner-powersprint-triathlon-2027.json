@@ -1,0 +1,34 @@
+{
+  "id": "berliner-powersprint-triathlon-2027",
+  "name": "Berliner Powersprint Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Berlin",
+    "lat": 52.4786,
+    "lng": 13.4417,
+    "region": "Berlin"
+  },
+  "websiteUrl": "https://tustriathlon.de/",
+  "description": "Der Berliner Powersprint Triathlon findet am 2. Mai 2027 in Berlin statt, Veranstalter ist TuS Neukölln Triathlon. Der Termin steht im Kalender der Deutschen Triathlon Union. Für Jedermann und Altersklassen ist ein Supersprint ausgeschrieben (300 m Schwimmen, 8,7 km Rad, 2 km Laufen), daneben starten Elite und U23 über 500 m, 9,6 km und 4 km sowie Schüler und Jugend, deren Rennen als Berliner Landesmeisterschaften gewertet werden. Laut DTU sind 60 Jedermann-Starter und 50 Elite und U23 geplant. Der genaue Austragungsort innerhalb Berlins ist hier nicht verifiziert, die Koordinate ist ein Näherungswert. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Anmeldung und Ausschreibung stehen beim Veranstalter.",
+  "distanceKm": 14.1,
+  "distances": [
+    {
+      "name": "Supersprint Jedermann",
+      "km": 11,
+      "split": "300 m / 8,7 km / 2 km"
+    },
+    {
+      "name": "Supersprint Elite/U23",
+      "km": 14.1,
+      "split": "500 m / 9,6 km / 4 km"
+    }
+  ]
+}

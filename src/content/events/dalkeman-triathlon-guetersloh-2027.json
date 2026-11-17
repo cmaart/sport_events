@@ -1,0 +1,35 @@
+{
+  "id": "dalkeman-triathlon-guetersloh-2027",
+  "name": "Dalkeman Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gütersloh",
+    "lat": 51.9064,
+    "lng": 8.3785,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "http://dalkeman.de",
+  "description": "Der Dalkeman Triathlon in Gütersloh findet am 23. Mai 2027 statt, Veranstalter ist der Gütersloher Turnverein 1879. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind ein Sprint (500 m, 20 km, 5 km) und eine Kurzdistanz (1 km, 40 km, 10 km) für Jedermann und Altersklassen, dazu Staffeln sowie Starts für Schüler und Jugend. Die Veranstaltung ist zugleich Austragungsort von Ligawettkämpfen, darunter die 2. Triathlon-Bundesliga im Teamformat mit zwei Startern. Laut DTU sind je Sprint und Kurzdistanz bis zu 240 Einzelstarter geplant. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Ausschreibung und Anmeldung stehen beim Veranstalter.",
+  "distanceKm": 51,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "500 m / 20 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51,
+      "split": "1 km / 40 km / 10 km"
+    }
+  ]
+}

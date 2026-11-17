@@ -1,0 +1,36 @@
+{
+  "id": "baerentriathlon-bad-zwischenahn-2027",
+  "name": "Bärentriathlon Bad Zwischenahn",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "end": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Zwischenahn",
+    "lat": 53.1864,
+    "lng": 8.0049,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.die-baeren.org",
+  "description": "Der 34. Bärentriathlon findet am Wochenende 21. und 22. August 2027 in Bad Zwischenahn am Zwischenahner Meer statt, Veranstalter ist der 1. TC Oldenburg „Die Bären\". Am Samstag starten Kinder und Jedermann-Läufe im Schwimmen mit Laufen, am Sonntag folgen die Triathlons. Für Jedermann und Altersklassen sind Sprintdistanz (750 m, 27 km, 5,4 km) und Kurzdistanz (1,5 km, 40 km, 10,8 km) ausgeschrieben, jeweils auch als Staffel. Laut DTU sind etwa 300 Einzelstarter im Sprint und 280 auf der Kurzdistanz geplant. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Details und Anmeldung stehen beim Veranstalter.",
+  "distanceKm": 52.3,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 33.15,
+      "split": "750 m / 27 km / 5,4 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 52.3,
+      "split": "1,5 km / 40 km / 10,8 km"
+    }
+  ]
+}

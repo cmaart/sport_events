@@ -1,0 +1,34 @@
+{
+  "id": "eifeler-sparkassen-crossduathlon-2027",
+  "name": "Eifeler Sparkassen Crossduathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schleiden",
+    "lat": 50.5275,
+    "lng": 6.4756,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "http://www.e-xd.de",
+  "description": "Der 29. Eifeler Sparkassen Crossduathlon findet am 3. April 2027 in Schleiden in der Eifel statt, Veranstalter ist der TuS Schleiden 1908. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind für Jedermann und Altersklassen eine Kurzdistanz (8 km Laufen, 25 km Mountainbike, 4 km Laufen) und eine Sprintdistanz (2,6 km, 11,4 km, 2 km), dazu eine Staffel sowie Starts für Schüler und Jugend. Laut DTU sind 75 Einzelstarter auf der Kurzdistanz und 50 im Sprint geplant. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Details und Anmeldung stehen beim Veranstalter.",
+  "distanceKm": 16,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 37,
+      "split": "8 km / 25 km / 4 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 16,
+      "split": "2,6 km / 11,4 km / 2 km"
+    }
+  ]
+}

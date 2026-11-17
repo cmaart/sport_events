@@ -1,0 +1,41 @@
+{
+  "id": "arendsee-triathlon-2027",
+  "name": "Arendsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz",
+    "Mitteldistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-20",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Arendsee (Altmark)",
+    "lat": 52.8567,
+    "lng": 11.4739,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://arendsee-triathlon.de/",
+  "description": "Der 30. Arendsee Triathlon findet am 19. und 20. Juni 2027 am Arendsee in der Altmark statt, Veranstalter sind die Triathlonfüchse Osterburg. Am Samstag starten die Schülerklassen, am Sonntag folgen die Jedermann- und Altersklassenrennen: Sprintdistanz (500 m, 26 km, 5 km), Kurzdistanz (1,5 km, 40 km, 10 km) und eine Mitteldistanz (1,9 km, 90 km, 21 km), die zugleich als Landesmeisterschaft ausgeschrieben ist. Laut DTU sind je 175 Starter im Sprint und auf der Kurzdistanz sowie 120 auf der Mitteldistanz geplant. Strecken und Teilnehmerzahlen sind die bei der DTU gemeldeten Planwerte, Details und Anmeldung stehen beim Veranstalter.",
+  "distanceKm": 112.9,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 31.5,
+      "split": "500 m / 26 km / 5 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Mitteldistanz",
+      "km": 112.9,
+      "split": "1,9 km / 90 km / 21 km"
+    }
+  ]
+}
