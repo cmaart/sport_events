@@ -1,0 +1,34 @@
+{
+  "id": "powerman-alsdorf-2027",
+  "name": "Powerman Alsdorf mit Europameisterschaften",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Alsdorf",
+    "lat": 50.878,
+    "lng": 6.165,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.powerman-alsdorf.de",
+  "description": "Der Powerman Alsdorf am 9. Mai 2027 steht im Kalender der Deutschen Triathlon Union als Duathlon mit den Europameisterschaften von Europe Triathlon und trägt zugleich die Deutschen Meisterschaften der DTU. Veranstalter ist der Marathon-Club Eschweiler 1983 e.V. Ausgeschrieben sind die Langstrecke mit 10 km Laufen, 60 km Radfahren und 10 km Laufen für Elite, Altersklassen und Jedermann sowie eine Sprintdistanz mit 5 km, 20 km und 5 km. Laut DTU sind je Wertung 150 bis 250 Starter geplant. Die Veranstalterdomain war beim Abruf nicht erreichbar, Anmeldedetails sind beim Verein zu erfragen.",
+  "distanceKm": 80,
+  "distances": [
+    {
+      "name": "Langdistanz Duathlon (Powerman)",
+      "km": 80,
+      "split": "10 km / 60 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 30,
+      "split": "5 km / 20 km / 5 km"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "stackmann-triathlon-altes-land-2027",
+  "name": "2. Stackmann Triathlon Altes Land",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hollern-Twielenfleth",
+    "lat": 53.589,
+    "lng": 9.589,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://bsv-buxtehude.de/dein-sport/triathlon/stackmann-altes-land-2025",
+  "description": "Der 2. Stackmann Triathlon Altes Land findet am 30. Mai 2027 in Hollern-Twielenfleth im Alten Land westlich von Hamburg statt, Veranstalter ist der Buxtehuder Sportverein. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben ist eine Sprintdistanz mit 500 m Schwimmen, 20 km Radfahren und 5 km Laufen, als Einzelstart mit 240 geplanten Startern und als Staffel mit 120 geplanten Startern, dazu Schülerwettbewerbe. Die Genehmigungsnummer lautet 09-27-01-06994. Die Veranstalterseite im Verein trägt noch den Stand der Ausgabe 2025, Details zur Anmeldung sind dort zu erfragen.",
+  "distanceKm": 25.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
+}

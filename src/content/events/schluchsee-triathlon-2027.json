@@ -1,0 +1,29 @@
+{
+  "id": "schluchsee-triathlon-2027",
+  "name": "Schluchsee Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schluchsee",
+    "lat": 47.8183,
+    "lng": 8.1858,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.triathlon-schluchsee.de",
+  "description": "Der Schluchsee Triathlon wird am 10. Juli 2027 am Schluchsee im Hochschwarzwald ausgetragen. Der Termin steht im Kalender der Deutschen Triathlon Union, Veranstalter ist die Vereinsgemeinschaft Triathlon e.V. in Zusammenarbeit mit der Hochschwarzwald Tourismus GmbH. Gemeldet ist eine Kurzdistanz mit 1,5 km Schwimmen, 36 km Radfahren und 10 km Laufen, offen für Elite, U23 und Jedermann. Laut DTU sind 550 Teilnehmer geplant, die Wertung läuft unter einer Sonderserie. Die Strecken führen durch die Mittelgebirgslandschaft rund um den größten See des Schwarzwalds. Die Veranstalterseite war beim Abruf nicht erreichbar, Ausschreibung und Anmeldung sind dort zu erfragen.",
+  "distanceKm": 47.5,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 47.5,
+      "split": "1,5 km / 36 km / 10 km"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "aquana-wuerselen-triathlon-2027",
+  "name": "Aquana Würselen Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Würselen",
+    "lat": 50.818,
+    "lng": 6.133,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.mc-eschweiler.de",
+  "description": "Der Aquana Würselen Triathlon findet am 11. Juli 2027 in Würselen bei Aachen statt, Veranstalter ist der Marathon-Club Eschweiler 1983 e.V. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind für Jedermann und Altersklassen eine Kurzdistanz (600 m, 45 km, 10 km) mit 250 geplanten Einzelstartern und 100 Startern im 3er Relay sowie eine Sprintdistanz (450 m, 18 km, 6 km) mit 250 geplanten Startern. Die Zahlen sind DTU-Planwerte aus der Genehmigung 10-27-01-07091. Der Veranstalter richtet im Frühjahr 2027 auch den Powerman Alsdorf aus, Anmeldung und Ausschreibung stehen bei ihm.",
+  "distanceKm": 55.6,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 55.6,
+      "split": "0,6 km / 45 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 24.45,
+      "split": "0,45 km / 18 km / 6 km"
+    }
+  ]
+}

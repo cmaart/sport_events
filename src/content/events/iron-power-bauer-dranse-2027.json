@@ -1,0 +1,35 @@
+{
+  "id": "iron-power-bauer-dranse-2027",
+  "name": "18. Iron Power Bauer",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-03",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Dranse",
+    "lat": 53.17,
+    "lng": 12.45,
+    "region": "Brandenburg"
+  },
+  "websiteUrl": "https://fk-hansa-wittstock.de/",
+  "description": "Der 18. Iron Power Bauer wird am 3. Juli 2027 in Dranse bei Wittstock in der Prignitz ausgetragen, Veranstalter ist der FK Hansa Wittstock 1919. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind eine Sprintdistanz (750 m, 18,4 km, 4,8 km) mit 80 geplanten Einzelstartern und 15 Staffeln sowie eine Kurzdistanz (1,5 km, 38,8 km, 9,4 km) mit 70 Einzelstartern und 10 Staffeln. Die Zahlen sind DTU-Planwerte, die Wertung läuft in einer Sonderserie. Anmeldung und Ausschreibung sind beim Verein zu erfragen. Koordinaten beziehen sich auf den Ortsbereich Dranse.",
+  "distanceKm": 49.7,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 23.95,
+      "split": "0,75 km / 18,4 km / 4,8 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 49.7,
+      "split": "1,5 km / 38,8 km / 9,4 km"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "biosphaeren-triathlon-gersheim-2027",
+  "name": "Hager Papprint Biosphärentriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Walsheim (Gersheim)",
+    "lat": 49.193,
+    "lng": 7.2,
+    "region": "Saarland"
+  },
+  "websiteUrl": "https://www.biosphaeren-triathlon.de",
+  "registrationUrl": "https://www.biosphaeren-triathlon.de",
+  "description": "Der Hager Papprint Biosphärentriathlon wird am 11. Juli 2027 in Walsheim in der Gemeinde Gersheim im Biosphärenreservat Bliesgau ausgetragen. Die Veranstalterseite nennt den Termin, und die Anmeldung wurde am 18. November 2026 geöffnet. Geschwommen wird im 50-m-Becken des Freibads Walsheim, die Radstrecke folgt einer bekannten Strecke der Saarland Trofeo, gelaufen wird im Ort rund um das Freibad mit Blick ins Hetschenbachtal. Laut DTU sind 144 Einzelstarter über die Sprintdistanz (750 m, 20 km, 5 km) sowie Staffeln mit 300 m Schwimmen geplant. 2027 zählt die Veranstaltung zu den Saarland-Cups, Veranstalter ist der Förderverein Freibad Walsheim.",
+  "distanceKm": 25.75,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    },
+    {
+      "name": "Staffel",
+      "km": 25.3,
+      "split": "0,3 km / 20 km / 5 km"
+    }
+  ]
+}

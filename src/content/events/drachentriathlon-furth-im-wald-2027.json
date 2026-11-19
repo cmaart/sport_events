@@ -1,23 +1,35 @@
 {
   "id": "drachentriathlon-furth-im-wald-2027",
-  "name": "Drachentriathlon Furth im Wald",
+  "name": "10. Drachentriathlon",
   "sport": "triathlon",
   "categories": [
-    "Olympische Distanz",
-    "Sprintdistanz"
+    "Sprintdistanz",
+    "Olympische Distanz"
   ],
   "country": "DE",
   "dates": {
-    "start": "2027-06-27",
-    "end": "2027-06-27",
-    "confirmed": false
+    "start": "2027-05-16",
+    "confirmed": true
   },
   "location": {
     "name": "Furth im Wald",
-    "lat": 49.3072,
-    "lng": 12.8444,
+    "lat": 49.3103,
+    "lng": 12.8424,
     "region": "Bayern"
   },
   "websiteUrl": "https://www.drachentriathlon.de",
-  "description": "Der Drachentriathlon in Furth im Wald an der bayerisch-tschechischen Grenze soll 2027 wieder stattfinden; Termin und Format hat der Veranstalter noch nicht bekanntgegeben. Das Datum hier ist eine Schätzung nach dem ursprünglichen Termin von 2026. Die Ausgabe 2026 wurde wegen Hitze und Blaualgen im Drachensee in den September verlegt und für Erwachsene als Duathlon ausgetragen."
+  "description": "Der 10. Drachentriathlon des TV 1881 Furth im Wald findet am 16. Mai 2027 im Bayerischen Wald nahe der tschechischen Grenze statt. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind für Jedermann und Altersklassen eine Sprintdistanz (500 m, 22,9 km, 4,7 km) und eine Kurzdistanz (1,5 km, 40,3 km, 9,4 km), die Sprintdistanz auch als Staffel. Laut DTU sind 250 Sprint-Einzelstarter, 150 Kurzdistanz-Starter und 30 Staffeln geplant. Der Veranstalter führt auf seiner Seite Ausschreibung, Streckenpläne, Zeitplan, Starterliste und GPX-Dateien. Die Genehmigungsnummer lautet 02-27-01-07088. Die Teilnehmerzahlen sind DTU-Planwerte, Gebühren und Anmeldefrist stehen in der Ausschreibung des Veranstalters.",
+  "distanceKm": 51.2,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 28.1,
+      "split": "0,5 km / 22,9 km / 4,7 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.2,
+      "split": "1,5 km / 40,3 km / 9,4 km"
+    }
+  ]
 }

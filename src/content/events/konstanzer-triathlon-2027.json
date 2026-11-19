@@ -1,0 +1,34 @@
+{
+  "id": "konstanzer-triathlon-2027",
+  "name": "Konstanzer Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Konstanz",
+    "lat": 47.6779,
+    "lng": 9.1732,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.asc-konstanz.de",
+  "description": "Der Konstanzer Triathlon des ASC Konstanz findet am 24. April 2027 am Bodensee statt und eröffnet damit früh die Saison in Südbaden. Der Termin steht im Kalender der Deutschen Triathlon Union. Ausgeschrieben sind eine Sprintdistanz (550 m, 20 km, 5 km) mit 170 geplanten Einzelstartern und Staffeln sowie ein Supersprint (330 m, 8 km, 2,5 km) als Landesliga-Wertung mit Einzel-, Staffel- und Mixed-Relay-Starts. Die Teilnehmerzahlen sind DTU-Planwerte aus der Genehmigung 01-27-01-07014. Der Verein führt unter dem Menüpunkt Triathlon 2027 seine Event-Informationen, eine Detailseite mit Gebühren war beim Abruf noch nicht verfügbar.",
+  "distanceKm": 25.55,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.55,
+      "split": "0,55 km / 20 km / 5 km"
+    },
+    {
+      "name": "Supersprint",
+      "km": 10.83,
+      "split": "0,33 km / 8 km / 2,5 km"
+    }
+  ]
+}

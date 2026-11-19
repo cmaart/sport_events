@@ -1,0 +1,30 @@
+{
+  "id": "zeller-baederbau-triathlon-heidenheim-2027",
+  "name": "Zeller Bäderbau Triathlon Heidenheim",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Heidenheim an der Brenz",
+    "lat": 48.676,
+    "lng": 10.154,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://triathlon-heidenheim.de",
+  "description": "Der 6. Zeller Bäderbau Triathlon Heidenheim findet am 9. Mai 2027 statt, ausgerichtet von der Triathlonabteilung des SV Mergelstetten 1879. Die Veranstalterseite nennt den Termin und kündigt an, dass das Anmeldeportal am 6. Dezember 2026 öffnet. Die Veranstaltung ist auch im DTU-Kalender eingetragen. Gestartet wird über eine Sprintdistanz mit 400 m Schwimmen, 25 km Radfahren und 5 km Laufen, auch als Staffel. Laut DTU sind 280 Einzelstarter und 20 Staffeln geplant. Die Ausgabe 2026 war ausverkauft, eine frühe Anmeldung ist daher ratsam.",
+  "distanceKm": 30.4,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 30.4,
+      "split": "0,4 km / 25 km / 5 km"
+    }
+  ],
+  "participantLimit": 280
+}
