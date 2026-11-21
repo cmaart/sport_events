@@ -1,0 +1,29 @@
+{
+  "id": "benefiz-triathlon-gerlebogk-2027",
+  "name": "Benefiz-Triathlon Gerlebogk",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Gerlebogk (Könnern)",
+    "lat": 51.675,
+    "lng": 11.76,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "https://pacycle.de/benefiz-triathlon/",
+  "description": "Der Benefiz-Triathlon Gerlebogk wird am 28. August 2027 bei Könnern im Salzlandkreis ausgetragen, Veranstalter ist der Benefiz-Sportverein Gerlebogk. Der Termin steht im DTU-Kalender. Für Jedermann und Altersklassen sind 500 m Schwimmen, 20 km Radfahren und 5 km Laufen ausgeschrieben, auch als Staffel. Die DTU plant mit 150 Einzelstartern und 100 Staffelteilnehmern. Dazu gibt es einen Schülerwettbewerb. Die Daten stammen aus der Genehmigung 14-27-01-06911.",
+  "distanceKm": 25.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
+}

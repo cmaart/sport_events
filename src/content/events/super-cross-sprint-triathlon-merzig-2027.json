@@ -1,0 +1,29 @@
+{
+  "id": "super-cross-sprint-triathlon-merzig-2027",
+  "name": "Super-Cross-Sprint Triathlon Merzig",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Merzig",
+    "lat": 49.443,
+    "lng": 6.637,
+    "region": "Saarland"
+  },
+  "websiteUrl": "https://www.tri-sport.de",
+  "description": "Der 10. Super-Cross-Sprint Triathlon wird am 6. Juni 2027 in Merzig im Saarland ausgetragen, Veranstalter ist Tri-Sport Saar-Hochwald. Das Rennen zählt laut DTU-Kalender zu den Landesmeisterschaften. Die Supersprintdistanz für Jedermann und Altersklassen besteht aus 250 m Schwimmen, 7,5 km Radfahren und 2,5 km Laufen, die DTU plant mit 75 Startern. Der Name verweist auf den Crosscharakter der Radstrecke. Die Daten stammen aus der Genehmigung 12-27-01-07080, Anmeldeinformationen stehen bei Tri-Sport Saar-Hochwald.",
+  "distanceKm": 10.25,
+  "distances": [
+    {
+      "name": "Supersprintdistanz",
+      "km": 10.25,
+      "split": "0,25 km / 7,5 km / 2,5 km"
+    }
+  ]
+}

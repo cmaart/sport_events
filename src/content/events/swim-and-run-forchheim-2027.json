@@ -1,0 +1,29 @@
+{
+  "id": "swim-and-run-forchheim-2027",
+  "name": "Swim and Run Forchheim",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-04-10",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Forchheim",
+    "lat": 49.717,
+    "lng": 11.06,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://swimandrun-forchheim.de/",
+  "description": "Der Swim and Run Forchheim findet am 10. April 2027 in Forchheim in Oberfranken statt, Veranstalter ist der SSV Forchheim. Der Termin steht im Kalender der Deutschen Triathlon Union. Für Jedermann und Altersklassen sind 600 m Schwimmen und 5 km Laufen ausgeschrieben, die DTU plant mit 60 Teilnehmern. Dazu kommen Läufe für Jugend und Schüler mit kürzeren Strecken. Die Zahlen stammen aus der Genehmigung 02-27-08-07119, Details zur Anmeldung stehen auf der Veranstalterseite.",
+  "distanceKm": 5.6,
+  "distances": [
+    {
+      "name": "Swim and Run",
+      "km": 5.6,
+      "split": "0,6 km / 5 km"
+    }
+  ]
+}

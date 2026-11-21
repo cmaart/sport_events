@@ -1,0 +1,29 @@
+{
+  "id": "dirty-race-murr-2027",
+  "name": "Dirty Race",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-01-30",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Murr",
+    "lat": 48.957,
+    "lng": 9.272,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.dirtyrace.de",
+  "description": "Das Dirty Race in Murr bei Marbach am Neckar ist ein Crossduathlon im Winter und steht für den 30. Januar 2027 im Kalender der Deutschen Triathlon Union. Veranstalter ist das Team Silla Hopp, das auch den mz3athlon ausrichtet. Die Strecke besteht aus 5 km Laufen, 15 km Radfahren und 4 km Laufen im Gelände, ausgeschrieben für Jedermann und Altersklassen. Die DTU nennt 200 geplante Einzelstarter und 40 Staffeln. Die Zahlen sind Planwerte aus der Genehmigung 01-27-04-07194. Anmeldung und Gebühr stehen auf der Veranstalterseite.",
+  "distanceKm": 24,
+  "distances": [
+    {
+      "name": "Crossduathlon",
+      "km": 24,
+      "split": "5 km / 15 km / 4 km"
+    }
+  ]
+}

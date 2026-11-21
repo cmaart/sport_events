@@ -1,0 +1,33 @@
+{
+  "id": "bonner-swimathlon-2027",
+  "name": "Bonner Swimathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-02-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bonn",
+    "lat": 50.737,
+    "lng": 7.098,
+    "region": "Nordrhein-Westfalen"
+  },
+  "description": "Der 33. Bonner Swimathlon findet am 21. Februar 2027 in Bonn statt, Veranstalter ist die Abteilung Triathlon der SSF Bonn. Der Termin steht im DTU-Kalender. Für Jedermann und Altersklassen gibt es zwei Strecken: 500 m Schwimmen und 2,5 km Laufen mit 40 geplanten Startern sowie 1 km Schwimmen und 5 km Laufen mit 128 Startern. Dazu kommen Wertungen für Schüler und Jugend mit kürzeren Distanzen. Die Zahlen stammen aus der Genehmigung 10-27-08-06986.",
+  "distanceKm": 6,
+  "distances": [
+    {
+      "name": "Lang",
+      "km": 6,
+      "split": "1 km / 5 km"
+    },
+    {
+      "name": "Kurz",
+      "km": 3,
+      "split": "0,5 km / 2,5 km"
+    }
+  ]
+}

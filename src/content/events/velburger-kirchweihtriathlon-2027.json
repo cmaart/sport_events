@@ -1,0 +1,34 @@
+{
+  "id": "velburger-kirchweihtriathlon-2027",
+  "name": "Velburger Kirchweihtriathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-17",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Velburg",
+    "lat": 49.2,
+    "lng": 11.67,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://tv-velburg.de",
+  "description": "Der Velburger Kirchweihtriathlon wird 2027 zum 40. Mal ausgetragen, und zwar am 17. Juli in Velburg in der Oberpfalz. Veranstalter ist der TV 1897 Velburg, der Termin steht im DTU-Kalender. Ausgeschrieben sind eine Kurzdistanz mit 1,2 km Schwimmen, 37,1 km Radfahren und 9,4 km Laufen sowie eine Sprintdistanz mit 600 m, 19,8 km und 4,7 km, jeweils mit Staffelwertung. Die DTU plant mit je 100 Einzelstartern, 10 Staffeln auf der Kurz- und 20 auf der Sprintdistanz. Die Daten stammen aus der Genehmigung 02-27-01-07020.",
+  "distanceKm": 47.7,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 47.7,
+      "split": "1,2 km / 37,1 km / 9,4 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.1,
+      "split": "0,6 km / 19,8 km / 4,7 km"
+    }
+  ]
+}

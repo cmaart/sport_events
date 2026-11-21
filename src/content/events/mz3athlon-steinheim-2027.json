@@ -1,0 +1,29 @@
+{
+  "id": "mz3athlon-steinheim-2027",
+  "name": "mz3athlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Steinheim an der Murr",
+    "lat": 48.967,
+    "lng": 9.277,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.mz3athlon.de",
+  "description": "Der mz3athlon findet am 2. Mai 2027 in Steinheim an der Murr nördlich von Stuttgart statt, Veranstalter ist das Team Silla Hopp. Der Termin steht im DTU-Kalender. Ausgeschrieben ist eine Supersprintdistanz mit 550 m Schwimmen, 20 km Radfahren und 5,1 km Laufen für Jedermann und Altersklassen, dazu eine Staffelwertung auf derselben Strecke. Die DTU plant mit 400 Einzelstartern und 30 Staffeln, zusätzlich läuft eine Schultour für Schüler mit 120 Startern. Die Zahlen stammen aus der Genehmigung 01-27-01-07193. Gebühr und Anmeldefrist nennt die Veranstalterseite.",
+  "distanceKm": 25.65,
+  "distances": [
+    {
+      "name": "Supersprintdistanz",
+      "km": 25.65,
+      "split": "0,55 km / 20 km / 5,1 km"
+    }
+  ]
+}

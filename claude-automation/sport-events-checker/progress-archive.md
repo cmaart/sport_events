@@ -1494,3 +1494,16 @@ Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 
 
 ---
 
+---
+
+## Lauf 2026-11-15 — DTU-Lückenliste: 12 Neuanlagen
+
+`dtu-calendar-diff.mjs`: 134 Einträge ab heute, 35 MISSING. 12 DE-Events als `-2027` angelegt (Datum, Distanzen, Veranstalter und geplante Teilnehmerzahlen aus dem DTU-Eintrag, Veranstalterseite als websiteUrl, bei Drensteinfurt/Norderstedt/Churfranken/Kornwestheim/Elbe-Triathlon Termin oder Ausgabe auf der Veranstalterseite gegengeprüft): Deggendorf, Elbe-Triathlon Hamburg, Churfranken Niedernberg, Kanal-Triathlon Rendsburg, Bibermann Bleckede, Wemding Waldsee, Drensteinfurt, LSV Wolfenbüttel, Mettmanner Duathlon, Kornwestheim, Norderstedt, Kratschmayer Waldenburg. Fokus-Set 20/20 unverändert (alle mit Tiefenfeldern). Build grün (551 Seiten). Noch offen: Gebühr/Frist dieser 12 (Veranstalterseiten nennen sie noch nicht). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
+
+---
+
+## Lauf 2026-11-13 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
+
+Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027: keine ABGESAGT. DTU-Kalender lieferte heute trotz Datumsfilter nur Einträge von 2021 (Seite offenbar defekt/gecacht) → kein verwertbarer Scan, nächsten Lauf erneut versuchen. Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
+
+---

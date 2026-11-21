@@ -1,0 +1,29 @@
+{
+  "id": "indersdorfer-swim-run-2027",
+  "name": "Indersdorfer Swim & Run",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-03-13",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Markt Indersdorf",
+    "lat": 48.364,
+    "lng": 11.378,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.sg-indersdorf.de",
+  "description": "Der 3. Indersdorfer Swim & Run wird am 13. März 2027 in Markt Indersdorf im Landkreis Dachau ausgetragen, Veranstalter ist die SG Indersdorf. Der Termin steht im DTU-Kalender. Die Strecke für Jedermann und Altersklassen sowie für die Jugend A besteht aus 400 m Schwimmen und 4 km Laufen, die DTU plant mit 100 Erwachsenen. Daneben gibt es Wertungen für Schüler und Jugend mit kürzeren Strecken. Die Daten stammen aus der Genehmigung 02-27-08-07048.",
+  "distanceKm": 4.4,
+  "distances": [
+    {
+      "name": "Swim & Run",
+      "km": 4.4,
+      "split": "0,4 km / 4 km"
+    }
+  ]
+}

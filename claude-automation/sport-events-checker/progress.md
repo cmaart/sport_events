@@ -34,7 +34,7 @@
 
 ### Kennzahlen (Stand: 2026-10-26, nach Konsolidierung)
 - Events gesamt: **1544** | Saison 2026: 1126 | Saison 2027: **418** (confirmed 389 | confirmed:false 29)
-- Letzter Lauf: 2026-11-19 (9 DTU-Datensätze); davor 2026-11-17 (8 DTU-Neuanlagen); davor 2026-10-31 (Fokus 12/14 vertieft, +7 neue 2027-Events); davor 2026-10-29 (s. Lauf-Summary: 11 Fokus vertieft, Build 1621 Seiten, 2027-Bestand 420); davor 2026-10-27; davor 2026-10-25 — **Fokus-Enrichment im Zentrum: 16/150 Fokus-Events mit Tiefenfeldern** (distances/entryFee/registrationDeadline/startTime/participantLimit + Beschreibung ≥120 W, alles offiziell verifiziert). **15 neue 2027-Ausgaben** (10 Roll-forward: schwarzataler-triathlon, jannersee-triathlon, xterra-austria, ferlach-aquathlon, aquathlon-fuerstenfeld, poettschinger-aquathlon, crossduathlon-steyrling, stadttriathlon-knittelfeld, challenge-peguera-mallorca, challenge-vieux-boucau; 5 neu AT: ober-grafendorfer-triathlon, hubiman, tri-x-aquathlon-kufstein, luschnouar-ironmaennli, europe-triathlon-championships-kitzbuehel). **2 Aggregatorbilder entfernt** (paradiestriathlon + woerthsee kavval). Keine Removals/Absagen, keine neuen BLACKLIST-Einträge (Cancellation-Scan ÖTRV/DTU/Challenge/IRONMAN ohne „ABGESAGT").
+- Letzter Lauf: 2026-11-21 (8 DTU-Neuanlagen); davor 2026-11-19 (9 DTU-Datensätze); davor 2026-11-17 (8 DTU-Neuanlagen); davor 2026-10-31 (Fokus 12/14 vertieft, +7 neue 2027-Events); davor 2026-10-29 (s. Lauf-Summary: 11 Fokus vertieft, Build 1621 Seiten, 2027-Bestand 420); davor 2026-10-27; davor 2026-10-25 — **Fokus-Enrichment im Zentrum: 16/150 Fokus-Events mit Tiefenfeldern** (distances/entryFee/registrationDeadline/startTime/participantLimit + Beschreibung ≥120 W, alles offiziell verifiziert). **15 neue 2027-Ausgaben** (10 Roll-forward: schwarzataler-triathlon, jannersee-triathlon, xterra-austria, ferlach-aquathlon, aquathlon-fuerstenfeld, poettschinger-aquathlon, crossduathlon-steyrling, stadttriathlon-knittelfeld, challenge-peguera-mallorca, challenge-vieux-boucau; 5 neu AT: ober-grafendorfer-triathlon, hubiman, tri-x-aquathlon-kufstein, luschnouar-ironmaennli, europe-triathlon-championships-kitzbuehel). **2 Aggregatorbilder entfernt** (paradiestriathlon + woerthsee kavval). Keine Removals/Absagen, keine neuen BLACKLIST-Einträge (Cancellation-Scan ÖTRV/DTU/Challenge/IRONMAN ohne „ABGESAGT").
 - Build zuletzt grün: **1614 pages**, 0 errors; Sitemap **157 URLs** (150 Fokus-Events + 4 Landing + Start/Formulare), past/noindex ausgeschlossen, neue Nicht-Fokus-Events korrekt noindex.
 - Datenqualität: Fokus-Tiefenfelder sind der Hebel (16/150 erledigt). 3 Fokus-Events diesen Lauf nicht anreicherbar (Site-down: ironman-703-alcudia, pirker-grenzerfahrung, harzer-radmarathon → Re-check). missing elevationGainM/imageUrl bei vielen 2027 weiter offen (offiziell nicht publiziert bzw. IRONMAN 403-Hotlink).
 
@@ -100,7 +100,7 @@
 | Quelle | zuletzt |
 |---|---|
 | triathlon-austria.at/de/service-termine (ÖTRV; `?year=2027`) | 2026-11-13 (keine ABGESAGT) / 2026-11-11 (keine ABGESAGT) / 2026-11-09 (keine ABGESAGT) / 2026-11-07 (keine ABGESAGT) / 2026-11-03 (keine ABGESAGT) / 2026-11-01 (Seite 1, keine ABGESAGT) / 2026-10-29 (4 Seiten, keine ABGESAGT) / 10-25 (2027-Liste durchgegangen, keine „ABGESAGT"; 8 Roll-forwards + 5 neu AT angelegt) |
-| triathlondeutschland.de / dtu-kalender.de | 2026-11-19 (dtu-calendar-diff.mjs, 31 MISSING, 9 angelegt) / 2026-11-17 (dtu-calendar-diff.mjs, 35 MISSING, 8 angelegt) / 2026-11-13 (Seite lieferte nur 2021-Einträge, kein Scan möglich) / 2026-11-11 (Seite 0, keine Absagen) / 2026-11-09 (Seiten 0-2, keine Absagen) / 2026-11-07 (Seite 0, keine Absagen; Konstanz/Heidenheim weiter nur DTU → BACKLOG) / 2026-11-05 (Seite 0 ab 05.11., keine Absagen; Lücken Konstanz, Heidenheim → BACKLOG) / 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
+| triathlondeutschland.de / dtu-kalender.de | 2026-11-21 (dtu-calendar-diff.mjs, 25 MISSING, 8 angelegt) / 2026-11-19 (dtu-calendar-diff.mjs, 31 MISSING, 9 angelegt) / 2026-11-17 (dtu-calendar-diff.mjs, 35 MISSING, 8 angelegt) / 2026-11-13 (Seite lieferte nur 2021-Einträge, kein Scan möglich) / 2026-11-11 (Seite 0, keine Absagen) / 2026-11-09 (Seiten 0-2, keine Absagen) / 2026-11-07 (Seite 0, keine Absagen; Konstanz/Heidenheim weiter nur DTU → BACKLOG) / 2026-11-05 (Seite 0 ab 05.11., keine Absagen; Lücken Konstanz, Heidenheim → BACKLOG) / 2026-10-29 (ab 30.10.2026, keine Absagen) / 10-25 (2027 geprüft; mussbach als Lücke erkannt — offizielle Seite fehlt, BACKLOG) |
 | ironman.com | 2026-10-29 (weiter 403) / 10-27 (geblockt, erneut 403; Stand 10-25: 70.3-Euro-Rennen weiter ohne offiz. 2027-Datum → BACKLOG; alcudia-mallorca Tiefenfelder Site-down) |
 | challengefamily.com/races + Race-Sites | 2026-10-29 (Forte Village 24.10.2027 offiziell, Barcelona nur Okt, Sanremo/St. Pölten kein 2027) / 10-25 (peguera-mallorca + vieux-boucau 2027-Daten offiziell → angelegt; Forte Village/Barcelona/Sanremo/Sandefjord noch kein 2027) |
 | k226.com/events/events.aspx | 2026-10-25 (Discovery; keine neuen confirmten Kandidaten) |
@@ -113,6 +113,12 @@
 
 ---
 
+## Lauf 2026-11-21 — DTU-Lückenliste: 8 Neuanlagen
+
+Fokus-Set 20/20 unverändert, alle mit Tiefenfeldern. `dtu-calendar-diff.mjs`: 162 Einträge, 25 MISSING. 8 DE-Events als `-2027` aus DTU-Detailseiten angelegt: Dirty Race Murr, mz3athlon Steinheim, Super-Cross-Sprint Merzig, Velburger Kirchweihtriathlon (40.), Swim and Run Forchheim, Indersdorfer Swim & Run, Bonner Swimathlon (keine funktionierende Veranstalter-URL, ssf-bonn-triathlon.de/swimathlon 404), Benefiz-Triathlon Gerlebogk. Gebühren/Fristen offen (Veranstalterseiten nicht ausgewertet). Noch MISSING: Frankfurter Nikolaus-Duathlon (05.12.2026, Saison 2026, niedriger Wert), Hannover 96 Young Swim&Run, Coburg S&R, SCI Schenefeld (zwei Termine 05./06.06.), Bad Waldsee, Kelheim Inklusion, JTFO, Harzflow, Herrenkoog, Salzgitter (zwei Termine), ENDURR, Saarland-Staffel, DM-Einträge, neuseenMAN (2028). Build grün.
+
+---
+
 ## Lauf 2026-11-19 — DTU-Lückenliste: 9 Datensätze
 
 Fokus-Set 20/20 unverändert (alle mit Tiefenfeldern, Script ohne Änderung). `dtu-calendar-diff.mjs`: 160 Einträge, 31 MISSING. 9 DE-Events als `-2027` angelegt bzw. aktualisiert (DTU-Detailseiten, bei Heidenheim und Biosphärentriathlon zusätzlich Veranstalterseite geprüft): Drachentriathlon Furth im Wald (bestehende geschätzte Datei auf 16.05. confirmed gehoben; Diff-Skript matcht sie wegen altem Datum nicht), Schluchsee, Würselen, Konstanz, Heidenheim (Anmeldung ab 06.12.2026), Powerman Alsdorf (EM), Biosphärentriathlon (Anmeldung offen seit 18.11.), Stackmann Altes Land, Iron Power Bauer Dranse (Koordinaten ungefähr). Gebühren/Fristen offen. Build grün (567 Seiten). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
@@ -122,17 +128,5 @@ Fokus-Set 20/20 unverändert (alle mit Tiefenfeldern, Script ohne Änderung). `d
 ## Lauf 2026-11-17 — DTU-Lückenliste: 8 Neuanlagen
 
 Fokus-Set 20/20 unverändert, alle mit Tiefenfeldern. `dtu-calendar-diff.mjs`: 154 Einträge, 35 MISSING. 8 DE-Events als `-2027` aus DTU-Detailseiten angelegt (Datum, Distanzen, Veranstalter, Planteilnehmer): Dalkeman Gütersloh, Bärentriathlon Bad Zwischenahn (21.–22.08.), Hückeswagen, Arendsee, Meerenergie Bokeloh (Swim 500/700 m bei DTU uneinheitlich), Eifeler Crossduathlon, Berliner Powersprint (Ort ungefähr), Altmark-Triathlon (Koordinate ungefähr). Veranstalterseiten selbst nicht geöffnet, Gebühren/Fristen offen. Noch MISSING: Frankfurter Nikolaus-Duathlon, Bonner Swimathlon, Hannover 96 Swim&Run, Coburg, Indersdorf, Forchheim S&R, Konstanz, Bad Waldsee, Heidenheim, Powerman Alsdorf, Stackmann, SCI Schenefeld, Merzig, Biosphärentriathlon, Harzflow, Herrenkoog, Salzgitter, Gerlebogk, ENDURR, Saarland-Staffel, neuseenMAN (2028), DM-Einträge. Build grün (559 Seiten). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
-
----
-
-## Lauf 2026-11-15 — DTU-Lückenliste: 12 Neuanlagen
-
-`dtu-calendar-diff.mjs`: 134 Einträge ab heute, 35 MISSING. 12 DE-Events als `-2027` angelegt (Datum, Distanzen, Veranstalter und geplante Teilnehmerzahlen aus dem DTU-Eintrag, Veranstalterseite als websiteUrl, bei Drensteinfurt/Norderstedt/Churfranken/Kornwestheim/Elbe-Triathlon Termin oder Ausgabe auf der Veranstalterseite gegengeprüft): Deggendorf, Elbe-Triathlon Hamburg, Churfranken Niedernberg, Kanal-Triathlon Rendsburg, Bibermann Bleckede, Wemding Waldsee, Drensteinfurt, LSV Wolfenbüttel, Mettmanner Duathlon, Kornwestheim, Norderstedt, Kratschmayer Waldenburg. Fokus-Set 20/20 unverändert (alle mit Tiefenfeldern). Build grün (551 Seiten). Noch offen: Gebühr/Frist dieser 12 (Veranstalterseiten nennen sie noch nicht). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
-
----
-
-## Lauf 2026-11-13 — Kurzlauf: Fokus-Check, ÖTRV/DTU-Scan
-
-Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027: keine ABGESAGT. DTU-Kalender lieferte heute trotz Datumsfilter nur Einträge von 2021 (Seite offenbar defekt/gecacht) → kein verwertbarer Scan, nächsten Lauf erneut versuchen. Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
 
 ---
