@@ -1,0 +1,29 @@
+{
+  "id": "bad-waldseer-lauffieber-2027",
+  "name": "Bad Waldseer Lauffieber",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Waldsee",
+    "lat": 47.9206,
+    "lng": 9.7506,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "https://www.badwaldseer-lauffieber.de",
+  "description": "Das Bad Waldseer Lauffieber ist ein Swim&Run in Bad Waldsee in Oberschwaben und steht für den 8. Mai 2027 im DTU-Kalender, es ist die 25. Ausgabe. Gestartet wird im Einzelwettkampf über 0,4 km Schwimmen und 4,5 km Laufen. Eine der beiden Wertungen läuft als Landesmeisterschaft, die DTU nennt dafür 40 Teilnehmer, für die zweite Wertung 50. Veranstalter ist der Verein Lauffieber Bad Waldsee (Genehmigung 01-27-08-07110). Anmeldung und Gebühr stehen auf der Veranstalterseite.",
+  "distanceKm": 4.9,
+  "distances": [
+    {
+      "name": "Swim&Run",
+      "km": 4.9,
+      "split": "0,4 km Schwimmen / 4,5 km Laufen"
+    }
+  ]
+}

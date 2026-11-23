@@ -1,0 +1,29 @@
+{
+  "id": "kelheimer-inklusions-triathlon-2027",
+  "name": "Kelheimer Inklusions-Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kelheim",
+    "lat": 48.9167,
+    "lng": 11.8667,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://inklusiver-triathlon.donau-gymnasium.de/",
+  "description": "Der Kelheimer Inklusions-Triathlon wird vom Donau-Gymnasium Kelheim ausgerichtet und findet am 22. Juni 2027 zum dritten Mal statt. Menschen mit und ohne Behinderung starten gemeinsam über eine kurze Distanz mit 0,2 km Schwimmen, 4 km Radfahren und 1,2 km Laufen. Die DTU plant mit 300 Teilnehmern (Genehmigung 02-27-01-07183). Die Veranstaltung ist ein Schul- und Breitensportformat, kein Wettkampf mit Zeitnahme auf Leistungsniveau. Details zur Anmeldung stehen auf der Seite des Gymnasiums.",
+  "distanceKm": 5.4,
+  "distances": [
+    {
+      "name": "Inklusions-Triathlon",
+      "km": 5.4,
+      "split": "0,2 km / 4 km / 1,2 km"
+    }
+  ]
+}

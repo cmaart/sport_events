@@ -1,0 +1,46 @@
+{
+  "id": "sassenberger-triathlon-2027",
+  "name": "Sassenberger Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-01",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Sassenberg",
+    "lat": 51.9906,
+    "lng": 8.0436,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://sassenbergertriathlon.de/de/home",
+  "description": "Der Sassenberger Triathlon der Triathlonabteilung des VfL Sassenberg 1926 findet am 1. August 2027 zum 39. Mal im Münsterland statt. Das Angebot reicht von der Sprintdistanz (0,7 km, 23 km, 5 km) über die Kurzdistanz (1,5 km, 44 km, 10 km) und eine 67-km-Radstrecke mit 1,7 km Schwimmen und 15 km Laufen bis zur Mitteldistanz mit 1,9 km Schwimmen, 89 km Radfahren und 20 km Laufen. Die DTU plant mit insgesamt rund 1.400 Teilnehmern, davon 600 auf der Sprintdistanz und 200 auf der Mitteldistanz. Genehmigung 10-27-01-07095.",
+  "distanceKm": 110.9,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 110.9,
+      "split": "1,9 km / 89 km / 20 km"
+    },
+    {
+      "name": "Zwischendistanz",
+      "km": 83.7,
+      "split": "1,7 km / 67 km / 15 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 55.5,
+      "split": "1,5 km / 44 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 28.7,
+      "split": "0,7 km / 23 km / 5 km"
+    }
+  ]
+}

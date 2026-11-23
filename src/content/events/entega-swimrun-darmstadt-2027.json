@@ -1,0 +1,29 @@
+{
+  "id": "entega-swimrun-darmstadt-2027",
+  "name": "ENTEGA Swim&Run Darmstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-01-23",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Darmstadt",
+    "lat": 49.872,
+    "lng": 8.651,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.triathlon-darmstadt.de/events-specials/swimrun/",
+  "description": "Der ENTEGA Swim&Run in Darmstadt findet am 23. Januar 2027 zum 21. Mal statt und eröffnet die Wettkampfsaison der Deutschen Triathlon Union. Ausrichter ist der DSW 12 Darmstadt. Die Erwachsenen starten im Staffelwettkampf über 0,7 km Schwimmen und 5,5 km Laufen, dazu gibt es Läufe für Schüler und Jugend mit kürzeren Strecken. Die DTU plant mit 75 Teilnehmern je Wertung (Genehmigung 07-27-08-07102). Anmeldung und Gebühr stehen auf der Seite des Veranstalters.",
+  "distanceKm": 6.2,
+  "distances": [
+    {
+      "name": "Swim&Run Staffel",
+      "km": 6.2,
+      "split": "0,7 km Schwimmen / 5,5 km Laufen"
+    }
+  ]
+}

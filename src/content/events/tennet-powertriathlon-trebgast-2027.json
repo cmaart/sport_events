@@ -1,0 +1,40 @@
+{
+  "id": "tennet-powertriathlon-trebgast-2027",
+  "name": "TenneT POWERTRIATHLON Trebgast",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Trebgast",
+    "lat": 50.1,
+    "lng": 11.5,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://www.triathlon-trebgast.de",
+  "description": "Der TenneT POWERTRIATHLON in Trebgast bei Kulmbach wird vom ATS Kulmbach organisiert und steht für den 27. Juni 2027 im DTU-Kalender. Im Programm sind eine Kurzdistanz mit 1,5 km Schwimmen, 40 km Rad und 10 km Laufen (150 Einzelstarter, 30 Staffeln), eine Sprintdistanz mit 0,5 km, 20 km und 4,5 km (250 Einzelstarter, 50 Staffeln) sowie ein Supersprint mit 0,2 km, 10 km und 1,8 km für 50 Starter. Die Zahlen sind Planwerte aus der Genehmigung 02-27-01-07104. Anmeldung und Gebühr stehen beim Veranstalter.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25,
+      "split": "0,5 km / 20 km / 4,5 km"
+    },
+    {
+      "name": "Supersprint",
+      "km": 12,
+      "split": "0,2 km / 10 km / 1,8 km"
+    }
+  ]
+}

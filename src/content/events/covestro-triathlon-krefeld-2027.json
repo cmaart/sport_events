@@ -1,0 +1,40 @@
+{
+  "id": "covestro-triathlon-krefeld-2027",
+  "name": "Covestro Triathlon Krefeld",
+  "sport": "triathlon",
+  "categories": [
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-22",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Krefeld",
+    "lat": 51.3304,
+    "lng": 6.5984,
+    "region": "Nordrhein-Westfalen"
+  },
+  "websiteUrl": "https://www.krefeld05.de/de/eventlocation/events/covestro-triathlon/",
+  "description": "Der Covestro Triathlon des Sportclubs Krefeld 1905 steht für den 22. August 2027 im DTU-Kalender. Auf dem Programm stehen ein Supersprint (0,2 km, 10 km, 2,5 km), die Sprintdistanz mit 0,5 km Schwimmen, 20 km Rad und 5 km Laufen als Einzel- und Staffelwettkampf sowie die Kurzdistanz mit 1,5 km, 40 km und 10 km. Die DTU rechnet mit rund 600 Einzelstartern auf der Sprintdistanz und 400 auf der Kurzdistanz, dazu kommen Läufe für Jugend und Schüler. Genehmigung 10-27-01-07047. Anmeldung und Gebühr stehen beim SC Krefeld.",
+  "distanceKm": 51.5,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    },
+    {
+      "name": "Supersprint",
+      "km": 12.7,
+      "split": "0,2 km / 10 km / 2,5 km"
+    }
+  ]
+}

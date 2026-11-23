@@ -1,0 +1,29 @@
+{
+  "id": "sci-triathlon-schenefeld-2027",
+  "name": "SCI Triathlon Schenefeld",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schenefeld",
+    "lat": 53.9608,
+    "lng": 9.5372,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://www.sci-triathlon.de",
+  "description": "Der SCI Triathlon des SC Itzehoe findet am 5. Juni 2027 in Schenefeld (Kreis Steinburg) zum 18. Mal statt. Gestartet wird über die Sprintdistanz mit 0,75 km Schwimmen, 18 km Rad und 5 km Laufen. Am Samstag laufen mehrere Wertungen parallel: Landesliga mit bis zu 200 Startern, Regionalliga mit 150 und die DTU 2. Triathlon Bundesliga mit 160 Startern. Der DTU-Kalender führt für den Folgetag, 6. Juni 2027, einen zweiten Eintrag, dessen Inhalt auf der Veranstalterseite zu prüfen ist. Genehmigung 15-27-01-07059.",
+  "distanceKm": 23.75,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 23.75,
+      "split": "0,75 km / 18 km / 5 km"
+    }
+  ]
+}

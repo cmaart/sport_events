@@ -1507,3 +1507,9 @@ Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027 
 Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027: keine ABGESAGT. DTU-Kalender lieferte heute trotz Datumsfilter nur Einträge von 2021 (Seite offenbar defekt/gecacht) → kein verwertbarer Scan, nächsten Lauf erneut versuchen. Nicht erledigt: ironman.com, Aggregatoren, Neuanlagen.
 
 ---
+
+## Lauf 2026-11-17 — DTU-Lückenliste: 8 Neuanlagen
+
+Fokus-Set 20/20 unverändert, alle mit Tiefenfeldern. `dtu-calendar-diff.mjs`: 154 Einträge, 35 MISSING. 8 DE-Events als `-2027` aus DTU-Detailseiten angelegt (Datum, Distanzen, Veranstalter, Planteilnehmer): Dalkeman Gütersloh, Bärentriathlon Bad Zwischenahn (21.–22.08.), Hückeswagen, Arendsee, Meerenergie Bokeloh (Swim 500/700 m bei DTU uneinheitlich), Eifeler Crossduathlon, Berliner Powersprint (Ort ungefähr), Altmark-Triathlon (Koordinate ungefähr). Veranstalterseiten selbst nicht geöffnet, Gebühren/Fristen offen. Noch MISSING: Frankfurter Nikolaus-Duathlon, Bonner Swimathlon, Hannover 96 Swim&Run, Coburg, Indersdorf, Forchheim S&R, Konstanz, Bad Waldsee, Heidenheim, Powerman Alsdorf, Stackmann, SCI Schenefeld, Merzig, Biosphärentriathlon, Harzflow, Herrenkoog, Salzgitter, Gerlebogk, ENDURR, Saarland-Staffel, neuseenMAN (2028), DM-Einträge. Build grün (559 Seiten). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
+
+---

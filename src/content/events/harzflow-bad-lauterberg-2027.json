@@ -1,0 +1,29 @@
+{
+  "id": "harzflow-bad-lauterberg-2027",
+  "name": "Harzflow",
+  "sport": "triathlon",
+  "categories": [
+    "Cross-Triathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-24",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Bad Lauterberg im Harz",
+    "lat": 51.6386,
+    "lng": 10.4742,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://harzflow.de",
+  "description": "Harzflow ist ein Cross-Triathlon in Bad Lauterberg im Südharz und steht für den 24. und 25. Juli 2027 im Kalender der Deutschen Triathlon Union. Die Strecke über die Sprintdistanz umfasst 0,6 km Schwimmen, 20 km Mountainbike und 5,5 km Trailrun, die DTU plant mit 100 Teilnehmern. Der Wettkampf zählt zur Landesliga. Veranstalter sind Muschinsky und Holzvoigt (Genehmigung 09-27-02-07027). Anmeldung, Gebühr und die genaue Zuordnung der beiden Tage stehen auf harzflow.de.",
+  "distanceKm": 26.1,
+  "distances": [
+    {
+      "name": "Cross-Triathlon Sprint",
+      "km": 26.1,
+      "split": "0,6 km / 20 km / 5,5 km"
+    }
+  ]
+}
