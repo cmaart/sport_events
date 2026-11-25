@@ -1,0 +1,41 @@
+{
+  "id": "endurr-flowing-harz-2027",
+  "name": "ENDURR Flowing Harz",
+  "sport": "triathlon",
+  "categories": [
+    "Mitteldistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-04",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Langelsheim",
+    "lat": 51.9314,
+    "lng": 10.3447,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "http://www.endurr.de",
+  "description": "ENDURR Flowing Harz ist ein Triathlon-Wochenende mit Festivalcharakter an der Innerstetalsperre bei Langelsheim im Harz. Am 4. September 2027 starten die Sprintdistanz (750 m, 23 km, 5 km) und die Kurzdistanz (1,5 km, 41 km, 10 km), am 5. September folgt die Mitteldistanz mit 1,9 km Schwimmen, 64 km Radfahren und 20,4 km Laufen. Pro Distanz sind bis zu 150 Starter vorgesehen. Der Veranstalter Nine Sub 9 / Ten Sub 10 setzt auf gemeinsames Erleben statt auf Bestzeiten, jeder bestimmt das eigene Tempo. Genehmigungsnummer 09-27-01-06872.",
+  "distanceKm": 86.3,
+  "distances": [
+    {
+      "name": "Mitteldistanz",
+      "km": 86.3,
+      "split": "1,9 km / 64 km / 20,4 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 52.5,
+      "split": "1,5 km / 41 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 28.8,
+      "split": "0,75 km / 23 km / 5 km"
+    }
+  ]
+}

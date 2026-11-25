@@ -1,0 +1,29 @@
+{
+  "id": "citytriathlon-backnang-2027",
+  "name": "Citytriathlon Backnang",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Backnang",
+    "lat": 48.9456,
+    "lng": 9.4309,
+    "region": "Baden-Württemberg"
+  },
+  "websiteUrl": "http://citytriathlonbacknang.de",
+  "description": "Der Triathlonclub Backnang lädt am Sonntag, 9. Mai 2027, zum 16. Citytriathlon Backnang ein. Die Sprintdistanz umfasst 600 m Schwimmen, 20 km Radfahren und 5 km Laufen und wird auch als Staffel angeboten; die DTU rechnet mit etwa 400 Einzelstartern. Jugend A startet auf derselben Strecke, Jugend B und die Schülerklassen absolvieren kürzere Distanzen von 50 bis 200 m Schwimmen. Laut Veranstalterseite öffnet die Online-Anmeldung Mitte Dezember 2026. Der Wettkampf zählt zu einer Serie, Genehmigungsnummer 01-27-01-07023.",
+  "distanceKm": 25.6,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.6,
+      "split": "0,6 km / 20 km / 5 km"
+    }
+  ]
+}

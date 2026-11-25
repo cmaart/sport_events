@@ -1,0 +1,29 @@
+{
+  "id": "brawo-triathlon-salzgitter-2027",
+  "name": "BraWo Triathlon Salzgitter",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-08",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Salzgitter",
+    "lat": 52.0845,
+    "lng": 10.3436,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "https://www.triathlon-salzgitter.de/",
+  "description": "Die Triathlon-Sparte des SV Glück Auf 1901 Gebhardshagen veranstaltet den BraWo Triathlon in Salzgitter am 8. August 2027. Auf dem Programm steht die Sprintdistanz mit 750 m Schwimmen, 20 km Radfahren und 5 km Laufen, wahlweise als Einzel oder als Staffel. Die DTU rechnet mit rund 350 Einzelstartern und 200 Staffelteilnehmern. Der Wettkampf ist Teil einer Serie, in der auch die Landesliga Niedersachsen läuft, in der die Gebhardshagener Triathleten seit 2022 starten. Genehmigungsnummer 09-27-01-07060.",
+  "distanceKm": 25.8,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.8,
+      "split": "0,75 km / 20 km / 5 km"
+    }
+  ]
+}

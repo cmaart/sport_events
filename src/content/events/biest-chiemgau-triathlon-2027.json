@@ -1,0 +1,41 @@
+{
+  "id": "biest-chiemgau-triathlon-2027",
+  "name": "BIEST Chiemgau Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Langdistanz",
+    "Olympische Distanz",
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-19",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Chieming",
+    "lat": 47.8861,
+    "lng": 12.5392,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://biest-triathlon.de/",
+  "description": "Der TSV Chieming bringt den BIEST Chiemgau Triathlon am 19. Juni 2027 unter dem Motto „Chiemgau Triathlon Reloaded“ an den Chiemsee zurück. Es gibt drei Distanzen: die Langdistanz mit 3 km Schwimmen, 120 km Radfahren und 30 km Laufen, die Kurzdistanz mit 1,5 km, 40 km und 10 km sowie die Sprintdistanz mit 500 m, 20 km und 5 km. Alle drei sind auch als Staffel möglich. Die DTU plant mit jeweils bis zu 500 Einzelstartern pro Distanz. Die Anmeldung startet laut Veranstalter am 14. November 2026. Genehmigungsnummer 02-27-01-07142.",
+  "distanceKm": 153,
+  "distances": [
+    {
+      "name": "Langdistanz",
+      "km": 153,
+      "split": "3 km / 120 km / 30 km"
+    },
+    {
+      "name": "Kurzdistanz",
+      "km": 51.5,
+      "split": "1,5 km / 40 km / 10 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
+}

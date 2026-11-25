@@ -1,0 +1,29 @@
+{
+  "id": "staffel-triathlon-saarland-lebach-2027",
+  "name": "Staffel-Triathlon des Saarlandes",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-09-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Lebach",
+    "lat": 49.4107,
+    "lng": 6.9136,
+    "region": "Saarland"
+  },
+  "websiteUrl": "http://www.ltf-theeltal.de",
+  "description": "Der LTF Theeltal organisiert am 11. September 2027 in Lebach den Staffel-Triathlon des Saarlandes. Die Staffeln teilen sich eine Supersprintstrecke mit 200 m Schwimmen, 16 km Radfahren und 5 km Laufen, bei der jeweils drei Starter eine Disziplin übernehmen. Die DTU plant mit rund 200 Teilnehmern. Das Format eignet sich besonders für Vereine, Firmenteams und Einsteiger, die ihre erste Disziplin gemeinsam mit Freunden bestreiten möchten. Genehmigungsnummer 12-27-01-07065.",
+  "distanceKm": 21.2,
+  "distances": [
+    {
+      "name": "Supersprint-Staffel",
+      "km": 21.2,
+      "split": "0,2 km / 16 km / 5 km"
+    }
+  ]
+}

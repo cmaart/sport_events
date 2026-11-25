@@ -1,0 +1,30 @@
+{
+  "id": "barockstadt-fulda-triathlon-2027",
+  "name": "Barockstadt Fulda Triathlon & Swim&Run",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-09",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Fulda",
+    "lat": 50.5558,
+    "lng": 9.6808,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://www.wff.de/",
+  "description": "Der SC Wasserfreunde 1923 Fulda veranstaltet am 9. Mai 2027 den 15. Barockstadt Fulda Triathlon, ergänzt um den 3. Junior Swim&Run. Die Sprintdistanz führt über 500 m Schwimmen, 20 km Radfahren und 5 km Laufen und ist als Einzel und als Staffel buchbar. Für Einsteiger gibt es eine Kurzvariante mit 500 m Schwimmen und 20 km Radfahren ohne Laufen. Der Nachwuchs startet in den Schülerklassen D bis A mit Schwimmstrecken von 50 bis 200 m, kombiniert mit Laufen oder Radfahren. Die DTU plant mit rund 250 Einzelstartern auf der Sprintdistanz. Genehmigungsnummer 07-27-01-06987.",
+  "distanceKm": 25.5,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.5,
+      "split": "0,5 km / 20 km / 5 km"
+    }
+  ]
+}

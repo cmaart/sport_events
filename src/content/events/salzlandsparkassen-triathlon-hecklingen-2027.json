@@ -1,0 +1,35 @@
+{
+  "id": "salzlandsparkassen-triathlon-hecklingen-2027",
+  "name": "Salzlandsparkassen-Triathlon Hecklingen",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz",
+    "Olympische Distanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-28",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hecklingen",
+    "lat": 51.8742,
+    "lng": 11.4333,
+    "region": "Sachsen-Anhalt"
+  },
+  "websiteUrl": "http://gaensefurther-sportbewegung.de",
+  "description": "Die Gänsefurther Sportbewegung richtet am 28. August 2027 in Hecklingen den 9. Salzlandsparkassen-Triathlon aus. Angeboten werden die Sprintdistanz mit 500 m Schwimmen, 19 km Radfahren und 4,5 km Laufen, auch als Staffel, und die Kurzdistanz mit 1,5 km, 43 km und 9,5 km. Die Kurzdistanz ist als Wertungslauf der Landesliga ausgeschrieben. Die DTU rechnet mit rund 100 Sprint-Einzelstartern, 50 Staffeln und 150 Startern auf der Kurzdistanz. Genehmigungsnummer 14-27-01-07208.",
+  "distanceKm": 54.0,
+  "distances": [
+    {
+      "name": "Kurzdistanz",
+      "km": 54.0,
+      "split": "1,5 km / 43 km / 9,5 km"
+    },
+    {
+      "name": "Sprintdistanz",
+      "km": 24.0,
+      "split": "0,5 km / 19 km / 4,5 km"
+    }
+  ]
+}

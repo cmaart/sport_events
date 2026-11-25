@@ -1,0 +1,29 @@
+{
+  "id": "goldener-hut-triathlon-schifferstadt-2027",
+  "name": "Triathlon „Goldener Hut“ Schifferstadt",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-05-02",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Schifferstadt",
+    "lat": 49.3844,
+    "lng": 8.3688,
+    "region": "Rheinland-Pfalz"
+  },
+  "websiteUrl": "http://www.triathlon-schifferstadt.de",
+  "description": "Der Leichtathletik Club Schifferstadt richtet den Triathlon „Goldener Hut“ am 2. Mai 2027 zum 19. Mal aus. Im Mittelpunkt steht die Sprintdistanz mit 400 m Schwimmen, 20 km Radfahren und 5 km Laufen, die auch als Staffel gewertet wird. Dazu gibt es Wettbewerbe für Schüler und Jugend mit angepassten Strecken, von 100 m Schwimmen und 2,5 km Radfahren bis zur Jugend A über die volle Sprintdistanz. Die DTU rechnet mit rund 300 Einzelstartern auf der Sprintdistanz und etwa 60 Staffeln. Die Ausschreibung für 2027 steht auf der Vereinsseite bereit. Genehmigungsnummer 11-27-01-06966.",
+  "distanceKm": 25.4,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.4,
+      "split": "0,4 km / 20 km / 5 km"
+    }
+  ]
+}
