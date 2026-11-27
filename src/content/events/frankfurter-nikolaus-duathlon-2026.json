@@ -1,0 +1,39 @@
+{
+  "id": "frankfurter-nikolaus-duathlon-2026",
+  "name": "29. Frankfurter Nikolaus Duathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2026-12-05",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Kelsterbach",
+    "lat": 50.0647,
+    "lng": 8.5333,
+    "region": "Hessen"
+  },
+  "websiteUrl": "https://triathlon.eintracht.de/wettkaempfe/nikolaus-duathlon/",
+  "description": "Seit 1993 ist der Nikolaus Duathlon der traditionelle Jahresabschluss der Triathlon-Abteilung von Eintracht Frankfurt, am 5. Dezember 2026 feiert er in Kelsterbach seine 29. Ausgabe. Gelaufen, geradelt und wieder gelaufen wird in einem zusammenhängenden Wettkampf. Die lange Xtra-Distanz, die auch als Staffel gewertet wird, besteht aus 5 km Laufen, 30 km Radfahren und 5 km Laufen. Die Light-Strecke und Jugend A absolvieren 2 km, 10 km und 2 km. Für Jugend B und Schüler A sind 2 km, 5 km und 1 km vorgesehen, Schüler B laufen 1 km, radeln 5 km und laufen 0,4 km, für Schüler C und D gibt es kürzere Formate bis hinunter zu 0,2 km Laufen und 1 km Radfahren. Die DTU plant bei der Xtra-Distanz mit rund 200 Startern, bei der Light-Distanz mit etwa 100.",
+  "distanceKm": 40,
+  "distances": [
+    {
+      "name": "Xtra / Staffel",
+      "km": 40,
+      "split": "5 km / 30 km / 5 km"
+    },
+    {
+      "name": "Light / Jugend A",
+      "km": 14,
+      "split": "2 km / 10 km / 2 km"
+    },
+    {
+      "name": "Jugend B / Schüler A",
+      "km": 8,
+      "split": "2 km / 5 km / 1 km"
+    }
+  ]
+}

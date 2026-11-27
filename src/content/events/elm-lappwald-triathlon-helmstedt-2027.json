@@ -1,0 +1,29 @@
+{
+  "id": "elm-lappwald-triathlon-helmstedt-2027",
+  "name": "37. Elm-Lappwald Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-08-21",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Helmstedt",
+    "lat": 52.2279,
+    "lng": 11.0105,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "http://www.triathlon-helmstedt.de/",
+  "description": "Der Elm-Lappwald Triathlon der Triathlon-Abteilung des TSV Germania Helmstedt wird am 21. August 2027 zum 37. Mal ausgetragen. Es gibt eine Sprintdistanz mit 0,6 km Schwimmen, 20 km Radfahren und 5 km Laufen, die als Einzelwettkampf in der Verbandsliga gewertet wird und auch als Staffel offen ist. Die DTU plant mit rund 180 Teilnehmenden im Einzel, 30 Staffeln und einem zweiten Sprintlauf mit etwa 200 Startern. Der Verein veranstaltet in Helmstedt außerdem einen Crossduathlon, auf der Vereinsseite stehen Ausschreibung, Streckenprofile und Zeitplan.",
+  "distanceKm": 25.6,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.6,
+      "split": "0,6 km / 20 km / 5 km"
+    }
+  ]
+}

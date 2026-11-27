@@ -1,0 +1,34 @@
+{
+  "id": "rostocker-wg-triathlon-2027",
+  "name": "42. Neue Rostocker WG Triathlon",
+  "sport": "triathlon",
+  "categories": [
+    "Sprintdistanz"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-07-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Rostock",
+    "lat": 54.0887,
+    "lng": 12.1405,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.tc-fiko.de/events/rostocker-triathlon/",
+  "description": "Der Rostocker Triathlon des TC FIKO Rostock e.V. findet am 11. Juli 2027 als 42. Neue Rostocker Wohnungsgenossenschaft Triathlon statt, die 41. Ausgabe lief 2026 mit hunderten Teilnehmenden. Im Programm stehen die Sprintdistanz mit 0,75 km Schwimmen, 20 km Radfahren und 5 km Laufen für Einzelstarter und Staffeln sowie eine Supersprintdistanz mit 0,4 km, 10 km und 2,5 km. Der Wettkampf dient zudem als Landesmeisterschaft für die Jugend A und B. Die DTU plant mit etwa 250 Sprintstartern, 30 Staffeln und 100 Supersprintstartern. Der Veranstalter ist der Verein TC FIKO Rostock.",
+  "distanceKm": 25.75,
+  "distances": [
+    {
+      "name": "Sprintdistanz",
+      "km": 25.75,
+      "split": "0,75 km / 20 km / 5 km"
+    },
+    {
+      "name": "Supersprint",
+      "km": 12.9,
+      "split": "0,4 km / 10 km / 2,5 km"
+    }
+  ]
+}

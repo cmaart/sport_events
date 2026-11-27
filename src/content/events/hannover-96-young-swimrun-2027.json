@@ -1,0 +1,39 @@
+{
+  "id": "hannover-96-young-swimrun-2027",
+  "name": "4. Hannover 96 YOUNG SWIM&RUN",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-02-27",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Hannover",
+    "lat": 52.3759,
+    "lng": 9.732,
+    "region": "Niedersachsen"
+  },
+  "websiteUrl": "http://www.hannover96.de/verein/abteilungen",
+  "description": "Die Triathlon-Abteilung von Hannover 96 veranstaltet am 27. Februar 2027 zum vierten Mal den YOUNG SWIM&RUN, einen Swim-and-Run-Wettkampf für Nachwuchs und Jugend. Die Streckenlängen wachsen mit dem Alter: Schüler D schwimmen 50 m und laufen 0,4 km, Schüler C 0,2 km und 1,5 km, die Junioren 18/19 schwimmen 0,5 km und laufen 3 km. Die DTU plant mit rund 30 Startern je Altersklasse. Der Termin liegt mitten im Winter und dient als frühe Standortbestimmung vor Beginn der Triathlonsaison. Eine eigene Ausschreibung war bei der Recherche nicht auffindbar, die Angaben stammen aus dem DTU-Eintrag (Genehmigungsnummer 09-27-08-06970).",
+  "distanceKm": 3.5,
+  "distances": [
+    {
+      "name": "Schüler D",
+      "km": 0.45,
+      "split": "0,05 km / 0,4 km"
+    },
+    {
+      "name": "Schüler C",
+      "km": 1.7,
+      "split": "0,2 km / 1,5 km"
+    },
+    {
+      "name": "Junioren 18/19",
+      "km": 3.5,
+      "split": "0,5 km / 3 km"
+    }
+  ]
+}

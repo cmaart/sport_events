@@ -1,0 +1,29 @@
+{
+  "id": "hallig-dreeathlon-langenhorn-2027",
+  "name": "Hallig-Dreeathlon Bike – Run – Swim – Run – Bike",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-06-11",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Langenhorn",
+    "lat": 54.7958,
+    "lng": 8.9389,
+    "region": "Schleswig-Holstein"
+  },
+  "websiteUrl": "https://my.raceresult.com/420460/",
+  "description": "Der Hallig-Dreeathlon des SV Enge-Sande wird am 11. Juni 2027 zum 20. Mal ausgetragen, die Anmeldeseite auf raceresult nennt diese Ausgabe und das Datum. Das Format ist ungewöhnlich: Es wird Rad gefahren, gelaufen, geschwommen, wieder gelaufen und noch einmal Rad gefahren, gewertet wird als Swim and Run mit 0,4 km Schwimmen und 10,6 km Laufen im DTU-Eintrag. Die DTU plant mit rund 130 Einzelstartern und 20 Staffeln. Austragungsort ist die nordfriesische Marschlandschaft bei Langenhorn an der Nordseeküste, die Wettkampfstrecken verlaufen im Umfeld der Halligen.",
+  "distanceKm": 11,
+  "distances": [
+    {
+      "name": "Einzel und Staffel (Swim and Run Anteil)",
+      "km": 11,
+      "split": "0,4 km / 10,6 km"
+    }
+  ]
+}

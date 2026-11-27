@@ -1,0 +1,29 @@
+{
+  "id": "osterduathlon-godern-2027",
+  "name": "Osterduathlon Godern",
+  "sport": "triathlon",
+  "categories": [
+    "Duathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-03-29",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Godern",
+    "lat": 53.669,
+    "lng": 11.466,
+    "region": "Mecklenburg-Vorpommern"
+  },
+  "websiteUrl": "https://www.triathlondeutschland.de/aktive/wettkaempfe/veranstaltungskalender/03-2027/osterduathlon",
+  "description": "Der Osterduathlon in Godern bei Schwerin ist ein Crossduathlon des Vereins Triathlon-Sport Schwerin e.V. und steht am Ostermontag, dem 29. März 2027, im Kalender der Deutschen Triathlon Union. Die Sprintdistanz besteht aus 2 km Laufen, 17 km Radfahren und erneut 2 km Laufen. Die DTU plant mit rund 140 Startern in der Wertung für Jedermann und Altersklassen. Der Termin ist damit einer der frühesten Wettkämpfe der Saison 2027 in Norddeutschland und eignet sich als Formtest vor den ersten Triathlons im Frühjahr. Eine eigene Veranstalterseite mit Ausschreibung war bei der Recherche nicht erreichbar, Datum und Distanzen stammen aus dem DTU-Eintrag (Genehmigungsnummer 08-27-04-07173).",
+  "distanceKm": 21,
+  "distances": [
+    {
+      "name": "Sprintdistanz Crossduathlon",
+      "km": 21,
+      "split": "2 km / 17 km / 2 km"
+    }
+  ]
+}

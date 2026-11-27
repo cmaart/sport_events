@@ -1513,3 +1513,15 @@ Fokus-Set 20/20 unverändert (DE 13 / AT 7), alle mit Tiefenfeldern. ÖTRV-2027:
 Fokus-Set 20/20 unverändert, alle mit Tiefenfeldern. `dtu-calendar-diff.mjs`: 154 Einträge, 35 MISSING. 8 DE-Events als `-2027` aus DTU-Detailseiten angelegt (Datum, Distanzen, Veranstalter, Planteilnehmer): Dalkeman Gütersloh, Bärentriathlon Bad Zwischenahn (21.–22.08.), Hückeswagen, Arendsee, Meerenergie Bokeloh (Swim 500/700 m bei DTU uneinheitlich), Eifeler Crossduathlon, Berliner Powersprint (Ort ungefähr), Altmark-Triathlon (Koordinate ungefähr). Veranstalterseiten selbst nicht geöffnet, Gebühren/Fristen offen. Noch MISSING: Frankfurter Nikolaus-Duathlon, Bonner Swimathlon, Hannover 96 Swim&Run, Coburg, Indersdorf, Forchheim S&R, Konstanz, Bad Waldsee, Heidenheim, Powerman Alsdorf, Stackmann, SCI Schenefeld, Merzig, Biosphärentriathlon, Harzflow, Herrenkoog, Salzgitter, Gerlebogk, ENDURR, Saarland-Staffel, neuseenMAN (2028), DM-Einträge. Build grün (559 Seiten). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
 
 ---
+
+## Lauf 2026-11-21 — DTU-Lückenliste: 8 Neuanlagen
+
+Fokus-Set 20/20 unverändert, alle mit Tiefenfeldern. `dtu-calendar-diff.mjs`: 162 Einträge, 25 MISSING. 8 DE-Events als `-2027` aus DTU-Detailseiten angelegt: Dirty Race Murr, mz3athlon Steinheim, Super-Cross-Sprint Merzig, Velburger Kirchweihtriathlon (40.), Swim and Run Forchheim, Indersdorfer Swim & Run, Bonner Swimathlon (keine funktionierende Veranstalter-URL, ssf-bonn-triathlon.de/swimathlon 404), Benefiz-Triathlon Gerlebogk. Gebühren/Fristen offen (Veranstalterseiten nicht ausgewertet). Noch MISSING: Frankfurter Nikolaus-Duathlon (05.12.2026, Saison 2026, niedriger Wert), Hannover 96 Young Swim&Run, Coburg S&R, SCI Schenefeld (zwei Termine 05./06.06.), Bad Waldsee, Kelheim Inklusion, JTFO, Harzflow, Herrenkoog, Salzgitter (zwei Termine), ENDURR, Saarland-Staffel, DM-Einträge, neuseenMAN (2028). Build grün.
+
+---
+
+## Lauf 2026-11-19 — DTU-Lückenliste: 9 Datensätze
+
+Fokus-Set 20/20 unverändert (alle mit Tiefenfeldern, Script ohne Änderung). `dtu-calendar-diff.mjs`: 160 Einträge, 31 MISSING. 9 DE-Events als `-2027` angelegt bzw. aktualisiert (DTU-Detailseiten, bei Heidenheim und Biosphärentriathlon zusätzlich Veranstalterseite geprüft): Drachentriathlon Furth im Wald (bestehende geschätzte Datei auf 16.05. confirmed gehoben; Diff-Skript matcht sie wegen altem Datum nicht), Schluchsee, Würselen, Konstanz, Heidenheim (Anmeldung ab 06.12.2026), Powerman Alsdorf (EM), Biosphärentriathlon (Anmeldung offen seit 18.11.), Stackmann Altes Land, Iron Power Bauer Dranse (Koordinaten ungefähr). Gebühren/Fristen offen. Build grün (567 Seiten). Nicht erledigt: ironman.com, Aggregatoren, ÖTRV-Scan.
+
+---

@@ -1,0 +1,34 @@
+{
+  "id": "swim-and-run-coburg-2027",
+  "name": "5. Swim and Run TV1848 Coburg",
+  "sport": "triathlon",
+  "categories": [
+    "Aquathlon"
+  ],
+  "country": "DE",
+  "dates": {
+    "start": "2027-03-06",
+    "confirmed": true
+  },
+  "location": {
+    "name": "Coburg",
+    "lat": 50.2612,
+    "lng": 10.9627,
+    "region": "Bayern"
+  },
+  "websiteUrl": "https://triathlon.tv1848coburg.de/homepage/swim-and-run-25/",
+  "description": "Der TV 1848 Coburg richtet am 6. März 2027 zum fünften Mal sein Swim and Run aus, ein Hallenbad-Wettkampf aus Schwimmen und Laufen. Für den Nachwuchs sind gestaffelte Strecken vorgesehen: Schüler D schwimmen 50 m und laufen 0,2 km, Schüler C und B jeweils 100 m und 0,4 km, höhere Altersklassen längere Distanzen. Die DTU plant mit rund 20 Startern je Altersklasse. Das Rennen eröffnet im Frühjahr die Wettkampfsaison der Region Oberfranken. Details zur Ausschreibung stehen auf der Triathlon-Seite des Vereins, Distanzen für Erwachsene waren bei der Recherche nicht eindeutig einsehbar.",
+  "distanceKm": 0.5,
+  "distances": [
+    {
+      "name": "Schüler D",
+      "km": 0.25,
+      "split": "0,05 km / 0,2 km"
+    },
+    {
+      "name": "Schüler C",
+      "km": 0.5,
+      "split": "0,1 km / 0,4 km"
+    }
+  ]
+}
